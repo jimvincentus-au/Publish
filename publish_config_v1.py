@@ -18,6 +18,6 @@ STEP3_WEEKS_DIR: Path = STEP3_ROOT / "Weeks"
 SUBSTACK_OUTPUT_DIR: Path = PUBLISH_ROOT / "Output" / "Substack"
 SCRIVENER_OUTPUT_DIR: Path = PUBLISH_ROOT / "Output" / "Scrivener"
 PUBLISH_LOGS_DIR: Path = PUBLISH_ROOT / "Logs"
-
+PUBLISH_IMAGES_DIR: Path = PUBLISH_ROOT / "Images"   # ← NEW
 # Timezone for publish timestamps
 TZ_DEFAULT: str = "Australia/Brisbane"

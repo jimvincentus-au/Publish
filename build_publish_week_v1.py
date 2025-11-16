@@ -18,6 +18,7 @@ import argparse
 import json
 import logging
 import shutil
+import re
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Dict, Optional
@@ -155,6 +156,40 @@ def first_key(d: Dict[str, Any], keys: list[str], default: str = "") -> str:
         if isinstance(value, str) and value.strip():
             return value.strip()
     return default
+
+# Helper: Make a Scrivener-friendly filename based on week and metadata
+def make_scrivener_filename(week: int, meta: Dict[str, Any]) -> str:
+    """Return a Scrivener-friendly filename like 'Week 01 - Title'.
+
+    Falls back gracefully if metadata is missing or malformed.
+    """
+    raw_title = first_key(
+        meta,
+        [
+            "Title",
+            "title",
+            "scrivener_title",
+            "PostTitle",
+            "post_title",
+            "substack_title",
+        ],
+        default="",
+    ).strip()
+
+    # If the title already starts with "Week" (any case), keep it verbatim.
+    if raw_title and raw_title.lower().startswith("week "):
+        base = raw_title
+    elif raw_title:
+        base = f"Week {week:02d} - {raw_title}"
+    else:
+        base = f"Week {week:02d}"
+
+    # Scrivener is fine with spaces and punctuation, but we defensively
+    # clean out truly problematic filesystem characters.
+    base = re.sub(r"[\\/:*?\"<>|]", "-", base)
+    base = re.sub(r"\s+", " ", base).strip()
+
+    return base
 
 
 # Helper: Compute a week date range string from metadata
@@ -628,11 +663,10 @@ def build_appendix_from_json(path: Path) -> str:
                 else:
                     first_line = f"{idx}."
 
-                lines.append(first_line)
-
-                # Second line: indented one-line summary, if present
+                # Attach summary to first line if present
                 if summary:
-                    lines.append(f"   {summary}")
+                    first_line = f"{first_line}: {summary}"
+                lines.append(first_line)
 
                 # Optional URL on its own indented line
                 if url:
@@ -699,10 +733,10 @@ def build_appendix_from_json(path: Path) -> str:
                 else:
                     first_line = f"{idx}."
 
-                lines.append(first_line)
-
+                # Attach summary to first line if present
                 if summary:
-                    lines.append(f"   {summary}")
+                    first_line = f"{first_line}: {summary}"
+                lines.append(first_line)
                 if url:
                     lines.append(f"   {url}")
                 lines.append("")
@@ -896,21 +930,11 @@ def build_scrivener_markdown(
     week_date_range = get_week_date_range(meta)
     epigraphs = get_epigraphs(meta)
 
-    # Scrivener image placeholder: if we have a wide image, emit a binder image token
-    image_token = ""
-    if paths.image_wide is not None:
-        # Convention: image imported into Scrivener binder as "weekNN_wide"
-        image_token = f"<$img:week{week:02d}_wide>"
-
     lines: list[str] = []
     lines.append(f"# {display_title}")
     if subtitle:
         lines.append("")
         lines.append(f"*{subtitle}*")
-    # Hero image placeholder (if available) before epigraphs
-    if image_token:
-        lines.append("")
-        lines.append(image_token)
     if epigraphs:
         lines.append("")
         for ep in epigraphs:
@@ -1027,7 +1051,8 @@ def build_publish_week(week_number: int, force: bool = False, use_publish: bool 
     scrivener_dir = SCRIVENER_OUTPUT_DIR / f"Week {week_number}"
 
     substack_path = substack_dir / f"week{week_number:02d}_substack.md"
-    scrivener_path = scrivener_dir / f"week{week_number:02d}_scrivener.md"
+    scrivener_filename = make_scrivener_filename(week_number, metadata)
+    scrivener_path = scrivener_dir / f"{scrivener_filename}.md"
 
     # Scrivener companion files: synopsis and document notes
     long_synopsis = first_key(

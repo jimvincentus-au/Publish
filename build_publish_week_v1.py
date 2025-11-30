@@ -70,12 +70,15 @@ class WeekPaths:
     week_number: int
     week_dir: Path
     narrative_publish: Path
-    narrative_draft3: Path
+    narrative_final: Path        # NEW
+    narrative_draft3: Path       # legacy / optional
     metadata_json: Path
     appendix: Path
     image_wide: Optional[Path]
     image_prompt_wide: Optional[Path]
     image_prompt_square: Optional[Path]
+    weekly_brief: Optional[Path] = None
+    appendix_image_wide: Optional[Path] = None
 
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
@@ -99,7 +102,8 @@ def discover_week_paths(week_number: int) -> WeekPaths:
 
     week_dir = STEP3_WEEKS_DIR / week_label
     narrative_publish = week_dir / f"step5_narrative_{slug}_publish.txt"
-    narrative_draft3 = week_dir / f"step5_narrative_{slug}_draft3.txt"
+    narrative_final   = week_dir / f"step5_narrative_{slug}_final.txt"   # NEW
+    narrative_draft3  = week_dir / f"step5_narrative_{slug}_draft3.txt"  # legacy
     metadata_json = week_dir / f"metadata_stack_{slug}.json"
     appendix = week_dir / f"events_appendix_{slug}.json"
 
@@ -115,16 +119,29 @@ def discover_week_paths(week_number: int) -> WeekPaths:
     if not image_prompt_square.exists():
         image_prompt_square = None
 
+    # Add: weekly analytic brief JSON
+    weekly_brief = week_dir / f"weekly_analytic_brief_week{week_number}.json"
+    if not weekly_brief.exists():
+        weekly_brief = None
+
+    # Add: appendix wide image
+    appendix_image_wide = week_dir / f"image_wide_week{week_number}_appendix.png"
+    if not appendix_image_wide.exists():
+        appendix_image_wide = None
+
     return WeekPaths(
         week_number=week_number,
         week_dir=week_dir,
         narrative_publish=narrative_publish,
+        narrative_final=narrative_final,
         narrative_draft3=narrative_draft3,
         metadata_json=metadata_json,
         appendix=appendix,
         image_wide=image_wide,
         image_prompt_wide=image_prompt_wide,
         image_prompt_square=image_prompt_square,
+        weekly_brief=weekly_brief,
+        appendix_image_wide=appendix_image_wide,
     )
 
 
@@ -149,13 +166,13 @@ def load_metadata(path: Path) -> Dict[str, Any]:
         return {}
 
 
-
 def first_key(d: Dict[str, Any], keys: list[str], default: str = "") -> str:
     for k in keys:
         value = d.get(k)
         if isinstance(value, str) and value.strip():
             return value.strip()
     return default
+
 
 # Helper: Make a Scrivener-friendly filename based on week and metadata
 def make_scrivener_filename(week: int, meta: Dict[str, Any]) -> str:
@@ -217,6 +234,7 @@ def get_week_date_range(meta: Dict[str, Any]) -> str:
     if end:
         return end
     return ""
+
 
 # Helper: Extract epigraphs as a list of strings
 def get_epigraphs(meta: Dict[str, Any]) -> list[str]:
@@ -564,31 +582,6 @@ def build_appendix_from_json(path: Path) -> str:
     """
     Convert the events_appendix_weekNN.json structure into a categorized,
     human-readable Markdown appendix for the "Week Events" section.
-
-    Primary expected schema (v1):
-        {
-          "categories": [
-            {
-              "name": "Category Title",
-              "events": [
-                {
-                  "date": "...",
-                  "actor": "...",
-                  "action": "...",
-                  "summary_line": "...",
-                  "source": "...",
-                  "url": "..."
-                },
-                ...
-              ]
-            },
-            ...
-          ]
-        }
-
-    Fallbacks:
-      * If top-level is a list of events, group by a category/domain field.
-      * If schema is completely unknown, embed JSON for debugging.
     """
     ensure_exists(path, "week appendix (events_appendix JSON)")
     try:
@@ -607,7 +600,7 @@ def build_appendix_from_json(path: Path) -> str:
 
     lines: list[str] = []
 
-    # ── Primary case: top-level dict with "categories" ────────────────────────
+    # Primary case: top-level dict with "categories"
     if isinstance(data, dict) and isinstance(data.get("categories"), list):
         categories = data.get("categories") or []
         for cat in categories:
@@ -636,7 +629,6 @@ def build_appendix_from_json(path: Path) -> str:
                 source = ev_field(ev, ["source", "Source"])
                 url = ev_field(ev, ["url", "URL", "link", "Link"])
 
-                # First line: "1. Actor — action (date) (Source)"
                 label_parts: list[str] = []
                 if actor and action:
                     label_parts.append(f"{actor} {action}")
@@ -663,27 +655,23 @@ def build_appendix_from_json(path: Path) -> str:
                 else:
                     first_line = f"{idx}."
 
-                # Attach summary to first line if present
                 if summary:
                     first_line = f"{first_line}: {summary}"
                 lines.append(first_line)
 
-                # Optional URL on its own indented line
                 if url:
                     lines.append(f"   {url}")
 
-                lines.append("")  # blank line between events
+                lines.append("")
 
-            # Extra blank line between categories (will be trimmed later)
             lines.append("")
 
-        # Trim trailing blank lines
         while lines and not lines[-1].strip():
             lines.pop()
 
         return "\n".join(lines).rstrip()
 
-    # ── Fallback: top-level list of events, group by category/domain field ───
+    # Fallback: top-level list of events, group by category/domain field
     if isinstance(data, list):
         groups: Dict[str, list[Dict[str, Any]]] = {}
         for ev in data:
@@ -733,7 +721,6 @@ def build_appendix_from_json(path: Path) -> str:
                 else:
                     first_line = f"{idx}."
 
-                # Attach summary to first line if present
                 if summary:
                     first_line = f"{first_line}: {summary}"
                 lines.append(first_line)
@@ -746,15 +733,158 @@ def build_appendix_from_json(path: Path) -> str:
 
         return "\n".join(lines).rstrip()
 
-    # ── Last resort: unknown structure, embed JSON for inspection ────────────
+    # Last resort: unknown structure, embed JSON for inspection
     lines.append("```json")
     lines.append(json.dumps(data, indent=2, ensure_ascii=False))
     lines.append("```")
     return "\n".join(lines).rstrip()
 
 
-# ── Content assembly ──────────────────────────────────────────────────────────
+def build_appendix_plaintext_from_json(path: Path) -> str:
+    """
+    Convert the appendix markdown into a plaintext version:
+    - Strip markdown headings (##, ###)
+    - Remove fenced code block markers (```), but keep their contents
+    """
+    md = build_appendix_from_json(path)
+    logger.info("Converted appendix JSON at %s into plaintext appendix (%d characters)", path, len(md))
+    lines_in = md.splitlines()
+    lines_out: list[str] = []
+    in_code_block = False
 
+    for line in lines_in:
+        stripped = line.lstrip()
+        if stripped.startswith("```"):
+            in_code_block = not in_code_block
+            continue
+        if in_code_block:
+            lines_out.append(line)
+            continue
+        if stripped.startswith("### "):
+            lines_out.append(stripped[4:].strip())
+            continue
+        if stripped.startswith("## "):
+            lines_out.append(stripped[3:].strip())
+            continue
+        lines_out.append(line)
+
+    return "\n".join(lines_out).rstrip()
+
+
+# ── Content assembly helpers for appendix posts ──────────────────────────────
+
+
+def load_weekly_summary(paths: WeekPaths) -> str:
+    if paths.weekly_brief is None:
+        logger.warning(
+            "No weekly analytic brief JSON found for Week %s; appendix post will omit summary.",
+            paths.week_number,
+        )
+        return ""
+    try:
+        data = json.loads(paths.weekly_brief.read_text(encoding="utf-8"))
+    except Exception as exc:
+        logger.error(
+            "Failed to parse weekly analytic brief JSON at %s: %s",
+            paths.weekly_brief,
+            exc,
+        )
+        return ""
+    for key in ["summary", "Summary", "weekly_summary", "WeeklySummary"]:
+        val = data.get(key)
+        if isinstance(val, str) and val.strip():
+            return val.strip()
+    logger.warning(
+        "Weekly analytic brief JSON for Week %s does not contain a usable summary field.",
+        paths.week_number,
+    )
+    return ""
+
+
+def build_substack_appendix_markdown(
+    week: int,
+    summary: str,
+    appendix_text: str,
+    meta: Dict[str, Any],
+    paths: WeekPaths,
+) -> str:
+    """
+    Construct a Substack-ready appendix post:
+    - YAML header
+    - Title
+    - Optional subtitle
+    - Optional header image
+    - Weekly summary paragraph (if present)
+    - Week events text (plaintext)
+    """
+    base_title = first_key(
+        meta,
+        ["Title", "title", "substack_title", "PostTitle", "post_title"],
+        default="",
+    ).strip()
+    if base_title and not base_title.lower().startswith("week"):
+        display_title = f"Week {week} Appendix: {base_title}"
+    elif base_title:
+        display_title = f"Week {week} Appendix: {base_title}"
+    else:
+        display_title = f"Week {week} Appendix"
+
+    subtitle = first_key(
+        meta,
+        ["Subtitle", "subtitle", "FramingTitle", "framing_title"],
+        default="",
+    )
+    clock_time = first_key(
+        meta,
+        ["ClockTime", "clock_time", "Clock Time Reference"],
+        default="",
+    )
+    tags = meta.get("InternalTags") or meta.get("Tags") or []
+    if isinstance(tags, str):
+        tags = [t.strip() for t in tags.split(",") if t.strip()]
+    tags_str = ", ".join(str(t) for t in tags)
+    header_image_name = paths.appendix_image_wide.name if paths.appendix_image_wide is not None else ""
+
+    # YAML-style header
+    header_lines = [
+        "---",
+        f'title: "{display_title}"',
+    ]
+    if subtitle:
+        header_lines.append(f'subtitle: "{subtitle}"')
+    header_lines.append(f"week: {week}")
+    if clock_time:
+        header_lines.append(f'clock_time: "{clock_time}"')
+    if tags_str:
+        header_lines.append(f"tags: [{tags_str}]")
+    header_lines.append("---")
+    header_lines.append("")
+    header_lines.append("<!-- Generated by build_publish_week_v1 (appendix post) -->")
+    if header_image_name:
+        header_lines.append(f"<!-- Header image: {header_image_name} -->")
+    header_lines.append("")
+    header = "\n".join(header_lines)
+
+    parts: list[str] = []
+    parts.append(header)
+    parts.append(f"# {display_title}")
+    if subtitle:
+        parts.append("")
+        parts.append(f"*{subtitle}*")
+    if header_image_name:
+        parts.append("")
+        parts.append(f"![Header image]({header_image_name})")
+    parts.append("")
+    if summary.strip():
+        parts.append(summary.strip())
+        parts.append("")
+    if appendix_text.strip():
+        parts.append(appendix_text.rstrip())
+        parts.append("")
+    return "\n".join(parts) + "\n"
+
+
+# ── Content assembly for main posts/chapters ─────────────────────────────────
 
 
 def build_substack_markdown(
@@ -763,13 +893,10 @@ def build_substack_markdown(
     appendix: str,
     meta: Dict[str, Any],
     paths: WeekPaths,
+    include_appendix: bool = True,
 ) -> str:
     """
-    Construct Substack-ready Markdown.
-
-    We keep a YAML-style header for Substack metadata, and then render
-    a visible title, subtitle, epigraph blockquotes, the narrative body,
-    and finally the categorized Week Events appendix.
+    Construct Substack-ready Markdown for the main weekly article.
     """
 
     # Base title from metadata
@@ -871,16 +998,17 @@ def build_substack_markdown(
     parts.append(narrative.rstrip())
     parts.append("")
 
-    # Week events heading with optional date range
-    if week_date_range:
-        events_heading = f"## Week {week} Events ({week_date_range})"
-    else:
-        events_heading = f"## Week {week} Events"
+    # Optional Week Events appendix (disabled for main post in this pipeline)
+    if include_appendix and appendix.strip():
+        if week_date_range:
+            events_heading = f"## Week {week} Events ({week_date_range})"
+        else:
+            events_heading = f"## Week {week} Events"
 
-    parts.append(events_heading)
-    parts.append("")
-    parts.append(appendix.rstrip())
-    parts.append("")
+        parts.append(events_heading)
+        parts.append("")
+        parts.append(appendix.rstrip())
+        parts.append("")
 
     # Synopses for cross-posting, retained as comments
     if long_synopsis or short_synopsis or seo_description:
@@ -896,20 +1024,16 @@ def build_substack_markdown(
     return "\n".join(parts) + "\n"
 
 
-
 def build_scrivener_markdown(
     week: int,
     narrative: str,
     appendix: str,
     meta: Dict[str, Any],
     paths: WeekPaths,
+    include_appendix: bool = True,
 ) -> str:
     """
-    Construct a Scrivener-friendly version.
-
-    Scrivener can ingest Markdown just fine; here we use headings instead of YAML
-    and mirror the visible structure: Week N title, subtitle, epigraphs,
-    narrative, then Week Events.
+    Construct a Scrivener-friendly version of the main weekly chapter.
     """
 
     base_title = first_key(
@@ -944,13 +1068,63 @@ def build_scrivener_markdown(
     lines.append("")
     lines.append(narrative.rstrip())
     lines.append("")
-    if week_date_range:
-        lines.append(f"## Week {week} Events ({week_date_range})")
+
+    if include_appendix and appendix.strip():
+        if week_date_range:
+            lines.append(f"## Week {week} Events ({week_date_range})")
+        else:
+            lines.append(f"## Week {week} Events")
+        lines.append("")
+        lines.append(appendix.rstrip())
+        lines.append("")
+
+    return "\n".join(lines)
+
+
+# New function: build_scrivener_appendix_markdown
+def build_scrivener_appendix_markdown(
+    week: int,
+    summary: str,
+    appendix_plaintext: str,
+    meta: Dict[str, Any],
+) -> str:
+    """
+    Construct a Scrivener-friendly appendix chapter:
+    - Title heading
+    - Weekly summary paragraph (if present)
+    - Week Events heading
+    - Plaintext appendix contents
+    """
+    base_title = first_key(
+        meta,
+        ["Title", "title", "scrivener_title", "PostTitle", "post_title"],
+        default="",
+    ).strip()
+
+    if base_title and not base_title.lower().startswith("week "):
+        display_title = f"Week {week} Appendix: {base_title}"
+    elif base_title:
+        display_title = f"Week {week} Appendix: {base_title}"
     else:
-        lines.append(f"## Week {week} Events")
+        display_title = f"Week {week} Appendix"
+
+    week_date_range = get_week_date_range(meta)
+
+    lines: list[str] = []
+    lines.append(f"# {display_title}")
     lines.append("")
-    lines.append(appendix.rstrip())
-    lines.append("")
+    if summary.strip():
+        lines.append(summary.strip())
+        lines.append("")
+
+    if appendix_plaintext.strip():
+        if week_date_range:
+            lines.append(f"Week {week} Events ({week_date_range})")
+        else:
+            lines.append(f"Week {week} Events")
+        lines.append("")
+        lines.append(appendix_plaintext.rstrip())
+        lines.append("")
 
     return "\n".join(lines)
 
@@ -966,48 +1140,90 @@ def write_output(path: Path, content: str, force: bool) -> None:
     logger.info("Wrote %s", path)
 
 
-def build_publish_week(week_number: int, force: bool = False, use_publish: bool = False) -> None:
+def build_publish_week(
+    week_number: int,
+    force: bool = False,
+    use_publish: bool = False,
+    include_appendix: bool = True,
+) -> None:
     # Resolve Step 3 inputs
     paths = discover_week_paths(week_number)
     logger.info("Building publish outputs for Week %s from %s", week_number, paths.week_dir)
 
     ensure_exists(paths.week_dir, "week directory")
 
-    # Default: use _draft3 narrative.
+    # Default: use _final narrative.
     # If --use-publish is explicitly requested, prefer _publish when present.
-    if paths.narrative_draft3.exists() and not use_publish:
-        narrative_path = paths.narrative_draft3
-        logger.info(
-            "Using DRAFT3 narrative for Week %s (default; _publish ignored even if present): %s",
-            week_number,
-            narrative_path,
-        )
-    elif use_publish and paths.narrative_publish.exists():
-        narrative_path = paths.narrative_publish
-        logger.info(
-            "Using PUBLISH narrative for Week %s (explicit --use-publish): %s",
-            week_number,
-            narrative_path,
-        )
-    elif paths.narrative_draft3.exists():
-        # Fallback: --use-publish was requested but _publish is missing; use _draft3.
-        narrative_path = paths.narrative_draft3
-        logger.warning(
-            "Requested --use-publish for Week %s but no _publish file found; falling back to DRAFT3: %s",
-            week_number,
-            narrative_path,
-        )
+    if use_publish:
+        if paths.narrative_publish.exists():
+            narrative_path = paths.narrative_publish
+            logger.info(
+                "Using PUBLISH narrative for Week %s (explicit --use-publish): %s",
+                week_number,
+                narrative_path,
+            )
+        elif paths.narrative_final.exists():
+            narrative_path = paths.narrative_final
+            logger.warning(
+                "Requested --use-publish for Week %s but no _publish file found; "
+                "falling back to FINAL: %s",
+                week_number,
+                narrative_path,
+            )
+        elif paths.narrative_draft3.exists():
+            narrative_path = paths.narrative_draft3
+            logger.warning(
+                "Requested --use-publish for Week %s but no _publish or _final file found; "
+                "falling back to legacy DRAFT3: %s",
+                week_number,
+                narrative_path,
+            )
+        else:
+            raise FileNotFoundError(
+                f"Expected narrative (_publish, _final, or _draft3) for Week {week_number} in {paths.week_dir}"
+            )
     else:
-        raise FileNotFoundError(
-            f"Expected narrative (_publish or _draft3) for Week {week_number} in {paths.week_dir}"
-        )
+        if paths.narrative_final.exists():
+            narrative_path = paths.narrative_final
+            logger.info(
+                "Using FINAL narrative for Week %s (default): %s",
+                week_number,
+                narrative_path,
+            )
+        elif paths.narrative_publish.exists():
+            narrative_path = paths.narrative_publish
+            logger.info(
+                "Using PUBLISH narrative for Week %s (no _final found; falling back): %s",
+                week_number,
+                narrative_path,
+            )
+        elif paths.narrative_draft3.exists():
+            narrative_path = paths.narrative_draft3
+            logger.info(
+                "Using legacy DRAFT3 narrative for Week %s (no _final or _publish found): %s",
+                week_number,
+                narrative_path,
+            )
+        else:
+            raise FileNotFoundError(
+                f"Expected narrative (_final, _publish, or _draft3) for Week {week_number} in {paths.week_dir}"
+            )
 
     # Metadata is now required for publish
     ensure_exists(paths.metadata_json, "metadata_stack JSON")
     metadata = load_metadata(paths.metadata_json)
 
-    # Appendix is required and now comes from events_appendix_weekNN.json
-    appendix_text = build_appendix_from_json(paths.appendix)
+    # Appendix from events_appendix_weekNN.json (only if enabled)
+    if include_appendix:
+        appendix_text_md = build_appendix_from_json(paths.appendix)
+        appendix_text_plain = build_appendix_plaintext_from_json(paths.appendix)
+    else:
+        appendix_text_md = ""
+        appendix_text_plain = ""
+        logger.info(
+            "Appendix disabled for Week %s via --no-appendix; skipping events_appendix JSON.",
+            week_number,
+        )
 
     # Wide image is required; prompts are optional but warned on
     if paths.image_wide is None:
@@ -1021,7 +1237,6 @@ def build_publish_week(week_number: int, force: bool = False, use_publish: bool 
         logger.warning("No image_prompt_square file found for Week %s", week_number)
 
     # Copy the wide image into the Publish Images folder for this week.
-    # This gives Substack/Scrivener a stable place to pull from.
     image_dest_dir = PUBLISH_IMAGES_DIR / f"Week {week_number}"
     image_dest_dir.mkdir(parents=True, exist_ok=True)
     image_dest_path = image_dest_dir / paths.image_wide.name
@@ -1041,18 +1256,72 @@ def build_publish_week(week_number: int, force: bool = False, use_publish: bool 
             exc,
         )
 
+    # Optionally copy appendix wide image
+    if paths.appendix_image_wide is not None:
+        appendix_image_dest_path = image_dest_dir / paths.appendix_image_wide.name
+        try:
+            shutil.copy2(paths.appendix_image_wide, appendix_image_dest_path)
+            logger.info(
+                "Copied appendix wide image for Week %s to %s",
+                week_number,
+                appendix_image_dest_path,
+            )
+        except Exception as exc:  # pragma: no cover - defensive
+            logger.warning(
+                "Failed to copy appendix wide image for Week %s to %s: %s",
+                week_number,
+                appendix_image_dest_path,
+                exc,
+            )
+
     narrative_text = load_text(narrative_path)
-    # Construct outputs
-    substack_md = build_substack_markdown(week_number, narrative_text, appendix_text, metadata, paths)
-    scrivener_md = build_scrivener_markdown(week_number, narrative_text, appendix_text, metadata, paths)
+
+    # Construct outputs for main article
+    substack_md = build_substack_markdown(
+        week_number,
+        narrative_text,
+        appendix_text_md,
+        metadata,
+        paths,
+        include_appendix=False,  # main Substack post: no appendix in body
+    )
+    scrivener_md = build_scrivener_markdown(
+        week_number,
+        narrative_text,
+        appendix_text_md,
+        metadata,
+        paths,
+        include_appendix=False,  # main Scrivener chapter: no embedded appendix
+    )
+
+    # Prepare appendix text (plain) for appending to appendix outputs
+    if include_appendix:
+        weekly_summary = load_weekly_summary(paths)
+        appendix_plain = appendix_text_plain
+    else:
+        weekly_summary = ""
+        appendix_plain = ""
+        logger.info(
+            "Appendix disabled for Week %s via --no-appendix; no appendix summary or events will be generated.",
+            week_number,
+        )
 
     # Determine output paths
     substack_dir = SUBSTACK_OUTPUT_DIR / f"Week {week_number}"
     scrivener_dir = SCRIVENER_OUTPUT_DIR / f"Week {week_number}"
+    substack_dir.mkdir(parents=True, exist_ok=True)
+    scrivener_dir.mkdir(parents=True, exist_ok=True)
 
     substack_path = substack_dir / f"week{week_number:02d}_substack.md"
     scrivener_filename = make_scrivener_filename(week_number, metadata)
     scrivener_path = scrivener_dir / f"{scrivener_filename}.md"
+
+    scrivener_appendix_path = (
+        scrivener_dir / f"week{week_number:02d}_appendix.md" if include_appendix else None
+    )
+    appendix_substack_path = (
+        substack_dir / f"week{week_number:02d}_appendix_substack.md" if include_appendix else None
+    )
 
     # Scrivener companion files: synopsis and document notes
     long_synopsis = first_key(
@@ -1061,7 +1330,6 @@ def build_publish_week(week_number: int, force: bool = False, use_publish: bool 
         default="",
     )
     if not long_synopsis:
-        # Fallback to short synopsis if a long one is not present
         long_synopsis = first_key(
             metadata,
             ["Short Synopsis", "short_synopsis", "ShortSynopsis"],
@@ -1074,10 +1342,105 @@ def build_publish_week(week_number: int, force: bool = False, use_publish: bool 
     synopsis_content = (long_synopsis or "").rstrip() + "\n"
     notes_content = format_metadata_for_notes(week_number, metadata)
 
+    # ── Build / append appendix artifacts (only if enabled) ──────────────
+    if include_appendix and scrivener_appendix_path is not None:
+        if scrivener_appendix_path.exists():
+            # We already have your hand-edited appendix file: append events to it.
+            existing = load_text(scrivener_appendix_path).rstrip()
+            logger.info(
+                "Appending plaintext appendix to existing Scrivener appendix for Week %s",
+                week_number,
+            )
+            if appendix_plain.strip():
+                scrivener_appendix_md = existing + "\n\n" + appendix_plain.rstrip() + "\n"
+            else:
+                scrivener_appendix_md = existing + "\n"
+        else:
+            # No existing file: create a fresh appendix chapter with summary + events.
+            scrivener_appendix_md = build_scrivener_appendix_markdown(
+                week_number,
+                weekly_summary,
+                appendix_plain,
+                metadata,
+            )
+            logger.info(
+                "Created new Scrivener appendix with summary + events for Week %s",
+                week_number,
+            )
+    else:
+        scrivener_appendix_md = None
+
+    if include_appendix and appendix_substack_path is not None:
+        if appendix_substack_path.exists():
+            # We already have the appendix Substack post: append events to it.
+            existing = load_text(appendix_substack_path).rstrip()
+            logger.info(
+                "Appending plaintext appendix to existing Substack appendix post for Week %s",
+                week_number,
+            )
+            if appendix_plain.strip():
+                appendix_substack_md = existing + "\n\n" + appendix_plain.rstrip() + "\n"
+            else:
+                appendix_substack_md = existing + "\n"
+        else:
+            # No existing file: create a fresh appendix post with summary + events.
+            appendix_substack_md = build_substack_appendix_markdown(
+                week_number,
+                weekly_summary,
+                appendix_plain,
+                metadata,
+                paths,
+            )
+            logger.info(
+                "Created new Substack appendix post with summary + events for Week %s",
+                week_number,
+            )
+    else:
+        appendix_substack_md = None
+
+    # Copy images into the Substack Week folder as well, for easier upload
+    if paths.image_wide is not None:
+        try:
+            substack_image_path = substack_dir / paths.image_wide.name
+            shutil.copy2(paths.image_wide, substack_image_path)
+            logger.info(
+                "Copied main wide image for Week %s to Substack folder %s",
+                week_number,
+                substack_image_path,
+            )
+        except Exception as exc:  # pragma: no cover - defensive
+            logger.warning(
+                "Failed to copy main wide image for Week %s to Substack folder %s: %s",
+                week_number,
+                substack_dir,
+                exc,
+            )
+    if paths.appendix_image_wide is not None:
+        try:
+            substack_appendix_image_path = substack_dir / paths.appendix_image_wide.name
+            shutil.copy2(paths.appendix_image_wide, substack_appendix_image_path)
+            logger.info(
+                "Copied appendix wide image for Week %s to Substack folder %s",
+                week_number,
+                substack_appendix_image_path,
+            )
+        except Exception as exc:  # pragma: no cover - defensive
+            logger.warning(
+                "Failed to copy appendix wide image for Week %s to Substack folder %s: %s",
+                week_number,
+                substack_dir,
+                exc,
+            )
+
+    # Write all outputs (still respecting --force)
     write_output(substack_path, substack_md, force=force)
     write_output(scrivener_path, scrivener_md, force=force)
     write_output(synopsis_path, synopsis_content, force=force)
     write_output(notes_path, notes_content, force=force)
+    if include_appendix and appendix_substack_path is not None and appendix_substack_md is not None:
+        write_output(appendix_substack_path, appendix_substack_md, force=force)
+    if include_appendix and scrivener_appendix_path is not None and scrivener_appendix_md is not None:
+        write_output(scrivener_appendix_path, scrivener_appendix_md, force=force)
 
     logger.info("Done building Week %s publish outputs.", week_number)
 
@@ -1116,6 +1479,15 @@ def parse_args(argv: Optional[list[str]] = None) -> argparse.Namespace:
         ),
     )
 
+    parser.add_argument(
+        "--no-appendix",
+        action="store_true",
+        help=(
+            "Build outputs without an events appendix. "
+            "By default, an appendix is included using events_appendix_weekNN.json."
+        ),
+    )
+
     return parser.parse_args(argv)
 
 
@@ -1124,13 +1496,19 @@ def main(argv: Optional[list[str]] = None) -> None:
     start = args.week
     count = args.weeks
 
+    include_appendix = not args.no_appendix
+
     current_week: Optional[int] = None
     try:
         for w in range(start, start + count):
             current_week = w
-            build_publish_week(w, force=args.force, use_publish=args.use_publish)
+            build_publish_week(
+                w,
+                force=args.force,
+                use_publish=args.use_publish,
+                include_appendix=include_appendix,
+            )
     except Exception as exc:  # pragma: no cover - defensive main guard
-        # Log the actual week that failed, not just the starting week
         failed = current_week if current_week is not None else start
         logger.error("Failed to build publish outputs for week %s: %s", failed, exc)
         raise SystemExit(1) from exc

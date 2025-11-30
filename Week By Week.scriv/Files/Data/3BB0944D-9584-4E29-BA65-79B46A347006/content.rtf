@@ -1,0 +1,545 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 .SFNS-Regular;\f1\fnil\fcharset0 HelveticaNeue-Bold;\f2\fswiss\fcharset0 Helvetica;
+\f3\fnil\fcharset0 EBGaramond-Italic;\f4\fnil\fcharset0 AppleColorEmoji;\f5\fnil\fcharset0 .SFNS-Semibold;
+\f6\fnil\fcharset0 LucidaGrande-Bold;\f7\fnil\fcharset0 .AppleSystemUIFontMonospaced-Regular;\f8\froman\fcharset0 TimesNewRomanPSMT;
+\f9\fnil\fcharset0 .SFNS-RegularItalic;\f10\fnil\fcharset77 ZapfDingbatsITC;}
+{\colortbl;\red255\green255\blue255;\red14\green14\blue14;}
+{\*\expandedcolortbl;;\cssrgb\c6700\c6700\c6700;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 Here are the 
+\f1\b \cf2 next steps
+\f0\b0 \cf2 , in the exact order I recommend, based on where we are in the pipeline, what we\'92ve fixed, what we\'92ve validated, and what remains fragile.\
+This is the \'93everything that still matters\'94 list \'97 prioritised, concrete, and short enough to execute in 24 hours.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f2\fs24 \cf0 \
+
+\f3\i \uc0\u11835 
+\f2\i0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+
+\f4\fs44 \uc0\u9989 
+\f5\b  STEP 1 \'97 Finish the Current Batch of Weeks (1\'9644)
+\f0\b0\fs28 \
+\
+Now that:\
+\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	Step 3 v5 works\
+	\'95	0.05 resolution works\
+	\'95	Governor is fully deterministic\
+	\'95	Step 6 and 6a (images) work\
+	\'95	Step 7 (appendix) works\
+	\'95	Publish pipeline is patched (appendix posts)\
+\
+\'85the only task remaining is to 
+\f1\b finish generating the data for Weeks 1\'9644
+\f0\b0 .\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f5\b\fs30 \cf2 Why?
+\f0\b0\fs28 \cf2 \
+\
+Because all remaining tasks depend on having the full run complete:\
+\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	analytics\
+	\'95	publication planning\
+	\'95	book construction\
+	\'95	final troubleshooting\
+	\'95	meta-analysis across weeks\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f5\b\fs30 \cf2 What you do:
+\f0\b0\fs28 \cf2 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f1\b \cf2 Run controller from Week 1 
+\f6 \uc0\u8594 
+\f1  Week 44
+\f0\b0 \cf2 \
+If a week fails at Step 7, Step 5a, or anywhere:\
+\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	Re-run that week alone with 
+\f7 --force
+\f0 \
+	\'95	Continue with controller from the next week\
+\
+Once we have 44 sealed weeks, the whole system stabilizes.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f2\fs24 \cf0 \
+
+\f3\i \uc0\u11835 
+\f2\i0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+
+\f4\fs44 \uc0\u55357 \u56999 
+\f5\b  STEP 2 \'97 Build the Week-by-Week Substack Release Machine
+\f0\b0\fs28 \
+\
+We now have two publishable posts per week:\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f5\b\fs30 \cf2 A) Main Week Narrative
+\f0\b0\fs28 \cf2 \
+\
+
+\f5\b\fs30 \cf2 B) Appendix + Week Summary
+\f0\b0\fs28 \cf2 \
+\
+We need to:\
+\pard\tqr\tx260\tx420\li420\fi-420\sl324\slmult1\sb240\partightenfactor0
+
+\f8 \cf2 	1.	
+\f1\b Set up your Substack Sections
+\f0\b0 \
+\pard\tqr\tx500\tx660\li660\fi-660\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	Section 1: 
+\f9\i \cf2 The Democracy Clock (Main Essays)
+\f0\i0 \cf2 \
+	\'95	Section 2: 
+\f9\i \cf2 The Archives (Events + Appendices)
+\f0\i0 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\li660\sl324\slmult1\pardirnatural\partightenfactor0
+\cf2 OR\
+\pard\tqr\tx500\tx660\li660\fi-660\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	Section 2: 
+\f9\i \cf2 Week-by-Week
+\f0\i0 \cf2  (better and cleaner)\
+\pard\tqr\tx260\tx420\li420\fi-420\sl324\slmult1\sb240\partightenfactor0
+
+\f8 \cf2 	2.	
+\f1\b Decide your Free/Paid Strategy
+\f0\b0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\li420\sl324\slmult1\pardirnatural\partightenfactor0
+\cf2 Options we discussed:\
+\pard\tqr\tx500\tx660\li660\fi-660\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	First 7/14/21 weeks free, then paid\
+	\'95	All posts free for 7\'9621 days, then paywall the archive\
+	\'95	Main essay paid; appendix free\
+	\'95	Main essay free; appendix paid\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\li660\sl324\slmult1\pardirnatural\partightenfactor0
+\cf2 (This requires a final decision tonight or tomorrow.)\
+\pard\tqr\tx260\tx420\li420\fi-420\sl324\slmult1\sb240\partightenfactor0
+
+\f8 \cf2 	3.	
+\f1\b Choose your publication cadence
+\f0\b0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\li420\sl324\slmult1\pardirnatural\partightenfactor0
+\cf2 You\'92re planning:\
+\pard\tqr\tx500\tx660\li660\fi-660\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	Week 1 on December 1 or 2\
+	\'95	One week per day until Week 52 drops on Jan 23/24\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\li660\sl324\slmult1\pardirnatural\partightenfactor0
+\cf2 That schedule needs to be codified.\
+\
+I can generate a 
+\f1\b Substack Launch Plan
+\f0\b0  including:\
+\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	Titles\
+	\'95	URLs\
+	\'95	Recommended calls-to-action\
+	\'95	Supporting social posts (X, Facebook, Bluesky)\
+\
+If you want it.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f2\fs24 \cf0 \
+
+\f3\i \uc0\u11835 
+\f2\i0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+
+\f4\fs44 \uc0\u55357 \u56536 
+\f5\b  STEP 3 \'97 Begin Book Assembly Design
+\f0\b0\fs28 \
+\
+You have three book-structure options:\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f5\b\fs30 \cf2 Option A: One Big Book
+\f0\b0\fs28 \cf2 \
+\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	52 chapters + 52 appendices \uc0\u8594  ~650\'96750 pages\
+	\'95	Hard to market\
+	\'95	Heavy for print\
+	\'95	Might overwhelm readers\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f5\b\fs30 \cf2 Option B: Dual Volumes
+\f0\b0\fs28 \cf2 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f1\b \cf2 Volume 1:
+\f0\b0 \cf2  Weeks 1\'9652 (main narrative)\
+
+\f1\b \cf2 Volume 2:
+\f0\b0 \cf2  Appendices (all events)\
+This is the most professional, bookstore-friendly solution.\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f5\b\fs30 \cf2 Option C: Two Books + Web Appendix
+\f0\b0\fs28 \cf2 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f1\b \cf2 Book 1:
+\f0\b0 \cf2  Week-by-week collapse\
+
+\f1\b \cf2 Book 2:
+\f0\b0 \cf2  The Democracy Clock (concepts + eras)\
+
+\f1\b \cf2 Appendices:
+\f0\b0 \cf2  Hosted on your website\
+This splits the workload and futureproofs the Clock model.\
+\
+You asked: Should the appendices be \'93condensed\'94?\
+\uc0\u8594  Eventually yes. That\'92s 
+\f9\i \cf2 Step 8
+\f0\i0 \cf2 .\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f2\fs24 \cf0 \
+
+\f3\i \uc0\u11835 
+\f2\i0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+
+\f4\fs44 \uc0\u55357 \u56615 
+\f5\b  STEP 4 \'97 Fix the Remaining Fragile Components
+\f0\b0\fs28 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f5\b\fs30 \cf2 1. Auto-run style ruler if missing
+\f0\b0\fs28 \cf2 \
+\
+Controller should invoke style_ruler_get_v4 automatically.\
+We started but haven\'92t finished wiring this in.\
+\
+
+\f5\b\fs30 \cf2 2. Implement restart logic cleanly
+\f0\b0\fs28 \cf2 \
+\
+Controller now processes week-by-week, but:\
+\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	It should auto-skip completed weeks\
+	\'95	It should record failure points\
+	\'95	It should support 
+\f7 --resume
+\f0  cleanly\
+\
+This is small and can be done tomorrow.\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f5\b\fs30 \cf2 3. Add safety checks for Step 7
+\f0\b0\fs28 \cf2 \
+\
+Step 7 is the biggest source of failure due to:\
+\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	Large JSON structures\
+	\'95	Model timeout\
+	\'95	High token usage\
+\
+We need:\
+	\'95	timeout retry logic\
+	\'95	chunking fallback\
+	\'95	streaming?\
+\
+Not urgent, but important.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f2\fs24 \cf0 \
+
+\f3\i \uc0\u11835 
+\f2\i0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+
+\f4\fs44 \uc0\u55357 \u56522 
+\f5\b  STEP 5 \'97 Meta-Analysis of the First 44 Weeks
+\f0\b0\fs28 \
+\
+Once all 44 are stable, we need:\
+\pard\tqr\tx260\tx420\li420\fi-420\sl324\slmult1\sb240\partightenfactor0
+
+\f8 \cf2 	1.	
+\f1\b Trait trajectory graphs
+\f0\b0 \
+\pard\tqr\tx500\tx660\li660\fi-660\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	60 traits over 44 weeks \uc0\u8594  line charts\
+	\'95	Identify \'93runaway traits,\'94 \'93flat traits,\'94 \'93early-break traits\'94\
+\pard\tqr\tx260\tx420\li420\fi-420\sl324\slmult1\sb240\partightenfactor0
+
+\f8 \cf2 	2.	
+\f1\b Clock-time trajectory
+\f0\b0 \
+\pard\tqr\tx500\tx660\li660\fi-660\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	Verify no unnatural jumps\
+	\'95	Verify smoothing at band crossings\
+	\'95	Confirm Year 1 ceiling (\uc0\u8804 7.0 presence)\
+\pard\tqr\tx260\tx420\li420\fi-420\sl324\slmult1\sb240\partightenfactor0
+
+\f8 \cf2 	3.	
+\f1\b Cross-week pattern analysis
+\f0\b0 \
+\pard\tqr\tx500\tx660\li660\fi-660\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	Which trait families dominate?\
+	\'95	Are any bands violated?\
+	\'95	Are deltas clustering too tightly or too broadly?\
+\pard\tqr\tx260\tx420\li420\fi-420\sl324\slmult1\sb240\partightenfactor0
+
+\f8 \cf2 	4.	
+\f1\b QC patterns
+\f0\b0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\li420\sl324\slmult1\pardirnatural\partightenfactor0
+\cf2 This identifies hidden model errors, e.g.:\
+\pard\tqr\tx500\tx660\li660\fi-660\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	sudden delta drought\
+	\'95	sudden delta spikes\
+	\'95	rogue trait always moving or never moving\
+\
+This is the analytic backbone of the first book.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f2\fs24 \cf0 \
+
+\f3\i \uc0\u11835 
+\f2\i0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+
+\f4\fs44 \uc0\u55358 \u56800 
+\f5\b  STEP 6 \'97 Launch package for Substack audience
+\f0\b0\fs28 \
+\
+We drafted most of this already.\
+\
+You need:\
+\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	Announcement post\
+	\'95	FAQ\
+	\'95	\'93How to read the Democracy Clock\'94 explainer\
+	\'95	Section descriptions\
+	\'95	Social versions\
+	\'95	E-mail kickoff sequence\
+	\'95	A polished Week 1 ready for publishing\
+\
+This is 80% done. I can finish the full package on command.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f2\fs24 \cf0 \
+
+\f3\i \uc0\u11835 
+\f2\i0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+
+\f4\fs44 \uc0\u55356 \u57307 \u65039 
+\f5\b  STEP 7 \'97 Begin the Historical Eras Project (Step 2 + Step 3)
+\f0\b0\fs28 \
+\
+Once the week pipeline stabilizes and books begin assembling, we return to:\
+\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	Era 1 (Plymouth Rock \uc0\u8594  Founding)\
+	\'95	Era 2 (Founding \uc0\u8594  Civil War)\
+	\'95	Era 3 (Reconstruction \uc0\u8594  Great War)\
+	\'95	Era 4 (WWI \uc0\u8594  1963)\
+	\'95	Era 5 (1963 \uc0\u8594  2025)\
+\
+The Step 2 Era pipeline needs reactivation, with the improved canonical Step 2.\
+\
+This is the 
+\f9\i foundation
+\f0\i0  of the hardcover Democracy Clock conceptual book.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f2\fs24 \cf0 \
+
+\f3\i \uc0\u11835 
+\f2\i0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+
+\f4\fs44 \uc0\u55358 \u56809 
+\f5\b  STEP 8 \'97 Build the \'93Condensed Events\'94 Module for the Books
+\f0\b0\fs28 \
+\
+You mentioned wanting:\
+\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	Full appendix for publication\
+	\'95	Condensed appendix for the book\
+\
+This requires a 
+\f1\b new Step 7B
+\f0\b0 :\
+	\'95	Summaries of events by category\
+	\'95	No grouping\
+	\'95	No full detail\
+	\'95	20\'9640 items max\
+\
+This is optional but valuable.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f2\fs24 \cf0 \
+
+\f3\i \uc0\u11835 
+\f2\i0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+
+\f4\fs44 \uc0\u55356 \u57263 
+\f5\b  STEP 9 \'97 Build the Website
+\f0\b0\fs28 \
+\
+Domain choices:\
+\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	thedemocracyclock.com\
+	\'95	trumpweekbyweek.com\
+	\'95	thetrumpyears.com\
+	\'95	americaindanger.com\
+\
+My recommendation:\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f1\b \cf2 thedemocracyclock.com
+\f0\b0 \cf2 \
+Since it is the long-term brand.\
+\
+The site can:\
+\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	Host appendices\
+	\'95	Provide interactive trait charts\
+	\'95	Provide clock-time visualization\
+	\'95	Serve as home for future editions\
+	\'95	Capture newsletter subscribers\
+\
+This becomes your public-facing platform.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f2\fs24 \cf0 \
+
+\f3\i \uc0\u11835 
+\f2\i0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+
+\f4\fs44 \uc0\u11088 
+\f5\b  STEP 10 \'97 Prep for Publication through IngramSpark + Amazon KDP
+\f0\b0\fs28 \
+\
+This includes:\
+\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	ISBN assignment\
+	\'95	Trim size (6\'d79 recommended)\
+	\'95	Cover design (AI or designer)\
+	\'95	Back cover copy\
+	\'95	BISAC categories\
+	\'95	Pricing\
+	\'95	Dedication + acknowledgements\
+	\'95	Table of contents generation\
+	\'95	PDF + ePub export from Scrivener\
+\
+We can start this as soon as Weeks 1\'9614 are polished.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f2\fs24 \cf0 \
+
+\f3\i \uc0\u11835 
+\f2\i0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+
+\f4\fs44 \uc0\u55357 \u56524 
+\f5\b  Your Immediate Next Steps (within 24 hours)
+\f0\b0\fs28 \
+\pard\tqr\tx260\tx420\li420\fi-420\sl324\slmult1\sb240\partightenfactor0
+
+\f8 \cf2 	1.	
+\f1\b Run controller for Weeks 1\'9644
+\f0\b0 \
+
+\f8 	2.	
+\f1\b Fix any failures
+\f0\b0  (Step 7, Step 5, Step 5a)\
+
+\f8 	3.	
+\f1\b Generate full publish outputs
+\f0\b0  (Substack + Scrivener)\
+
+\f8 	4.	
+\f1\b Approve Substack structure
+\f0\b0 \
+
+\f8 	5.	
+\f1\b Draft Week 1 launch post
+\f0\b0 \
+
+\f8 	6.	
+\f1\b Test upload to Substack
+\f0\b0 \
+\
+This gets you ready for Wednesday U.S. morning.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f2\fs24 \cf0 \
+
+\f3\i \uc0\u11835 
+\f2\i0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+If you\'92d like, I can now:\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f10\fs30 \cf2 \uc0\u10004 
+\f5\b  create your launch-week posting plan
+\f0\b0\fs28 \cf2 \
+\
+
+\f10\fs30 \cf2 \uc0\u10004 
+\f5\b  decide free/paid thresholds
+\f0\b0\fs28 \cf2 \
+\
+
+\f10\fs30 \cf2 \uc0\u10004 
+\f5\b  produce your Substack section descriptions
+\f0\b0\fs28 \cf2 \
+\
+
+\f10\fs30 \cf2 \uc0\u10004 
+\f5\b  assemble your Week 1 launch email + post
+\f0\b0\fs28 \cf2 \
+\
+
+\f10\fs30 \cf2 \uc0\u10004 
+\f5\b  generate press-release style outreach
+\f0\b0\fs28 \cf2 \
+\
+Just tell me which one to start with.}

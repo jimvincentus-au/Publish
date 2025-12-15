@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="DF171DFA-B3F0-469A-A143-F99F04476312" Version="2.0" Creator="SCRMAC-3.5.1-17446" Device="Jims-MacBook-Air" Author="" Modified="2025-11-30 16:35:11 +1000" ModID="49FF04A5-B1B1-42B7-9139-937CC16DC748">
+<ScrivenerProject Identifier="DF171DFA-B3F0-469A-A143-F99F04476312" Version="2.0" Creator="SCRMAC-3.5.1-17446" Device="Jims-MacBook-Air" Author="" Modified="2025-12-02 05:57:25 +1000" ModID="38980A13-A55B-4BC6-B415-28E813305A50">
     <Binder>
         <BinderItem UUID="7A583553-3A84-40D6-B9B9-0430B8CD3E39" Type="DraftFolder" Created="2025-11-29 05:40:21 +1000" Modified="2025-11-29 05:40:21 +1000">
             <Title>Manuscript</Title>
@@ -73,7 +73,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>5511,0</TextSelection>
+                                <TextSelection>0,17914</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="60DD7EAF-227F-46E5-A082-9714BC9E7E43" Type="Text" Created="2025-11-24 05:39:24 +1000" Modified="2025-11-30 16:35:11 +1000">
@@ -82,7 +82,16 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,11895</TextSelection>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A0BAA2A2-D4E8-4E49-9850-CCF606B6263D" Type="Text" Created="2025-11-30 19:51:18 +1000" Modified="2025-11-30 19:52:06 +1000">
+                            <Title>Week 1010 - Interlude</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -3068,15 +3077,15 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 22:24:39 +1000" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2025-12-01 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="7" Characters="46" Date="2025-11-30 04:31:42 +1000"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2025-12-03 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2025-12-02 05:57:21 +1000"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2025-11-30 00:00:00 +1000">
-        <DraftWordCount>-392</DraftWordCount>
-        <DraftCharCount>-2638</DraftCharCount>
+    <RecentWritingHistory Date="2025-12-02 00:00:00 +1000">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <BookmarksFolderUUID>07B0D7C6-57CE-4D6F-8AD9-11F06A261A5F</BookmarksFolderUUID>
-    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+    <PrintSettings PaperSize="595.275557,841.889771" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

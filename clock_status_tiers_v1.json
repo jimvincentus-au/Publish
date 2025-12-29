@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.2",
+  "document_type": "clock_status_tiers",
+  "project": "The Democracy Clock",
+  "created_date": "2025-12-28",
+  "last_modified_date": "2025-12-29",
+  "created_by": "Democracy Clock Methodology",
+  "change_policy": "All changes must be versioned, dated, and documented. Historical interpretations may not be retroactively altered without explicit version migration.",
+  "locked": false,
+  "lock_conditions": "Set locked=true once tiers are publicly finalized. Any future changes require schema_version increment and migration notes.",
+  "change_log": [
+    {
+      "version": "1.1",
+      "date": "2025-12-28",
+      "change_type": "initial formalization",
+      "description": "First canonical, versioned definition of Clock Status Tiers with locked labels and descriptions."
+    }
+    ,
+    {
+      "version": "1.2",
+      "date": "2025-12-29",
+      "change_type": "operational mapping added",
+      "description": "Added explicit minute bins (min_minutes/max_minutes) to enable deterministic tier mapping from clock minutes past noon."
+    }
+  ],
+  "tiers": [
+    {
+      "tier_index": 1,
+      "tier_id": "democratic_strength",
+      "label": "Democratic Strength",
+      "description": "Institutions function as intended; failures are isolated and correctable."
+    },
+    {
+      "tier_index": 2,
+      "tier_id": "democratic_stress",
+      "label": "Democratic Stress",
+      "description": "Rising institutional strain; norms weakening but still resilient."
+    },
+    {
+      "tier_index": 3,
+      "tier_id": "democratic_erosion",
+      "label": "Democratic Erosion",
+      "description": "Structural damage accumulating; repair requires active intervention."
+    },
+    {
+      "tier_index": 4,
+      "tier_id": "democratic_fragility",
+      "label": "Democratic Fragility",
+      "description": "Authoritarian traits systemically present; outcomes increasingly distorted."
+    },
+    {
+      "tier_index": 5,
+      "tier_id": "democratic_breakdown",
+      "label": "Democratic Breakdown",
+      "description": "Systemic failures; elections, courts, or rights no longer reliably constrain power."
+    },
+    {
+      "tier_index": 6,
+      "tier_id": "democratic_collapse",
+      "label": "Democratic Collapse",
+      "description": "Power no longer accountable; self-government functionally absent."
+    }
+  ],
+  "bins": [
+    {
+      "min_minutes": 0,
+      "max_minutes": 119,
+      "label": "Democratic Strength",
+      "description": "Institutions function as intended; failures are isolated and correctable."
+    },
+    {
+      "min_minutes": 120,
+      "max_minutes": 239,
+      "label": "Democratic Stress",
+      "description": "Rising institutional strain; norms weakening but still resilient."
+    },
+    {
+      "min_minutes": 240,
+      "max_minutes": 359,
+      "label": "Democratic Erosion",
+      "description": "Structural damage accumulating; repair requires active intervention."
+    },
+    {
+      "min_minutes": 360,
+      "max_minutes": 479,
+      "label": "Democratic Fragility",
+      "description": "Authoritarian traits systemically present; outcomes increasingly distorted."
+    },
+    {
+      "min_minutes": 480,
+      "max_minutes": 599,
+      "label": "Democratic Breakdown",
+      "description": "Systemic failures; elections, courts, or rights no longer reliably constrain power."
+    },
+    {
+      "min_minutes": 600,
+      "max_minutes": 720,
+      "label": "Democratic Collapse",
+      "description": "Power no longer accountable; self-government functionally absent."
+    }
+  ]
+}

@@ -889,9 +889,13 @@ def build_post_row(
     # Status: if export has it, keep; otherwise use CLI
     final_status = wp_status_existing if wp_status_existing else post_status
 
-    # Featured image URLs are handled inside WordPress (media library / attachment matching).
-    # For WP All Import, we leave Image URL blank.
-    final_image_url = ""
+    # Featured images for WP All Import:
+    # We use a URL-only workflow so WP All Import can fetch (or match) the image and
+    # assign it as the post's featured image.
+    # Example:
+    #   https://thedemocracyclock.com/wp-content/uploads/week49-narrative-featured.jpg
+    base = (image_base_url or "").rstrip("/")
+    final_image_url = f"{base}/{featured_image_filename}" if base else ""
 
     # --- Carry-forward-derived week fields (source of truth) ---
     cf = _extract_carry_forward_fields(carry_forward)
@@ -1058,7 +1062,7 @@ def build_post_row(
         "Permalink": wp_permalink,
 
         # Featured image handling for WP All Import (URL-only workflow)
-        "Image URL": final_image_url,  # will be blank by design
+        "Image URL": final_image_url,
         "Image Filename": featured_image_filename,
         "Image Path": "",
         "Image ID": "",
@@ -1066,7 +1070,7 @@ def build_post_row(
         "Image Caption": "",
         "Image Description": "",
         "Image Alt Text": "",
-        "Image Featured": "",
+        "Image Featured": "1" if final_image_url else "",
 
         # Owned taxonomy fields (always overwritten)
         "Categories": categories,

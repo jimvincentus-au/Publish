@@ -186,6 +186,7 @@ def load_event_count_total(week_dir: Path, week: int, logger: Optional[logging.L
     return ""
 
 
+
 def _parse_iso_date(date_str: str) -> Optional[datetime]:
     """Parse an ISO date (YYYY-MM-DD) into a datetime, or return None."""
     if not date_str or not isinstance(date_str, str):
@@ -197,6 +198,30 @@ def _parse_iso_date(date_str: str) -> Optional[datetime]:
         return datetime.strptime(s, "%Y-%m-%d")
     except Exception:
         return None
+
+
+# --- Helper: Convert ISO date to ACF Ymd (YYYYMMDD) ---
+def _to_ymd(date_str: str) -> str:
+    """Convert an ISO date (YYYY-MM-DD) to ACF Ymd (YYYYMMDD).
+
+    Accepts:
+      - 'YYYY-MM-DD' -> 'YYYYMMDD'
+      - 'YYYYMMDD'   -> 'YYYYMMDD' (unchanged)
+      - anything else -> ''
+
+    We keep ISO dates internally for calculations, but emit Ymd for ACF Date Picker fields.
+    """
+    if not date_str or not isinstance(date_str, str):
+        return ""
+    s = date_str.strip()
+    if not s:
+        return ""
+    if re.fullmatch(r"\d{8}", s):
+        return s
+    dt = _parse_iso_date(s)
+    if dt is None:
+        return ""
+    return dt.strftime("%Y%m%d")
 
 
 def _strip_first_h1(html_text: str) -> str:
@@ -965,14 +990,16 @@ def build_week_post_row(
     # --- Carry-forward-derived week fields (source of truth) ---
     cf = _extract_carry_forward_fields(carry_forward)
     acf_week_number = week_number
-    acf_week_start_date = str(cf.get("week_start_date") or "")
-    acf_week_end_date = str(cf.get("week_end_date") or "")
+    acf_week_start_date_iso = str(cf.get("week_start_date") or "")
+    acf_week_end_date_iso = str(cf.get("week_end_date") or "")
+    acf_week_start_date = _to_ymd(acf_week_start_date_iso)
+    acf_week_end_date = _to_ymd(acf_week_end_date_iso)
     acf_week_start_minutes = cf.get("week_start_minutes")
     acf_week_end_minutes = cf.get("week_end_minutes")
     acf_week_start_time = str(cf.get("week_start_time") or "")
     acf_week_end_time = str(cf.get("week_end_time") or "")
     # Week label
-    acf_week_label = _format_week_label(week_number, acf_week_start_date, acf_week_end_date)
+    acf_week_label = _format_week_label(week_number, acf_week_start_date_iso, acf_week_end_date_iso)
     # Movement minutes (prefer carry-forward start/end; fallback to carry_forward clock_delta_minutes; final fallback to metadata)
     delta_minutes: Any = ""
     try:

@@ -14,3 +14,8 @@ Logs/
 Output/
 Scrivener/
 Substack/
+
+# in Publish/.gitignore
+*.zip
+*backup*
+*_bkup_*

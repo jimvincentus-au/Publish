@@ -35,6 +35,9 @@ PUBLISH_LOGS_DIR = PUBLISH_ROOT / "Logs"
 
 DEFAULT_INPUT_ROOT = PUBLISH_ROOT / "Output" / "Scrivener"
 DEFAULT_OUTPUT_ROOT = PUBLISH_ROOT / "Output" / "Vellum"
+# For appendix discovery, prefer Substack markdown output for stable YAML front matter.
+DEFAULT_SUBSTACK_ROOT = PUBLISH_ROOT / "Output" / "Substack"
+
 
 # Preferred appendix JSON root (authoritative provenance: dates + sources)
 DEFAULT_STEP3_WEEKS_ROOT = Path("/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Weeks")
@@ -47,7 +50,10 @@ def _resolve_input_root(override: Optional[str]) -> Path:
         p = Path(override).expanduser()
         return p
 
+    # Prefer Substack markdown output for appendices because it contains stable YAML
+    # front matter (title/subtitle/week). Fall back to Scrivener output.
     candidates = [
+        DEFAULT_SUBSTACK_ROOT,
         DEFAULT_INPUT_ROOT,
     ]
 
@@ -107,13 +113,13 @@ SOURCE_DISPLAY_NAMES: Dict[str, str] = {
     # Core feeds
     "guardian": "The Guardian",
     "hcr": "Letters from an American (Heather Cox Richardson)",
-    "popinfo": 'Popular Information',
+    "popinfo": "Popular Information (Judd Legum)",
 
     # Democracy Clock internal / companion feeds
     "meidas": "Meidas Plus",
     "zeteo": "Zeteo",
-    "noah": 'Noahpinion',
-    "outloud": 'Democracy Outloud',
+    "noah": "Noahpinion (Noah Smith)",
+    "outloud": "Democracy Outloud (Karen Zeigler)",
     "50501": "The 50501 Movement",
 
     # Government / official sources
@@ -180,6 +186,51 @@ def _format_dates(dates: List[str]) -> List[str]:
         seen.add(s)
         dedup.append(s)
     return dedup
+
+
+def _parse_iso_date_for_sort(d: str) -> Optional[Tuple[int, int, int]]:
+    """Parse YYYY-MM-DD into (y,m,d) for sorting. Returns None if not ISO."""
+    s = str(d).strip()
+    m = re.fullmatch(r"(20\d{2})-(\d{2})-(\d{2})", s)
+    if not m:
+        return None
+    return int(m.group(1)), int(m.group(2)), int(m.group(3))
+
+
+def _format_date_range(iso_dates: List[str]) -> Optional[str]:
+    """Format an inclusive min–max date range from ISO dates (YYYY-MM-DD)."""
+    parsed: List[Tuple[Tuple[int, int, int], str]] = []
+    for d in iso_dates:
+        p = _parse_iso_date_for_sort(d)
+        if p is None:
+            continue
+        parsed.append((p, d))
+    if not parsed:
+        return None
+
+    parsed.sort(key=lambda t: t[0])
+    start_iso = parsed[0][1]
+    end_iso = parsed[-1][1]
+
+    if start_iso == end_iso:
+        return _format_iso_date(start_iso)
+
+    m1 = re.fullmatch(r"(20\d{2})-(\d{2})-(\d{2})", start_iso)
+    m2 = re.fullmatch(r"(20\d{2})-(\d{2})-(\d{2})", end_iso)
+    if not (m1 and m2):
+        return f"{_format_iso_date(start_iso)}–{_format_iso_date(end_iso)}"
+
+    y1, mo1, d1 = int(m1.group(1)), int(m1.group(2)), int(m1.group(3))
+    y2, mo2, d2 = int(m2.group(1)), int(m2.group(2)), int(m2.group(3))
+    months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+
+    if y1 == y2 and mo1 == mo2 and 1 <= mo1 <= 12:
+        return f"{d1}–{d2} {months[mo1-1]} {y1}"
+
+    if y1 == y2 and 1 <= mo1 <= 12 and 1 <= mo2 <= 12:
+        return f"{d1} {months[mo1-1]}–{d2} {months[mo2-1]} {y1}"
+
+    return f"{_format_iso_date(start_iso)}–{_format_iso_date(end_iso)}"
 
 
 def setup_logger(level: str) -> logging.Logger:
@@ -286,7 +337,15 @@ def _discover_week_md(input_root: Path, week: int) -> Path:
 
     assert week_dir is not None
     # Common patterns observed / expected
+    # Prefer Substack appendix md naming when present.
     candidates = [
+        # Substack canonical appendix markdown
+        week_dir / f"week{week:02d}_appendix_substack.md",
+        week_dir / f"week{week}_appendix_substack.md",
+        week_dir / f"week{week:02d}-appendix_substack.md",
+        week_dir / f"week{week}-appendix_substack.md",
+
+        # Scrivener/legacy appendix markdown
         week_dir / f"week{week:02d}_appendix.md",
         week_dir / f"week{week}_appendix.md",
         week_dir / f"week{week:02d}-appendix.md",
@@ -300,8 +359,17 @@ def _discover_week_md(input_root: Path, week: int) -> Path:
             return c
 
     # Fallback: search for a single plausible appendix markdown file
-    # Prefer filenames containing "appendix" and the week number
+    # Prefer substack appendix md
     patterns = [
+        # Prefer substack appendix md
+        f"*appendix*substack*week{week:02d}*.md",
+        f"*appendix*substack*week{week}*.md",
+        f"*week{week:02d}*appendix*substack*.md",
+        f"*week{week}*appendix*substack*.md",
+        f"*appendix*_substack*.md",
+        f"*appendix*substack*.md",
+
+        # Then legacy appendix files
         f"*appendix*week{week:02d}*.md",
         f"*appendix*week{week}*.md",
         f"*week{week:02d}*appendix*.md",
@@ -524,20 +592,31 @@ def _format_appendix_event_text(e: Dict) -> str:
     action = e.get("action")
     summary_line = e.get("summary_line")
 
-    # Required core: actor + action. Fall back carefully.
     parts: List[str] = []
-    if isinstance(actor, str) and actor.strip():
-        parts.append(actor.strip())
-    if isinstance(action, str) and action.strip():
-        # Sentence-style join (no em-dash) so it reads naturally in print.
-        if parts:
-            parts[-1] = f"{parts[-1]} {action.strip()}"
-        else:
-            parts.append(action.strip())
 
-    if not parts:
+    # First sentence: actor + action, rendered as a sentence (must end with a period).
+    first_sentence = ""
+    if isinstance(actor, str) and actor.strip() and isinstance(action, str) and action.strip():
+        first_sentence = f"{actor.strip()} {action.strip()}".strip()
+    elif isinstance(action, str) and action.strip():
+        first_sentence = action.strip()
+    elif isinstance(actor, str) and actor.strip():
+        # Unusual, but keep something useful
+        first_sentence = actor.strip()
+
+    if not first_sentence:
         # Last-resort fallback: use any reasonable textual field; never str(e)
-        parts.append(_event_display_text(e))
+        first_sentence = _event_display_text(e)
+
+    # Ensure the first sentence ends with terminal punctuation.
+    # Prefer a period, but do not add one after existing terminal punctuation.
+    first_sentence = first_sentence.rstrip()
+    if not first_sentence.endswith((".", "!", "?")):
+        first_sentence = first_sentence.rstrip(" ")
+        first_sentence = first_sentence.rstrip(".") + "."
+
+    # Always start with the actor/action sentence.
+    parts.append(first_sentence)
 
     # Optional second sentence
     if isinstance(summary_line, str) and summary_line.strip():
@@ -557,12 +636,292 @@ def _format_appendix_event_text(e: Dict) -> str:
     if tail:
         parts.append("(" + " | ".join(tail) + ")")
 
-    # Join sentences cleanly
-    text = " ".join(p.strip() for p in parts if p.strip())
+    text = " ".join(p.strip() for p in parts if p and p.strip())
     return re.sub(r"\s+", " ", text).strip()
 
 
 
+
+def _extract_week_summary_from_md(
+    md_path: Path,
+    logger: logging.Logger,
+    subtitle_to_exclude: Optional[str] = None,
+) -> Optional[str]:
+    """Extract the first *summary* paragraph from the week appendix markdown.
+
+    Substack appendix markdown usually contains:
+      - H1 title
+      - italic subtitle line
+      - header image markdown
+      - summary paragraph
+
+    We want the first substantive paragraph that is NOT the subtitle and NOT the image line.
+    """
+
+    def _normalize_for_cmp(s: str) -> str:
+        s2 = (s or "").strip()
+        # Remove surrounding markdown italics markers
+        if (s2.startswith("*") and s2.endswith("*")) or (s2.startswith("_") and s2.endswith("_")):
+            s2 = s2[1:-1].strip()
+        return re.sub(r"\s+", " ", s2).strip()
+
+    subtitle_norm = _normalize_for_cmp(subtitle_to_exclude) if subtitle_to_exclude else None
+
+    try:
+        raw = md_path.read_text(encoding="utf-8", errors="replace")
+    except Exception as exc:
+        logger.debug(f"Could not read markdown for summary extraction: {md_path} ({exc})")
+        return None
+
+    lines = raw.splitlines()
+    idx = 0
+
+    # Find the H1 title line
+    while idx < len(lines) and not _looks_like_week_title(lines[idx]):
+        idx += 1
+    if idx >= len(lines):
+        logger.debug(f"Summary extract: no recognizable week title/H1 found in {md_path}")
+        return None
+
+    idx += 1  # past title line
+
+    summary_lines: List[str] = []
+    while idx < len(lines):
+        line = lines[idx].rstrip()
+
+        # Stop at category header or explicit events header
+        if _is_category_header(line) or re.fullmatch(
+            r"Week\s+\d+\s+Events", line.strip(), flags=re.IGNORECASE
+        ):
+            break
+
+        summary_lines.append(line)
+        idx += 1
+
+    paras = _split_md_paragraphs(summary_lines)
+    logger.debug(
+        f"Summary extract: candidate paragraphs={len(paras)} from {md_path.name}; subtitle_norm={subtitle_norm!r}"
+    )
+
+    for p in paras:
+        p_norm = _normalize_for_cmp(p)
+        if not p_norm:
+            continue
+
+        # Skip HTML comments
+        if p_norm.startswith("<!--"):
+            logger.debug(f"Summary extract: skipping html comment paragraph: {p_norm[:80]!r}")
+            continue
+
+        # Skip header image markdown
+        if p_norm.startswith("!["):
+            logger.debug(f"Summary extract: skipping image paragraph: {p_norm[:80]!r}")
+            continue
+
+        # Skip the subtitle paragraph if it matches
+        if subtitle_norm and p_norm == subtitle_norm:
+            logger.debug(f"Summary extract: skipping paragraph because it matches subtitle: {p_norm!r}")
+            continue
+
+        # Skip ultra-short noise
+        if len(p_norm) < 25:
+            logger.debug(f"Summary extract: skipping too-short paragraph: {p_norm!r}")
+            continue
+
+        logger.debug(f"Summary extract: selected summary paragraph: {p_norm[:120]!r}")
+        return p_norm
+
+    logger.debug(f"Summary extract: no suitable summary paragraph found in {md_path.name}")
+    return None
+
+
+# --- YAML front-matter extraction for short_title and subtitle ---
+def _extract_front_matter(md_path: Path, logger: logging.Logger) -> Tuple[Optional[str], Optional[str]]:
+    """Extract (short_title, subtitle) from YAML front matter in the appendix markdown.
+
+    - short_title is derived from the text after 'Appendix:' in the front-matter title.
+    - subtitle is taken from front-matter 'subtitle'.
+
+    This parser is intentionally minimal (no external YAML dependency) and tolerant of:
+      - Leading blank lines / BOM
+      - Quoted values
+      - Extra keys
+
+    Returns (short_title, subtitle).
+    """
+    try:
+        raw = md_path.read_text(encoding="utf-8", errors="replace")
+    except Exception as exc:
+        logger.debug(f"Front matter: could not read markdown: {md_path} ({exc})")
+        return None, None
+
+    # Tolerate BOM and leading whitespace/blank lines
+    raw0 = raw.lstrip("\ufeff")
+    lines = raw0.splitlines()
+
+    # Find first non-empty line
+    i = 0
+    while i < len(lines) and not lines[i].strip():
+        i += 1
+
+    if i >= len(lines) or lines[i].strip() != "---":
+        first_nonempty = None
+        for ln in lines:
+            if ln.strip():
+                first_nonempty = ln.strip()
+                break
+        logger.debug(
+            f"Front matter: not present (no leading ---) for {md_path}; first_nonempty={first_nonempty!r}"
+        )
+        return None, None
+
+    # Collect front matter lines until closing ---
+    i += 1
+    fm_lines: List[str] = []
+    while i < len(lines):
+        if lines[i].strip() == "---":
+            break
+        fm_lines.append(lines[i])
+        i += 1
+
+    if i >= len(lines):
+        logger.debug(f"Front matter: unterminated (no closing ---) for {md_path}")
+        return None, None
+
+    title_val: Optional[str] = None
+    subtitle_val: Optional[str] = None
+
+    for line in fm_lines:
+        if ":" not in line:
+            continue
+        k, v = line.split(":", 1)
+        key = k.strip().lower()
+        val = v.strip().strip('"').strip("'")
+        if key == "title":
+            title_val = val
+        elif key == "subtitle":
+            subtitle_val = val
+
+    short_title: Optional[str] = None
+    if title_val:
+        if "Appendix:" in title_val:
+            after = title_val.split("Appendix:", 1)[1].strip()
+            if after:
+                short_title = after
+        else:
+            # Fallback: if title doesn't contain Appendix:, still allow using text after 'Week N'
+            short_title = None
+
+    logger.debug(
+        f"Front matter extracted for {md_path.name}: title={title_val!r}, short_title={short_title!r}, subtitle={subtitle_val!r}"
+    )
+
+    return short_title, subtitle_val
+
+# --- Helper: Extract (short_title, subtitle) from appendix markdown (front matter or body) ---
+def _extract_title_subtitle_from_md(md_path: Path, logger: logging.Logger) -> Tuple[Optional[str], Optional[str]]:
+    """Extract (short_title, subtitle) from appendix markdown.
+
+    Priority order:
+      1) YAML front matter (title/subtitle)
+      2) Body H1 line like '# Week N Appendix: <Short Title>'
+      3) Body italic line immediately following title (for subtitle)
+
+    Returns (short_title, subtitle).
+    """
+    # 1) YAML front matter
+    short_title, subtitle = _extract_front_matter(md_path, logger)
+    if short_title or subtitle:
+        logger.debug(
+            f"MD title/subtitle: using front matter for {md_path.name}: short_title={short_title!r}, subtitle={subtitle!r}"
+        )
+        return short_title, subtitle
+
+    # 2) Fallback: parse from body
+    try:
+        raw = md_path.read_text(encoding="utf-8", errors="replace")
+    except Exception as exc:
+        logger.debug(f"MD title/subtitle: could not read markdown: {md_path} ({exc})")
+        return None, None
+
+    lines = raw.splitlines()
+
+    # Helpful debug context if extraction fails
+    preview = " | ".join([ln.strip() for ln in lines[:20] if ln.strip()])
+    logger.debug(f"MD title/subtitle: first non-empty lines preview for {md_path.name}: {preview}")
+
+    i = 0
+    # Skip leading blank lines
+    while i < len(lines) and not lines[i].strip():
+        i += 1
+
+    # Skip any leading HTML comments (Scrivener/Substack markers)
+    while i < len(lines) and lines[i].strip().startswith("<!--"):
+        i += 1
+
+    # Find first H1-ish line
+    h1_idx: Optional[int] = None
+    for j in range(i, min(len(lines), i + 80)):
+        s = lines[j].strip()
+        if not s:
+            continue
+        # H1 markdown
+        if s.startswith("#"):
+            h1_idx = j
+            break
+        # Occasionally title is plain text
+        if re.match(r"^Week\s+\d+", s, flags=re.IGNORECASE):
+            h1_idx = j
+            break
+
+    if h1_idx is None:
+        logger.debug(f"MD title/subtitle: no H1/title line found for {md_path.name}")
+        return None, None
+
+    h1 = lines[h1_idx].strip()
+    h1_clean = _strip_md_h1(h1)
+
+    # Derive short title from patterns in the body title line
+    body_short_title: Optional[str] = None
+    if "Appendix:" in h1_clean:
+        after = h1_clean.split("Appendix:", 1)[1].strip()
+        if after:
+            body_short_title = after
+    elif ":" in h1_clean:
+        after = h1_clean.split(":", 1)[1].strip()
+        if after and not re.match(r"^\d{1,3}\s*$", after):
+            body_short_title = after
+
+    # Derive subtitle: first italic-only line after the title
+    body_subtitle: Optional[str] = None
+    k = h1_idx + 1
+    # skip blanks, html comments, and header image markdown
+    while k < len(lines):
+        s = lines[k].strip()
+        if not s:
+            k += 1
+            continue
+        if s.startswith("<!--"):
+            k += 1
+            continue
+        if s.startswith("!["):
+            k += 1
+            continue
+        # Markdown italics line: *text* or _text_
+        m = re.fullmatch(r"\*(.+)\*", s)
+        if not m:
+            m = re.fullmatch(r"_(.+)_", s)
+        if m:
+            candidate = m.group(1).strip()
+            if candidate:
+                body_subtitle = candidate
+        break
+
+    logger.debug(
+        f"MD title/subtitle: body-derived for {md_path.name}: h1={h1_clean!r}, short_title={body_short_title!r}, subtitle={body_subtitle!r}"
+    )
+
+    return body_short_title, body_subtitle
 
 def build_docx_from_md(md_path: Path, out_path: Path, logger: logging.Logger) -> None:
     raw = md_path.read_text(encoding="utf-8", errors="replace")
@@ -570,43 +929,162 @@ def build_docx_from_md(md_path: Path, out_path: Path, logger: logging.Logger) ->
 
     doc = Document()
 
-    # State machine:
-    # - Expect H1
-    # - Summary paragraphs until "Week X Events" marker (line contains "Events")
-    # - Then categories and numbered events
+    # --- New Title Logic ---
+    # 1) Parse YAML front matter for short_title and subtitle (or fallback from body)
+    short_title, subtitle = _extract_title_subtitle_from_md(md_path, logger)
+    logger.debug(f"Week MD: extracted short_title={short_title!r}, subtitle={subtitle!r} from {md_path}")
+
+    # 2) Discover week number from front matter or fallback to filename/discovery context
+    week = None
+    # Try to get week from front matter if present
+    try:
+        # Re-read YAML front matter for 'week:'
+        if raw.lstrip().startswith("---"):
+            fm_lines: List[str] = []
+            src_lines = lines
+            idx_fm = 1
+            while idx_fm < len(src_lines):
+                if src_lines[idx_fm].strip() == "---":
+                    break
+                fm_lines.append(src_lines[idx_fm])
+                idx_fm += 1
+            for line in fm_lines:
+                if ":" not in line:
+                    continue
+                k, v = line.split(":", 1)
+                key = k.strip().lower()
+                val = v.strip().strip('"').strip("'")
+                if key == "week":
+                    try:
+                        week = int(val)
+                        break
+                    except Exception:
+                        pass
+    except Exception:
+        pass
+    # Fallback: try to extract week number from filename if not found
+    if week is None:
+        m = re.search(r"week[_\- ]?(\d{1,3})", str(md_path.name), flags=re.IGNORECASE)
+        if m:
+            try:
+                week = int(m.group(1))
+            except Exception:
+                week = None
+    # Last resort: fallback to None (will display as "Week None")
+
+    # 3) Compute date range using appendix JSON if available, else from event lines
+    # Try to locate appendix JSON for provenance dates
+    all_dates: List[str] = []
+    try:
+        from pathlib import Path as _Path
+        appendix_json = _discover_week_appendix_json(week, logger) if week is not None else None
+        if appendix_json:
+            import json as _json
+            data = _json.loads(appendix_json.read_text(encoding="utf-8", errors="replace"))
+            raw_categories_for_dates = data.get("categories")
+            if isinstance(raw_categories_for_dates, list):
+                for c in raw_categories_for_dates:
+                    if isinstance(c, dict):
+                        evs = c.get("events") or []
+                        if isinstance(evs, list):
+                            for e in evs:
+                                if isinstance(e, dict):
+                                    _, ds = _event_sources_dates(e)
+                                    all_dates.extend(ds)
+            elif isinstance(raw_categories_for_dates, dict):
+                for _, evs in raw_categories_for_dates.items():
+                    if isinstance(evs, list):
+                        for e in evs:
+                            if isinstance(e, dict):
+                                _, ds = _event_sources_dates(e)
+                                all_dates.extend(ds)
+    except Exception:
+        all_dates = []
+    # If no JSON provenance dates, fallback to dates parsed from Markdown event lines
+    if not all_dates:
+        # Parse dates from event lines in Markdown
+        for line in lines:
+            if _is_event_line(line):
+                # Try to extract date(s) using heuristic: look for YYYY-MM-DD in line
+                found = re.findall(r"\b20\d{2}-\d{2}-\d{2}\b", line)
+                all_dates.extend(found)
+
+    date_range_str = _format_date_range(all_dates) if all_dates else None
+
+    # 4) Compose final title string (Heading 1)
+    week_str = f"{week}" if week is not None else ""
+    title_base = f"Week {week_str}"
+    if date_range_str:
+        title_base = f"{title_base} ({date_range_str})"
+    if short_title:
+        final_title = f"{title_base}: {short_title}"
+    else:
+        final_title = title_base
+    logger.debug(f"Week MD: final chapter title={final_title!r}")
+    doc.add_paragraph(final_title, style="Heading 1")
+
+    # 5) If subtitle present, emit as indented italic blockquote
+    if subtitle:
+        p = doc.add_paragraph(subtitle, style="Normal")
+        p.paragraph_format.left_indent = Inches(0.25)
+        p.paragraph_format.right_indent = Inches(0.10)
+        for run in p.runs:
+            run.italic = True
+        logger.debug("Week MD: wrote subtitle as italic indented blockquote-style paragraph")
+
+    # 6) Summary block: consume until we hit a category header (or explicit Week X Events header).
+    # This must work for markdown that begins with YAML front matter (no H1) as well as legacy H1.
     idx = 0
 
-    # 1) Title
-    # Find first H1-like line; hard error if missing
-    title_line = None
-    while idx < len(lines):
-        if _looks_like_week_title(lines[idx]):
-            title_line = _strip_md_h1(lines[idx])
-            idx += 1
-            break
+    # Skip leading YAML front matter if present
+    j = 0
+    while j < len(lines) and not lines[j].strip():
+        j += 1
+    if j < len(lines) and lines[j].strip() == "---":
+        j += 1
+        while j < len(lines) and lines[j].strip() != "---":
+            j += 1
+        if j < len(lines) and lines[j].strip() == "---":
+            j += 1
+        idx = j
+        logger.debug("Week MD: skipped YAML front matter for summary scanning")
+
+    # Skip a legacy H1 title line if present
+    if idx < len(lines) and _looks_like_week_title(lines[idx]):
+        logger.debug(f"Week MD: skipping legacy title line for summary: {lines[idx].strip()!r}")
         idx += 1
 
-    if not title_line:
-        raise ValueError(f"{md_path}: No week appendix title found (expected '# Week … Appendix: …').")
-
-    logger.debug(f"Title resolved: {title_line}")
-    doc.add_paragraph(title_line, style="Heading 1")
-
-    # 2) Summary block: consume until we hit an Events marker or a category header
-    # We treat all content between title and the first category/events marker as summary.
+    # Now buffer summary lines until the first category header / events header
     summary_lines: List[str] = []
     while idx < len(lines):
         line = lines[idx].rstrip()
-
         # Stop when we encounter a category heading or the explicit events header
         if _is_category_header(line) or re.fullmatch(r"Week\s+\d+\s+Events", line.strip(), flags=re.IGNORECASE):
             break
-
         summary_lines.append(line)
         idx += 1
 
+    # Remove subtitle from summary lines if present, to avoid duplicate emission
+    def _normalize_subtitle_cmp(s: str) -> str:
+        s = s.strip()
+        # Remove surrounding *...* or _..._ (Markdown italics)
+        if (s.startswith("*") and s.endswith("*")) or (s.startswith("_") and s.endswith("_")):
+            s = s[1:-1].strip()
+        return s
+
+    filtered_summary_lines = []
+    subtitle_norm = _normalize_subtitle_cmp(subtitle) if subtitle else None
+    for line in summary_lines:
+        line_norm = _normalize_subtitle_cmp(line)
+        if subtitle and line_norm == subtitle_norm:
+            logger.debug(
+                f"Summary: skipping subtitle line from summary emission: orig={line!r}, norm={line_norm!r}, subtitle_norm={subtitle_norm!r}"
+            )
+            continue
+        filtered_summary_lines.append(line)
+
     # Write summary paragraphs (Normal)
-    summary_paras = _split_md_paragraphs(summary_lines)
+    summary_paras = _split_md_paragraphs(filtered_summary_lines)
     if summary_paras:
         logger.debug(f"Summary paragraphs: {len(summary_paras)}")
         for p in summary_paras:
@@ -733,17 +1211,164 @@ def build_docx_from_appendix_json(json_path: Path, out_path: Path, week: int, lo
         if isinstance(v, str) and v.strip():
             title = v.strip()
             break
+    # Remove fallback "Appendix" from title if not present
     if not title:
-        title = f"Week {week} Appendix"
+        title = f"Week {week:02d}"
+
+
+    def _min_max_iso_dates(iso_dates: List[str]) -> Optional[Tuple[str, str]]:
+        """Return (min_iso, max_iso) from a list of YYYY-MM-DD strings, ignoring non-ISO."""
+        parsed: List[Tuple[Tuple[int, int, int], str]] = []
+        for d in iso_dates:
+            p = _parse_iso_date_for_sort(d)
+            if p is None:
+                continue
+            parsed.append((p, str(d).strip()))
+        if not parsed:
+            return None
+        parsed.sort(key=lambda t: t[0])
+        return parsed[0][1], parsed[-1][1]
+
+    # Compute deterministic min/max date range from provenance dates across all events
+    all_dates: List[str] = []
+    raw_categories_for_dates = data.get("categories")
+
+    try:
+        if isinstance(raw_categories_for_dates, list):
+            for c in raw_categories_for_dates:
+                if isinstance(c, dict):
+                    evs = c.get("events") or []
+                    if isinstance(evs, list):
+                        for e in evs:
+                            if isinstance(e, dict):
+                                _, ds = _event_sources_dates(e)
+                                all_dates.extend(ds)
+        elif isinstance(raw_categories_for_dates, dict):
+            for _, evs in raw_categories_for_dates.items():
+                if isinstance(evs, list):
+                    for e in evs:
+                        if isinstance(e, dict):
+                            _, ds = _event_sources_dates(e)
+                            all_dates.extend(ds)
+    except Exception:
+        all_dates = []
+
+    minmax = _min_max_iso_dates(all_dates)
+    range_part = None
+    if minmax:
+        start_iso, end_iso = minmax
+        range_part = f"{_format_iso_date(start_iso)} – {_format_iso_date(end_iso)}"
+
+    # Derive short title from JSON fields or from common title patterns.
+    # Priority:
+    #  1) Explicit fields in JSON
+    #  2) Text after 'Appendix:' in the title
+    #  3) Text after the first ':' in the title
+    short_title = None
+
+    for k in ("short_title", "week_short_title", "week_title_short", "subtitle"):
+        v = data.get(k)
+        if isinstance(v, str) and v.strip():
+            short_title = v.strip()
+            break
+
+    if not short_title and isinstance(title, str):
+        t = title.strip()
+        if "Appendix:" in t:
+            after = t.split("Appendix:", 1)[1].strip()
+            if after:
+                short_title = after
+        elif ":" in t:
+            after = t.split(":", 1)[1].strip()
+            if after:
+                short_title = after
+
+    # Compose final chapter title for Vellum/TOC
+    base = f"Week {week}"
+    if range_part:
+        base = f"{base} ({range_part})"
+
+    # Prefer short title from markdown front matter if available
+    md_short_title = None
+    md_subtitle = None
+    md_path = None
+    try:
+        input_root = _resolve_input_root(None)
+        md_path = _discover_week_md(input_root, week)
+        logger.debug(f"Week {week:02d}: discovered markdown for title/subtitle: {md_path}")
+        if md_path.exists():
+            try:
+                raw_preview = md_path.read_text(encoding="utf-8", errors="replace")
+                preview_lines = [ln.rstrip() for ln in raw_preview.splitlines() if ln.strip()][:10]
+                logger.debug(f"Week {week:02d}: md preview (first 10 non-empty lines): {preview_lines}")
+                logger.debug(f"Week {week:02d}: md_path size={md_path.stat().st_size}")
+            except Exception as _exc:
+                logger.debug(f"Week {week:02d}: could not read md preview: {md_path} ({_exc})")
+        else:
+            logger.debug(f"Week {week:02d}: md_path does not exist: {md_path}")
+
+        md_short_title, md_subtitle = _extract_title_subtitle_from_md(md_path, logger)
+        logger.debug(f"Week {week:02d}: md-derived short_title={md_short_title!r}, subtitle={md_subtitle!r}")
+    except Exception as exc:
+        logger.debug(f"Week {week:02d}: could not derive short title/subtitle from markdown ({exc})")
+
+    effective_short_title = md_short_title or short_title
+    logger.debug(
+        f"Week {week:02d}: title parts: base={base!r}, json_short_title={short_title!r}, md_short_title={md_short_title!r}, effective_short_title={effective_short_title!r}"
+    )
+
+    # Compose final chapter title (DROP the word 'Appendix')
+    final_title = base
+    if effective_short_title:
+        final_title = f"{final_title}: {effective_short_title}"
 
     doc = Document()
-    doc.add_paragraph(title, style="Heading 1")
+    logger.debug(f"Week {week:02d}: final chapter title={final_title!r}")
+    doc.add_paragraph(final_title, style="Heading 1")
 
-    # Optional summary (string)
+    # Optional subtitle rendered as italic block paragraph
+    if md_subtitle:
+        p = doc.add_paragraph(md_subtitle, style="Normal")
+        p.paragraph_format.left_indent = Inches(0.25)
+        p.paragraph_format.right_indent = Inches(0.10)
+        for run in p.runs:
+            run.italic = True
+        logger.debug(f"Week {week:02d}: wrote subtitle as italic indented blockquote-style paragraph")
+
+    # Optional summary paragraph (prefer JSON; fall back to markdown used for Substack)
     summary = data.get("summary")
+    wrote_summary = False
+
     if isinstance(summary, str) and summary.strip():
-        for p in _split_md_paragraphs(summary.splitlines()):
-            doc.add_paragraph(p, style="Normal")
+        for ptxt in _split_md_paragraphs(summary.splitlines()):
+            doc.add_paragraph(ptxt, style="Normal")
+        wrote_summary = True
+        logger.debug(f"Week {week:02d}: wrote summary paragraph(s) from JSON 'summary' field")
+
+    if not wrote_summary:
+        try:
+            input_root = _resolve_input_root(None)
+            md_path = _discover_week_md(input_root, week)
+            logger.debug(
+                f"Week {week:02d}: attempting markdown summary extraction from {md_path} (subtitle_to_exclude={md_subtitle!r})"
+            )
+
+            md_summary = _extract_week_summary_from_md(
+                md_path,
+                logger,
+                subtitle_to_exclude=md_subtitle,
+            )
+            logger.debug(f"Week {week:02d}: markdown summary extractor returned: {md_summary!r}")
+
+            if md_summary:
+                doc.add_paragraph(md_summary, style="Normal")
+                wrote_summary = True
+                logger.debug(f"Week {week:02d}: wrote summary paragraph from markdown fallback")
+            else:
+                logger.debug(f"Week {week:02d}: no markdown-derived summary paragraph found")
+
+        except Exception as exc:
+            logger.debug(f"Week {week:02d}: Could not extract summary from markdown fallback ({exc})")
 
     raw_categories = data.get("categories")
     cat_to_events: Dict[str, List[Dict]] = {c: [] for c in CANONICAL_CATEGORIES_ORDER}
@@ -858,6 +1483,10 @@ def main() -> None:
 
     logger.info(f"Input root:  {input_root}")
     logger.info(f"Output root: {output_root}")
+    try:
+        logger.debug(f"Substack root exists={DEFAULT_SUBSTACK_ROOT.exists()} path={DEFAULT_SUBSTACK_ROOT}")
+    except Exception:
+        pass
 
     for week in range(args.week, args.week + args.weeks):
         logger.info(f"Processing Week {week:02d}")

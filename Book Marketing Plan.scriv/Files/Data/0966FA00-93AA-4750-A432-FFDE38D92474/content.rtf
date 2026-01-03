@@ -1,0 +1,520 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2867
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 .SFNS-Regular;\f1\fnil\fcharset0 HelveticaNeue-Bold;\f2\fnil\fcharset0 .AppleSystemUIFontMonospaced-Regular;
+\f3\fswiss\fcharset0 Helvetica;\f4\fnil\fcharset0 EBGaramond-Regular;\f5\fnil\fcharset0 .SFNS-Semibold;
+\f6\fnil\fcharset0 LucidaGrande-Bold;\f7\fmodern\fcharset0 Courier;\f8\fnil\fcharset0 AppleColorEmoji;
+\f9\fnil\fcharset0 Menlo-Regular;\f10\froman\fcharset0 TimesNewRomanPSMT;\f11\fnil\fcharset0 .SFNS-RegularItalic;
+\f12\fnil\fcharset128 HiraginoSans-W6;}
+{\colortbl;\red255\green255\blue255;\red14\green14\blue14;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c6700\c6700\c6700;\csgray\c0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 Perfect \'97 this screenshot answers the key question. You 
+\f1\b do have everything you need
+\f0\b0  in JetEngine to implement the 
+\f2 \cf2 /narrative?week=49
+\f0 \cf2  / 
+\f2 \cf2 /appendix?week=49
+\f0 \cf2  model cleanly, without hacks or guessing.\
+\
+Below is the 
+\f1\b exact, click-level configuration
+\f0\b0  for the Meta Query you are looking at.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f3\fs24 \cf0 \
+
+\f4 \uc0\u11835 
+\f3 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f5\b\fs34 \cf2 Goal (restated precisely)
+\f0\b0\fs28 \
+\
+On a Page like 
+\f2 \cf2 /narrative
+\f0 \cf2 :\
+\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	Read 
+\f2 \cf2 ?week=49
+\f0 \cf2  from the URL\
+	\'95	Query 
+\f1\b one Week post
+\f0\b0  where:\
+\pard\tqr\tx500\tx660\li660\fi-660\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	
+\f2 \cf2 week_number == 49
+\f0 \cf2 \
+\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	Render narrative fields from that post\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f3\fs24 \cf0 \
+
+\f4 \uc0\u11835 
+\f3 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f5\b\fs44 \cf2 Exact JetEngine Meta Query Configuration
+\f0\b0\fs28 \cf2 \
+\
+You are here:\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f1\b \cf2 JetEngine 
+\f6 \uc0\u8594 
+\f1  Query Builder 
+\f6 \uc0\u8594 
+\f1  Add Query 
+\f6 \uc0\u8594 
+\f1  Posts Query 
+\f6 \uc0\u8594 
+\f1  Meta Query
+\f0\b0 \
+\
+Fill the clause as follows:\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f3\fs24 \cf0 \
+
+\f4 \uc0\u11835 
+\f3 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f5\b\fs30 \cf2 1. Field key / name
+\f3\b0\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f7\fs28 \cf3 week_number
+\f3\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f8\fs28 \cf2 \uc0\u9888 \u65039 
+\f0  This must be the 
+\f1\b ACF field name
+\f0\b0 , not the label.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f3\fs24 \cf0 \
+
+\f4 \uc0\u11835 
+\f3 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f5\b\fs30 \cf2 2. Compare
+\f3\b0\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f7\fs28 \cf3 =
+\f3\fs24 \cf0 \
+\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f4 \cf0 \uc0\u11835 
+\f3 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f5\b\fs30 \cf2 3. Value  
+\f8\b0 \uc0\u9989 
+\f5\b  THIS IS THE IMPORTANT PART
+\f0\b0\fs28 \
+\
+Click the 
+\f1\b database / cylinder icon
+\f0\b0  on the right of the Value field.\
+\
+Choose:
+\f3\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f7\fs28 \cf3 Macros 
+\f9 \uc0\u8594 
+\f7  Query Variable 
+\f9 \uc0\u8594 
+\f7  week
+\f3\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 What will appear in the field (conceptually) is:
+\f3\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f7\fs28 \cf3 %query_var|week%
+\f3\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 JetEngine resolves this at runtime to the 
+\f2 \cf2 ?week=
+\f0 \cf2  value from the URL.\
+\
+So:\
+\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	
+\f2 \cf2 /narrative?week=49
+\f0 \cf2  \uc0\u8594  Value becomes 
+\f2 \cf2 49
+\f0 \cf2 \
+	\'95	
+\f2 \cf2 /appendix?week=27
+\f0 \cf2  \uc0\u8594  Value becomes 
+\f2 \cf2 27
+\f0 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f3\fs24 \cf0 \
+
+\f4 \uc0\u11835 
+\f3 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f5\b\fs30 \cf2 4. Type
+\f3\b0\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f7\fs28 \cf3 Numeric
+\f3\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 This matters \'97 your 
+\f2 \cf2 week_number
+\f0 \cf2  is numeric and must be compared numerically.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f3\fs24 \cf0 \
+
+\f4 \uc0\u11835 
+\f3 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f5\b\fs30 \cf2 5. Clause name (optional but recommended)
+\f3\b0\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f7\fs28 \cf3 by_week_number
+\f3\fs24 \cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 This lets you reuse or order by this clause later.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f3\fs24 \cf0 \
+
+\f4 \uc0\u11835 
+\f3 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f5\b\fs30 \cf2 That\'92s it.
+\f0\b0\fs28 \
+\
+You now have a query that correctly answers:\
+\
+\pard\tx860\tx1420\tx1980\tx2540\tx3100\tx3660\tx4220\tx4780\tx5340\tx5900\tx6460\tx7020\li300\sl324\slmult1\partightenfactor0
+\cf2 \'93Give me the Week post whose 
+\f2 \cf2 week_number
+\f0 \cf2  equals the 
+\f2 \cf2 week
+\f0 \cf2  query parameter.\'94\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f3\fs24 \cf0 \
+
+\f4 \uc0\u11835 
+\f3 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f5\b\fs44 \cf2 How this is used on the Page
+\f0\b0\fs28 \cf2 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f5\b\fs34 \cf2 /narrative Page
+\f0\b0\fs28 \
+\pard\tqr\tx260\tx420\li420\fi-420\sl324\slmult1\sb240\partightenfactor0
+
+\f10 \cf2 	1.	Edit 
+\f2 \cf2 /narrative
+\f0 \cf2  in Elementor\
+
+\f10 	2.	Drop in a 
+\f1\b Listing Grid
+\f0\b0 \
+
+\f10 	3.	Assign:\
+\pard\tqr\tx500\tx660\li660\fi-660\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	Listing template: 
+\f11\i \cf2 Week Narrative View
+\f0\i0 \cf2 \
+	\'95	Query: 
+\f1\b \cf2 the query you just built
+\f0\b0 \cf2 \
+	\'95	Posts number: 
+\f2 \cf2 1
+\f0 \cf2 \
+\
+Inside the Listing:\
+\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	Dynamic Image \uc0\u8594  narrative featured image field\
+	\'95	Dynamic Field \uc0\u8594  narrative title\
+	\'95	Dynamic Field \uc0\u8594  narrative HTML\
+	\'95	Dynamic Field \uc0\u8594  moral floor summary (optional)\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f5\b\fs34 \cf2 /appendix Page
+\f0\b0\fs28 \
+\
+Same structure, different Listing template:\
+\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	
+\f11\i Week Appendix View
+\f0\i0 \
+	\'95	Use appendix summary / event list fields instead\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f3\fs24 \cf0 \
+
+\f4 \uc0\u11835 
+\f3 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f5\b\fs44 \cf2 What about \'93current week\'94 (no ?week=)?
+\f0\b0\fs28 \cf2 \
+\
+You have two clean options:\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f5\b\fs30 \cf2 Option A \'97 Require ?week=
+\f0\b0\fs28 \
+\
+Simple, explicit, deterministic.\
+\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	Home page links:\
+\pard\tqr\tx500\tx660\li660\fi-660\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	
+\f2 \cf2 /narrative?week=49
+\f0 \cf2 \
+	\'95	
+\f2 \cf2 /appendix?week=49
+\f0 \cf2 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f5\b\fs30 \cf2 Option B \'97 Graceful fallback
+\f0\b0\fs28 \
+\
+Create 
+\f1\b second query
+\f0\b0 :\
+\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	Meta: 
+\f2 \cf2 is_current = 1
+\f0 \cf2 \
+\
+Then in Elementor:\
+	\'95	Use 
+\f1\b Conditional Visibility
+\f0\b0 :\
+\pard\tqr\tx500\tx660\li660\fi-660\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	If URL param 
+\f2 \cf2 week
+\f0 \cf2  exists \uc0\u8594  show Listing Grid A\
+	\'95	Else \uc0\u8594  show Listing Grid B (current week)\
+\
+This keeps 
+\f2 \cf2 /narrative
+\f0 \cf2  working as \'93This Week\'94.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f3\fs24 \cf0 \
+
+\f4 \uc0\u11835 
+\f3 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f5\b\fs44 \cf2 Why this satisfies your earlier rules
+\f0\b0\fs28 \cf2 \
+\
+Let\'92s check them explicitly.\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f5\b\fs30 \cf2 1. Don\'92t rely on values you don\'92t control
+\f0\b0\fs28 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f8 \cf2 \uc0\u9989 
+\f0  Uses only:\
+\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	
+\f2 \cf2 week_number
+\f0 \cf2  (you control)\
+	\'95	
+\f2 \cf2 is_current
+\f0 \cf2  (you control)\
+\
+No URL guessing. No permalinks.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f3\fs24 \cf0 \
+
+\f4 \uc0\u11835 
+\f3 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f5\b\fs30 \cf2 2. Clock Status info available without loading narrative/appendix
+\f0\b0\fs28 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f8 \cf2 \uc0\u9989 
+\f0  Your Week post already contains:\
+\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	times\
+	\'95	tiers\
+	\'95	summaries\
+	\'95	moral floor\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f3\fs24 \cf0 \
+
+\f4 \uc0\u11835 
+\f3 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f5\b\fs30 \cf2 3. Narrative / Appendix usable without Clock Status
+\f0\b0\fs28 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f8 \cf2 \uc0\u9989 
+\f0  There is no Clock Status post anymore. One record is canonical.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f3\fs24 \cf0 \
+
+\f4 \uc0\u11835 
+\f3 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f5\b\fs30 \cf2 4. Minimize duplication
+\f0\b0\fs28 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f8 \cf2 \uc0\u9989 
+\f0  Single post per week\
+\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	Narrative fields\
+	\'95	Appendix fields\
+	\'95	Shared week metadata once\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f3\fs24 \cf0 \
+
+\f4 \uc0\u11835 
+\f3 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f5\b\fs30 \cf2 5. Week number as the join key
+\f0\b0\fs28 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f8 \cf2 \uc0\u9989 
+\f0  JetEngine query does exactly that.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f3\fs24 \cf0 \
+
+\f4 \uc0\u11835 
+\f3 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f5\b\fs44 \cf2 Bottom line
+\f0\b0\fs28 \cf2 \
+\
+This design is 
+\f1\b not a workaround
+\f0\b0 .\
+It is the 
+\f11\i intended
+\f0\i0  way JetEngine is meant to be used for parameterized views.\
+\
+On the 
+\f1\b genius 
+\f12 \uc0\u8596 
+\f1  garbage scale
+\f0\b0 :\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl324\slmult1\pardirnatural\partightenfactor0
+
+\f1\b \cf2 This is solidly in \'93quietly elegant systems design.\'94
+\f0\b0 \
+\
+If you want, next we can:\
+\pard\tqr\tx100\tx260\li260\fi-260\sl324\slmult1\sb240\partightenfactor0
+\cf2 	\'95	Lock the exact ACF field list for the unified Week post\
+	\'95	Sketch the two Listing templates (Narrative vs Appendix)\
+	\'95	Decide whether the appendix lives as tabs on the narrative page or a separate page long-term}

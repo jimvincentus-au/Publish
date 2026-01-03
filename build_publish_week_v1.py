@@ -1594,23 +1594,25 @@ def build_publish_week(
     include_appendix_source: bool = True,
     build_substack: bool = True,
     build_scrivener: bool = True,
+    seal_wordpress: bool = True,
     build_wordpress: bool = False,
 ) -> None:
     paths = discover_week_paths(week_number)
     logger.info("Building publish outputs for Week %s from %s", week_number, paths.week_dir)
 
     # B) DEFINE WORDPRESS OUTPUT PATHS
-    # Create per-week directory for WordPress output if enabled
-    if build_wordpress:
-        # Use zero-padded week folders so the filesystem sorts correctly.
+    # Maintain a sealed per-week WordPress artifact bundle (JSON inputs for import builders)
+    # even when we are not generating WordPress HTML.
+    if seal_wordpress or build_wordpress:
         wordpress_week_dir = WORDPRESS_OUTPUT_DIR / f"Week {week_number:02d}"
         wordpress_week_dir.mkdir(parents=True, exist_ok=True)
-        logger.info("WordPress week output dir: %s", wordpress_week_dir)
+        logger.info("WordPress week output dir (sealed bundle): %s", wordpress_week_dir)
     else:
         wordpress_week_dir = None
+        
     # Copy resolved week metadata into the WordPress output folder (sealed publish artifact)
     # The WordPress import generator should read metadata from Publish outputs, not Step 3.
-    if build_wordpress and wordpress_week_dir is not None:
+    if wordpress_week_dir is not None and (seal_wordpress or build_wordpress):
         try:
             wp_meta_dst = wordpress_week_dir / f"metadata_week{week_number:02d}.json"
             shutil.copy2(paths.metadata_json, wp_meta_dst)
@@ -2032,6 +2034,11 @@ def parse_args(argv: Optional[list[str]] = None) -> argparse.Namespace:
         help="Comma-separated targets to skip (substack,scrivener,wordpress). Skipped targets are not written.",
     )
     parser.add_argument(
+        "--seal-wordpress",
+        action="store_true",
+        help="Always write the sealed per-week WordPress artifact bundle into Publish/Output/Wordpress, even if --only excludes wordpress HTML generation.",
+    )
+    parser.add_argument(
         "--level",
         choices=["debug", "info", "warning", "error"],
         default="info",
@@ -2089,6 +2096,7 @@ def main(argv: Optional[list[str]] = None) -> None:
     build_substack = (not only_set or "substack" in only_set) and ("substack" not in skip_set)
     build_scrivener = (not only_set or "scrivener" in only_set) and ("scrivener" not in skip_set)
     build_wordpress = (not only_set or "wordpress" in only_set) and ("wordpress" not in skip_set)
+    seal_wordpress: bool = bool(getattr(args, "seal_wordpress", False))
 
     if only_set and skip_set:
         overlap = sorted(list(only_set.intersection(skip_set)))
@@ -2111,6 +2119,7 @@ def main(argv: Optional[list[str]] = None) -> None:
                 build_substack=build_substack,
                 build_scrivener=build_scrivener,
                 build_wordpress=build_wordpress,
+                seal_wordpress=seal_wordpress,
             )
     except Exception as exc:
         failed = current_week if current_week is not None else start

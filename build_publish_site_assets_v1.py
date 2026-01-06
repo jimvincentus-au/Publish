@@ -53,8 +53,8 @@ def load_timeline(path: Path):
                 }
             )
     rows.sort(key=lambda r: r["week"])
-    if len(rows) < 2:
-        raise ValueError("Timeline must contain at least two weeks.")
+    if len(rows) < 1:
+        raise ValueError("Timeline must contain at least one week.")
     return rows
 
 
@@ -129,7 +129,10 @@ def generate_anchor_chart(rows, out_svg: Path, out_png: Path, y_mode: str):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--timeline", required=True, help="Path to global timeline.json")
+    group = ap.add_mutually_exclusive_group(required=True)
+    group.add_argument("--timeline", help="Path to global timeline.json, or a week number shorthand")
+    group.add_argument("--week", type=int, help="Start week number for batch generation")
+    ap.add_argument("--weeks", type=int, default=1, help="Number of weeks to generate (used with --week)")
     ap.add_argument("--force", action="store_true")
     ap.add_argument("--no-images-mirror", action="store_true")
     ap.add_argument(
@@ -140,34 +143,15 @@ def main():
     )
     args = ap.parse_args()
 
-    # Resolve --timeline: either explicit path or week number
-    timeline_arg = args.timeline
-    timeline_path: Path
-
-    # Week-number shorthand
-    if timeline_arg.isdigit():
-        week = int(timeline_arg)
-        if week < 2:
-            sys.exit("--timeline week number must be >= 2")
-
+    def resolve_timeline_for_week(week: int) -> Path:
         script_dir = Path(__file__).resolve().parent
-        timeline_path = (
+        return (
             script_dir.parent
             / "Step 3"
             / "Weeks"
             / f"Week {week}"
             / f"timeline_week{week}.json"
         )
-
-    else:
-        timeline_path = Path(timeline_arg)
-
-    if not timeline_path.exists():
-        sys.exit(f"Missing timeline file: {timeline_path}")
-
-    print(f"Using timeline: {timeline_path}")
-
-    rows = load_timeline(timeline_path)
 
     publish_root = Path(__file__).resolve().parent
 
@@ -186,22 +170,60 @@ def main():
     wp_site_dir.mkdir(parents=True, exist_ok=True)
     img_dir.mkdir(parents=True, exist_ok=True)
 
-    svg_path = wp_site_dir / "democracy-clock-anchor.svg"
-    png_path = wp_site_dir / "democracy-clock-anchor.png"
+    def publish_one(rows_local, svg_out: Path, png_out: Path):
+        if not args.force and (svg_out.exists() or png_out.exists()):
+            print(f"Anchor chart exists; skipping (use --force to overwrite): {svg_out.name}")
+            return
+        generate_anchor_chart(rows_local, svg_out, png_out, args.format)
+        if not args.no_images_mirror:
+            shutil.copy2(svg_out, img_dir / svg_out.name)
+            shutil.copy2(png_out, img_dir / png_out.name)
+        print("Anchor chart published:")
+        print(f"  {svg_out}")
+        print(f"  {png_out}")
 
-    if not args.force and (svg_path.exists() or png_path.exists()):
-        print("Anchor chart exists; use --force to overwrite.")
+    if args.timeline is not None:
+        timeline_arg = args.timeline
+        if timeline_arg.isdigit():
+            week = int(timeline_arg)
+            if week < 1:
+                sys.exit("--timeline week number must be >= 1")
+            timeline_path = resolve_timeline_for_week(week)
+        else:
+            timeline_path = Path(timeline_arg)
+
+        if not timeline_path.exists():
+            sys.exit(f"Missing timeline file: {timeline_path}")
+
+        print(f"Using timeline: {timeline_path}")
+        rows = load_timeline(timeline_path)
+
+        svg_path = wp_site_dir / "democracy-clock-anchor.svg"
+        png_path = wp_site_dir / "democracy-clock-anchor.png"
+        publish_one(rows, svg_path, png_path)
         return
 
-    generate_anchor_chart(rows, svg_path, png_path, args.format)
+    # Batch mode: --week/--weeks
+    start_week = args.week
+    if start_week is None:
+        sys.exit("Internal error: --week missing in batch mode")
+    if args.weeks < 1:
+        sys.exit("--weeks must be >= 1")
 
-    if not args.no_images_mirror:
-        shutil.copy2(svg_path, img_dir / svg_path.name)
-        shutil.copy2(png_path, img_dir / png_path.name)
+    end_week = start_week + args.weeks - 1
+    for wk in range(start_week, end_week + 1):
+        timeline_path = resolve_timeline_for_week(wk)
+        if not timeline_path.exists():
+            sys.exit(f"Missing timeline file: {timeline_path}")
+        rows_local = load_timeline(timeline_path)
 
-    print("Anchor chart published:")
-    print(f"  {svg_path}")
-    print(f"  {png_path}")
+        svg_name = f"democracy_clock_anchor_week{wk:02d}.svg"
+        png_name = f"democracy_clock_anchor_week{wk:02d}.png"
+        svg_path = wp_site_dir / svg_name
+        png_path = wp_site_dir / png_name
+
+        print(f"Using timeline (week {wk}): {timeline_path}")
+        publish_one(rows_local, svg_path, png_path)
 
 
 if __name__ == "__main__":

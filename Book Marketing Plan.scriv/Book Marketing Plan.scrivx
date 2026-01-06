@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="82CD61A0-191E-4230-8953-A6365A6C9986" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="Jims-MacBook-Air" Author="" Modified="2026-01-03 15:12:28 +1000" ModID="5787025F-2AAD-4BC2-B38B-26E3C6EF51D3">
+<ScrivenerProject Identifier="82CD61A0-191E-4230-8953-A6365A6C9986" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="Jims-MacBook-Air" Author="" Modified="2026-01-04 17:12:27 +1000" ModID="6E3C008C-DBC0-4C78-852F-D16A1DF389D4">
     <Binder>
         <BinderItem UUID="0C8470A9-BDB0-4C45-ADFB-06446A05AC71" Type="DraftFolder" Created="2026-01-02 04:24:46 +1000" Modified="2026-01-02 04:24:46 +1000">
             <Title>Draft</Title>
@@ -7,6 +7,15 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
+                <BinderItem UUID="1782E402-C46E-4109-993C-7361C35E04B8" Type="Text" Created="2026-01-04 17:11:36 +1000" Modified="2026-01-04 17:12:27 +1000">
+                    <Title>DAY-BY-DAY PUBLISHING PLAN</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
                 <BinderItem UUID="3D83C358-4A07-4C3E-B50C-2E6E7786C68B" Type="Text" Created="2026-01-02 04:24:46 +1000" Modified="2026-01-02 05:07:59 +1000">
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -20,7 +29,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>3601,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="B6801834-CFDE-42F3-B9AF-37942AC76367" Type="Text" Created="2026-01-02 04:30:51 +1000" Modified="2026-01-02 04:30:55 +1000">
@@ -127,12 +136,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2026-01-02 04:24:45 +1000" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2026-01-04 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="535" Characters="3601" Date="2026-01-03 15:12:16 +1000"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2026-01-05 00:00:00 +1000" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="866" Characters="5933" Date="2026-01-04 17:11:28 +1000"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2026-01-03 00:00:00 +1000">
-        <DraftWordCount>535</DraftWordCount>
-        <DraftCharCount>3601</DraftCharCount>
+    <RecentWritingHistory Date="2026-01-04 00:00:00 +1000">
+        <DraftWordCount>866</DraftWordCount>
+        <DraftCharCount>5933</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

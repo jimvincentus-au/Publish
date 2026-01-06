@@ -131,6 +131,7 @@ SOURCE_DISPLAY_NAMES: Dict[str, str] = {
     "scotus": "Supreme Court of the United States",
     "dhs": "U.S. Department of Homeland Security",
     "doj": "U.S. Department of Justice",
+    "shadow": "Supreme Court Shadow Docket",
     "dod": "U.S. Department of Defense",
 
     # Media wires / outlets

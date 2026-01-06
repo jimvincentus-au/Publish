@@ -9,6 +9,7 @@ from typing import List, Dict, Any, Optional, Tuple
 import logging
 import re
 import html as html_lib
+from urllib.parse import urlparse
 
 import pandas as pd
 
@@ -184,6 +185,125 @@ def load_event_count_total(week_dir: Path, week: int, logger: Optional[logging.L
     # If it’s missing, do NOT hard-fail import; just leave blank and log.
     _log(f"Event Count: no events appendix JSON found under {week_dir} for week={week}")
     return ""
+
+
+# --- Sources union (derive from events appendix when available) ---
+EXCLUDED_SOURCES_TOKENS = {
+    "new york times",
+    "nyt",
+    "nytimes.com",
+    "nytimes",
+}
+
+# Optional pretty-name mapping for common sources/domains.
+DOMAIN_SOURCE_MAP = {
+    "zeteo.com": "Zeteo",
+    "justsecurity.org": "Just Security",
+    "lawfaremedia.org": "Lawfare",
+    "congress.gov": "Congress.gov",
+    "federalregister.gov": "Federal Register",
+    "whitehouse.gov": "White House",
+    "justice.gov": "DOJ",
+    "supremecourt.gov": "Supreme Court",
+    "senate.gov": "U.S. Senate",
+    "house.gov": "U.S. House",
+}
+
+
+def _source_name_from_url(u: str) -> str:
+    try:
+        netloc = urlparse(u).netloc.lower().strip()
+        if netloc.startswith("www."):
+            netloc = netloc[4:]
+        if not netloc:
+            return ""
+        return DOMAIN_SOURCE_MAP.get(netloc, netloc)
+    except Exception:
+        return ""
+
+
+def _looks_excluded_source(s: str) -> bool:
+    sl = (s or "").strip().lower()
+    if not sl:
+        return False
+    return any(tok in sl for tok in EXCLUDED_SOURCES_TOKENS)
+
+
+def load_week_sources_union(week_dir: Path, week: int, logger: Optional[logging.Logger] = None) -> str:
+    """Return a comma-separated union of sources for the week.
+
+    Priority:
+      1) Derive from events appendix JSON (preferred, reflects actual week sources)
+      2) Fall back to metadata-provided sources/quote_sources (handled by caller)
+
+    The events appendix schema may vary; we walk the JSON and harvest any strings
+    that look like URLs or publisher/source names.
+    """
+
+    def _log(msg: str) -> None:
+        if logger is not None:
+            logger.debug(msg)
+
+    wk2 = f"{week:02d}"
+    wk = str(int(week))
+
+    candidates = [
+        week_dir / f"events_appendix_week{wk2}.json",
+        week_dir / f"events_appendix_week{wk}.json",
+    ]
+
+    recursive = sorted({
+        *week_dir.rglob(f"*events*appendix*week{wk2}*.json"),
+        *week_dir.rglob(f"*events*appendix*week{wk}*.json"),
+    })
+
+    found: set[str] = set()
+
+    def harvest(obj: Any) -> None:
+        if isinstance(obj, dict):
+            for k, v in obj.items():
+                kl = str(k).lower()
+                # Common keys where sources live
+                if kl in {"source", "sources", "url", "urls", "link", "links", "href", "publisher", "outlet"}:
+                    harvest(v)
+                else:
+                    harvest(v)
+        elif isinstance(obj, list):
+            for v in obj:
+                harvest(v)
+        elif isinstance(obj, str):
+            s = obj.strip()
+            if not s:
+                return
+            # If it is a URL, convert to a source name (domain or mapped name)
+            if s.startswith("http://") or s.startswith("https://"):
+                name = _source_name_from_url(s)
+                if name and not _looks_excluded_source(name):
+                    found.add(name)
+            else:
+                # Plain text source name
+                if not _looks_excluded_source(s):
+                    found.add(s)
+
+    for p in [*candidates, *recursive]:
+        if not p.exists() or not p.is_file():
+            continue
+        _log(f"Sources Union: trying {p}")
+        try:
+            data = load_json(p)
+            harvest(data)
+            if found:
+                break
+        except Exception as e:
+            _log(f"Sources Union: failed reading {p}: {e}")
+
+    if not found:
+        _log(f"Sources Union: no sources derived from events appendix under {week_dir} for week={week}")
+        return ""
+
+    # Normalize/collapse and sort for stable output
+    cleaned = sorted({str(x).strip() for x in found if str(x).strip()})
+    return ", ".join(cleaned)
 
 
 
@@ -1098,8 +1218,23 @@ def build_week_post_row(
     if acf_event_count_total == "":
         # optional fallback to metadata if you want *something*
         acf_event_count_total = _extract_event_count_total(metadata)
-    acf_sources_raw = metadata.get("quote_sources", metadata.get("sources", ""))
-    acf_sources = _normalize_sources(acf_sources_raw)
+    # Sources: prefer union derived from events appendix (reflects actual week sources)
+    week_dir_for_sources = narrative_html_path.parent
+    derived_sources = load_week_sources_union(week_dir_for_sources, week_number, logger=logger)
+
+    if derived_sources:
+        acf_sources = derived_sources
+    else:
+        # Fallback: metadata-provided sources (may be generic defaults)
+        acf_sources_raw = metadata.get("sources", "")
+        if not acf_sources_raw:
+            acf_sources_raw = metadata.get("quote_sources", "")
+        acf_sources = _normalize_sources(acf_sources_raw)
+        # Hard exclusion guard (e.g., NYT) even in fallback mode
+        if acf_sources:
+            parts = [p.strip() for p in acf_sources.split(",") if p.strip()]
+            parts = [p for p in parts if not _looks_excluded_source(p)]
+            acf_sources = ", ".join(parts)
     # Appendix excerpt: falls back to short synopsis if no explicit appendix summary exists
     acf_appendix_excerpt = metadata.get("appendix_summary", metadata.get("short_synopsis", ""))
     # Read narrative HTML
@@ -1164,7 +1299,8 @@ def build_week_post_row(
         "Image Caption": "",
         "Image Description": "",
         "Image Alt Text": "",
-        "Image Featured": "1" if final_image_url else "",
+        # WP All Import / WP All Export expect the featured image field to be the image URL (not a boolean), so downstream imports can set _thumbnail_id.
+        "Image Featured": final_image_url,
         "Categories": categories,
         "Tags": "",
         "Status": final_status,
@@ -1319,7 +1455,8 @@ def main() -> None:
         else:
             start = args.week
             end = args.week + args.weeks - 1
-            output_path = WP_OUTPUT_ROOT / f"wordpress_import_weeks_{start:02d}_{end:02d}.xlsx"
+            ts = datetime.utcnow().strftime("%Y-%m-%d-%H-%M")
+            output_path = WP_OUTPUT_ROOT / f"wordpress_import_weeks_{start:02d}_{end:02d}_{ts}.xlsx"
     logger.info(f"Output path set to: {output_path}")
     output_path.parent.mkdir(parents=True, exist_ok=True)
     df.to_excel(output_path, index=False)

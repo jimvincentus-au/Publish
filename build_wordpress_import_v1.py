@@ -10,6 +10,7 @@ import logging
 import re
 import html as html_lib
 from urllib.parse import urlparse
+import csv
 
 import pandas as pd
 
@@ -24,7 +25,7 @@ PUBLISH_LOGS_DIR = PUBLISH_ROOT / "Logs"
 
 # Column schema for WP All Import (matches the WP All Export layout used for --update)
 COLUMN_ORDER: List[str] = [
-    "id",
+    "ID",
     "Title",
     "Content",
     "Excerpt",
@@ -40,6 +41,7 @@ COLUMN_ORDER: List[str] = [
     "Image Description",
     "Image Alt Text",
     "Image Featured",
+    "Attachment URL",
     "Categories",
     "Tags",
     "Status",
@@ -64,9 +66,7 @@ COLUMN_ORDER: List[str] = [
     "Week End Date",
     "Week Label",
     "Week Start Minutes",
-    "Week Start Time",
     "Week End Minutes",
-    "Week End Time",
     "Week Movement Minutes",
     "Week Start Time Display",
     "Week End Time Display",
@@ -84,8 +84,6 @@ COLUMN_ORDER: List[str] = [
     "Appendix Title",
     "Appendix Content",
     "Appendix Excerpt",
-    "Appendix Featured Image URL",
-    "Appendix Featured Image Filename",
 ]
 
 # (Removed: CLOCK_STATUS_COLUMN_ORDER)
@@ -492,7 +490,13 @@ def parse_args() -> argparse.Namespace:
         default=DEFAULT_SITE_BASE_URL,
         help="Base site URL used to predict permalinks when WP export permalinks are unavailable (default: site root).",
     )
-    parser.add_argument("--output", help="Output XLSX file path (optional; default is auto-generated)")
+    parser.add_argument("--output", help="Output XLSX or CSV file path (optional; default is auto-generated)")
+    parser.add_argument(
+        "--csv",
+        action="store_true",
+        default=True,
+        help="Emit a CSV alongside the XLSX (default: enabled).",
+    )
     parser.add_argument(
         "--skip-missing",
         action="store_true",
@@ -1082,7 +1086,8 @@ def build_week_post_row(
             return default
         return v
     # Carry-forward WP-owned fields (authoritative from WP export)
-    wp_id = str(_carry("id", ""))
+    # WP All Export uses 'ID' (capitalized). We still tolerate legacy 'id'.
+    wp_id = str(_carry("ID", "")) or str(_carry("id", ""))
     wp_permalink = str(_carry("Permalink", ""))
     wp_date = str(_carry("Date", ""))
     wp_status_existing = str(_carry("Status", ""))
@@ -1116,8 +1121,6 @@ def build_week_post_row(
     acf_week_end_date = _to_ymd(acf_week_end_date_iso)
     acf_week_start_minutes = cf.get("week_start_minutes")
     acf_week_end_minutes = cf.get("week_end_minutes")
-    acf_week_start_time = str(cf.get("week_start_time") or "")
-    acf_week_end_time = str(cf.get("week_end_time") or "")
     # Week label
     acf_week_label = _format_week_label(week_number, acf_week_start_date_iso, acf_week_end_date_iso)
     # Movement minutes (prefer carry-forward start/end; fallback to carry_forward clock_delta_minutes; final fallback to metadata)
@@ -1275,16 +1278,13 @@ def build_week_post_row(
     app_html = _strip_epigraph_blocks(appendix_html)
     app_html = _strip_first_h1(app_html)
     # Do NOT run subtitle conversion for appendix
-    # Appendix featured image
-    appendix_featured_image_filename = f"week{week_number:02d}-appendix-featured.jpg"
-    appendix_featured_image_url = f"{base}/{appendix_featured_image_filename}" if base else ""
     # Display time fields
     week_start_time_display = _minutes_after_noon_to_time_str(acf_week_start_minutes)
     week_end_time_display = _minutes_after_noon_to_time_str(acf_week_end_minutes)
     # Is Current
     is_current_field = "1" if is_current else ""
     return {
-        "id": wp_id,
+        "ID": wp_id,
         "Title": wp_title,
         "Content": nar_html,
         "Excerpt": metadata.get("short_synopsis", ""),
@@ -1301,6 +1301,7 @@ def build_week_post_row(
         "Image Alt Text": "",
         # WP All Import / WP All Export expect the featured image field to be the image URL (not a boolean), so downstream imports can set _thumbnail_id.
         "Image Featured": final_image_url,
+        "Attachment URL": final_image_url,
         "Categories": categories,
         "Tags": "",
         "Status": final_status,
@@ -1325,9 +1326,7 @@ def build_week_post_row(
         "Week End Date": acf_week_end_date,
         "Week Label": acf_week_label,
         "Week Start Minutes": acf_week_start_minutes,
-        "Week Start Time": acf_week_start_time,
         "Week End Minutes": acf_week_end_minutes,
-        "Week End Time": acf_week_end_time,
         "Week Movement Minutes": delta_minutes,
         "Week Start Time Display": week_start_time_display,
         "Week End Time Display": week_end_time_display,
@@ -1345,8 +1344,6 @@ def build_week_post_row(
         "Appendix Title": acf_appendix_title,
         "Appendix Content": app_html,
         "Appendix Excerpt": acf_appendix_excerpt,
-        "Appendix Featured Image URL": appendix_featured_image_url,
-        "Appendix Featured Image Filename": appendix_featured_image_filename,
     }
 
 
@@ -1447,6 +1444,22 @@ def main() -> None:
     df = df[COLUMN_ORDER]
     if args.output:
         output_path = Path(args.output)
+        if str(output_path).lower().endswith(".csv"):
+            # Write ONLY CSV to that path
+            output_path.parent.mkdir(parents=True, exist_ok=True)
+            df.to_csv(
+                output_path,
+                index=False,
+                encoding="utf-8",
+                quoting=csv.QUOTE_ALL,
+                lineterminator="\n"
+            )
+            logger.info(f"Wrote WordPress import CSV file: {output_path}")
+            # Also write XLSX sibling, unless --csv is explicitly set without XLSX (but we always write XLSX sibling here)
+            xlsx_path = output_path.with_suffix(".xlsx")
+            df.to_excel(xlsx_path, index=False)
+            logger.info(f"Wrote WordPress import XLSX file: {xlsx_path}")
+            return
     else:
         if args.update and (args.export is None):
             if not active_export_name:
@@ -1461,6 +1474,16 @@ def main() -> None:
     output_path.parent.mkdir(parents=True, exist_ok=True)
     df.to_excel(output_path, index=False)
     logger.info(f"Wrote WordPress import file: {output_path}")
+    if args.csv:
+        csv_path = output_path.with_suffix('.csv')
+        df.to_csv(
+            csv_path,
+            index=False,
+            encoding="utf-8",
+            quoting=csv.QUOTE_ALL,
+            lineterminator="\n"
+        )
+        logger.info(f"Wrote WordPress import CSV file: {csv_path}")
 
 
 if __name__ == "__main__":

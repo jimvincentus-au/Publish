@@ -275,6 +275,11 @@ def parse_args() -> argparse.Namespace:
         default=None,
         help="Override output root folder for Vellum DOCX outputs",
     )
+    p.add_argument(
+        "--no-source",
+        action="store_true",
+        help="Omit sources in appendix output; keep only dates (when available).",
+    )
     return p.parse_args()
 
 
@@ -587,7 +592,7 @@ def _event_display_text(e: Dict) -> str:
 
 
 
-def _format_appendix_event_text(e: Dict) -> str:
+def _format_appendix_event_text(e: Dict, include_sources: bool = True) -> str:
     """Produce the list-item text for Word/Vellum from an appendix event dict."""
     actor = e.get("actor")
     action = e.get("action")
@@ -629,7 +634,7 @@ def _format_appendix_event_text(e: Dict) -> str:
     dates_fmt = _format_dates(dates)
 
     tail: List[str] = []
-    if sources_fmt:
+    if include_sources and sources_fmt:
         tail.append("; ".join(sources_fmt))
     if dates_fmt:
         tail.append("; ".join(dates_fmt))
@@ -639,6 +644,37 @@ def _format_appendix_event_text(e: Dict) -> str:
 
     text = " ".join(p.strip() for p in parts if p and p.strip())
     return re.sub(r"\s+", " ", text).strip()
+
+
+# Helper to omit sources from already-formatted event text (for markdown fallback)
+def _omit_sources_from_formatted_event_text(text: str) -> str:
+    """
+    For markdown-derived event lines that already embed provenance in parentheses like:
+      "... (Source A; Source B | 22 Jan 2025; 23 Jan 2025)"
+    return:
+      "... (22 Jan 2025; 23 Jan 2025)"
+    If the expected ' | ' separator is not present, return the original text unchanged.
+    """
+    s = str(text).strip()
+    if not s:
+        return s
+
+    # Find the last parenthetical group (provenance is expected at the end)
+    m = re.search(r"\(([^()]*)\)\s*$", s)
+    if not m:
+        return s
+
+    inner = m.group(1).strip()
+    if " | " not in inner:
+        return s
+
+    # Keep only the right side (dates)
+    right = inner.split(" | ", 1)[1].strip()
+    if not right:
+        # If there are no dates after the separator, drop the entire parentheses.
+        return s[: m.start()].rstrip()
+
+    return f"{s[: m.start()].rstrip()} ({right})"
 
 
 
@@ -924,7 +960,7 @@ def _extract_title_subtitle_from_md(md_path: Path, logger: logging.Logger) -> Tu
 
     return body_short_title, body_subtitle
 
-def build_docx_from_md(md_path: Path, out_path: Path, logger: logging.Logger) -> None:
+def build_docx_from_md(md_path: Path, out_path: Path, logger: logging.Logger, no_source: bool = False) -> None:
     raw = md_path.read_text(encoding="utf-8", errors="replace")
     lines = raw.splitlines()
 
@@ -1180,6 +1216,8 @@ def build_docx_from_md(md_path: Path, out_path: Path, logger: logging.Logger) ->
                 p.paragraph_format.left_indent = Inches(0.35)
                 p.paragraph_format.first_line_indent = Inches(-0.20)
                 p.add_run(f"{list_index}. ")
+                if no_source:
+                    text = _omit_sources_from_formatted_event_text(text)
                 p.add_run(text)
                 list_index += 1
             else:
@@ -1198,9 +1236,10 @@ def build_docx_from_md(md_path: Path, out_path: Path, logger: logging.Logger) ->
         )
     out_path.parent.mkdir(parents=True, exist_ok=True)
     doc.save(str(out_path))
+    logger.info(f"WROTE DOCX: {out_path}")
 
 
-def build_docx_from_appendix_json(json_path: Path, out_path: Path, week: int, logger: logging.Logger) -> None:
+def build_docx_from_appendix_json(json_path: Path, out_path: Path, week: int, logger: logging.Logger, no_source: bool = False) -> None:
     import json as _json
 
     data = _json.loads(json_path.read_text(encoding="utf-8", errors="replace"))
@@ -1430,7 +1469,7 @@ def build_docx_from_appendix_json(json_path: Path, out_path: Path, week: int, lo
             if dates:
                 events_with_dates += 1
 
-            line = _format_appendix_event_text(e)
+            line = _format_appendix_event_text(e, include_sources=(not no_source))
 
             p = doc.add_paragraph(style="Normal")
             p.paragraph_format.left_indent = Inches(0.35)
@@ -1465,6 +1504,7 @@ def build_docx_from_appendix_json(json_path: Path, out_path: Path, week: int, lo
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
     doc.save(str(out_path))
+    logger.info(f"WROTE DOCX: {out_path}")
 
     logger.info(
         f"Week {week:02d}: events={events_seen}, with_sources={events_with_sources}, with_dates={events_with_dates}"
@@ -1502,7 +1542,7 @@ def main() -> None:
             logger.debug(f"Resolved json_path={json_path}")
             logger.debug(f"Resolved out_path={out_path}")
 
-            build_docx_from_appendix_json(json_path, out_path, week, logger)
+            build_docx_from_appendix_json(json_path, out_path, week, logger, no_source=args.no_source)
         else:
             md_path = _discover_week_md(input_root, week)
             out_path = _output_docx_path(output_root, md_path)
@@ -1510,7 +1550,7 @@ def main() -> None:
             logger.debug(f"Resolved md_path={md_path}")
             logger.debug(f"Resolved out_path={out_path}")
 
-            build_docx_from_md(md_path, out_path, logger)
+            build_docx_from_md(md_path, out_path, logger, no_source=args.no_source)
 
     logger.info("Done.")
 

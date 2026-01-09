@@ -1,0 +1,116 @@
+{
+  "week_number": 42,
+  "period_label": "Week 42 – 2025-11-01–2025-11-07",
+  "window": {
+    "start": "2025-11-01",
+    "end": "2025-11-07"
+  },
+  "clock_time_public": "8:11 p.m.",
+  "clock_delta_minutes": 0.0,
+  "baseline_traits": [
+    {
+      "name": "character",
+      "definition": "Internal discipline to align words with deeds, to place public duty ahead of personal gain, and to honour the oath of office even when it conflicts with short-term advantage."
+    },
+    {
+      "name": "ethics",
+      "definition": "Commitment to keep a firm boundary between public power and private interest, avoiding conflicts of interest, self-dealing, and the use of office to enrich oneself, family, or allies."
+    },
+    {
+      "name": "restraint",
+      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+    },
+    {
+      "name": "truthfulness",
+      "definition": "Obligation to speak accurately on matters of public consequence, avoid deliberate disinformation, correct false statements, and ensure that citizens are not governed by manufactured unreality."
+    },
+    {
+      "name": "good_faith",
+      "definition": "Adherence to the spirit as well as the letter of democratic rules, keeping promises, respecting outcomes, and avoiding procedural manipulation that defeats the purpose of the law."
+    },
+    {
+      "name": "stewardship",
+      "definition": "Responsibility to maintain and strengthen institutions so they can serve future generations as well as the present, avoiding actions that permanently damage capacity, credibility, or public trust."
+    }
+  ],
+  "weekly_audit": {
+    "summary": "This week saw a continuation of significant erosion in democratic norms, characterized by the executive's aggressive use of power and disregard for legal boundaries. However, there were notable instances of judicial pushback and electoral resistance, reflecting a complex interplay between authoritarian impulses and institutional resilience.",
+    "norms_broken": [
+      {
+        "trait": "character",
+        "pattern": "The administration's defiance of court orders regarding SNAP benefits and the use of hunger as a political tool demonstrated a lack of alignment between public duty and personal gain.",
+        "severity": "serious",
+        "institutional_response": "Judicial interventions were noted, but the executive largely continued its course."
+      },
+      {
+        "trait": "ethics",
+        "pattern": "Pardons granted to individuals connected to the president and the use of federal resources for personal and political gain blurred ethical boundaries.",
+        "severity": "serious",
+        "institutional_response": "Concerns were raised, but the administration persisted with its agenda."
+      },
+      {
+        "trait": "restraint",
+        "pattern": "The president's threats of military action and unilateral decisions regarding war powers indicated a lack of self-limitation.",
+        "severity": "serious",
+        "institutional_response": "Some courts attempted to assert checks, but these efforts were often insufficient."
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "Misleading statements about economic conditions and the framing of legal noncompliance as principled actions eroded public trust.",
+        "severity": "serious",
+        "institutional_response": "Media and civil society worked to counter misinformation, but the scale of disinformation was significant."
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Procedural manipulation was evident in the use of the shutdown as leverage and the obstruction of duly elected representatives.",
+        "severity": "serious",
+        "institutional_response": "Legal challenges were initiated, but they were largely reactionary."
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "The demolition of the East Wing for personal gain and the prioritization of political loyalty over institutional integrity indicated a failure to protect public assets.",
+        "severity": "serious",
+        "institutional_response": "Civil society groups mobilized to resist these changes, but their efforts were insufficient."
+      }
+    ],
+    "norms_strengthened": [
+      {
+        "trait": "good_faith",
+        "pattern": "Judicial rulings enforced compliance with SNAP funding, reinforcing the importance of adhering to legal obligations.",
+        "scope": "institutional",
+        "why_it_matters": "These actions are crucial for maintaining checks and balances, reinforcing the importance of the rule of law."
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Some courts pushed back against executive overreach, demanding transparency and accountability in governance.",
+        "scope": "institutional",
+        "why_it_matters": "These actions are crucial for maintaining checks and balances, reinforcing the importance of the rule of law."
+      }
+    ],
+    "direction_of_movement": "collapsing"
+  },
+  "cumulative_condition": {
+    "narrative": "The moral floor continues to deteriorate, with the executive branch increasingly treating public institutions as extensions of personal power. This week, the aggressive assertion of executive authority, coupled with a disregard for truthfulness and ethics, has further strained the capacity of democratic institutions to function effectively. While there are signs of resistance from the judiciary and civil society, these efforts have not yet been able to counter the significant shifts occurring at the federal level. The cumulative effect of these actions has resulted in a net loss of democratic safety, as indicated by the static position of the Democracy Clock at 8:11 p.m.",
+    "trend": "deteriorating",
+    "stress_points": [
+      "militarization of domestic law enforcement",
+      "erosion of civil rights protections",
+      "disinformation from the executive",
+      "politicization of federal agencies"
+    ],
+    "sources_of_resilience": [
+      "judicial pushback against unconstitutional orders",
+      "active civil society engagement",
+      "state-level legal challenges"
+    ]
+  },
+  "risk_assessment": {
+    "level": "high",
+    "justification": "The current trajectory indicates a high level of risk for further erosion of democratic norms. The aggressive use of executive power, coupled with a lack of accountability and transparency, poses significant threats to the integrity of democratic institutions. If these patterns continue, the potential for further abuses of power and the normalization of authoritarian practices increases.",
+    "forward_signals": [
+      "escalating executive orders bypassing legislative authority",
+      "increased disinformation campaigns targeting public trust",
+      "further attempts to undermine judicial independence"
+    ]
+  }
+}

@@ -1,0 +1,3840 @@
+{
+  "categories": [
+    {
+      "events": [
+        {
+          "action": "announced restrictive immigration measures targeting Afghan nationals and 19 non-European countries",
+          "actor": "Trump administration",
+          "category": "Power and Authority",
+          "date": "2025-12-06",
+          "event_date": "2025-12-06",
+          "event_id": "wk47_PA_001",
+          "provenance": {
+            "dates": [
+              "2025-12-06"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-003",
+            "wk047-004",
+            "wk047-005"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "The administration halted Afghan asylum decisions and paused immigration applications from 19 non-European countries, using security justifications to sharply curtail entry and asylum access for specific nationalities.",
+          "trait_links": [
+            1,
+            5,
+            47
+          ]
+        },
+        {
+          "action": "issued an executive order creating Food Supply Chain Security Task Forces",
+          "actor": "President Donald Trump",
+          "category": "Power and Authority",
+          "date": "2025-12-06",
+          "event_date": "2025-12-06",
+          "event_id": "wk47_PA_002",
+          "provenance": {
+            "dates": [
+              "2025-12-06"
+            ],
+            "sources": [
+              "orders"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-006"
+          ],
+          "source_names": [
+            "orders"
+          ],
+          "summary_line": "The order empowered DOJ and FTC task forces to investigate anti-competitive behavior in the food sector, expanding executive direction over economic enforcement in a critical supply chain.",
+          "trait_links": [
+            1,
+            16
+          ]
+        },
+        {
+          "action": "rescinded ICE directive protecting non-citizen veterans from deportation",
+          "actor": "Trump administration",
+          "category": "Power and Authority",
+          "date": "2025-12-07",
+          "event_date": "2025-12-07",
+          "event_id": "wk47_PA_003",
+          "provenance": {
+            "dates": [
+              "2025-12-07"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-016"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Revoking protections for non-citizen veterans exposed former service members to detention and removal, signaling willingness to override prior humanitarian safeguards in immigration enforcement.",
+          "trait_links": [
+            1,
+            9,
+            47
+          ]
+        },
+        {
+          "action": "prepared an internal report on non-citizen employees and veterans for the administration",
+          "actor": "Department of Veterans Affairs",
+          "category": "Power and Authority",
+          "date": "2025-12-07",
+          "event_date": "2025-12-07",
+          "event_id": "wk47_PA_004",
+          "provenance": {
+            "dates": [
+              "2025-12-07"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-019"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Compiling and sharing detailed data on non-citizen VA staff and veterans risked enabling targeted immigration actions against a politically vulnerable group tied to federal service.",
+          "trait_links": [
+            9,
+            22,
+            46,
+            47
+          ]
+        },
+        {
+          "action": "pardoned Representative Henry Cuellar and his wife on bribery charges",
+          "actor": "President Donald Trump",
+          "category": "Power and Authority",
+          "date": "2025-12-07",
+          "event_date": "2025-12-07",
+          "event_id": "wk47_PA_005",
+          "provenance": {
+            "dates": [
+              "2025-12-07"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-018"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Pardoning a sitting congressman accused of taking foreign bribes highlighted the president\u2019s power to nullify corruption prosecutions in ways that can weaken deterrence and expectations of impartial justice.",
+          "trait_links": [
+            1,
+            4,
+            29
+          ]
+        },
+        {
+          "action": "asserted that President Trump could order military strikes without congressional approval",
+          "actor": "Defense Secretary Pete Hegseth",
+          "category": "Power and Authority",
+          "date": "2025-12-08",
+          "event_date": "2025-12-08",
+          "event_id": "wk47_PA_006",
+          "provenance": {
+            "dates": [
+              "2025-12-08"
+            ],
+            "sources": [
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-031"
+          ],
+          "source_names": [
+            "hcr"
+          ],
+          "summary_line": "Hegseth\u2019s defense of unilateral strikes off Venezuela framed large uses of force as within sole presidential discretion, eroding expectations of legislative checks on war powers.",
+          "trait_links": [
+            1,
+            5
+          ]
+        },
+        {
+          "action": "announced a $12 billion aid package for U.S. farmers funded by tariff revenues",
+          "actor": "Trump administration",
+          "category": "Power and Authority",
+          "date": "2025-12-08",
+          "event_id": "wk47_PA_007",
+          "provenance": {
+            "dates": [
+              "2025-12-08",
+              "2025-12-09"
+            ],
+            "sources": [
+              "guardian",
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-060",
+            "wk047-100"
+          ],
+          "source_names": [
+            "guardian",
+            "hcr"
+          ],
+          "summary_line": "The tariff-funded bailout directed large payments to farmers hurt by trade policy, illustrating how executive trade powers can be used to redistribute resources toward a key political constituency.",
+          "trait_links": [
+            1,
+            32,
+            38
+          ]
+        },
+        {
+          "action": "pressured the Supreme Court to uphold tariffs imposed under an economic emergency declaration",
+          "actor": "President Donald Trump",
+          "category": "Power and Authority",
+          "date": "2025-12-09",
+          "event_date": "2025-12-09",
+          "event_id": "wk47_PA_008",
+          "provenance": {
+            "dates": [
+              "2025-12-09"
+            ],
+            "sources": [
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-084"
+          ],
+          "source_names": [
+            "hcr"
+          ],
+          "summary_line": "Trump\u2019s public insistence that the Court validate tariffs based on a self-declared economic emergency underscored efforts to stretch emergency authorities and judicial deference over trade policy.",
+          "trait_links": [
+            1,
+            5
+          ]
+        },
+        {
+          "action": "stated he would appoint a Federal Reserve chair committed to immediate rate cuts",
+          "actor": "President Donald Trump",
+          "category": "Power and Authority",
+          "date": "2025-12-09",
+          "event_date": "2025-12-09",
+          "event_id": "wk47_PA_009",
+          "provenance": {
+            "dates": [
+              "2025-12-09"
+            ],
+            "sources": [
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-102"
+          ],
+          "source_names": [
+            "meidas"
+          ],
+          "summary_line": "Conditioning the next Fed chair\u2019s appointment on pledges to cut interest rates regardless of conditions signaled intent to politicize monetary policy and weaken central bank independence.",
+          "trait_links": [
+            1,
+            7,
+            32
+          ]
+        },
+        {
+          "action": "signed a $140 million contract to buy Boeing 737s for deportation flights",
+          "actor": "Trump administration",
+          "category": "Power and Authority",
+          "date": "2025-12-10",
+          "event_id": "wk47_PA_010",
+          "provenance": {
+            "dates": [
+              "2025-12-10",
+              "2025-12-11"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-110",
+            "wk047-140"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Purchasing dedicated deportation aircraft scaled up the state\u2019s capacity for mass removals, embedding aggressive immigration enforcement into long-term federal infrastructure.",
+          "trait_links": [
+            1,
+            9,
+            25,
+            47
+          ]
+        },
+        {
+          "action": "advocated allowing ACA health insurance subsidies to expire",
+          "actor": "President Donald Trump",
+          "category": "Power and Authority",
+          "date": "2025-12-10",
+          "event_date": "2025-12-10",
+          "event_id": "wk47_PA_011",
+          "provenance": {
+            "dates": [
+              "2025-12-10"
+            ],
+            "sources": [
+              "popinfo"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-111"
+          ],
+          "source_names": [
+            "popinfo"
+          ],
+          "summary_line": "Supporting the lapse of premium subsidies in favor of direct payments and skimpier plans positioned executive policy against pooled public coverage, risking destabilization of the individual market.",
+          "trait_links": [
+            1,
+            31
+          ]
+        },
+        {
+          "action": "agreed to allow NVIDIA to sell advanced H200 AI chips to China in exchange for revenue sharing",
+          "actor": "President Donald Trump",
+          "category": "Power and Authority",
+          "date": "2025-12-08",
+          "event_id": "wk47_PA_012",
+          "provenance": {
+            "dates": [
+              "2025-12-08",
+              "2025-12-09"
+            ],
+            "sources": [
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-072",
+            "wk047-101"
+          ],
+          "source_names": [
+            "meidas"
+          ],
+          "summary_line": "Authorizing sales of cutting-edge AI chips to China in return for a U.S. revenue share leveraged national-security assets for short-term economic gain and deepened strategic tech interdependence.",
+          "trait_links": [
+            1,
+            10,
+            16,
+            26
+          ]
+        },
+        {
+          "action": "threatened sanctions on the International Criminal Court to block investigations of U.S. officials",
+          "actor": "Trump administration",
+          "category": "Power and Authority",
+          "date": "2025-12-10",
+          "event_id": "wk47_PA_013",
+          "provenance": {
+            "dates": [
+              "2025-12-10",
+              "2025-12-11"
+            ],
+            "sources": [
+              "meidas",
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-138",
+            "wk047-193"
+          ],
+          "source_names": [
+            "meidas",
+            "hcr"
+          ],
+          "summary_line": "Threatening punitive measures against the ICC to forestall possible prosecutions of Trump and senior officials signaled a readiness to undermine international accountability mechanisms for state conduct.",
+          "trait_links": [
+            1,
+            4,
+            10
+          ]
+        },
+        {
+          "action": "issued an executive order establishing a national AI policy framework that preempts conflicting state laws",
+          "actor": "President Donald Trump",
+          "category": "Power and Authority",
+          "date": "2025-12-11",
+          "event_id": "wk47_PA_014",
+          "provenance": {
+            "dates": [
+              "2025-12-11",
+              "2025-12-12"
+            ],
+            "sources": [
+              "orders",
+              "popinfo",
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-143",
+            "wk047-145",
+            "wk047-198"
+          ],
+          "source_names": [
+            "orders",
+            "popinfo",
+            "guardian"
+          ],
+          "summary_line": "The AI order centralized regulatory authority in Washington, directed litigation against state rules, and tied federal funding to compliance, curbing state autonomy over a major emerging technology.",
+          "trait_links": [
+            1,
+            5,
+            16,
+            22,
+            26,
+            54
+          ]
+        },
+        {
+          "action": "issued an executive order targeting foreign-owned proxy advisors and ESG-focused guidance",
+          "actor": "President Donald Trump",
+          "category": "Power and Authority",
+          "date": "2025-12-11",
+          "event_date": "2025-12-11",
+          "event_id": "wk47_PA_015",
+          "provenance": {
+            "dates": [
+              "2025-12-11"
+            ],
+            "sources": [
+              "orders"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-144"
+          ],
+          "source_names": [
+            "orders"
+          ],
+          "summary_line": "Directing the SEC and FTC to scrutinize proxy advisors, especially on ESG and DEI issues, used executive power to reshape corporate governance debates in line with administration priorities.",
+          "trait_links": [
+            1,
+            16,
+            26,
+            30
+          ]
+        },
+        {
+          "action": "fired FTC Commissioner Rebecca Slaughter, the last Democratic member of the agency",
+          "actor": "President Donald Trump",
+          "category": "Power and Authority",
+          "date": "2025-12-09",
+          "event_date": "2025-12-09",
+          "event_id": "wk47_PA_016",
+          "provenance": {
+            "dates": [
+              "2025-12-09"
+            ],
+            "sources": [
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-106"
+          ],
+          "source_names": [
+            "hcr"
+          ],
+          "summary_line": "Removing the remaining Democratic FTC commissioner challenged statutory protections for independent regulators and concentrated partisan control over a key competition and consumer watchdog.",
+          "trait_links": [
+            1,
+            7,
+            14,
+            22
+          ]
+        },
+        {
+          "action": "pressured Indiana legislators to pass a gerrymandered congressional map by threatening to withhold federal funds",
+          "actor": "Trump administration",
+          "category": "Power and Authority",
+          "date": "2025-12-12",
+          "event_id": "wk47_PA_017",
+          "provenance": {
+            "dates": [
+              "2025-12-11",
+              "2025-12-12"
+            ],
+            "sources": [
+              "meidas",
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-142",
+            "wk047-161",
+            "wk047-204",
+            "wk047-206"
+          ],
+          "source_names": [
+            "meidas",
+            "hcr"
+          ],
+          "summary_line": "Using federal funding threats to coerce a state into adopting a partisan map blurred lines between national and state authority and weaponized fiscal power for electoral advantage.",
+          "trait_links": [
+            1,
+            6,
+            11
+          ]
+        },
+        {
+          "action": "announced a proposal to sell U.S. citizenship through a $1 million \"Trump Gold Card\" program",
+          "actor": "Commerce Secretary Howard Lutnick",
+          "category": "Power and Authority",
+          "date": "2025-12-10",
+          "event_date": "2025-12-10",
+          "event_id": "wk47_PA_018",
+          "provenance": {
+            "dates": [
+              "2025-12-10"
+            ],
+            "sources": [
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-136"
+          ],
+          "source_names": [
+            "meidas"
+          ],
+          "summary_line": "The plan to grant citizenship in exchange for large payments would formalize a wealth-based track to membership in the polity, deepening stratification in immigration and naturalization policy.",
+          "trait_links": [
+            29,
+            31,
+            47
+          ]
+        },
+        {
+          "action": "began a nationwide tour to defend his economic record and tariff policies",
+          "actor": "President Donald Trump",
+          "category": "Power and Authority",
+          "date": "2025-12-11",
+          "event_date": "2025-12-12",
+          "event_id": "wk47_PA_019",
+          "provenance": {
+            "dates": [
+              "2025-12-12"
+            ],
+            "sources": [
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-199"
+          ],
+          "source_names": [
+            "hcr"
+          ],
+          "summary_line": "Launching a messaging tour to reframe economic discontent around his tariffs and blame predecessors illustrated the use of presidential visibility to manage accountability for contested policies.",
+          "trait_links": [
+            39
+          ]
+        }
+      ],
+      "name": "Power and Authority"
+    },
+    {
+      "events": [
+        {
+          "action": "voted to limit universal newborn hepatitis B vaccination recommendations",
+          "actor": "Advisory Committee on Immunization Practices",
+          "category": "Institutions and Governance",
+          "date": "2025-12-06",
+          "event_date": "2025-12-06",
+          "event_id": "wk47_IG_001",
+          "provenance": {
+            "dates": [
+              "2025-12-06"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-001",
+            "wk047-002"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Revising long-standing guidance on newborn hepatitis B shots, under influence from anti-vaccine appointees, risked undermining standardized public health practice and state-level immunization policies.",
+          "trait_links": [
+            16,
+            30
+          ]
+        },
+        {
+          "action": "permanently barred former Senator Bob Menendez from holding state or local office",
+          "actor": "New Jersey Superior Court",
+          "category": "Institutions and Governance",
+          "date": "2025-12-06",
+          "event_date": "2025-12-06",
+          "event_id": "wk47_IG_002",
+          "provenance": {
+            "dates": [
+              "2025-12-06"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-008"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "By prohibiting a convicted former senator from future public office, the court reinforced consequences for corruption and sought to protect public trust in elected positions.",
+          "trait_links": []
+        },
+        {
+          "action": "reported that Defense Secretary Pete Hegseth mishandled classified information on Signal",
+          "actor": "Defense Department Inspector General",
+          "category": "Institutions and Governance",
+          "date": "2025-12-06",
+          "event_id": "wk47_IG_003",
+          "provenance": {
+            "dates": [
+              "2025-12-06",
+              "2025-12-08"
+            ],
+            "sources": [
+              "guardian",
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-009",
+            "wk047-068"
+          ],
+          "source_names": [
+            "guardian",
+            "hcr"
+          ],
+          "summary_line": "Finding that Hegseth shared sensitive strike details over an unsecured app highlighted internal oversight of senior officials\u2019 compliance with security and records rules.",
+          "trait_links": [
+            1,
+            19,
+            46
+          ]
+        },
+        {
+          "action": "sued the Pentagon over restrictive press access policies",
+          "actor": "New York Times",
+          "category": "Institutions and Governance",
+          "date": "2025-12-06",
+          "event_date": "2025-12-06",
+          "event_id": "wk47_IG_004",
+          "provenance": {
+            "dates": [
+              "2025-12-06"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-010"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Challenging new rules that limited journalists\u2019 ability to gather information at the Pentagon tested judicial protections for press access to national security institutions.",
+          "trait_links": [
+            14,
+            42
+          ]
+        },
+        {
+          "action": "launched an investigation into deportations of non-citizen veterans",
+          "actor": "U.S. Congress",
+          "category": "Institutions and Governance",
+          "date": "2025-12-07",
+          "event_date": "2025-12-07",
+          "event_id": "wk47_IG_005",
+          "provenance": {
+            "dates": [
+              "2025-12-07"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-020"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Lawmakers\u2019 inquiry into ICE\u2019s treatment of veterans sought to reassert legislative oversight over immigration enforcement affecting those who served in the military.",
+          "trait_links": [
+            6,
+            17
+          ]
+        },
+        {
+          "action": "demanded release of video of a lethal Caribbean boat strike",
+          "actor": "Democratic members of Congress",
+          "category": "Institutions and Governance",
+          "date": "2025-12-07",
+          "event_id": "wk47_IG_006",
+          "provenance": {
+            "dates": [
+              "2025-12-07",
+              "2025-12-08",
+              "2025-12-09"
+            ],
+            "sources": [
+              "guardian",
+              "hcr",
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-021",
+            "wk047-034",
+            "wk047-035",
+            "wk047-069",
+            "wk047-070",
+            "wk047-079"
+          ],
+          "source_names": [
+            "guardian",
+            "hcr",
+            "meidas"
+          ],
+          "summary_line": "Calls for the Pentagon to release footage of a controversial strike pressed for transparency and accountability in overseas uses of force.",
+          "trait_links": [
+            17,
+            21,
+            58
+          ]
+        },
+        {
+          "action": "temporarily blocked prosecutors from accessing evidence in the James Comey case",
+          "actor": "Federal judge",
+          "category": "Institutions and Governance",
+          "date": "2025-12-07",
+          "event_date": "2025-12-07",
+          "event_id": "wk47_IG_007",
+          "provenance": {
+            "dates": [
+              "2025-12-07"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-024"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "The order restricting access to a Comey associate\u2019s materials underscored judicial checks on investigative overreach and protections against unreasonable searches.",
+          "trait_links": [
+            4,
+            13
+          ]
+        },
+        {
+          "action": "held an evidentiary hearing on search and Miranda issues in the Luigi Mangione case",
+          "actor": "New York trial court",
+          "category": "Institutions and Governance",
+          "date": "2025-12-07",
+          "event_date": "2025-12-07",
+          "event_id": "wk47_IG_008",
+          "provenance": {
+            "dates": [
+              "2025-12-07"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-025"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Scrutiny of warrantless searches, Miranda warnings, and sealing of evidence in a high-profile homicide case highlighted due process safeguards and tensions with press access.",
+          "trait_links": [
+            13,
+            42
+          ]
+        },
+        {
+          "action": "allowed Texas\u2019s redrawn congressional map to take effect despite discrimination concerns",
+          "actor": "U.S. Supreme Court",
+          "category": "Institutions and Governance",
+          "date": "2025-12-07",
+          "event_id": "wk47_IG_009",
+          "provenance": {
+            "dates": [
+              "2025-12-07",
+              "2025-12-09"
+            ],
+            "sources": [
+              "guardian",
+              "50501"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-026",
+            "wk047-080"
+          ],
+          "source_names": [
+            "guardian",
+            "50501"
+          ],
+          "summary_line": "Letting a map that likely dilutes minority voting power stand signaled judicial tolerance for partisan and racial gerrymanders that shape national representation.",
+          "trait_links": [
+            6,
+            13,
+            45
+          ]
+        },
+        {
+          "action": "removed IVF coverage for service members from the defense authorization bill",
+          "actor": "House Speaker Mike Johnson",
+          "category": "Institutions and Governance",
+          "date": "2025-12-08",
+          "event_date": "2025-12-08",
+          "event_id": "wk47_IG_010",
+          "provenance": {
+            "dates": [
+              "2025-12-08"
+            ],
+            "sources": [
+              "guardian",
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-032",
+            "wk047-075"
+          ],
+          "source_names": [
+            "guardian",
+            "meidas"
+          ],
+          "summary_line": "Stripping IVF benefits from the NDAA used legislative gatekeeping to limit reproductive healthcare for military families, reflecting ideological control over benefits policy.",
+          "trait_links": [
+            6,
+            48
+          ]
+        },
+        {
+          "action": "opened an investigation into Senator Mark Kelly and colleagues over a video on illegal orders",
+          "actor": "Pentagon",
+          "category": "Institutions and Governance",
+          "date": "2025-12-08",
+          "event_date": "2025-12-08",
+          "event_id": "wk47_IG_011",
+          "provenance": {
+            "dates": [
+              "2025-12-08"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-033"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Probing lawmakers for urging troops not to follow unlawful commands blurred lines between civilian oversight and military discipline, potentially chilling constitutional speech.",
+          "trait_links": [
+            6,
+            17,
+            18
+          ]
+        },
+        {
+          "action": "resigned as U.S. Attorney for New Jersey after courts found her appointment unlawful",
+          "actor": "Alina Habba",
+          "category": "Institutions and Governance",
+          "date": "2025-12-08",
+          "event_date": "2025-12-08",
+          "event_id": "wk47_IG_012",
+          "provenance": {
+            "dates": [
+              "2025-12-08"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-037"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Her forced departure following rulings against her non-confirmed appointment reaffirmed the role of Senate confirmation and judicial review in policing executive appointments.",
+          "trait_links": [
+            7,
+            14
+          ]
+        },
+        {
+          "action": "accepted a guilty plea from former clerk Becky Hill for misconduct in the Murdaugh trial",
+          "actor": "Colleton County court",
+          "category": "Institutions and Governance",
+          "date": "2025-12-08",
+          "event_date": "2025-12-08",
+          "event_id": "wk47_IG_013",
+          "provenance": {
+            "dates": [
+              "2025-12-08"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-038"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "The conviction of a court clerk for mishandling sealed exhibits and lying in court underscored accountability mechanisms for officials who compromise trial integrity.",
+          "trait_links": []
+        },
+        {
+          "action": "heard arguments on presidential power to fire FTC member Rebecca Slaughter",
+          "actor": "U.S. Supreme Court",
+          "category": "Institutions and Governance",
+          "date": "2025-12-09",
+          "event_date": "2025-12-09",
+          "event_id": "wk47_IG_014",
+          "provenance": {
+            "dates": [
+              "2025-12-09"
+            ],
+            "sources": [
+              "guardian",
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-082",
+            "wk047-083"
+          ],
+          "source_names": [
+            "guardian",
+            "hcr"
+          ],
+          "summary_line": "The case over Trump\u2019s removal of an FTC commissioner tested the independence of congressionally created agencies against expansive theories of presidential control.",
+          "trait_links": [
+            1,
+            14
+          ]
+        },
+        {
+          "action": "organized a $300 million fund to settle clergy sexual abuse claims",
+          "actor": "New York Archdiocese",
+          "category": "Institutions and Governance",
+          "date": "2025-12-09",
+          "event_date": "2025-12-09",
+          "event_id": "wk47_IG_015",
+          "provenance": {
+            "dates": [
+              "2025-12-09"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-081"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Raising a large settlement fund and entering mediation with survivors reflected institutional efforts to address historic abuse while managing financial and legal exposure.",
+          "trait_links": [
+            13
+          ]
+        },
+        {
+          "action": "moved to drop bribery charges against former Fox executive Hern\u00e1n L\u00f3pez",
+          "actor": "Federal prosecutors in Brooklyn",
+          "category": "Institutions and Governance",
+          "date": "2025-12-10",
+          "event_date": "2025-12-10",
+          "event_id": "wk47_IG_016",
+          "provenance": {
+            "dates": [
+              "2025-12-10"
+            ],
+            "sources": [
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-119"
+          ],
+          "source_names": [
+            "meidas"
+          ],
+          "summary_line": "Abandoning a high-profile FIFA corruption case \"in the interest of justice\" raised questions about consistency and resolve in prosecuting complex financial crimes.",
+          "trait_links": [
+            4,
+            13,
+            33
+          ]
+        },
+        {
+          "action": "blocked federal deployment of National Guard troops in Los Angeles",
+          "actor": "U.S. District Court for the Northern District of California",
+          "category": "Institutions and Governance",
+          "date": "2025-12-10",
+          "event_date": "2025-12-10",
+          "event_id": "wk47_IG_017",
+          "provenance": {
+            "dates": [
+              "2025-12-10"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-117"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Ordering Guard units returned to state control after a federalization tied to immigration protests reinforced limits on using military forces domestically without clear legal basis.",
+          "trait_links": [
+            1,
+            5,
+            11
+          ]
+        },
+        {
+          "action": "petitioned the state supreme court to enforce a prior climate ruling",
+          "actor": "Montana youth plaintiffs",
+          "category": "Institutions and Governance",
+          "date": "2025-12-10",
+          "event_date": "2025-12-10",
+          "event_id": "wk47_IG_018",
+          "provenance": {
+            "dates": [
+              "2025-12-10"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-118"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Seeking enforcement of a decision recognizing a constitutional right to a clean environment challenged new state laws that appeared to defy judicial authority.",
+          "trait_links": [
+            4,
+            13
+          ]
+        },
+        {
+          "action": "revised its Secure Flight data collection program",
+          "actor": "Transportation Security Administration",
+          "category": "Institutions and Governance",
+          "date": "2025-12-10",
+          "event_date": "2025-12-10",
+          "event_id": "wk47_IG_019",
+          "provenance": {
+            "dates": [
+              "2025-12-10"
+            ],
+            "sources": [
+              "federalregister"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-120"
+          ],
+          "source_names": [
+            "federalregister"
+          ],
+          "summary_line": "Expanding passenger data collection for prescreening and secure-area access adjusted the balance between aviation security and privacy in federal screening systems.",
+          "trait_links": [
+            46
+          ]
+        },
+        {
+          "action": "passed a $900 billion defense authorization bill with conditions on Pentagon transparency",
+          "actor": "House of Representatives",
+          "category": "Institutions and Governance",
+          "date": "2025-12-11",
+          "event_date": "2025-12-11",
+          "event_id": "wk47_IG_020",
+          "provenance": {
+            "dates": [
+              "2025-12-11"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-150",
+            "wk047-151"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "The NDAA boosted defense spending, mandated troop levels abroad, and withheld part of Hegseth\u2019s travel budget until strike footage is shared, asserting congressional oversight over military policy.",
+          "trait_links": [
+            6,
+            11,
+            17
+          ]
+        },
+        {
+          "action": "ordered the release of Kilmar \u00c1brego Garc\u00eda from ICE custody and later barred his re-detention temporarily",
+          "actor": "Federal judge in Maryland",
+          "category": "Institutions and Governance",
+          "date": "2025-12-11",
+          "event_id": "wk47_IG_021",
+          "provenance": {
+            "dates": [
+              "2025-12-11",
+              "2025-12-12"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-152",
+            "wk047-208"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Rulings that ICE lacked authority to hold \u00c1brego without a final order, and a follow-on restraining order, asserted judicial limits on immigration detention practices.",
+          "trait_links": [
+            4,
+            13,
+            47
+          ]
+        },
+        {
+          "action": "twice declined to indict New York Attorney General Letitia James on mortgage fraud charges",
+          "actor": "Federal grand jury",
+          "category": "Institutions and Governance",
+          "date": "2025-12-11",
+          "event_date": "2025-12-11",
+          "event_id": "wk47_IG_022",
+          "provenance": {
+            "dates": [
+              "2025-12-11"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-153"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Repeated refusals to indict a prominent Trump critic on contested charges highlighted grand juries\u2019 role as a check on potentially politicized prosecutions.",
+          "trait_links": [
+            4,
+            17
+          ]
+        },
+        {
+          "action": "sued President Trump to halt demolition for a White House ballroom project",
+          "actor": "National Trust for Historic Preservation",
+          "category": "Institutions and Governance",
+          "date": "2025-12-12",
+          "event_date": "2025-12-12",
+          "event_id": "wk47_IG_023",
+          "provenance": {
+            "dates": [
+              "2025-12-12"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-210"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "The lawsuit alleged that a $300 million East Wing demolition and ballroom lacked required reviews and approvals, testing legal constraints on presidential alterations to federal property.",
+          "trait_links": [
+            1,
+            24
+          ]
+        },
+        {
+          "action": "received dedicated operating funds for the 119th Congress",
+          "actor": "House Committee on Ethics",
+          "category": "Institutions and Governance",
+          "date": "2025-12-11",
+          "event_date": "2025-12-11",
+          "event_id": "wk47_IG_024",
+          "provenance": {
+            "dates": [
+              "2025-12-11"
+            ],
+            "sources": [
+              "congress"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-146"
+          ],
+          "source_names": [
+            "congress"
+          ],
+          "summary_line": "Enactment of a funding resolution ensured the House Ethics Committee could continue investigations and enforcement, supporting internal accountability mechanisms.",
+          "trait_links": [
+            20
+          ]
+        },
+        {
+          "action": "secured operating funds for the 119th Congress",
+          "actor": "Select Committee on Strategic Competition with China",
+          "category": "Institutions and Governance",
+          "date": "2025-12-11",
+          "event_date": "2025-12-11",
+          "event_id": "wk47_IG_025",
+          "provenance": {
+            "dates": [
+              "2025-12-11"
+            ],
+            "sources": [
+              "congress"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-147"
+          ],
+          "source_names": [
+            "congress"
+          ],
+          "summary_line": "Funding the China competition committee enabled continued legislative oversight and policy development on a central foreign policy and economic rivalry.",
+          "trait_links": []
+        },
+        {
+          "action": "used the Congressional Review Act to nullify several Bureau of Land Management resource management rules",
+          "actor": "U.S. Congress",
+          "category": "Institutions and Governance",
+          "date": "2025-12-11",
+          "event_date": "2025-12-11",
+          "event_id": "wk47_IG_026",
+          "provenance": {
+            "dates": [
+              "2025-12-11"
+            ],
+            "sources": [
+              "congress"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-148",
+            "wk047-165",
+            "wk047-166",
+            "wk047-167",
+            "wk047-168"
+          ],
+          "source_names": [
+            "congress"
+          ],
+          "summary_line": "Disapproving multiple BLM land-use plans through CRA resolutions demonstrated Congress\u2019s power to overturn executive environmental rules and reshape federal land policy.",
+          "trait_links": [
+            6
+          ]
+        },
+        {
+          "action": "moved to request release of the classified documents section of Jack Smith\u2019s report",
+          "actor": "House Judiciary Committee Democrats",
+          "category": "Institutions and Governance",
+          "date": "2025-12-12",
+          "event_date": "2025-12-12",
+          "event_id": "wk47_IG_027",
+          "provenance": {
+            "dates": [
+              "2025-12-12"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-202"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Seeking public access to a previously sealed portion of a special counsel report pressed the judiciary to reconsider secrecy once related prosecutions had been dropped.",
+          "trait_links": [
+            21,
+            58
+          ]
+        },
+        {
+          "action": "failed to advance competing healthcare subsidy bills in the Senate and faced House pressure to extend ACA credits",
+          "actor": "House Republicans and Democrats",
+          "category": "Institutions and Governance",
+          "date": "2025-12-11",
+          "event_id": "wk47_IG_028",
+          "provenance": {
+            "dates": [
+              "2025-12-10",
+              "2025-12-11",
+              "2025-12-12"
+            ],
+            "sources": [
+              "meidas",
+              "popinfo",
+              "guardian",
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-115",
+            "wk047-116",
+            "wk047-149",
+            "wk047-203",
+            "wk047-205"
+          ],
+          "source_names": [
+            "meidas",
+            "popinfo",
+            "guardian",
+            "hcr"
+          ],
+          "summary_line": "Senate rejection of both extension and replacement of ACA subsidies, alongside a House discharge effort, exposed partisan gridlock over a core social policy affecting millions.",
+          "trait_links": [
+            6,
+            31
+          ]
+        },
+        {
+          "action": "skipped a classified Gang of Eight national security briefing",
+          "actor": "House Speaker Mike Johnson",
+          "category": "Institutions and Governance",
+          "date": "2025-12-10",
+          "event_date": "2025-12-10",
+          "event_id": "wk47_IG_029",
+          "provenance": {
+            "dates": [
+              "2025-12-10"
+            ],
+            "sources": [
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-113"
+          ],
+          "source_names": [
+            "hcr"
+          ],
+          "summary_line": "The Speaker\u2019s absence from a key intelligence oversight meeting raised concerns about leadership engagement in supervising sensitive national security activities.",
+          "trait_links": [
+            1,
+            6
+          ]
+        },
+        {
+          "action": "voted down a Trump-backed mid-decade gerrymandering bill",
+          "actor": "Indiana Senate",
+          "category": "Institutions and Governance",
+          "date": "2025-12-10",
+          "event_date": "2025-12-10",
+          "event_id": "wk47_IG_030",
+          "provenance": {
+            "dates": [
+              "2025-12-10"
+            ],
+            "sources": [
+              "meidas",
+              "outloud"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-114",
+            "wk047-124"
+          ],
+          "source_names": [
+            "meidas",
+            "outloud"
+          ],
+          "summary_line": "Rejecting a redistricting plan advanced under federal funding threats showed state legislators resisting partisan manipulation of districts despite pressure from national party leaders.",
+          "trait_links": [
+            6,
+            11,
+            45
+          ]
+        },
+        {
+          "action": "passed a resolution disapproving a BLM resource management plan amendment",
+          "actor": "House of Representatives",
+          "category": "Institutions and Governance",
+          "date": "2025-12-11",
+          "event_date": "2025-12-11",
+          "event_id": "wk47_IG_031",
+          "provenance": {
+            "dates": [
+              "2025-12-11"
+            ],
+            "sources": [
+              "congress"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-148"
+          ],
+          "source_names": [
+            "congress"
+          ],
+          "summary_line": "Using a disapproval resolution to overturn a BLM plan underscored Congress\u2019s ability to directly reshape executive environmental rulemaking.",
+          "trait_links": [
+            6
+          ]
+        }
+      ],
+      "name": "Institutions and Governance"
+    },
+    {
+      "events": [
+        {
+          "action": "rolled back toxic chemical rules and fast-tracked pesticide approvals",
+          "actor": "Trump EPA under Administrator Lee Zeldin",
+          "category": "Economic Structure",
+          "date": "2025-12-07",
+          "event_date": "2025-12-07",
+          "event_id": "wk47_ES_001",
+          "provenance": {
+            "dates": [
+              "2025-12-07"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-017"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Easing restrictions on hazardous chemicals, continuing dicamba use, and undoing PFAS limits shifted regulatory priorities toward industry interests over environmental and health protections.",
+          "trait_links": [
+            16,
+            30
+          ]
+        },
+        {
+          "action": "experienced major stock decline and layoffs amid boycotts over DEI rollbacks",
+          "actor": "Target Corporation",
+          "category": "Economic Structure",
+          "date": "2025-12-08",
+          "event_date": "2025-12-08",
+          "event_id": "wk47_ES_002",
+          "provenance": {
+            "dates": [
+              "2025-12-08"
+            ],
+            "sources": [
+              "50501"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-051"
+          ],
+          "source_names": [
+            "50501"
+          ],
+          "summary_line": "Consumer backlash to Target\u2019s retreat from diversity commitments showed how market pressure can discipline corporate political stances and reshape employment decisions.",
+          "trait_links": [
+            26,
+            38
+          ]
+        },
+        {
+          "action": "sought a three-year extension of the Monthly Wholesale Trade Survey",
+          "actor": "U.S. Census Bureau",
+          "category": "Economic Structure",
+          "date": "2025-12-08",
+          "event_date": "2025-12-08",
+          "event_id": "wk47_ES_003",
+          "provenance": {
+            "dates": [
+              "2025-12-08"
+            ],
+            "sources": [
+              "federalregister"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-052"
+          ],
+          "source_names": [
+            "federalregister"
+          ],
+          "summary_line": "Continuing the wholesale trade survey preserved a key data series used for economic policymaking and private-sector planning.",
+          "trait_links": []
+        },
+        {
+          "action": "set a pesticide residue tolerance for azoxystrobin on black pepper",
+          "actor": "Environmental Protection Agency",
+          "category": "Economic Structure",
+          "date": "2025-12-08",
+          "event_date": "2025-12-08",
+          "event_id": "wk47_ES_004",
+          "provenance": {
+            "dates": [
+              "2025-12-08"
+            ],
+            "sources": [
+              "federalregister"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-053"
+          ],
+          "source_names": [
+            "federalregister"
+          ],
+          "summary_line": "Approving a specific fungicide tolerance for black pepper balanced agricultural trade needs with food safety standards under federal law.",
+          "trait_links": []
+        },
+        {
+          "action": "tentatively approved a vessel sewage no-discharge zone in Virginia\u2019s Northern Neck",
+          "actor": "Environmental Protection Agency",
+          "category": "Economic Structure",
+          "date": "2025-12-08",
+          "event_date": "2025-12-08",
+          "event_id": "wk47_ES_005",
+          "provenance": {
+            "dates": [
+              "2025-12-08"
+            ],
+            "sources": [
+              "federalregister"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-054"
+          ],
+          "source_names": [
+            "federalregister"
+          ],
+          "summary_line": "Finding adequate pump-out facilities cleared the way for Virginia to ban vessel sewage discharges, strengthening local water quality protections.",
+          "trait_links": []
+        },
+        {
+          "action": "launched the TEMPO pilot to support digital health devices",
+          "actor": "Food and Drug Administration",
+          "category": "Economic Structure",
+          "date": "2025-12-08",
+          "event_date": "2025-12-08",
+          "event_id": "wk47_ES_006",
+          "provenance": {
+            "dates": [
+              "2025-12-08"
+            ],
+            "sources": [
+              "federalregister"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-055"
+          ],
+          "source_names": [
+            "federalregister"
+          ],
+          "summary_line": "The pilot tied payment models to patient outcomes for digital health tools, potentially reshaping incentives and regulatory pathways in a growing medical technology sector.",
+          "trait_links": []
+        },
+        {
+          "action": "issued draft guidance for generic estradiol vaginal products",
+          "actor": "Food and Drug Administration",
+          "category": "Economic Structure",
+          "date": "2025-12-08",
+          "event_date": "2025-12-08",
+          "event_id": "wk47_ES_007",
+          "provenance": {
+            "dates": [
+              "2025-12-08"
+            ],
+            "sources": [
+              "federalregister"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-056"
+          ],
+          "source_names": [
+            "federalregister"
+          ],
+          "summary_line": "New bioequivalence guidance aimed to facilitate generic estradiol products, which could increase competition and lower costs for patients.",
+          "trait_links": []
+        },
+        {
+          "action": "revoked the COVID-19 emergency use authorization for Actemra after full approval",
+          "actor": "Food and Drug Administration",
+          "category": "Economic Structure",
+          "date": "2025-12-08",
+          "event_date": "2025-12-08",
+          "event_id": "wk47_ES_008",
+          "provenance": {
+            "dates": [
+              "2025-12-08"
+            ],
+            "sources": [
+              "federalregister"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-057"
+          ],
+          "source_names": [
+            "federalregister"
+          ],
+          "summary_line": "Ending Actemra\u2019s EUA once a licensed indication existed marked a transition from emergency to standard regulatory pathways for a key COVID-19 therapy.",
+          "trait_links": []
+        },
+        {
+          "action": "finalized a reorganization of the Federal Travel Regulation",
+          "actor": "General Services Administration",
+          "category": "Economic Structure",
+          "date": "2025-12-08",
+          "event_date": "2025-12-08",
+          "event_id": "wk47_ES_009",
+          "provenance": {
+            "dates": [
+              "2025-12-08"
+            ],
+            "sources": [
+              "federalregister"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-058"
+          ],
+          "source_names": [
+            "federalregister"
+          ],
+          "summary_line": "Streamlining federal travel rules aimed to reduce administrative burden and improve cost-effectiveness in government travel and relocation spending.",
+          "trait_links": []
+        },
+        {
+          "action": "requested comment on extending lease proposal information collections",
+          "actor": "General Services Administration",
+          "category": "Economic Structure",
+          "date": "2025-12-08",
+          "event_date": "2025-12-08",
+          "event_id": "wk47_ES_010",
+          "provenance": {
+            "dates": [
+              "2025-12-08"
+            ],
+            "sources": [
+              "federalregister"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-059"
+          ],
+          "source_names": [
+            "federalregister"
+          ],
+          "summary_line": "Seeking feedback on forms used to evaluate federal leases affected transparency and efficiency in how the government rents property from private lessors.",
+          "trait_links": []
+        },
+        {
+          "action": "highlighted risks of an AI investment bubble and weak returns",
+          "actor": "Noah Smith and cited researchers",
+          "category": "Economic Structure",
+          "date": "2025-12-08",
+          "event_date": "2025-12-08",
+          "event_id": "wk47_ES_011",
+          "provenance": {
+            "dates": [
+              "2025-12-08"
+            ],
+            "sources": [
+              "noah"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-061",
+            "wk047-062",
+            "wk047-063",
+            "wk047-064",
+            "wk047-065"
+          ],
+          "source_names": [
+            "noah"
+          ],
+          "summary_line": "Analyses warning that heavily leveraged AI firms may not generate sufficient returns, and that most adopters see no payoff, underscored systemic financial risks in a hyped sector.",
+          "trait_links": []
+        },
+        {
+          "action": "maintained a lighter insider-trading regime for Kalshi prediction markets",
+          "actor": "Commodity Futures Trading Commission",
+          "category": "Economic Structure",
+          "date": "2025-12-08",
+          "event_date": "2025-12-08",
+          "event_id": "wk47_ES_012",
+          "provenance": {
+            "dates": [
+              "2025-12-08"
+            ],
+            "sources": [
+              "popinfo"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-066"
+          ],
+          "source_names": [
+            "popinfo"
+          ],
+          "summary_line": "Allowing prediction markets with limited enforcement against trading on non-public information raised concerns about manipulation as such markets intersect with news coverage.",
+          "trait_links": [
+            26,
+            39
+          ]
+        },
+        {
+          "action": "secured CFTC approval to expand event betting, including on elections",
+          "actor": "Kalshi",
+          "category": "Economic Structure",
+          "date": "2025-12-08",
+          "event_date": "2025-12-08",
+          "event_id": "wk47_ES_013",
+          "provenance": {
+            "dates": [
+              "2025-12-08"
+            ],
+            "sources": [
+              "popinfo"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-067"
+          ],
+          "source_names": [
+            "popinfo"
+          ],
+          "summary_line": "Regulatory clearance for large-scale election and policy betting created a fast-growing market whose signals can influence media narratives and public expectations.",
+          "trait_links": [
+            2,
+            26,
+            39
+          ]
+        },
+        {
+          "action": "opposed the sale of NVIDIA H200 chips to China",
+          "actor": "House Select Committee on the Strategic Competition Between the U.S. and the Chinese Communist Party",
+          "category": "Economic Structure",
+          "date": "2025-12-08",
+          "event_date": "2025-12-08",
+          "event_id": "wk47_ES_014",
+          "provenance": {
+            "dates": [
+              "2025-12-08"
+            ],
+            "sources": [
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-036"
+          ],
+          "source_names": [
+            "meidas"
+          ],
+          "summary_line": "The committee\u2019s warning that advanced AI chips could bolster China\u2019s military underscored congressional concern over tech exports that may erode U.S. strategic advantages.",
+          "trait_links": [
+            10,
+            26
+          ]
+        },
+        {
+          "action": "unsealed a guilty plea in an AI chip smuggling case to China",
+          "actor": "Department of Justice",
+          "category": "Economic Structure",
+          "date": "2025-12-08",
+          "event_date": "2025-12-08",
+          "event_id": "wk47_ES_015",
+          "provenance": {
+            "dates": [
+              "2025-12-08"
+            ],
+            "sources": [
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-043"
+          ],
+          "source_names": [
+            "meidas"
+          ],
+          "summary_line": "The Operation Gatekeeper plea highlighted enforcement efforts to stop illicit transfers of high-end AI hardware deemed critical to military and intelligence capabilities.",
+          "trait_links": [
+            10,
+            33
+          ]
+        },
+        {
+          "action": "sought public comment on multiple information collections and spectrum-related data requirements",
+          "actor": "Federal Communications Commission",
+          "category": "Economic Structure",
+          "date": "2025-12-09",
+          "event_id": "wk47_ES_016",
+          "provenance": {
+            "dates": [
+              "2025-12-09",
+              "2025-12-10",
+              "2025-12-12"
+            ],
+            "sources": [
+              "federalregister"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-095",
+            "wk047-096",
+            "wk047-130",
+            "wk047-131",
+            "wk047-132",
+            "wk047-219",
+            "wk047-220",
+            "wk047-221"
+          ],
+          "source_names": [
+            "federalregister"
+          ],
+          "summary_line": "A series of PRA notices on business data services, experimental licenses, and spectrum operations aimed to balance regulatory oversight with paperwork burdens in communications markets.",
+          "trait_links": []
+        },
+        {
+          "action": "opened comment periods on food traceability, mammography standards, humanitarian use devices, and testosterone therapy",
+          "actor": "Food and Drug Administration",
+          "category": "Economic Structure",
+          "date": "2025-12-09",
+          "event_id": "wk47_ES_017",
+          "provenance": {
+            "dates": [
+              "2025-12-09",
+              "2025-12-11"
+            ],
+            "sources": [
+              "federalregister"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-097",
+            "wk047-098",
+            "wk047-099",
+            "wk047-182"
+          ],
+          "source_names": [
+            "federalregister"
+          ],
+          "summary_line": "FDA\u2019s multiple information requests and guidance efforts sought to refine oversight of high-risk foods, imaging quality, rare-disease devices, and hormone therapy.",
+          "trait_links": []
+        },
+        {
+          "action": "requested comment on Buy American and intellectual property reporting requirements in federal procurement",
+          "actor": "General Services Administration and partner agencies",
+          "category": "Economic Structure",
+          "date": "2025-12-11",
+          "event_id": "wk47_ES_018",
+          "provenance": {
+            "dates": [
+              "2025-12-11",
+              "2025-12-12"
+            ],
+            "sources": [
+              "federalregister"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-183",
+            "wk047-229"
+          ],
+          "source_names": [
+            "federalregister"
+          ],
+          "summary_line": "Reviewing data collections tied to domestic content rules and IP rights in contracts affected how federal purchasing supports U.S. industry and manages innovation.",
+          "trait_links": []
+        },
+        {
+          "action": "extended temporary Schedule I status for synthetic drugs CUMYL-PEGACLONE and MDMB-4en-PINACA",
+          "actor": "Drug Enforcement Administration",
+          "category": "Economic Structure",
+          "date": "2025-12-11",
+          "event_date": "2025-12-11",
+          "event_id": "wk47_ES_019",
+          "provenance": {
+            "dates": [
+              "2025-12-11"
+            ],
+            "sources": [
+              "federalregister"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-169",
+            "wk047-170"
+          ],
+          "source_names": [
+            "federalregister"
+          ],
+          "summary_line": "Continuing emergency scheduling of two synthetic cannabinoids maintained strict controls while the agency considers permanent classification, affecting criminal liability and research.",
+          "trait_links": []
+        },
+        {
+          "action": "approved multiple state air quality implementation plans and emission limits",
+          "actor": "Environmental Protection Agency",
+          "category": "Economic Structure",
+          "date": "2025-12-11",
+          "event_date": "2025-12-11",
+          "event_id": "wk47_ES_020",
+          "provenance": {
+            "dates": [
+              "2025-12-11"
+            ],
+            "sources": [
+              "federalregister"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-171",
+            "wk047-172",
+            "wk047-173",
+            "wk047-174",
+            "wk047-175",
+            "wk047-176",
+            "wk047-177"
+          ],
+          "source_names": [
+            "federalregister"
+          ],
+          "summary_line": "Final approvals for SIP revisions in Arizona, California, Ohio, South Carolina, Tennessee, and Connecticut advanced enforcement of federal air standards and clarified state responsibilities.",
+          "trait_links": []
+        },
+        {
+          "action": "opened pesticide registration review dockets and RCRA-related public participation information collections",
+          "actor": "Environmental Protection Agency",
+          "category": "Economic Structure",
+          "date": "2025-12-11",
+          "event_date": "2025-12-11",
+          "event_id": "wk47_ES_021",
+          "provenance": {
+            "dates": [
+              "2025-12-11"
+            ],
+            "sources": [
+              "federalregister"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-178",
+            "wk047-179",
+            "wk047-180"
+          ],
+          "source_names": [
+            "federalregister"
+          ],
+          "summary_line": "Soliciting comment on pesticide reviews and hazardous waste definitions aimed to keep chemical regulation current while involving communities in environmental decisions.",
+          "trait_links": []
+        },
+        {
+          "action": "sought renewal of trade secret claim procedures under community right-to-know laws",
+          "actor": "Environmental Protection Agency",
+          "category": "Economic Structure",
+          "date": "2025-12-11",
+          "event_date": "2025-12-11",
+          "event_id": "wk47_ES_022",
+          "provenance": {
+            "dates": [
+              "2025-12-11"
+            ],
+            "sources": [
+              "federalregister"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-181"
+          ],
+          "source_names": [
+            "federalregister"
+          ],
+          "summary_line": "Reviewing how facilities claim confidentiality for chemical identities balanced corporate secrecy with public access to hazard information.",
+          "trait_links": [
+            26
+          ]
+        },
+        {
+          "action": "determined regulatory review periods and safety status for several drugs, enabling generic competition and patent extensions",
+          "actor": "Food and Drug Administration",
+          "category": "Economic Structure",
+          "date": "2025-12-10",
+          "event_id": "wk47_ES_023",
+          "provenance": {
+            "dates": [
+              "2025-12-10",
+              "2025-12-12"
+            ],
+            "sources": [
+              "federalregister"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-133",
+            "wk047-134",
+            "wk047-222",
+            "wk047-223",
+            "wk047-224",
+            "wk047-225"
+          ],
+          "source_names": [
+            "federalregister"
+          ],
+          "summary_line": "FDA rulings on review periods and reasons for withdrawal for products like FILSUVEZ, GRAFAPEX, BACTROBAN, DEMEROL, LUNELLE, and ZANTAC shaped patent life and generic entry.",
+          "trait_links": []
+        },
+        {
+          "action": "issued final guidance on promotional labeling for biosimilar and reference biologic products",
+          "actor": "Food and Drug Administration",
+          "category": "Economic Structure",
+          "date": "2025-12-10",
+          "event_date": "2025-12-10",
+          "event_id": "wk47_ES_024",
+          "provenance": {
+            "dates": [
+              "2025-12-10"
+            ],
+            "sources": [
+              "federalregister"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-135"
+          ],
+          "source_names": [
+            "federalregister"
+          ],
+          "summary_line": "Clarifying advertising standards for biologics and biosimilars aimed to ensure truthful promotion while supporting competition in high-cost drug markets.",
+          "trait_links": []
+        },
+        {
+          "action": "sought comment on expanded public participation and solid waste definition information collections under RCRA",
+          "actor": "Environmental Protection Agency",
+          "category": "Economic Structure",
+          "date": "2025-12-11",
+          "event_date": "2025-12-11",
+          "event_id": "wk47_ES_025",
+          "provenance": {
+            "dates": [
+              "2025-12-11"
+            ],
+            "sources": [
+              "federalregister"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-179",
+            "wk047-180"
+          ],
+          "source_names": [
+            "federalregister"
+          ],
+          "summary_line": "Extending data collections on public involvement and hazardous secondary materials helped maintain oversight of waste management and community input.",
+          "trait_links": []
+        },
+        {
+          "action": "submitted a bilingual pesticide labeling information collection to OMB",
+          "actor": "Environmental Protection Agency",
+          "category": "Economic Structure",
+          "date": "2025-12-12",
+          "event_date": "2025-12-12",
+          "event_id": "wk47_ES_026",
+          "provenance": {
+            "dates": [
+              "2025-12-12"
+            ],
+            "sources": [
+              "federalregister"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-218"
+          ],
+          "source_names": [
+            "federalregister"
+          ],
+          "summary_line": "Tracking adoption of bilingual labels implemented statutory requirements to make pesticide safety information accessible to Spanish-speaking users.",
+          "trait_links": []
+        },
+        {
+          "action": "removed obsolete telecommunications regulations via a direct final rule",
+          "actor": "Federal Communications Commission",
+          "category": "Economic Structure",
+          "date": "2025-12-12",
+          "event_date": "2025-12-12",
+          "event_id": "wk47_ES_027",
+          "provenance": {
+            "dates": [
+              "2025-12-12"
+            ],
+            "sources": [
+              "federalregister"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-219"
+          ],
+          "source_names": [
+            "federalregister"
+          ],
+          "summary_line": "Deleting outdated rules sought to modernize the regulatory code and reduce compliance costs, potentially affecting how communications markets are supervised.",
+          "trait_links": []
+        },
+        {
+          "action": "proposed allowing bemotrizinol as a sunscreen active ingredient",
+          "actor": "Food and Drug Administration",
+          "category": "Economic Structure",
+          "date": "2025-12-12",
+          "event_date": "2025-12-12",
+          "event_id": "wk47_ES_028",
+          "provenance": {
+            "dates": [
+              "2025-12-12"
+            ],
+            "sources": [
+              "federalregister"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-226"
+          ],
+          "source_names": [
+            "federalregister"
+          ],
+          "summary_line": "The proposed monograph amendment would expand available UV filters, influencing product formulation, competition, and consumer protection in the sunscreen market.",
+          "trait_links": []
+        },
+        {
+          "action": "invited stakeholders to participate in Biosimilar User Fee Act reauthorization talks",
+          "actor": "Food and Drug Administration",
+          "category": "Economic Structure",
+          "date": "2025-12-12",
+          "event_date": "2025-12-12",
+          "event_id": "wk47_ES_029",
+          "provenance": {
+            "dates": [
+              "2025-12-12"
+            ],
+            "sources": [
+              "federalregister"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-227"
+          ],
+          "source_names": [
+            "federalregister"
+          ],
+          "summary_line": "Bringing patient and consumer groups into BsUFA negotiations aimed to shape future user fee structures that fund biosimilar review capacity.",
+          "trait_links": []
+        },
+        {
+          "action": "withdrew approval of 20 generic drug applications at sponsors\u2019 request",
+          "actor": "Food and Drug Administration",
+          "category": "Economic Structure",
+          "date": "2025-12-12",
+          "event_date": "2025-12-12",
+          "event_id": "wk47_ES_030",
+          "provenance": {
+            "dates": [
+              "2025-12-12"
+            ],
+            "sources": [
+              "federalregister"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-228"
+          ],
+          "source_names": [
+            "federalregister"
+          ],
+          "summary_line": "Removing unused ANDAs from the market clarified which generics remain legally marketable, affecting competition and supply for affected medicines.",
+          "trait_links": []
+        },
+        {
+          "action": "published notice of availability for several environmental impact statements",
+          "actor": "Environmental Protection Agency",
+          "category": "Economic Structure",
+          "date": "2025-12-12",
+          "event_date": "2025-12-12",
+          "event_id": "wk47_ES_031",
+          "provenance": {
+            "dates": [
+              "2025-12-12"
+            ],
+            "sources": [
+              "federalregister"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-217"
+          ],
+          "source_names": [
+            "federalregister"
+          ],
+          "summary_line": "Listing new EIS filings and comment deadlines supported public scrutiny of major federal projects with significant environmental and economic implications.",
+          "trait_links": []
+        },
+        {
+          "action": "described Botswana\u2019s vulnerability to synthetic diamond competition",
+          "actor": "Noah Smith and cited sources",
+          "category": "Economic Structure",
+          "date": "2025-12-11",
+          "event_date": "2025-12-11",
+          "event_id": "wk47_ES_032",
+          "provenance": {
+            "dates": [
+              "2025-12-11"
+            ],
+            "sources": [
+              "noah"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-184"
+          ],
+          "source_names": [
+            "noah"
+          ],
+          "summary_line": "Analysis of Botswana\u2019s diamond-dependent economy showed how technological shifts in synthetic gems threaten national revenues and underscore the need for diversification.",
+          "trait_links": []
+        },
+        {
+          "action": "reported results from Finland\u2019s basic income experiment",
+          "actor": "Aaltonen, Kaila, and Nix",
+          "category": "Economic Structure",
+          "date": "2025-12-11",
+          "event_date": "2025-12-11",
+          "event_id": "wk47_ES_033",
+          "provenance": {
+            "dates": [
+              "2025-12-11"
+            ],
+            "sources": [
+              "noah"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-185"
+          ],
+          "source_names": [
+            "noah"
+          ],
+          "summary_line": "Findings that basic income modestly raised income without changing employment or crime informed debates on social safety nets and their broader societal effects.",
+          "trait_links": []
+        },
+        {
+          "action": "lobbied Congress to preempt state-level AI regulation",
+          "actor": "OpenAI and Andreessen Horowitz",
+          "category": "Economic Structure",
+          "date": "2025-12-11",
+          "event_date": "2025-12-11",
+          "event_id": "wk47_ES_034",
+          "provenance": {
+            "dates": [
+              "2025-12-11"
+            ],
+            "sources": [
+              "popinfo"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-186"
+          ],
+          "source_names": [
+            "popinfo"
+          ],
+          "summary_line": "Industry efforts to secure a federal ban on state AI laws, though unsuccessful legislatively, highlighted concentrated corporate influence over the shape of emerging tech rules.",
+          "trait_links": [
+            16,
+            26,
+            30
+          ]
+        },
+        {
+          "action": "backed Paramount\u2019s hostile takeover bid for Warner Bros. Discovery",
+          "actor": "Jared Kushner and Middle Eastern sovereign wealth funds",
+          "category": "Economic Structure",
+          "date": "2025-12-09",
+          "event_date": "2025-12-09",
+          "event_id": "wk47_ES_035",
+          "provenance": {
+            "dates": [
+              "2025-12-09"
+            ],
+            "sources": [
+              "popinfo"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-103"
+          ],
+          "source_names": [
+            "popinfo"
+          ],
+          "summary_line": "Foreign state-backed financing for a major U.S. media acquisition raised national security and influence concerns, especially given Kushner\u2019s ties to the administration.",
+          "trait_links": [
+            10,
+            26,
+            38
+          ]
+        },
+        {
+          "action": "claimed its WBD takeover structure avoided CFIUS jurisdiction despite large foreign equity",
+          "actor": "Paramount Global",
+          "category": "Economic Structure",
+          "date": "2025-12-09",
+          "event_date": "2025-12-09",
+          "event_id": "wk47_ES_036",
+          "provenance": {
+            "dates": [
+              "2025-12-09"
+            ],
+            "sources": [
+              "popinfo"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-104"
+          ],
+          "source_names": [
+            "popinfo"
+          ],
+          "summary_line": "Structuring foreign investors without formal governance rights to sidestep CFIUS review tested the robustness of safeguards against foreign influence in strategic media assets.",
+          "trait_links": [
+            10,
+            26
+          ]
+        },
+        {
+          "action": "signaled potential intervention in competing Warner Bros. Discovery acquisition bids",
+          "actor": "Trump administration",
+          "category": "Economic Structure",
+          "date": "2025-12-09",
+          "event_date": "2025-12-09",
+          "event_id": "wk47_ES_037",
+          "provenance": {
+            "dates": [
+              "2025-12-09"
+            ],
+            "sources": [
+              "popinfo"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-105"
+          ],
+          "source_names": [
+            "popinfo"
+          ],
+          "summary_line": "Trump\u2019s expressed opposition to a Netflix-WBD deal while an ally-linked Paramount bid advanced raised ethical concerns about regulatory decisions favoring connected investors.",
+          "trait_links": [
+            26,
+            38
+          ]
+        },
+        {
+          "action": "reported that expiration of ACA subsidies could double premiums and cut coverage for millions",
+          "actor": "Popular Information",
+          "category": "Economic Structure",
+          "date": "2025-12-10",
+          "event_date": "2025-12-10",
+          "event_id": "wk47_ES_038",
+          "provenance": {
+            "dates": [
+              "2025-12-10"
+            ],
+            "sources": [
+              "popinfo"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-137"
+          ],
+          "source_names": [
+            "popinfo"
+          ],
+          "summary_line": "Analysis of looming subsidy lapses highlighted how federal policy choices could trigger sharp premium hikes and coverage losses, especially in non-expansion states.",
+          "trait_links": [
+            31,
+            39
+          ]
+        },
+        {
+          "action": "formed a $100 million AI-industry-backed group to influence 2026 elections",
+          "actor": "Leading the Future (LTF)",
+          "category": "Economic Structure",
+          "date": "2025-12-11",
+          "event_date": "2025-12-11",
+          "event_id": "wk47_ES_039",
+          "provenance": {
+            "dates": [
+              "2025-12-11"
+            ],
+            "sources": [
+              "popinfo"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-162"
+          ],
+          "source_names": [
+            "popinfo"
+          ],
+          "summary_line": "The new, lightly disclosed group aimed to boost pro-AI candidates, illustrating how concentrated tech wealth can shape electoral outcomes and regulatory debates.",
+          "trait_links": [
+            2,
+            26,
+            52
+          ]
+        }
+      ],
+      "name": "Economic Structure"
+    },
+    {
+      "events": [
+        {
+          "action": "used an attack dog on Wilmer Toledo-Martinez during an arrest",
+          "actor": "Immigration and Customs Enforcement agents",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-06",
+          "event_date": "2025-12-06",
+          "event_id": "wk47_CR_001",
+          "provenance": {
+            "dates": [
+              "2025-12-06"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-011"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "The mauling of an unresisting undocumented man and delayed medical care exemplified excessive force and raised alarms about humane treatment in immigration enforcement.",
+          "trait_links": [
+            9,
+            47,
+            50
+          ]
+        },
+        {
+          "action": "increased enforcement activity in Minnesota targeting Somali communities",
+          "actor": "Immigration and Customs Enforcement",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-06",
+          "event_date": "2025-12-06",
+          "event_id": "wk47_CR_002",
+          "provenance": {
+            "dates": [
+              "2025-12-06"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-012"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Stepped-up ICE operations in areas with large Somali populations intensified fears of selective enforcement against specific immigrant communities.",
+          "trait_links": [
+            11,
+            47
+          ]
+        },
+        {
+          "action": "deployed and federalized National Guard forces in Washington, DC citing a crime emergency",
+          "actor": "Trump administration",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-06",
+          "event_id": "wk47_CR_003",
+          "provenance": {
+            "dates": [
+              "2025-12-06",
+              "2025-12-08"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-015",
+            "wk047-074"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Sending Guard troops to a city with low crime and placing local police under federal control blurred lines between policing and political theater, with deadly consequences for soldiers.",
+          "trait_links": [
+            1,
+            9,
+            41
+          ]
+        },
+        {
+          "action": "conducted lethal Caribbean boat strikes alleged to constitute war crimes",
+          "actor": "Trump administration and Defense Secretary Pete Hegseth",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-06",
+          "event_date": "2025-12-06",
+          "event_id": "wk47_CR_004",
+          "provenance": {
+            "dates": [
+              "2025-12-06"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-014"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Reports that survivors of anti-drug strikes were killed in follow-up attacks raised serious questions about extrajudicial killings and adherence to the laws of war.",
+          "trait_links": [
+            4,
+            9,
+            50
+          ]
+        },
+        {
+          "action": "rescinded protections and increased deportations of non-citizen veterans",
+          "actor": "Trump administration",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-07",
+          "event_date": "2025-12-07",
+          "event_id": "wk47_CR_005",
+          "provenance": {
+            "dates": [
+              "2025-12-07"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-016",
+            "wk047-019",
+            "wk047-020"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Targeting veterans for removal despite prior service undermined expectations of reciprocal obligations between the state and those who served in its armed forces.",
+          "trait_links": [
+            9,
+            47
+          ]
+        },
+        {
+          "action": "detained and deported Any Lucia L\u00f3pez Belloza despite an emergency court order",
+          "actor": "Immigration and Customs Enforcement",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-08",
+          "event_date": "2025-12-08",
+          "event_id": "wk47_CR_006",
+          "provenance": {
+            "dates": [
+              "2025-12-08"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-041"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Removing a college student to Honduras within 48 hours, apparently in defiance of a federal stay, highlighted due process violations in immigration enforcement.",
+          "trait_links": [
+            4,
+            47
+          ]
+        },
+        {
+          "action": "accused ICE officers of abuse and illegal deportations at Fort Bliss detention facility",
+          "actor": "Civil rights coalition",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-09",
+          "event_date": "2025-12-09",
+          "event_id": "wk47_CR_007",
+          "provenance": {
+            "dates": [
+              "2025-12-09"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-085"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Allegations of beatings, sexual abuse, and unlawful removals at a large Texas camp pointed to systemic rights violations in immigration detention.",
+          "trait_links": [
+            9,
+            46,
+            47,
+            50
+          ]
+        },
+        {
+          "action": "publicly condemned the Trump administration\u2019s dismantling of civil rights enforcement",
+          "actor": "More than 200 former DOJ Civil Rights Division staff",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-09",
+          "event_date": "2025-12-09",
+          "event_id": "wk47_CR_008",
+          "provenance": {
+            "dates": [
+              "2025-12-09"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-086"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Their letter described purges of career experts and mission changes that deprioritized traditional civil rights cases in favor of voter fraud narratives.",
+          "trait_links": [
+            4,
+            17,
+            22,
+            45
+          ]
+        },
+        {
+          "action": "accused political rivals of mortgage fraud while similar conduct by Trump went unexamined",
+          "actor": "Trump administration",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-09",
+          "event_date": "2025-12-09",
+          "event_id": "wk47_CR_009",
+          "provenance": {
+            "dates": [
+              "2025-12-09"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-088"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Selective allegations against figures like Fed Governor Lisa Cook, contrasted with lenient treatment of Trump\u2019s own records, suggested politicized use of fraud investigations.",
+          "trait_links": [
+            4,
+            29,
+            51
+          ]
+        },
+        {
+          "action": "signed HB 1312 restricting civil immigration arrests at courthouses and sensitive locations",
+          "actor": "Illinois Governor JB Pritzker",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-09",
+          "event_id": "wk47_CR_010",
+          "provenance": {
+            "dates": [
+              "2025-12-09",
+              "2025-12-12"
+            ],
+            "sources": [
+              "50501"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-078",
+            "wk047-200"
+          ],
+          "source_names": [
+            "50501"
+          ],
+          "summary_line": "The law limited where federal agents can arrest immigrants and created a right to sue for rights violations, asserting state protections against aggressive federal enforcement.",
+          "trait_links": [
+            11,
+            41,
+            47
+          ]
+        },
+        {
+          "action": "reported that Representative Nancy Mace escalated a minor escort issue into a confrontation",
+          "actor": "Charleston airport police",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-09",
+          "event_date": "2025-12-09",
+          "event_id": "wk47_CR_011",
+          "provenance": {
+            "dates": [
+              "2025-12-09"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-087"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "The investigation into Mace\u2019s conduct toward TSA and officers highlighted expectations for elected officials\u2019 behavior and its impact on frontline staff.",
+          "trait_links": []
+        },
+        {
+          "action": "criticized ICE\u2019s use of attack dogs and called for detainee\u2019s release",
+          "actor": "Civil rights organizations and Senator Patty Murray",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-06",
+          "event_date": "2025-12-06",
+          "event_id": "wk47_CR_012",
+          "provenance": {
+            "dates": [
+              "2025-12-06"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-011"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Political and advocacy responses to the Toledo-Martinez mauling sought accountability for abusive tactics and better protections for detainees\u2019 rights.",
+          "trait_links": [
+            9,
+            41
+          ]
+        },
+        {
+          "action": "reported that ICE crackdowns created fear and bullying among immigrant students",
+          "actor": "University of California, Los Angeles\u2019s IDEA",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-11",
+          "event_date": "2025-12-11",
+          "event_id": "wk47_CR_013",
+          "provenance": {
+            "dates": [
+              "2025-12-11"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-157"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Survey findings that enforcement actions harmed attendance and learning for immigrant youth showed how federal policy can chill access to education and equal treatment.",
+          "trait_links": [
+            41,
+            45,
+            47
+          ]
+        },
+        {
+          "action": "proposed sending Caribbean strike survivors to El Salvador\u2019s CECOT prison before being overruled",
+          "actor": "Pentagon lawyers",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-11",
+          "event_date": "2025-12-11",
+          "event_id": "wk47_CR_014",
+          "provenance": {
+            "dates": [
+              "2025-12-11"
+            ],
+            "sources": [
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-158"
+          ],
+          "source_names": [
+            "hcr"
+          ],
+          "summary_line": "The suggestion to transfer detainees to a prison notorious for abuse, later blocked by State Department lawyers, exposed internal tensions over human rights obligations.",
+          "trait_links": [
+            4,
+            9,
+            50
+          ]
+        },
+        {
+          "action": "faced criticism over handling of Epstein files and Ghislaine Maxwell\u2019s conditions",
+          "actor": "Department of Justice and prison authorities",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-11",
+          "event_date": "2025-12-11",
+          "event_id": "wk47_CR_015",
+          "provenance": {
+            "dates": [
+              "2025-12-11"
+            ],
+            "sources": [
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-154",
+            "wk047-159"
+          ],
+          "source_names": [
+            "meidas"
+          ],
+          "summary_line": "Survivors\u2019 counsel argued that lenient treatment and secrecy around Epstein-related records undermined trust in the justice system\u2019s willingness to confront elite abuse.",
+          "trait_links": [
+            21,
+            51
+          ]
+        },
+        {
+          "action": "detained Belarusian defendant Yana Leonova upon extradition, risking her deportation before trial",
+          "actor": "Immigration and Customs Enforcement and FBI",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-11",
+          "event_date": "2025-12-11",
+          "event_id": "wk47_CR_016",
+          "provenance": {
+            "dates": [
+              "2025-12-11"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-155"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "ICE\u2019s move to deport a woman extradited for prosecution conflicted with DOJ\u2019s efforts, illustrating how immigration enforcement can disrupt criminal accountability processes.",
+          "trait_links": [
+            4,
+            46
+          ]
+        },
+        {
+          "action": "detained commentator Hasan Piker and questioned him about his political views",
+          "actor": "U.S. border agents",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-11",
+          "event_date": "2025-12-11",
+          "event_id": "wk47_CR_017",
+          "provenance": {
+            "dates": [
+              "2025-12-11"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-156"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Holding a U.S. citizen at the border and probing his opinions on Trump and Gaza suggested use of border powers to intimidate outspoken critics.",
+          "trait_links": [
+            41,
+            46,
+            49
+          ]
+        },
+        {
+          "action": "increased arrests of Afghan asylum seekers with pending cases",
+          "actor": "Immigration and Customs Enforcement",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-12",
+          "event_date": "2025-12-12",
+          "event_id": "wk47_CR_018",
+          "provenance": {
+            "dates": [
+              "2025-12-12"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-211"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Detaining Afghans who had complied with monitoring and awaited hearings created a climate of fear and raised concerns about good-faith treatment of recent evacuees.",
+          "trait_links": [
+            46,
+            47
+          ]
+        },
+        {
+          "action": "detained DACA recipient and Muslim photojournalist Ya'akub Vijandre over social media posts",
+          "actor": "Immigration and Customs Enforcement",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-12",
+          "event_date": "2025-12-12",
+          "event_id": "wk47_CR_019",
+          "provenance": {
+            "dates": [
+              "2025-12-12"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-212"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Revoking DACA and jailing a journalist for online speech linked to terrorism allegations raised fears of immigration powers being used to punish expression and faith.",
+          "trait_links": [
+            41,
+            46,
+            48,
+            49
+          ]
+        },
+        {
+          "action": "used provocative nativity scenes to protest ICE enforcement",
+          "actor": "Churches and faith leaders",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-12",
+          "event_date": "2025-12-12",
+          "event_id": "wk47_CR_020",
+          "provenance": {
+            "dates": [
+              "2025-12-12"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-214"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Displaying imagery like a handcuffed baby Jesus to criticize immigration crackdowns showed religious institutions mobilizing symbolic speech against state policies.",
+          "trait_links": [
+            41,
+            48
+          ]
+        },
+        {
+          "action": "organized trainings and materials to help businesses and communities resist warrantless ICE raids",
+          "actor": "Siembra and SiembraNC",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-08",
+          "event_id": "wk47_CR_021",
+          "provenance": {
+            "dates": [
+              "2025-12-08",
+              "2025-12-09"
+            ],
+            "sources": [
+              "guardian",
+              "outloud"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-048",
+            "wk047-093"
+          ],
+          "source_names": [
+            "guardian",
+            "outloud"
+          ],
+          "summary_line": "Educating owners and municipal staff on Fourth Amendment rights equipped local actors to demand warrants and limit intrusive federal enforcement.",
+          "trait_links": [
+            41,
+            45
+          ]
+        },
+        {
+          "action": "accused the Chapel Hill School Board of \"grooming\" over DEI initiatives",
+          "actor": "North Carolina House Select Committee",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-11",
+          "event_date": "2025-12-11",
+          "event_id": "wk47_CR_022",
+          "provenance": {
+            "dates": [
+              "2025-12-11"
+            ],
+            "sources": [
+              "outloud"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-163"
+          ],
+          "source_names": [
+            "outloud"
+          ],
+          "summary_line": "Aggressive questioning of a local board for supporting diversity programs illustrated how legislative forums can be used to intimidate educators and chill inclusive curricula.",
+          "trait_links": [
+            44,
+            49
+          ]
+        },
+        {
+          "action": "made derogatory remarks about Somali Americans and female reporters",
+          "actor": "President Donald Trump",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-10",
+          "event_date": "2025-12-10",
+          "event_id": "wk47_CR_023",
+          "provenance": {
+            "dates": [
+              "2025-12-10"
+            ],
+            "sources": [
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-125"
+          ],
+          "source_names": [
+            "hcr"
+          ],
+          "summary_line": "Labeling Somali Americans \"garbage\" and attacking women journalists contributed to a hostile climate for minorities and critics, normalizing dehumanizing rhetoric from the presidency.",
+          "trait_links": [
+            8,
+            47,
+            49
+          ]
+        },
+        {
+          "action": "faced calls and legislative pressure to release video of a lethal boat strike",
+          "actor": "Defense Secretary Pete Hegseth and Pentagon",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-07",
+          "event_id": "wk47_CR_024",
+          "provenance": {
+            "dates": [
+              "2025-12-07",
+              "2025-12-08",
+              "2025-12-09"
+            ],
+            "sources": [
+              "guardian",
+              "meidas",
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-021",
+            "wk047-035",
+            "wk047-079"
+          ],
+          "source_names": [
+            "guardian",
+            "meidas",
+            "hcr"
+          ],
+          "summary_line": "Resistance to disclosing unedited footage of a controversial strike, despite congressional leverage, highlighted secrecy around potential rights violations in military operations.",
+          "trait_links": [
+            9,
+            58
+          ]
+        },
+        {
+          "action": "created a militarized National Defense Area along the California\u2013Mexico border",
+          "actor": "Trump administration",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-11",
+          "event_date": "2025-12-11",
+          "event_id": "wk47_CR_025",
+          "provenance": {
+            "dates": [
+              "2025-12-11"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-195"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Transferring public land to the Navy for a border defense zone empowered military personnel to capture migrants, deepening the militarization of immigration control.",
+          "trait_links": [
+            9,
+            11,
+            47,
+            50
+          ]
+        },
+        {
+          "action": "was sued by 81 women for alleged sexual assault and secret filming",
+          "actor": "U.S. Army gynecologist Blaine McGraw",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-12",
+          "event_date": "2025-12-12",
+          "event_id": "wk47_CR_026",
+          "provenance": {
+            "dates": [
+              "2025-12-12"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-207"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "The civil suit against a military doctor for widespread abuse tested whether recent reforms can deliver accountability and protection for service members and dependents.",
+          "trait_links": [
+            9,
+            48
+          ]
+        },
+        {
+          "action": "convicted Pastor Milton Otto Martin III of indecent behavior with a juvenile",
+          "actor": "Louisiana criminal court",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-12",
+          "event_date": "2025-12-12",
+          "event_id": "wk47_CR_027",
+          "provenance": {
+            "dates": [
+              "2025-12-12"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-209"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "The conviction of a pastor for molesting a teenage congregant showed the justice system addressing abuse within religious institutions, with mandatory sex offender registration.",
+          "trait_links": [
+            48
+          ]
+        },
+        {
+          "action": "voted against applying for a major violence-prevention grant",
+          "actor": "Stockton City Council",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-10",
+          "event_date": "2025-12-10",
+          "event_id": "wk47_CR_028",
+          "provenance": {
+            "dates": [
+              "2025-12-10"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-112"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Rejecting funds for youth outreach while heavily funding police reflected local policy choices that prioritize enforcement over preventive services in addressing violence.",
+          "trait_links": [
+            41
+          ]
+        },
+        {
+          "action": "testified that Antifa is the primary domestic terrorism threat",
+          "actor": "FBI national security branch",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-10",
+          "event_date": "2025-12-10",
+          "event_id": "wk47_CR_029",
+          "provenance": {
+            "dates": [
+              "2025-12-10"
+            ],
+            "sources": [
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-121"
+          ],
+          "source_names": [
+            "meidas"
+          ],
+          "summary_line": "Labeling Antifa as the top domestic threat and reevaluating extremist categories signaled how official threat designations can shape surveillance and enforcement priorities.",
+          "trait_links": [
+            8,
+            46
+          ]
+        },
+        {
+          "action": "organized trainings to help immigrants resist ICE enforcement",
+          "actor": "North Carolina immigrant-rights group SiembraNC and allies",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-09",
+          "event_date": "2025-12-09",
+          "event_id": "wk47_CR_030",
+          "provenance": {
+            "dates": [
+              "2025-12-09"
+            ],
+            "sources": [
+              "outloud"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-093"
+          ],
+          "source_names": [
+            "outloud"
+          ],
+          "summary_line": "Community workshops on rights and response to raids strengthened local capacity to contest aggressive immigration tactics and support vulnerable residents.",
+          "trait_links": [
+            41,
+            47
+          ]
+        },
+        {
+          "action": "scheduled a \"Do not turn on us\" event to educate military personnel about illegal orders",
+          "actor": "Webinar organizers",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-08",
+          "event_date": "2025-12-08",
+          "event_id": "wk47_CR_031",
+          "provenance": {
+            "dates": [
+              "2025-12-08"
+            ],
+            "sources": [
+              "outloud"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-076"
+          ],
+          "source_names": [
+            "outloud"
+          ],
+          "summary_line": "The planned webinar aimed to reinforce service members\u2019 obligations to refuse unlawful commands, supporting rule-of-law norms within the armed forces.",
+          "trait_links": [
+            9,
+            18
+          ]
+        },
+        {
+          "action": "released an autopsy of Kamala Harris\u2019s 2024 election defeat",
+          "actor": "RootsAction",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-10",
+          "event_date": "2025-12-10",
+          "event_id": "wk47_CR_032",
+          "provenance": {
+            "dates": [
+              "2025-12-10"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-123"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "The report\u2019s critique of campaign strategy and corporate influence contributed to intra-party debate over how to mobilize voters and respond to foreign policy controversies.",
+          "trait_links": []
+        },
+        {
+          "action": "pressured the ICC to amend its statute to avoid prosecuting U.S. and Israeli officials",
+          "actor": "Trump administration",
+          "category": "Civil Rights and Dissent",
+          "date": "2025-12-10",
+          "event_date": "2025-12-10",
+          "event_id": "wk47_CR_033",
+          "provenance": {
+            "dates": [
+              "2025-12-10"
+            ],
+            "sources": [
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-138"
+          ],
+          "source_names": [
+            "meidas"
+          ],
+          "summary_line": "Seeking to change the court\u2019s founding document to shield specific leaders from investigation challenged international mechanisms for redressing human rights abuses.",
+          "trait_links": [
+            4,
+            10
+          ]
+        }
+      ],
+      "name": "Civil Rights and Dissent"
+    },
+    {
+      "events": [
+        {
+          "action": "reported on the Trump administration\u2019s 2025 National Security Strategy",
+          "actor": "New York Times and other media",
+          "category": "Information, Memory and Manipulation",
+          "date": "2025-12-06",
+          "event_id": "wk47_IM_001",
+          "provenance": {
+            "dates": [
+              "2025-12-06",
+              "2025-12-08",
+              "2025-12-09"
+            ],
+            "sources": [
+              "hcr",
+              "outloud",
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-013",
+            "wk047-071",
+            "wk047-073",
+            "wk047-107"
+          ],
+          "source_names": [
+            "hcr",
+            "outloud",
+            "meidas"
+          ],
+          "summary_line": "The strategy\u2019s emphasis on sovereignty, reduced NATO commitments, and anti-immigration framing signaled a shift away from a rules-based order toward great-power spheres of influence.",
+          "trait_links": [
+            10,
+            39
+          ]
+        },
+        {
+          "action": "solicited public submissions alleging media bias",
+          "actor": "White House",
+          "category": "Information, Memory and Manipulation",
+          "date": "2025-12-08",
+          "event_date": "2025-12-08",
+          "event_id": "wk47_IM_002",
+          "provenance": {
+            "dates": [
+              "2025-12-08"
+            ],
+            "sources": [
+              "outloud"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-049"
+          ],
+          "source_names": [
+            "outloud"
+          ],
+          "summary_line": "Inviting citizens to report biased coverage risked creating a government-managed grievance channel that could be used to pressure or delegitimize critical outlets.",
+          "trait_links": [
+            42,
+            43
+          ]
+        },
+        {
+          "action": "partnered with Kalshi to integrate prediction market data into news programming",
+          "actor": "CNN and CNBC",
+          "category": "Information, Memory and Manipulation",
+          "date": "2025-12-08",
+          "event_date": "2025-12-08",
+          "event_id": "wk47_IM_003",
+          "provenance": {
+            "dates": [
+              "2025-12-08"
+            ],
+            "sources": [
+              "popinfo"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-050"
+          ],
+          "source_names": [
+            "popinfo"
+          ],
+          "summary_line": "Embedding betting odds into coverage blurred lines between journalism and speculation, potentially incentivizing sensationalism and enabling market manipulation.",
+          "trait_links": [
+            39,
+            43,
+            52
+          ]
+        },
+        {
+          "action": "aligned CBS News leadership with Trump-friendly figures amid a major merger bid",
+          "actor": "Paramount Global",
+          "category": "Information, Memory and Manipulation",
+          "date": "2025-12-09",
+          "event_date": "2025-12-09",
+          "event_id": "wk47_IM_004",
+          "provenance": {
+            "dates": [
+              "2025-12-09"
+            ],
+            "sources": [
+              "popinfo"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-094"
+          ],
+          "source_names": [
+            "popinfo"
+          ],
+          "summary_line": "Hiring a Trump loyalist ombudsman and an anti-woke editor-in-chief suggested editorial shifts that could curry favor with regulators and the administration.",
+          "trait_links": [
+            2,
+            43
+          ]
+        },
+        {
+          "action": "released thousands of photographs from Jeffrey Epstein\u2019s files",
+          "actor": "House Oversight Committee Democrats",
+          "category": "Information, Memory and Manipulation",
+          "date": "2025-12-12",
+          "event_id": "wk47_IM_005",
+          "provenance": {
+            "dates": [
+              "2025-12-11",
+              "2025-12-12"
+            ],
+            "sources": [
+              "meidas",
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-188",
+            "wk047-201"
+          ],
+          "source_names": [
+            "meidas",
+            "guardian"
+          ],
+          "summary_line": "Publishing images of Epstein with powerful figures advanced transparency about his network while sparking disputes over selective disclosure and political motives.",
+          "trait_links": [
+            21,
+            58,
+            60
+          ]
+        },
+        {
+          "action": "pressed DOJ to release Epstein files within a week",
+          "actor": "Senator Ruben Gallego and Epstein survivors\u2019 counsel",
+          "category": "Information, Memory and Manipulation",
+          "date": "2025-12-11",
+          "event_date": "2025-12-11",
+          "event_id": "wk47_IM_006",
+          "provenance": {
+            "dates": [
+              "2025-12-11"
+            ],
+            "sources": [
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-154",
+            "wk047-159"
+          ],
+          "source_names": [
+            "meidas"
+          ],
+          "summary_line": "Deadlines and criticism over withheld records highlighted ongoing struggles to obtain full documentation of elite-linked abuse cases.",
+          "trait_links": [
+            21,
+            58
+          ]
+        },
+        {
+          "action": "claimed the economy deserved an \"A-plus-plus-plus-plus-plus\" grade despite public concern",
+          "actor": "President Donald Trump",
+          "category": "Information, Memory and Manipulation",
+          "date": "2025-12-10",
+          "event_date": "2025-12-10",
+          "event_id": "wk47_IM_007",
+          "provenance": {
+            "dates": [
+              "2025-12-10"
+            ],
+            "sources": [
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-128"
+          ],
+          "source_names": [
+            "hcr"
+          ],
+          "summary_line": "Trump\u2019s exaggerated self-assessment of economic performance illustrated how leaders can use rhetoric to counteract unfavorable data and voter sentiment.",
+          "trait_links": [
+            39,
+            53
+          ]
+        },
+        {
+          "action": "planned to replace national park imagery on passes with Trump\u2019s portrait",
+          "actor": "Trump administration",
+          "category": "Information, Memory and Manipulation",
+          "date": "2025-12-10",
+          "event_date": "2025-12-10",
+          "event_id": "wk47_IM_008",
+          "provenance": {
+            "dates": [
+              "2025-12-10"
+            ],
+            "sources": [
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-129"
+          ],
+          "source_names": [
+            "meidas"
+          ],
+          "summary_line": "Rebranding park passes with the president\u2019s face, in defiance of a statutory photo contest, used public symbols for personal promotion and sparked legal challenge.",
+          "trait_links": [
+            24,
+            60
+          ]
+        },
+        {
+          "action": "reported artificial engagement boosting for extremist Nick Fuentes",
+          "actor": "Network Contagion Research Institute",
+          "category": "Information, Memory and Manipulation",
+          "date": "2025-12-11",
+          "event_date": "2025-12-11",
+          "event_id": "wk47_IM_009",
+          "provenance": {
+            "dates": [
+              "2025-12-11"
+            ],
+            "sources": [
+              "noah"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-164"
+          ],
+          "source_names": [
+            "noah"
+          ],
+          "summary_line": "Evidence that anonymous and foreign accounts inflated Fuentes\u2019s reach showed how coordinated manipulation can distort perceptions of support for extremist figures.",
+          "trait_links": [
+            43,
+            54
+          ]
+        },
+        {
+          "action": "decided to share detailed voting data",
+          "actor": "North Carolina Board of Elections",
+          "category": "Information, Memory and Manipulation",
+          "date": "2025-12-12",
+          "event_date": "2025-12-12",
+          "event_id": "wk47_IM_010",
+          "provenance": {
+            "dates": [
+              "2025-12-12"
+            ],
+            "sources": [
+              "outloud"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-216"
+          ],
+          "source_names": [
+            "outloud"
+          ],
+          "summary_line": "The board\u2019s plan to disseminate voter information raised concerns about privacy and how such data might be used to target or intimidate voters.",
+          "trait_links": [
+            45,
+            46
+          ]
+        },
+        {
+          "action": "released an archive of Trump\u2019s 2025 Truth Social posts",
+          "actor": "The 50501 Movement and collaborators",
+          "category": "Information, Memory and Manipulation",
+          "date": "2025-12-12",
+          "event_date": "2025-12-12",
+          "event_id": "wk47_IM_011",
+          "provenance": {
+            "dates": [
+              "2025-12-12"
+            ],
+            "sources": [
+              "50501"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-215"
+          ],
+          "source_names": [
+            "50501"
+          ],
+          "summary_line": "Documenting presidential posts, including AI-generated images and calls for prosecutions, created an independent record to counter potential deletion or revision of controversial content.",
+          "trait_links": [
+            58,
+            60
+          ]
+        },
+        {
+          "action": "linked historical struggles against fascism to current U.S. political trends",
+          "actor": "Heather Cox Richardson and other commentators",
+          "category": "Information, Memory and Manipulation",
+          "date": "2025-12-07",
+          "event_date": "2025-12-07",
+          "event_id": "wk47_IM_012",
+          "provenance": {
+            "dates": [
+              "2025-12-07"
+            ],
+            "sources": [
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-022"
+          ],
+          "source_names": [
+            "hcr"
+          ],
+          "summary_line": "Historical analysis framed contemporary erosions of equality and democratic norms as part of a longer contest between hierarchical and democratic visions of government.",
+          "trait_links": []
+        },
+        {
+          "action": "reported on a media merger battle that could shift CNN\u2019s editorial stance",
+          "actor": "Media outlets and analysts",
+          "category": "Information, Memory and Manipulation",
+          "date": "2025-12-10",
+          "event_id": "wk47_IM_013",
+          "provenance": {
+            "dates": [
+              "2025-12-09",
+              "2025-12-10"
+            ],
+            "sources": [
+              "popinfo",
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-103",
+            "wk047-104",
+            "wk047-105",
+            "wk047-127"
+          ],
+          "source_names": [
+            "popinfo",
+            "hcr"
+          ],
+          "summary_line": "Coverage of a Paramount\u2013Skydance bid for WBD, backed by Trump allies and foreign funds, highlighted risks of consolidating major news outlets under politically aligned ownership.",
+          "trait_links": [
+            2,
+            43,
+            60
+          ]
+        },
+        {
+          "action": "adopted multilingual templates for Wireless Emergency Alerts",
+          "actor": "Federal Communications Commission",
+          "category": "Information, Memory and Manipulation",
+          "date": "2025-12-10",
+          "event_date": "2025-12-10",
+          "event_id": "wk47_IM_014",
+          "provenance": {
+            "dates": [
+              "2025-12-10"
+            ],
+            "sources": [
+              "federalregister"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-126"
+          ],
+          "source_names": [
+            "federalregister"
+          ],
+          "summary_line": "Standardizing multilingual alert templates improved equitable access to critical information during emergencies for non-English-speaking communities.",
+          "trait_links": []
+        },
+        {
+          "action": "passed a resolution condemning China\u2019s harassment of U.S.-based critics",
+          "actor": "Congress",
+          "category": "Information, Memory and Manipulation",
+          "date": "2025-12-11",
+          "event_date": "2025-12-11",
+          "event_id": "wk47_IM_015",
+          "provenance": {
+            "dates": [
+              "2025-12-11"
+            ],
+            "sources": [
+              "congress"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-190"
+          ],
+          "source_names": [
+            "congress"
+          ],
+          "summary_line": "The measure denouncing Chinese efforts to silence speech on U.S. soil affirmed congressional support for protecting domestic expression from foreign intimidation.",
+          "trait_links": [
+            42
+          ]
+        },
+        {
+          "action": "exposed AI industry\u2019s $100 million political strategy to shape AI regulation and elections",
+          "actor": "Popular Information",
+          "category": "Information, Memory and Manipulation",
+          "date": "2025-12-11",
+          "event_date": "2025-12-11",
+          "event_id": "wk47_IM_016",
+          "provenance": {
+            "dates": [
+              "2025-12-11"
+            ],
+            "sources": [
+              "popinfo"
+            ]
+          },
+          "source_event_ids": [
+            "wk047-145",
+            "wk047-162",
+            "wk047-186"
+          ],
+          "source_names": [
+            "popinfo"
+          ],
+          "summary_line": "Reporting on LTF and lobbying for AI preemption illuminated how concentrated tech money seeks to steer both policy and electoral narratives around AI.",
+          "trait_links": [
+            2,
+            26,
+            52,
+            54
+          ]
+        }
+      ],
+      "name": "Information, Memory and Manipulation"
+    }
+  ],
+  "clock_delta_minutes": 0.0,
+  "clock_time_public": "8:11 p.m.",
+  "period_label": "Week 47 \u2013 2025-12-06\u20132025-12-12",
+  "week_number": 47,
+  "window": {
+    "end": "2025-12-12",
+    "start": "2025-12-06"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "schema": "dc_events_appendix_enhanced_v1",
+  "intended_use": "wordpress_seed_only",
+  "do_not_use_for": [
+    "step3",
+    "step4",
+    "step5",
+    "step6",
+    "step7",
+    "substack",
+    "scrivener",
+    "vellum"
+  ],
+  "week": 10,
+  "generated_at": "2026-01-09T04:39:39+10:00",
+  "source_artifacts": {
+    "appendix_full": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Weeks/Week 10/events_appendix_full_week10.json",
+    "master_index": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Master Event Logs/master_index_week10_2025-03-22_2025-03-28.json"
+  },
+  "stats": {
+    "events_total": 0,
+    "matched_by_event_id": 0,
+    "unmatched": 0,
+    "events_with_multiple_sources": 0
+  },
+  "events": []
+}

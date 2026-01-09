@@ -1,0 +1,110 @@
+{
+  "week_number": 50,
+  "period_label": "Week 50 – 2025-12-27–2026-01-02",
+  "window": {
+    "start": "2025-12-27",
+    "end": "2026-01-02"
+  },
+  "clock_time_public": "8:11 p.m.",
+  "clock_delta_minutes": 0.0,
+  "baseline_traits": [
+    {
+      "name": "character",
+      "definition": "Internal discipline to align words with deeds, to place public duty ahead of personal gain, and to honour the oath of office even when it conflicts with short-term advantage."
+    },
+    {
+      "name": "ethics",
+      "definition": "Commitment to keep a firm boundary between public power and private interest, avoiding conflicts of interest, self-dealing, and the use of office to enrich oneself, family, or allies."
+    },
+    {
+      "name": "restraint",
+      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+    },
+    {
+      "name": "truthfulness",
+      "definition": "Obligation to speak accurately on matters of public consequence, avoid deliberate disinformation, correct false statements, and ensure that citizens are not governed by manufactured unreality."
+    },
+    {
+      "name": "good_faith",
+      "definition": "Adherence to the spirit as well as the letter of democratic rules, keeping promises, respecting outcomes, and avoiding procedural manipulation that defeats the purpose of the law."
+    },
+    {
+      "name": "stewardship",
+      "definition": "Responsibility to maintain and strengthen institutions so they can serve future generations as well as the present, avoiding actions that permanently damage capacity, credibility, or public trust."
+    }
+  ],
+  "weekly_audit": {
+    "summary": "This week continued the trend of erosion in the moral floor, with significant breaches in character, ethics, restraint, and truthfulness. The administration's actions demonstrated a persistent disregard for democratic norms, particularly in the handling of immigration enforcement and the use of executive power. While there were some instances of institutional pushback, they were insufficient to counter the overarching trend of power consolidation and erosion of accountability.",
+    "norms_broken": [
+      {
+        "trait": "character",
+        "pattern": "The president's actions, including vetoing bipartisan legislation and asserting personal control over immigration and military actions, reflected a prioritization of personal power over public duty.",
+        "severity": "serious",
+        "institutional_response": "Some courts attempted to assert checks, but these efforts were often insufficient."
+      },
+      {
+        "trait": "ethics",
+        "pattern": "The administration's vetoes and budget cuts to programs benefiting low-income communities blurred ethical boundaries and reinforced a culture of impunity.",
+        "severity": "serious",
+        "institutional_response": "Judicial challenges were limited, and the executive continued its course without significant checks."
+      },
+      {
+        "trait": "restraint",
+        "pattern": "The administration's unilateral actions, including the expansion of immigration enforcement and military threats, demonstrated a lack of self-limitation.",
+        "severity": "serious",
+        "institutional_response": "Some courts attempted to assert checks, but these efforts were often insufficient."
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "The administration's manipulation of narratives around immigration and military actions contributed to a manufactured reality that undermined public trust.",
+        "severity": "serious",
+        "institutional_response": "Media and civil society worked to counter misinformation, but the scale of disinformation was significant."
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Procedural manipulation was evident in the executive's attempts to evade transparency laws and undermine accountability mechanisms.",
+        "severity": "serious",
+        "institutional_response": "Legal challenges were initiated, but they were largely reactionary."
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "The dismantling of programs and the prioritization of fossil fuel interests over renewable energy projects indicated a failure to protect institutional integrity and public trust.",
+        "severity": "serious",
+        "institutional_response": "Civil society groups mobilized to resist these changes, but their efforts were insufficient."
+      }
+    ],
+    "norms_strengthened": [
+      {
+        "trait": "stewardship",
+        "pattern": "Judicial rulings blocking illegal U.S. attorney appointments and limiting immigration enforcement highlighted the role of courts in upholding democratic norms.",
+        "scope": "institutional",
+        "why_it_matters": "These actions are essential for maintaining institutional integrity and protecting civil rights."
+      }
+    ],
+    "direction_of_movement": "collapsing"
+  },
+  "cumulative_condition": {
+    "narrative": "The moral floor continues to deteriorate, with the executive branch increasingly treating public institutions as extensions of personal power. This week, the aggressive assertion of executive authority, coupled with a disregard for truthfulness and ethics, has further strained the capacity of democratic institutions to function effectively. While there are signs of resistance from the judiciary and civil society, these efforts have not yet been able to counter the significant shifts occurring at the federal level. The cumulative effect of these actions has resulted in a net loss of democratic safety, as indicated by the slight inward movement of the Democracy Clock.",
+    "trend": "deteriorating",
+    "stress_points": [
+      "militarization of domestic law enforcement",
+      "erosion of civil rights protections",
+      "disinformation from the executive",
+      "politicization of federal agencies"
+    ],
+    "sources_of_resilience": [
+      "judicial pushback against unconstitutional orders",
+      "active civil society engagement",
+      "state-level legal challenges"
+    ]
+  },
+  "risk_assessment": {
+    "level": "high",
+    "justification": "The current trajectory indicates a high level of risk for further erosion of democratic norms. The aggressive use of executive power, coupled with a lack of accountability and transparency, poses significant threats to the integrity of democratic institutions. If these patterns continue, the potential for further abuses of power and the normalization of authoritarian practices increases.",
+    "forward_signals": [
+      "escalating executive orders bypassing legislative authority",
+      "increased disinformation campaigns targeting public trust",
+      "further attempts to undermine judicial independence"
+    ]
+  }
+}

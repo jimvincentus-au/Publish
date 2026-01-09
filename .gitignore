@@ -1,21 +1,31 @@
+# -----------------------------
 # Python
+# -----------------------------
 __pycache__/
 *.py[cod]
 .venv/
 env/
 venv/
 
+# -----------------------------
 # Logs / temp
+# -----------------------------
 Logs/
 *.log
 *.tmp
 
-# Outputs
-Output/
-Scrivener/
-Substack/
+# -----------------------------
+# Publish build outputs
+# -----------------------------
+# Deterministic, regenerable artifacts
+Publish/Output/**
 
-# in Publish/.gitignore
+# Allow documentation explaining ignored outputs
+!Publish/Output/README.md
+
+# -----------------------------
+# Archives / backups
+# -----------------------------
 *.zip
 *backup*
 *_bkup_*

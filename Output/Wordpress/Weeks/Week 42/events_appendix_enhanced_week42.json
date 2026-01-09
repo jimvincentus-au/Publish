@@ -1,0 +1,3727 @@
+{
+  "schema": "dc_events_appendix_enhanced_v1",
+  "intended_use": "wordpress_seed_only",
+  "do_not_use_for": [
+    "step3",
+    "step4",
+    "step5",
+    "step6",
+    "step7",
+    "substack",
+    "scrivener",
+    "vellum"
+  ],
+  "week": 42,
+  "generated_at": "2026-01-09T04:39:39+10:00",
+  "source_artifacts": {
+    "appendix_full": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Weeks/Week 42/events_appendix_full_week42.json",
+    "master_index": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Master Event Logs/master_index_week42_2025-11-01_2025-11-07.json"
+  },
+  "stats": {
+    "events_total": 93,
+    "matched_by_event_id": 93,
+    "unmatched": 0,
+    "events_with_multiple_sources": 0
+  },
+  "events": [
+    {
+      "attacks": [
+        "constitution",
+        "separation_of_powers"
+      ],
+      "date": "2025-11-01",
+      "domain": null,
+      "event_id": "wk042-001",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "The DOJ informed Congress that the Trump administration does not need to comply with the War Powers Act regarding boat bombings, as the vessels cannot shoot back. The operation involves airstrikes on boats in the Caribbean Sea and eastern Pacific, resulting in at least 65 deaths. The DOJ argues the strikes do not constitute \"hostilities\" under the 1973 War Powers Resolution.",
+      "title": "DOJ Claims War Powers Act Does Not Apply to Boat Bombings",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.2,
+          "trait_id": "executive_power_operates_without_effective_oversight",
+          "trait_name": "Executive power operates without effective oversight",
+          "trait_number": 1
+        }
+      ],
+      "why_relevant": "The DOJ's stance on the War Powers Act raises questions about executive overreach and the legality of military actions.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/this-weekend-in-politics-bulletin-944",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 72
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "congress",
+        "separation_of_powers"
+      ],
+      "date": "2025-11-01",
+      "domain": null,
+      "event_id": "wk042-002",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "President Trump criticized Democrats for the government shutdown and urged Republicans to eliminate the filibuster to pass their agenda. He claimed that ending the shutdown and passing the Republican agenda would improve life for Americans. The comments reflect ongoing partisan tensions and the strategic use of the filibuster in legislative processes.",
+      "title": "Trump Criticizes Filibuster and Shutdown",
+      "traits": [],
+      "why_relevant": "The debate over the filibuster and government shutdown highlights the challenges of legislative gridlock and partisan conflict.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/this-weekend-in-politics-bulletin-944",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 74
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "immigrants_refugees",
+        "civil_service",
+        "public_service"
+      ],
+      "date": "2025-11-01",
+      "domain": null,
+      "event_id": "wk042-004",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "On Halloween night, federal agents, including military troops, conducted immigration raids in Chicago and Los Angeles. In Chicago, ICE agents, supported by military personnel, arrested several individuals and clashed with protesters, leading to additional detentions. In Evanston, Illinois, a confrontation occurred near schools, with the mayor accusing ICE of assaulting residents. In Los Angeles, ICE agents wore Halloween masks during enforcement activities. Illinois Governor JB Pritzker requested a pause in enforcement over the holiday, which was denied by Homeland Security Secretary Kristi Noem.",
+      "title": "Federal immigration raids in Chicago and Los Angeles on Halloween",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.2,
+          "trait_id": "security_forces_protect_power_not_people",
+          "trait_name": "Police and military are aligned with elite preservation, not public defense",
+          "trait_number": 9
+        },
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.2,
+          "trait_id": "citizenship_stratified_by_wealth_ideology_heritage",
+          "trait_name": "Citizenship is stratified by wealth, ideology, and heritage",
+          "trait_number": 47
+        },
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.1,
+          "trait_id": "paramilitary_violence_tolerated_when_it_protects_elites",
+          "trait_name": "Paramilitary violence is tolerated when it protects elite interests",
+          "trait_number": 50
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.2,
+          "trait_id": "chaos_as_strategy_to_disable_accountability",
+          "trait_name": "Chaos is used as a strategy to fragment focus and disable accountability",
+          "trait_number": 53
+        }
+      ],
+      "why_relevant": "The use of federal agents and military troops in immigration enforcement raises concerns about civil liberties and the militarization of law enforcement.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/01/trump-immigration-chicago-los-angeles-halloween",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 176
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "justice_dept",
+        "truth"
+      ],
+      "date": "2025-11-01",
+      "domain": null,
+      "event_id": "wk042-005",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "A Michigan defense lawyer has disputed FBI Director Kash Patel's allegations that a group of young suspects were planning a terror attack on Halloween weekend. The FBI and Michigan authorities have provided few details, and the lawyer, Amir Makled, representing one of the suspects, stated that no terror event was planned. The suspects, aged 16-20, are described as gamers, and Makled does not expect any charges to be filed. The FBI has not commented further on the case.",
+      "title": "FBI Director Kash Patel's Allegations Disputed",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.1,
+          "trait_id": "dissent_reframed_as_disorder_treason_or_terrorism",
+          "trait_name": "Dissent is reframed as disorder, treason, or terrorism",
+          "trait_number": 8
+        }
+      ],
+      "why_relevant": "The case raises concerns about potential overreach and fear-mongering by law enforcement agencies.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/this-weekend-in-politics-bulletin-944",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 67
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "immigrants_refugees",
+        "justice_dept"
+      ],
+      "date": "2025-11-01",
+      "domain": null,
+      "event_id": "wk042-006",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "ICE is considering hiring private bounty hunters to locate immigrants across the country, according to a procurement document. The plan includes offering monetary bonuses based on performance, such as identifying correct addresses or finding a high percentage of targets. The proposal resembles a plan reportedly circulated by military contractors, including former Blackwater CEO Erik Prince. This move could significantly impact how immigration enforcement is conducted in the U.S.",
+      "title": "ICE Considers Hiring Private Bounty Hunters",
+      "traits": [
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.2,
+          "trait_id": "civil_service_politicized_or_privatized",
+          "trait_name": "Civil service roles are politicized or privatized",
+          "trait_number": 22
+        },
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.2,
+          "trait_id": "state_power_outsourced_to_unaccountable_contractors",
+          "trait_name": "State power is outsourced to unaccountable private contractors",
+          "trait_number": 25
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.1,
+          "trait_id": "public_goods_privatized_for_profit",
+          "trait_name": "Public goods are privatized for profit",
+          "trait_number": 31
+        }
+      ],
+      "why_relevant": "The use of private bounty hunters for immigration enforcement raises ethical and legal concerns about privacy and due process.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/this-weekend-in-politics-bulletin-944",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 68
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "immigrants_refugees",
+        "justice_dept"
+      ],
+      "date": "2025-11-01",
+      "domain": null,
+      "event_id": "wk042-007",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "ICE is considering employing private bounty hunters to locate immigrants, offering monetary bonuses for successful tracking. This plan, similar to one proposed by military contractors, raises concerns about privacy and the ethics of using private entities for immigration enforcement. The proposal could significantly alter how immigration laws are enforced in the U.S.",
+      "title": "ICE's Potential Use of Bounty Hunters for Immigration Enforcement",
+      "traits": [
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.2,
+          "trait_id": "civil_service_politicized_or_privatized",
+          "trait_name": "Civil service roles are politicized or privatized",
+          "trait_number": 22
+        },
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.2,
+          "trait_id": "state_power_outsourced_to_unaccountable_contractors",
+          "trait_name": "State power is outsourced to unaccountable private contractors",
+          "trait_number": 25
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.1,
+          "trait_id": "public_goods_privatized_for_profit",
+          "trait_name": "Public goods are privatized for profit",
+          "trait_number": 31
+        }
+      ],
+      "why_relevant": "The use of private bounty hunters for immigration enforcement raises ethical and legal concerns about privacy and due process.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/this-weekend-in-politics-bulletin-944",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 75
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "immigrants_refugees",
+        "economy"
+      ],
+      "date": "2025-11-01",
+      "domain": null,
+      "event_id": "wk042-009",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "The Texas Department of Public Safety has suspended the issuance of commercial driver's licenses to non-citizens, including DACA recipients. This move is part of a broader enforcement of English proficiency requirements for commercial drivers, as stated by Texas Governor Greg Abbott. The suspension affects the ability of non-citizens to legally operate commercial vehicles in Texas, potentially impacting their employment and economic contributions to the state.",
+      "title": "Texas suspends commercial driver’s licenses for non-citizens",
+      "traits": [
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.2,
+          "trait_id": "citizenship_stratified_by_wealth_ideology_heritage",
+          "trait_name": "Citizenship is stratified by wealth, ideology, and heritage",
+          "trait_number": 47
+        }
+      ],
+      "why_relevant": "This action restricts the employment opportunities for non-citizens, including DACA recipients, affecting their economic participation and rights.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/01/daca-texas-ruling-immigration",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 178
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "public_service",
+        "economy"
+      ],
+      "date": "2025-11-01",
+      "domain": null,
+      "event_id": "wk042-010",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "The FAA has warned of widespread impacts due to a surge in air traffic controller absences, resulting from the ongoing government shutdown. Around 13,000 controllers are working without pay, leading to stress and fatigue. The FAA plans to reduce air traffic flow to maintain safety, which may cause flight delays or cancellations. The situation underscores the broader effects of the government shutdown on public services.",
+      "title": "FAA Warns of Air Traffic Controller Absences",
+      "traits": [],
+      "why_relevant": "The government shutdown's impact on air traffic control highlights the risks to public safety and the economy.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/this-weekend-in-politics-bulletin-944",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 70
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "justice_dept",
+        "public_service"
+      ],
+      "date": "2025-11-01",
+      "domain": null,
+      "event_id": "wk042-011",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "Steven Palmer, a senior FBI official overseeing aviation, was forced out after FBI Director Kash Patel became outraged over media attention on his use of an FBI jet for personal travel. Palmer's removal is part of a series of retributive terminations under Patel's leadership. The incident highlights ongoing issues within the FBI regarding leadership and accountability.",
+      "title": "Senior FBI Official Forced Out Over Jet Use",
+      "traits": [
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.1,
+          "trait_id": "inspectors_general_fired_or_ignored",
+          "trait_name": "Inspectors general are fired or ignored",
+          "trait_number": 19
+        }
+      ],
+      "why_relevant": "The forced resignation of a senior FBI official under questionable circumstances reflects potential misuse of power and lack of accountability.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/this-weekend-in-politics-bulletin-944",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 69
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "peace",
+        "global_democracy"
+      ],
+      "date": "2025-11-01",
+      "domain": null,
+      "event_id": "wk042-012",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "President Trump has threatened to invade Nigeria if the government does not stop the killing of Christians. He instructed the Department of War to prepare for possible action, stating that the U.S. would act swiftly and decisively. The threat marks a significant escalation in rhetoric and raises concerns about potential military intervention.",
+      "title": "Trump Threatens Military Action Against Nigeria",
+      "traits": [
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.1,
+          "trait_id": "religion_co_opted_for_legitimacy_and_control",
+          "trait_name": "Religion is co-opted as a tool of legitimacy and control",
+          "trait_number": 48
+        }
+      ],
+      "why_relevant": "The threat of military action against Nigeria could destabilize international relations and provoke conflict.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/this-weekend-in-politics-bulletin-944",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 73
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "separation_of_powers",
+        "congress"
+      ],
+      "date": "2025-11-01",
+      "domain": null,
+      "event_id": "wk042-013",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "Pete Hegseth has ordered that all Pentagon personnel coordinate interactions with Congress through the central legislative affairs office. This change alters how military officials communicate with lawmakers, potentially limiting transparency and oversight. The order is part of a broader move to tighten control over information shared by the Pentagon.",
+      "title": "Pentagon Tightens Control Over Congressional Communications",
+      "traits": [
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.2,
+          "trait_id": "civil_service_politicized_or_privatized",
+          "trait_name": "Civil service roles are politicized or privatized",
+          "trait_number": 22
+        }
+      ],
+      "why_relevant": "The new communication policy may hinder congressional oversight and transparency in military affairs.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/this-weekend-in-politics-bulletin-944",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 71
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "separation_of_powers",
+        "congress"
+      ],
+      "date": "2025-11-01",
+      "domain": null,
+      "event_id": "wk042-014",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "Pete Hegseth has mandated that all Pentagon communications with Congress be coordinated through the central legislative affairs office. This policy change centralizes control over military communications and may limit transparency and oversight. The move is part of a broader effort to manage information shared by the Pentagon.",
+      "title": "Pentagon's New Communication Policy with Congress",
+      "traits": [
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.2,
+          "trait_id": "civil_service_politicized_or_privatized",
+          "trait_name": "Civil service roles are politicized or privatized",
+          "trait_number": 22
+        }
+      ],
+      "why_relevant": "The new communication policy may hinder congressional oversight and transparency in military affairs.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/this-weekend-in-politics-bulletin-944",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 76
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "economy"
+      ],
+      "date": "2025-11-02",
+      "domain": null,
+      "event_id": "wk042-015",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "The Swiss pharmaceutical company Roche is reportedly considering withdrawing $50 billion worth of investments in Indiana due to a Trump executive order targeting companies that do not reduce drug prices. This potential pullout underscores the tension between government policy and corporate investment decisions, with significant implications for local economies and employment in the state.",
+      "title": "Executive Order Targeting Drug Prices Threatens Roche Investments",
+      "traits": [],
+      "why_relevant": "The executive order could lead to substantial economic repercussions in Indiana, affecting jobs and investment in the pharmaceutical sector.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/02/trump-economic-agenda-republican-heartland-tariffs",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 174
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "presidency",
+        "rule_of_law"
+      ],
+      "date": "2025-11-02",
+      "domain": null,
+      "event_id": "wk042-016",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "Former President Donald Trump admitted in a \"60 Minutes\" interview that he pardoned Changpeng Zhao, CEO of Binance, without knowing who he was. Zhao's crypto exchange facilitated a $2 billion purchase of Trump's crypto company's stablecoin. The pardon raises concerns about potential conflicts of interest and the influence of personal business interests on presidential decisions.",
+      "title": "Trump Pardons Binance CEO Changpeng Zhao",
+      "traits": [
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.1,
+          "trait_id": "courts_rule_for_donors_and_elites",
+          "trait_name": "Courts issue rulings aligned with donor or elite preference",
+          "trait_number": 13
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.2,
+          "trait_id": "wealth_buys_law_not_just_speech",
+          "trait_name": "Wealth buys not only speech, but law",
+          "trait_number": 29
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.2,
+          "trait_id": "financial_crimes_by_elites_unpunished_or_settled",
+          "trait_name": "Financial crimes by elites are unpunished or quietly settled",
+          "trait_number": 33
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.2,
+          "trait_id": "crony_capitalism_indistinguishable_from_governance",
+          "trait_name": "Crony capitalism becomes indistinguishable from governance",
+          "trait_number": 38
+        }
+      ],
+      "why_relevant": "The pardon suggests potential misuse of presidential powers for personal or business gain.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/today-in-politics-bulletin-242-11325",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 62
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "public_service",
+        "transparency"
+      ],
+      "date": "2025-11-02",
+      "domain": null,
+      "event_id": "wk042-017",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "The FBI has fired Steven Palmer, the head of its critical incident response group, following reports that FBI Director Kash Patel used a government jet for personal travel to see his girlfriend perform. Palmer, who had been with the FBI for 27 years, was reportedly given the option to resign or be fired. This marks the third dismissal of a head of the critical incident response group since Patel's appointment as FBI director. The firing comes amid public scrutiny and criticism of Patel's use of the FBI jet, which was previously trackable but has since been blocked from public tracking.",
+      "title": "FBI fires top official amid controversy over agency jet use",
+      "traits": [
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.1,
+          "trait_id": "inspectors_general_fired_or_ignored",
+          "trait_name": "Inspectors general are fired or ignored",
+          "trait_number": 19
+        }
+      ],
+      "why_relevant": "The firing of a senior FBI official amid controversy over the misuse of government resources raises concerns about accountability and transparency within the agency.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/02/fbi-fires-top-official-kash-patel-jet-use",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 168
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "immigrants_refugees",
+        "economy"
+      ],
+      "date": "2025-11-02",
+      "domain": null,
+      "event_id": "wk042-018",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "In September, ICE immigration officers conducted a raid on a Hyundai-LG battery plant in Ellabell, Georgia, resulting in the detention and deportation of over 300 South Korean workers. This action has caused significant concern among international companies and local communities, particularly in areas like Jeffersonville, Ohio, where similar manufacturing projects are underway. The raid has contributed to economic uncertainty and anxiety in these regions, as companies reconsider their investment plans in response to U.S. immigration policies.",
+      "title": "ICE Raid on Hyundai-LG Battery Plant in Georgia",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.2,
+          "trait_id": "security_forces_protect_power_not_people",
+          "trait_name": "Police and military are aligned with elite preservation, not public defense",
+          "trait_number": 9
+        },
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.2,
+          "trait_id": "citizenship_stratified_by_wealth_ideology_heritage",
+          "trait_name": "Citizenship is stratified by wealth, ideology, and heritage",
+          "trait_number": 47
+        },
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.1,
+          "trait_id": "paramilitary_violence_tolerated_when_it_protects_elites",
+          "trait_name": "Paramilitary violence is tolerated when it protects elite interests",
+          "trait_number": 50
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.2,
+          "trait_id": "chaos_as_strategy_to_disable_accountability",
+          "trait_name": "Chaos is used as a strategy to fragment focus and disable accountability",
+          "trait_number": 53
+        }
+      ],
+      "why_relevant": "The raid exemplifies the impact of immigration enforcement on international business operations and local economies, affecting employment and investment in rural American communities.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/02/trump-economic-agenda-republican-heartland-tariffs",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 172
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "immigrants_refugees",
+        "public_service",
+        "decency"
+      ],
+      "date": "2025-11-02",
+      "domain": null,
+      "event_id": "wk042-019",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "Immigration and Customs Enforcement (ICE) conducted raids in Chicago during the Halloween weekend, despite a plea from Illinois Governor JB Pritzker to pause immigration enforcement operations. The raids, which included the use of pepper spray and arrests of US citizens, led to the cancellation of a Halloween parade and muted celebrations in neighborhoods like Pilsen and Little Village. These actions have instilled fear in the community, affecting traditional celebrations and gatherings during this culturally significant period.",
+      "title": "ICE raids disrupt Halloween and Día de los Muertos celebrations in Chicago",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.2,
+          "trait_id": "security_forces_protect_power_not_people",
+          "trait_name": "Police and military are aligned with elite preservation, not public defense",
+          "trait_number": 9
+        },
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.1,
+          "trait_id": "protest_rights_abridged_by_zoning_permits_security",
+          "trait_name": "Protest rights are abridged through zoning, permits, or security claims",
+          "trait_number": 41
+        },
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.1,
+          "trait_id": "paramilitary_violence_tolerated_when_it_protects_elites",
+          "trait_name": "Paramilitary violence is tolerated when it protects elite interests",
+          "trait_number": 50
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.2,
+          "trait_id": "chaos_as_strategy_to_disable_accountability",
+          "trait_name": "Chaos is used as a strategy to fragment focus and disable accountability",
+          "trait_number": 53
+        }
+      ],
+      "why_relevant": "The ICE raids during a culturally significant time highlight tensions between federal immigration enforcement and local community traditions, impacting civil liberties and community cohesion.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/02/ice-chicago-raids-halloween-celebrations",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 169
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "constitution",
+        "elections"
+      ],
+      "date": "2025-11-02",
+      "domain": null,
+      "event_id": "wk042-022",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "House Republicans are considering using the 14th Amendment's \"insurrection clause\" to prevent Zohran Mamdani from being sworn in as NYC mayor if he wins the election. The clause bars individuals who have engaged in insurrection from holding office. This move follows Mamdani's statements against ICE and reflects ongoing political tensions.",
+      "title": "House Republicans Explore Blocking Mamdani's Mayoral Swearing-In",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.2,
+          "trait_id": "opposition_allowed_but_structurally_weakened",
+          "trait_name": "Opposition parties are allowed but structurally weakened",
+          "trait_number": 6
+        },
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.1,
+          "trait_id": "dissenters_labeled_unpatriotic_subversive_or_corrupt",
+          "trait_name": "Dissenters are labeled unpatriotic, subversive, or corrupt",
+          "trait_number": 49
+        }
+      ],
+      "why_relevant": "The attempt to block an elected official from taking office challenges democratic election outcomes.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/today-in-politics-bulletin-242-11325",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 65
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "information",
+        "press"
+      ],
+      "date": "2025-11-02",
+      "domain": null,
+      "event_id": "wk042-023",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "CBS settled a lawsuit with Donald Trump by paying him $16 million. The lawsuit was filed after CBS edited down Trump's interview on \"60 Minutes\" to 28 minutes from a full 73 minutes, similar to a previous incident with Kamala Harris. The settlement was reportedly influenced by CBS's desire to secure government approval for its merger with Skydance, which was granted after the settlement. This incident raises questions about media influence and corporate-government relations.",
+      "title": "CBS Settles with Trump Over Interview Editing",
+      "traits": [
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.1,
+          "trait_id": "civil_courts_used_to_harass_critics",
+          "trait_name": "Civil courts are used to harass and silence critics",
+          "trait_number": 23
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.2,
+          "trait_id": "financial_crimes_by_elites_unpunished_or_settled",
+          "trait_name": "Financial crimes by elites are unpunished or quietly settled",
+          "trait_number": 33
+        },
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.1,
+          "trait_id": "investigative_journalists_surveilled_or_smeared",
+          "trait_name": "Journalists investigating the elite are surveilled or smeared",
+          "trait_number": 42
+        },
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.1,
+          "trait_id": "independent_media_starved_state_aligned_thrives",
+          "trait_name": "Independent media is starved while state-aligned outlets thrive",
+          "trait_number": 43
+        }
+      ],
+      "why_relevant": "The settlement highlights potential media manipulation and corporate influence on government decisions.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/today-in-politics-bulletin-242-11325",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 61
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "trade",
+        "economy"
+      ],
+      "date": "2025-11-02",
+      "domain": null,
+      "event_id": "wk042-024",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "The Trump administration's tariff policies are causing multinational manufacturing companies to reconsider future investments in the U.S., particularly in small, majority-Republican towns like Jeffersonville, Ohio. These tariffs have led to financial hits for companies like Toyota, which warned of a $9.5 billion impact, and have resulted in layoffs, such as the 900 workers let go by Stellantis. The tariffs are contributing to economic anxiety and potential downturns in rural areas heavily reliant on manufacturing jobs.",
+      "title": "Trump Administration Tariffs Impacting Manufacturing Investments",
+      "traits": [],
+      "why_relevant": "The tariffs are affecting economic stability and employment in rural communities, highlighting the broader impact of trade policies on local economies and political landscapes.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/02/trump-economic-agenda-republican-heartland-tariffs",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 173
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "diplomacy",
+        "peace"
+      ],
+      "date": "2025-11-02",
+      "domain": null,
+      "event_id": "wk042-025",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "The Trump administration is planning a new mission to deploy U.S. troops and intelligence officers into Mexico to target drug cartels. Training for potential ground operations has begun, although a final decision has not been made. This plan marks a significant escalation in the U.S. military's role in combating drug cartels.",
+      "title": "Trump Administration Plans Military Operations in Mexico",
+      "traits": [],
+      "why_relevant": "The proposed military operations could strain U.S.-Mexico relations and impact regional stability.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/today-in-politics-bulletin-242-11325",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 66
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "peace",
+        "diplomacy"
+      ],
+      "date": "2025-11-02",
+      "domain": null,
+      "event_id": "wk042-026",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "In a \"60 Minutes\" interview, Trump expressed doubt about going to war with Venezuela but criticized the country for allegedly sending mentally ill individuals to the U.S. He also suggested that Venezuelan President Maduro's days in power are numbered. The comments reflect ongoing tensions and the potential for military intervention in Venezuela.",
+      "title": "Trump Discusses Potential Military Action in Venezuela",
+      "traits": [],
+      "why_relevant": "Trump's statements indicate possible future military actions and impact U.S.-Venezuela relations.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/today-in-politics-bulletin-242-11325",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 63
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "military",
+        "rule_of_law"
+      ],
+      "date": "2025-11-02",
+      "domain": null,
+      "event_id": "wk042-027",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "Trump stated in a \"60 Minutes\" interview that he would consider using the Insurrection Act to deploy military forces domestically, including the Army or Marines, to address civil unrest. He claimed that no judge could challenge this decision. This statement raises concerns about the potential misuse of military power within the U.S.",
+      "title": "Trump Considers Using Insurrection Act for Domestic Deployment",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.2,
+          "trait_id": "executive_power_operates_without_effective_oversight",
+          "trait_name": "Executive power operates without effective oversight",
+          "trait_number": 1
+        },
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.2,
+          "trait_id": "emergency_powers_normalized_and_permanent",
+          "trait_name": "Emergency powers are normalized and permanent",
+          "trait_number": 5
+        },
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.1,
+          "trait_id": "dissent_reframed_as_disorder_treason_or_terrorism",
+          "trait_name": "Dissent is reframed as disorder, treason, or terrorism",
+          "trait_number": 8
+        },
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.1,
+          "trait_id": "paramilitary_violence_tolerated_when_it_protects_elites",
+          "trait_name": "Paramilitary violence is tolerated when it protects elite interests",
+          "trait_number": 50
+        }
+      ],
+      "why_relevant": "The potential use of military force against civilians poses significant risks to civil liberties and democratic norms.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/today-in-politics-bulletin-242-11325",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 64
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "presidency",
+        "public_service"
+      ],
+      "date": "2025-11-03",
+      "domain": null,
+      "event_id": "wk042-028",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "President Donald Trump ordered the demolition of the White House East Wing to make space for a $300 million ballroom. This decision effectively ended the traditional role of the East Wing as a workspace for the First Lady and her staff. The East Wing had historically been used by First Ladies to spearhead various social initiatives. Melania Trump, who has spent little time at the White House during Trump's second term, reportedly raised concerns about the demolition, but they were ignored.",
+      "title": "Demolition of the White House East Wing",
+      "traits": [
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.2,
+          "trait_id": "public_funds_for_glorification_and_symbolic_dominance",
+          "trait_name": "Public funds are used for personal glorification and symbolic dominance",
+          "trait_number": 24
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.2,
+          "trait_id": "crony_capitalism_indistinguishable_from_governance",
+          "trait_name": "Crony capitalism becomes indistinguishable from governance",
+          "trait_number": 38
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.1,
+          "trait_id": "national_history_rewritten_to_glorify_conquest",
+          "trait_name": "National history is rewritten to glorify conquest, not justice",
+          "trait_number": 56
+        }
+      ],
+      "why_relevant": "The demolition of the East Wing signifies a shift in the traditional role and influence of the First Lady's office.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/03/melania-trump-first-lady-east-wing",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 166
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "minorities",
+        "environment",
+        "public_health"
+      ],
+      "date": "2025-11-03",
+      "domain": null,
+      "event_id": "wk042-029",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "Earlier this year, the Trump administration froze $100 million that had been earmarked to help tribal communities, including Nunapitchuk, Alaska, cope with the climate crisis through relocation efforts. This funding was part of a broader initiative by the Biden administration, which had allocated over $560 million for such purposes. The freeze has posed additional challenges for communities like Nunapitchuk, which are facing severe infrastructure damage due to melting permafrost and are in urgent need of relocation.",
+      "title": "Trump administration freezes $100 million earmarked for tribal climate relocation",
+      "traits": [],
+      "why_relevant": "The freezing of funds undermines efforts to address climate-induced displacement, affecting the rights and welfare of indigenous communities.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/03/alaska-nunapitchuk-climate-melting-permafrost",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 163
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "rule_of_law",
+        "presidency"
+      ],
+      "date": "2025-11-03",
+      "domain": null,
+      "event_id": "wk042-030",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "Former President Donald Trump pardoned Changpeng Zhao, the founder of Binance, in October 2025. Zhao had previously pleaded guilty to enabling money laundering and had served nearly four months in prison. The pardon was justified by the White House as a response to what they described as a \"witch-hunt\" by former President Joe Biden's administration against cryptocurrency. Zhao, in return, promised to help make the United States the \"Capital of Crypto.\" The pardon has raised questions about Trump's connections to the cryptocurrency industry, as Binance has had business dealings with a company owned by Trump's family.",
+      "title": "Trump Pardons Binance Founder Changpeng Zhao",
+      "traits": [
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.1,
+          "trait_id": "courts_rule_for_donors_and_elites",
+          "trait_name": "Courts issue rulings aligned with donor or elite preference",
+          "trait_number": 13
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.2,
+          "trait_id": "wealth_buys_law_not_just_speech",
+          "trait_name": "Wealth buys not only speech, but law",
+          "trait_number": 29
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.2,
+          "trait_id": "financial_crimes_by_elites_unpunished_or_settled",
+          "trait_name": "Financial crimes by elites are unpunished or quietly settled",
+          "trait_number": 33
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.2,
+          "trait_id": "crony_capitalism_indistinguishable_from_governance",
+          "trait_name": "Crony capitalism becomes indistinguishable from governance",
+          "trait_number": 38
+        }
+      ],
+      "why_relevant": "This pardon highlights the intersection of political power and the cryptocurrency industry, raising concerns about potential conflicts of interest and the influence of personal relationships on presidential decisions.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/03/trump-changpeng-zhao-cz-pardon-crypto",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 165
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "rule_of_law",
+        "separation_of_powers"
+      ],
+      "date": "2025-11-03",
+      "domain": null,
+      "event_id": "wk042-031",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "Former President Donald Trump announced on Truth Social that he would refuse to comply with a federal court order to distribute SNAP benefits to needy families, stating that benefits would only be given when Democrats open the government. Despite this statement, the Trump administration is reportedly still sending partial food aid benefits to nearly 42 million Americans. White House spokesperson Karoline Leavitt confirmed that the administration is complying with the court order.",
+      "title": "Trump Refuses to Follow Court Order on SNAP Benefits",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.2,
+          "trait_id": "executive_power_operates_without_effective_oversight",
+          "trait_name": "Executive power operates without effective oversight",
+          "trait_number": 1
+        },
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.1,
+          "trait_id": "federal_power_weaponized_against_disfavored_regions",
+          "trait_name": "Federal power is weaponized against disfavored states or localities",
+          "trait_number": 11
+        },
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.1,
+          "trait_id": "public_tragedy_monetized_by_regime_insiders",
+          "trait_name": "Public tragedy is monetized by regime insiders",
+          "trait_number": 12
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.1,
+          "trait_id": "crisis_as_profit_opportunity_for_insiders",
+          "trait_name": "Crisis becomes a profit opportunity for those closest to power",
+          "trait_number": 40
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.2,
+          "trait_id": "chaos_as_strategy_to_disable_accountability",
+          "trait_name": "Chaos is used as a strategy to fragment focus and disable accountability",
+          "trait_number": 53
+        }
+      ],
+      "why_relevant": "This refusal to comply with a court order represents a significant challenge to the rule of law and the separation of powers.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/today-in-politics-bulletin-243-11425",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 56
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "poor",
+        "economy",
+        "public_service"
+      ],
+      "date": "2025-11-03",
+      "domain": null,
+      "event_id": "wk042-032",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "The Trump administration, with the support of Congress, passed a significant tax cut bill in May 2025. This legislation is described as one of the largest transfers of wealth upwards in decades, primarily benefiting the wealthy and corporations by reducing their tax burdens. The bill has been criticized for exacerbating income inequality in the United States, as it shifts more financial resources to the top economic tier while potentially reducing funds available for social programs and public services.",
+      "title": "Trump administration passes major tax cut bill",
+      "traits": [
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.2,
+          "trait_id": "policy_driven_by_elite_lobbying_and_money",
+          "trait_name": "Policy outcomes are driven by elite lobbying and financial contributions",
+          "trait_number": 26
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.2,
+          "trait_id": "tax_codes_engineered_to_favor_capital_over_labor",
+          "trait_name": "Tax codes are engineered to favor capital, not labor",
+          "trait_number": 32
+        },
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.2,
+          "trait_id": "citizenship_stratified_by_wealth_ideology_heritage",
+          "trait_name": "Citizenship is stratified by wealth, ideology, and heritage",
+          "trait_number": 47
+        }
+      ],
+      "why_relevant": "This legislative action is significant as it highlights the role of government policy in shaping economic inequality and the distribution of wealth in society.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/03/wealth-billionaires-increase-trump",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 167
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "justice_dept",
+        "transparency_records"
+      ],
+      "date": "2025-11-03",
+      "domain": null,
+      "event_id": "wk042-033",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "A judge ordered the Department of Justice to submit complete transcripts of grand jury proceedings related to the indictment of former FBI Director James Comey. The judge found that the initial submission was incomplete and demanded full documentation by November 5, 2025. The order follows concerns about the tactics used by Trump's appointee Lindsey Halligan in obtaining the indictments.",
+      "title": "Judge Orders DOJ to Submit Complete Transcripts in Comey Case",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.3,
+          "trait_id": "law_is_weapon_not_limit",
+          "trait_name": "Law is a weapon of the state, not a limit on its power",
+          "trait_number": 4
+        },
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.1,
+          "trait_id": "judicial_independence_eroded_by_politicized_appointments",
+          "trait_name": "Judicial independence is eroded through politicized appointments",
+          "trait_number": 14
+        },
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.1,
+          "trait_id": "whistleblowers_prosecuted_not_protected",
+          "trait_name": "Whistleblowers are prosecuted, not protected",
+          "trait_number": 18
+        }
+      ],
+      "why_relevant": "The order highlights concerns about transparency and the integrity of legal proceedings under the current administration.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/today-in-politics-bulletin-243-11425",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 59
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "elections_representation",
+        "truth"
+      ],
+      "date": "2025-11-03",
+      "domain": null,
+      "event_id": "wk042-034",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "The Department of Justice is investigating the California redistricting referendum, which Trump described as a \"GIANT SCAM\" and claimed was rigged due to mail-in ballots. Trump alleged that Republicans were being shut out of the process and that the voting was under serious legal and criminal review.",
+      "title": "DOJ Investigates California Redistricting Referendum",
+      "traits": [
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.1,
+          "trait_id": "voter_suppression_rationalized_as_integrity",
+          "trait_name": "Voter suppression is rationalized as election integrity",
+          "trait_number": 45
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.1,
+          "trait_id": "elections_flooded_with_elite_funded_disinformation",
+          "trait_name": "Elections are flooded with disinformation funded by elite actors",
+          "trait_number": 52
+        }
+      ],
+      "why_relevant": "The investigation into the referendum could impact the integrity and perception of the electoral process in California.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/today-in-politics-bulletin-243-11425",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 57
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [],
+      "date": "2025-11-03",
+      "domain": null,
+      "event_id": "wk042-037",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "The U.S. Census Bureau submitted an information collection request to the Office of Management and Budget (OMB) for the Current Population Survey, Basic Demographics. This request, under the Paperwork Reduction Act, seeks to extend the collection without changes. The survey collects demographic data from 59,000 respondents monthly, with a total burden of 17,700 hours. Public comments are invited for 30 days following the notice's publication.",
+      "title": "Census Bureau Submits Information Collection Request to OMB",
+      "traits": [],
+      "why_relevant": "This action ensures the continued collection of vital demographic data, which informs labor force statistics and other critical analyses.",
+      "provenance": [
+        {
+          "source_key": "federalregister",
+          "source_name": "federalregister",
+          "source_url": "https://www.federalregister.gov/documents/2025/11/03/2025-19761/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
+          "origin_file": "federalregister_events_2025-01-20_2025-11-30.json",
+          "origin_index": 238
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "poor",
+        "public_service"
+      ],
+      "date": "2025-11-03",
+      "domain": null,
+      "event_id": "wk042-038",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "Alongside raising phone call rates, the FCC has reinstated a ban on kickbacks and ancillary fees in prison phone services. Previously, prison operators received significant revenue from kickbacks, which incentivized them to choose telecom companies charging high fees. The new rule allows prison operators to receive a flat rate of 2 cents per minute. However, the FCC is open to reconsidering the ban on kickbacks, as indicated by its request for further comments on the issue. Ancillary fees, such as automated payment fees, are also under consideration for reinstatement.",
+      "title": "FCC Reinstates Ban on Kickbacks in Prison Phone Services",
+      "traits": [],
+      "why_relevant": "The ban on kickbacks aims to reduce financial exploitation in prison telecommunications, but the potential for future changes could reintroduce these practices.",
+      "provenance": [
+        {
+          "source_key": "popinfo",
+          "source_name": "popinfo",
+          "source_url": "https://popular.info/p/inmates-will-pay-up-to-83-more-for",
+          "origin_file": "popinfo_events_2025-01-20_2025-11-30.json",
+          "origin_index": 29
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "poor",
+        "public_service"
+      ],
+      "date": "2025-11-03",
+      "domain": null,
+      "event_id": "wk042-039",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "The Federal Communications Commission (FCC) has voted to allow prison telecommunication companies to increase the rates charged to inmates for phone calls by up to 83%. This decision makes permanent a temporary rate increase decided in July. Previously, the FCC had capped rates at $0.06 to $0.07 per minute under the Martha Wright-Reed Just and Reasonable Communications Act of 2022. The new caps range from $0.10 to $0.18 per minute for phone calls and $0.18 to $0.41 for video calls. The FCC justified the increase by citing safety concerns and reduced availability of services, though it provided limited evidence for these claims.",
+      "title": "FCC Votes to Increase Phone Call Rates for Inmates",
+      "traits": [
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.2,
+          "trait_id": "agencies_deregulated_or_captured_by_private_interests",
+          "trait_name": "Administrative agencies are deregulated or captured by private interests",
+          "trait_number": 16
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.1,
+          "trait_id": "entire_industries_shielded_from_accountability",
+          "trait_name": "Entire industries are shielded from accountability through lobbying power",
+          "trait_number": 30
+        }
+      ],
+      "why_relevant": "This decision affects the affordability of communication for incarcerated individuals, impacting their ability to maintain family connections, which is crucial for rehabilitation.",
+      "provenance": [
+        {
+          "source_key": "popinfo",
+          "source_name": "popinfo",
+          "source_url": "https://popular.info/p/inmates-will-pay-up-to-83-more-for",
+          "origin_file": "popinfo_events_2025-01-20_2025-11-30.json",
+          "origin_index": 28
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "appointments_patronage"
+      ],
+      "date": "2025-11-03",
+      "domain": null,
+      "event_id": "wk042-040",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "Former President Trump announced the reappointment of Jared Isaacman as NASA Administrator, following pressure from Elon Musk. Isaacman, a business leader and astronaut, was previously nominated but withdrawn after Musk's criticism. The reappointment reflects Trump's response to Musk's influence and the ongoing reshuffling of key positions.",
+      "title": "Trump Reappoints Jared Isaacman as NASA Administrator",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.2,
+          "trait_id": "appointments_awarded_by_loyalty_and_wealth",
+          "trait_name": "Political appointments are awarded based on loyalty and wealth",
+          "trait_number": 7
+        }
+      ],
+      "why_relevant": "The reappointment underscores the influence of private interests and individuals on public appointments and the administration's decision-making process.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/today-in-politics-bulletin-243-11425",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 60
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [],
+      "date": "2025-11-04",
+      "domain": null,
+      "event_id": "wk042-041",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "On November 4, 2025, President Donald Trump issued an executive order modifying reciprocal tariff rates in accordance with a new economic and trade arrangement between the United States and the People's Republic of China. This order continues the suspension of heightened tariffs on Chinese imports until November 10, 2026, as part of a deal where China agreed to eliminate certain export controls and purchase U.S. agricultural products. The order aims to address the U.S. trade deficit and strengthen national security by ensuring access to critical materials and boosting the U.S. economy.",
+      "title": "Executive Order Modifying Reciprocal Tariff Rates",
+      "traits": [],
+      "why_relevant": "This executive order impacts U.S. economic policy and international trade relations, potentially affecting the trade balance and national security.",
+      "provenance": [
+        {
+          "source_key": "orders",
+          "source_name": "orders",
+          "source_url": "https://ballotpedia.org/Executive_Order:_Modifying_Reciprocal_Tariff_Rates_Consistent_With_the_Economic_and_Trade_Arrangement_Between_the_United_States_and_the_People%27s_Republic_of_China_(Donald_Trump,_2025)",
+          "origin_file": "orders_events_2025-01-20_2025-11-30.json",
+          "origin_index": 2
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [],
+      "date": "2025-11-04",
+      "domain": null,
+      "event_id": "wk042-042",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "On November 4, 2025, President Donald Trump issued an executive order modifying duties related to the synthetic opioid supply chain from the People's Republic of China. The order reduces the additional ad valorem rate of duty from 20% to 10% on certain Chinese products, effective November 10, 2025. This decision follows commitments from China to take significant measures to curb the flow of fentanyl to the United States. The order directs the Secretary of Homeland Security to monitor China's compliance and adjust the duties if necessary.",
+      "title": "Executive Order Reduces Tariffs on Chinese Goods",
+      "traits": [],
+      "why_relevant": "This executive order impacts international trade relations and addresses the ongoing opioid crisis by modifying economic measures in response to foreign commitments.",
+      "provenance": [
+        {
+          "source_key": "orders",
+          "source_name": "orders",
+          "source_url": "https://ballotpedia.org/Executive_Order:_Modifying_Duties_Addressing_the_Synthetic_Opioid_Supply_Chain_in_the_People%27s_Republic_of_China_(Donald_Trump,_2025)",
+          "origin_file": "orders_events_2025-01-20_2025-11-30.json",
+          "origin_index": 3
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "justice_dept",
+        "truth",
+        "rule_of_law"
+      ],
+      "date": "2025-11-04",
+      "domain": null,
+      "event_id": "wk042-043",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "Congressman Jamie Raskin has accused the Trump administration's Department of Justice (DOJ) of a \"gigantic cover-up\" for abruptly ending an investigation into Jeffrey Epstein's alleged co-conspirators. Raskin's letter to Attorney General Pam Bondi questions why the investigation, which involved nearly 50 women providing information about a sex trafficking operation, was halted. The DOJ and FBI concluded in a July memo that no further charges were expected, contradicting previous claims. Raskin claims the investigation ceased after case files were transferred to DOJ headquarters in January 2025.",
+      "title": "Congressman Jamie Raskin Accuses DOJ of Cover-Up in Epstein Inquiry",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.3,
+          "trait_id": "law_is_weapon_not_limit",
+          "trait_name": "Law is a weapon of the state, not a limit on its power",
+          "trait_number": 4
+        },
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.1,
+          "trait_id": "courts_rule_for_donors_and_elites",
+          "trait_name": "Courts issue rulings aligned with donor or elite preference",
+          "trait_number": 13
+        },
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.2,
+          "trait_id": "anti_corruption_investigations_blocked_or_retaliated",
+          "trait_name": "Investigations into corruption are blocked, buried, or retaliated against",
+          "trait_number": 17
+        },
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.1,
+          "trait_id": "surveillance_of_citizens_increases_elite_crimes_opaque",
+          "trait_name": "Surveillance of ordinary citizens increases; elite crimes remain opaque",
+          "trait_number": 46
+        },
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.2,
+          "trait_id": "elite_donor_crimes_concealed_not_prosecuted",
+          "trait_name": "Crimes committed by elite donors or allies are concealed, not prosecuted",
+          "trait_number": 51
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.1,
+          "trait_id": "government_archives_sealed_sanitized_or_destroyed",
+          "trait_name": "Government archives are sealed, sanitized, or destroyed",
+          "trait_number": 58
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.1,
+          "trait_id": "memory_curated_by_power_what_cannot_be_controlled_erased",
+          "trait_name": "Memory is curated by power—what cannot be controlled is erased",
+          "trait_number": 60
+        }
+      ],
+      "why_relevant": "This event highlights potential obstruction of justice and lack of accountability in handling high-profile criminal investigations, impacting public trust in legal institutions.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/04/jamie-raskin-justice-department-epstein-investigation",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 156
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "veterans",
+        "truth"
+      ],
+      "date": "2025-11-04",
+      "domain": null,
+      "event_id": "wk042-044",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "A Senate committee on veterans affairs held a hearing to discuss the Washington Post's series of articles alleging fraud in the Department of Veterans Affairs' disability benefits system. The articles have been criticized by politicians from both parties, including Republican Tim Sheehy and Democrat Tammy Duckworth, who argue that the series misrepresents veterans as dishonest. The hearing provided a platform for discussing potential reforms to the benefits system to better serve veterans, amidst concerns that the articles could be used to justify reducing benefits.",
+      "title": "Senate Committee Hearing on Veterans Affairs",
+      "traits": [],
+      "why_relevant": "The hearing addresses the integrity and future of veterans' benefits, a critical aspect of government support for those who served in the military.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/04/washington-post-report-veterans-benefits",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 159
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "poor",
+        "children",
+        "congress"
+      ],
+      "date": "2025-11-04",
+      "domain": null,
+      "event_id": "wk042-045",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "On November 3, 2025, Senate Republicans blocked a Democratic-led resolution to fully fund the Supplemental Nutrition Assistance Program (SNAP) during the ongoing government shutdown. The resolution, proposed by Democratic Senator Jeff Merkley and Senate Democratic leader Chuck Schumer, aimed to compel the Department of Agriculture to provide full SNAP benefits for November. Republican senators, led by Senate majority whip John Barrasso, objected, arguing that the resolution was a political maneuver and that reopening the government was the solution to ensuring SNAP benefits. The administration plans to use a contingency fund to partially fund SNAP, but it will only cover half of the needed $8 billion.",
+      "title": "Senate Republicans block Democratic proposal to fund SNAP",
+      "traits": [],
+      "why_relevant": "This event highlights the political struggle over funding essential social programs during a government shutdown, affecting millions of Americans reliant on SNAP benefits.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/03/senate-republicans-snap-funds-resolution",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 161
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "congress",
+        "public_service"
+      ],
+      "date": "2025-11-04",
+      "domain": null,
+      "event_id": "wk042-046",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "The US Senate has rejected a funding package for the 14th time, prolonging the federal government shutdown to its 35th day. The Republican-controlled House of Representatives had passed the funding bill, but Senate Democrats blocked it using the filibuster. The shutdown has disrupted services, including the federal food stamps program, and led to furloughs and unpaid work for federal employees. Behind-the-scenes negotiations are ongoing to resolve the standoff, with both parties expressing concern over the shutdown's impact on Americans.",
+      "title": "US Senate rejects funding package for 14th time amid government shutdown",
+      "traits": [],
+      "why_relevant": "The prolonged government shutdown affects millions of Americans and highlights significant partisan divisions in Congress.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/04/government-shutdown-35th-day-senate-funding-vote",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 155
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "immigrants_refugees",
+        "public_health",
+        "decency"
+      ],
+      "date": "2025-11-04",
+      "domain": null,
+      "event_id": "wk042-051",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "Randall Alberto Gamboa Esquivel, a Costa Rican man, was deported by U.S. Immigration and Customs Enforcement (ICE) in a vegetative state in September 2025. Gamboa had been detained in Texas since February 2025 after re-entering the U.S. illegally. His family alleges negligence and inhumane treatment during his detention. Despite being hospitalized for unspecified psychosis, Gamboa was deported to Costa Rica, where he died in October. The Trump administration, which has prioritized deportations, maintains that Gamboa received adequate medical care. His family is seeking answers from both the U.S. and Costa Rican governments.",
+      "title": "Deportation of Randall Alberto Gamboa Esquivel in Vegetative State",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.2,
+          "trait_id": "security_forces_protect_power_not_people",
+          "trait_name": "Police and military are aligned with elite preservation, not public defense",
+          "trait_number": 9
+        },
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.2,
+          "trait_id": "citizenship_stratified_by_wealth_ideology_heritage",
+          "trait_name": "Citizenship is stratified by wealth, ideology, and heritage",
+          "trait_number": 47
+        }
+      ],
+      "why_relevant": "This event highlights concerns about the treatment of immigrants in U.S. detention facilities and the implications of aggressive deportation policies.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/04/randall-alberto-gamboa-esquivel-ice-family",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 160
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [],
+      "date": "2025-11-04",
+      "domain": null,
+      "event_id": "wk042-057",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "The Environmental Protection Agency (EPA) has finalized Significant New Use Rules (SNURs) under the Toxic Substances Control Act for certain chemical substances. These rules require manufacturers and processors to notify the EPA at least 90 days before commencing any significant new use of these chemicals. The rules aim to ensure that the EPA can evaluate and determine the conditions of use for these substances before they are manufactured or processed for new uses. The rule is effective January 5, 2026.",
+      "title": "EPA Issues Significant New Use Rules for Certain Chemicals",
+      "traits": [],
+      "why_relevant": "This action ensures regulatory oversight of new chemical uses, protecting public health and the environment by allowing the EPA to assess potential risks before new uses commence.",
+      "provenance": [
+        {
+          "source_key": "federalregister",
+          "source_name": "federalregister",
+          "source_url": "https://www.federalregister.gov/documents/2025/11/04/2025-19773/significant-new-use-rules-on-certain-chemical-substances-24-45e",
+          "origin_file": "federalregister_events_2025-01-20_2025-11-30.json",
+          "origin_index": 751
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [],
+      "date": "2025-11-04",
+      "domain": null,
+      "event_id": "wk042-058",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "The Food and Drug Administration (FDA) announced a virtual meeting of the Circulatory System Devices Panel of the Medical Devices Advisory Committee to discuss the V-Wave Ventura Interatrial Shunt System. The meeting will occur on December 3, 2025, and will include public comments. The device is intended for heart failure patients and aims to reduce hospitalization risks. The FDA has established a public docket for comments, which will close on January 3, 2026.",
+      "title": "FDA Announces Advisory Committee Meeting on V-Wave Ventura Interatrial Shunt System",
+      "traits": [],
+      "why_relevant": "This meeting is significant as it involves the evaluation of a new medical device that could impact heart failure treatment and patient care.",
+      "provenance": [
+        {
+          "source_key": "federalregister",
+          "source_name": "federalregister",
+          "source_url": "https://www.federalregister.gov/documents/2025/11/04/2025-19762/circulatory-system-devices-panel-of-the-medical-devices-advisory-committee-notice-of-meeting",
+          "origin_file": "federalregister_events_2025-01-20_2025-11-30.json",
+          "origin_index": 1297
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "transparency",
+        "public_service"
+      ],
+      "date": "2025-11-04",
+      "domain": null,
+      "event_id": "wk042-059",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "Extremity Care, a company benefiting from a regulatory freeze on Medicare coverage rules, secretly donated $2.5 million towards the construction of a new White House ballroom, a priority for President Trump. This donation was not included in the publicly released list of donors, as the company was allowed to donate anonymously. The donation comes as the Trump administration delayed a Biden-era rule that would have barred Medicare from covering Extremity Care's products, allowing the company to continue profiting from Medicare. The New York Times reported on the anonymity of the donation.",
+      "title": "Extremity Care Secretly Donates $2.5 Million to Trump Ballroom",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.1,
+          "trait_id": "public_tragedy_monetized_by_regime_insiders",
+          "trait_name": "Public tragedy is monetized by regime insiders",
+          "trait_number": 12
+        },
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.2,
+          "trait_id": "agencies_deregulated_or_captured_by_private_interests",
+          "trait_name": "Administrative agencies are deregulated or captured by private interests",
+          "trait_number": 16
+        },
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.2,
+          "trait_id": "public_funds_for_glorification_and_symbolic_dominance",
+          "trait_name": "Public funds are used for personal glorification and symbolic dominance",
+          "trait_number": 24
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.2,
+          "trait_id": "policy_driven_by_elite_lobbying_and_money",
+          "trait_name": "Policy outcomes are driven by elite lobbying and financial contributions",
+          "trait_number": 26
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.2,
+          "trait_id": "wealth_buys_law_not_just_speech",
+          "trait_name": "Wealth buys not only speech, but law",
+          "trait_number": 29
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.2,
+          "trait_id": "crony_capitalism_indistinguishable_from_governance",
+          "trait_name": "Crony capitalism becomes indistinguishable from governance",
+          "trait_number": 38
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.1,
+          "trait_id": "crisis_as_profit_opportunity_for_insiders",
+          "trait_name": "Crisis becomes a profit opportunity for those closest to power",
+          "trait_number": 40
+        }
+      ],
+      "why_relevant": "This event highlights potential conflicts of interest and lack of transparency in political donations, affecting regulatory decisions and public trust.",
+      "provenance": [
+        {
+          "source_key": "popinfo",
+          "source_name": "popinfo",
+          "source_url": "https://popular.info/p/update-medicare-freeze-beneficiary",
+          "origin_file": "popinfo_events_2025-01-20_2025-11-30.json",
+          "origin_index": 24
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "public_service",
+        "economy"
+      ],
+      "date": "2025-11-04",
+      "domain": null,
+      "event_id": "wk042-060",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "The Trump administration delayed the implementation of a Biden administration rule that would have barred Medicare from covering products by Extremity Care, a company that charges exorbitant prices for skin substitutes. The rule, initially set to take effect in February 2025, was postponed until at least January 1, 2026. This delay allows Extremity Care to continue charging Medicare, contributing to a projected increase in Medicare spending on skin substitutes to $15.4 billion by the end of 2025.",
+      "title": "Trump Administration Delays Medicare Rule Affecting Extremity Care",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.1,
+          "trait_id": "public_tragedy_monetized_by_regime_insiders",
+          "trait_name": "Public tragedy is monetized by regime insiders",
+          "trait_number": 12
+        },
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.2,
+          "trait_id": "agencies_deregulated_or_captured_by_private_interests",
+          "trait_name": "Administrative agencies are deregulated or captured by private interests",
+          "trait_number": 16
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.2,
+          "trait_id": "policy_driven_by_elite_lobbying_and_money",
+          "trait_name": "Policy outcomes are driven by elite lobbying and financial contributions",
+          "trait_number": 26
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.1,
+          "trait_id": "regulators_are_former_or_future_industry_execs",
+          "trait_name": "Regulatory agencies are staffed by former or future industry executives",
+          "trait_number": 28
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.2,
+          "trait_id": "wealth_buys_law_not_just_speech",
+          "trait_name": "Wealth buys not only speech, but law",
+          "trait_number": 29
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.1,
+          "trait_id": "entire_industries_shielded_from_accountability",
+          "trait_name": "Entire industries are shielded from accountability through lobbying power",
+          "trait_number": 30
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.2,
+          "trait_id": "crony_capitalism_indistinguishable_from_governance",
+          "trait_name": "Crony capitalism becomes indistinguishable from governance",
+          "trait_number": 38
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.1,
+          "trait_id": "crisis_as_profit_opportunity_for_insiders",
+          "trait_name": "Crisis becomes a profit opportunity for those closest to power",
+          "trait_number": 40
+        }
+      ],
+      "why_relevant": "The delay in implementing the rule affects Medicare spending and raises concerns about regulatory capture and the influence of political donations on policy decisions.",
+      "provenance": [
+        {
+          "source_key": "popinfo",
+          "source_name": "popinfo",
+          "source_url": "https://popular.info/p/update-medicare-freeze-beneficiary",
+          "origin_file": "popinfo_events_2025-01-20_2025-11-30.json",
+          "origin_index": 25
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "public_service",
+        "economy"
+      ],
+      "date": "2025-11-04",
+      "domain": null,
+      "event_id": "wk042-061",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "On July 14, the Trump administration proposed a new Medicare rule that would cap payments for skin substitutes at $806 per square inch. This proposal is lower than current charges by companies like Extremity Care but does not limit coverage to scientifically proven effective products. The proposal has faced opposition from the Medicare Access to Skin Substitutes Coalition, which argues that the cap is insufficient to cover costs and may limit access to treatments.",
+      "title": "Trump Administration Proposes New Medicare Rule for Skin Substitutes",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.1,
+          "trait_id": "public_tragedy_monetized_by_regime_insiders",
+          "trait_name": "Public tragedy is monetized by regime insiders",
+          "trait_number": 12
+        },
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.2,
+          "trait_id": "agencies_deregulated_or_captured_by_private_interests",
+          "trait_name": "Administrative agencies are deregulated or captured by private interests",
+          "trait_number": 16
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.2,
+          "trait_id": "policy_driven_by_elite_lobbying_and_money",
+          "trait_name": "Policy outcomes are driven by elite lobbying and financial contributions",
+          "trait_number": 26
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.1,
+          "trait_id": "regulators_are_former_or_future_industry_execs",
+          "trait_name": "Regulatory agencies are staffed by former or future industry executives",
+          "trait_number": 28
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.1,
+          "trait_id": "entire_industries_shielded_from_accountability",
+          "trait_name": "Entire industries are shielded from accountability through lobbying power",
+          "trait_number": 30
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.2,
+          "trait_id": "crony_capitalism_indistinguishable_from_governance",
+          "trait_name": "Crony capitalism becomes indistinguishable from governance",
+          "trait_number": 38
+        }
+      ],
+      "why_relevant": "The proposed rule impacts healthcare costs and access, highlighting the tension between cost control and industry interests in Medicare policy.",
+      "provenance": [
+        {
+          "source_key": "popinfo",
+          "source_name": "popinfo",
+          "source_url": "https://popular.info/p/update-medicare-freeze-beneficiary",
+          "origin_file": "popinfo_events_2025-01-20_2025-11-30.json",
+          "origin_index": 26
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "public_service",
+        "transparency"
+      ],
+      "date": "2025-11-04",
+      "domain": null,
+      "event_id": "wk042-062",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "On October 21, Oliver Burckhardt, CEO of Extremity Care, attended an exclusive dinner with President Trump for top donors on the Rose Garden patio. This event underscores the close ties between the Trump administration and industry leaders benefiting from regulatory decisions, such as the delay of the Medicare rule affecting Extremity Care's products.",
+      "title": "Extremity Care CEO Attends Exclusive Dinner with Trump",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.2,
+          "trait_id": "appointments_awarded_by_loyalty_and_wealth",
+          "trait_name": "Political appointments are awarded based on loyalty and wealth",
+          "trait_number": 7
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.2,
+          "trait_id": "policy_driven_by_elite_lobbying_and_money",
+          "trait_name": "Policy outcomes are driven by elite lobbying and financial contributions",
+          "trait_number": 26
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.1,
+          "trait_id": "regulators_are_former_or_future_industry_execs",
+          "trait_name": "Regulatory agencies are staffed by former or future industry executives",
+          "trait_number": 28
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.2,
+          "trait_id": "crony_capitalism_indistinguishable_from_governance",
+          "trait_name": "Crony capitalism becomes indistinguishable from governance",
+          "trait_number": 38
+        }
+      ],
+      "why_relevant": "The dinner exemplifies potential patronage and influence-peddling, raising concerns about the integrity of regulatory processes and the role of money in politics.",
+      "provenance": [
+        {
+          "source_key": "popinfo",
+          "source_name": "popinfo",
+          "source_url": "https://popular.info/p/update-medicare-freeze-beneficiary",
+          "origin_file": "popinfo_events_2025-01-20_2025-11-30.json",
+          "origin_index": 27
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "public_service",
+        "economy",
+        "public_health"
+      ],
+      "date": "2025-11-05",
+      "domain": null,
+      "event_id": "wk042-063",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "On November 5th, the Federal Aviation Administration (FAA) announced a 10% reduction in flight capacity at airports starting Friday morning. This unprecedented move is a direct response to the ongoing government shutdown, which has left air traffic controllers unpaid and overworked. The reduction is expected to disrupt between 1,800 and 4,000 flights daily, affecting Thanksgiving travel plans for many Americans. The shutdown, now the longest in U.S. history, has led to significant staffing shortages and operational challenges within the FAA.",
+      "title": "FAA Announces 10% Flight Capacity Reduction Due to Shutdown",
+      "traits": [
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.1,
+          "trait_id": "crisis_as_profit_opportunity_for_insiders",
+          "trait_name": "Crisis becomes a profit opportunity for those closest to power",
+          "trait_number": 40
+        }
+      ],
+      "why_relevant": "The FAA's decision to cut flight capacity highlights the severe impact of the government shutdown on essential services and public safety.",
+      "provenance": [
+        {
+          "source_key": "50501",
+          "source_name": "50501",
+          "source_url": "https://www.the50501movement.org/p/faa-flight-cuts-shutdown",
+          "origin_file": "50501_events_2025-01-20_2025-11-30.json",
+          "origin_index": 30
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "poor",
+        "public_health",
+        "congress"
+      ],
+      "date": "2025-11-05",
+      "domain": null,
+      "event_id": "wk042-064",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "",
+      "title": "Eight Senate Democrats vote to end government shutdown",
+      "traits": [],
+      "why_relevant": "The event highlights internal party conflicts and the challenges of maintaining party unity in legislative negotiations.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/10/chuck-schumer-resign-calls-shutdown-vote-democrats",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 101
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "separation_of_powers",
+        "trade"
+      ],
+      "date": "2025-11-05",
+      "domain": null,
+      "event_id": "wk042-066",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "The US Senate voted 51 to 47 to nullify the Trump administration's reciprocal tariffs, with four Republican senators joining Democrats in the vote. This legislative move challenges the administration's tariff policy, which has been criticized for bypassing Congress's authority to levy taxes. The House of Representatives is not expected to take similar action, leaving the Senate's vote largely symbolic unless further legislative action is taken.",
+      "title": "US Senate votes to nullify Trump’s reciprocal tariffs",
+      "traits": [],
+      "why_relevant": "The Senate's vote represents a legislative check on executive power, highlighting tensions over the separation of powers and the role of Congress in economic policy.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/04/trump-tariffs-supreme-court-oral-arguments",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 148
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "separation_of_powers",
+        "trade"
+      ],
+      "date": "2025-11-05",
+      "domain": null,
+      "event_id": "wk042-069",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "The US Supreme Court heard oral arguments regarding the legality of tariffs imposed by the Trump administration under the International Emergency Economic Powers Act (IEEPA). The justices, including conservatives, expressed skepticism about the president's authority to levy tariffs, traditionally a congressional power. The case challenges whether IEEPA allows the president to impose tariffs, a power not explicitly mentioned in the law. Lower courts have ruled against the tariffs, prompting appeals. The Supreme Court's decision, expected by July 2026, could significantly impact the administration's economic strategy and global trade relations.",
+      "title": "US Supreme Court hears oral arguments on Trump tariffs",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.2,
+          "trait_id": "emergency_powers_normalized_and_permanent",
+          "trait_name": "Emergency powers are normalized and permanent",
+          "trait_number": 5
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.2,
+          "trait_id": "chaos_as_strategy_to_disable_accountability",
+          "trait_name": "Chaos is used as a strategy to fragment focus and disable accountability",
+          "trait_number": 53
+        }
+      ],
+      "why_relevant": "The case tests the limits of presidential power in economic policy and could redefine the balance of power between the executive and legislative branches.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/04/trump-tariffs-supreme-court-oral-arguments",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 147
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "poor",
+        "rule_of_law"
+      ],
+      "date": "2025-11-05",
+      "domain": null,
+      "event_id": "wk042-070",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "A federal judge has ordered the Trump administration to provide full Supplemental Nutrition Assistance Program (SNAP) payments to states for November. Judge McConnell criticized the administration for defying his previous order to make these payments by November 5. The judge emphasized that withholding SNAP benefits for political reasons would lead to hunger and burden food pantries. The Trump administration has filed an appeal against this order, indicating their intent to continue withholding the payments.",
+      "title": "Judge Orders Full SNAP Payments to States",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.1,
+          "trait_id": "federal_power_weaponized_against_disfavored_regions",
+          "trait_name": "Federal power is weaponized against disfavored states or localities",
+          "trait_number": 11
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.2,
+          "trait_id": "chaos_as_strategy_to_disable_accountability",
+          "trait_name": "Chaos is used as a strategy to fragment focus and disable accountability",
+          "trait_number": 53
+        }
+      ],
+      "why_relevant": "This ruling addresses the administration's compliance with court orders and impacts food security for vulnerable populations.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/today-in-politics-bulletin-244-11625",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 47
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "trade",
+        "separation_of_powers"
+      ],
+      "date": "2025-11-05",
+      "domain": null,
+      "event_id": "wk042-071",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "The Supreme Court is currently hearing a pivotal case concerning the tariffs imposed by Trump's administration. Even the conservative justices appear skeptical of the administration's arguments, which could lead to a decision that undermines the legal foundation of Trump's tariff policies. This case is critical as it challenges the executive's authority in trade matters and could have significant implications for the administration's economic strategies.",
+      "title": "Supreme Court Hears Case on Trump's Tariffs",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.2,
+          "trait_id": "emergency_powers_normalized_and_permanent",
+          "trait_name": "Emergency powers are normalized and permanent",
+          "trait_number": 5
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.2,
+          "trait_id": "chaos_as_strategy_to_disable_accountability",
+          "trait_name": "Chaos is used as a strategy to fragment focus and disable accountability",
+          "trait_number": 53
+        }
+      ],
+      "why_relevant": "The case could limit executive power in trade policy, reinforcing checks and balances and potentially reversing controversial economic measures.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/trump-has-post-election-meltdown",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 54
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "poor",
+        "rule_of_law"
+      ],
+      "date": "2025-11-05",
+      "domain": null,
+      "event_id": "wk042-072",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "Following a court order to provide full SNAP payments to states, the Trump administration has filed an appeal. The administration's decision to appeal indicates its continued resistance to complying with the court's directive, which aims to address food insecurity among SNAP recipients.",
+      "title": "Trump Administration Appeals SNAP Payment Order",
+      "traits": [
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.2,
+          "trait_id": "anti_corruption_investigations_blocked_or_retaliated",
+          "trait_name": "Investigations into corruption are blocked, buried, or retaliated against",
+          "trait_number": 17
+        },
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.1,
+          "trait_id": "whistleblowers_prosecuted_not_protected",
+          "trait_name": "Whistleblowers are prosecuted, not protected",
+          "trait_number": 18
+        }
+      ],
+      "why_relevant": "The appeal highlights ongoing legal battles over the administration's handling of social welfare programs.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/today-in-politics-bulletin-244-11625",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 50
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "justice_dept"
+      ],
+      "date": "2025-11-05",
+      "domain": null,
+      "event_id": "wk042-073",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "In Virginia, Magistrate Judge Fitzpatrick ordered prosecutors to turn over all grand jury materials in the politically motivated case against James Comey. The judge criticized the prosecutors for \"indicting first and investigating later,\" marking a significant rebuke of the perceived corruption within the Justice Department under Trump's influence. This order represents a pushback against the administration's handling of legal proceedings and its approach to justice.",
+      "title": "Virginia Magistrate Judge Orders Turnover of Grand Jury Materials",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.3,
+          "trait_id": "law_is_weapon_not_limit",
+          "trait_name": "Law is a weapon of the state, not a limit on its power",
+          "trait_number": 4
+        },
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.1,
+          "trait_id": "judicial_independence_eroded_by_politicized_appointments",
+          "trait_name": "Judicial independence is eroded through politicized appointments",
+          "trait_number": 14
+        },
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.1,
+          "trait_id": "whistleblowers_prosecuted_not_protected",
+          "trait_name": "Whistleblowers are prosecuted, not protected",
+          "trait_number": 18
+        }
+      ],
+      "why_relevant": "The order underscores judicial resistance to perceived abuses of power within the Justice Department, reinforcing the importance of due process and accountability.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/trump-has-post-election-meltdown",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 53
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "elections_representation",
+        "rule_of_law"
+      ],
+      "date": "2025-11-05",
+      "domain": null,
+      "event_id": "wk042-074",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "On October 21, 2025, Arizona Attorney General Kris Mayes filed a lawsuit against the House of Representatives, challenging Speaker Mike Johnson's delay in swearing in Adelita Grijalva. The lawsuit argues that the delay violates the Constitution by denying Grijalva her rightful office and preventing her from representing her constituents. It claims the delay is intended to prevent Grijalva from signing a discharge petition to release the Epstein files. The lawsuit seeks to have Grijalva sworn in by another authorized individual if Johnson continues to delay.",
+      "title": "Arizona sues House over Grijalva's swearing-in delay",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.2,
+          "trait_id": "opposition_allowed_but_structurally_weakened",
+          "trait_name": "Opposition parties are allowed but structurally weakened",
+          "trait_number": 6
+        },
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.2,
+          "trait_id": "elite_donor_crimes_concealed_not_prosecuted",
+          "trait_name": "Crimes committed by elite donors or allies are concealed, not prosecuted",
+          "trait_number": 51
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.1,
+          "trait_id": "government_archives_sealed_sanitized_or_destroyed",
+          "trait_name": "Government archives are sealed, sanitized, or destroyed",
+          "trait_number": 58
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.1,
+          "trait_id": "memory_curated_by_power_what_cannot_be_controlled_erased",
+          "trait_name": "Memory is curated by power—what cannot be controlled is erased",
+          "trait_number": 60
+        }
+      ],
+      "why_relevant": "The lawsuit addresses potential constitutional violations and seeks to uphold democratic representation.",
+      "provenance": [
+        {
+          "source_key": "popinfo",
+          "source_name": "popinfo",
+          "source_url": "https://popular.info/p/speaker-johnsons-unprecedented-democracy",
+          "origin_file": "popinfo_events_2025-01-20_2025-11-30.json",
+          "origin_index": 23
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "elections_representation",
+        "rule_of_law"
+      ],
+      "date": "2025-11-05",
+      "domain": null,
+      "event_id": "wk042-087",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "House Speaker Mike Johnson has delayed the swearing-in of Adelita Grijalva, who won a special election in Arizona on September 23, 2025. This delay, now at 43 days, is unprecedented compared to the average 11-day swearing-in period for special election winners since 2015. Johnson's actions prevent Grijalva from signing a discharge petition to force a House vote on releasing the Epstein files. Johnson has provided various explanations for the delay, none of which align with past practices or withstand scrutiny. Grijalva and the state of Arizona have filed a lawsuit against the House over this delay.",
+      "title": "Speaker Johnson delays swearing in Adelita Grijalva",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.2,
+          "trait_id": "opposition_allowed_but_structurally_weakened",
+          "trait_name": "Opposition parties are allowed but structurally weakened",
+          "trait_number": 6
+        },
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.2,
+          "trait_id": "elite_donor_crimes_concealed_not_prosecuted",
+          "trait_name": "Crimes committed by elite donors or allies are concealed, not prosecuted",
+          "trait_number": 51
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.1,
+          "trait_id": "government_archives_sealed_sanitized_or_destroyed",
+          "trait_name": "Government archives are sealed, sanitized, or destroyed",
+          "trait_number": 58
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.1,
+          "trait_id": "memory_curated_by_power_what_cannot_be_controlled_erased",
+          "trait_name": "Memory is curated by power—what cannot be controlled is erased",
+          "trait_number": 60
+        }
+      ],
+      "why_relevant": "The delay in swearing in an elected representative obstructs democratic processes and representation.",
+      "provenance": [
+        {
+          "source_key": "popinfo",
+          "source_name": "popinfo",
+          "source_url": "https://popular.info/p/speaker-johnsons-unprecedented-democracy",
+          "origin_file": "popinfo_events_2025-01-20_2025-11-30.json",
+          "origin_index": 22
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "constitution",
+        "rule_of_law",
+        "poor"
+      ],
+      "date": "2025-11-05",
+      "domain": null,
+      "event_id": "wk042-090",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "Former President Trump is reportedly defying the Constitution and court orders by using the Supplemental Nutrition Assistance Program (SNAP) as leverage against Congressional Democrats. This action is seen as an attempt to coerce political concessions by threatening food security for many families in North Carolina. The situation has prompted calls for public action and support for affected families.",
+      "title": "Trump Defies Constitution Over SNAP",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.2,
+          "trait_id": "executive_power_operates_without_effective_oversight",
+          "trait_name": "Executive power operates without effective oversight",
+          "trait_number": 1
+        },
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.1,
+          "trait_id": "federal_power_weaponized_against_disfavored_regions",
+          "trait_name": "Federal power is weaponized against disfavored states or localities",
+          "trait_number": 11
+        },
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.1,
+          "trait_id": "dissenters_labeled_unpatriotic_subversive_or_corrupt",
+          "trait_name": "Dissenters are labeled unpatriotic, subversive, or corrupt",
+          "trait_number": 49
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.1,
+          "trait_id": "data_and_algorithms_used_to_manipulate_public",
+          "trait_name": "Data and algorithms are used to manipulate, not serve, the public",
+          "trait_number": 54
+        }
+      ],
+      "why_relevant": "This act of defiance against constitutional and judicial authority represents a significant challenge to the rule of law and democratic governance.",
+      "provenance": [
+        {
+          "source_key": "outloud",
+          "source_name": "outloud",
+          "source_url": "https://kziegler.substack.com/p/democracy-out-loud-458-joy",
+          "origin_file": "outloud_events_2025-01-20_2025-11-30.json",
+          "origin_index": 10
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [],
+      "date": "2025-11-05",
+      "domain": null,
+      "event_id": "wk042-091",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "The Environmental Protection Agency (EPA) has established pesticide tolerances for cyclobutrifluram residues in cotton, lettuce, and soybean. This rule, effective November 5, 2025, sets maximum permissible levels for these residues under the Federal Food, Drug, and Cosmetic Act. The tolerances are set at 0.02 ppm for cotton gin byproducts and undelinted seed, 0.06 ppm for lettuce leaf, and 0.03 ppm for soybean seed. This action follows a petition by Syngenta and includes safety assessments for human exposure.",
+      "title": "Cyclobutrifluram Pesticide Tolerances Established",
+      "traits": [],
+      "why_relevant": "Establishing pesticide tolerances impacts agricultural practices and food safety, affecting public health and regulatory compliance.",
+      "provenance": [
+        {
+          "source_key": "federalregister",
+          "source_name": "federalregister",
+          "source_url": "https://www.federalregister.gov/documents/2025/11/05/2025-19794/cyclobutrifluram-pesticide-tolerances",
+          "origin_file": "federalregister_events_2025-01-20_2025-11-30.json",
+          "origin_index": 750
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [],
+      "date": "2025-11-05",
+      "domain": null,
+      "event_id": "wk042-092",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "The Federal Reserve has injected $125 billion into the U.S. banking system over five days, marking its largest short-term liquidity move since the 2020 COVID-19 crisis. This action, which included a $29.4 billion injection on October 31, aims to ease funding stress by allowing banks to trade U.S. Treasuries for cash. The move is part of a complex balancing act to control inflation while preventing financial instability.",
+      "title": "Federal Reserve Injects $125 Billion into Banking System",
+      "traits": [],
+      "why_relevant": "The Federal Reserve's actions are crucial for maintaining financial stability and addressing economic challenges.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/today-in-politics-bulletin-244-11625",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 48
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [],
+      "date": "2025-11-05",
+      "domain": null,
+      "event_id": "wk042-093",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "The Federal Reserve's recent $125 billion liquidity injection into the banking system has sparked excitement in the cryptocurrency markets. The move, seen as a sign of easing credit conditions, has led to speculation about potential rallies in crypto assets. This development underscores the interconnectedness of traditional financial systems and emerging digital currencies.",
+      "title": "Federal Reserve's Liquidity Move Sparks Crypto Market Excitement",
+      "traits": [],
+      "why_relevant": "The Fed's actions influence both traditional and digital financial markets, affecting economic stability.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/today-in-politics-bulletin-244-11625",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 51
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "workers",
+        "civil_service",
+        "public_service"
+      ],
+      "date": "2025-11-06",
+      "domain": null,
+      "event_id": "wk042-096",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "The U.S. federal government shutdown has extended beyond 35 days, marking the longest in history. Approximately 700,000 federal employees are furloughed without pay, while another 700,000 are working without pay. The Trump administration has been accused of harassment and bullying, with threats of withholding back pay and mass firings, many of which have been blocked by federal courts. The administration's stance has led to significant stress and anxiety among federal workers, with the White House refusing to negotiate with Democrats to end the shutdown.",
+      "title": "Federal government shutdown continues as Trump administration faces criticism",
+      "traits": [
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.2,
+          "trait_id": "civil_service_politicized_or_privatized",
+          "trait_name": "Civil service roles are politicized or privatized",
+          "trait_number": 22
+        }
+      ],
+      "why_relevant": "The prolonged government shutdown and the administration's treatment of federal workers highlight significant challenges to the functioning of government services and the well-being of public servants.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/06/trump-federal-government-shutdown",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 136
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "justice_dept"
+      ],
+      "date": "2025-11-06",
+      "domain": null,
+      "event_id": "wk042-097",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "President Trump has pardoned Michael McMahon, a retired police officer convicted of acting as a Chinese agent in a plot to intimidate a Chinese family in New Jersey. The pardon has been criticized as part of a series of controversial pardons issued by Trump, which some view as undermining justice and accountability.",
+      "title": "Trump pardons Michael McMahon",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.3,
+          "trait_id": "law_is_weapon_not_limit",
+          "trait_name": "Law is a weapon of the state, not a limit on its power",
+          "trait_number": 4
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.2,
+          "trait_id": "financial_crimes_by_elites_unpunished_or_settled",
+          "trait_name": "Financial crimes by elites are unpunished or quietly settled",
+          "trait_number": 33
+        }
+      ],
+      "why_relevant": "The pardon of a convicted individual involved in foreign influence operations raises concerns about the use of presidential pardon power to undermine legal accountability.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/today-in-politics-bulletin-245-11725",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 41
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "poor",
+        "rule_of_law"
+      ],
+      "date": "2025-11-06",
+      "domain": null,
+      "event_id": "wk042-098",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "President Trump has refused to disperse Supplemental Nutrition Assistance Program (SNAP) funds despite a court order mandating the release of these benefits. Trump stated that the country needs to remain \"liquid\" to handle potential crises, which he cited as justification for withholding the funds. This decision affects over 41 million Americans, many of whom are children, elderly, or disabled, who rely on SNAP benefits for food security.",
+      "title": "Trump refuses to disperse SNAP funds despite court order",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.2,
+          "trait_id": "executive_power_operates_without_effective_oversight",
+          "trait_name": "Executive power operates without effective oversight",
+          "trait_number": 1
+        },
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.3,
+          "trait_id": "law_is_weapon_not_limit",
+          "trait_name": "Law is a weapon of the state, not a limit on its power",
+          "trait_number": 4
+        },
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.1,
+          "trait_id": "federal_power_weaponized_against_disfavored_regions",
+          "trait_name": "Federal power is weaponized against disfavored states or localities",
+          "trait_number": 11
+        },
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.1,
+          "trait_id": "public_tragedy_monetized_by_regime_insiders",
+          "trait_name": "Public tragedy is monetized by regime insiders",
+          "trait_number": 12
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.1,
+          "trait_id": "crisis_as_profit_opportunity_for_insiders",
+          "trait_name": "Crisis becomes a profit opportunity for those closest to power",
+          "trait_number": 40
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.2,
+          "trait_id": "chaos_as_strategy_to_disable_accountability",
+          "trait_name": "Chaos is used as a strategy to fragment focus and disable accountability",
+          "trait_number": 53
+        }
+      ],
+      "why_relevant": "The refusal to comply with a court order to release SNAP funds impacts millions of Americans' access to food, highlighting executive overreach and disregard for judicial authority.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/today-in-politics-bulletin-245-11725",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 39
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [],
+      "date": "2025-11-06",
+      "domain": null,
+      "event_id": "wk042-099",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "A US congressional panel, led by California congressman Robert Garcia, has formally requested an interview with Andrew Mountbatten Windsor, formerly Prince Andrew, regarding his relationship with Jeffrey Epstein. The request is part of an ongoing investigation into Epstein's criminal activities. The letter, co-signed by 13 other Democrats on the House oversight committee, asks Andrew to provide information about his connections with Epstein, including travel and communications. The committee seeks to uncover details about Epstein's operations and associates. Andrew has been accused of sexual assault by one of Epstein's victims, Virginia Giuffre, but has denied any wrongdoing.",
+      "title": "US House panel requests interview with Andrew in Jeffrey Epstein investigation",
+      "traits": [],
+      "why_relevant": "This request is significant as it represents a congressional effort to hold powerful individuals accountable in the Epstein investigation.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/06/epstein-andrew-interview-house-oversight-committee",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 132
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "separation_of_powers",
+        "elections"
+      ],
+      "date": "2025-11-06",
+      "domain": null,
+      "event_id": "wk042-101",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "President Trump has called for the Senate to abolish the filibuster, claiming that doing so would ensure Republican victories in future elections. He suggested that eliminating the filibuster would allow for the passage of measures such as voter ID laws and the elimination of mail-in voting, which he believes would benefit the Republican Party.",
+      "title": "Trump demands Senate abolish the filibuster",
+      "traits": [
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.1,
+          "trait_id": "voter_suppression_rationalized_as_integrity",
+          "trait_name": "Voter suppression is rationalized as election integrity",
+          "trait_number": 45
+        }
+      ],
+      "why_relevant": "The demand to abolish the filibuster represents an attempt to alter Senate rules to consolidate political power and potentially restrict voting rights.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/today-in-politics-bulletin-245-11725",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 40
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "separation_of_powers",
+        "rule_of_law"
+      ],
+      "date": "2025-11-06",
+      "domain": null,
+      "event_id": "wk042-104",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "On November 6, 2025, the U.S. Supreme Court heard arguments regarding the legality of tariffs imposed by former President Donald Trump under the International Emergency Economic Powers Act (IEEPA). The administration argued that these tariffs were regulatory, not revenue-raising, despite lower court rulings that the IEEPA did not grant the president the power to levy taxes. Critics, including some justices, expressed skepticism, noting that tariffs are traditionally considered taxes, a power reserved for Congress. The court's decision could impact the scope of executive power and the separation of powers in the U.S. government.",
+      "title": "Supreme Court Hears Arguments on Trump's Tariff Policy",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.2,
+          "trait_id": "emergency_powers_normalized_and_permanent",
+          "trait_name": "Emergency powers are normalized and permanent",
+          "trait_number": 5
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.2,
+          "trait_id": "chaos_as_strategy_to_disable_accountability",
+          "trait_name": "Chaos is used as a strategy to fragment focus and disable accountability",
+          "trait_number": 53
+        }
+      ],
+      "why_relevant": "The case addresses the balance of power between the executive branch and Congress, specifically regarding the authority to impose taxes.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/06/trump-tariffs-supreme-court",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 137
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "poor",
+        "rule_of_law"
+      ],
+      "date": "2025-11-06",
+      "domain": null,
+      "event_id": "wk042-105",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "A federal judge in Rhode Island ordered the Trump administration to fully fund Supplemental Nutrition Assistance Program (Snap) benefits for November, affecting 42 million low-income Americans. This ruling came after the administration planned to only partially fund the benefits amid a federal government shutdown. The judge criticized the administration for not considering the practical consequences of partial funding, which could lead to delays and increased hunger. The administration has until Friday to comply, though beneficiaries may not see immediate payments.",
+      "title": "US judge orders Trump administration to fully fund Snap benefits in November",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.1,
+          "trait_id": "federal_power_weaponized_against_disfavored_regions",
+          "trait_name": "Federal power is weaponized against disfavored states or localities",
+          "trait_number": 11
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.2,
+          "trait_id": "chaos_as_strategy_to_disable_accountability",
+          "trait_name": "Chaos is used as a strategy to fragment focus and disable accountability",
+          "trait_number": 53
+        }
+      ],
+      "why_relevant": "This ruling ensures the continuation of essential food assistance for millions, highlighting the judiciary's role in safeguarding social welfare during political standoffs.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/06/ruling-snap-benefits-funding-trump",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 126
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "lgbtq",
+        "truth",
+        "courts"
+      ],
+      "date": "2025-11-06",
+      "domain": null,
+      "event_id": "wk042-106",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "On Thursday, the US Supreme Court permitted the Trump administration to enforce a policy that prevents transgender and non-binary individuals from selecting passport sex markers that align with their gender identity. This decision, made by the court's conservative majority, allows the administration to implement the policy while a lawsuit challenging it is ongoing. The ruling overturns a lower court's order that required the government to allow individuals to choose male, female, or X on their passports. The policy is part of an executive order by Trump recognizing only two sexes based on birth certificates.",
+      "title": "US Supreme Court Allows Trump Administration to Block Passport Sex Markers for Trans and Non-Binary People",
+      "traits": [],
+      "why_relevant": "This decision impacts the rights of transgender and non-binary individuals, affecting their ability to have identification documents that reflect their gender identity.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/06/supreme-court-ruling-passports-transgender-trump",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 127
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "lgbtq"
+      ],
+      "date": "2025-11-06",
+      "domain": null,
+      "event_id": "wk042-108",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "The Supreme Court reinstated a Trump administration policy requiring that all new passports reflect a person's biological sex at birth. This decision reverses a previous policy that allowed individuals who underwent gender transition to change their identification on passports.",
+      "title": "Supreme Court reinstates Trump policy on passport sex designation",
+      "traits": [],
+      "why_relevant": "This ruling impacts the rights of transgender individuals, limiting their ability to have identification that reflects their gender identity, thus undermining equal protection principles.",
+      "provenance": [
+        {
+          "source_key": "hcr",
+          "source_name": "hcr",
+          "source_url": "https://www.supremecourt.gov/opinions/25pdf/25a319_i4dj.pdf",
+          "origin_file": "hcr_events_2025-01-20_2025-11-30.json",
+          "origin_index": 6
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "immigrants_refugees",
+        "rule_of_law",
+        "decency"
+      ],
+      "date": "2025-11-06",
+      "domain": null,
+      "event_id": "wk042-109",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "In Los Angeles, heavily armed federal immigration agents arrested a US citizen in a Home Depot parking lot and drove away with his toddler, also a US citizen, in the backseat. The father was part of a major enforcement operation where five undocumented immigrants were also arrested. The Department of Homeland Security (DHS) claimed the father exited his vehicle wielding a hammer and threw rocks at law enforcement. The incident, captured on video, has raised concerns about the treatment of families during immigration enforcement actions.",
+      "title": "Armed US immigration agents drive off with toddler after arrest of father",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.2,
+          "trait_id": "security_forces_protect_power_not_people",
+          "trait_name": "Police and military are aligned with elite preservation, not public defense",
+          "trait_number": 9
+        },
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.2,
+          "trait_id": "citizenship_stratified_by_wealth_ideology_heritage",
+          "trait_name": "Citizenship is stratified by wealth, ideology, and heritage",
+          "trait_number": 47
+        }
+      ],
+      "why_relevant": "The event highlights concerns about the conduct of immigration enforcement operations and their impact on families, particularly involving US citizens.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/05/los-angeles-immigration-agents-toddler",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 138
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "immigrants_refugees",
+        "public_service",
+        "decency"
+      ],
+      "date": "2025-11-06",
+      "domain": null,
+      "event_id": "wk042-110",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "On November 5, 2025, armed ICE agents forcibly detained a daycare worker at the Rayito de Sol daycare center in Chicago's North Side neighborhood. The agents pursued the woman into the facility, where they allegedly used excessive force, including slamming her face against glass doors, before arresting her in front of children. The incident sparked immediate backlash from city and state lawmakers, who condemned the actions and highlighted the trauma inflicted on the children and community. ICE claimed the operation was a targeted traffic stop, not an attack on the daycare itself.",
+      "title": "ICE agents arrest daycare worker in Chicago",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.2,
+          "trait_id": "security_forces_protect_power_not_people",
+          "trait_name": "Police and military are aligned with elite preservation, not public defense",
+          "trait_number": 9
+        },
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.2,
+          "trait_id": "citizenship_stratified_by_wealth_ideology_heritage",
+          "trait_name": "Citizenship is stratified by wealth, ideology, and heritage",
+          "trait_number": 47
+        }
+      ],
+      "why_relevant": "The event raises concerns about the use of force by federal agents and the impact of immigration enforcement on community safety and trust.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/05/chicago-ice-agents-detain-daycare-worker",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 140
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "immigrants_refugees",
+        "children",
+        "civil_service"
+      ],
+      "date": "2025-11-06",
+      "domain": null,
+      "event_id": "wk042-111",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "The US Immigration and Customs Enforcement (ICE) announced plans to open a new call center in Nashville, Tennessee, by March 2026. The center will assist law enforcement agencies in locating unaccompanied migrant children using \"data-enabled technology.\" The facility is expected to operate 24/7 and handle 6,000 to 7,000 calls daily. This initiative is part of a broader strategy to enhance immigration enforcement, which has included increased raids and the revival of family separation practices under the Trump administration.",
+      "title": "ICE plans to open call center to help law enforcement locate unaccompanied minors",
+      "traits": [
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.1,
+          "trait_id": "surveillance_of_citizens_increases_elite_crimes_opaque",
+          "trait_name": "Surveillance of ordinary citizens increases; elite crimes remain opaque",
+          "trait_number": 46
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.1,
+          "trait_id": "data_and_algorithms_used_to_manipulate_public",
+          "trait_name": "Data and algorithms are used to manipulate, not serve, the public",
+          "trait_number": 54
+        }
+      ],
+      "why_relevant": "This development highlights the ongoing intensification of immigration enforcement measures, impacting the rights and welfare of migrant children.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/06/ice-call-center-unaccompanied-migrant-children",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 128
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "poor"
+      ],
+      "date": "2025-11-06",
+      "domain": null,
+      "event_id": "wk042-112",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "Utah announced plans to build a facility for the involuntary confinement of 1,300 unhoused individuals, shifting focus from providing housing to rehabilitation and moral development. Critics express concern over funding and the effectiveness of this approach.",
+      "title": "Utah plans facility for involuntary confinement of unhoused individuals",
+      "traits": [],
+      "why_relevant": "This initiative reflects a punitive approach to homelessness, raising ethical concerns about the treatment of vulnerable populations and the use of state power.",
+      "provenance": [
+        {
+          "source_key": "hcr",
+          "source_name": "hcr",
+          "source_url": "https://www.nytimes.com/2025/10/29/us/politics/utah-trump-homeless-campus.html",
+          "origin_file": "hcr_events_2025-01-20_2025-11-30.json",
+          "origin_index": 7
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "lgbtq",
+        "rule_of_law"
+      ],
+      "date": "2025-11-06",
+      "domain": null,
+      "event_id": "wk042-121",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "On November 6, 2025, the Supreme Court granted the federal government's request for a stay in the case of Trump v. Orr. This decision allows the Trump administration to implement its policy requiring government-issued identification documents to reflect the holder's sex as defined by a January 2025 executive order. The order, which recognizes only two sexes, male and female, was challenged by transgender and nonbinary individuals. The stay overturns a lower court's nationwide block on the policy, pending further litigation. Justices Sonia Sotomayor, Elena Kagan, and Ketanji Brown Jackson dissented.",
+      "title": "Supreme Court Grants Stay in Trump v. Orr",
+      "traits": [],
+      "why_relevant": "This decision impacts the rights of transgender and nonbinary individuals regarding the recognition of gender identity on official documents.",
+      "provenance": [
+        {
+          "source_key": "shadow",
+          "source_name": "shadow",
+          "source_url": "https://ballotpedia.org/Supreme_Court_emergency_orders_related_to_the_Trump_administration,_2025#Trump_v._Orr",
+          "origin_file": "shadow_events_2025-01-20_2025-11-30.json",
+          "origin_index": 0
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "poor",
+        "public_service"
+      ],
+      "date": "2025-11-06",
+      "domain": null,
+      "event_id": "wk042-122",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "",
+      "title": "Government shutdown impacts SNAP benefits",
+      "traits": [
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.1,
+          "trait_id": "crisis_as_profit_opportunity_for_insiders",
+          "trait_name": "Crisis becomes a profit opportunity for those closest to power",
+          "trait_number": 40
+        },
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.2,
+          "trait_id": "citizenship_stratified_by_wealth_ideology_heritage",
+          "trait_name": "Citizenship is stratified by wealth, ideology, and heritage",
+          "trait_number": 47
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.2,
+          "trait_id": "chaos_as_strategy_to_disable_accountability",
+          "trait_name": "Chaos is used as a strategy to fragment focus and disable accountability",
+          "trait_number": 53
+        }
+      ],
+      "why_relevant": "The reduction in SNAP benefits during a government shutdown highlights the impact of political decisions on vulnerable populations and raises concerns about the prioritization of resources.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/05/trump-oval-office-sign",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 139
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [],
+      "date": "2025-11-06",
+      "domain": null,
+      "event_id": "wk042-123",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "Colorado voters approved Proposition MM, increasing taxes on households earning over $300,000 to fund free school meals, local ingredient purchases, and cafeteria worker raises. The measure builds on a previous initiative, Proposition FF, which limited tax deductions for high earners to support the Healthy School Meals for All program. This decision reflects a commitment to addressing child nutrition and educational support through progressive taxation.",
+      "title": "Colorado Voters Increase Taxes on Wealthy to Fund School Meals",
+      "traits": [
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.2,
+          "trait_id": "tax_codes_engineered_to_favor_capital_over_labor",
+          "trait_name": "Tax codes are engineered to favor capital, not labor",
+          "trait_number": 32
+        }
+      ],
+      "why_relevant": "The measure represents a significant policy shift towards using progressive taxation to fund public welfare programs.",
+      "provenance": [
+        {
+          "source_key": "popinfo",
+          "source_name": "popinfo",
+          "source_url": "https://popular.info/p/six-election-results-that-didnt-make",
+          "origin_file": "popinfo_events_2025-01-20_2025-11-30.json",
+          "origin_index": 20
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "economy"
+      ],
+      "date": "2025-11-06",
+      "domain": null,
+      "event_id": "wk042-124",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "The Federal Aviation Administration (FAA) has started cutting 700 flights per day across 40 airports due to the ongoing government shutdown. This reduction is attributed to a shortage of 3,500 air traffic controllers, affecting over 4 million passengers. The shutdown's economic impact is significant, with Moody's estimating a cost of $30 billion per week.",
+      "title": "FAA begins cutting flights due to government shutdown",
+      "traits": [
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.1,
+          "trait_id": "crisis_as_profit_opportunity_for_insiders",
+          "trait_name": "Crisis becomes a profit opportunity for those closest to power",
+          "trait_number": 40
+        }
+      ],
+      "why_relevant": "The reduction in flights due to the government shutdown highlights the broader economic and operational disruptions caused by political stalemates.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/today-in-politics-bulletin-245-11725",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 42
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "rule_of_law",
+        "separation_of_powers",
+        "elections"
+      ],
+      "date": "2025-11-07",
+      "domain": null,
+      "event_id": "wk042-126",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "On November 7, 2025, former President Donald Trump signed pardons for 77 individuals connected to efforts to overturn the 2020 election results. The pardons, announced on November 9, include high-profile figures such as Rudy Giuliani, Mark Meadows, Sidney Powell, and others involved in the fake electors scheme. These pardons were issued amidst the media focus on the government shutdown, effectively burying the news. The pardons prevent future federal prosecution of these individuals but do not affect ongoing state-level cases.",
+      "title": "Trump Pardons 77 Individuals Involved in 2020 Election Subversion",
+      "traits": [
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.2,
+          "trait_id": "anti_corruption_investigations_blocked_or_retaliated",
+          "trait_name": "Investigations into corruption are blocked, buried, or retaliated against",
+          "trait_number": 17
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.2,
+          "trait_id": "wealth_buys_law_not_just_speech",
+          "trait_name": "Wealth buys not only speech, but law",
+          "trait_number": 29
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.2,
+          "trait_id": "financial_crimes_by_elites_unpunished_or_settled",
+          "trait_name": "Financial crimes by elites are unpunished or quietly settled",
+          "trait_number": 33
+        },
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.2,
+          "trait_id": "elite_donor_crimes_concealed_not_prosecuted",
+          "trait_name": "Crimes committed by elite donors or allies are concealed, not prosecuted",
+          "trait_number": 51
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.2,
+          "trait_id": "chaos_as_strategy_to_disable_accountability",
+          "trait_name": "Chaos is used as a strategy to fragment focus and disable accountability",
+          "trait_number": 53
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.1,
+          "trait_id": "memory_curated_by_power_what_cannot_be_controlled_erased",
+          "trait_name": "Memory is curated by power—what cannot be controlled is erased",
+          "trait_number": 60
+        }
+      ],
+      "why_relevant": "This mass pardon affects accountability for attempts to subvert democratic election processes and highlights the use of presidential powers to shield allies from legal consequences.",
+      "provenance": [
+        {
+          "source_key": "50501",
+          "source_name": "50501",
+          "source_url": "https://www.the50501movement.org/p/buried-beneath-shutdown-trump-77-pardons",
+          "origin_file": "50501_events_2025-01-20_2025-11-30.json",
+          "origin_index": 23
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "education",
+        "minorities",
+        "truth"
+      ],
+      "date": "2025-11-07",
+      "domain": null,
+      "event_id": "wk042-127",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "Cornell University reached a settlement with the Trump administration, agreeing to share admissions data, pay $30 million, and invest an additional $30 million in research programs. This agreement will restore over $250 million in federal research funding to the university. The settlement also requires Cornell to evaluate campus climate for Jewish students and adopt the administration's interpretation of civil rights laws, which views diversity initiatives as unlawful race-based discrimination. This move follows similar agreements with other universities and has sparked criticism of government overreach and the administration's anti-diversity stance.",
+      "title": "Cornell University settles with Trump administration to restore $250m in funds",
+      "traits": [
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.2,
+          "trait_id": "universities_pressured_to_suppress_dissent",
+          "trait_name": "Universities are pressured to suppress dissent or lose funding",
+          "trait_number": 44
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.1,
+          "trait_id": "civic_education_hollowed_out_replaced_with_market_ideology",
+          "trait_name": "Civic education is hollowed out and replaced with market ideology",
+          "trait_number": 55
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.1,
+          "trait_id": "national_history_rewritten_to_glorify_conquest",
+          "trait_name": "National history is rewritten to glorify conquest, not justice",
+          "trait_number": 56
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.1,
+          "trait_id": "textbooks_and_museums_altered_to_erase_dissent",
+          "trait_name": "Textbooks and museums are altered to erase dissent and accountability",
+          "trait_number": 57
+        }
+      ],
+      "why_relevant": "The settlement reflects the administration's influence on university policies and its broader campaign against diversity initiatives.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/07/cornell-university-trump-administration-deal",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 119
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "education",
+        "public_service",
+        "truth"
+      ],
+      "date": "2025-11-07",
+      "domain": null,
+      "event_id": "wk042-128",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "The Trump administration has proposed a \"compact\" that would provide universities with preferential access to federal funding in exchange for a commitment to advance the administration's conservative agenda. This proposal has been accepted by the New College of Florida, a public school that has been turned into a bastion of conservatism by state legislators. The compact is part of a broader effort by the administration to align higher education institutions with its ideological priorities.",
+      "title": "Trump administration proposes \"compact\" for universities",
+      "traits": [
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.2,
+          "trait_id": "universities_pressured_to_suppress_dissent",
+          "trait_name": "Universities are pressured to suppress dissent or lose funding",
+          "trait_number": 44
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.1,
+          "trait_id": "civic_education_hollowed_out_replaced_with_market_ideology",
+          "trait_name": "Civic education is hollowed out and replaced with market ideology",
+          "trait_number": 55
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.1,
+          "trait_id": "national_history_rewritten_to_glorify_conquest",
+          "trait_name": "National history is rewritten to glorify conquest, not justice",
+          "trait_number": 56
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.1,
+          "trait_id": "textbooks_and_museums_altered_to_erase_dissent",
+          "trait_name": "Textbooks and museums are altered to erase dissent and accountability",
+          "trait_number": 57
+        }
+      ],
+      "why_relevant": "This proposal represents an attempt to influence the ideological direction of higher education institutions through federal funding incentives.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/07/student-protest-trump-education-attacks",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 118
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "truth",
+        "presidency"
+      ],
+      "date": "2025-11-07",
+      "domain": null,
+      "event_id": "wk042-129",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "On November 7, 2025, the Trump administration issued pardons to seven individuals, including Darryl Strawberry, Glen Casada, and Michael McMahon. The pardons were initially posted online with strikingly similar signatures attributed to Trump, which were later replaced with distinct signatures. The administration attributed the error to technical and staffing issues. This incident has raised questions about the authenticity of the signatures and the process of issuing pardons.",
+      "title": "Trump issues pardons with identical signatures",
+      "traits": [],
+      "why_relevant": "The issuance of pardons is a significant presidential power, and questions about the authenticity of signatures can undermine trust in the administration's processes.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/15/trump-signatures-clemency-orders",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 39
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "immigrants_refugees",
+        "poor",
+        "truth"
+      ],
+      "date": "2025-11-07",
+      "domain": null,
+      "event_id": "wk042-130",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "In July, federal legislation was passed providing $45 billion to the U.S. Immigration and Customs Enforcement (ICE) for the construction of more detention centers for adults and children. This funding is part of a larger $75 billion, four-year package aimed at expanding the federal agency's capacity. The legislation has sparked controversy, particularly in Marana, Arizona, where a former prison may be converted into an ICE facility, raising concerns among residents about the moral and economic implications of such a move.",
+      "title": "Federal Legislation Allocates $45 Billion for ICE Detention Centers",
+      "traits": [
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.2,
+          "trait_id": "state_power_outsourced_to_unaccountable_contractors",
+          "trait_name": "State power is outsourced to unaccountable private contractors",
+          "trait_number": 25
+        },
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.1,
+          "trait_id": "public_goods_privatized_for_profit",
+          "trait_name": "Public goods are privatized for profit",
+          "trait_number": 31
+        },
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.1,
+          "trait_id": "surveillance_of_citizens_increases_elite_crimes_opaque",
+          "trait_name": "Surveillance of ordinary citizens increases; elite crimes remain opaque",
+          "trait_number": 46
+        }
+      ],
+      "why_relevant": "This legislation significantly impacts immigration policy and the treatment of immigrants, affecting community dynamics and raising ethical concerns.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/11/07/marana-arizona-prison-ice",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 121
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "separation_of_powers",
+        "rule_of_law",
+        "congress"
+      ],
+      "date": "2025-11-07",
+      "domain": null,
+      "event_id": "wk042-131",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "The US Senate voted 49-51 against a Democratic war powers resolution that aimed to require President Donald Trump to seek congressional approval for military strikes in Venezuela. The resolution, which failed mostly along party lines, was an attempt to limit Trump's ability to expand military actions against the country. Only two Republican senators, Rand Paul and Lisa Murkowski, supported the resolution. The vote reflects ongoing concerns about the Trump administration's military campaign in the region, which has included deploying advanced military assets and planning further strikes.",
+      "title": "Senate blocks Democrats’ bid to check Trump power over Venezuela strikes",
+      "traits": [],
+      "why_relevant": "This vote highlights the tension between the executive and legislative branches over military authority and the potential for unchecked presidential power in military engagements.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/06/senate-trump-venezuela",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 125
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "justice_dept",
+        "rule_of_law"
+      ],
+      "date": "2025-11-07",
+      "domain": null,
+      "event_id": "wk042-133",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "In Oklahoma, Judge Susan C Worthington granted Jesse Butler, an 18-year-old convicted of multiple charges of rape and assault, the status of a youthful offender. This decision allowed Butler to avoid a potential 78-year prison sentence in favor of a plea deal involving 150 hours of community service and counseling. The plea deal, approved under Oklahoma’s Youthful Offender Act, has sparked outrage among residents and politicians who view it as an injustice to the victims. The deal includes conditions such as a curfew, a ban from social media, and mandatory therapy sessions.",
+      "title": "Oklahoma judge grants plea deal to youthful offender",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.3,
+          "trait_id": "law_is_weapon_not_limit",
+          "trait_name": "Law is a weapon of the state, not a limit on its power",
+          "trait_number": 4
+        },
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.1,
+          "trait_id": "courts_rule_for_donors_and_elites",
+          "trait_name": "Courts issue rulings aligned with donor or elite preference",
+          "trait_number": 13
+        }
+      ],
+      "why_relevant": "The plea deal raises concerns about the justice system's handling of serious crimes and the balance between rehabilitation and punishment.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/07/oklahoma-plea-deal-rape-conviction",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 120
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "lgbtq",
+        "courts",
+        "rule_of_law"
+      ],
+      "date": "2025-11-07",
+      "domain": null,
+      "event_id": "wk042-134",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "The U.S. Supreme Court is considering whether to take up the case of Davis v. Ermold, which could challenge the legality of same-sex marriage nationwide. The case involves Kim Davis, a former Kentucky county clerk who refused to issue marriage licenses to same-sex couples, citing religious beliefs. The Sixth Circuit Court of Appeals previously ruled against Davis, stating that her actions as a government official did not warrant First Amendment protections. Davis is now petitioning the Supreme Court to overturn this ruling and potentially the landmark Obergefell v. Hodges decision that legalized same-sex marriage.",
+      "title": "Supreme Court Considers Taking Up Case Challenging Same-Sex Marriage Legality",
+      "traits": [],
+      "why_relevant": "This case could potentially lead to a significant shift in the legal status of same-sex marriage in the United States, affecting the rights of LGBTQ+ individuals.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2025/nov/07/supreme-court-same-sex-marriage",
+          "origin_file": "guardian_events_2025-01-20_2025-11-30.json",
+          "origin_index": 123
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "poor",
+        "rule_of_law"
+      ],
+      "date": "2025-11-07",
+      "domain": null,
+      "event_id": "wk042-135",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "The Trump administration filed an appeal against a federal court order mandating the release of emergency Supplemental Nutrition Assistance Program (SNAP) benefits to 42 million Americans. The administration argues that the ruling undermines the separation of powers, despite having the funds available, as evidenced by a recent $40 billion approval for Argentina. This appeal comes amid a significant economic downturn, with rising unemployment and declining consumer confidence.",
+      "title": "Trump Administration Appeals SNAP Benefits Court Order",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.3,
+          "trait_id": "law_is_weapon_not_limit",
+          "trait_name": "Law is a weapon of the state, not a limit on its power",
+          "trait_number": 4
+        },
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.2,
+          "trait_id": "anti_corruption_investigations_blocked_or_retaliated",
+          "trait_name": "Investigations into corruption are blocked, buried, or retaliated against",
+          "trait_number": 17
+        },
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.1,
+          "trait_id": "whistleblowers_prosecuted_not_protected",
+          "trait_name": "Whistleblowers are prosecuted, not protected",
+          "trait_number": 18
+        }
+      ],
+      "why_relevant": "The appeal against the court order affects millions of Americans relying on SNAP benefits, highlighting tensions between judicial authority and executive policy decisions.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/major-friday-news-updates-11725",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 44
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [],
+      "date": "2025-11-07",
+      "domain": null,
+      "event_id": "wk042-136",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "The Federal Bureau of Investigation (FBI) announced a meeting of the Criminal Justice Information Services (CJIS) Advisory Policy Board (APB) to be held on December 10-11, 2025, in Lake Buena Vista, Florida. The meeting will address policy, technical, and operational issues related to FBI's CJIS programs, including the National Crime Information Center and the National Instant Criminal Background Check System. The public can participate in person or via a phone bridge line, with opportunities to submit comments.",
+      "title": "FBI Announces Meeting of CJIS Advisory Policy Board",
+      "traits": [],
+      "why_relevant": "This meeting influences the policies and operations of key national crime and background check systems, impacting law enforcement and public safety.",
+      "provenance": [
+        {
+          "source_key": "federalregister",
+          "source_name": "federalregister",
+          "source_url": "https://www.federalregister.gov/documents/2025/11/07/2025-19808/meeting-of-the-cjis-advisory-policy-board",
+          "origin_file": "federalregister_events_2025-01-20_2025-11-30.json",
+          "origin_index": 0
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "public_service"
+      ],
+      "date": "2025-11-07",
+      "domain": null,
+      "event_id": "wk042-142",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "",
+      "title": "FAA announces flight cuts due to government shutdown",
+      "traits": [
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.1,
+          "trait_id": "crisis_as_profit_opportunity_for_insiders",
+          "trait_name": "Crisis becomes a profit opportunity for those closest to power",
+          "trait_number": 40
+        }
+      ],
+      "why_relevant": "The government shutdown's impact on air travel highlights the broader economic and logistical challenges caused by political gridlock.",
+      "provenance": [
+        {
+          "source_key": "50501",
+          "source_name": "50501",
+          "source_url": "https://www.the50501movement.org/p/one-america-threatened-voters-the-other-stood-in-line",
+          "origin_file": "50501_events_2025-01-20_2025-11-30.json",
+          "origin_index": 29
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "truth",
+        "economy"
+      ],
+      "date": "2025-11-07",
+      "domain": null,
+      "event_id": "wk042-143",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "Trump administration officials, including the labor secretary and economic adviser, have attributed the current economic downturn to the ongoing government shutdown. They claim that inflation is down and grocery prices are lower, despite evidence to the contrary. This narrative attempts to shift blame away from the administration's policies, including the self-engineered shutdown and trade conflicts.",
+      "title": "Trump Administration Blames Government Shutdown for Economic Issues",
+      "traits": [
+        {
+          "category": "Economic Structure",
+          "delta_p": 0.1,
+          "trait_id": "economic_data_selectively_published_massaged_or_ignored",
+          "trait_name": "Economic data is selectively published, massaged, or ignored",
+          "trait_number": 39
+        },
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.1,
+          "trait_id": "dissenters_labeled_unpatriotic_subversive_or_corrupt",
+          "trait_name": "Dissenters are labeled unpatriotic, subversive, or corrupt",
+          "trait_number": 49
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.1,
+          "trait_id": "elections_flooded_with_elite_funded_disinformation",
+          "trait_name": "Elections are flooded with disinformation funded by elite actors",
+          "trait_number": 52
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.1,
+          "trait_id": "data_and_algorithms_used_to_manipulate_public",
+          "trait_name": "Data and algorithms are used to manipulate, not serve, the public",
+          "trait_number": 54
+        }
+      ],
+      "why_relevant": "The administration's narrative manipulation impacts public perception and accountability regarding economic policy and governance.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/major-friday-news-updates-11725",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 45
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [],
+      "date": "2025-11-07",
+      "domain": null,
+      "event_id": "wk042-144",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "The city of Kyoto, Japan, has introduced an accommodation tax of up to 10,000 yen per person per night for hotel stays costing 100,000 yen or more, effective March 1, 2026. This policy aims to reduce overtourism by discouraging excessive tourist numbers while increasing tax revenue. The tax is designed to address the strain on urban infrastructure caused by rising tourist numbers, particularly in popular destinations like Kyoto and Tokyo.",
+      "title": "Kyoto Implements Accommodation Tax to Combat Overtourism",
+      "traits": [],
+      "why_relevant": "This policy addresses the externalities of overtourism, balancing economic benefits with sustainable urban management.",
+      "provenance": [
+        {
+          "source_key": "noah",
+          "source_name": "noah",
+          "source_url": "https://www.noahpinion.blog/p/at-least-five-interesting-things-824",
+          "origin_file": "noah_events_2025-01-20_2025-11-30.json",
+          "origin_index": 25
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "trade",
+        "economy"
+      ],
+      "date": "2025-11-07",
+      "domain": null,
+      "event_id": "wk042-145",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "The Trump administration's trade war with China has resulted in significant setbacks, including a halving of American soybean exports and increased Chinese restrictions on rare earth elements. These developments have heightened U.S. dependency and reduced economic security, contradicting the administration's claims of economic strength.",
+      "title": "Trump Administration Faces Trade War Setbacks with China",
+      "traits": [],
+      "why_relevant": "The trade war's negative impact on U.S. exports and resource security underscores the broader implications of international economic policy decisions.",
+      "provenance": [
+        {
+          "source_key": "meidas",
+          "source_name": "meidas",
+          "source_url": "https://www.meidasplus.com/p/major-friday-news-updates-11725",
+          "origin_file": "meidas_events_2025-01-20_2025-11-30.json",
+          "origin_index": 46
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "global_democracy",
+        "trade"
+      ],
+      "date": "2025-11-07",
+      "domain": null,
+      "event_id": "wk042-146",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "The Trump administration decided to maintain export controls on Nvidia's Blackwell chips, refusing to sell them to China despite lobbying from Nvidia's CEO, Jensen Huang. This decision was influenced by national security concerns, as top officials, including Secretary of State Marco Rubio, argued that selling the chips would enhance China's AI capabilities and pose a threat to U.S. interests. The decision was made during a meeting with Chinese President Xi Jinping on October 30, 2025, marking a victory for those advocating for continued export restrictions.",
+      "title": "Trump Administration Maintains Export Controls on Nvidia Chips to China",
+      "traits": [],
+      "why_relevant": "This decision impacts the technological and geopolitical balance between the U.S. and China, affecting global semiconductor markets and national security.",
+      "provenance": [
+        {
+          "source_key": "noah",
+          "source_name": "noah",
+          "source_url": "https://www.noahpinion.blog/p/at-least-five-interesting-things-824",
+          "origin_file": "noah_events_2025-01-20_2025-11-30.json",
+          "origin_index": 24
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    }
+  ]
+}

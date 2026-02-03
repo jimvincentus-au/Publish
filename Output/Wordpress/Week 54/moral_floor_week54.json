@@ -1,0 +1,97 @@
+{
+  "week_number": 54,
+  "period_label": "Week 54 – 2026-01-24–2026-01-30",
+  "window": {
+    "start": "2026-01-24",
+    "end": "2026-01-30"
+  },
+  "clock_time_public": "8:12 p.m.",
+  "clock_delta_minutes": 0.1,
+  "baseline_traits": [
+    {
+      "name": "character",
+      "definition": "Internal discipline to align words with deeds, to place public duty ahead of personal gain, and to honour the oath of office even when it conflicts with short-term advantage."
+    },
+    {
+      "name": "ethics",
+      "definition": "Commitment to keep a firm boundary between public power and private interest, avoiding conflicts of interest, self-dealing, and the use of office to enrich oneself, family, or allies."
+    },
+    {
+      "name": "restraint",
+      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+    },
+    {
+      "name": "truthfulness",
+      "definition": "Obligation to speak accurately on matters of public consequence, avoid deliberate disinformation, correct false statements, and ensure that citizens are not governed by manufactured unreality."
+    },
+    {
+      "name": "good_faith",
+      "definition": "Adherence to the spirit as well as the letter of democratic rules, keeping promises, respecting outcomes, and avoiding procedural manipulation that defeats the purpose of the law."
+    },
+    {
+      "name": "stewardship",
+      "definition": "Responsibility to maintain and strengthen institutions so they can serve future generations as well as the present, avoiding actions that permanently damage capacity, credibility, or public trust."
+    }
+  ],
+  "weekly_audit": {
+    "summary": "This week saw significant erosion of the moral floor, with federal power increasingly used against dissenting communities and a marked decline in ethical governance. Actions by the administration and its allies reflected a troubling normalization of disinformation, aggressive enforcement, and the politicization of law enforcement, while courts and civil society pushed back against these trends.",
+    "norms_broken": [
+      {
+        "trait": "truthfulness",
+        "pattern": "DHS issued misleading statements about the circumstances of Alex Pretti's killing, attempting to justify federal actions through false narratives.",
+        "severity": "serious",
+        "institutional_response": "Judicial scrutiny and local investigations attempted to counteract federal narratives, but faced significant resistance."
+      },
+      {
+        "trait": "restraint",
+        "pattern": "The administration's aggressive immigration enforcement tactics in Minnesota, including warrantless home entries and mass arrests, demonstrated a lack of self-limitation.",
+        "severity": "serious",
+        "institutional_response": "Some local officials and courts attempted to assert authority, but federal agencies largely ignored these challenges."
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Federal agencies engaged in actions that undermined local governance and accountability, such as seizing ballots and voter materials under dubious pretexts.",
+        "severity": "serious",
+        "institutional_response": "Congressional leaders expressed outrage and initiated inquiries, but the effectiveness of these efforts remains uncertain."
+      }
+    ],
+    "norms_strengthened": [
+      {
+        "trait": "stewardship",
+        "pattern": "State officials and courts took steps to protect civil rights and assert state authority over federal actions, such as securing a restraining order on evidence related to the Alex Pretti shooting.",
+        "scope": "institutional",
+        "why_it_matters": "These actions reflect a commitment to uphold the rule of law and protect civil rights against federal overreach."
+      },
+      {
+        "trait": "character",
+        "pattern": "Civil society mobilized in large numbers to protest federal actions, demonstrating a commitment to democratic principles and accountability.",
+        "scope": "public",
+        "why_it_matters": "Public mobilization against perceived injustices is crucial for maintaining democratic engagement and accountability."
+      }
+    ],
+    "direction_of_movement": "eroding"
+  },
+  "cumulative_condition": {
+    "narrative": "This week continued a troubling trend of ethical erosion observed in previous weeks, where federal power is increasingly wielded against dissenting voices and communities. The administration's actions reflect a systematic undermining of democratic norms, particularly in jurisdictions that oppose its policies. While there are signs of resistance from courts and civil society, the overall trajectory indicates a deepening of these issues, with the moral floor showing significant cracks.",
+    "trend": "deteriorating",
+    "stress_points": [
+      "aggressive federal enforcement in opposition-led regions",
+      "disinformation and manipulation of public narratives",
+      "erosion of civil rights protections"
+    ],
+    "sources_of_resilience": [
+      "judicial pushback against federal overreach",
+      "active civil society protests and mobilization",
+      "bipartisan calls for accountability in Congress"
+    ]
+  },
+  "risk_assessment": {
+    "level": "high",
+    "justification": "The combination of aggressive federal actions against dissent, the normalization of disinformation, and the politicization of law enforcement creates a high-risk environment for further erosion of democratic norms. The ongoing resistance from courts and civil society, while important, may not be sufficient to counteract the entrenched practices of the administration without sustained public and institutional pressure.",
+    "forward_signals": [
+      "increased federal surveillance of dissenting groups",
+      "escalation of disinformation campaigns from government sources",
+      "potential legal challenges to state-level protections against federal actions"
+    ]
+  }
+}

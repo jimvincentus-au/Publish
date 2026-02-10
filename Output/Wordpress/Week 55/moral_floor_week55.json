@@ -1,0 +1,192 @@
+{
+  "week_number": 55,
+  "period_label": "Week 55 – 2026-01-31–2026-02-06",
+  "window": {
+    "start": "2026-01-31",
+    "end": "2026-02-06"
+  },
+  "clock_time_public": "8:12 p.m.",
+  "clock_delta_minutes": 0.0,
+  "baseline_traits": [
+    {
+      "name": "character",
+      "definition": "Internal discipline to align words with deeds, to place public duty ahead of personal gain, and to honour the oath of office even when it conflicts with short-term advantage."
+    },
+    {
+      "name": "ethics",
+      "definition": "Commitment to keep a firm boundary between public power and private interest, avoiding conflicts of interest, self-dealing, and the use of office to enrich oneself, family, or allies."
+    },
+    {
+      "name": "restraint",
+      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+    },
+    {
+      "name": "truthfulness",
+      "definition": "Obligation to speak accurately on matters of public consequence, avoid deliberate disinformation, correct false statements, and ensure that citizens are not governed by manufactured unreality."
+    },
+    {
+      "name": "good_faith",
+      "definition": "Adherence to the spirit as well as the letter of democratic rules, keeping promises, respecting outcomes, and avoiding procedural manipulation that defeats the purpose of the law."
+    },
+    {
+      "name": "stewardship",
+      "definition": "Responsibility to maintain and strengthen institutions so they can serve future generations as well as the present, avoiding actions that permanently damage capacity, credibility, or public trust."
+    }
+  ],
+  "weekly_audit": {
+    "summary": "This week saw a continuation of the erosion of democratic norms, with executive power increasingly directed against dissenting communities and political opponents. While some institutional pushback was evident, it was largely reactive and insufficient to counterbalance the overarching trend of consolidation and disregard for established checks and balances.",
+    "norms_broken": [
+      {
+        "trait": "character",
+        "pattern": "Executive actions prioritized political interests over public duty, particularly through unilateral military operations and immigration enforcement.",
+        "severity": "serious",
+        "institutional_response": "Limited resistance from institutions, highlighting a weakening of checks on executive power.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk55_character_ex01",
+            "week": 55,
+            "event_ids": [
+              "wk55_CR_001",
+              "wk55_CR_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk55_CR_001",
+                "development_label": "Conducted aggressive enforcement operations in Minneapolis, resulting in killings and child detentions.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk55_CR_002",
+                "development_label": "Used tear gas and projectiles against largely peaceful protesters outside an ICE facility.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The aggressive enforcement actions exemplified a prioritization of political narratives over accountability and public duty.",
+            "why_exemplary": "These actions illustrated a significant departure from the principles of character, undermining public trust and accountability.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the use of executive power to reward allies and punish critics.",
+        "severity": "serious",
+        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk55_ethics_ex01",
+            "week": 55,
+            "event_ids": [
+              "wk55_PA_006",
+              "wk55_IM_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk55_PA_006",
+                "development_label": "Threatened Harvard University with a $1bn civil-rights damages claim and funding pressure.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk55_IM_005",
+                "development_label": "Promoted false narratives of widespread voter fraud and called for nationalizing elections.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The intertwining of executive orders and personal financial interests exemplified a significant ethical breach.",
+            "why_exemplary": "These actions demonstrated a willingness to exploit public resources for private gain, undermining ethical governance.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding military actions and immigration enforcement.",
+        "severity": "serious",
+        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk55_truthfulness_ex01",
+            "week": 55,
+            "event_ids": [
+              "wk55_IM_002",
+              "wk55_IM_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk55_IM_002",
+                "development_label": "Issued a press release mischaracterizing California's cooperation on transferring convicted noncitizens.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk55_IM_004",
+                "development_label": "Sued multiple states to obtain full, unredacted voter rolls including sensitive identifiers.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The manipulation of narratives surrounding state violence exemplified a significant erosion of truthfulness.",
+            "why_exemplary": "These actions embedded disinformation at the center of governance, undermining trust in governmental processes.",
+            "exemplar_type": "primary"
+          }
+        ]
+      }
+    ],
+    "norms_strengthened": [
+      {
+        "trait": "stewardship",
+        "pattern": "Judicial actions aimed at preserving civil rights and transparency showed resilience against executive overreach.",
+        "scope": "institutional",
+        "why_it_matters": "These actions reflect a commitment to maintaining public goods and services despite federal neglect.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk55_stewardship_ex01",
+            "week": 55,
+            "event_ids": [
+              "wk55_IG_005",
+              "wk55_CR_020"
+            ],
+            "developments": [
+              {
+                "development_id": "wk55_IG_005",
+                "development_label": "Ordered the release of asylum seeker Adrian Conejo Arias and his five-year-old son from detention.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk55_CR_020",
+                "development_label": "Secured a ruling halting TPS termination that would have rendered many Haitians undocumented.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Judicial actions to protect democratic integrity reflect a commitment to stewardship.",
+            "why_exemplary": "These initiatives demonstrate a proactive approach to governance that prioritizes public welfare over political expediency.",
+            "exemplar_type": "primary"
+          }
+        ]
+      }
+    ],
+    "direction_of_movement": "collapsing"
+  },
+  "cumulative_condition": {
+    "narrative": "Week 55 continues the trend of significant erosion of the moral floor, with executive actions increasingly prioritizing political interests over adherence to democratic norms. The administration's consolidation of power and punitive measures against dissenting voices deepen concerns about the integrity of public institutions. While there are pockets of resistance, such as judicial interventions and state-level initiatives, they are insufficient to counterbalance the overall trend of deterioration. The trajectory indicates a worsening crisis in democratic accountability and civil rights protections, raising serious concerns about the future of governance in the current political climate.",
+    "trend": "deteriorating",
+    "stress_points": [
+      "centralization of executive power",
+      "disinformation as a governance tool",
+      "erosion of civil rights protections",
+      "politicization of the civil service"
+    ],
+    "sources_of_resilience": [
+      "judicial pushback against executive orders",
+      "civil society mobilization against abuses",
+      "state-level legal challenges"
+    ]
+  },
+  "risk_assessment": {
+    "level": "high",
+    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
+    "forward_signals": [
+      "increased executive orders bypassing legislative input",
+      "escalation of disinformation campaigns",
+      "further attempts to undermine civil rights protections"
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "week_number": 60,
+  "period_label": "Week 60 – 2026-03-07–2026-03-13",
+  "window": {
+    "start": "2026-03-07",
+    "end": "2026-03-13"
+  },
+  "clock_time_public": "8:13 p.m.",
+  "clock_delta_minutes": 0.0,
+  "baseline_traits": [
+    {
+      "name": "character",
+      "definition": "Internal discipline to align words with deeds, to place public duty ahead of personal gain, and to honour the oath of office even when it conflicts with short-term advantage."
+    },
+    {
+      "name": "ethics",
+      "definition": "Commitment to keep a firm boundary between public power and private interest, avoiding conflicts of interest, self-dealing, and the use of office to enrich oneself, family, or allies."
+    },
+    {
+      "name": "restraint",
+      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+    },
+    {
+      "name": "truthfulness",
+      "definition": "Obligation to speak accurately on matters of public consequence, avoid deliberate disinformation, correct false statements, and ensure that citizens are not governed by manufactured unreality."
+    },
+    {
+      "name": "good_faith",
+      "definition": "Adherence to the spirit as well as the letter of democratic rules, keeping promises, respecting outcomes, and avoiding procedural manipulation that defeats the purpose of the law."
+    },
+    {
+      "name": "stewardship",
+      "definition": "Responsibility to maintain and strengthen institutions so they can serve future generations as well as the present, avoiding actions that permanently damage capacity, credibility, or public trust."
+    }
+  ],
+  "weekly_audit": {
+    "summary": "This week saw a deepening of existing patterns of democratic erosion, with significant breaches in character, ethics, restraint, truthfulness, and good faith, while stewardship remained largely unaddressed. The consolidation of power in the executive branch continued unabated, with legislative checks weakened and public trust eroded.",
+    "norms_broken": [
+      {
+        "trait": "character",
+        "pattern": "Executive actions prioritized personal and political gain over public duty, exemplified by Trump's threats to veto legislation unless the SAVE America Act passed.",
+        "severity": "serious",
+        "institutional_response": "Congressional leaders largely acquiesced to executive demands, failing to resist the erosion of legislative authority.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk60_character_ex1",
+            "week": 60,
+            "event_ids": [
+              "wk60_PA_008",
+              "wk60_PA_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk60_PA_008",
+                "development_label": "Trump threatened to veto all legislation unless Congress passed restrictive voting rules.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Trump's ultimatum to Congress exemplified a prioritization of personal political goals over legislative integrity.",
+            "why_exemplary": "This action illustrates a significant breach of character, as it undermines the principle of public duty in favor of personal political objectives.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "The administration's actions blurred lines between public power and private interests, particularly in arms sales and funding decisions.",
+        "severity": "serious",
+        "institutional_response": "Congress failed to effectively challenge the administration's use of emergency powers to bypass legislative oversight.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk60_ethics_ex1",
+            "week": 60,
+            "event_ids": [
+              "wk60_PA_004",
+              "wk60_PA_003"
+            ],
+            "developments": [
+              {
+                "development_id": "wk60_PA_004",
+                "development_label": "Trump bypassed Congress to expedite a large bomb sale to Israel.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The expedited arms sale to Israel without congressional oversight raised significant ethical concerns.",
+            "why_exemplary": "This event highlights a troubling intertwining of public authority and private interests, undermining ethical governance.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "The administration exhibited a lack of self-limitation in military actions and legislative pressures, pushing boundaries of executive power.",
+        "severity": "serious",
+        "institutional_response": "Congressional attempts to reassert authority were largely ineffective, reflecting a failure to uphold checks and balances.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk60_restraint_ex1",
+            "week": 60,
+            "event_ids": [
+              "wk60_PA_001",
+              "wk60_PA_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk60_PA_001",
+                "development_label": "Senate Republicans blocked a war powers resolution on Iran.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The blocking of the war powers resolution demonstrated a significant lack of restraint in executive military authority.",
+            "why_exemplary": "This action reflects a concerning trend of diminishing legislative checks on executive power, undermining democratic norms.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "The administration's public statements often contradicted internal findings and realities, particularly regarding military actions and their consequences.",
+        "severity": "serious",
+        "institutional_response": "Media scrutiny increased, but the administration continued to manipulate narratives without accountability.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk60_truthfulness_ex1",
+            "week": 60,
+            "event_ids": [
+              "wk60_PA_012",
+              "wk60_IM_003"
+            ],
+            "developments": [
+              {
+                "development_id": "wk60_PA_012",
+                "development_label": "Trump denied U.S. responsibility for an Iranian school strike despite evidence.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Trump's denial of responsibility for the school strike exemplified a breach of truthfulness in public discourse.",
+            "why_exemplary": "This denial reflects a broader pattern of disinformation that undermines public trust and accountability.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Legislative processes were manipulated to favor partisan objectives, undermining the spirit of democratic engagement.",
+        "severity": "serious",
+        "institutional_response": "Congressional leaders largely complied with executive demands, failing to uphold democratic principles.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk60_good_faith_ex1",
+            "week": 60,
+            "event_ids": [
+              "wk60_CR_007",
+              "wk60_CR_008"
+            ],
+            "developments": [
+              {
+                "development_id": "wk60_CR_007",
+                "development_label": "The SAVE America Act imposed strict voter ID and proof-of-citizenship rules.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The passage of the SAVE America Act under duress exemplified a breach of good faith in legislative processes.",
+            "why_exemplary": "This act reflects a manipulation of democratic norms to achieve partisan ends, undermining the integrity of the electoral process.",
+            "exemplar_type": "primary"
+          }
+        ]
+      }
+    ],
+    "norms_strengthened": [],
+    "direction_of_movement": "collapsing"
+  },
+  "cumulative_condition": {
+    "narrative": "The trajectory of ethical conditions continues to deteriorate, with Week 60 marking a consolidation of previously established patterns of erosion. The previous week indicated a concerning trend, and this week has further entrenched the normalization of executive overreach, manipulation of democratic processes, and erosion of public trust. The cumulative effect is a democracy increasingly governed by unilateral decisions and diminished accountability.",
+    "trend": "deteriorating",
+    "stress_points": [
+      "consolidation of executive power",
+      "manipulation of voting rights",
+      "erosion of ethical oversight",
+      "disinformation and narrative control"
+    ],
+    "sources_of_resilience": [
+      "judicial pushback in some cases",
+      "public advocacy and dissent",
+      "media scrutiny of government actions"
+    ]
+  },
+  "risk_assessment": {
+    "level": "high",
+    "justification": "The ongoing patterns of erosion, particularly in character, ethics, restraint, truthfulness, and good faith, indicate a high risk of further deterioration. The lack of effective institutional resistance to executive overreach and the manipulation of democratic processes suggest that the foundations of self-government are increasingly at risk.",
+    "forward_signals": [
+      "escalating military actions without congressional approval",
+      "continued push for restrictive voting laws",
+      "increased disinformation campaigns surrounding elections",
+      "further erosion of civil rights protections"
+    ]
+  }
+}

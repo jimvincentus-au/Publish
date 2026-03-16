@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-# build_publish_week_v1 — assemble Substack / Scrivener outputs for a given week
+# build_publish_week_v2 — assemble Substack / Scrivener / Wordpress outputs for a given week,
+# including the weekly digest lane from Step 8
 #
 # v1 goal:
 #   * Read Step 3 "Week N" folder (narrative + metadata + assets)
@@ -55,7 +56,7 @@ FEATURED_IMAGE_JPG_QUALITY = 72
 def setup_logger() -> logging.Logger:
     """Create a simple, file+console logger for the publish script."""
     PUBLISH_LOGS_DIR.mkdir(parents=True, exist_ok=True)
-    log_path = PUBLISH_LOGS_DIR / "build_publish_week_v1.log"
+    log_path = PUBLISH_LOGS_DIR / "build_publish_week_v2.log"
 
     logger = logging.getLogger("publish_week")
     logger.setLevel(logging.INFO)
@@ -96,6 +97,13 @@ class WeekPaths:
     carry_forward: Optional[Path] = None
     moral_floor: Optional[Path] = None
     appendix_image_wide: Optional[Path] = None
+    digest_draft: Optional[Path] = None
+    digest_edit: Optional[Path] = None
+    digest_final: Optional[Path] = None
+    digest_metadata_json: Optional[Path] = None
+    digest_spine_json: Optional[Path] = None
+    digest_image_wide: Optional[Path] = None
+    digest_image_prompt_wide: Optional[Path] = None
 
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
@@ -163,6 +171,39 @@ def discover_week_paths(week_number: int) -> WeekPaths:
     if not appendix_image_wide.exists():
         appendix_image_wide = None
 
+    # Step 8 digest artifacts (optional)
+    digest_draft = week_dir / f"weekly_digest_week{week_number}.md"
+    if not digest_draft.exists():
+        digest_draft = None
+
+    digest_edit = week_dir / f"weekly_digest_edit_week{week_number}.md"
+    if not digest_edit.exists():
+        digest_edit = None
+
+    digest_final = week_dir / f"weekly_digest_final_week{week_number}.md"
+    if not digest_final.exists():
+        digest_final = None
+
+    digest_metadata_json = week_dir / f"weekly_digest_metadata_stack_week{week_number}.json"
+    if not digest_metadata_json.exists():
+        digest_metadata_json = None
+
+    digest_spine_json = week_dir / f"weekly_digest_spine_week{week_number}.json"
+    if not digest_spine_json.exists():
+        digest_spine_json = None
+
+    digest_image_wide = week_dir / f"weekly_digest_image_wide_week{week_number}.png"
+    if not digest_image_wide.exists():
+        jpeg_alt = week_dir / f"weekly_digest_image_wide_week{week_number}.jpeg"
+        if jpeg_alt.exists():
+            digest_image_wide = jpeg_alt
+        else:
+            digest_image_wide = None
+
+    digest_image_prompt_wide = week_dir / f"weekly_digest_image_prompt_wide_week{week_number}.txt"
+    if not digest_image_prompt_wide.exists():
+        digest_image_prompt_wide = None
+
     return WeekPaths(
         week_number=week_number,
         week_dir=week_dir,
@@ -178,6 +219,13 @@ def discover_week_paths(week_number: int) -> WeekPaths:
         carry_forward=carry_forward,
         moral_floor=moral_floor,
         appendix_image_wide=appendix_image_wide,
+        digest_draft=digest_draft,
+        digest_edit=digest_edit,
+        digest_final=digest_final,
+        digest_metadata_json=digest_metadata_json,
+        digest_spine_json=digest_spine_json,
+        digest_image_wide=digest_image_wide,
+        digest_image_prompt_wide=digest_image_prompt_wide,
     )
 
 
@@ -200,6 +248,181 @@ def load_metadata(path: Path) -> Dict[str, Any]:
     except Exception as exc:  # pragma: no cover - defensive
         logger.error("Failed to parse metadata JSON at %s: %s", path, exc)
         return {}
+
+
+def load_optional_json(path: Optional[Path]) -> Dict[str, Any]:
+    if path is None or not path.exists():
+        return {}
+    try:
+        return json.loads(path.read_text(encoding="utf-8"))
+    except Exception as exc:  # pragma: no cover - defensive
+        logger.error("Failed to parse JSON at %s: %s", path, exc)
+        return {}
+
+
+def select_digest_body_path(paths: WeekPaths) -> Optional[Path]:
+    for candidate in [paths.digest_final, paths.digest_edit, paths.digest_draft]:
+        if candidate is not None and candidate.exists():
+            return candidate
+    return None
+
+
+def _digest_week_prefix(week: int, spine_meta: Dict[str, Any]) -> str:
+    period_label = first_key(spine_meta, ["period_label"], default="").strip()
+    if period_label:
+        return period_label
+    window = spine_meta.get("window")
+    if isinstance(window, dict):
+        start_date = window.get("start_date")
+        end_date = window.get("end_date")
+        if isinstance(start_date, str) and isinstance(end_date, str) and start_date and end_date:
+            return f"Week {week}  {start_date}{end_date}".replace("\u0007", "  ")
+    return f"Week {week}"
+
+
+def get_digest_title_and_subtitle(week: int, spine_meta: Dict[str, Any], digest_meta: Dict[str, Any]) -> tuple[str, str]:
+    title = first_key(
+        spine_meta,
+        ["article_title", "title"],
+        default="",
+    ).strip()
+    if not title:
+        title = first_key(
+            digest_meta,
+            ["title", "Title", "post_title", "PostTitle"],
+            default=f"This Week in Democracy: Week {week}",
+        ).strip()
+
+    subtitle = first_key(
+        spine_meta,
+        ["article_subtitle", "subtitle"],
+        default="",
+    ).strip()
+    if not subtitle:
+        short_synopsis = first_key(
+            digest_meta,
+            ["short_synopsis", "Short Synopsis", "ShortSynopsis"],
+            default="",
+        ).strip()
+        prefix = _digest_week_prefix(week, spine_meta)
+        subtitle = f"{prefix}  {short_synopsis}".replace("\u0014", "  ") if short_synopsis else prefix
+
+    return title or f"This Week in Democracy: Week {week}", subtitle
+
+
+def build_digest_substack_markdown(
+    *,
+    week: int,
+    digest_text: str,
+    digest_meta: Dict[str, Any],
+    spine_meta: Dict[str, Any],
+    image_name: str = "",
+) -> str:
+    title, subtitle = get_digest_title_and_subtitle(week, spine_meta, digest_meta)
+    long_synopsis = first_key(digest_meta, ["long_synopsis", "Long Synopsis", "LongSynopsis"], default="")
+    short_synopsis = first_key(digest_meta, ["short_synopsis", "Short Synopsis", "ShortSynopsis"], default="")
+    seo_description = first_key(digest_meta, ["seo_description", "SEO Description", "SEODescription"], default="")
+
+    tags = digest_meta.get("internal_tags") or digest_meta.get("InternalTags") or digest_meta.get("tags") or digest_meta.get("Tags") or []
+    if isinstance(tags, str):
+        tags = [t.strip() for t in tags.split(",") if t.strip()]
+    tags_str = ", ".join(str(t) for t in tags)
+
+    header_lines = ["---", f'title: "{title}"']
+    if subtitle:
+        header_lines.append(f'subtitle: "{subtitle}"')
+    header_lines.append(f"week: {week}")
+    if tags_str:
+        header_lines.append(f"tags: [{tags_str}]")
+    header_lines.append("---")
+    header_lines.append("")
+    header_lines.append("<!-- Generated by build_publish_week_v2 (digest) -->")
+    if image_name:
+        header_lines.append(f"<!-- Header image: {image_name} -->")
+    header_lines.append("")
+
+    parts: list[str] = ["\n".join(header_lines), f"# {title}"]
+    if subtitle:
+        parts.extend(["", f"*{subtitle}*"])
+    if image_name:
+        parts.extend(["", f"![Header image]({image_name})"])
+    parts.extend(["", digest_text.rstrip(), ""])
+    if long_synopsis or short_synopsis or seo_description:
+        parts.append("<!-- Synopses for cross-posting -->")
+        if long_synopsis:
+            parts.append(f"Long Synopsis: {long_synopsis}")
+        if short_synopsis:
+            parts.append(f"Short Synopsis: {short_synopsis}")
+        if seo_description:
+            parts.append(f"SEO Description: {seo_description}")
+        parts.append("")
+    return "\n".join(parts) + "\n"
+
+
+def build_digest_scrivener_markdown(
+    *,
+    week: int,
+    digest_text: str,
+    digest_meta: Dict[str, Any],
+    spine_meta: Dict[str, Any],
+) -> str:
+    title, subtitle = get_digest_title_and_subtitle(week, spine_meta, digest_meta)
+    text = (digest_text or "").replace("\r\n", "\n").replace("\r", "\n").strip()
+    text = re.sub(r"\n\s*\n+", "\n", text)
+    lines: list[str] = [title]
+    if subtitle:
+        lines.append(subtitle)
+    if text:
+        lines.append(text)
+    return "\n".join(lines).rstrip() + "\n"
+
+
+def digest_text_to_wordpress_html(
+    *,
+    week: int,
+    digest_text: str,
+    digest_meta: Dict[str, Any],
+    spine_meta: Dict[str, Any],
+) -> str:
+    def esc(s: str) -> str:
+        return (
+            (s or "")
+            .replace("&", "&amp;")
+            .replace("<", "&lt;")
+            .replace(">", "&gt;")
+            .replace('"', "&quot;")
+        )
+
+    title, subtitle = get_digest_title_and_subtitle(week, spine_meta, digest_meta)
+    text = (digest_text or "").replace("\r\n", "\n").replace("\r", "\n").strip()
+    if re.search(r"\n\s*\n+", text):
+        blocks = re.split(r"\n\s*\n+", text)
+    else:
+        blocks = [ln for ln in text.split("\n") if ln.strip()]
+
+    out: list[str] = []
+    out.append("<!-- Generated by build_publish_week_v2 (WordPress digest HTML) -->")
+    out.append(f"<h1>{esc(title)}</h1>")
+    if subtitle:
+        out.append(f"<p><em>{esc(subtitle)}</em></p>")
+
+    for b in blocks:
+        b = (b or "").strip()
+        if not b:
+            continue
+        b = re.sub(r"\s*\n\s*", " ", b).strip()
+        if b.startswith("### "):
+            out.append(f"<h3>{esc(b[4:].strip())}</h3>")
+            continue
+        if b.startswith("## "):
+            out.append(f"<h2>{esc(b[3:].strip())}</h2>")
+            continue
+        if b.startswith("# "):
+            out.append(f"<h2>{esc(b[2:].strip())}</h2>")
+            continue
+        out.append(f"<p>{esc(b)}</p>")
+
+    return "\n".join(out).rstrip() + "\n"
 
 
 def first_key(d: Dict[str, Any], keys: list[str], default: str = "") -> str:
@@ -1592,6 +1815,7 @@ def build_publish_week(
     use_publish: bool = False,
     include_appendix: bool = True,
     include_appendix_source: bool = True,
+    include_digest: bool = True,
     build_substack: bool = True,
     build_scrivener: bool = True,
     seal_wordpress: bool = True,
@@ -1687,6 +1911,17 @@ def build_publish_week(
     ensure_exists(paths.metadata_json, "metadata_stack JSON")
     metadata = load_metadata(paths.metadata_json)
 
+    digest_body_path = select_digest_body_path(paths) if include_digest else None
+    digest_text = load_text(digest_body_path) if digest_body_path is not None else ""
+    digest_meta = load_optional_json(paths.digest_metadata_json) if include_digest else {}
+    digest_spine = load_optional_json(paths.digest_spine_json) if include_digest else {}
+
+    if include_digest:
+        if digest_body_path is None:
+            logger.warning("No digest body found for Week %s; digest publish outputs will be skipped.", week_number)
+        else:
+            logger.info("Using digest body for Week %s: %s", week_number, digest_body_path)
+
     # Appendix
     if include_appendix:
         appendix_text_md = build_appendix_from_json(paths.appendix)
@@ -1728,6 +1963,15 @@ def build_publish_week(
                 week_number=week_number,
             )
 
+        # Digest featured image
+        if include_digest and paths.digest_image_wide is not None:
+            copy_featured_image(
+                src=paths.digest_image_wide,
+                dst_dir=image_dest_dir,
+                dst_name=f"week{week_number:02d}-digest-featured.jpg",
+                week_number=week_number,
+            )
+
     narrative_text = load_text(narrative_path)
 
     # Main article outputs (no embedded appendix in body)
@@ -1753,6 +1997,26 @@ def build_publish_week(
             include_appendix=False,
         )
 
+    digest_substack_md = ""
+    digest_scrivener_md = ""
+    if include_digest and digest_body_path is not None:
+        digest_image_name = f"week{week_number:02d}-digest-featured.jpg" if paths.digest_image_wide is not None else ""
+        if build_substack:
+            digest_substack_md = build_digest_substack_markdown(
+                week=week_number,
+                digest_text=digest_text,
+                digest_meta=digest_meta,
+                spine_meta=digest_spine,
+                image_name=digest_image_name,
+            )
+        if build_scrivener:
+            digest_scrivener_md = build_digest_scrivener_markdown(
+                week=week_number,
+                digest_text=digest_text,
+                digest_meta=digest_meta,
+                spine_meta=digest_spine,
+            )
+
     # Appendix companion outputs
     if include_appendix:
         weekly_summary = load_weekly_summary(paths)
@@ -1776,12 +2040,17 @@ def build_publish_week(
     scrivener_path = None
     scrivener_appendix_path = None
     appendix_substack_path = None
+    digest_substack_path = None
+    digest_scrivener_path = None
+    digest_synopsis_path = None
+    digest_notes_path = None
 
     if build_substack:
         substack_dir = SUBSTACK_OUTPUT_DIR / f"Week {week_number}"
         substack_dir.mkdir(parents=True, exist_ok=True)
         substack_path = substack_dir / f"week{week_number:02d}_substack.md"
         appendix_substack_path = substack_dir / f"week{week_number:02d}_appendix_substack.md" if include_appendix else None
+        digest_substack_path = substack_dir / f"week{week_number:02d}_digest_substack.md" if include_digest and digest_body_path is not None else None
     else:
         substack_md = ""
         substack_dir = None
@@ -1794,6 +2063,9 @@ def build_publish_week(
         scrivener_filename = make_scrivener_filename(week_number, metadata)
         scrivener_path = scrivener_dir / f"{scrivener_filename}.md"
         scrivener_appendix_path = scrivener_dir / f"week{week_number:02d}_appendix.md" if include_appendix else None
+        digest_scrivener_path = scrivener_dir / f"week{week_number:02d}_digest.md" if include_digest and digest_body_path is not None else None
+        digest_synopsis_path = scrivener_dir / f"week{week_number:02d}_digest_synopsis.txt" if include_digest and digest_body_path is not None else None
+        digest_notes_path = scrivener_dir / f"week{week_number:02d}_digest_notes.txt" if include_digest and digest_body_path is not None else None
     else:
         scrivener_md = ""
         scrivener_dir = None
@@ -1813,6 +2085,15 @@ def build_publish_week(
         notes_path = scrivener_dir / f"week{week_number:02d}_scrivener_notes.txt"
         synopsis_content = (long_synopsis or "").rstrip() + "\n"
         notes_content = format_metadata_for_notes(week_number, metadata)
+
+    digest_synopsis_content = ""
+    digest_notes_content = ""
+    if build_scrivener and digest_scrivener_path is not None and digest_synopsis_path is not None and digest_notes_path is not None:
+        digest_long_synopsis = first_key(digest_meta, ["long_synopsis", "Long Synopsis", "LongSynopsis"], default="")
+        if not digest_long_synopsis:
+            digest_long_synopsis = first_key(digest_meta, ["short_synopsis", "Short Synopsis", "ShortSynopsis"], default="")
+        digest_synopsis_content = (digest_long_synopsis or "").rstrip() + "\n"
+        digest_notes_content = format_metadata_for_notes(week_number, digest_meta or digest_spine)
 
     # ── Build / append/overwrite appendix artifacts (only if enabled) ──────────────
     def _rewrite_scrivener_appendix(existing_content: str, new_appendix: str) -> str:
@@ -1899,6 +2180,17 @@ def build_publish_week(
         if write_output(wp_narrative_path, wp_narrative_html, force=force):
             wordpress_created_files.append(wp_narrative_path)
 
+        if include_digest and digest_body_path is not None:
+            wp_digest_html = digest_text_to_wordpress_html(
+                week=week_number,
+                digest_text=digest_text,
+                digest_meta=digest_meta,
+                spine_meta=digest_spine,
+            )
+            wp_digest_path = wordpress_week_dir / f"week{week_number:02d}-digest.html"
+            if write_output(wp_digest_path, wp_digest_html, force=force):
+                wordpress_created_files.append(wp_digest_path)
+
         # Appendix HTML (if enabled)
         if include_appendix:
             wp_appendix_summary = weekly_summary
@@ -1929,6 +2221,10 @@ def build_publish_week(
     wrote_notes = False
     wrote_substack_appendix = False
     wrote_scrivener_appendix = False
+    wrote_digest_substack = False
+    wrote_digest_scrivener = False
+    wrote_digest_synopsis = False
+    wrote_digest_notes = False
 
     if build_substack and substack_path is not None:
         wrote_substack_main = write_output(substack_path, substack_md, force=force)
@@ -1938,7 +2234,14 @@ def build_publish_week(
         wrote_synopsis = write_output(synopsis_path, synopsis_content, force=force)
     if build_scrivener and notes_path is not None:
         wrote_notes = write_output(notes_path, notes_content, force=force)
-
+    if build_substack and digest_substack_path is not None and digest_substack_md:
+        wrote_digest_substack = write_output(digest_substack_path, digest_substack_md, force=force)
+    if build_scrivener and digest_scrivener_path is not None and digest_scrivener_md:
+        wrote_digest_scrivener = write_output(digest_scrivener_path, digest_scrivener_md, force=force)
+    if build_scrivener and digest_synopsis_path is not None:
+        wrote_digest_synopsis = write_output(digest_synopsis_path, digest_synopsis_content, force=force)
+    if build_scrivener and digest_notes_path is not None:
+        wrote_digest_notes = write_output(digest_notes_path, digest_notes_content, force=force)
     if build_substack and include_appendix and appendix_substack_path is not None and appendix_substack_md is not None:
         wrote_substack_appendix = write_output(appendix_substack_path, appendix_substack_md, force=force)
     if build_scrivener and include_appendix and scrivener_appendix_path is not None and scrivener_appendix_md is not None:
@@ -1946,19 +2249,23 @@ def build_publish_week(
 
 
     logger.info(
-        "WRITE SUMMARY (Week %s) substack_main=%s scrivener_main=%s synopsis=%s notes=%s substack_appendix=%s scrivener_appendix=%s",
+        "WRITE SUMMARY (Week %s) substack_main=%s scrivener_main=%s synopsis=%s notes=%s digest_substack=%s digest_scrivener=%s digest_synopsis=%s digest_notes=%s substack_appendix=%s scrivener_appendix=%s",
         week_number,
         "wrote" if wrote_substack_main else "skipped",
         "wrote" if wrote_scrivener_main else "skipped",
         "wrote" if wrote_synopsis else "skipped",
         "wrote" if wrote_notes else "skipped",
+        "wrote" if wrote_digest_substack else "skipped",
+        "wrote" if wrote_digest_scrivener else "skipped",
+        "wrote" if wrote_digest_synopsis else "skipped",
+        "wrote" if wrote_digest_notes else "skipped",
         "wrote" if wrote_substack_appendix else "skipped",
         "wrote" if wrote_scrivener_appendix else "skipped",
     )
 
     # Log outputs
     if build_scrivener:
-        scrivener_files = [scrivener_path, synopsis_path, notes_path]
+        scrivener_files = [scrivener_path, synopsis_path, notes_path, digest_scrivener_path, digest_synopsis_path, digest_notes_path]
         if include_appendix and scrivener_appendix_path is not None and scrivener_appendix_md is not None:
             scrivener_files.append(scrivener_appendix_path)
         logger.info("Scrivener outputs for Week %s: %s", week_number, ", ".join(str(p) for p in scrivener_files if p is not None))
@@ -1967,12 +2274,22 @@ def build_publish_week(
 
     if build_substack:
         substack_files = [substack_path] if substack_path is not None else []
+        if digest_substack_path is not None:
+            substack_files.append(digest_substack_path)
+
+        if include_digest and substack_dir is not None and paths.digest_image_wide is not None:
+            digest_substack_image_path = substack_dir / paths.digest_image_wide.name
+            try:
+                shutil.copy(paths.digest_image_wide, digest_substack_image_path)
+                logger.info("COPIED: %s -> %s", paths.digest_image_wide, digest_substack_image_path)
+                substack_files.append(digest_substack_image_path)
+            except Exception as exc:
+                logger.warning("COPY FAILED: %s -> %s (%s)", paths.digest_image_wide, digest_substack_image_path, exc)
+
         if include_appendix and appendix_substack_path is not None and appendix_substack_md is not None:
             substack_files.append(appendix_substack_path)
         substack_files.extend(substack_created_files)
         logger.info("Substack outputs for Week %s: %s", week_number, ", ".join(str(p) for p in substack_files if p is not None))
-    else:
-        logger.info("Substack outputs for Week %s: (disabled)", week_number)
 
     if build_wordpress:
         if wordpress_created_files:
@@ -2013,6 +2330,14 @@ def parse_args(argv: Optional[list[str]] = None) -> argparse.Namespace:
         help=(
             "Build outputs without an events appendix. "
             "By default, an appendix is included using events_appendix_weekNN.json."
+        ),
+    )
+    parser.add_argument(
+        "--no-digest",
+        action="store_true",
+        help=(
+            "Build outputs without the Step 8 weekly digest. "
+            "By default, digest outputs are included whenever the digest artifacts exist."
         ),
     )
     parser.add_argument(
@@ -2106,6 +2431,17 @@ def main(argv: Optional[list[str]] = None) -> None:
                 ", ".join(overlap),
             )
 
+    logger.info(
+        "Options: appendix=%s appendix_source=%s digest=%s substack=%s scrivener=%s wordpress=%s seal_wordpress=%s",
+        include_appendix,
+        include_appendix_source,
+        not args.no_digest,
+        build_substack,
+        build_scrivener,
+        build_wordpress,
+        seal_wordpress,
+    )
+
     current_week: Optional[int] = None
     try:
         for w in range(start, start + count):
@@ -2116,6 +2452,7 @@ def main(argv: Optional[list[str]] = None) -> None:
                 use_publish=args.use_publish,
                 include_appendix=include_appendix,
                 include_appendix_source=include_appendix_source,
+                include_digest=not args.no_digest,
                 build_substack=build_substack,
                 build_scrivener=build_scrivener,
                 build_wordpress=build_wordpress,

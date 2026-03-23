@@ -1,6 +1,6 @@
 {
   "week_number": 52,
-  "period_label": "Week 52 – 2026-01-10–2026-01-16",
+  "period_label": "Week 52",
   "window": {
     "start": "2026-01-10",
     "end": "2026-01-16"
@@ -34,77 +34,221 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week saw a continuation of serious breaches in character, ethics, restraint, and truthfulness, with the executive branch further consolidating power and undermining accountability mechanisms. The aggressive immigration enforcement in Minnesota, coupled with the administration's manipulation of narratives surrounding the killing of Renee Good, exemplified a troubling trend of prioritizing state power over civil rights and institutional integrity. While there were instances of institutional pushback, they were largely reactive and insufficient to counter the overarching trend of power consolidation and erosion of checks and balances.",
+    "summary": "This week saw a continuation and escalation of the erosion of democratic norms, particularly through aggressive executive actions in immigration enforcement and economic policy. While some institutional resistance emerged, it was largely reactive and insufficient to counterbalance the overarching trend of consolidation and disregard for established checks and balances.",
     "norms_broken": [
       {
         "trait": "character",
-        "pattern": "The president's endorsement of baseless claims regarding Renee Good and the framing of federal agents as victims reflected a prioritization of personal power over public duty.",
+        "pattern": "Executive actions prioritized political interests over public duty, particularly through unilateral military operations and immigration enforcement.",
         "severity": "serious",
-        "institutional_response": "Congress and civil society attempted to challenge these narratives, but the executive's narrative control remained dominant."
+        "institutional_response": "Limited resistance from institutions, highlighting a weakening of checks on executive power.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk52_character_ex01",
+            "week": 52,
+            "event_ids": [
+              "wk52_PA_001",
+              "wk52_PA_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk52_PA_001",
+                "development_label": "Seized control of Venezuelan oil without full congressional involvement.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk52_PA_002",
+                "development_label": "Withheld $129 billion in federal funding from Minnesota as punishment.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The unilateral seizure of Venezuelan oil revenue exemplified a disregard for democratic norms and the legislative process.",
+            "why_exemplary": "These actions illustrated a prioritization of executive power over democratic accountability, undermining public trust.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "ethics",
-        "pattern": "The administration's actions blurred ethical boundaries, particularly in the context of immigration enforcement and the handling of the Good shooting.",
+        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the use of executive power to reward allies and punish critics.",
         "severity": "serious",
-        "institutional_response": "Judicial challenges were limited, and the executive continued its course without significant checks."
+        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk52_ethics_ex01",
+            "week": 52,
+            "event_ids": [
+              "wk52_PA_001",
+              "wk52_PA_006"
+            ],
+            "developments": [
+              {
+                "development_id": "wk52_PA_001",
+                "development_label": "Seized control of Venezuelan oil for U.S. control.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk52_PA_006",
+                "development_label": "Announced a 25% tariff on any country doing business with Iran.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The intertwining of military and economic interests in Venezuela exemplified a significant ethical breach.",
+            "why_exemplary": "These actions demonstrated a willingness to exploit public resources for private gain, undermining ethical governance.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "restraint",
-        "pattern": "The administration's aggressive immigration policies and militarized responses to dissent demonstrated a lack of self-limitation and respect for democratic norms.",
+        "pattern": "The administration's aggressive use of executive orders and military actions showed a lack of self-limitation.",
         "severity": "serious",
-        "institutional_response": "Some courts attempted to assert checks, but these efforts were often insufficient."
+        "institutional_response": "Limited checks from Congress or courts, indicating a weakening of institutional norms.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk52_restraint_ex01",
+            "week": 52,
+            "event_ids": [
+              "wk52_PA_003",
+              "wk52_PA_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk52_PA_003",
+                "development_label": "Declared a national emergency over Venezuelan oil revenue.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk52_PA_009",
+                "development_label": "Threatened to invoke the Insurrection Act in Minnesota.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The lack of restraint in asserting military authority for resource acquisition exemplified a disregard for democratic norms.",
+            "why_exemplary": "These actions illustrated a significant departure from the principles of self-limitation and respect for institutional checks.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "The administration's manipulation of narratives surrounding the Good shooting and immigration enforcement contributed to a manufactured reality that undermined public trust.",
+        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding military actions and immigration enforcement.",
         "severity": "serious",
-        "institutional_response": "Media and civil society worked to counter misinformation, but the scale of disinformation was significant."
+        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk52_truthfulness_ex01",
+            "week": 52,
+            "event_ids": [
+              "wk52_IM_001",
+              "wk52_IM_008"
+            ],
+            "developments": [
+              {
+                "development_id": "wk52_IM_001",
+                "development_label": "Endorsed a baseless claim that Renee Good was part of a paid leftwing agitator network.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk52_IM_008",
+                "development_label": "Conducted a smear campaign falsely labeling Renee Good a terrorist.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The manipulation of narratives surrounding state violence exemplified a significant erosion of truthfulness.",
+            "why_exemplary": "These actions embedded disinformation at the center of governance, undermining trust in governmental processes.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "good_faith",
-        "pattern": "Procedural manipulation was evident in the executive's attempts to evade transparency laws and undermine accountability mechanisms.",
+        "pattern": "The administration's actions undermined the spirit of democratic rules, particularly in military and immigration processes.",
         "severity": "serious",
-        "institutional_response": "Legal challenges were initiated, but they were largely reactionary."
-      },
-      {
-        "trait": "stewardship",
-        "pattern": "The prioritization of military and economic interests over public welfare indicated a failure to protect institutional integrity and public trust.",
-        "severity": "serious",
-        "institutional_response": "Civil society groups mobilized to resist these changes, but their efforts were insufficient."
+        "institutional_response": "Limited institutional resistance, with some courts attempting to uphold democratic norms.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk52_good_faith_ex01",
+            "week": 52,
+            "event_ids": [
+              "wk52_IM_020",
+              "wk52_IM_027"
+            ],
+            "developments": [
+              {
+                "development_id": "wk52_IM_020",
+                "development_label": "Sought sensitive voter data from states under the guise of roll accuracy.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk52_IM_027",
+                "development_label": "Declined to investigate the Renee Good killing as a civil-rights case.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The manipulation of legal frameworks for partisan advantage exemplified a breach of good faith in democratic processes.",
+            "why_exemplary": "These actions demonstrated a willingness to manipulate legal frameworks for partisan advantage, undermining the integrity of democratic institutions.",
+            "exemplar_type": "primary"
+          }
+        ]
       }
     ],
     "norms_strengthened": [
       {
         "trait": "stewardship",
-        "pattern": "State-level investigations and lawsuits against federal immigration enforcement highlighted efforts to hold federal agents accountable for abuses.",
-        "scope": "cross-partisan",
-        "why_it_matters": "These actions are essential for maintaining institutional integrity and protecting civil rights."
+        "pattern": "Judicial actions aimed at preserving civil rights and transparency showed resilience against executive overreach.",
+        "scope": "institutional",
+        "why_it_matters": "These actions reflect a commitment to maintaining public goods and services despite federal neglect.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk52_stewardship_ex01",
+            "week": 52,
+            "event_ids": [
+              "wk52_IG_003",
+              "wk52_IG_020"
+            ],
+            "developments": [
+              {
+                "development_id": "wk52_IG_003",
+                "development_label": "Enacted the Epstein Files Transparency Act mandating DOJ release of Epstein records.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk52_IG_020",
+                "development_label": "Ordered DOJ to explain noncompliance with the Epstein Files Transparency Act.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Judicial actions to protect democratic integrity reflect a commitment to stewardship.",
+            "why_exemplary": "These initiatives demonstrate a proactive approach to governance that prioritizes public welfare over political expediency.",
+            "exemplar_type": "primary"
+          }
+        ]
       }
     ],
     "direction_of_movement": "collapsing"
   },
   "cumulative_condition": {
-    "narrative": "The moral floor continues to deteriorate, with the executive branch increasingly treating public institutions as extensions of personal power. This week, the aggressive assertion of executive authority, coupled with a disregard for truthfulness and ethics, has further strained the capacity of democratic institutions to function effectively. While there are signs of resistance from the judiciary and civil society, these efforts have not yet been able to counter the significant shifts occurring at the federal level. The cumulative effect of these actions has resulted in a net loss of democratic safety, as indicated by the slight inward movement of the Democracy Clock.",
+    "narrative": "Week 52 continues the trend of significant erosion of the moral floor, with executive actions increasingly prioritizing political interests over adherence to democratic norms. The administration's consolidation of power and punitive measures against dissenting voices deepen concerns about the integrity of public institutions. While there are pockets of resistance, such as judicial interventions and state-level initiatives, they are insufficient to counterbalance the overall trend of deterioration. The trajectory indicates a worsening crisis in democratic accountability and civil rights protections, raising serious concerns about the future of governance in the current political climate.",
     "trend": "deteriorating",
     "stress_points": [
-      "militarization of domestic law enforcement",
+      "centralization of executive power",
+      "disinformation as a governance tool",
       "erosion of civil rights protections",
-      "disinformation from the executive",
-      "politicization of federal agencies"
+      "politicization of the civil service"
     ],
     "sources_of_resilience": [
-      "judicial pushback against unconstitutional orders",
-      "active civil society engagement",
+      "judicial pushback against executive orders",
+      "civil society mobilization against abuses",
       "state-level legal challenges"
     ]
   },
   "risk_assessment": {
     "level": "high",
-    "justification": "The current trajectory indicates a high level of risk for further erosion of democratic norms. The aggressive use of executive power, coupled with a lack of accountability and transparency, poses significant threats to the integrity of democratic institutions. If these patterns continue, the potential for further abuses of power and the normalization of authoritarian practices increases.",
+    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
     "forward_signals": [
-      "escalating executive orders bypassing legislative authority",
-      "increased disinformation campaigns targeting public trust",
-      "further attempts to undermine judicial independence"
+      "increased executive orders bypassing legislative input",
+      "escalation of disinformation campaigns",
+      "further attempts to undermine civil rights protections"
     ]
   }
 }

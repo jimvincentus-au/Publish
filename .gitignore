@@ -18,7 +18,7 @@ Logs/
 # Publish build outputs
 # -----------------------------
 # Deterministic, regenerable artifacts
-Publish/Output/**
+# Publish/Output/**
 
 # Allow documentation explaining ignored outputs
 !Publish/Output/README.md

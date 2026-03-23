@@ -34,83 +34,190 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week saw a significant escalation in executive overreach, particularly through unauthorized military action and aggressive immigration enforcement tactics. The administration's actions reflected a troubling disregard for democratic norms, including a lack of restraint and truthfulness. Institutional responses were mixed, with some pushback from Congress and the judiciary, but overall, the trajectory indicates a further weakening of the moral floor.",
+    "summary": "This week saw significant erosion of the moral floor, with multiple breaches across character, ethics, truthfulness, and good faith, while some institutional resistance was evident but insufficient to counterbalance the overall trend of deterioration.",
     "norms_broken": [
       {
         "trait": "character",
-        "pattern": "The president's unilateral decision to bomb Iran without congressional authorization prioritized personal and partisan interests over public duty.",
+        "pattern": "Executive actions prioritized political gain over public duty, particularly through the unilateral bombing of Iran without congressional authorization.",
         "severity": "serious",
-        "institutional_response": "Congress attempted to assert its authority through War Powers resolutions, but these efforts were largely ineffective."
+        "institutional_response": "Congress attempted to push back but lacked sufficient unity and resolve to challenge the executive effectively.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk23_character_ex01",
+            "week": 23,
+            "event_ids": [
+              "wk23_PA_001",
+              "wk23_PA_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk23_PA_001",
+                "development_label": "Ordered large-scale airstrikes on Iranian nuclear facilities without congressional authorization.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk23_PA_002",
+                "development_label": "Publicly dismissed U.S. intelligence assessments on Iran’s nuclear intentions.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The unilateral bombing of Iran and dismissal of intelligence assessments exemplified prioritization of political objectives over adherence to democratic norms.",
+            "why_exemplary": "These actions illustrated a shift towards using executive power for political ends, undermining the integrity of public institutions.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "ethics",
-        "pattern": "The administration's actions blurred the lines between public office and private interests, particularly in the context of military and immigration policies.",
+        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the use of executive power to punish dissenting institutions and individuals.",
         "severity": "serious",
-        "institutional_response": "While some congressional leaders raised concerns, the administration continued its agenda with little regard for ethical boundaries."
-      },
-      {
-        "trait": "restraint",
-        "pattern": "The deployment of military forces and aggressive immigration raids demonstrated a lack of self-limitation in the exercise of executive power.",
-        "severity": "serious",
-        "institutional_response": "Legislative bodies and courts attempted to push back, but their efforts were often insufficient against the executive's aggressive maneuvers."
+        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk23_ethics_ex01",
+            "week": 23,
+            "event_ids": [
+              "wk23_PA_005",
+              "wk23_IM_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk23_PA_005",
+                "development_label": "Revoked security clearances of several former senior officials during an international crisis.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk23_IM_005",
+                "development_label": "Terminated 639 Voice of America employees as part of dismantling the U.S. Agency for Global Media.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The revocation of security clearances and mass firings at VOA exemplified a disregard for ethical boundaries.",
+            "why_exemplary": "These actions demonstrated a willingness to use public resources as tools for political leverage.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "The administration engaged in disinformation regarding the Iran strikes and immigration policies, undermining public trust.",
+        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding the characterization of the Iran strikes and ongoing election fraud narratives.",
         "severity": "serious",
-        "institutional_response": "Media and civil society organizations worked to counter misinformation, but the scale of disinformation was significant."
+        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk23_truthfulness_ex01",
+            "week": 23,
+            "event_ids": [
+              "wk23_IM_001",
+              "wk23_IM_030"
+            ],
+            "developments": [
+              {
+                "development_id": "wk23_IM_001",
+                "development_label": "Contradicted U.S. intelligence and relied on disputed claims to justify Iran strikes.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk23_IM_030",
+                "development_label": "Continued to promote debunked 2020 election fraud narratives while facing related indictments.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The reliance on disputed claims to justify military action and the persistence of election fraud narratives undermined trust in official narratives.",
+            "why_exemplary": "These actions embedded disinformation at the center of governance, undermining trust in governmental processes.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "good_faith",
-        "pattern": "The administration's actions often disregarded the spirit of democratic processes, particularly in handling military actions and immigration enforcement.",
+        "pattern": "Congress attempted to invoke War Powers resolutions in response to the president's actions, but the efforts were largely symbolic and ineffective.",
         "severity": "serious",
-        "institutional_response": "Legal challenges were initiated, but they were largely reactionary and did not prevent the initial actions."
-      },
-      {
-        "trait": "stewardship",
-        "pattern": "The politicization of federal agencies and the dismantling of oversight mechanisms indicated a disregard for institutional integrity.",
-        "severity": "serious",
-        "institutional_response": "Some civil society groups mobilized to resist these changes, but their efforts were not sufficient to halt the administration's agenda."
+        "institutional_response": "Congressional attempts to assert authority were met with executive resistance and limited impact.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk23_good_faith_ex01",
+            "week": 23,
+            "event_ids": [
+              "wk23_IG_001",
+              "wk23_IG_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk23_IG_001",
+                "development_label": "Criticized Trump’s Iran strikes as unconstitutional and pushed War Powers resolutions.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk23_IG_002",
+                "development_label": "Voted to table impeachment articles against Trump over unauthorized Iran strikes.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Congress's attempts to assert its authority over military action highlighted the challenges of maintaining checks on executive power.",
+            "why_exemplary": "These actions reaffirmed the importance of legislative oversight, even as they faced significant obstacles.",
+            "exemplar_type": "primary"
+          }
+        ]
       }
     ],
     "norms_strengthened": [
       {
-        "trait": "good_faith",
-        "pattern": "Some congressional leaders and judges pushed back against unauthorized military actions and sought to uphold democratic principles.",
-        "scope": "institutional",
-        "why_it_matters": "These actions are crucial for maintaining checks and balances, reinforcing the importance of the rule of law in the face of executive overreach."
-      },
-      {
         "trait": "stewardship",
-        "pattern": "Civil society organizations mobilized to challenge executive actions and protect civil rights, reflecting a commitment to democratic stewardship.",
-        "scope": "public",
-        "why_it_matters": "Active civic engagement is essential for holding power accountable and ensuring that democratic values are upheld."
+        "pattern": "Judicial actions reinforced institutional autonomy and accountability, demonstrating a commitment to uphold democratic norms.",
+        "scope": "institutional",
+        "why_it_matters": "These actions are crucial for maintaining the integrity of democratic institutions and protecting civil rights.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk23_stewardship_ex01",
+            "week": 23,
+            "event_ids": [
+              "wk23_IG_004",
+              "wk23_IG_006"
+            ],
+            "developments": [
+              {
+                "development_id": "wk23_IG_004",
+                "development_label": "Ruled that several GOP reconciliation provisions violated Senate rules.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk23_IG_006",
+                "development_label": "Rejected efforts to overrule the parliamentarian and pledged to amend the bill instead.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Judicial rulings reinforced institutional autonomy and accountability, demonstrating a commitment to uphold democratic norms.",
+            "why_exemplary": "These actions are crucial for maintaining the integrity of democratic institutions and protecting civil rights.",
+            "exemplar_type": "primary"
+          }
+        ]
       }
     ],
     "direction_of_movement": "collapsing"
   },
   "cumulative_condition": {
-    "narrative": "The trajectory of the moral floor has sharply deteriorated as the administration has rapidly implemented a series of actions that undermine democratic norms and institutions. The aggressive assertion of executive power, coupled with a disregard for truthfulness and ethics, has created a precarious environment for democratic governance. While there are signs of resistance from the judiciary and civil society, these efforts have not yet been able to counter the significant shifts occurring at the federal level. The cumulative effect of these actions has resulted in a net loss of democratic safety, as indicated by the movement of the Democracy Clock.",
+    "narrative": "Week 23 marked a significant escalation in the erosion of the moral floor, with the executive branch increasingly bypassing constitutional norms and using military power unilaterally. The administration's actions reflected a systematic approach to prioritize political objectives over adherence to established legal frameworks. While there were notable judicial pushbacks, they were insufficient to counterbalance the overall trend of deterioration. The trajectory indicates a deepening crisis in democratic accountability and civil rights protections, raising serious concerns about the future of governance in the current political climate.",
     "trend": "deteriorating",
     "stress_points": [
-      "militarization of domestic law enforcement",
+      "centralization of executive power",
+      "disinformation as a governance tool",
       "erosion of civil rights protections",
-      "disinformation from the executive",
-      "politicization of federal agencies"
+      "politicization of the civil service"
     ],
     "sources_of_resilience": [
-      "judicial pushback against unconstitutional orders",
-      "active civil society engagement",
+      "judicial pushback against executive orders",
+      "civil society mobilization against abuses",
       "state-level legal challenges"
     ]
   },
   "risk_assessment": {
     "level": "high",
-    "justification": "The current trajectory indicates a high level of risk for further erosion of democratic norms. The aggressive use of executive power, coupled with a lack of accountability and transparency, poses significant threats to the integrity of democratic institutions. If these patterns continue, the potential for further abuses of power and the normalization of authoritarian practices increases.",
+    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
     "forward_signals": [
-      "escalating executive orders bypassing legislative authority",
-      "increased disinformation campaigns targeting public trust",
-      "further attempts to undermine judicial independence"
+      "increased executive orders bypassing legislative input",
+      "escalation of disinformation campaigns",
+      "further attempts to undermine civil rights protections"
     ]
   }
 }

@@ -34,83 +34,159 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week marked a significant erosion of the moral floor as executive power was asserted aggressively, with numerous actions undermining democratic norms and institutions. The administration's approach to governance was characterized by a lack of restraint, truthfulness, and ethics, leading to a concerning trajectory for democratic integrity.",
+    "summary": "This week marked a significant erosion of democratic norms, characterized by aggressive executive actions that blurred the lines between governance and personal interests, alongside a troubling disregard for established legal frameworks and civil rights protections.",
     "norms_broken": [
       {
         "trait": "character",
-        "pattern": "The president's actions prioritized personal and political gain over public duty, exemplified by the pardons for January 6 participants and the use of executive orders to bypass established norms.",
+        "pattern": "Executive actions prioritized personal and political gain over public duty, exemplified by the pardoning of January 6 participants.",
         "severity": "serious",
-        "institutional_response": "Judicial responses were reactive, with courts issuing temporary restraining orders against some executive actions, but overall institutional checks were insufficient to counter the rapid changes."
+        "institutional_response": "Courts and civil society organizations initiated legal challenges, but these responses were reactive rather than proactive.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk01_character_ex01",
+            "week": 1,
+            "event_ids": [
+              "wk01_PA_007"
+            ],
+            "developments": [
+              {
+                "development_id": "wk01_PA_007",
+                "development_label": "Pardoned January 6 defendants",
+                "role": "primary"
+              }
+            ],
+            "summary": "Trump pardoned over 1,500 individuals involved in the January 6 attack.",
+            "why_exemplary": "This act exemplified a prioritization of political loyalty over accountability, undermining the integrity of the legal system.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "ethics",
-        "pattern": "The administration's decisions blurred lines between public service and private interests, particularly through the pardons and the establishment of a sovereign wealth fund that could be influenced by political agendas.",
+        "pattern": "The launch of personal cryptocurrencies blurred the line between public office and private enrichment.",
         "severity": "serious",
-        "institutional_response": "Civil society and legal challenges emerged, but they were largely reactionary and did not prevent the initial actions."
-      },
-      {
-        "trait": "restraint",
-        "pattern": "The president's use of emergency powers to justify sweeping actions without congressional approval demonstrated a lack of self-limitation and respect for democratic norms.",
-        "severity": "serious",
-        "institutional_response": "Legislative bodies and courts attempted to push back, but their efforts were often overshadowed by the executive's aggressive maneuvers."
+        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk01_ethics_ex01",
+            "week": 1,
+            "event_ids": [
+              "wk01_ES_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk01_ES_001",
+                "development_label": "Launched personal cryptocurrencies",
+                "role": "primary"
+              }
+            ],
+            "summary": "Trump launched TRUMP and MELANIA cryptocurrencies, controlled by entities he owns.",
+            "why_exemplary": "This action created a direct channel for speculative payments to the sitting president, raising ethical concerns about self-dealing.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "The president made numerous false claims regarding election integrity and other matters, further eroding public trust in democratic institutions.",
+        "pattern": "False claims about the 2020 election and misrepresentation of Biden's actions eroded public trust.",
         "severity": "serious",
-        "institutional_response": "Media and civil society organizations worked to fact-check and counter misinformation, but the scale of disinformation was significant."
+        "institutional_response": "Media and civil society organizations attempted to counter disinformation, but the narrative persisted.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk01_truthfulness_ex01",
+            "week": 1,
+            "event_ids": [
+              "wk01_IM_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk01_IM_005",
+                "development_label": "Claimed the 2020 election was rigged",
+                "role": "primary"
+              }
+            ],
+            "summary": "Trump repeatedly claimed the 2020 election was rigged.",
+            "why_exemplary": "These statements embedded disinformation at the center of presidential communication, undermining trust in electoral processes.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "good_faith",
-        "pattern": "The administration's actions often disregarded the spirit of democratic processes, particularly in the handling of immigration and citizenship issues.",
+        "pattern": "Executive orders undermined established legal frameworks and protections, particularly regarding immigration and civil rights.",
         "severity": "serious",
-        "institutional_response": "Legal challenges were initiated, but they were reactive rather than proactive in safeguarding democratic principles."
+        "institutional_response": "Judicial challenges were initiated, but the executive's actions were largely unilateral.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk01_good_faith_ex01",
+            "week": 1,
+            "event_ids": [
+              "wk01_CR_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk01_CR_001",
+                "development_label": "Ended use of the CBP One app",
+                "role": "primary"
+              }
+            ],
+            "summary": "The shutdown of the CBP One app cut off lawful pathways for asylum seekers.",
+            "why_exemplary": "This action disregarded established processes for asylum, undermining the spirit of legal protections.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "stewardship",
-        "pattern": "The dismantling of federal diversity, equity, and inclusion programs and the weakening of oversight mechanisms indicated a disregard for institutional integrity and future governance.",
+        "pattern": "The dismantling of oversight mechanisms and the removal of inspectors general weakened institutional accountability.",
         "severity": "serious",
-        "institutional_response": "Some civil society groups mobilized to resist these changes, but their efforts were not sufficient to halt the administration's agenda."
+        "institutional_response": "Limited pushback from existing oversight bodies, highlighting a lack of resilience.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk01_stewardship_ex01",
+            "week": 1,
+            "event_ids": [
+              "wk01_PA_027"
+            ],
+            "developments": [
+              {
+                "development_id": "wk01_PA_027",
+                "development_label": "Fired inspectors general",
+                "role": "primary"
+              }
+            ],
+            "summary": "Trump fired inspectors general at multiple federal agencies without proper notice.",
+            "why_exemplary": "This action stripped internal watchdogs of their power, reducing institutional capacity to investigate executive misconduct.",
+            "exemplar_type": "primary"
+          }
+        ]
       }
     ],
-    "norms_strengthened": [
-      {
-        "trait": "good_faith",
-        "pattern": "Judicial interventions against unconstitutional executive orders demonstrated a commitment to uphold democratic principles, albeit in a reactive manner.",
-        "scope": "institutional",
-        "why_it_matters": "These judicial actions are crucial for maintaining checks and balances, reinforcing the importance of the rule of law in the face of executive overreach."
-      },
-      {
-        "trait": "stewardship",
-        "pattern": "Civil society organizations mobilized to challenge executive actions and protect civil rights, reflecting a commitment to democratic stewardship.",
-        "scope": "public",
-        "why_it_matters": "Active civic engagement is essential for holding power accountable and ensuring that democratic values are upheld."
-      }
-    ],
+    "norms_strengthened": [],
     "direction_of_movement": "collapsing"
   },
   "cumulative_condition": {
-    "narrative": "The trajectory of the moral floor has sharply deteriorated as the new administration has rapidly implemented a series of actions that undermine democratic norms and institutions. The aggressive assertion of executive power, coupled with a disregard for truthfulness and ethics, has created a precarious environment for democratic governance. While there are signs of resistance from the judiciary and civil society, these efforts have not yet been able to counter the significant shifts occurring at the federal level. The cumulative effect of these actions has resulted in a net loss of democratic safety, as indicated by the movement of the Democracy Clock.",
+    "narrative": "Week 1 represents a significant deterioration of the moral floor, building on a trajectory of weakened democratic norms. The aggressive use of executive power, coupled with actions that prioritize personal and political interests over public duty, has set a concerning precedent. The erosion of accountability mechanisms and the normalization of disinformation further exacerbate the risks to democratic integrity. This week’s events illustrate a stark shift towards a more authoritarian governance style, where the rule of law is increasingly weaponized and civil rights are undermined.",
     "trend": "deteriorating",
     "stress_points": [
-      "assertion of emergency powers without oversight",
+      "normalization of emergency powers",
+      "disinformation as a governance tool",
       "erosion of civil rights protections",
-      "disinformation from the executive",
-      "politicization of federal agencies"
+      "politicization of the civil service"
     ],
     "sources_of_resilience": [
-      "judicial pushback against unconstitutional orders",
-      "active civil society engagement",
+      "judicial pushback against executive orders",
+      "civil society mobilization against abuses",
       "state-level legal challenges"
     ]
   },
   "risk_assessment": {
     "level": "high",
-    "justification": "The current trajectory indicates a high level of risk for further erosion of democratic norms. The aggressive use of executive power, coupled with a lack of accountability and transparency, poses significant threats to the integrity of democratic institutions. If these patterns continue, the potential for further abuses of power and the normalization of authoritarian practices increases.",
+    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
     "forward_signals": [
-      "escalating executive orders bypassing legislative authority",
-      "increased disinformation campaigns targeting public trust",
-      "further attempts to undermine judicial independence"
+      "increased executive orders bypassing legislative input",
+      "escalation of disinformation campaigns",
+      "further attempts to undermine civil rights protections"
     ]
   }
 }

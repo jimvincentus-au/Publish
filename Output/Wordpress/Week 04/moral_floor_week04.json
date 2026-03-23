@@ -34,83 +34,215 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week saw a significant escalation in the erosion of democratic norms, characterized by the consolidation of power within a parallel executive structure and a systematic dismantling of institutional integrity. The administration's actions reflected a deepening disregard for ethical standards, while courts and civil society made notable attempts to resist these trends.",
+    "summary": "This week marked a significant escalation in the erosion of democratic norms, characterized by aggressive executive actions that centralized power, undermined institutional integrity, and manipulated information, while courts and civil society attempted to resist these trends.",
     "norms_broken": [
       {
         "trait": "character",
-        "pattern": "The president's actions prioritized personal and political gain, exemplified by mass firings and the establishment of DOGE as a parallel authority.",
+        "pattern": "Executive actions prioritized personal and political gain over public duty, exemplified by mass firings and the consolidation of power within DOGE.",
         "severity": "serious",
-        "institutional_response": "Judicial responses were reactive, with some courts blocking extreme actions, but overall institutional checks were insufficient."
+        "institutional_response": "Courts issued rulings to block some actions, but overall institutional resistance was limited.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk04_character_ex01",
+            "week": 4,
+            "event_ids": [
+              "wk04_PA_009",
+              "wk04_PA_015"
+            ],
+            "developments": [
+              {
+                "development_id": "wk04_PA_009",
+                "development_label": "Repurposed the U.S. Digital Service into DOGE with authority to cancel payments and target employees",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk04_PA_015",
+                "development_label": "Moved to dismantle the Consumer Financial Protection Bureau by starving it of funds",
+                "role": "primary"
+              }
+            ],
+            "summary": "The transformation of the U.S. Digital Service into DOGE and the dismantling of the CFPB exemplified prioritization of political loyalty over public duty.",
+            "why_exemplary": "These actions illustrated a shift towards personal rule, undermining the integrity of public institutions.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "ethics",
-        "pattern": "The administration blurred lines between public service and private interests, particularly through the involvement of private actors like Elon Musk in government operations.",
+        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the involvement of private actors in government functions.",
         "severity": "serious",
-        "institutional_response": "Civil society and legal challenges emerged, but they were largely reactionary and did not prevent the initial actions."
-      },
-      {
-        "trait": "restraint",
-        "pattern": "The president's use of emergency powers to justify sweeping actions without congressional approval demonstrated a lack of self-limitation and respect for democratic norms.",
-        "severity": "serious",
-        "institutional_response": "Legislative bodies and courts attempted to push back, but their efforts were often overshadowed by the executive's aggressive maneuvers."
+        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk04_ethics_ex01",
+            "week": 4,
+            "event_ids": [
+              "wk04_PA_006",
+              "wk04_PA_021"
+            ],
+            "developments": [
+              {
+                "development_id": "wk04_PA_006",
+                "development_label": "Signed an executive order pausing enforcement of the Foreign Corrupt Practices Act",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk04_PA_021",
+                "development_label": "Fired the director of the Office of Government Ethics",
+                "role": "primary"
+              }
+            ],
+            "summary": "Pausing FCPA enforcement and firing the ethics office head reduced scrutiny of executive conduct.",
+            "why_exemplary": "These actions exemplified a disregard for ethical boundaries, prioritizing personal and political interests.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "The administration engaged in disinformation regarding immigration and foreign policy, further eroding public trust in democratic institutions.",
+        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding immigration and national security.",
         "severity": "serious",
-        "institutional_response": "Media and civil society organizations worked to fact-check and counter misinformation, but the scale of disinformation was significant."
+        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk04_truthfulness_ex01",
+            "week": 4,
+            "event_ids": [
+              "wk04_CR_001",
+              "wk04_CR_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk04_CR_001",
+                "development_label": "Conducted heavily armed raids in Denver-area apartments targeting alleged gang members",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk04_CR_002",
+                "development_label": "Publicized large-scale ICE arrests nationwide with limited transparency",
+                "role": "primary"
+              }
+            ],
+            "summary": "Militarized raids and opaque arrest data framed enforcement as targeting criminals while obscuring impacts on families.",
+            "why_exemplary": "These actions embedded disinformation at the center of immigration policy, undermining trust in governmental processes.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "good_faith",
-        "pattern": "The administration's actions often disregarded the spirit of democratic processes, particularly in handling immigration and citizenship issues.",
+        "pattern": "Executive orders undermined established legal frameworks and protections, particularly regarding immigration and civil rights.",
         "severity": "serious",
-        "institutional_response": "Legal challenges were initiated, but they were reactive rather than proactive in safeguarding democratic principles."
+        "institutional_response": "Judicial challenges were initiated, but the executive's actions were largely unilateral.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk04_good_faith_ex01",
+            "week": 4,
+            "event_ids": [
+              "wk04_CR_008",
+              "wk04_CR_006"
+            ],
+            "developments": [
+              {
+                "development_id": "wk04_CR_008",
+                "development_label": "Ordered prosecutors to drop corruption charges against NYC Mayor Eric Adams",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk04_CR_006",
+                "development_label": "Announced plans to reopen an ICE office at Rikers Island jail",
+                "role": "primary"
+              }
+            ],
+            "summary": "Linking dismissal of a corruption case to Adams’s role in deportation efforts politicized prosecution decisions.",
+            "why_exemplary": "These actions disregarded established processes for justice, undermining the spirit of legal protections.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "stewardship",
-        "pattern": "The removal of independent inspectors general and the dismantling of oversight mechanisms indicated a disregard for institutional integrity and future governance.",
+        "pattern": "The dismantling of oversight mechanisms and the removal of inspectors general weakened institutional accountability.",
         "severity": "serious",
-        "institutional_response": "Some civil society groups mobilized to resist these changes, but their efforts were not sufficient to halt the administration's agenda."
+        "institutional_response": "Limited pushback from existing oversight bodies, highlighting a lack of resilience.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk04_stewardship_ex01",
+            "week": 4,
+            "event_ids": [
+              "wk04_IG_030"
+            ],
+            "developments": [
+              {
+                "development_id": "wk04_IG_030",
+                "development_label": "Purged top leadership at the National Archives and Records Administration",
+                "role": "primary"
+              }
+            ],
+            "summary": "Removing senior archives officials overseeing Trump records investigations threatened the independence of the nation’s records custodian.",
+            "why_exemplary": "This action stripped internal watchdogs of their power, reducing institutional capacity to investigate executive misconduct.",
+            "exemplar_type": "primary"
+          }
+        ]
       }
     ],
     "norms_strengthened": [
       {
         "trait": "good_faith",
-        "pattern": "Judicial interventions against unconstitutional executive orders demonstrated a commitment to uphold democratic principles, albeit in a reactive manner.",
+        "pattern": "Judicial actions temporarily blocked some of the administration's most aggressive moves, demonstrating a commitment to uphold legal norms.",
         "scope": "institutional",
-        "why_it_matters": "These judicial actions are crucial for maintaining checks and balances, reinforcing the importance of the rule of law in the face of executive overreach."
-      },
-      {
-        "trait": "stewardship",
-        "pattern": "Civil society organizations mobilized to challenge executive actions and protect civil rights, reflecting a commitment to democratic stewardship.",
-        "scope": "public",
-        "why_it_matters": "Active civic engagement is essential for holding power accountable and ensuring that democratic values are upheld."
+        "why_it_matters": "These judicial interventions highlight the importance of checks and balances in resisting executive overreach.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk04_good_faith_ex02",
+            "week": 4,
+            "event_ids": [
+              "wk04_IG_004",
+              "wk04_IG_008"
+            ],
+            "developments": [
+              {
+                "development_id": "wk04_IG_004",
+                "development_label": "Blocked the Trump administration from placing thousands of USAID employees on leave",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk04_IG_008",
+                "development_label": "Ordered the Trump administration to immediately restore billions in frozen federal funding",
+                "role": "primary"
+              }
+            ],
+            "summary": "Judicial rulings enforced prior restraining orders on funding freezes, reaffirming judicial power to compel executive compliance.",
+            "why_exemplary": "These actions reinforced congressional control over appropriations and limited executive attempts to unilaterally suspend international commitments.",
+            "exemplar_type": "primary"
+          }
+        ]
       }
     ],
     "direction_of_movement": "collapsing"
   },
   "cumulative_condition": {
-    "narrative": "The trajectory of the moral floor has sharply deteriorated as the new administration has rapidly implemented a series of actions that undermine democratic norms and institutions. The aggressive assertion of executive power, coupled with a disregard for truthfulness and ethics, has created a precarious environment for democratic governance. While there are signs of resistance from the judiciary and civil society, these efforts have not yet been able to counter the significant shifts occurring at the federal level. The cumulative effect of these actions has resulted in a net loss of democratic safety, as indicated by the movement of the Democracy Clock.",
+    "narrative": "Week 4 represents a significant escalation in the concerning trends established in previous weeks, with the consolidation of a parallel executive state and the aggressive use of executive power to reshape governance. The administration's actions increasingly prioritized personal and political interests over public duty, exemplified by mass firings and the centralization of authority within DOGE. The erosion of accountability mechanisms, including the dismantling of oversight bodies and the politicization of the justice system, further exacerbates the risks to democratic integrity. However, judicial pushback indicates that some institutional resilience remains, albeit under significant threat.",
     "trend": "deteriorating",
     "stress_points": [
-      "assertion of emergency powers without oversight",
+      "centralization of executive power",
+      "disinformation as a governance tool",
       "erosion of civil rights protections",
-      "disinformation from the executive",
-      "politicization of federal agencies"
+      "politicization of the civil service"
     ],
     "sources_of_resilience": [
-      "judicial pushback against unconstitutional orders",
-      "active civil society engagement",
+      "judicial pushback against executive orders",
+      "civil society mobilization against abuses",
       "state-level legal challenges"
     ]
   },
   "risk_assessment": {
     "level": "high",
-    "justification": "The current trajectory indicates a high level of risk for further erosion of democratic norms. The aggressive use of executive power, coupled with a lack of accountability and transparency, poses significant threats to the integrity of democratic institutions. If these patterns continue, the potential for further abuses of power and the normalization of authoritarian practices increases.",
+    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
     "forward_signals": [
-      "escalating executive orders bypassing legislative authority",
-      "increased disinformation campaigns targeting public trust",
-      "further attempts to undermine judicial independence"
+      "increased executive orders bypassing legislative input",
+      "escalation of disinformation campaigns",
+      "further attempts to undermine civil rights protections"
     ]
   }
 }

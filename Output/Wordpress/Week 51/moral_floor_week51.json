@@ -1,6 +1,6 @@
 {
   "week_number": 51,
-  "period_label": "Week 51 – 2026-01-03–2026-01-09",
+  "period_label": "Week 51",
   "window": {
     "start": "2026-01-03",
     "end": "2026-01-09"
@@ -34,77 +34,221 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week saw a significant erosion of the moral floor, with serious breaches in character, ethics, restraint, and truthfulness. The administration's actions, particularly regarding military intervention in Venezuela and aggressive immigration enforcement, exemplified a disregard for democratic norms and accountability. While there were instances of institutional pushback, they were largely reactive and insufficient to counter the overarching trend of power consolidation and erosion of checks and balances.",
+    "summary": "This week saw a significant escalation in the erosion of democratic norms, particularly through the aggressive use of executive power in foreign and domestic contexts. While some institutional resistance emerged, it was largely reactive and insufficient to counterbalance the overarching trend of consolidation and disregard for established checks and balances.",
     "norms_broken": [
       {
         "trait": "character",
-        "pattern": "The president's unilateral military actions and framing of foreign interventions as law enforcement reflected a prioritization of personal power over public duty.",
+        "pattern": "Executive actions prioritized political interests over public duty, particularly through unilateral military operations and immigration enforcement.",
         "severity": "serious",
-        "institutional_response": "Congress attempted to assert its authority through a War Powers Resolution, but the executive's actions had already taken place."
+        "institutional_response": "Limited resistance from institutions, highlighting a weakening of checks on executive power.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk51_character_ex01",
+            "week": 51,
+            "event_ids": [
+              "wk51_PA_002",
+              "wk51_PA_003"
+            ],
+            "developments": [
+              {
+                "development_id": "wk51_PA_002",
+                "development_label": "Ordered a military raid to abduct Nicolás Maduro without congressional authorization.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk51_PA_003",
+                "development_label": "Ordered detention of Maduro and his wife without notifying Congress.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The unilateral military action against Maduro exemplified a disregard for democratic norms and the legislative process.",
+            "why_exemplary": "These actions illustrated a prioritization of executive power over democratic accountability, undermining public trust.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "ethics",
-        "pattern": "The administration's actions blurred ethical boundaries, particularly in the context of military operations that served private interests.",
+        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the use of executive power to reward allies and punish critics.",
         "severity": "serious",
-        "institutional_response": "Judicial challenges were limited, and the executive continued its course without significant checks."
+        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk51_ethics_ex01",
+            "week": 51,
+            "event_ids": [
+              "wk51_PA_012",
+              "wk51_PA_033"
+            ],
+            "developments": [
+              {
+                "development_id": "wk51_PA_012",
+                "development_label": "Announced a plan to seize Venezuelan oil for U.S. control.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk51_PA_033",
+                "development_label": "Relaxed the U.S. embargo on Venezuelan oil, benefiting Gulf Coast refineries.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The intertwining of military and economic interests in Venezuela exemplified a significant ethical breach.",
+            "why_exemplary": "These actions demonstrated a willingness to exploit public resources for private gain, undermining ethical governance.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "restraint",
-        "pattern": "The administration's aggressive military and immigration policies demonstrated a lack of self-limitation and respect for democratic norms.",
+        "pattern": "The administration's aggressive use of executive orders and military actions showed a lack of self-limitation.",
         "severity": "serious",
-        "institutional_response": "Some courts attempted to assert checks, but these efforts were often insufficient."
+        "institutional_response": "Limited checks from Congress or courts, indicating a weakening of institutional norms.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk51_restraint_ex01",
+            "week": 51,
+            "event_ids": [
+              "wk51_PA_004",
+              "wk51_PA_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk51_PA_004",
+                "development_label": "Claimed authority to use military force to seize foreign oil resources.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk51_PA_005",
+                "development_label": "Threatened military action to acquire Greenland.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The lack of restraint in asserting military authority for resource acquisition exemplified a disregard for democratic norms.",
+            "why_exemplary": "These actions illustrated a significant departure from the principles of self-limitation and respect for institutional checks.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "The administration's manipulation of narratives surrounding military actions and immigration enforcement contributed to a manufactured reality that undermined public trust.",
+        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding military actions and immigration enforcement.",
         "severity": "serious",
-        "institutional_response": "Media and civil society worked to counter misinformation, but the scale of disinformation was significant."
+        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk51_truthfulness_ex01",
+            "week": 51,
+            "event_ids": [
+              "wk51_IM_005",
+              "wk51_IM_006"
+            ],
+            "developments": [
+              {
+                "development_id": "wk51_IM_005",
+                "development_label": "Quickly labeled the Minneapolis shooting as self-defense and domestic terrorism.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk51_IM_006",
+                "development_label": "Verified video footage contradicted DHS claims about the shooting.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The manipulation of narratives surrounding state violence exemplified a significant erosion of truthfulness.",
+            "why_exemplary": "These actions embedded disinformation at the center of governance, undermining trust in governmental processes.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "good_faith",
-        "pattern": "Procedural manipulation was evident in the executive's attempts to evade transparency laws and undermine accountability mechanisms.",
+        "pattern": "The administration's actions undermined the spirit of democratic rules, particularly in military and immigration processes.",
         "severity": "serious",
-        "institutional_response": "Legal challenges were initiated, but they were largely reactionary."
-      },
-      {
-        "trait": "stewardship",
-        "pattern": "The prioritization of military and economic interests over public welfare indicated a failure to protect institutional integrity and public trust.",
-        "severity": "serious",
-        "institutional_response": "Civil society groups mobilized to resist these changes, but their efforts were insufficient."
+        "institutional_response": "Limited institutional resistance, with some courts attempting to uphold democratic norms.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk51_good_faith_ex01",
+            "week": 51,
+            "event_ids": [
+              "wk51_IM_020",
+              "wk51_IM_021"
+            ],
+            "developments": [
+              {
+                "development_id": "wk51_IM_020",
+                "development_label": "Framed the Venezuela operation as a criminal justice matter.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk51_IM_021",
+                "development_label": "Allowed companies that pledged to avoid funding election deniers to resume such donations.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The manipulation of legal frameworks for partisan advantage exemplified a breach of good faith in democratic processes.",
+            "why_exemplary": "These actions demonstrated a willingness to manipulate legal frameworks for partisan advantage, undermining the integrity of democratic institutions.",
+            "exemplar_type": "primary"
+          }
+        ]
       }
     ],
     "norms_strengthened": [
       {
         "trait": "stewardship",
-        "pattern": "Judicial rulings limiting executive overreach, particularly regarding military actions and immigration enforcement, highlighted the role of courts in upholding democratic norms.",
+        "pattern": "Judicial actions aimed at preserving civil rights and transparency showed resilience against executive overreach.",
         "scope": "institutional",
-        "why_it_matters": "These actions are essential for maintaining institutional integrity and protecting civil rights."
+        "why_it_matters": "These actions reflect a commitment to maintaining public goods and services despite federal neglect.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk51_stewardship_ex01",
+            "week": 51,
+            "event_ids": [
+              "wk51_IG_005",
+              "wk51_IG_016"
+            ],
+            "developments": [
+              {
+                "development_id": "wk51_IG_005",
+                "development_label": "Rejected President Trump’s claim of authority to deploy federalized National Guard troops.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk51_IG_016",
+                "development_label": "Advanced a War Powers Resolution restricting further military action in Venezuela.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Judicial actions to protect democratic integrity reflect a commitment to stewardship.",
+            "why_exemplary": "These initiatives demonstrate a proactive approach to governance that prioritizes public welfare over political expediency.",
+            "exemplar_type": "primary"
+          }
+        ]
       }
     ],
     "direction_of_movement": "collapsing"
   },
   "cumulative_condition": {
-    "narrative": "The moral floor continues to deteriorate, with the executive branch increasingly treating public institutions as extensions of personal power. This week, the aggressive assertion of executive authority, coupled with a disregard for truthfulness and ethics, has further strained the capacity of democratic institutions to function effectively. While there are signs of resistance from the judiciary and civil society, these efforts have not yet been able to counter the significant shifts occurring at the federal level. The cumulative effect of these actions has resulted in a net loss of democratic safety, as indicated by the slight inward movement of the Democracy Clock.",
+    "narrative": "Week 51 continues the trend of significant erosion of the moral floor, with executive actions increasingly prioritizing political interests over adherence to democratic norms. The administration's consolidation of power and punitive measures against dissenting voices deepen concerns about the integrity of public institutions. While there are pockets of resistance, such as judicial interventions and state-level initiatives, they are insufficient to counterbalance the overall trend of deterioration. The trajectory indicates a worsening crisis in democratic accountability and civil rights protections, raising serious concerns about the future of governance in the current political climate.",
     "trend": "deteriorating",
     "stress_points": [
-      "militarization of domestic law enforcement",
+      "centralization of executive power",
+      "disinformation as a governance tool",
       "erosion of civil rights protections",
-      "disinformation from the executive",
-      "politicization of federal agencies"
+      "politicization of the civil service"
     ],
     "sources_of_resilience": [
-      "judicial pushback against unconstitutional orders",
-      "active civil society engagement",
+      "judicial pushback against executive orders",
+      "civil society mobilization against abuses",
       "state-level legal challenges"
     ]
   },
   "risk_assessment": {
     "level": "high",
-    "justification": "The current trajectory indicates a high level of risk for further erosion of democratic norms. The aggressive use of executive power, coupled with a lack of accountability and transparency, poses significant threats to the integrity of democratic institutions. If these patterns continue, the potential for further abuses of power and the normalization of authoritarian practices increases.",
+    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
     "forward_signals": [
-      "escalating executive orders bypassing legislative authority",
-      "increased disinformation campaigns targeting public trust",
-      "further attempts to undermine judicial independence"
+      "increased executive orders bypassing legislative input",
+      "escalation of disinformation campaigns",
+      "further attempts to undermine civil rights protections"
     ]
   }
 }

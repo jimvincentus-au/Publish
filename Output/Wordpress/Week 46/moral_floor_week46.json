@@ -34,77 +34,221 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week marked a continuation of the erosion of democratic norms, particularly in character, ethics, and restraint. The president's use of pardons and executive actions to shield allies from accountability and the targeting of specific communities based on nationality further deepened the existing trends of authoritarianism. While some institutional pushback was evident, it was insufficient to counter the overarching pattern of consolidation of power and disregard for democratic principles.",
+    "summary": "This week saw a continuation of significant breaches in ethical norms, particularly through the use of executive power to shield allies from accountability and the erosion of civil rights protections, while some institutional pushback was evident.",
     "norms_broken": [
       {
         "trait": "character",
-        "pattern": "The president's pardons for corrupt officials and foreign traffickers illustrated a blatant disregard for accountability and the rule of law.",
+        "pattern": "Executive actions prioritized political interests over public duty, particularly through the use of pardons for corrupt allies.",
         "severity": "serious",
-        "institutional_response": "Congress expressed concern, but no significant legislative action was taken to address these abuses."
+        "institutional_response": "Limited resistance from institutions, highlighting a weakening of checks on executive power.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk46_character_ex01",
+            "week": 46,
+            "event_ids": [
+              "wk46_PA_001",
+              "wk46_PA_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk46_PA_001",
+                "development_label": "Pardoned former Honduran president Juan Orlando Hernández, convicted of drug trafficking.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk46_PA_002",
+                "development_label": "Commuted the prison sentence of fraud executive David Gentile shortly after incarceration.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The president's actions exemplified a shift towards using state power for personal political gain.",
+            "why_exemplary": "These actions illustrated a disregard for the integrity of public institutions, undermining democratic norms.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "ethics",
-        "pattern": "The use of clemency to protect politically connected individuals blurred ethical boundaries and reinforced a culture of impunity.",
+        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the use of executive power to reward allies and punish critics.",
         "severity": "serious",
-        "institutional_response": "Judicial challenges were limited, and the executive continued its course without significant checks."
+        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk46_ethics_ex01",
+            "week": 46,
+            "event_ids": [
+              "wk46_PA_003",
+              "wk46_PA_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk46_PA_003",
+                "development_label": "Granted a full pardon to indicted congressman Henry Cuellar in a foreign bribery case.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk46_PA_004",
+                "development_label": "Issued a full pardon to entertainment executive Tim Leiweke facing a public corruption indictment.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The president's actions exemplified a disregard for ethical boundaries.",
+            "why_exemplary": "These actions demonstrated a willingness to use public resources as tools for political leverage and personal gain.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "restraint",
-        "pattern": "The president's unilateral actions, including threats against immigrants and the use of executive power to halt asylum applications, demonstrated a lack of self-limitation.",
+        "pattern": "The administration's aggressive use of executive orders and immigration enforcement showed a lack of self-limitation.",
         "severity": "serious",
-        "institutional_response": "Some courts attempted to assert checks, but these efforts were often insufficient."
+        "institutional_response": "Limited checks from Congress or courts, indicating a weakening of institutional norms.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk46_restraint_ex01",
+            "week": 46,
+            "event_ids": [
+              "wk46_PA_006",
+              "wk46_PA_007"
+            ],
+            "developments": [
+              {
+                "development_id": "wk46_PA_006",
+                "development_label": "Publicly threatened to strip citizenship from certain naturalized immigrants and halt migration from selected countries.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk46_PA_007",
+                "development_label": "Directed USCIS to pause adjudication of all pending asylum applications.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The use of executive power to manipulate legislative processes exemplified a lack of restraint.",
+            "why_exemplary": "These actions illustrated a disregard for the limits of executive authority and the need for checks on power.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "The administration's manipulation of narratives around immigration and public safety contributed to a manufactured reality that undermined public trust.",
+        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding immigration and economic conditions.",
         "severity": "serious",
-        "institutional_response": "Media and civil society worked to counter misinformation, but the scale of disinformation was significant."
+        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk46_truthfulness_ex01",
+            "week": 46,
+            "event_ids": [
+              "wk46_IM_001",
+              "wk46_IM_006"
+            ],
+            "developments": [
+              {
+                "development_id": "wk46_IM_001",
+                "development_label": "Launched an official website section cataloging and attacking media outlets for alleged bias.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk46_IM_006",
+                "development_label": "Echoed unsubstantiated claims of widespread Somali fraud while declining to challenge racist remarks.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The normalization of false claims about public safety and economic integrity exemplified a significant erosion of truthfulness.",
+            "why_exemplary": "These actions embedded disinformation at the center of governance, undermining trust in governmental processes.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "good_faith",
-        "pattern": "Procedural manipulation was evident in the executive's attempts to evade transparency laws and undermine accountability mechanisms.",
+        "pattern": "The administration's actions undermined the spirit of democratic rules, particularly in election processes and judicial independence.",
         "severity": "serious",
-        "institutional_response": "Legal challenges were initiated, but they were largely reactionary."
-      },
-      {
-        "trait": "stewardship",
-        "pattern": "The administration's actions, including the removal of protections for LGBTQ+ prisoners, indicated a failure to protect institutional integrity and public trust.",
-        "severity": "serious",
-        "institutional_response": "Civil society groups mobilized to resist these changes, but their efforts were insufficient."
+        "institutional_response": "Limited institutional resistance, with some courts attempting to uphold democratic norms.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk46_good_faith_ex01",
+            "week": 46,
+            "event_ids": [
+              "wk46_IG_003",
+              "wk46_IG_010"
+            ],
+            "developments": [
+              {
+                "development_id": "wk46_IG_003",
+                "development_label": "Ruled that Trump’s appointments of Lindsey Halligan and Alina Habba as U.S. attorneys were unlawful.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk46_IG_010",
+                "development_label": "Blocked widespread warrantless immigration arrests in Washington DC and required probable-cause documentation.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The procedural manipulation to deny representation exemplified a breach of good faith in democratic processes.",
+            "why_exemplary": "These actions demonstrated a willingness to manipulate legal frameworks for partisan advantage, undermining the integrity of democratic institutions.",
+            "exemplar_type": "primary"
+          }
+        ]
       }
     ],
     "norms_strengthened": [
       {
         "trait": "stewardship",
-        "pattern": "Judicial rulings blocking illegal U.S. attorney appointments and warrantless immigration arrests highlighted the role of courts in upholding democratic norms.",
+        "pattern": "Judicial actions aimed at preserving civil rights and transparency showed resilience against executive overreach.",
         "scope": "institutional",
-        "why_it_matters": "These actions are essential for maintaining institutional integrity and protecting civil rights."
+        "why_it_matters": "These actions reflect a commitment to maintaining public goods and services despite federal neglect.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk46_stewardship_ex01",
+            "week": 46,
+            "event_ids": [
+              "wk46_IG_001",
+              "wk46_IG_007"
+            ],
+            "developments": [
+              {
+                "development_id": "wk46_IG_001",
+                "development_label": "Launched bipartisan investigations and briefings into alleged unlawful boat strikes ordered by Defense Secretary Pete Hegseth.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk46_IG_007",
+                "development_label": "Enjoined warrantless immigration arrests in DC and required probable-cause documentation.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Judicial actions to protect democratic integrity reflect a commitment to stewardship.",
+            "why_exemplary": "These initiatives demonstrate a proactive approach to governance that prioritizes public welfare over political expediency.",
+            "exemplar_type": "primary"
+          }
+        ]
       }
     ],
     "direction_of_movement": "collapsing"
   },
   "cumulative_condition": {
-    "narrative": "The moral floor continues to deteriorate, with the executive branch increasingly treating public institutions as extensions of personal power. This week, the aggressive assertion of executive authority, coupled with a disregard for truthfulness and ethics, has further strained the capacity of democratic institutions to function effectively. While there are signs of resistance from the judiciary and civil society, these efforts have not yet been able to counter the significant shifts occurring at the federal level. The cumulative effect of these actions has resulted in a net loss of democratic safety, as indicated by the static position of the Democracy Clock at 8:11 p.m.",
+    "narrative": "Week 46 continues the trend of significant erosion of the moral floor, with executive actions increasingly prioritizing political interests over adherence to democratic norms. The administration's consolidation of power and punitive measures against dissenting voices deepen concerns about the integrity of public institutions. While there are pockets of resistance, such as judicial interventions and state-level initiatives, they are insufficient to counterbalance the overall trend of deterioration. The trajectory indicates a worsening crisis in democratic accountability and civil rights protections, raising serious concerns about the future of governance in the current political climate.",
     "trend": "deteriorating",
     "stress_points": [
-      "militarization of domestic law enforcement",
+      "centralization of executive power",
+      "disinformation as a governance tool",
       "erosion of civil rights protections",
-      "disinformation from the executive",
-      "politicization of federal agencies"
+      "politicization of the civil service"
     ],
     "sources_of_resilience": [
-      "judicial pushback against unconstitutional orders",
-      "active civil society engagement",
+      "judicial pushback against executive orders",
+      "civil society mobilization against abuses",
       "state-level legal challenges"
     ]
   },
   "risk_assessment": {
     "level": "high",
-    "justification": "The current trajectory indicates a high level of risk for further erosion of democratic norms. The aggressive use of executive power, coupled with a lack of accountability and transparency, poses significant threats to the integrity of democratic institutions. If these patterns continue, the potential for further abuses of power and the normalization of authoritarian practices increases.",
+    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
     "forward_signals": [
-      "escalating executive orders bypassing legislative authority",
-      "increased disinformation campaigns targeting public trust",
-      "further attempts to undermine judicial independence"
+      "increased executive orders bypassing legislative input",
+      "escalation of disinformation campaigns",
+      "further attempts to undermine civil rights protections"
     ]
   }
 }

@@ -34,83 +34,221 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week continued the trend of significant erosion of democratic norms, with the executive branch increasingly treating public institutions as extensions of personal power. While there were instances of judicial pushback and civil society resistance, the overall trajectory indicated a deepening crisis in ethical governance.",
+    "summary": "This week saw a continuation of significant breaches across multiple moral floor traits, reflecting a deepening normalization of authoritarian practices and the use of state power for partisan ends, despite some institutional pushback.",
     "norms_broken": [
       {
         "trait": "character",
-        "pattern": "The administration's actions, including the demolition of the East Wing for personal gain and the prioritization of political loyalty, demonstrated a disregard for public duty.",
+        "pattern": "Executive actions prioritized political interests over public duty, particularly through punitive measures against dissent.",
         "severity": "serious",
-        "institutional_response": "Judicial and civil society resistance was noted, but the administration largely maintained its course."
+        "institutional_response": "Limited pushback from courts and Congress, indicating a lack of effective oversight.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk41_character_ex01",
+            "week": 41,
+            "event_ids": [
+              "wk41_PA_001",
+              "wk41_PA_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk41_PA_001",
+                "development_label": "Demolished and rapidly remodeled the White House East Wing to build a donor-funded ballroom.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk41_PA_002",
+                "development_label": "Terminated trade negotiations with Canada and imposed an additional 10% tariff on Canadian goods.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The president's actions exemplified a shift towards using state power for personal political gain.",
+            "why_exemplary": "These actions illustrated a disregard for the integrity of public institutions, undermining democratic norms.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "ethics",
-        "pattern": "Federal resources were used for political ends, including the use of clemency as a tool for patronage and the awarding of contracts to companies linked to the president's family.",
+        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the use of executive power to punish dissenting institutions and individuals.",
         "severity": "serious",
-        "institutional_response": "Concerns were raised, but the administration continued its agenda with little regard for ethical boundaries."
+        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk41_ethics_ex01",
+            "week": 41,
+            "event_ids": [
+              "wk41_PA_009",
+              "wk41_PA_013"
+            ],
+            "developments": [
+              {
+                "development_id": "wk41_PA_009",
+                "development_label": "Pardoned Binance founder Changpeng Zhao after his money-laundering conviction.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk41_PA_013",
+                "development_label": "Ordered the Pentagon to deploy the USS Gerald R. Ford strike group for lethal Caribbean operations.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The president's actions exemplified a disregard for ethical boundaries.",
+            "why_exemplary": "These actions demonstrated a willingness to use public resources as tools for political leverage and personal gain.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "restraint",
-        "pattern": "The aggressive use of executive power, including militarized immigration enforcement and unilateral decisions on nuclear testing, demonstrated a lack of self-limitation.",
+        "pattern": "The administration's aggressive use of executive orders and punitive measures against dissenting voices showed a lack of self-limitation.",
         "severity": "serious",
-        "institutional_response": "Some courts pushed back against executive overreach, but these efforts were often insufficient."
+        "institutional_response": "Limited checks from Congress or courts, indicating a weakening of institutional norms.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk41_restraint_ex01",
+            "week": 41,
+            "event_ids": [
+              "wk41_PA_003",
+              "wk41_PA_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk41_PA_003",
+                "development_label": "Left the United States for an Asia trip during an ongoing government shutdown.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk41_PA_004",
+                "development_label": "Refused to use emergency funds to sustain SNAP food assistance during the shutdown.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The use of executive power to bypass legislative negotiations exemplified a lack of restraint.",
+            "why_exemplary": "These actions illustrated a disregard for the limits of executive authority and the need for checks on power.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "Disinformation surrounding the shutdown and the use of false claims about the 2020 election further eroded public trust.",
+        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding dissent and national security.",
         "severity": "serious",
-        "institutional_response": "Media and civil society worked to counter misinformation, but the scale was significant."
+        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk41_truthfulness_ex01",
+            "week": 41,
+            "event_ids": [
+              "wk41_PA_018",
+              "wk41_IM_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk41_PA_018",
+                "development_label": "Publicly attacked the 2020 election as rigged and threatened federal intervention in future voting.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk41_IM_001",
+                "development_label": "Posted a banner blaming a 'Radical Left Democrat shutdown' for lack of updates.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The normalization of false claims about public safety and election integrity exemplified a significant erosion of truthfulness.",
+            "why_exemplary": "These actions embedded disinformation at the center of governance, undermining trust in governmental processes.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "good_faith",
-        "pattern": "Procedural manipulation was evident in the use of the shutdown as leverage in governance and the exclusion of opposition from legislative processes.",
+        "pattern": "The administration's actions undermined the spirit of democratic rules, particularly in election processes and judicial independence.",
         "severity": "serious",
-        "institutional_response": "Legal challenges were initiated, but they were largely reactionary."
-      },
-      {
-        "trait": "stewardship",
-        "pattern": "The demolition of the East Wing and the disregard for institutional integrity indicated a failure to protect public assets for future generations.",
-        "severity": "serious",
-        "institutional_response": "Civil society groups mobilized to resist these changes, but their efforts were insufficient."
+        "institutional_response": "Limited institutional resistance, with some courts attempting to uphold democratic norms.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk41_good_faith_ex01",
+            "week": 41,
+            "event_ids": [
+              "wk41_IG_001",
+              "wk41_IG_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk41_IG_001",
+                "development_label": "Allowed a prolonged government shutdown to continue into its fourth week.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk41_IG_005",
+                "development_label": "Blocked and agreed to rehear Trump’s attempts to deploy federalized National Guard in Portland.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The procedural manipulation to deny representation exemplified a breach of good faith in democratic processes.",
+            "why_exemplary": "These actions demonstrated a willingness to manipulate legal frameworks for partisan advantage, undermining the integrity of democratic institutions.",
+            "exemplar_type": "primary"
+          }
+        ]
       }
     ],
     "norms_strengthened": [
       {
         "trait": "stewardship",
-        "pattern": "Judicial rulings temporarily halted mass layoffs and questioned executive actions, reflecting a commitment to institutional integrity.",
+        "pattern": "Judicial actions aimed at preserving SNAP benefits and blocking voter suppression measures showed resilience against executive overreach.",
         "scope": "institutional",
-        "why_it_matters": "These actions are crucial for maintaining checks and balances, reinforcing the importance of the rule of law."
-      },
-      {
-        "trait": "good_faith",
-        "pattern": "Some congressional leaders and judges pushed back against unauthorized military actions and sought to uphold democratic principles.",
-        "scope": "institutional",
-        "why_it_matters": "These actions are crucial for maintaining checks and balances, reinforcing the importance of the rule of law."
+        "why_it_matters": "These actions reflect a commitment to maintaining public goods and services despite federal neglect.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk41_stewardship_ex01",
+            "week": 41,
+            "event_ids": [
+              "wk41_IG_014",
+              "wk41_IG_015"
+            ],
+            "developments": [
+              {
+                "development_id": "wk41_IG_014",
+                "development_label": "Sued the Trump administration to stop suspension of SNAP benefits during the shutdown.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk41_IG_015",
+                "development_label": "Blocked the Trump administration from suspending SNAP and ordered emergency funding.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Judicial actions to protect democratic integrity reflect a commitment to stewardship.",
+            "why_exemplary": "These initiatives demonstrate a proactive approach to governance that prioritizes public welfare over political expediency.",
+            "exemplar_type": "primary"
+          }
+        ]
       }
     ],
     "direction_of_movement": "collapsing"
   },
   "cumulative_condition": {
-    "narrative": "The moral floor has continued to deteriorate as the administration has implemented actions undermining democratic norms and institutions. The aggressive assertion of executive power, coupled with a disregard for truthfulness and ethics, has created a precarious environment for governance. While there are signs of resistance from the judiciary and civil society, these efforts have not yet been able to counter the significant shifts occurring at the federal level. The cumulative effect of these actions has resulted in a net loss of democratic safety, as indicated by the movement of the Democracy Clock moving from 8:08 p.m. to 8:11 p.m.",
+    "narrative": "Week 41 continues the trend of significant erosion of the moral floor, with executive actions increasingly prioritizing political interests over adherence to democratic norms. The administration's consolidation of power and punitive measures against dissenting voices deepen concerns about the integrity of public institutions. While there are pockets of resistance, such as judicial interventions and state-level initiatives, they are insufficient to counterbalance the overall trend of deterioration. The trajectory indicates a worsening crisis in democratic accountability and civil rights protections, raising serious concerns about the future of governance in the current political climate.",
     "trend": "deteriorating",
     "stress_points": [
-      "militarization of domestic law enforcement",
+      "centralization of executive power",
+      "disinformation as a governance tool",
       "erosion of civil rights protections",
-      "disinformation from the executive",
-      "politicization of federal agencies"
+      "politicization of the civil service"
     ],
     "sources_of_resilience": [
-      "judicial pushback against unconstitutional orders",
-      "active civil society engagement",
+      "judicial pushback against executive orders",
+      "civil society mobilization against abuses",
       "state-level legal challenges"
     ]
   },
   "risk_assessment": {
     "level": "high",
-    "justification": "The current trajectory indicates a high level of risk for further erosion of democratic norms. The aggressive use of executive power, coupled with a lack of accountability and transparency, poses significant threats to the integrity of democratic institutions. If these patterns continue, the potential for further abuses of power and the normalization of authoritarian practices increases.",
+    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
     "forward_signals": [
-      "escalating executive orders bypassing legislative authority",
-      "increased disinformation campaigns targeting public trust",
-      "further attempts to undermine judicial independence"
+      "increased executive orders bypassing legislative input",
+      "escalation of disinformation campaigns",
+      "further attempts to undermine civil rights protections"
     ]
   }
 }

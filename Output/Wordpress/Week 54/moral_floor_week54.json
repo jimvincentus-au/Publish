@@ -34,64 +34,159 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week saw significant erosion of the moral floor, with federal power increasingly used against dissenting communities and a marked decline in ethical governance. Actions by the administration and its allies reflected a troubling normalization of disinformation, aggressive enforcement, and the politicization of law enforcement, while courts and civil society pushed back against these trends.",
+    "summary": "This week marked a continuation of the erosion of democratic norms, with federal power increasingly directed against dissenting communities and political opponents. While some institutional pushback was evident, it was largely reactive and insufficient to counterbalance the overarching trend of consolidation and disregard for established checks and balances.",
     "norms_broken": [
       {
+        "trait": "character",
+        "pattern": "Executive actions prioritized political interests over public duty, particularly through unilateral military operations and immigration enforcement.",
+        "severity": "serious",
+        "institutional_response": "Limited resistance from institutions, highlighting a weakening of checks on executive power.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk54_character_ex01",
+            "week": 54,
+            "event_ids": [
+              "wk54_PA_005",
+              "wk54_PA_008"
+            ],
+            "developments": [
+              {
+                "development_id": "wk54_PA_005",
+                "development_label": "Blamed Democratic officials for the killing of Alex Pretti.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk54_PA_008",
+                "development_label": "Defended aggressive immigration operations in Minnesota.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The president's rhetoric and actions exemplified a prioritization of political narratives over accountability and public duty.",
+            "why_exemplary": "These actions illustrated a significant departure from the principles of character, undermining public trust and accountability.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the use of executive power to reward allies and punish critics.",
+        "severity": "serious",
+        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk54_ethics_ex01",
+            "week": 54,
+            "event_ids": [
+              "wk54_PA_002",
+              "wk54_PA_007"
+            ],
+            "developments": [
+              {
+                "development_id": "wk54_PA_002",
+                "development_label": "Granted clemency to multiple individuals convicted of fraud.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk54_PA_007",
+                "development_label": "Issued an executive order overriding state rebuilding processes.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The intertwining of executive orders and personal financial interests exemplified a significant ethical breach.",
+            "why_exemplary": "These actions demonstrated a willingness to exploit public resources for private gain, undermining ethical governance.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
         "trait": "truthfulness",
-        "pattern": "DHS issued misleading statements about the circumstances of Alex Pretti's killing, attempting to justify federal actions through false narratives.",
+        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding military actions and immigration enforcement.",
         "severity": "serious",
-        "institutional_response": "Judicial scrutiny and local investigations attempted to counteract federal narratives, but faced significant resistance."
-      },
-      {
-        "trait": "restraint",
-        "pattern": "The administration's aggressive immigration enforcement tactics in Minnesota, including warrantless home entries and mass arrests, demonstrated a lack of self-limitation.",
-        "severity": "serious",
-        "institutional_response": "Some local officials and courts attempted to assert authority, but federal agencies largely ignored these challenges."
-      },
-      {
-        "trait": "good_faith",
-        "pattern": "Federal agencies engaged in actions that undermined local governance and accountability, such as seizing ballots and voter materials under dubious pretexts.",
-        "severity": "serious",
-        "institutional_response": "Congressional leaders expressed outrage and initiated inquiries, but the effectiveness of these efforts remains uncertain."
+        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk54_truthfulness_ex01",
+            "week": 54,
+            "event_ids": [
+              "wk54_IM_002",
+              "wk54_IM_006"
+            ],
+            "developments": [
+              {
+                "development_id": "wk54_IM_002",
+                "development_label": "Issued a misleading statement about Alex Pretti.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk54_IM_006",
+                "development_label": "Framed protesters as domestic terrorists.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The manipulation of narratives surrounding state violence exemplified a significant erosion of truthfulness.",
+            "why_exemplary": "These actions embedded disinformation at the center of governance, undermining trust in governmental processes.",
+            "exemplar_type": "primary"
+          }
+        ]
       }
     ],
     "norms_strengthened": [
       {
         "trait": "stewardship",
-        "pattern": "State officials and courts took steps to protect civil rights and assert state authority over federal actions, such as securing a restraining order on evidence related to the Alex Pretti shooting.",
+        "pattern": "Judicial actions aimed at preserving civil rights and transparency showed resilience against executive overreach.",
         "scope": "institutional",
-        "why_it_matters": "These actions reflect a commitment to uphold the rule of law and protect civil rights against federal overreach."
-      },
-      {
-        "trait": "character",
-        "pattern": "Civil society mobilized in large numbers to protest federal actions, demonstrating a commitment to democratic principles and accountability.",
-        "scope": "public",
-        "why_it_matters": "Public mobilization against perceived injustices is crucial for maintaining democratic engagement and accountability."
+        "why_it_matters": "These actions reflect a commitment to maintaining public goods and services despite federal neglect.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk54_stewardship_ex01",
+            "week": 54,
+            "event_ids": [
+              "wk54_IG_005",
+              "wk54_IG_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk54_IG_005",
+                "development_label": "Secured a restraining order preserving evidence in the Alex Pretti shooting.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk54_IG_012",
+                "development_label": "Called for investigations into Alex Pretti's killing.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Judicial actions to protect democratic integrity reflect a commitment to stewardship.",
+            "why_exemplary": "These initiatives demonstrate a proactive approach to governance that prioritizes public welfare over political expediency.",
+            "exemplar_type": "primary"
+          }
+        ]
       }
     ],
-    "direction_of_movement": "eroding"
+    "direction_of_movement": "collapsing"
   },
   "cumulative_condition": {
-    "narrative": "This week continued a troubling trend of ethical erosion observed in previous weeks, where federal power is increasingly wielded against dissenting voices and communities. The administration's actions reflect a systematic undermining of democratic norms, particularly in jurisdictions that oppose its policies. While there are signs of resistance from courts and civil society, the overall trajectory indicates a deepening of these issues, with the moral floor showing significant cracks.",
+    "narrative": "Week 54 continues the trend of significant erosion of the moral floor, with executive actions increasingly prioritizing political interests over adherence to democratic norms. The administration's consolidation of power and punitive measures against dissenting voices deepen concerns about the integrity of public institutions. While there are pockets of resistance, such as judicial interventions and state-level initiatives, they are insufficient to counterbalance the overall trend of deterioration. The trajectory indicates a worsening crisis in democratic accountability and civil rights protections, raising serious concerns about the future of governance in the current political climate.",
     "trend": "deteriorating",
     "stress_points": [
-      "aggressive federal enforcement in opposition-led regions",
-      "disinformation and manipulation of public narratives",
-      "erosion of civil rights protections"
+      "centralization of executive power",
+      "disinformation as a governance tool",
+      "erosion of civil rights protections",
+      "politicization of the civil service"
     ],
     "sources_of_resilience": [
-      "judicial pushback against federal overreach",
-      "active civil society protests and mobilization",
-      "bipartisan calls for accountability in Congress"
+      "judicial pushback against executive orders",
+      "civil society mobilization against abuses",
+      "state-level legal challenges"
     ]
   },
   "risk_assessment": {
     "level": "high",
-    "justification": "The combination of aggressive federal actions against dissent, the normalization of disinformation, and the politicization of law enforcement creates a high-risk environment for further erosion of democratic norms. The ongoing resistance from courts and civil society, while important, may not be sufficient to counteract the entrenched practices of the administration without sustained public and institutional pressure.",
+    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
     "forward_signals": [
-      "increased federal surveillance of dissenting groups",
-      "escalation of disinformation campaigns from government sources",
-      "potential legal challenges to state-level protections against federal actions"
+      "increased executive orders bypassing legislative input",
+      "escalation of disinformation campaigns",
+      "further attempts to undermine civil rights protections"
     ]
   }
 }

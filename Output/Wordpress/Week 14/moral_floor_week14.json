@@ -34,83 +34,221 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week continued the trend of democratic erosion, with multiple breaches across moral floor traits. The executive branch's actions increasingly blurred the lines between public duty and personal gain, particularly through retaliatory measures against universities and aggressive immigration enforcement. While there were instances of judicial resistance, the overall trajectory indicates a deepening consolidation of power that undermines democratic norms.",
+    "summary": "This week saw a continuation of the erosion of democratic norms, with the executive branch increasingly disregarding judicial authority and civil rights, while courts and civil society made notable efforts to resist these trends.",
     "norms_broken": [
       {
         "trait": "character",
-        "pattern": "The president's actions prioritized personal and political interests, particularly through retaliatory funding cuts to universities and targeting of critics.",
+        "pattern": "Executive actions prioritized political gain over public duty, particularly through punitive measures against institutions and individuals.",
         "severity": "serious",
-        "institutional_response": "Judicial responses were reactive, with some courts attempting to assert authority, but overall institutional checks were insufficient."
+        "institutional_response": "Judicial rulings provided some pushback, but overall institutional resistance was limited.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk14_character_ex01",
+            "week": 14,
+            "event_ids": [
+              "wk14_PA_001",
+              "wk14_PA_006"
+            ],
+            "developments": [
+              {
+                "development_id": "wk14_PA_001",
+                "development_label": "Cut and froze over $2 billion in federal grants to Harvard University.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk14_PA_006",
+                "development_label": "Threatened New York with loss of federal transportation funding.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The use of federal funding as leverage against institutions exemplified prioritization of political objectives over adherence to public duty.",
+            "why_exemplary": "These actions illustrated a shift towards personal rule, undermining the integrity of public institutions.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "ethics",
-        "pattern": "The administration's use of executive orders to impose tariffs and retaliate against law firms blurred the lines between public service and private interests.",
+        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the use of executive power to extract concessions from institutions.",
         "severity": "serious",
-        "institutional_response": "Courts issued rulings against some actions, but compliance remained contested."
-      },
-      {
-        "trait": "restraint",
-        "pattern": "The president's unilateral actions, including the emergency appeal to impose tariffs and the use of immigration enforcement against dissenters, demonstrated a lack of self-limitation.",
-        "severity": "serious",
-        "institutional_response": "Legislative bodies and courts attempted to push back, but their efforts were often overshadowed by the executive's aggressive maneuvers."
+        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk14_ethics_ex01",
+            "week": 14,
+            "event_ids": [
+              "wk14_PA_001",
+              "wk14_PA_010"
+            ],
+            "developments": [
+              {
+                "development_id": "wk14_PA_001",
+                "development_label": "Cut and froze over $2 billion in federal grants to Harvard University.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk14_PA_010",
+                "development_label": "Ordered a probe into ActBlue, a major opposition fundraising platform.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The freezing of grants and the investigation into ActBlue blurred the lines between public office and private interests.",
+            "why_exemplary": "These actions exemplified a disregard for ethical boundaries, prioritizing personal and political interests.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "The administration engaged in disinformation regarding the legitimacy of voter fraud claims and the justification for tariffs, undermining public trust.",
+        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding immigration enforcement and funding.",
         "severity": "serious",
-        "institutional_response": "Media and civil society organizations worked to fact-check and counter misinformation, but the scale of disinformation was significant."
+        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk14_truthfulness_ex01",
+            "week": 14,
+            "event_ids": [
+              "wk14_PA_034",
+              "wk14_IM_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk14_PA_034",
+                "development_label": "Misrepresented the status of tariff negotiations with China.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk14_IM_011",
+                "development_label": "Framed ActBlue as a conduit for foreign donations without evidence.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The misrepresentation of negotiations and framing of ActBlue contributed to a narrative that undermined trust in official communications.",
+            "why_exemplary": "These actions embedded disinformation at the center of governance, undermining trust in governmental processes.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "good_faith",
-        "pattern": "The administration's actions often disregarded the spirit of democratic processes, particularly in handling immigration and citizenship issues.",
+        "pattern": "Executive orders undermined established legal frameworks and protections, particularly regarding immigration and civil rights.",
         "severity": "serious",
-        "institutional_response": "Legal challenges were initiated, but they were largely reactionary and did not prevent the initial actions."
+        "institutional_response": "Judicial challenges were initiated, but the executive's actions were largely unilateral.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk14_good_faith_ex01",
+            "week": 14,
+            "event_ids": [
+              "wk14_IG_006",
+              "wk14_IG_007"
+            ],
+            "developments": [
+              {
+                "development_id": "wk14_IG_006",
+                "development_label": "Blocked the Trump administration from withholding federal funds from sanctuary jurisdictions.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk14_IG_007",
+                "development_label": "Blocked an executive order adding proof-of-citizenship requirements to federal voter registration.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Judicial rulings enforced prior restraining orders on funding and voter registration, reaffirming judicial power to compel executive compliance.",
+            "why_exemplary": "These actions reinforced congressional control over appropriations and limited executive attempts to unilaterally suspend international commitments.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "stewardship",
-        "pattern": "The dismantling of oversight mechanisms and the politicization of federal agencies indicated a disregard for institutional integrity and future governance.",
+        "pattern": "The dismantling of oversight mechanisms and the removal of independent media weakened institutional accountability.",
         "severity": "serious",
-        "institutional_response": "Some civil society groups mobilized to resist these changes, but their efforts were not sufficient to halt the administration's agenda."
+        "institutional_response": "Limited pushback from existing oversight bodies, highlighting a lack of resilience.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk14_stewardship_ex01",
+            "week": 14,
+            "event_ids": [
+              "wk14_CR_008",
+              "wk14_IM_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk14_CR_008",
+                "development_label": "Closed CRCL and the Immigration Detention Ombudsman offices overseeing detention conditions.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk14_IM_009",
+                "development_label": "Shut down Voice of America until ordered by a court to restore it.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The closure of oversight offices and attempts to disband public media undermined institutional capacity and accountability.",
+            "why_exemplary": "These actions stripped internal watchdogs of their power, reducing institutional capacity to investigate executive misconduct.",
+            "exemplar_type": "primary"
+          }
+        ]
       }
     ],
     "norms_strengthened": [
       {
         "trait": "good_faith",
-        "pattern": "Judicial interventions against unconstitutional executive orders demonstrated a commitment to uphold democratic principles, albeit in a reactive manner.",
+        "pattern": "Judicial actions temporarily blocked some of the administration's most aggressive moves, demonstrating a commitment to uphold legal norms.",
         "scope": "institutional",
-        "why_it_matters": "These judicial actions are crucial for maintaining checks and balances, reinforcing the importance of the rule of law in the face of executive overreach."
-      },
-      {
-        "trait": "stewardship",
-        "pattern": "Civil society organizations mobilized to challenge executive actions and protect civil rights, reflecting a commitment to democratic stewardship.",
-        "scope": "public",
-        "why_it_matters": "Active civic engagement is essential for holding power accountable and ensuring that democratic values are upheld."
+        "why_it_matters": "These judicial interventions highlight the importance of checks and balances in resisting executive overreach.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk14_good_faith_ex01",
+            "week": 14,
+            "event_ids": [
+              "wk14_IG_001",
+              "wk14_IG_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk14_IG_001",
+                "development_label": "Supreme Court temporarily halted deportations of Venezuelan detainees.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk14_IG_002",
+                "development_label": "Unanimously upheld a lower court order requiring the government to facilitate Kilmar García's return.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Judicial rulings reinforced due process and accountability, demonstrating the judiciary's role in checking executive power.",
+            "why_exemplary": "These actions reaffirmed the judiciary's commitment to uphold legal norms against executive overreach.",
+            "exemplar_type": "primary"
+          }
+        ]
       }
     ],
     "direction_of_movement": "collapsing"
   },
   "cumulative_condition": {
-    "narrative": "The trajectory of the moral floor has sharply deteriorated as the administration has rapidly implemented a series of actions that undermine democratic norms and institutions. The aggressive assertion of executive power, coupled with a disregard for truthfulness and ethics, has created a precarious environment for democratic governance. While there are signs of resistance from the judiciary and civil society, these efforts have not yet been able to counter the significant shifts occurring at the federal level. The cumulative effect of these actions has resulted in a net loss of democratic safety, as indicated by the movement of the Democracy Clock.",
+    "narrative": "Week 14 continues the concerning trends established in previous weeks, with the executive branch increasingly disregarding judicial authority and civil rights. The administration's actions prioritize political objectives over adherence to established legal frameworks, exemplified by punitive measures against individuals and institutions. While courts have provided some resistance, the overall trajectory indicates a deepening crisis in democratic norms and accountability mechanisms. The erosion of institutional checks and balances raises serious concerns about the future of governance and civil rights in the current political climate.",
     "trend": "deteriorating",
     "stress_points": [
-      "assertion of emergency powers without oversight",
+      "centralization of executive power",
+      "disinformation as a governance tool",
       "erosion of civil rights protections",
-      "disinformation from the executive",
-      "politicization of federal agencies"
+      "politicization of the civil service"
     ],
     "sources_of_resilience": [
-      "judicial pushback against unconstitutional orders",
-      "active civil society engagement",
+      "judicial pushback against executive orders",
+      "civil society mobilization against abuses",
       "state-level legal challenges"
     ]
   },
   "risk_assessment": {
     "level": "high",
-    "justification": "The current trajectory indicates a high level of risk for further erosion of democratic norms. The aggressive use of executive power, coupled with a lack of accountability and transparency, poses significant threats to the integrity of democratic institutions. If these patterns continue, the potential for further abuses of power and the normalization of authoritarian practices increases.",
+    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
     "forward_signals": [
-      "escalating executive orders bypassing legislative authority",
-      "increased disinformation campaigns targeting public trust",
-      "further attempts to undermine judicial independence"
+      "increased executive orders bypassing legislative input",
+      "escalation of disinformation campaigns",
+      "further attempts to undermine civil rights protections"
     ]
   }
 }

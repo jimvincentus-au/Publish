@@ -34,77 +34,215 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week continued the trend of erosion in the moral floor, with significant breaches in character, ethics, and truthfulness. The administration's actions demonstrated a persistent disregard for democratic norms, particularly in the handling of transparency laws and immigration enforcement. While there were some instances of institutional pushback, they were insufficient to counter the overarching trend of power consolidation and erosion of accountability.",
+    "summary": "This week continued the trend of significant ethical breaches, particularly through the consolidation of executive power and the erosion of civil rights protections, with some institutional resistance emerging but insufficient to alter the overall trajectory.",
     "norms_broken": [
       {
         "trait": "character",
-        "pattern": "The president's promotion of personal narratives and retaliatory rhetoric against political opponents reflected a prioritization of personal legacy over public duty.",
+        "pattern": "Executive actions prioritized political interests over public duty, particularly through the expansion of immigration enforcement and selective use of power.",
         "severity": "serious",
-        "institutional_response": "Congress and civil society expressed concern, but no significant legislative action was taken to address these issues."
+        "institutional_response": "Limited resistance from institutions, highlighting a weakening of checks on executive power.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk49_character_ex01",
+            "week": 49,
+            "event_ids": [
+              "wk49_PA_007",
+              "wk49_PA_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk49_PA_007",
+                "development_label": "Announced a $170 billion expansion of immigration enforcement infrastructure.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk49_PA_009",
+                "development_label": "Threatened to withhold federal funds from states issuing driver’s licenses to non-citizens.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The expansion of immigration enforcement and financial threats to states exemplified a shift towards using state power for political gain.",
+            "why_exemplary": "These actions illustrated a disregard for the integrity of public institutions, undermining democratic norms.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "ethics",
-        "pattern": "The administration's actions, including the termination of programs benefiting low-income communities and the handling of the Epstein files, blurred ethical boundaries and reinforced a culture of impunity.",
+        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the use of executive power to reward allies and punish critics.",
         "severity": "serious",
-        "institutional_response": "Judicial challenges were limited, and the executive continued its course without significant checks."
+        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk49_ethics_ex01",
+            "week": 49,
+            "event_ids": [
+              "wk49_PA_006",
+              "wk49_PA_003"
+            ],
+            "developments": [
+              {
+                "development_id": "wk49_PA_006",
+                "development_label": "Released only a fraction of legally mandated Epstein records.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk49_PA_003",
+                "development_label": "Blocked California’s ban on new gas-powered car sales.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The administration's actions exemplified a disregard for ethical boundaries.",
+            "why_exemplary": "These actions demonstrated a willingness to use public resources as tools for political leverage and personal gain.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "restraint",
-        "pattern": "The administration's unilateral actions, including the deployment of National Guard troops for immigration enforcement despite court rulings, demonstrated a lack of self-limitation.",
+        "pattern": "The administration's aggressive use of executive orders and immigration enforcement showed a lack of self-limitation.",
         "severity": "serious",
-        "institutional_response": "Some courts attempted to assert checks, but these efforts were often insufficient."
+        "institutional_response": "Limited checks from Congress or courts, indicating a weakening of institutional norms.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk49_restraint_ex01",
+            "week": 49,
+            "event_ids": [
+              "wk49_PA_004",
+              "wk49_PA_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk49_PA_004",
+                "development_label": "Issued a directive authorizing attacks on small boats from Venezuela.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk49_PA_005",
+                "development_label": "Suspended five offshore wind projects citing national security concerns.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The use of executive power to manipulate legislative processes exemplified a lack of restraint.",
+            "why_exemplary": "These actions illustrated a disregard for the limits of executive authority and the need for checks on power.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "The administration's manipulation of narratives around immigration and the Epstein files contributed to a manufactured reality that undermined public trust.",
+        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding immigration and economic conditions.",
         "severity": "serious",
-        "institutional_response": "Media and civil society worked to counter misinformation, but the scale of disinformation was significant."
+        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk49_truthfulness_ex01",
+            "week": 49,
+            "event_ids": [
+              "wk49_IM_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk49_IM_012",
+                "development_label": "Delivered an economy speech containing numerous false claims.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The normalization of false claims about public safety and economic integrity exemplified a significant erosion of truthfulness.",
+            "why_exemplary": "These actions embedded disinformation at the center of governance, undermining trust in governmental processes.",
+            "exemplar_type": "primary"
+          }
+        ]
       },
       {
         "trait": "good_faith",
-        "pattern": "Procedural manipulation was evident in the executive's attempts to evade transparency laws and undermine accountability mechanisms.",
+        "pattern": "The administration's actions undermined the spirit of democratic rules, particularly in election processes and judicial independence.",
         "severity": "serious",
-        "institutional_response": "Legal challenges were initiated, but they were largely reactionary."
-      },
-      {
-        "trait": "stewardship",
-        "pattern": "The dismantling of programs and the prioritization of fossil fuel interests over renewable energy projects indicated a failure to protect institutional integrity and public trust.",
-        "severity": "serious",
-        "institutional_response": "Civil society groups mobilized to resist these changes, but their efforts were insufficient."
+        "institutional_response": "Limited institutional resistance, with some courts attempting to uphold democratic norms.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk49_good_faith_ex01",
+            "week": 49,
+            "event_ids": [
+              "wk49_IM_001",
+              "wk49_IM_006"
+            ],
+            "developments": [
+              {
+                "development_id": "wk49_IM_001",
+                "development_label": "Released heavily redacted and partial sets of Jeffrey Epstein files.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk49_IM_006",
+                "development_label": "Publicly debunked a forged Epstein-Nassar letter.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The procedural manipulation to deny representation exemplified a breach of good faith in democratic processes.",
+            "why_exemplary": "These actions demonstrated a willingness to manipulate legal frameworks for partisan advantage, undermining the integrity of democratic institutions.",
+            "exemplar_type": "primary"
+          }
+        ]
       }
     ],
     "norms_strengthened": [
       {
         "trait": "stewardship",
-        "pattern": "Judicial rulings blocking illegal U.S. attorney appointments and limiting immigration enforcement highlighted the role of courts in upholding democratic norms.",
+        "pattern": "Judicial actions aimed at preserving civil rights and transparency showed resilience against executive overreach.",
         "scope": "institutional",
-        "why_it_matters": "These actions are essential for maintaining institutional integrity and protecting civil rights."
+        "why_it_matters": "These actions reflect a commitment to maintaining public goods and services despite federal neglect.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk49_stewardship_ex01",
+            "week": 49,
+            "event_ids": [
+              "wk49_IG_008",
+              "wk49_IG_013"
+            ],
+            "developments": [
+              {
+                "development_id": "wk49_IG_008",
+                "development_label": "Blocked Trump’s deployment of National Guard troops for immigration enforcement in Illinois.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk49_IG_013",
+                "development_label": "Blocked White House cuts to homeland security grants for noncompliant states.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Judicial actions to protect democratic integrity reflect a commitment to stewardship.",
+            "why_exemplary": "These initiatives demonstrate a proactive approach to governance that prioritizes public welfare over political expediency.",
+            "exemplar_type": "primary"
+          }
+        ]
       }
     ],
     "direction_of_movement": "collapsing"
   },
   "cumulative_condition": {
-    "narrative": "The moral floor continues to deteriorate, with the executive branch increasingly treating public institutions as extensions of personal power. This week, the aggressive assertion of executive authority, coupled with a disregard for truthfulness and ethics, has further strained the capacity of democratic institutions to function effectively. While there are signs of resistance from the judiciary and civil society, these efforts have not yet been able to counter the significant shifts occurring at the federal level. The cumulative effect of these actions has resulted in a net loss of democratic safety, as indicated by the slight inward movement of the Democracy Clock.",
+    "narrative": "Week 49 continues the trend of significant erosion of the moral floor, with executive actions increasingly prioritizing political interests over adherence to democratic norms. The administration's consolidation of power and punitive measures against dissenting voices deepen concerns about the integrity of public institutions. While there are pockets of resistance, such as judicial interventions and state-level initiatives, they are insufficient to counterbalance the overall trend of deterioration. The trajectory indicates a worsening crisis in democratic accountability and civil rights protections, raising serious concerns about the future of governance in the current political climate.",
     "trend": "deteriorating",
     "stress_points": [
-      "militarization of domestic law enforcement",
+      "centralization of executive power",
+      "disinformation as a governance tool",
       "erosion of civil rights protections",
-      "disinformation from the executive",
-      "politicization of federal agencies"
+      "politicization of the civil service"
     ],
     "sources_of_resilience": [
-      "judicial pushback against unconstitutional orders",
-      "active civil society engagement",
+      "judicial pushback against executive orders",
+      "civil society mobilization against abuses",
       "state-level legal challenges"
     ]
   },
   "risk_assessment": {
     "level": "high",
-    "justification": "The current trajectory indicates a high level of risk for further erosion of democratic norms. The aggressive use of executive power, coupled with a lack of accountability and transparency, poses significant threats to the integrity of democratic institutions. If these patterns continue, the potential for further abuses of power and the normalization of authoritarian practices increases.",
+    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
     "forward_signals": [
-      "escalating executive orders bypassing legislative authority",
-      "increased disinformation campaigns targeting public trust",
-      "further attempts to undermine judicial independence"
+      "increased executive orders bypassing legislative input",
+      "escalation of disinformation campaigns",
+      "further attempts to undermine civil rights protections"
     ]
   }
 }

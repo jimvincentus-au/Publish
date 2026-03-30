@@ -497,6 +497,16 @@ def parse_args() -> argparse.Namespace:
         help="Emit a CSV alongside the XLSX (default: enabled).",
     )
     parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Resolve inputs and output paths, build rows in memory, but do not write or rename any files.",
+    )
+    parser.add_argument(
+        "--force",
+        action="store_true",
+        help="Overwrite existing output files when the resolved output path already exists.",
+    )
+    parser.add_argument(
         "--skip-missing",
         action="store_true",
         help="Skip weeks with missing WordPress artifacts instead of failing hard.",
@@ -1121,6 +1131,7 @@ def build_digest_post_row(
     *,
     week_number: int,
     metadata: Dict[str, Any],
+    carry_forward: Dict[str, Any],
     digest_html_path: Path,
     post_status: str,
     image_base_url: str,
@@ -1152,6 +1163,13 @@ def build_digest_post_row(
     featured_image_filename = f"week{week_number:02d}-digest-featured.jpg"
     base = (image_base_url or "").rstrip("/")
     final_image_url = f"{base}/{featured_image_filename}" if base else ""
+    cf = _extract_carry_forward_fields(carry_forward)
+    acf_week_number = week_number
+    acf_week_start_date_iso = str(cf.get("week_start_date") or "")
+    acf_week_end_date_iso = str(cf.get("week_end_date") or "")
+    acf_week_start_date = _to_ymd(acf_week_start_date_iso)
+    acf_week_end_date = _to_ymd(acf_week_end_date_iso)
+    acf_week_label = _format_week_label(week_number, acf_week_start_date_iso, acf_week_end_date_iso)
 
     wp_id = str(_carry("ID", "")) or str(_carry("id", ""))
     wp_permalink = str(_carry("Permalink", ""))
@@ -1237,10 +1255,10 @@ def build_digest_post_row(
         "Ping Status": wp_ping_status,
         "Post Modified Date": wp_post_modified,
         "Is Current": "",
-        "Week Number": "",
-        "Week Start Date": "",
-        "Week End Date": "",
-        "Week Label": "",
+        "Week Number": acf_week_number,
+        "Week Start Date": acf_week_start_date,
+        "Week End Date": acf_week_end_date,
+        "Week Label": acf_week_label,
         "Week Start Minutes": "",
         "Week End Minutes": "",
         "Week Movement Minutes": "",
@@ -1570,9 +1588,13 @@ def main() -> None:
         active_export_name = export_path.name
         if canonical_update:
             backup_path = make_backup_name(export_path)
-            logger.info(f"Backing up active export XLSX: {active_export_name} -> {backup_path.name}")
-            export_path.rename(backup_path)
-            export_source: Path = backup_path
+            if args.dry_run:
+                logger.info(f"DRY-RUN: would back up active export XLSX: {active_export_name} -> {backup_path.name}")
+                export_source = export_path
+            else:
+                logger.info(f"Backing up active export XLSX: {active_export_name} -> {backup_path.name}")
+                export_path.rename(backup_path)
+                export_source = backup_path
         else:
             export_source = export_path
         logger.info(f"Update export source XLSX: {export_source}")
@@ -1605,12 +1627,22 @@ def main() -> None:
                 continue
             raise FileNotFoundError(msg)
 
+        carry_forward_path = week_dir / f"carry_forward_week{week:02d}.json"
+        if not carry_forward_path.exists():
+            msg = f"Missing carry-forward JSON: {carry_forward_path}"
+            if args.skip_missing:
+                logger.warning(msg + " (skipped)")
+                continue
+            raise FileNotFoundError(msg)
+        carry_forward = load_json(carry_forward_path)
+
         post_date = datetime.fromtimestamp(digest_html_path.stat().st_mtime)
 
         rows.append(
             build_digest_post_row(
                 week_number=week,
                 metadata=metadata,
+                carry_forward=carry_forward,
                 digest_html_path=digest_html_path,
                 post_status=args.status,
                 image_base_url=args.image_base_url.rstrip("/"),
@@ -1657,11 +1689,32 @@ def main() -> None:
             ts = datetime.utcnow().strftime("%Y-%m-%d-%H-%M")
             output_path = WP_OUTPUT_ROOT / f"wordpress_digest_import_weeks_{start:02d}_{end:02d}_{ts}.xlsx"
     logger.info(f"Output path set to: {output_path}")
+    csv_output_path = output_path.with_suffix('.csv') if args.csv or str(output_path).lower().endswith('.xlsx') else output_path
+
+    if not args.force:
+        existing_conflicts = []
+        if output_path.exists():
+            existing_conflicts.append(output_path)
+        if args.csv and csv_output_path.exists():
+            existing_conflicts.append(csv_output_path)
+        if existing_conflicts:
+            conflict_list = ", ".join(str(p) for p in existing_conflicts)
+            raise FileExistsError(
+                f"Output file(s) already exist and --force was not set: {conflict_list}"
+            )
+
+    if args.dry_run:
+        logger.info("DRY-RUN: rows built=%s", len(df))
+        logger.info("DRY-RUN: would write XLSX: %s", output_path)
+        if args.csv:
+            logger.info("DRY-RUN: would write CSV: %s", csv_output_path)
+        return
+
     output_path.parent.mkdir(parents=True, exist_ok=True)
     df.to_excel(output_path, index=False)
     logger.info(f"Wrote digest WordPress import file: {output_path}")
     if args.csv:
-        csv_path = output_path.with_suffix('.csv')
+        csv_path = csv_output_path
         df.to_csv(
             csv_path,
             index=False,

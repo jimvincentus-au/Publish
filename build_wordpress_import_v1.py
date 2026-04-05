@@ -18,7 +18,7 @@ import pandas as pd
 DEFAULT_IMAGE_BASE_URL = "https://thedemocracyclock.com/wp-content/uploads"
 DEFAULT_SITE_BASE_URL = "https://thedemocracyclock.com"
 
-PUBLISH_ROOT = Path("/Volumes/PRINTIFY24/Democracy Clock Automation/Publish")
+PUBLISH_ROOT = Path("/Volumes/T3BlueJVI2026/Democracy Clock Automation/Publish")
 WP_OUTPUT_ROOT = PUBLISH_ROOT / "Output" / "Wordpress"
 WP_INPUT_ROOT = PUBLISH_ROOT / "Input" / "Wordpress"
 PUBLISH_LOGS_DIR = PUBLISH_ROOT / "Logs"
@@ -694,7 +694,7 @@ def export_index(df: pd.DataFrame) -> Dict[int, Dict[str, Any]]:
     """Index export rows by Week Number (int). For single post per week model."""
     out: Dict[int, Dict[str, Any]] = {}
     for _, r in df.iterrows():
-        row = {k: ("" if pd.isna(v) else v) for k, v in r.to_dict().items()}
+        row: Dict[str, Any] = {str(k): ("" if pd.isna(v) else v) for k, v in r.to_dict().items()}
         try:
             wk = int(row.get("Week Number", "") or row.get("Week Number ", ""))
         except Exception:
@@ -743,8 +743,10 @@ def _normalize_sources(value: object) -> str:
     return str(value).strip()
 
 
-def _minutes_after_noon_to_time_str(minutes_after_noon: float | int) -> str:
+def _minutes_after_noon_to_time_str(minutes_after_noon: float | int | None) -> str:
     """Convert minutes-after-noon to 'h:mm a.m./p.m.' (e.g., '11:57 p.m.')."""
+    if minutes_after_noon is None:
+        return ""
     try:
         m = int(round(float(minutes_after_noon)))
     except Exception:

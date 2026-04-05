@@ -18,7 +18,7 @@ import pandas as pd
 DEFAULT_IMAGE_BASE_URL = "https://thedemocracyclock.com/wp-content/uploads"
 DEFAULT_SITE_BASE_URL = "https://thedemocracyclock.com"
 
-PUBLISH_ROOT = Path("/Volumes/PRINTIFY24/Democracy Clock Automation/Publish")
+PUBLISH_ROOT = Path("/Volumes/T3BlueJVI2026/Democracy Clock Automation/Publish")
 WP_OUTPUT_ROOT = PUBLISH_ROOT / "Output" / "Wordpress"
 WP_INPUT_ROOT = PUBLISH_ROOT / "Input" / "Wordpress"
 PUBLISH_LOGS_DIR = PUBLISH_ROOT / "Logs"

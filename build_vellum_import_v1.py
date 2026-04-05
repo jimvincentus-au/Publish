@@ -30,7 +30,7 @@ from docx.oxml.ns import qn
 
 
 # --- Paths (match Publish pipeline conventions) ---
-PUBLISH_ROOT = Path("/Volumes/PRINTIFY24/Democracy Clock Automation/Publish")
+PUBLISH_ROOT = Path("/Volumes/T3BlueJVI2026/Democracy Clock Automation/Publish")
 PUBLISH_LOGS_DIR = PUBLISH_ROOT / "Logs"
 
 DEFAULT_INPUT_ROOT = PUBLISH_ROOT / "Output" / "Scrivener"

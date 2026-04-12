@@ -1,0 +1,225 @@
+{
+  "week_number": 64,
+  "period_label": "Week 64 – 2026-04-04–2026-04-10",
+  "window": {
+    "start": "2026-04-04",
+    "end": "2026-04-10"
+  },
+  "clock_time_public": "8:13 p.m.",
+  "clock_delta_minutes": 0.2,
+  "baseline_traits": [
+    {
+      "name": "character",
+      "definition": "Internal discipline to align words with deeds, to place public duty ahead of personal gain, and to honour the oath of office even when it conflicts with short-term advantage."
+    },
+    {
+      "name": "ethics",
+      "definition": "Commitment to keep a firm boundary between public power and private interest, avoiding conflicts of interest, self-dealing, and the use of office to enrich oneself, family, or allies."
+    },
+    {
+      "name": "restraint",
+      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+    },
+    {
+      "name": "truthfulness",
+      "definition": "Obligation to speak accurately on matters of public consequence, avoid deliberate disinformation, correct false statements, and ensure that citizens are not governed by manufactured unreality."
+    },
+    {
+      "name": "good_faith",
+      "definition": "Adherence to the spirit as well as the letter of democratic rules, keeping promises, respecting outcomes, and avoiding procedural manipulation that defeats the purpose of the law."
+    },
+    {
+      "name": "stewardship",
+      "definition": "Responsibility to maintain and strengthen institutions so they can serve future generations as well as the present, avoiding actions that permanently damage capacity, credibility, or public trust."
+    }
+  ],
+  "weekly_audit": {
+    "summary": "This week saw a continuation of the erosion of democratic norms, particularly in character, ethics, restraint, truthfulness, and good faith. The executive branch's actions increasingly prioritized political objectives over public duty, while Congress failed to assert its authority, reflecting a troubling trend of diminishing checks on executive power.",
+    "norms_broken": [
+      {
+        "trait": "character",
+        "pattern": "Executive actions prioritized political objectives over public duty, exemplified by Trump's unilateral military threats and disregard for constitutional limits.",
+        "severity": "serious",
+        "institutional_response": "Congressional leaders largely acquiesced to executive demands, failing to resist the erosion of legislative authority.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk64_character_ex1",
+            "week": 64,
+            "event_ids": [
+              "wk64_PA_003",
+              "wk64_PA_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk64_PA_003",
+                "development_label": "Trump threatened military action against Iran on social media.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Trump's public threats to use force against Iran exemplified prioritization of personal political goals over public duty.",
+            "why_exemplary": "This action illustrates a significant breach of character, undermining the principle of public duty in favor of personal political objectives.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "The administration's actions blurred lines between public authority and private interests, particularly in military and economic decisions.",
+        "severity": "serious",
+        "institutional_response": "Congress failed to effectively challenge the administration's use of emergency powers to bypass legislative oversight.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk64_ethics_ex1",
+            "week": 64,
+            "event_ids": [
+              "wk64_PA_007",
+              "wk64_PA_019"
+            ],
+            "developments": [
+              {
+                "development_id": "wk64_PA_007",
+                "development_label": "Trump signed an executive order directing DHS to use an error-prone immigration database to police voter eligibility.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The use of an immigration database to define eligible voters raised significant ethical concerns about the intertwining of public authority and private interests.",
+            "why_exemplary": "This event highlights a troubling intertwining of public authority and private interests, undermining ethical governance.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "The administration exhibited a lack of self-limitation in military actions and legislative pressures, pushing boundaries of executive power.",
+        "severity": "serious",
+        "institutional_response": "Congressional attempts to reassert authority were largely ineffective, reflecting a failure to uphold checks and balances.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk64_restraint_ex1",
+            "week": 64,
+            "event_ids": [
+              "wk64_IG_001",
+              "wk64_IG_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk64_IG_001",
+                "development_label": "House Republicans shut down a pro forma session to block a war powers vote on Iran.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Shutting down a session to block a war powers vote demonstrated a significant lack of restraint in executive authority.",
+            "why_exemplary": "This action reflects a concerning trend of diminishing legislative checks on executive power, undermining democratic norms.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "The administration's public statements often contradicted internal findings and realities, particularly regarding military actions and their consequences.",
+        "severity": "serious",
+        "institutional_response": "Media scrutiny increased, but the administration continued to manipulate narratives without accountability.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk64_truthfulness_ex1",
+            "week": 64,
+            "event_ids": [
+              "wk64_IM_010",
+              "wk64_IM_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk64_IM_010",
+                "development_label": "Trump repeatedly declared victory in the Iran war despite ongoing setbacks.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Trump's insistence on victory narratives in the face of setbacks exemplified a breach of truthfulness in public discourse.",
+            "why_exemplary": "This reflects a broader pattern of disinformation that undermines public trust and accountability.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Legislative processes were manipulated to favor partisan objectives, undermining the spirit of democratic engagement.",
+        "severity": "serious",
+        "institutional_response": "Congressional leaders largely complied with executive demands, failing to uphold democratic principles.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk64_good_faith_ex1",
+            "week": 64,
+            "event_ids": [
+              "wk64_CR_001",
+              "wk64_CR_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk64_CR_001",
+                "development_label": "Trump promised mass pardons to staff who had been near the Oval Office.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The promise of pardons for insiders exemplified a breach of good faith in legislative processes.",
+            "why_exemplary": "This reflects a manipulation of democratic norms to achieve partisan ends, undermining the integrity of the electoral process.",
+            "exemplar_type": "primary"
+          }
+        ]
+      }
+    ],
+    "norms_strengthened": [
+      {
+        "trait": "stewardship",
+        "pattern": "Judicial actions provided some checks on executive overreach, reinforcing the importance of institutional integrity.",
+        "scope": "institutional",
+        "why_it_matters": "Judicial interventions are crucial for maintaining accountability and protecting democratic norms.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk64_stewardship_ex1",
+            "week": 64,
+            "event_ids": [
+              "wk64_IG_014",
+              "wk64_IG_016"
+            ],
+            "developments": [
+              {
+                "development_id": "wk64_IG_014",
+                "development_label": "Federal district court judges issued rulings against Trump administration policies.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Judicial rulings against executive overreach exemplified a commitment to institutional integrity and accountability.",
+            "why_exemplary": "This demonstrates the judiciary's role in resisting executive overreach and protecting democratic processes.",
+            "exemplar_type": "primary"
+          }
+        ]
+      }
+    ],
+    "direction_of_movement": "collapsing"
+  },
+  "cumulative_condition": {
+    "narrative": "The trajectory of ethical conditions continues to deteriorate, with Week 64 marking a further consolidation of previously established patterns of erosion. The previous week indicated a concerning trend, and this week has further entrenched the normalization of executive overreach, manipulation of democratic processes, and erosion of public trust. The cumulative effect is a democracy increasingly governed by unilateral decisions and diminished accountability, despite some judicial pushback.",
+    "trend": "deteriorating",
+    "stress_points": [
+      "consolidation of executive power",
+      "manipulation of voting rights",
+      "erosion of ethical oversight",
+      "disinformation and narrative control"
+    ],
+    "sources_of_resilience": [
+      "judicial pushback in some cases",
+      "public advocacy and dissent",
+      "media scrutiny of government actions"
+    ]
+  },
+  "risk_assessment": {
+    "level": "high",
+    "justification": "The ongoing patterns of erosion, particularly in character, ethics, restraint, truthfulness, and good faith, indicate a high risk of further deterioration. The lack of effective institutional resistance to executive overreach and the manipulation of democratic processes suggest that the foundations of self-government are increasingly at risk.",
+    "forward_signals": [
+      "escalating military actions without congressional approval",
+      "continued push for restrictive voting laws",
+      "increased disinformation campaigns surrounding elections",
+      "further erosion of civil rights protections"
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "week_number": 70,
+  "period_label": "Week 70 – 2026-05-16–2026-05-22",
+  "window": {
+    "start": "2026-05-16",
+    "end": "2026-05-22"
+  },
+  "clock_time_public": "8:13 p.m.",
+  "clock_delta_minutes": 0.0,
+  "baseline_traits": [
+    {
+      "name": "character",
+      "definition": "Internal discipline to align words with deeds, to place public duty ahead of personal gain, and to honour the oath of office even when it conflicts with short-term advantage."
+    },
+    {
+      "name": "ethics",
+      "definition": "Commitment to keep a firm boundary between public power and private interest, avoiding conflicts of interest, self-dealing, and the use of office to enrich oneself, family, or allies."
+    },
+    {
+      "name": "restraint",
+      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+    },
+    {
+      "name": "truthfulness",
+      "definition": "Obligation to speak accurately on matters of public consequence, avoid deliberate disinformation, correct false statements, and ensure that citizens are not governed by manufactured unreality."
+    },
+    {
+      "name": "good_faith",
+      "definition": "Adherence to the spirit as well as the letter of democratic rules, keeping promises, respecting outcomes, and avoiding procedural manipulation that defeats the purpose of the law."
+    },
+    {
+      "name": "stewardship",
+      "definition": "Responsibility to maintain and strengthen institutions so they can serve future generations as well as the present, avoiding actions that permanently damage capacity, credibility, or public trust."
+    }
+  ],
+  "weekly_audit": {
+    "summary": "The week’s moral pattern was narrow but clear. No broad new campaign appeared, yet a consequential breach persisted through personnel disruption at a technical regulator, where leadership churn weakened confidence that expert judgment could operate independently of political pressure. At the same time, one security-related prosecution proceeded through ordinary court channels, showing that some rule-of-law routines still functioned. Overall, the moral floor continued to erode through administrative insecurity rather than spectacle.",
+    "norms_broken": [
+      {
+        "trait": "restraint",
+        "pattern": "Executive-aligned leadership used removal power inside a technical agency in a way that appears to have pressed lawful authority beyond democratic self-limitation, making senior officials more dependent on political favor.",
+        "severity": "concerning",
+        "institutional_response": "The digest shows the agency’s formal structure remained in place, but no clear internal or external corrective response appears within the week’s record.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk70_restraint_ex01",
+            "week": 70,
+            "event_ids": [
+              "wk70_IG_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk70_IG_001",
+                "development_label": "FDA leadership fired acting drug chief Tracy Beth Høeg during a broader leadership shake-up.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A top FDA official was removed amid wider leadership churn.",
+            "why_exemplary": "Restraint requires using personnel authority with care where institutional independence matters. This removal signaled a willingness to use formal power in ways that heighten political dependence inside expert administration.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "The week’s main development suggested governance through disruption rather than transparent policy change, altering institutional behavior without openly defending a substantive change in mission or standards.",
+        "severity": "concerning",
+        "institutional_response": "The record describes the effect on agency incentives, but it does not show a contemporaneous corrective intervention by Congress, courts, or oversight bodies.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk70_good_faith_ex01",
+            "week": 70,
+            "event_ids": [
+              "wk70_IG_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk70_IG_001",
+                "development_label": "FDA leadership fired acting drug chief Tracy Beth Høeg during a broader leadership shake-up.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Leadership churn changed agency conditions without any formal mission rewrite.",
+            "why_exemplary": "Good faith requires honoring the purpose of public institutions, not merely exploiting formal authority. Using churn to make expertise more pliable weakens the spirit of impartial administration.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Stable expert governance at a major regulator was weakened by leadership removal, broader churn, and continued reliance on acting status, increasing the risk of long-term damage to capacity, credibility, and internal candor.",
+        "severity": "serious",
+        "institutional_response": "The week’s record shows the agency continuing formally, but with no evident stabilizing response sufficient to offset the institutional damage described.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk70_stewardship_ex01",
+            "week": 70,
+            "event_ids": [
+              "wk70_IG_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk70_IG_001",
+                "development_label": "FDA leadership fired acting drug chief Tracy Beth Høeg during a broader leadership shake-up.",
+                "role": "primary"
+              }
+            ],
+            "summary": "FDA leadership instability weakened continuity at a technical regulator.",
+            "why_exemplary": "Stewardship is breached when an institution that depends on expertise and continuity is made less secure, because future decision quality and public trust can decline even without formal legal change.",
+            "exemplar_type": "primary"
+          }
+        ]
+      }
+    ],
+    "norms_strengthened": [
+      {
+        "trait": "good_faith",
+        "pattern": "A terrorism-related case proceeded through ordinary prosecutorial and judicial channels rather than exceptional or visibly politicized security mechanisms.",
+        "scope": "institutional",
+        "why_it_matters": "Using regular legal process in a sensitive security matter helps preserve the principle that even serious state action should remain within ordinary democratic procedures.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk70_good_faith_ex02",
+            "week": 70,
+            "event_ids": [
+              "wk70_IG_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk70_IG_002",
+                "development_label": "The Justice Department charged Mohammad Baqer Saad Dawood al-Saadi in federal court with terrorism-related offenses.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A terrorism case moved through standard federal court channels.",
+            "why_exemplary": "Good faith is reinforced when the government uses ordinary legal pathways instead of bypassing them in the name of security necessity.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "The available record shows federal security enforcement operating through normal court process rather than through extraordinary executive action.",
+        "scope": "institutional",
+        "why_it_matters": "Restraint in security matters is democratically important because it keeps coercive state power reviewable, bounded, and tied to established law.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk70_restraint_ex02",
+            "week": 70,
+            "event_ids": [
+              "wk70_IG_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk70_IG_002",
+                "development_label": "The Justice Department charged Mohammad Baqer Saad Dawood al-Saadi in federal court with terrorism-related offenses.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Security-related prosecution stayed within ordinary judicial process.",
+            "why_exemplary": "Choosing regular court channels over exceptional measures reflects self-limitation in an area where governments often claim broader latitude.",
+            "exemplar_type": "primary"
+          }
+        ]
+      }
+    ],
+    "direction_of_movement": "eroding"
+  },
+  "cumulative_condition": {
+    "narrative": "This week fits the prior trajectory more by confirmation than expansion. The earlier pattern was a republic increasingly governed by actors willing to use formal powers instrumentally while leaving repair to courts, watchdogs, and other outside correctives. Week 70 did not add a new domain of ethical breach. Instead, it thickened an existing one: pressure on agency independence through personnel disruption rather than overt legal change.\n\nThat matters because the prior summary already identified stewardship and good faith as major stress points. This week reinforces both. The FDA episode suggests that institutional weakening can proceed through instability, acting status, and the lesson that disagreement may carry career risk. At the same time, the ordinary handling of the terrorism case shows the moral floor has not collapsed entirely. Some core legal routines still operate through standard channels. The cumulative condition is therefore still deteriorating, but in a quieter, more administrative form than the previous week’s broader hardball patterns.",
+    "trend": "deteriorating",
+    "stress_points": [
+      "leadership churn weakening expert agency independence",
+      "use of personnel power to make administration more politically pliable",
+      "continued reliance on unstable acting leadership in key institutions",
+      "erosion of internal candor and professional security inside regulators"
+    ],
+    "sources_of_resilience": [
+      "ordinary federal court process still functioning in security cases",
+      "formal legal channels remain available for serious prosecutions",
+      "institutional shells and routine procedures still intact"
+    ]
+  },
+  "risk_assessment": {
+    "level": "high",
+    "justification": "High risk is warranted because the week’s main breach touched stewardship, restraint, and good faith inside a major technical regulator. The record does not show open lawbreaking or a dramatic institutional rupture. Instead, it shows something more durable and harder to reverse: the use of leadership instability to weaken the conditions under which expertise can resist political pressure. That kind of change can degrade decision quality and public trust while leaving formal structures outwardly unchanged.\n\nThe risk is not rated severe or critical because the digest also shows at least one important sign of continued democratic function: a terrorism-related case moved through ordinary judicial channels rather than exceptional executive process. That indicates some institutional self-limitation remains. But if the FDA pattern continues, the democracy becomes more vulnerable to a broader culture in which public service depends less on competence and more on alignment, making future norm erosion easier and less visible.",
+    "forward_signals": [
+      "additional removals or forced resignations at expert agencies",
+      "continued use of acting officials instead of stable confirmed leadership",
+      "signs that agency staff soften or suppress internal disagreement",
+      "further evidence that regulatory decisions track political alignment over expertise",
+      "whether ordinary court process continues to govern sensitive security matters"
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "categories": [
+    {
+      "events": [],
+      "name": "Power and Authority"
+    },
+    {
+      "events": [
+        {
+          "_debug_event_id_remap": {
+            "from": "IG_001",
+            "to": "wk70_IG_001"
+          },
+          "action": "fired acting drug chief Tracy Beth H\u00f8eg during a broader leadership shake-up",
+          "actor": "FDA leadership",
+          "category": "Institutions and Governance",
+          "date": "2026-05-16",
+          "event_date": "2026-05-16",
+          "event_id": "wk70_IG_001",
+          "provenance": {
+            "dates": [
+              "2026-05-16"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk070-0002"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "The removal of a top FDA official amid wider leadership churn weakened stable, expert agency governance and increased the risk that regulatory decisions would turn on political control rather than professional independence.",
+          "trait_links": [
+            7,
+            16,
+            22
+          ]
+        },
+        {
+          "_debug_event_id_remap": {
+            "from": "IG_002",
+            "to": "wk70_IG_002"
+          },
+          "action": "charged Mohammad Baqer Saad Dawood al-Saadi in federal court with terrorism-related offenses",
+          "actor": "The Justice Department",
+          "category": "Institutions and Governance",
+          "date": "2026-05-16",
+          "event_date": "2026-05-16",
+          "event_id": "wk70_IG_002",
+          "provenance": {
+            "dates": [
+              "2026-05-16"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk070-0001"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "The case showed federal security and court processes operating through ordinary judicial channels, making it relevant as an instance of rule-of-law function rather than exceptional executive action.",
+          "trait_links": []
+        }
+      ],
+      "name": "Institutions and Governance"
+    },
+    {
+      "events": [],
+      "name": "Economic Structure"
+    },
+    {
+      "events": [],
+      "name": "Civil Rights and Dissent"
+    },
+    {
+      "events": [],
+      "name": "Information, Memory and Manipulation"
+    }
+  ],
+  "clock_delta_minutes": 0.0,
+  "clock_time_public": "8:13 p.m.",
+  "period_label": "Week 70 \u2013 2026-05-16\u20132026-05-22",
+  "week_number": 70,
+  "window": {
+    "end": "2026-05-22",
+    "start": "2026-05-16"
+  }
+}

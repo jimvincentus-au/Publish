@@ -5,8 +5,8 @@
     "start": "2025-03-15",
     "end": "2025-03-21"
   },
-  "clock_time_public": "7:56 p.m.",
-  "clock_delta_minutes": 3.3,
+  "clock_time_public": "7:53 p.m.",
+  "clock_delta_minutes": 1.2,
   "baseline_traits": [
     {
       "name": "character",
@@ -34,35 +34,35 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week saw a significant escalation in authoritarian practices, with executive actions undermining democratic norms and institutions, while courts and civil society struggled to maintain accountability and resist these trends.",
+    "summary": "This week marked a significant deterioration in the moral floor of democracy, with executive actions increasingly undermining legal norms and institutional integrity, while courts and civil society struggled to mount effective resistance.",
     "norms_broken": [
       {
         "trait": "character",
         "pattern": "Executive actions prioritized personal and political gain over public duty, particularly through mass deportations and attacks on judicial independence.",
         "severity": "serious",
-        "institutional_response": "Courts issued some rulings to block actions, but overall institutional resistance was limited.",
+        "institutional_response": "Judicial pushback occurred, but overall institutional resistance was limited.",
         "exemplars": [
           {
             "exemplar_id": "wk09_character_ex01",
             "week": 9,
             "event_ids": [
               "wk09_PA_002",
-              "wk09_PA_018"
+              "wk09_PA_003"
             ],
             "developments": [
               {
                 "development_id": "wk09_PA_002",
-                "development_label": "Invoked the Alien Enemies Act to authorize deportations.",
+                "development_label": "Invoked the Alien Enemies Act for mass deportations.",
                 "role": "primary"
               },
               {
-                "development_id": "wk09_PA_018",
-                "development_label": "Called for the impeachment of Judge Boasberg.",
+                "development_id": "wk09_PA_003",
+                "development_label": "Continued deportations despite a federal court order.",
                 "role": "primary"
               }
             ],
-            "summary": "The use of wartime powers for deportations and calls for judicial impeachment exemplified prioritization of political narratives over public duty.",
-            "why_exemplary": "These actions illustrated a shift towards personal rule, undermining the integrity of public institutions.",
+            "summary": "The use of the Alien Enemies Act for mass deportations exemplified prioritization of political objectives over legal norms.",
+            "why_exemplary": "These actions illustrated a blatant disregard for due process and the rule of law.",
             "exemplar_type": "primary"
           }
         ]
@@ -77,30 +77,30 @@
             "exemplar_id": "wk09_ethics_ex01",
             "week": 9,
             "event_ids": [
-              "wk09_PA_010",
-              "wk09_PA_019"
+              "wk09_PA_011",
+              "wk09_PA_017"
             ],
             "developments": [
               {
-                "development_id": "wk09_PA_010",
-                "development_label": "Eliminated the US Agency for Global Media.",
+                "development_id": "wk09_PA_011",
+                "development_label": "Signed an order eliminating diversity practices in the Foreign Service.",
                 "role": "primary"
               },
               {
-                "development_id": "wk09_PA_019",
-                "development_label": "Filed articles of impeachment against Judge Boasberg.",
+                "development_id": "wk09_PA_017",
+                "development_label": "Expedited domestic mineral production on federal lands.",
                 "role": "primary"
               }
             ],
-            "summary": "The elimination of independent media oversight and targeting of judges blurred the lines between public office and private interests.",
-            "why_exemplary": "These actions exemplified a disregard for ethical boundaries, prioritizing personal and political interests.",
+            "summary": "The elimination of diversity practices and prioritization of mineral extraction reflected a disregard for ethical boundaries.",
+            "why_exemplary": "These actions exemplified a prioritization of political interests over ethical governance.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding immigration and judicial independence.",
+        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding immigration and national security.",
         "severity": "serious",
         "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
         "exemplars": [
@@ -108,23 +108,23 @@
             "exemplar_id": "wk09_truthfulness_ex01",
             "week": 9,
             "event_ids": [
-              "wk09_IM_008",
-              "wk09_CR_015"
+              "wk09_IM_018",
+              "wk09_IM_019"
             ],
             "developments": [
               {
-                "development_id": "wk09_IM_008",
-                "development_label": "Claimed Biden's pardons were invalid due to autopen signatures.",
+                "development_id": "wk09_IM_018",
+                "development_label": "Attacked the legitimacy of Biden’s pardons using autopen conspiracy claims.",
                 "role": "primary"
               },
               {
-                "development_id": "wk09_CR_015",
-                "development_label": "Dismissed concerns about innocent people caught in mass deportations.",
+                "development_id": "wk09_IM_019",
+                "development_label": "Used deportation imagery to celebrate harsh immigration enforcement.",
                 "role": "primary"
               }
             ],
-            "summary": "The president's false claims about pardons and dismissive rhetoric regarding deportations spread disinformation and undermined trust.",
-            "why_exemplary": "These actions embedded disinformation at the center of governance, undermining trust in governmental processes.",
+            "summary": "The administration's disinformation regarding pardons and the promotion of punitive imagery undermined public trust.",
+            "why_exemplary": "These actions embedded disinformation at the center of governance, further eroding trust in governmental processes.",
             "exemplar_type": "primary"
           }
         ]
@@ -139,22 +139,22 @@
             "exemplar_id": "wk09_good_faith_ex01",
             "week": 9,
             "event_ids": [
-              "wk09_CR_001",
+              "wk09_CR_004",
               "wk09_CR_011"
             ],
             "developments": [
               {
-                "development_id": "wk09_CR_001",
-                "development_label": "Used the Alien Enemies Act to deport migrants without due process.",
+                "development_id": "wk09_CR_004",
+                "development_label": "Revoked legal status for over 530,000 immigrants.",
                 "role": "primary"
               },
               {
                 "development_id": "wk09_CR_011",
-                "development_label": "Revoked temporary legal status for over 530,000 immigrants.",
+                "development_label": "Used a foreign policy provision to arrest activist Mahmoud Khalil.",
                 "role": "primary"
               }
             ],
-            "summary": "The use of emergency powers for deportations and revocation of legal status politicized enforcement and undermined legal protections.",
+            "summary": "The revocation of legal status and politicization of enforcement actions undermined established legal protections.",
             "why_exemplary": "These actions disregarded established processes for justice, undermining the spirit of legal protections.",
             "exemplar_type": "primary"
           }
@@ -162,7 +162,7 @@
       },
       {
         "trait": "stewardship",
-        "pattern": "The dismantling of oversight mechanisms and the removal of independent media weakened institutional accountability.",
+        "pattern": "The dismantling of oversight mechanisms and the removal of inspectors general weakened institutional accountability.",
         "severity": "serious",
         "institutional_response": "Limited pushback from existing oversight bodies, highlighting a lack of resilience.",
         "exemplars": [
@@ -170,65 +170,33 @@
             "exemplar_id": "wk09_stewardship_ex01",
             "week": 9,
             "event_ids": [
-              "wk09_PA_008",
-              "wk09_IM_002"
+              "wk09_PA_015",
+              "wk09_IM_001"
             ],
             "developments": [
               {
-                "development_id": "wk09_PA_008",
-                "development_label": "Ordered the dismantling of the US Institute of Peace's independent board.",
+                "development_id": "wk09_PA_015",
+                "development_label": "Signed orders to dismantle the Department of Education.",
                 "role": "primary"
               },
               {
-                "development_id": "wk09_IM_002",
+                "development_id": "wk09_IM_001",
                 "development_label": "Eliminated the US Agency for Global Media.",
                 "role": "primary"
               }
             ],
-            "summary": "The dismantling of independent oversight bodies undermined institutional capacity and accountability.",
+            "summary": "The dismantling of the Department of Education and the US Agency for Global Media undermined institutional capacity and accountability.",
             "why_exemplary": "These actions stripped internal watchdogs of their power, reducing institutional capacity to investigate executive misconduct.",
             "exemplar_type": "primary"
           }
         ]
       }
     ],
-    "norms_strengthened": [
-      {
-        "trait": "good_faith",
-        "pattern": "Judicial actions temporarily blocked some of the administration's most aggressive moves, demonstrating a commitment to uphold legal norms.",
-        "scope": "institutional",
-        "why_it_matters": "These judicial interventions highlight the importance of checks and balances in resisting executive overreach.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk09_good_faith_ex01",
-            "week": 9,
-            "event_ids": [
-              "wk09_IG_008",
-              "wk09_IG_010"
-            ],
-            "developments": [
-              {
-                "development_id": "wk09_IG_008",
-                "development_label": "Issued temporary restraining orders limiting deportations under the Alien Enemies Act.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk09_IG_010",
-                "development_label": "Blocked attempts to dismantle USAID as unconstitutional.",
-                "role": "primary"
-              }
-            ],
-            "summary": "Judicial rulings enforced prior restraining orders on deportations and agency functions, reaffirming judicial power to compel executive compliance.",
-            "why_exemplary": "These actions reinforced congressional control over appropriations and limited executive attempts to unilaterally suspend international commitments.",
-            "exemplar_type": "primary"
-          }
-        ]
-      }
-    ],
+    "norms_strengthened": [],
     "direction_of_movement": "collapsing"
   },
   "cumulative_condition": {
-    "narrative": "Week 9 marks a significant escalation in the concerning trends established in previous weeks, with the consolidation of executive power and the aggressive use of executive actions to reshape governance. The administration's actions increasingly prioritize personal and political interests over public duty, exemplified by mass deportations and attacks on judicial independence. The erosion of accountability mechanisms, including the dismantling of oversight bodies and the politicization of the justice system, further exacerbates the risks to democratic integrity. However, judicial pushback indicates that some institutional resilience remains, albeit under significant threat.",
+    "narrative": "Week 9 reflects a significant deepening of the concerning trends established in previous weeks, with the consolidation of executive power and the aggressive use of executive actions to reshape governance. The administration's actions increasingly prioritize personal and political interests over public duty, exemplified by mass deportations and the centralization of authority within federal agencies. The erosion of accountability mechanisms, including the dismantling of oversight bodies and the politicization of the justice system, further exacerbates the risks to democratic integrity. Judicial pushback indicates that some institutional resilience remains, but it is under significant threat.",
     "trend": "deteriorating",
     "stress_points": [
       "centralization of executive power",

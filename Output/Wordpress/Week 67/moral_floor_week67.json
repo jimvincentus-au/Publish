@@ -1,0 +1,629 @@
+{
+  "week_number": 67,
+  "period_label": "Week 67 – 2026-04-25–2026-05-01",
+  "window": {
+    "start": "2026-04-25",
+    "end": "2026-05-01"
+  },
+  "clock_time_public": "8:13 p.m.",
+  "clock_delta_minutes": 0.1,
+  "baseline_traits": [
+    {
+      "name": "character",
+      "definition": "Internal discipline to align words with deeds, to place public duty ahead of personal gain, and to honour the oath of office even when it conflicts with short-term advantage."
+    },
+    {
+      "name": "ethics",
+      "definition": "Commitment to keep a firm boundary between public power and private interest, avoiding conflicts of interest, self-dealing, and the use of office to enrich oneself, family, or allies."
+    },
+    {
+      "name": "restraint",
+      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+    },
+    {
+      "name": "truthfulness",
+      "definition": "Obligation to speak accurately on matters of public consequence, avoid deliberate disinformation, correct false statements, and ensure that citizens are not governed by manufactured unreality."
+    },
+    {
+      "name": "good_faith",
+      "definition": "Adherence to the spirit as well as the letter of democratic rules, keeping promises, respecting outcomes, and avoiding procedural manipulation that defeats the purpose of the law."
+    },
+    {
+      "name": "stewardship",
+      "definition": "Responsibility to maintain and strengthen institutions so they can serve future generations as well as the present, avoiding actions that permanently damage capacity, credibility, or public trust."
+    }
+  ],
+  "weekly_audit": {
+    "summary": "The week showed continued erosion of the moral floor through conversion of formal authority into personal, partisan, or coercive advantage. The dominant pattern was not open lawlessness but strategic use of rulings, prosecutions, executive framing, contracts, and appropriations to weaken ethical boundaries while preserving procedural appearance. Courts, oversight committees, litigants, and public protest still supplied resistance, but the breaches were broad, quickly operationalized, and increasingly normalized across elections, immigration, war powers, media pressure, and conflicts of interest.",
+    "norms_broken": [
+      {
+        "trait": "character",
+        "pattern": "Senior officials repeatedly appeared to place personal or political advantage ahead of disciplined public duty, especially in war powers and the use of public office for image-building projects.",
+        "severity": "serious",
+        "institutional_response": "Congressional committees questioned war conduct and some lawmakers demanded authorization, but the main actors shown in the digest did not meaningfully self-correct.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk67_character_ex01",
+            "week": 67,
+            "event_ids": [
+              "wk67_PA_005",
+              "wk67_IG_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk67_PA_005",
+                "development_label": "President Trump justified military action against Iran without congressional approval by citing an imminent threat.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk67_IG_012",
+                "development_label": "House Democrats called on President Trump to seek congressional approval for military action against Iran.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Military action was justified unilaterally despite immediate demands for congressional authorization.",
+            "why_exemplary": "Character requires honoring constitutional duty even when unilateral action is tempting. The episode shows preference for executive advantage over oath-bound respect for shared war powers.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk67_character_ex02",
+            "week": 67,
+            "event_ids": [
+              "wk67_PA_002",
+              "wk67_IG_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk67_PA_002",
+                "development_label": "President Trump pushed for a new White House ballroom after the White House Correspondents' dinner shooting.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk67_IG_005",
+                "development_label": "Lawmakers proposed legislation to fund a White House ballroom with public money and customs fees.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A security incident was turned into momentum for a president-backed building project.",
+            "why_exemplary": "Using a public crisis to advance a leader-centered project suggests weak alignment between public duty and personal priorities.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "The line between state power and private or family benefit remained blurred through branding, family-linked business advantage, and public spending tied to presidential interests.",
+        "severity": "serious",
+        "institutional_response": "Some scrutiny appeared in media and legislative settings, but the digest shows no decisive enforcement restoring a clear boundary between office and private benefit.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk67_ethics_ex01",
+            "week": 67,
+            "event_ids": [
+              "wk67_ES_022",
+              "wk67_ES_029"
+            ],
+            "developments": [
+              {
+                "development_id": "wk67_ES_022",
+                "development_label": "President Trump used the presidency to promote family business interests repeatedly.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk67_ES_029",
+                "development_label": "Donald Trump Jr. and Eric Trump acquired a stake in a U.S.-backed mining venture that had received major administration support.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Presidential messaging and family business interests overlapped with administration-backed economic policy.",
+            "why_exemplary": "Ethics fails when public authority and family enrichment move close enough to make official support look inseparable from private gain.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk67_ethics_ex02",
+            "week": 67,
+            "event_ids": [
+              "wk67_PA_007",
+              "wk67_ES_031"
+            ],
+            "developments": [
+              {
+                "development_id": "wk67_PA_007",
+                "development_label": "The U.S. government announced America250 passports featuring Donald Trump's image.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk67_ES_031",
+                "development_label": "The Trump administration prepared a Qatari jet for Donald Trump with taxpayer-funded upgrades.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "State symbolism and taxpayer resources were directed toward the president's image and personal benefit.",
+            "why_exemplary": "These acts blur public office with leader branding and material advantage, weakening the ethical boundary democracy depends on.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "Executive and allied institutions kept stretching power beyond norm-limited use, especially in war, immigration, surveillance, and emergency-style regulatory framing.",
+        "severity": "serious",
+        "institutional_response": "Courts and some lawmakers imposed friction, but Congress also expanded coercive capacity and renewed surveillance powers, limiting the force of corrective checks.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk67_restraint_ex01",
+            "week": 67,
+            "event_ids": [
+              "wk67_PA_011",
+              "wk67_IG_036"
+            ],
+            "developments": [
+              {
+                "development_id": "wk67_PA_011",
+                "development_label": "The Trump administration told Congress that hostilities with Iran had terminated while U.S. forces remained engaged in the region.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk67_IG_036",
+                "development_label": "The Senate Armed Services Committee questioned Pete Hegseth about the Iran war and military conduct.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Ongoing military engagement was redefined to reduce war-powers constraints.",
+            "why_exemplary": "Restraint requires accepting limits on force. Redefining conflict to escape oversight shows an effort to preserve maximum executive discretion instead.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk67_restraint_ex02",
+            "week": 67,
+            "event_ids": [
+              "wk67_CRD_007",
+              "wk67_IG_038"
+            ],
+            "developments": [
+              {
+                "development_id": "wk67_CRD_007",
+                "development_label": "The Senate advanced major new ICE and Border Patrol funding without added accountability measures.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk67_IG_038",
+                "development_label": "Congress extended and reauthorized FISA Section 702 surveillance powers.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Coercive enforcement and surveillance powers expanded without matching safeguards.",
+            "why_exemplary": "The week favored enlarging state reach over self-limiting guardrails, a classic breach of democratic restraint.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "Official narratives on war and public events were contested by contrary evidence, while the information environment was further strained by retaliation and misreporting.",
+        "severity": "concerning",
+        "institutional_response": "Independent evidence, hearings, and some media scrutiny challenged misleading claims, but truthful public understanding still depended heavily on outside correction.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk67_truthfulness_ex01",
+            "week": 67,
+            "event_ids": [
+              "wk67_IMM_010",
+              "wk67_PA_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk67_IMM_010",
+                "development_label": "Satellite imagery contradicted President Trump's claims about collapsing Iranian oil infrastructure.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk67_PA_011",
+                "development_label": "The administration told Congress that hostilities with Iran had terminated while forces remained engaged.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Independent evidence and official war claims diverged on matters of major public consequence.",
+            "why_exemplary": "Truthfulness is weakened when citizens must rely on outside evidence to test executive claims about war and its effects.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk67_truthfulness_ex02",
+            "week": 67,
+            "event_ids": [
+              "wk67_IMM_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk67_IMM_001",
+                "development_label": "Major media outlets misreported key facts about the White House Correspondents' dinner shooting.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Major outlets misreported key facts during a fast-moving security crisis.",
+            "why_exemplary": "Even outside government, breakdowns in accurate reporting weaken the shared factual ground democratic accountability requires.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Formal procedures were used in ways that frustrated the purpose of oversight, fair elections, and neutral law enforcement rather than honoring democratic rules in spirit.",
+        "severity": "serious",
+        "institutional_response": "Litigants, judges, and oversight committees pushed back through suits, contempt measures, and election challenges, but they were often reacting after manipulation had already occurred.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk67_good_faith_ex01",
+            "week": 67,
+            "event_ids": [
+              "wk67_CRD_012",
+              "wk67_IG_044"
+            ],
+            "developments": [
+              {
+                "development_id": "wk67_CRD_012",
+                "development_label": "Louisiana officials postponed congressional primaries after the Supreme Court's voting-rights ruling.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk67_IG_044",
+                "development_label": "The ACLU, voting-rights groups, and Lindsey Garcia sued to restore Louisiana's suspended congressional primaries.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "An active election was delayed and tied to rushed redistricting, prompting emergency litigation.",
+            "why_exemplary": "Good faith requires administering elections to preserve voter expectations, not exploiting legal openings to unsettle the field midstream.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk67_good_faith_ex02",
+            "week": 67,
+            "event_ids": [
+              "wk67_IG_017"
+            ],
+            "developments": [
+              {
+                "development_id": "wk67_IG_017",
+                "development_label": "The Department of Justice indicted James Comey over an Instagram post with the numbers 86 47.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Criminal process was used against a political adversary over ambiguous expression.",
+            "why_exemplary": "Applying prosecutorial power in a politically charged, ambiguous case suggests procedure was used as warning and leverage, not only neutral law enforcement.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Institutional capacity and democratic infrastructure were weakened through attacks on voting protections, scientific capacity, and accountability systems meant to outlast current leaders.",
+        "severity": "serious",
+        "institutional_response": "Some courts preserved review and some agencies continued ordinary public processes, but the week's major structural moves cut against long-term institutional health.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk67_stewardship_ex01",
+            "week": 67,
+            "event_ids": [
+              "wk67_IG_040",
+              "wk67_CRD_008"
+            ],
+            "developments": [
+              {
+                "development_id": "wk67_IG_040",
+                "development_label": "The Supreme Court issued a ruling in Louisiana v. Callais that weakened Section 2 of the Voting Rights Act.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk67_CRD_008",
+                "development_label": "The Florida legislature passed a new congressional map after the ruling.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A core voting-rights protection was weakened and quickly converted into new mapmaking.",
+            "why_exemplary": "Stewardship fails when long-standing protections for fair representation are reduced in ways that invite rapid partisan exploitation.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk67_stewardship_ex02",
+            "week": 67,
+            "event_ids": [
+              "wk67_ES_042",
+              "wk67_ES_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk67_ES_042",
+                "development_label": "The Trump administration dismantled most of the EPA's research arm and aligned remaining work with administration priorities.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk67_ES_009",
+                "development_label": "House lawmakers heard testimony on proposed EPA budget cuts of about 52%.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Independent scientific capacity inside a regulator was cut and politically aligned.",
+            "why_exemplary": "Democracy depends on institutions that can still know, measure, and warn. Weakening research capacity damages future governance, not just current policy.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      }
+    ],
+    "norms_strengthened": [
+      {
+        "trait": "ethics",
+        "pattern": "Some institutions still enforced conflict-of-interest boundaries and internal accountability rules rather than treating them as optional.",
+        "scope": "institutional",
+        "why_it_matters": "Visible enforcement of impartiality and ethics review helps preserve the idea that officeholders remain answerable to standards beyond loyalty or convenience.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk67_ethics_ex03",
+            "week": 67,
+            "event_ids": [
+              "wk67_IG_003"
+            ],
+            "developments": [
+              {
+                "development_id": "wk67_IG_003",
+                "development_label": "Judge Kendrick Guidry recused himself from a Catholic church abuse case after a conflict of interest was disclosed.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A judge stepped aside after a conflict of interest was disclosed.",
+            "why_exemplary": "Recusal is a direct reaffirmation that adjudicative power must yield when impartiality is compromised.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk67_ethics_ex04",
+            "week": 67,
+            "event_ids": [
+              "wk67_IG_039"
+            ],
+            "developments": [
+              {
+                "development_id": "wk67_IG_039",
+                "development_label": "The House Ethics Committee opened an investigation into Representative Chuck Edwards.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Congress activated its internal ethics machinery against a sitting member.",
+            "why_exemplary": "Even limited internal inquiry matters because it signals that misconduct allegations are not wholly absorbed into partisan immunity.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "Courts and some state actors continued to impose or choose limits where broader political incentives favored expansion of power.",
+        "scope": "institutional",
+        "why_it_matters": "External and voluntary limits help prevent aggressive uses of authority from becoming the only operating norm.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk67_restraint_ex03",
+            "week": 67,
+            "event_ids": [
+              "wk67_IG_029"
+            ],
+            "developments": [
+              {
+                "development_id": "wk67_IG_029",
+                "development_label": "A federal judge dismissed the DOJ's lawsuit seeking Arizona voter-roll data.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A judge blocked federal efforts to compel state voter-roll data.",
+            "why_exemplary": "The ruling limited federal reach where legal authority was insufficient, reinforcing that coercive access to election data is not automatic.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk67_restraint_ex04",
+            "week": 67,
+            "event_ids": [
+              "wk67_CRD_014"
+            ],
+            "developments": [
+              {
+                "development_id": "wk67_CRD_014",
+                "development_label": "Governor Brian Kemp said Georgia would not redistrict before the 2026 midterms.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Georgia declined to reopen redistricting before the midterms.",
+            "why_exemplary": "Against a wider rush to exploit a new legal opening, choosing not to redraw showed that self-limitation remained possible.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "Independent evidence and disclosure litigation continued to keep channels of factual verification open against official opacity and contested narratives.",
+        "scope": "institutional",
+        "why_it_matters": "Democratic correction depends on records, evidence, and adversarial scrutiny that can test official claims.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk67_truthfulness_ex03",
+            "week": 67,
+            "event_ids": [
+              "wk67_IG_016",
+              "wk67_IG_032"
+            ],
+            "developments": [
+              {
+                "development_id": "wk67_IG_016",
+                "development_label": "Katie Phang sued the Department of Justice over alleged noncompliance with the Epstein Files Transparency Act.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk67_IG_032",
+                "development_label": "Protect Democracy Project sued the IRS over records tied to Antifa domestic-terror directives.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "FOIA and transparency suits sought records behind politically sensitive executive actions.",
+            "why_exemplary": "Compelling disclosure helps keep public understanding tied to documents and evidence rather than managed secrecy.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk67_truthfulness_ex04",
+            "week": 67,
+            "event_ids": [
+              "wk67_IMM_010"
+            ],
+            "developments": [
+              {
+                "development_id": "wk67_IMM_010",
+                "development_label": "Satellite imagery contradicted President Trump's claims about collapsing Iranian oil infrastructure.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Independent imagery checked official claims about war-related damage.",
+            "why_exemplary": "The availability of verifiable outside evidence is a practical defense against manufactured unreality in matters of war.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Oversight bodies, litigants, and civic groups continued to use lawful review, hearings, and protest rather than abandoning constitutional channels.",
+        "scope": "public",
+        "why_it_matters": "Democracy remains repairable when conflict is still pursued through courts, legislatures, and organized nonviolent action.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk67_good_faith_ex03",
+            "week": 67,
+            "event_ids": [
+              "wk67_IG_026",
+              "wk67_IG_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk67_IG_026",
+                "development_label": "The House Oversight Committee filed a civil contempt resolution against Pam Bondi after she skipped a deposition.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk67_IG_009",
+                "development_label": "House and Senate committees requested Secret Service briefings after the White House Correspondents' dinner shooting.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Congress continued formal oversight through contempt process and security briefings.",
+            "why_exemplary": "Persisting with lawful oversight affirms that disputes over executive conduct should be handled through constitutional accountability mechanisms.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk67_good_faith_ex04",
+            "week": 67,
+            "event_ids": [
+              "wk67_CRD_005",
+              "wk67_CRD_017"
+            ],
+            "developments": [
+              {
+                "development_id": "wk67_CRD_005",
+                "development_label": "Protest organizers held more than 200 demonstrations against ICE detention facilities across the country.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk67_CRD_017",
+                "development_label": "May Day organizers planned nationwide rallies, marches, walkouts, and labor actions.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Civil society answered state pressure with large-scale nonviolent protest and organizing.",
+            "why_exemplary": "Lawful mass mobilization shows democratic opposition still operating inside civic rather than extra-legal channels.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Some agencies and courts still maintained ordinary processes that preserve institutional continuity, expertise, and rights protection.",
+        "scope": "institutional",
+        "why_it_matters": "Routine maintenance of review, expertise, and funding continuity helps keep institutions usable for future correction.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk67_stewardship_ex03",
+            "week": 67,
+            "event_ids": [
+              "wk67_IG_035",
+              "wk67_IG_037"
+            ],
+            "developments": [
+              {
+                "development_id": "wk67_IG_035",
+                "development_label": "Congress enacted the Homeland Security and Further Additional Continuing Appropriations Act.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk67_IG_037",
+                "development_label": "President Trump signed a bipartisan bill ending the Department of Homeland Security shutdown.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A bipartisan appropriations law restored continuity after a damaging shutdown standoff.",
+            "why_exemplary": "Keeping a major department funded preserves baseline state capacity and prevents further institutional degradation from brinkmanship.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk67_stewardship_ex04",
+            "week": 67,
+            "event_ids": [
+              "wk67_ES_002",
+              "wk67_ES_003"
+            ],
+            "developments": [
+              {
+                "development_id": "wk67_ES_002",
+                "development_label": "The FDA announced a public advisory meeting on the 2026-2027 COVID-19 vaccine formula.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk67_ES_003",
+                "development_label": "The FDA renewed the Anesthetic and Analgesic Drug Products Advisory Committee.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Federal health agencies kept expert advisory and public-review processes active.",
+            "why_exemplary": "Maintaining expert input and open process protects institutional competence even amid broader politicization pressures.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      }
+    ],
+    "direction_of_movement": "eroding"
+  },
+  "cumulative_condition": {
+    "narrative": "This week fits and deepens the prior trajectory rather than changing it. Week 66 already showed a republic relying more on external correction than on internal ethical discipline from central power holders. Week 67 extends that condition by showing how quickly legal openings, executive claims, and administrative tools can be converted into practical advantage. The moral floor is still not fully collapsed because courts, oversight committees, litigants, and civil society remain active. But the burden of preserving democratic ethics continues to fall on reactive resistance after the fact.\n\nWhat changed this week is the speed with which weakened norms became operating practice. The Supreme Court's voting-rights ruling was rapidly translated into redistricting and election disruption. War powers were not only asserted broadly but linguistically redefined to evade constraint. Public resources and symbols were drawn toward presidential image and family-linked interests. Scientific and regulatory capacity was thinned while coercive enforcement and surveillance capacity expanded. The cumulative picture is of a democracy whose formal structures still function, but whose ethical baseline is increasingly unstable because self-limitation, neutrality, and public-purpose discipline are no longer reliably internalized at the top.",
+    "trend": "deteriorating",
+    "stress_points": [
+      "rapid conversion of court rulings into partisan mapmaking",
+      "executive redefinition of war to evade congressional limits",
+      "routine blurring of public office with family or leader benefit",
+      "expansion of immigration detention and enforcement without matching safeguards",
+      "politicized or selective use of prosecutorial and regulatory power",
+      "weakening of scientific and voting-rights infrastructure",
+      "continued opacity around politically sensitive records and directives"
+    ],
+    "sources_of_resilience": [
+      "judicial review that kept election, detention, and records disputes alive",
+      "congressional hearings, contempt process, and security oversight",
+      "FOIA and transparency litigation by journalists and watchdog groups",
+      "visible conflict-of-interest enforcement through recusal and ethics inquiry",
+      "bipartisan appropriations action restoring agency continuity",
+      "large-scale nonviolent protest and civic mobilization"
+    ]
+  },
+  "risk_assessment": {
+    "level": "high",
+    "justification": "High risk is warranted because the week's breaches were not isolated and were mutually reinforcing across several moral-floor traits at once. Ethics, restraint, good faith, and stewardship all weakened in connected ways: voting protections were narrowed and immediately exploited; war powers were stretched and then rhetorically redefined; immigration and surveillance capacity expanded without comparable safeguards; and public office remained entangled with personal branding and family-linked benefit. These are not merely policy disagreements. They concern whether power is being exercised for public purposes under self-limiting democratic norms.\n\nThe risk is not rated critical because meaningful counterforces still operated. Courts preserved review in multiple areas, Congress continued some oversight, ethics mechanisms still functioned in limited ways, agencies maintained some ordinary expert and public processes, and civil society remained active through lawful protest and litigation. But those supports are increasingly compensatory rather than preventive. If the same pattern continues—formal legality used to mask partisan manipulation, personal use of state resources, and further weakening of institutional capacity—the moral floor could move from steady erosion toward a more durable breakdown in democratic legitimacy.",
+    "forward_signals": [
+      "whether Louisiana and other states continue using the voting-rights ruling to alter maps or election timing",
+      "further executive claims that redefine ongoing conflict to avoid war-powers review",
+      "additional prosecutions or regulatory actions against critics, journalists, or political adversaries",
+      "new public spending or symbolic state actions tied to presidential image or family interests",
+      "continued expansion of ICE and Border Patrol funding without accountability measures",
+      "further cuts to scientific, regulatory, or oversight capacity inside federal agencies"
+    ]
+  }
+}

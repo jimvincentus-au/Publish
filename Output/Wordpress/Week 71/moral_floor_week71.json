@@ -1,0 +1,471 @@
+{
+  "week_number": 71,
+  "period_label": "Week 71 – 2026-05-23–2026-05-29",
+  "window": {
+    "start": "2026-05-23",
+    "end": "2026-05-29"
+  },
+  "clock_time_public": "8:14 p.m.",
+  "clock_delta_minutes": 0.2,
+  "baseline_traits": [
+    {
+      "name": "character",
+      "definition": "Internal discipline to align words with deeds, to place public duty ahead of personal gain, and to honour the oath of office even when it conflicts with short-term advantage."
+    },
+    {
+      "name": "ethics",
+      "definition": "Commitment to keep a firm boundary between public power and private interest, avoiding conflicts of interest, self-dealing, and the use of office to enrich oneself, family, or allies."
+    },
+    {
+      "name": "restraint",
+      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+    },
+    {
+      "name": "truthfulness",
+      "definition": "Obligation to speak accurately on matters of public consequence, avoid deliberate disinformation, correct false statements, and ensure that citizens are not governed by manufactured unreality."
+    },
+    {
+      "name": "good_faith",
+      "definition": "Adherence to the spirit as well as the letter of democratic rules, keeping promises, respecting outcomes, and avoiding procedural manipulation that defeats the purpose of the law."
+    },
+    {
+      "name": "stewardship",
+      "definition": "Responsibility to maintain and strengthen institutions so they can serve future generations as well as the present, avoiding actions that permanently damage capacity, credibility, or public trust."
+    }
+  ],
+  "weekly_audit": {
+    "summary": "The week showed a broad ethical weakening rather than a single rupture. Executive and allied actors repeatedly used public office, symbols, money, and coercive tools in ways that appeared personal, retaliatory, or opaque. The pattern was not merely isolated misconduct: it linked retaliation against critics, conflict-of-interest concerns, pressure on dissent, manipulation of public memory, and procedural evasions. Courts, inspectors general, state officials, and some legislators still resisted, but mostly after the conduct had already occurred. The moral floor therefore continued to erode through normalization of reactive defense.",
+    "norms_broken": [
+      {
+        "trait": "character",
+        "pattern": "Public office was repeatedly used in ways that appeared to place personal image, personal advantage, or retaliation ahead of public duty.",
+        "severity": "serious",
+        "institutional_response": "Courts and some oversight actors pushed back in related disputes, but the digest shows no direct institutional correction of the underlying personalist conduct during the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk71_character_ex01",
+            "week": 71,
+            "event_ids": [
+              "wk71_PA_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk71_PA_002",
+                "development_label": "President Trump issued executive orders targeting Andrew Weissmann",
+                "role": "primary"
+              }
+            ],
+            "summary": "Executive power was directed at a named critic rather than a neutral public purpose.",
+            "why_exemplary": "Character fails when official authority is used for personal retaliation, because oath-bound power is redirected from public duty to settling scores.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk71_character_ex02",
+            "week": 71,
+            "event_ids": [
+              "wk71_PA_012",
+              "wk71_IG_024"
+            ],
+            "developments": [
+              {
+                "development_id": "wk71_PA_012",
+                "development_label": "The administration proposed a $250 bill bearing Donald Trump's portrait",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk71_IG_024",
+                "development_label": "The White House pushed Congress to approve a $250 bill with Trump's image",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Leader-centered use of national currency symbolism advanced through executive pressure.",
+            "why_exemplary": "This is exemplary because it shows public office serving personal glorification rather than the impersonal dignity expected of democratic leadership.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "The boundary between public power and private gain weakened across finance, procurement, promotion, and donor-linked regulatory decisions.",
+        "severity": "extreme",
+        "institutional_response": "An inspector general opened an audit, legislators introduced blocking legislation, and courts scrutinized related funding structures, but the week still showed repeated conflict-of-interest signals across multiple domains.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk71_ethics_ex01",
+            "week": 71,
+            "event_ids": [
+              "wk71_PA_006"
+            ],
+            "developments": [
+              {
+                "development_id": "wk71_PA_006",
+                "development_label": "President Trump was reported to have used his office for insider trading and a $1.776 billion settlement benefiting allies",
+                "role": "primary"
+              }
+            ],
+            "summary": "Reported presidential conduct suggested self-enrichment and ally enrichment through office.",
+            "why_exemplary": "This directly implicates ethics because it describes public power being used for private financial benefit and patronage rather than neutral governance.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk71_ethics_ex02",
+            "week": 71,
+            "event_ids": [
+              "wk71_ES_018"
+            ],
+            "developments": [
+              {
+                "development_id": "wk71_ES_018",
+                "development_label": "The Pentagon expedited a $620 million loan to a startup linked to Donald Trump Jr.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Major public financing appeared to move faster for a politically connected family-linked venture.",
+            "why_exemplary": "This is exemplary because it suggests state resources may have been allocated through political relationship rather than impartial public criteria.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "Officials used coercive, retaliatory, and symbolic powers aggressively where democratic self-limitation would have counseled narrower, less punitive action.",
+        "severity": "serious",
+        "institutional_response": "State officials created a protected protest zone, courts blocked some related actions, and some local leaders resisted federal pressure, but these were reactive limits rather than evidence of self-restraint by the initiating actors.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk71_restraint_ex01",
+            "week": 71,
+            "event_ids": [
+              "wk71_CRD_010"
+            ],
+            "developments": [
+              {
+                "development_id": "wk71_CRD_010",
+                "development_label": "Federal agents used pepper spray and other force against protesters outside Delaney Hall in Newark",
+                "role": "primary"
+              }
+            ],
+            "summary": "Federal agents repeatedly used force against demonstrators near a detention site.",
+            "why_exemplary": "Restraint is weakened when the state answers scrutiny and assembly with force rather than calibrated protection of order and protest rights.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk71_restraint_ex02",
+            "week": 71,
+            "event_ids": [
+              "wk71_IG_013"
+            ],
+            "developments": [
+              {
+                "development_id": "wk71_IG_013",
+                "development_label": "House Speaker Mike Johnson sent House members home early to avoid a war powers vote on Iran",
+                "role": "primary"
+              }
+            ],
+            "summary": "Procedural control was used to avoid a legislative check on military action.",
+            "why_exemplary": "This illustrates failed restraint because formal authority was used to prevent an accountability mechanism from operating when it was most needed.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "Public understanding was degraded by official denial, contested claims, archive removal, and synthetic or deceptive political messaging.",
+        "severity": "serious",
+        "institutional_response": "Oversight hearings, lawsuits, and public reporting kept some contested facts visible, but the digest shows no broad correction of the underlying informational distortions.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk71_truthfulness_ex01",
+            "week": 71,
+            "event_ids": [
+              "wk71_IMM_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk71_IMM_001",
+                "development_label": "The Department of Justice removed January 6 criminal case press releases from its website",
+                "role": "primary"
+              }
+            ],
+            "summary": "Official records about January 6 were removed from public access.",
+            "why_exemplary": "Truthfulness is not only speech but preservation of factual public record; deleting official archive material weakens citizens' access to shared reality.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk71_truthfulness_ex02",
+            "week": 71,
+            "event_ids": [
+              "wk71_IMM_006"
+            ],
+            "developments": [
+              {
+                "development_id": "wk71_IMM_006",
+                "development_label": "DHS denied that a hunger strike at Delaney Hall was real and called it a political stunt",
+                "role": "primary"
+              }
+            ],
+            "summary": "DHS publicly denied detainee and advocate accounts about a hunger strike.",
+            "why_exemplary": "This is exemplary because official denial of abuse-related claims can manufacture uncertainty around matters of urgent public consequence.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Actors repeatedly used legal and procedural tools in ways that appeared to defeat oversight, neutral administration, or the intended purpose of public rules.",
+        "severity": "serious",
+        "institutional_response": "Federal judges blocked the Anti-Weaponization Fund, ordered responses, and kept review alive; some legislators and former judges also intervened, showing resistance to procedural manipulation.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk71_good_faith_ex01",
+            "week": 71,
+            "event_ids": [
+              "wk71_IG_036",
+              "wk71_IG_037",
+              "wk71_IG_030"
+            ],
+            "developments": [
+              {
+                "development_id": "wk71_IG_036",
+                "development_label": "A federal judge temporarily blocked the Anti-Weaponization Fund while litigation proceeds",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk71_IG_037",
+                "development_label": "Thirty-five former federal judges filed papers challenging the settlement fund",
+                "role": "secondary"
+              },
+              {
+                "development_id": "wk71_IG_030",
+                "development_label": "A federal court ordered Donald Trump to respond to retired judges' filing over the Anti-Weaponization Fund",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A disputed public fund for political allies triggered urgent judicial intervention.",
+            "why_exemplary": "The need for emergency judicial blocking suggests public procedures may have been used contrary to their intended neutral and lawful purpose.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk71_good_faith_ex02",
+            "week": 71,
+            "event_ids": [
+              "wk71_IG_013"
+            ],
+            "developments": [
+              {
+                "development_id": "wk71_IG_013",
+                "development_label": "House Speaker Mike Johnson sent House members home early to avoid a war powers vote on Iran",
+                "role": "primary"
+              }
+            ],
+            "summary": "House procedure was used to prevent a vote on war powers.",
+            "why_exemplary": "Good faith is breached when procedural control is used to frustrate the checking function that the procedure exists to enable.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Institutional credibility and long-term capacity were weakened by politicized pressure on oversight, secrecy, archive erosion, and instability in security and law-enforcement functions.",
+        "severity": "serious",
+        "institutional_response": "Courts, inspectors general, archives procedures, and some state actors still functioned, but they were increasingly defending institutions after damage or attempted damage had already occurred.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk71_stewardship_ex01",
+            "week": 71,
+            "event_ids": [
+              "wk71_IG_020"
+            ],
+            "developments": [
+              {
+                "development_id": "wk71_IG_020",
+                "development_label": "FBI Director Kash Patel fired a top FBI intelligence official",
+                "role": "primary"
+              }
+            ],
+            "summary": "A senior FBI analyst was removed over a politically sensitive assessment.",
+            "why_exemplary": "Stewardship fails when professional analytic capacity is made contingent on political acceptability, weakening institutional credibility over time.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk71_stewardship_ex02",
+            "week": 71,
+            "event_ids": [
+              "wk71_IMM_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk71_IMM_004",
+                "development_label": "The Office of Personnel Management proposed nondisclosure agreements for federal workers",
+                "role": "primary"
+              }
+            ],
+            "summary": "A proposal would formalize broader silence obligations across the federal workforce.",
+            "why_exemplary": "This is exemplary because institutions lose long-term trust and corrective capacity when insiders are more constrained from exposing misconduct or informing the public.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      }
+    ],
+    "norms_strengthened": [
+      {
+        "trait": "restraint",
+        "pattern": "Courts and state officials imposed limits on coercive or overreaching conduct, preserving space for review and protest rather than allowing immediate executive consolidation.",
+        "scope": "institutional",
+        "why_it_matters": "Democratic restraint is reinforced when institutions insist that power remain reviewable and that dissent not be met only with force.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk71_restraint_ex03",
+            "week": 71,
+            "event_ids": [
+              "wk71_CRD_018"
+            ],
+            "developments": [
+              {
+                "development_id": "wk71_CRD_018",
+                "development_label": "New Jersey officials assigned state police to replace federal agents outside Delaney Hall and created a protected protest zone",
+                "role": "primary"
+              }
+            ],
+            "summary": "State officials reduced confrontation and protected a zone for assembly.",
+            "why_exemplary": "This strengthened restraint by substituting de-escalation and rights protection for a more combustible federal posture toward protest.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk71_restraint_ex04",
+            "week": 71,
+            "event_ids": [
+              "wk71_CRD_008"
+            ],
+            "developments": [
+              {
+                "development_id": "wk71_CRD_008",
+                "development_label": "The Third Circuit temporarily blocked the re-detention of Mahmoud Khalil",
+                "role": "primary"
+              }
+            ],
+            "summary": "A court blocked renewed detention while review continued.",
+            "why_exemplary": "The order matters because it kept coercive immigration power from expanding before legal scrutiny could occur.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Some institutions defended the intended operation of democratic procedures by refusing rushed electoral manipulation and by insisting disputed executive actions face legal review before taking effect.",
+        "scope": "institutional",
+        "why_it_matters": "Good faith survives when institutions preserve the purpose of rules rather than merely their formal shell.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk71_good_faith_ex03",
+            "week": 71,
+            "event_ids": [
+              "wk71_IG_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk71_IG_012",
+                "development_label": "The South Carolina Senate rejected a proposal to redraw congressional districts before the midterms",
+                "role": "primary"
+              }
+            ],
+            "summary": "A state senate refused a rushed pre-midterm map change.",
+            "why_exemplary": "This reinforced good faith by declining to use formal legislative power to alter representation opportunistically during an active election cycle.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk71_good_faith_ex04",
+            "week": 71,
+            "event_ids": [
+              "wk71_IG_036"
+            ],
+            "developments": [
+              {
+                "development_id": "wk71_IG_036",
+                "development_label": "A federal judge temporarily blocked the Anti-Weaponization Fund while litigation proceeds",
+                "role": "primary"
+              }
+            ],
+            "summary": "A judge stopped disputed public money from moving before review.",
+            "why_exemplary": "This matters because it preserved the spirit of lawful administration by preventing potentially improper patronage from becoming a fait accompli.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Oversight and procedural institutions continued to preserve records review, expert input, and judicial supervision despite wider pressure on transparency and neutrality.",
+        "scope": "institutional",
+        "why_it_matters": "Stewardship depends on keeping the state governable and reviewable even when political actors try to bend it toward personal or partisan ends.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk71_stewardship_ex03",
+            "week": 71,
+            "event_ids": [
+              "wk71_IG_010"
+            ],
+            "developments": [
+              {
+                "development_id": "wk71_IG_010",
+                "development_label": "The DHS inspector general opened an audit into detention-facility warehouse purchases and contracts",
+                "role": "primary"
+              }
+            ],
+            "summary": "An internal watchdog opened review of detention spending and contracts.",
+            "why_exemplary": "This strengthened stewardship by preserving institutional capacity to detect misuse of public funds in a coercive part of the state.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk71_stewardship_ex04",
+            "week": 71,
+            "event_ids": [
+              "wk71_IG_018"
+            ],
+            "developments": [
+              {
+                "development_id": "wk71_IG_018",
+                "development_label": "The National Archives and Records Administration requested public comments on proposed federal records schedules",
+                "role": "primary"
+              }
+            ],
+            "summary": "Records management remained subject to public process.",
+            "why_exemplary": "This is exemplary because accountable recordkeeping is a core institutional safeguard against secrecy, memory loss, and unreviewable government action.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      }
+    ],
+    "direction_of_movement": "eroding"
+  },
+  "cumulative_condition": {
+    "narrative": "This week extends and broadens the prior trajectory. Week 70 showed selective ethical weakening inside expert administration, especially through instability and pressure within a major regulator. Week 71 moved beyond that narrower pattern into a more mature phase of erosion: the same weakening of independence and public purpose now appeared across immigration enforcement, procurement, symbolic state action, information control, and retaliatory uses of law. The moral floor is no longer being tested mainly through isolated administrative insecurity. It is being worn down through repeated acts that make power more personal, more punitive, and less transparent.\n\nThe cumulative pattern is deterioration with active but uneven resistance. Courts, inspectors general, state officials, and some legislators still function as brakes, and several did so this week with real effect. But the recurring shape is that corrective institutions are forced into after-the-fact defense. That matters ethically because a functioning moral floor depends not only on formal remedies existing, but on officeholders exercising self-limitation before those remedies are needed. This week suggests that self-limitation is weakening faster than institutional repair can normalize.",
+    "trend": "deteriorating",
+    "stress_points": [
+      "retaliatory use of executive and legal power against critics",
+      "conflict-of-interest signals in public financing, procurement, and promotion",
+      "pressure on protest and immigration-related dissent",
+      "erosion of official archives and tighter bureaucratic secrecy",
+      "procedural manipulation to avoid oversight or neutral review",
+      "personalization of public symbols and state property"
+    ],
+    "sources_of_resilience": [
+      "federal courts blocking or narrowing disputed executive actions",
+      "state and local officials protecting protest space and local autonomy",
+      "inspector general oversight of spending and contracts",
+      "legislative and civil-society challenges to patronage structures",
+      "public records and comment processes still operating in parts of the administrative state"
+    ]
+  },
+  "risk_assessment": {
+    "level": "severe",
+    "justification": "Severe risk is warranted because this week showed simultaneous weakening across nearly all six moral floor traits. The most dangerous feature was convergence: retaliation against critics, conflict-of-interest concerns, coercive responses to protest, archive removal, secrecy proposals, and procedural evasions all pointed in the same direction. That pattern is ethically more serious than a single scandal because it teaches officials and the public that democratic boundaries are negotiable so long as courts or other actors are left to react later.\n\nThe risk is not yet best described as critical because the digest still shows meaningful resistance. Judges blocked the Anti-Weaponization Fund, protected protest and detention-related rights in some cases, enforced statutory limits, and preserved review. State and local actors also drew lines. But those defenses were mostly reactive and piecemeal. If the current pattern continues, the republic becomes more vulnerable to norm erosion not because rules vanish, but because the burden of enforcing them shifts ever more heavily onto institutions that are already being tested.",
+    "forward_signals": [
+      "further retaliatory actions against named critics, media, or watchdogs",
+      "additional efforts to route public money or contracts toward allies or family-linked ventures",
+      "continued force or criminal escalation around immigration-related protest",
+      "expansion of secrecy measures or further alteration of official archives",
+      "new attempts to personalize national symbols or federal property",
+      "whether courts and state actors continue to impose timely limits rather than only delayed review"
+    ]
+  }
+}

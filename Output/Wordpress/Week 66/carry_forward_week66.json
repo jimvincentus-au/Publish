@@ -1,19 +1,19 @@
 {
-  "clock_after_minutes": 493.0,
-  "clock_before_minutes": 493.1,
+  "clock_after_minutes": 493.3,
+  "clock_before_minutes": 493.4,
   "clock_delta_minutes": -0.1,
-  "generated_at": "2026-05-16T11:08:23.149148+00:00",
+  "generated_at": "2026-05-23T06:45:07.237464+00:00",
   "provenance": {
     "mel": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Master Event Logs/master_index_week66_2026-04-18_2026-04-24.json",
     "mel_sha1": "b454648e6b28f69e3f6c276730f4a3fb1cb7b432",
     "prior": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Weeks/Week 65/carry_forward_week65.json",
-    "prior_sha1": "caa42b2dc4d90c612c66f77443cd2b9c8bf1a5d9",
+    "prior_sha1": "0a55e597c8079adf7a81cec82b40d62e88015147",
     "trait_catalogue": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Programs/step3_trait_catalogue_v4.json",
     "trait_catalogue_sha1": "636ee63296eafb124942adf76cebfb6936d491e4"
   },
   "totals": {
     "difficulty_sum": 117.0,
-    "presence_sum": 376.0
+    "presence_sum": 376.3
   },
   "traits": [
     {
@@ -235,7 +235,7 @@
       },
       "difficulty": 2.0,
       "notes": "",
-      "presence": 5.3,
+      "presence": 5.4,
       "rationale": "Presence is 4.8 (notable) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Institutional baselines improved (respect for oversight, apolitical DOJ posture), yet Court doctrine and structural incentives from the 2010s persisted. Week 0 weights these durable architectures over goodwill. Difficulty 0.9 is readily reversible: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "legislatures_as_performance_not_deliberation",
       "trait_name": "Legislatures function as performance, not deliberation",
@@ -685,7 +685,7 @@
       },
       "difficulty": 2.0,
       "notes": "",
-      "presence": 6.7,
+      "presence": 6.8,
       "rationale": "Presence is 6.8 (elevated) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Civil liberties posture improved, with symmetrical enforcement and fewer retaliations. However, surveillance infrastructure and uneven state practices endured, keeping risks above pre\u20112017 levels. Difficulty 1.6 is highly sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "voter_suppression_rationalized_as_integrity",
       "trait_name": "Voter suppression is rationalized as election integrity",
@@ -880,7 +880,7 @@
       },
       "difficulty": 2.0,
       "notes": "",
-      "presence": 5.7,
+      "presence": 5.8,
       "rationale": "Presence is 5.6 (moderate) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Institutional baselines improved (respect for oversight, apolitical DOJ posture), yet Court doctrine and structural incentives from the 2010s persisted. Week 0 weights these durable architectures over goodwill. Difficulty 1.3 is partly reversible: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "government_archives_sealed_sanitized_or_destroyed",
       "trait_name": "Government archives are sealed, sanitized, or destroyed",
@@ -917,29 +917,29 @@
       "trait_number": 60
     }
   ],
-  "updated_at": "2026-05-16T11:08:23.149164+00:00",
+  "updated_at": "2026-05-23T06:45:07.237492+00:00",
   "week": 66,
   "weekly_analytic_brief": {
     "sensor": {
       "institutional_shifts": [
-        "The Justice Department moved further toward overt politicization, combining retaliatory investigations, selective noncompliance with transparency obligations, denaturalization planning, and expanded death-penalty machinery.",
-        "Federal law enforcement agencies, especially FBI and immigration authorities, showed sharper alignment with political priorities rather than neutral administration, including reporter scrutiny, deportation escalation, and judge removals.",
-        "Congress displayed a split pattern: some meaningful oversight and anti-corruption efforts emerged, but major Republican actions advanced immigration hardening, symbolic leader glorification, and blocked anti-war legislation.",
-        "Courts remained the main site of democratic resistance, with judges blocking or narrowing several administration actions on gender-affirming care, environmental policy, media concentration, and records access.",
-        "State-level institutions became more polarized: Virginia\u2019s redistricting fight showed democratic contestation, while Florida and North Carolina advanced anti-DEI, anti-climate, and voter-suppression measures."
+        "The Justice Department moved further from neutral law enforcement toward overtly politicized deployment, with loyalist-led probes, retaliation against critics, and expanded punitive agendas in immigration and capital punishment.",
+        "Congress showed a split pattern: some oversight and anti-corruption efforts intensified, but reconciliation tactics and symbolic Trump-centric legislation also weakened deliberative norms and accountability.",
+        "Courts remained one of the few active checking institutions, blocking or narrowing several administration actions, protecting records access, and preserving some rights claims, especially in civil-rights and media cases.",
+        "Federal immigration machinery expanded in both scale and aggressiveness, with more funding, more personnel, denaturalization planning, DACA exposure, and broader deployment into local communities.",
+        "The military and national-security apparatus showed instability at the top, with leadership churn, reports of commanders sidelining Trump operationally, and policy shifts affecting readiness and civil-military trust."
       ],
       "oddities_or_open_questions": [
-        "The military reportedly excluding Trump from operational decision spaces is an unusual civil-military signal: it suggests internal containment of presidential volatility, but also raises unresolved questions about command legitimacy.",
-        "The scale and legal theory of the denaturalization push merit close follow-up, especially whether it remains narrowly fraud-based or expands into a broader ideological or discretionary citizenship regime.",
-        "Several corruption stories around Iran, UAE ties, and prediction-market trading point to a larger pattern, but many allegations still require documentary confirmation or formal investigative action."
+        "The same week contained both strong judicial checks and deeper executive-lawfare escalation; whether courts can meaningfully slow institutional capture remains an open empirical question.",
+        "Virginia\u2019s redistricting story was unusually fluid, with voter approval, legislative action, and court blockage all colliding; the final institutional meaning depends on appellate resolution.",
+        "The FBI investigation of a reporter appears especially important: whether it was an isolated retaliatory episode or evidence of a broader doctrine toward press intimidation warrants close follow-up."
       ],
-      "summary": "This was a high-pressure week defined less by a single constitutional rupture than by the convergence of retaliation, politicized enforcement, and patronage-driven governance across multiple institutions. The strongest signals came from the Justice Department and federal law enforcement: appointment of a Trump loyalist to investigate prior Trump investigators, reports that Trump directly steered prosecutions of rivals, the FBI\u2019s investigation of a New York Times reporter, expanded denaturalization plans, immigration-judge firings, and continued efforts to unwind accountability for January 6 participants. A second major theme was corruption and self-dealing around war and foreign policy, especially scrutiny of Jared Kushner\u2019s Saudi ties, UAE-Trump business entanglements, insider-trading allegations tied to the Iran conflict, and government actions that blurred public power with private benefit. Elections and information systems also came under pressure through DOJ demands for election records, North Carolina voter-data and challenge schemes, and censorship/book-ban developments. Countervailing democratic repair existed, mainly in courts and some legislative oversight, but it was narrower and more defensive than the week\u2019s broader authoritarian drift.",
+      "summary": "This was a high-pressure week defined less by a single constitutional rupture than by the accumulation of coercive, retaliatory, and self-protective uses of state power. The strongest pattern was the conversion of legal and administrative machinery into partisan instruments: DOJ appointments and investigations aimed at Trump critics, the indictment of the SPLC, pressure on election officials, denaturalization planning, immigration-judge firings, and FBI scrutiny of a New York Times reporter all point toward law being used as a weapon rather than a constraint. A second major theme was corruption and patronage fused with policy: Kushner\u2019s Saudi-linked diplomatic role, Trump-family business entanglements with the UAE and crypto ventures, Pentagon contracting concerns, and donor-linked Interior decisions all reinforced crony governance. Third, the week showed intensified pressure on immigrants, dissent, and information integrity through deportations, detention expansion, voter-data demands, censorship fights, book bans, and retaliatory media litigation. Countervailing democratic repair did appear in courts, oversight efforts, and some immigrant-protection legislation, but these were mostly defensive checks against a broader pattern of executive overreach, politicized enforcement, and elite impunity.",
       "top_themes": [
-        "Retaliatory governance moved from rhetoric into institutional practice, especially through DOJ and FBI actions targeting rivals, civil-society actors, immigrants, and journalists under legalistic cover.",
-        "War, diplomacy, and corruption became intertwined, with the Iran conflict generating allegations of insider trading, conflicts of interest, and policy choices entangled with family business interests.",
-        "Election administration was pressured through record demands, voter-data collection, challenge mechanisms, and litigation that framed suppression as integrity enforcement.",
-        "The administration and allied officials repeatedly tried to control information flows through no-question press events, journalist intimidation, censorship battles, and suppression of inconvenient scientific findings.",
-        "Civil service and agency integrity weakened further as loyalist appointments, judge firings, labor-regulation rollbacks, and enforcement reallocations shifted institutions away from neutral public service."
+        "Governing through retaliation: law-enforcement and prosecutorial tools were repeatedly directed at critics, journalists, civil-rights actors, immigrants, and prior investigators rather than applied with visible neutrality.",
+        "Cronyism embedded in policy: foreign policy, contracting, bailout discussions, and regulatory decisions repeatedly intersected with Trump-family business interests, donor influence, or loyalist appointments.",
+        "Election administration as a target: voter-data demands, ballot seizures, suppression bills, and fraud-framed interventions continued to shift election oversight toward intimidation and distrust.",
+        "Information control by pressure rather than formal censorship: reporter investigations, defamation suits, banned press questions, book bans, and suppressed scientific publication all narrowed scrutiny and public knowledge.",
+        "Immigration enforcement as institutional expansion: denaturalization plans, DACA vulnerability, detention growth, judge firings, and major new funding pushed immigration policy further toward coercive state capacity."
       ]
     }
   },

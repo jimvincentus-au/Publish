@@ -34,310 +34,274 @@
     }
   ],
   "weekly_audit": {
-    "summary": "The week showed continued erosion of the moral floor through conversion of legal openings into immediate political use. The most serious pattern was not a single rupture but a practiced willingness to use emergency powers, redistricting, agency pressure, procurement discretion, and disinformation for advantage while leaving repair to courts, local bodies, and civil society after the fact. Some institutions still resisted, but the dominant ethical pattern was normalization of hardball conduct that weakens democratic trust and self-limitation.",
+    "summary": "The week showed continued erosion of the moral floor through practiced use of formal authority for partisan advantage, coercion, and concealment rather than neutral public duty. The strongest breaches involved election manipulation, pressure on independent regulators, blurred lines between public spending and leader-serving projects, and repeated pollution of the public record. Resistance remained real but mostly reactive: courts, local governments, civil-society litigants, oversight letters, and routine administrative processes still imposed friction without reversing the broader pattern.",
     "norms_broken": [
       {
-        "trait": "character",
-        "pattern": "Senior officials repeatedly treated public office as an instrument for personal, political, or tactical advantage rather than oath-bound duty, especially where intimidation or prestige projects displaced institutional responsibility.",
-        "severity": "serious",
-        "institutional_response": "Courts, litigants, and some legislators challenged particular actions, but the digest shows little internal self-correction by the main actors.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk69_character_ex01",
-            "week": 69,
-            "event_ids": [
-              "wk69_PA_009"
-            ],
-            "developments": [
-              {
-                "development_id": "wk69_PA_009",
-                "development_label": "President Trump called for the prosecution of political opponents in a late-night social media barrage.",
-                "role": "primary"
-              }
-            ],
-            "summary": "The president urged criminal action against political rivals.",
-            "why_exemplary": "Character requires disciplined separation between public duty and personal or partisan grievance. Calling for prosecutions of opponents suggests office was used to pursue conflict rather than uphold impartial obligation.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk69_character_ex02",
-            "week": 69,
-            "event_ids": [
-              "wk69_PA_004",
-              "wk69_ES_006"
-            ],
-            "developments": [
-              {
-                "development_id": "wk69_PA_004",
-                "development_label": "President Trump awarded a no-bid contract for Lincoln Memorial Reflecting Pool repairs.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk69_ES_006",
-                "development_label": "The cost of the Reflecting Pool project rose to $13.1 million.",
-                "role": "secondary"
-              }
-            ],
-            "summary": "A favored public project advanced through no-bid contracting as costs rose.",
-            "why_exemplary": "Pursuing a presidentially favored project through reduced safeguards and rising cost suggests public duty yielded to preference and display rather than disciplined stewardship of office.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
         "trait": "ethics",
-        "pattern": "The boundary between public power and private or leader-centered benefit remained blurred through no-bid spending, prestige funding, and conflict-of-interest exposure around president-linked businesses and officials.",
+        "pattern": "Public authority and budgeting were again blurred with leader-centered or politically connected interests, weakening the boundary between public purpose and private or personal benefit.",
         "severity": "serious",
-        "institutional_response": "Media scrutiny, lawsuits, and some congressional opposition created friction, but the week shows no decisive restoration of a clear boundary between office and private interest.",
+        "institutional_response": "Civil-society plaintiffs sued over the Reflecting Pool project, and Senate Democrats objected to ballroom-related funding, but the digest shows the underlying projects and funding pushes still advancing.",
         "exemplars": [
           {
             "exemplar_id": "wk69_ethics_ex01",
             "week": 69,
             "event_ids": [
               "wk69_PA_004",
-              "wk69_IG_011"
+              "wk69_ES_004"
             ],
             "developments": [
               {
                 "development_id": "wk69_PA_004",
-                "development_label": "President Trump awarded a no-bid contract for Lincoln Memorial Reflecting Pool repairs.",
+                "development_label": "President Trump awarded a no-bid contract for Lincoln Memorial Reflecting Pool repairs",
                 "role": "primary"
               },
               {
-                "development_id": "wk69_IG_011",
-                "development_label": "Former Justice Department employees and preservation groups sued to halt the project.",
+                "development_id": "wk69_ES_004",
+                "development_label": "Former Justice Department employees and preservation groups sued over the Reflecting Pool project as costs rose under a no-bid contract",
                 "role": "secondary"
               }
             ],
-            "summary": "A no-bid presidentially favored project triggered lawsuits over bypassed procedures.",
-            "why_exemplary": "Ethics weakens when procurement safeguards are bypassed on a leader-linked project, because public spending becomes more vulnerable to patronage and insider benefit.",
+            "summary": "A no-bid civic project drew suit as costs rose and review was allegedly bypassed.",
+            "why_exemplary": "This exemplifies ethics erosion because discretionary public contracting at a symbolic national site was handled in a way that raised favoritism and accountability concerns.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk69_ethics_ex02",
             "week": 69,
             "event_ids": [
-              "wk69_ES_013",
-              "wk69_ES_005"
+              "wk69_IG_014",
+              "wk69_IG_017"
             ],
             "developments": [
               {
-                "development_id": "wk69_ES_013",
-                "development_label": "Trump Mobile and T-Mobile faced conflict-of-interest scrutiny over network approval and regulatory exposure.",
+                "development_id": "wk69_IG_014",
+                "development_label": "The Senate Judiciary Committee included $1 billion in ballroom security funding in an immigration spending package",
                 "role": "primary"
               },
               {
-                "development_id": "wk69_ES_005",
-                "development_label": "Transportation Secretary Sean Duffy participated in a reality show backed by sponsors tied to his department.",
+                "development_id": "wk69_IG_017",
+                "development_label": "Senate Republicans advanced a reconciliation package for immigration enforcement and ballroom security",
                 "role": "secondary"
               }
             ],
-            "summary": "President-linked business and cabinet conduct raised conflict-of-interest concerns.",
-            "why_exemplary": "These episodes show how official power and regulatory exposure can overlap with private commercial benefit, eroding the line democracy requires between governing and self-enrichment.",
+            "summary": "Leader-linked ballroom funding was folded into major immigration legislation.",
+            "why_exemplary": "This is exemplary because it blurs public budgeting with a presidential construction priority, weakening the ethical separation between state spending and leader-serving projects.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "restraint",
-        "pattern": "Executive and allied officials repeatedly pressed coercive or constitutional power to the edge, especially around elections, courts, war powers, detention, and agency independence.",
+        "pattern": "Executive and aligned officials repeatedly pushed coercive, emergency, and regulatory powers to their outer edge rather than observing voluntary limits.",
         "severity": "serious",
-        "institutional_response": "Some judges and local institutions imposed limits, but most checks were reactive and came after power had already been asserted.",
+        "institutional_response": "Some courts and local bodies still checked detention and enforcement practices, but the dominant pattern was aggressive power use first and corrective response later.",
         "exemplars": [
           {
             "exemplar_id": "wk69_restraint_ex01",
             "week": 69,
             "event_ids": [
-              "wk69_PA_007"
+              "wk69_PA_012",
+              "wk69_CR_015"
             ],
             "developments": [
               {
-                "development_id": "wk69_PA_007",
-                "development_label": "President Trump warned that he could deploy the National Guard or ICE at voting locations.",
+                "development_id": "wk69_PA_012",
+                "development_label": "Governor Jeff Landry declared a state of emergency to halt Louisiana's active congressional primary",
                 "role": "primary"
+              },
+              {
+                "development_id": "wk69_CR_015",
+                "development_label": "Louisiana officials suspended U.S. House primaries after ballots had already been sent and cast",
+                "role": "secondary"
               }
             ],
-            "summary": "The president threatened security-force presence at polling places.",
-            "why_exemplary": "Restraint requires special caution around elections. Invoking armed or enforcement presence at voting sites risks intimidation and treats coercive power as a political tool.",
+            "summary": "Emergency power was used to stop an election already underway.",
+            "why_exemplary": "Restraint fails when officials use extraordinary authority to interrupt live voting rather than preserving settled electoral rules and limiting their own discretion.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk69_restraint_ex02",
             "week": 69,
             "event_ids": [
-              "wk69_PA_015",
-              "wk69_CRD_013"
+              "wk69_PA_009",
+              "wk69_CR_001"
             ],
             "developments": [
               {
-                "development_id": "wk69_PA_015",
-                "development_label": "Governor Jeff Landry declared an emergency to halt Louisiana's congressional primary election.",
+                "development_id": "wk69_PA_009",
+                "development_label": "The Trump administration expanded the use of Guantánamo Bay for migrant detention",
                 "role": "primary"
               },
               {
-                "development_id": "wk69_CRD_013",
-                "development_label": "Louisiana officials suspended U.S. House primaries after ballots had already been sent and cast.",
+                "development_id": "wk69_CR_001",
+                "development_label": "The Trump administration intensified its mass deportation campaign amid reports that federal agents killed two U.S. citizens",
                 "role": "secondary"
               }
             ],
-            "summary": "Emergency authority was used to stop an election already underway.",
-            "why_exemplary": "Using emergency power to interrupt active voting shows a failure of self-limitation at one of democracy's most sensitive boundaries.",
+            "summary": "Immigration enforcement expanded into offshore detention amid a harsher deportation campaign.",
+            "why_exemplary": "This shows diminished self-limitation in coercive power, extending enforcement into lower-visibility settings with weaker ordinary safeguards.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "The week featured repeated disinformation, suppression, omission, and uncritical amplification on matters of elections, crime, war, and public health, making factual accountability harder.",
+        "pattern": "The public record was further degraded by false presidential claims, inflammatory accusations against the press, and withholding or thinning of consequential information.",
         "severity": "serious",
-        "institutional_response": "Independent data, watchdog reporting, and some transparency efforts supplied correction, but truthful public understanding depended heavily on outside challenge.",
+        "institutional_response": "Independent data, reporting, and some oversight challenged misleading narratives, but correction remained fragmented and often followed the initial distortion.",
         "exemplars": [
           {
             "exemplar_id": "wk69_truthfulness_ex01",
             "week": 69,
             "event_ids": [
-              "wk69_IMM_005",
-              "wk69_IMM_008"
+              "wk69_IM_006"
             ],
             "developments": [
               {
-                "development_id": "wk69_IMM_005",
-                "development_label": "President Trump posted false accusations about election fraud and political opponents on social media.",
+                "development_id": "wk69_IM_006",
+                "development_label": "President Trump accused the media of treason over Iran coverage and posted false claims about opponents and election fraud",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk69_IMM_008",
-                "development_label": "Major Cities Chiefs Association data contradicted Trump's claims about violent crime in major cities.",
-                "role": "secondary"
               }
             ],
-            "summary": "False election and public-order claims were amplified despite contrary evidence.",
-            "why_exemplary": "Truthfulness fails when a president spreads false claims on matters central to democratic legitimacy and public safety, forcing citizens to navigate manufactured unreality.",
+            "summary": "The president paired treason rhetoric with false claims on opponents and elections.",
+            "why_exemplary": "This is a direct truthfulness breach because it spreads manufactured unreality on matters of public consequence while delegitimizing institutions that could correct it.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk69_truthfulness_ex02",
             "week": 69,
             "event_ids": [
-              "wk69_IMM_001",
-              "wk69_IMM_007"
+              "wk69_IM_001",
+              "wk69_ES_015",
+              "wk69_IM_011"
             ],
             "developments": [
               {
-                "development_id": "wk69_IMM_001",
-                "development_label": "The FDA halted publication of vaccine safety research that had been accepted by a journal.",
+                "development_id": "wk69_IM_001",
+                "development_label": "The FDA halted publication of accepted vaccine safety research",
                 "role": "primary"
               },
               {
-                "development_id": "wk69_IMM_007",
-                "development_label": "HHS issued a statement on hantavirus cruise ship passengers that omitted key details.",
+                "development_id": "wk69_ES_015",
+                "development_label": "Major media outlets and the Pentagon circulated a $29 billion Iran war cost estimate critics said was incomplete",
+                "role": "secondary"
+              },
+              {
+                "development_id": "wk69_IM_011",
+                "development_label": "Major media outlets repeated the Pentagon's Iran war cost estimate without much scrutiny",
                 "role": "secondary"
               }
             ],
-            "summary": "Health information was suppressed or released incompletely.",
-            "why_exemplary": "Democratic truthfulness includes ensuring the public is not governed through omission. Suppressing accepted research and issuing incomplete health statements weakens informed consent and trust.",
+            "summary": "Health research was withheld while disputed war-cost figures circulated with limited scrutiny.",
+            "why_exemplary": "Truthfulness is weakened when citizens are denied timely evidence on public health and war costs, leaving oversight to operate on partial information.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "good_faith",
-        "pattern": "Election rules, legislative procedure, and oversight obligations were manipulated for advantage in ways that defeated the stabilizing purpose of democratic process.",
+        "pattern": "Election procedures were manipulated after legal openings to alter representation and even interrupt voting already in progress, defeating the stabilizing purpose of democratic rules.",
         "severity": "extreme",
-        "institutional_response": "Civil society, local governments, and some legislatures resisted, but many manipulations took effect before meaningful correction.",
+        "institutional_response": "Civil-rights groups, local councils, and some state legislators resisted through lawsuits, votes, and institutional brakes, but the week's dominant pattern was opportunistic procedural use for advantage.",
         "exemplars": [
           {
             "exemplar_id": "wk69_good_faith_ex01",
             "week": 69,
             "event_ids": [
-              "wk69_CRD_007",
-              "wk69_CRD_003"
+              "wk69_PA_012",
+              "wk69_CR_015"
             ],
             "developments": [
               {
-                "development_id": "wk69_CRD_007",
-                "development_label": "Tennessee officials enacted and signed a new congressional map that split Memphis and dismantled the state's only majority-Black district.",
+                "development_id": "wk69_PA_012",
+                "development_label": "Governor Jeff Landry declared a state of emergency to halt Louisiana's active congressional primary",
                 "role": "primary"
               },
               {
-                "development_id": "wk69_CRD_003",
-                "development_label": "The ACLU and ACLU of Tennessee sued over Tennessee's new congressional map on behalf of Memphis voters and groups.",
+                "development_id": "wk69_CR_015",
+                "development_label": "Louisiana officials suspended U.S. House primaries after ballots had already been sent and cast",
                 "role": "secondary"
               }
             ],
-            "summary": "Mid-decade redistricting diluted Black voting power and immediately drew suit.",
-            "why_exemplary": "Good faith requires election rules to serve fair representation rather than opportunistic redesign once legal conditions become more permissive.",
+            "summary": "Louisiana halted a primary after ballots had already been distributed and cast.",
+            "why_exemplary": "Good faith requires elections to proceed under known rules; stopping a live contest for redistricting advantage defeats that purpose.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk69_good_faith_ex02",
             "week": 69,
             "event_ids": [
-              "wk69_IG_023"
+              "wk69_IG_005",
+              "wk69_CR_004"
             ],
             "developments": [
               {
-                "development_id": "wk69_IG_023",
-                "development_label": "Tennessee House Speaker Cameron Sexton removed Democratic lawmakers from committee assignments after their protest.",
+                "development_id": "wk69_IG_005",
+                "development_label": "The Tennessee legislature passed a new congressional map that could produce a 9-0 Republican delegation",
                 "role": "primary"
+              },
+              {
+                "development_id": "wk69_CR_004",
+                "development_label": "The ACLU and ACLU of Tennessee sued over Tennessee's new congressional map on behalf of Memphis voters and groups",
+                "role": "secondary"
               }
             ],
-            "summary": "Minority-party lawmakers were stripped of committee roles after protest.",
-            "why_exemplary": "Using internal rules to reduce opposition participation defeats the spirit of representative lawmaking even if formal authority exists to impose the punishment.",
+            "summary": "Tennessee's mid-decade remap drew immediate suit over diluted representation.",
+            "why_exemplary": "This is exemplary because formal mapmaking power was used to entrench advantage and force opponents into costly after-the-fact litigation.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "stewardship",
-        "pattern": "Institutional capacity and credibility were weakened through pressure on independent agencies, degradation of immigration adjudication, weakened voting-rights protections, and selective relief for regulated interests.",
+        "pattern": "Institutions were weakened by pressure on scientific independence, secrecy in oversight matters, and legal and administrative moves that reduce long-term trust in representation and review.",
         "severity": "serious",
-        "institutional_response": "Routine agency work and some judicial review continued, but the week's structural moves still cut against long-term institutional durability.",
+        "institutional_response": "Routine agency processes, some judicial review, and transparency litigation preserved parts of the corrective machinery, but they operated from a defensive posture.",
         "exemplars": [
           {
             "exemplar_id": "wk69_stewardship_ex01",
             "week": 69,
             "event_ids": [
-              "wk69_IG_008",
-              "wk69_IG_007"
+              "wk69_PA_001",
+              "wk69_IM_001"
             ],
             "developments": [
               {
-                "development_id": "wk69_IG_008",
-                "development_label": "The Trump administration fired or pushed out more than 113 immigration judges.",
+                "development_id": "wk69_PA_001",
+                "development_label": "President Trump pressured the FDA to approve fruit-flavored vapes and backed a plan to remove Commissioner Marty Makary",
                 "role": "primary"
               },
               {
-                "development_id": "wk69_IG_007",
-                "development_label": "The Trump administration authorized military lawyers to serve as temporary immigration judges.",
+                "development_id": "wk69_IM_001",
+                "development_label": "The FDA halted publication of vaccine safety research that had been accepted by a journal",
                 "role": "secondary"
               }
             ],
-            "summary": "Immigration adjudication lost judges while military lawyers were brought in.",
-            "why_exemplary": "Stewardship fails when adjudicative systems lose independence and professional capacity, because future fairness and public trust are damaged, not just current case outcomes.",
+            "summary": "Political pressure and publication suppression strained the FDA's scientific credibility.",
+            "why_exemplary": "Stewardship fails when an agency's independence and evidentiary role are bent toward political command, damaging future trust and capacity.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk69_stewardship_ex02",
             "week": 69,
             "event_ids": [
-              "wk69_PA_001",
-              "wk69_PA_002"
+              "wk69_CR_012",
+              "wk69_CR_005"
             ],
             "developments": [
               {
-                "development_id": "wk69_PA_001",
-                "development_label": "President Trump pressured the FDA to approve fruit-flavored vapes and backed a plan to remove Commissioner Marty Makary.",
+                "development_id": "wk69_CR_012",
+                "development_label": "The Supreme Court and other courts issued or were described in rulings that weakened voting-rights protections after Callais",
                 "role": "primary"
               },
               {
-                "development_id": "wk69_PA_002",
-                "development_label": "The administration granted more than 180 facilities a two-year pause from Clean Air Act compliance.",
+                "development_id": "wk69_CR_005",
+                "development_label": "The Supreme Court allowed Alabama to use a congressional map previously blocked for racial vote dilution",
                 "role": "secondary"
               }
             ],
-            "summary": "Agency independence and rule-bound enforcement were bent toward political or selective ends.",
-            "why_exemplary": "Long-term institutional credibility erodes when scientific and regulatory systems are treated as instruments of political preference or selective industry relief.",
+            "summary": "Weakened voting-rights protections were quickly translated into reduced safeguards for representation.",
+            "why_exemplary": "This is a stewardship breach because it damages the long-term institutional protection of equal representation and invites repeated instability in election fairness.",
             "exemplar_type": "secondary"
           }
         ]
@@ -346,25 +310,25 @@
     "norms_strengthened": [
       {
         "trait": "restraint",
-        "pattern": "Courts and local institutions still imposed procedural limits on coercive enforcement and protected rights against overreach.",
+        "pattern": "Courts and some local institutions still imposed procedural limits on detention and enforcement power.",
         "scope": "institutional",
-        "why_it_matters": "These checks preserve the principle that executive force remains reviewable and bounded rather than self-justifying.",
+        "why_it_matters": "Democratic restraint survives when institutions other than the executive continue to enforce boundaries that officeholders decline to observe voluntarily.",
         "exemplars": [
           {
             "exemplar_id": "wk69_restraint_ex03",
             "week": 69,
             "event_ids": [
-              "wk69_IG_017"
+              "wk69_IG_007"
             ],
             "developments": [
               {
-                "development_id": "wk69_IG_017",
-                "development_label": "A federal judge ordered the release of Kevin González's parents from ICE custody.",
+                "development_id": "wk69_IG_007",
+                "development_label": "A federal judge ordered the release of Kevin González's parents from ICE custody",
                 "role": "primary"
               }
             ],
-            "summary": "A judge checked detention decisions on humanitarian grounds.",
-            "why_exemplary": "The ruling showed that coercive enforcement still faces judicial limits when it collides with urgent human consequences.",
+            "summary": "A federal judge checked detention power in a humanitarian case.",
+            "why_exemplary": "This reinforced restraint by showing courts still willing to limit coercive enforcement when it collides with legal and humanitarian claims.",
             "exemplar_type": "primary"
           },
           {
@@ -376,150 +340,114 @@
             "developments": [
               {
                 "development_id": "wk69_IG_003",
-                "development_label": "The Tucson City Council voted to block ICE from using city property without a judicial warrant.",
+                "development_label": "The Tucson City Council voted to block ICE from using city property without a judicial warrant",
                 "role": "primary"
               }
             ],
-            "summary": "A city imposed warrant-based limits on ICE use of local property.",
-            "why_exemplary": "Requiring judicial process before enforcement access reflects democratic self-limitation and protects local institutions from becoming automatic extensions of coercive power.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
-        "trait": "truthfulness",
-        "pattern": "Oversight, records processes, and independent information efforts kept some channels of disclosure and factual correction open.",
-        "scope": "institutional",
-        "why_it_matters": "Democratic correction depends on records, scrutiny, and accessible information that can test official claims.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk69_truthfulness_ex03",
-            "week": 69,
-            "event_ids": [
-              "wk69_IG_020"
-            ],
-            "developments": [
-              {
-                "development_id": "wk69_IG_020",
-                "development_label": "Public Employees for Environmental Responsibility sued the Department of the Interior over unanswered FOIA requests about Freedom250.",
-                "role": "primary"
-              }
-            ],
-            "summary": "A watchdog used FOIA litigation to force records disclosure.",
-            "why_exemplary": "Truthfulness is reinforced when secrecy is challenged through records law, keeping public understanding tied to documents rather than managed narrative.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk69_truthfulness_ex04",
-            "week": 69,
-            "event_ids": [
-              "wk69_IMM_010"
-            ],
-            "developments": [
-              {
-                "development_id": "wk69_IMM_010",
-                "development_label": "Democracy Docket launched a live redistricting tracker and published election-law analysis and opinion content.",
-                "role": "primary"
-              }
-            ],
-            "summary": "Independent election coverage expanded public access to redistricting information.",
-            "why_exemplary": "Providing timely, specialized information helps citizens understand fast-moving changes to representation and counters confusion created by procedural manipulation.",
+            "summary": "A city imposed a warrant requirement on federal use of municipal property.",
+            "why_exemplary": "This matters because it preserves procedural limits and refuses to normalize unrestricted enforcement access in local civic space.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "good_faith",
-        "pattern": "Opponents of abusive or rushed state action continued to use lawful democratic channels such as litigation, local votes, and legislative blocking rather than abandoning process.",
+        "pattern": "Opponents of rushed or discriminatory power moves continued to use lawful institutional channels rather than reciprocal procedural abuse.",
         "scope": "public",
-        "why_it_matters": "A democracy remains repairable when those under pressure still seek correction through rules, courts, and representative institutions.",
+        "why_it_matters": "Good-faith democratic practice is preserved when resistance remains transparent, legal, and institution-facing even under pressure.",
         "exemplars": [
           {
             "exemplar_id": "wk69_good_faith_ex03",
             "week": 69,
             "event_ids": [
-              "wk69_CRD_003",
-              "wk69_CRD_008"
+              "wk69_CR_004",
+              "wk69_CR_011"
             ],
             "developments": [
               {
-                "development_id": "wk69_CRD_003",
-                "development_label": "The ACLU and ACLU of Tennessee sued over Tennessee's new congressional map.",
+                "development_id": "wk69_CR_004",
+                "development_label": "The ACLU and ACLU of Tennessee sued over Tennessee's new congressional map on behalf of Memphis voters and groups",
                 "role": "primary"
               },
               {
-                "development_id": "wk69_CRD_008",
-                "development_label": "The Memphis City Council voted to oppose Tennessee's new redistricting plan.",
+                "development_id": "wk69_CR_011",
+                "development_label": "The Memphis City Council voted to oppose Tennessee's new redistricting plan",
                 "role": "secondary"
               }
             ],
-            "summary": "Map opponents answered redistricting with litigation and formal local resistance.",
-            "why_exemplary": "The response showed continued commitment to democratic correction through courts and public institutions even after representation rules were altered.",
+            "summary": "Memphis-area opponents answered the new map through suit and formal local opposition.",
+            "why_exemplary": "These actions reinforce good faith because they defend representation through courts and public votes rather than by undermining procedure themselves.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk69_good_faith_ex04",
             "week": 69,
             "event_ids": [
-              "wk69_IG_033"
+              "wk69_IG_032"
             ],
             "developments": [
               {
-                "development_id": "wk69_IG_033",
-                "development_label": "The South Carolina Senate blocked a redistricting proposal targeting Representative Jim Clyburn's district.",
+                "development_id": "wk69_IG_032",
+                "development_label": "The South Carolina Senate blocked a redistricting proposal targeting Representative Jim Clyburn's district",
                 "role": "primary"
               }
             ],
-            "summary": "A state senate temporarily checked a targeted redistricting move.",
-            "why_exemplary": "Blocking a map change aimed at reducing Black representation showed that some actors still honored the representative purpose of the process over immediate partisan gain.",
+            "summary": "A state senate blocked one targeted partisan remapping effort.",
+            "why_exemplary": "This is exemplary because an internal institutional brake still operated against a proposal aimed at manipulating representation for advantage.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "stewardship",
-        "pattern": "Some agencies and institutions continued ordinary public-process, training, and records functions that preserve administrative continuity despite wider politicization.",
+        "pattern": "Routine administrative, archival, and election-management processes continued to preserve records, review, and future institutional capacity.",
         "scope": "institutional",
-        "why_it_matters": "Routine maintenance of capacity and transparency keeps institutions usable for future correction even during ethical decline.",
+        "why_it_matters": "Stewardship depends on keeping the machinery of correction alive even when higher-level politics are corrosive.",
         "exemplars": [
           {
             "exemplar_id": "wk69_stewardship_ex03",
             "week": 69,
             "event_ids": [
-              "wk69_IG_021"
+              "wk69_IG_022",
+              "wk69_IM_012"
             ],
             "developments": [
               {
-                "development_id": "wk69_IG_021",
-                "development_label": "The Election Assistance Commission announced a public meeting on election official training.",
+                "development_id": "wk69_IG_022",
+                "development_label": "The Election Assistance Commission announced a public meeting on election official training",
                 "role": "primary"
+              },
+              {
+                "development_id": "wk69_IM_012",
+                "development_label": "The National Archives and Records Administration requested public comments on proposed federal records schedules",
+                "role": "secondary"
               }
             ],
-            "summary": "Election administrators continued public training and capacity-building work.",
-            "why_exemplary": "Election systems depend on professional competence and public input; maintaining that work helps preserve future integrity even amid political pressure.",
+            "summary": "Election administration and records processes continued through public notice and comment.",
+            "why_exemplary": "These acts matter because they preserve competence, transparency, and institutional memory needed for future democratic correction.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk69_stewardship_ex04",
             "week": 69,
             "event_ids": [
-              "wk69_IG_041",
-              "wk69_ES_015"
+              "wk69_ES_006",
+              "wk69_ES_009"
             ],
             "developments": [
               {
-                "development_id": "wk69_IG_041",
-                "development_label": "The National Archives and Records Administration requested public comments on proposed federal records schedules.",
+                "development_id": "wk69_ES_006",
+                "development_label": "The FDA issued guidance and opened stakeholder processes on drug and animal-drug regulation",
                 "role": "primary"
               },
               {
-                "development_id": "wk69_ES_015",
-                "development_label": "The CDC opened public comment periods on several health data collections.",
+                "development_id": "wk69_ES_009",
+                "development_label": "The CDC, EPA, and FDA opened comment periods and issued technical rules on health, chemicals, and medical products",
                 "role": "secondary"
               }
             ],
-            "summary": "Records and data systems continued through formal public-comment processes.",
-            "why_exemplary": "Administrative memory and evidence gathering are core democratic assets; keeping these processes active preserves future accountability and governing capacity.",
+            "summary": "Lower-level agencies continued formal rulemaking and stakeholder processes.",
+            "why_exemplary": "This strengthens stewardship because ordinary notice-and-comment administration keeps state capacity and lawful process from hollowing out entirely.",
             "exemplar_type": "secondary"
           }
         ]
@@ -528,37 +456,35 @@
     "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "This week fits and deepens the prior trajectory. The earlier pattern was normalization of ethical breaches across many domains, with correction coming mainly from courts, journalists, litigants, and civic groups after power had already moved. Week 69 confirms that diagnosis and adds a sharper feature: speed. Legal openings, especially around voting rights and representation, were converted into immediate political action through redistricting, election interruption, and procedural punishment of opponents.\n\nThe cumulative condition is therefore one of continued deterioration below the democratic ethical baseline, but not yet total collapse. Good faith and stewardship remain under the greatest strain because representation rules, adjudicative capacity, and agency independence are being altered in ways that can outlast any single controversy. Restraint and truthfulness also continue to weaken as coercive threats, emergency powers, and disinformation are used more openly. Ethics and character remain compromised where public office is repeatedly bent toward prestige projects, selective favors, and personal or partisan conflict.\n\nThe moral floor still holds in part because resistance remains real: judges still check some detention and retaliation, local governments still impose procedural limits, oversight hearings still occur, and routine administrative processes still function. But these supports are increasingly compensatory rather than preventive. The republic is being governed more often by actors willing to use institutions instrumentally while relying on others to absorb the burden of repair.",
+    "narrative": "This week fits closely with the prior trajectory and confirms that the moral floor remains below a healthy democratic baseline in multiple traits at once. The prior summary described a republic in which ethics, restraint, truthfulness, good faith, and stewardship were already under sustained pressure, with resistance coming mainly from courts, civic litigants, journalists, and scattered institutional actors. Week 69 did not open a wholly new phase. It showed those same weaknesses becoming more practiced and more routine across elections, immigration, regulation, contracting, and public information.\n\nThe most important cumulative development is normalization. A weakened voting-rights environment was immediately converted into mapmaking, election interruption, and threats that placed enforcement power near the ballot box in public imagination. Scientific and regulatory institutions were pressed from above while lower-level administrative routines continued below, producing a split state in which formal process survives but is increasingly subordinated at the top. Oversight and transparency still exist, but they are often forced through lawsuits, hearings, and local resistance rather than supplied as a matter of duty. That means the moral floor is not collapsing outright this week, but it is deteriorating through repetition, habituation, and selective impunity.",
     "trend": "deteriorating",
     "stress_points": [
-      "midstream manipulation of redistricting and election timing",
-      "presidential disinformation about elections and opponents",
-      "pressure on agency independence in health and environmental regulation",
-      "erosion of immigration court capacity and adjudicative independence",
-      "use of emergency and security powers near voting and detention",
-      "blurred boundary between public spending and leader-linked prestige or business interests",
-      "stonewalling of oversight and records access"
+      "midstream redistricting and election interruption after weakened voting-rights protections",
+      "leader-centered budgeting and no-bid contracting",
+      "political pressure on scientific and regulatory independence",
+      "routine disinformation and treason rhetoric from the executive",
+      "secrecy and stonewalling against congressional and public oversight",
+      "expanded coercive immigration enforcement with weaker visibility and safeguards"
     ],
     "sources_of_resilience": [
-      "judicial limits on detention and retaliatory executive action",
-      "civil-rights litigation against discriminatory redistricting",
-      "local procedural limits on immigration enforcement",
-      "congressional and watchdog oversight efforts",
-      "independent election-law and redistricting information work",
-      "routine agency training, records, and public-comment processes"
+      "federal judges still checking some detention decisions",
+      "civil-rights and public-interest litigation challenging maps and contracts",
+      "local governments imposing procedural limits on enforcement",
+      "routine election-administration and records processes continuing",
+      "public oversight efforts by lawmakers and watchdog groups",
+      "lower-level agency notice-and-comment processes still functioning"
     ]
   },
   "risk_assessment": {
     "level": "high",
-    "justification": "High risk is warranted because the week's breaches were broad, mutually reinforcing, and increasingly practiced rather than exceptional. The most serious pattern was the combination of weakened voting-rights protections with immediate partisan mapmaking and election interruption, alongside executive threats touching courts, polling places, detention, and war powers. These developments directly implicate good faith, restraint, and stewardship, the traits most necessary to keep democratic competition fair and institutions durable.\n\nThe risk is not rated severe or critical because meaningful resistance still appears in the digest. Judges issued some checks, local governments imposed procedural limits, watchdogs and civil-rights groups used litigation, and routine administrative processes remained active. But the balance remains unfavorable. This week suggests that ethical breaches are being integrated into ordinary governing practice, with truthfulness, self-limitation, and institutional care increasingly dependent on outside resistance rather than internal discipline by those exercising power.",
+    "justification": "High risk is warranted because the week's breaches touched several core democratic safeguards at once and did so in mutually reinforcing ways. Good faith was heavily strained by halting an election already underway and by rapid remapping efforts after weakened voting-rights protections. Restraint was weakened by emergency election intervention, offshore detention expansion, and threats to use federal leverage and enforcement power aggressively across jurisdictions. Ethics remained under serious pressure where public contracting and legislative spending were tied to leader-serving or politically connected projects. Truthfulness deteriorated further through presidential falsehoods, treason rhetoric toward the press, and suppression or thinning of information on health and war costs. Stewardship suffered as scientific independence, transparency, and long-term representational safeguards were weakened.\n\nThe risk is not yet severe or critical because the digest still shows meaningful corrective capacity: courts issued some checks, local institutions resisted, oversight continued, and routine administrative processes preserved records and lawful procedure. But those supports are increasingly reactive and fragmented. If current patterns continue, the danger is that exceptional uses of power, selective secrecy, and procedural manipulation will become accepted operating habits rather than recognized breaches.",
     "forward_signals": [
-      "whether more states reopen maps or election calendars after the voting-rights ruling",
-      "further threats or deployment of security forces near voting",
-      "additional pressure on independent regulators or removal of agency leadership",
-      "continued use of no-bid contracts or appropriations for leader-linked projects",
-      "more rapid restructuring of immigration courts and detention venues",
-      "escalating false election claims or calls to prosecute political opponents",
-      "whether oversight stonewalling produces court action or congressional consequences"
+      "whether Louisiana's election interruption is normalized or reversed",
+      "additional state redistricting moves after the voting-rights rollback",
+      "further pressure on FDA or other regulators to align science with political demand",
+      "continued use of offshore or low-visibility immigration detention and transport",
+      "new refusals to provide Congress or the public with records already owed",
+      "escalation of false election claims or rhetoric placing security forces near voting"
     ]
   }
 }

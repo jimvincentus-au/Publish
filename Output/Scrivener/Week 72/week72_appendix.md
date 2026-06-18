@@ -236,3 +236,241 @@ Information, Memory and Manipulation
 14. The Department of Justice released records showing Ben Black's ties to Jeffrey Epstein: The disclosure affected public scrutiny of a senior official and highlighted the role of records release in accountability. — 2026-06-03
 
 15. Congressional watchdog reporting showed that many donors to Trump's ballroom project later received major federal contracts: The findings linked donor disclosure to possible pay-to-play contracting and informed public oversight of corruption risks. — 2026-06-05
+
+<!-- BEGIN GENERATED APPENDIX -->
+Power and Authority
+
+1. President Trump signed an executive order directing the CDC to cut the recommended childhood vaccine schedule: The order used executive power to reshape public health guidance and weakened the role of scientific expertise in federal decision-making. — 2026-05-30
+
+2. The Trump administration said it would abandon the proposed $1.8 billion anti-weaponization fund after bipartisan backlash: The reversal showed executive retreat under political pressure, but it left unresolved concerns about prior efforts to direct public money toward presidential allies. — 2026-05-31
+
+3. The United States carried out strikes in Iran while Congress had not authorized hostilities: The strikes tested war-powers limits by expanding military action without clear congressional approval. — 2026-05-30
+
+4. The U.S. Southern Command conducted deadly boat strikes in the eastern Pacific: The operation raised accountability questions about lethal force and oversight of military actions outside ordinary public scrutiny. — 2026-05-30
+
+5. Robert F. Kennedy Jr. carried out a major reorganization of HHS that cut staff, grants, and scientific leadership: The overhaul concentrated executive control over health agencies and weakened independent scientific capacity inside the federal government. — 2026-06-02
+
+6. President Trump signed an executive order creating a voluntary federal review framework for advanced AI models: The order expanded executive influence over a fast-growing technology sector by setting federal review expectations without new legislation. — 2026-06-02
+
+7. President Trump issued an executive order to seize assets from migrants: The order used executive power to impose financial penalties based on immigration status, raising due process and equal-treatment concerns. — 2026-06-02
+
+8. President Trump signed an order making it easier to fire senior federal workers in policy-facing roles: The order weakened civil service protections and increased the president's ability to remove career officials for political reasons. — 2026-06-03
+
+9. The White House proposed screening public grants for alignment with American values: The proposal would give political appointees more power over public funding and could punish disfavored research or institutions. — 2026-06-03
+
+10. President Trump issued an executive order to strengthen customs enforcement: The order expanded executive control over trade enforcement by directing stricter vetting, disclosure, and penalties through the administrative state. — 2026-06-03
+
+11. President Trump announced nearly $700 million in coal support under the Defense Production Act: The move used emergency-style executive authority to steer industrial policy toward a favored sector without ordinary legislative design. — 2026-06-04
+
+12. ICE acting director David Venturella ordered the agency to stop reporting deaths that occurred within 30 days of detainees' release: The memo narrowed public and congressional visibility into detention outcomes and reduced accountability for harms linked to custody. — 2026-06-05
+
+13. Trump administration officials planned to classify millions of living people as dead in Social Security records, according to a whistleblower: The reported plan suggested extreme misuse of administrative power to disrupt legal status and financial life for targeted people. — 2026-06-05
+
+
+Institutions and Governance
+
+1. Capitol police officers Harry Dunn and Daniel Hodges sued to block the Anti-Weaponization Fund: The suit asked courts to stop public payments that could benefit January 6 participants and tested legal limits on executive settlements. — 2026-05-30
+
+2. The Justice Department opened an investigation into funding behind E. Jean Carroll's lawsuits against Trump: The probe raised concerns that prosecutorial tools were being used against people tied to litigation against the president. — 2026-05-30
+
+3. A federal court panel blocked Alabama from using a congressional map it found discriminatory against Black voters: The ruling enforced voting-rights protections and checked state mapmaking that diluted minority representation. — 2026-05-30
+
+4. Judge Kathleen Williams reopened scrutiny of Trump's IRS settlement and ordered responses about possible collusion or fraud: The court reopened oversight of a politically sensitive settlement and tested whether executive legal deals had been manipulated. — 2026-05-30
+
+5. Judge Leonie Brinkema paused creation and operation of the Anti-Weaponization Fund: The order temporarily blocked a contested executive settlement and preserved judicial review over a major use of public funds. — 2026-05-30
+
+6. Judge Christopher Cooper ordered the Kennedy Center to remove Trump's name and blocked a planned closure: The ruling reaffirmed that executive allies could not unilaterally rename or shut a federally chartered institution without lawful authority. — 2026-05-30
+
+7. The Justice Department replaced the lead prosecutor in the James Comey case: The staffing change in a politically charged prosecution raised questions about internal independence and case management at DOJ. — 2026-05-30
+
+8. Democratic senators introduced the Drain the Slush Fund Act to block presidential settlement payouts to allies: The bill sought to restore legislative checks on executive use of taxpayer money for politically connected beneficiaries. — 2026-05-31
+
+9. The House of Representatives passed a Farm Bill containing the Save Our Bacon Act: The measure would preempt state animal-welfare rules and shift regulatory power from states to the federal level. — 2026-05-31
+
+10. The D.C. Circuit ruled that the Pentagon's transgender service ban was likely unconstitutional as applied to current service members: The court limited executive discrimination against current troops while narrowing relief for new applicants, showing partial judicial restraint on military policy. — 2026-06-01
+
+11. A federal judge in Denver blocked the transfer of NCAR's supercomputing center to Wyoming: The injunction checked a likely retaliatory administrative move and protected institutional independence in federal research infrastructure. — 2026-06-01
+
+12. Former federal prosecutors filed Gordon v. Blanche to challenge the Anti-Weaponization Fund settlement: The complaint asked courts to review whether DOJ exceeded lawful authority in creating a politically charged compensation scheme. — 2026-06-01
+
+13. Judge Moss granted a temporary restraining order protecting an impeachment protest flag and permit: The ruling limited executive interference with protest expression and reinforced First Amendment protections in public space. — 2026-06-01
+
+14. The EEOC scheduled a public meeting to replace its strategic enforcement plan: The agency's planned shift in enforcement priorities showed how institutional rules can be redirected through administrative process. — 2026-06-02
+
+15. The American Israel Education Foundation funded luxury Israel trips for dozens of members of Congress and staff: The travel program highlighted how outside funding can shape lawmakers' access, information, and foreign-policy alignment. — 2026-06-02
+
+16. Acting Attorney General Todd Blanche told Congress the anti-weaponization fund would not proceed while the IRS audit-immunity deal remained in place: The announcement showed partial executive retreat but preserved a settlement term that insulated the president and his family from normal tax oversight. — 2026-06-02
+
+17. Secretary of State Marco Rubio testified before the Senate Foreign Relations Committee and faced accusations of misleading lawmakers: The hearing tested congressional oversight of foreign policy and raised concerns about truthful executive testimony. — 2026-06-02
+
+18. New Jersey Attorney General Jennifer Davenport sued GEO Group to force health-inspector access to Delaney Hall: The lawsuit used state legal authority to press oversight of a private detention operator accused of blocking inspection and accountability. — 2026-06-02
+
+19. Seven states sued the Trump administration over cancellation of offshore wind projects: The case challenged executive handling of leases and public funds and asked courts to review whether the administration acted lawfully. — 2026-06-02
+
+20. Transgender minors, parents, and young adults filed suit to block a grand jury subpoena for gender-affirming care records: The complaint challenged federal demands for sensitive medical records and tested privacy limits on prosecutorial power. — 2026-06-02
+
+21. The House of Representatives passed a war powers resolution directing the president to end unauthorized hostilities with Iran: The vote reasserted Congress's constitutional role in war-making and pushed back on unilateral executive military action. — 2026-06-03
+
+22. Senate Republicans dropped proposed ballroom security funding from a larger bill: The move showed procedural limits and internal legislative resistance to using federal funds for a presidential prestige project. — 2026-06-03
+
+23. ICE acting director Todd Lyons issued a memo restricting congressional visits to detention centers: The policy narrowed lawmakers' oversight access and weakened a basic institutional check on detention operations. — 2026-06-03
+
+24. Judge Angel Kelley allowed states to proceed with a challenge to DOJ directives on gender-affirming care: The ruling kept judicial review open over federal directives that states said were meant to intimidate providers. — 2026-06-03
+
+25. The Supreme Court allowed Alabama to use a congressional map that removed a majority-Black district: The decision weakened judicial protection for minority voting power and reshaped representation through court action. — 2026-06-03
+
+26. Plaintiffs in Dardarian v. Department of Defense sued the Pentagon over a rule and memo affecting Stars and Stripes: The case challenged whether the Defense Department had lawfully changed rules affecting an independent military news institution. — 2026-06-03
+
+27. Attorney-advisors with disabilities at EOIR filed a class action over an alleged no-telework accommodations policy: The suit challenged whether an immigration court agency was denying lawful workplace accommodations to disabled employees. — 2026-06-03
+
+28. Acting Attorney General Todd Blanche refused to assure senators that DHS would follow court orders: The refusal raised direct rule-of-law concerns by questioning whether executive agencies would obey judicial authority. — 2026-06-03
+
+29. The House of Representatives passed a Ukraine aid and Russia sanctions package through a discharge petition: The vote showed lawmakers using institutional procedure to bypass leadership resistance and set foreign-policy priorities. — 2026-06-04
+
+30. Pam Bondi testified that Todd Blanche handled the Epstein files release process: The testimony focused congressional scrutiny on DOJ transparency and responsibility for a politically sensitive records release. — 2026-06-04
+
+31. Senate Republicans blocked an amendment to bar Trump's ally payout fund during immigration bill debate: The vote showed legislative willingness to preserve room for a contested executive fund despite bipartisan criticism. — 2026-06-04
+
+32. Senator Ron Wyden demanded transparency about a proposed ICE family detention center in Louisiana: The request pressed for oversight of detention planning that could affect children, families, and public accountability. — 2026-06-04
+
+33. Representative Jamie Raskin introduced the BLANCHE Act to block Trump's IRS audit-immunity deal and similar future arrangements: The bill sought to restore institutional checks on presidential self-protection through settlements or immunity deals. — 2026-06-04
+
+34. The Senate passed a $70 billion immigration-enforcement package: The bill expanded enforcement capacity while rejecting stronger guardrails, shifting institutional power toward detention and border agencies. — 2026-06-05
+
+35. Judge Joun blocked USDA from enforcing challenged grant conditions against plaintiff states: The injunction limited federal leverage over state recipients and preserved judicial review of contested funding conditions. — 2026-06-05
+
+36. Chief Judge McConnell vacated four Trump administration asylum and immigration hold policies: The ruling restored administrative processing and checked executive policies the court found unlawful and pretextual. — 2026-06-05
+
+37. The Trump administration appealed a court decision blocking White House ballroom construction: The appeal tested whether courts can restrain executive changes to federal property and historic civic space. — 2026-06-05
+
+
+Economic Structure
+
+1. Democratic state leaders proposed taxing Trump's settlement fund at 100 percent: The proposal used state tax power to counter a disputed federal payout scheme and contest the use of public money for political allies. — 2026-05-30
+
+2. The Pentagon awarded Dell a $9.7 billion contract after Trump had bought and promoted the company's stock: The award raised conflict-of-interest concerns by linking presidential financial interests to a major federal procurement decision. — 2026-05-30
+
+3. The Office of Management and Budget proposed rules giving political appointees more control over federal grants: The proposal would shift grantmaking toward political discretion and weaken merit-based distribution of public funds. — 2026-05-30
+
+4. The Commodity Futures Trading Commission operated with reduced staffing and industry-friendly leadership in crypto and prediction markets: The agency's changes suggested regulatory capture in markets tied to politically connected financial interests. — 2026-05-30
+
+5. President Trump promoted an unregulated online casino after its co-founder donated $1 million to his super PAC: The endorsement blurred lines between political fundraising, personal influence, and promotion of a business facing regulatory questions. — 2026-05-30
+
+6. White House officials intervened in a $620 million loan for a company tied to Donald Trump Jr.: The intervention suggested favoritism in federal financing and weakened confidence that public economic decisions were made impartially. — 2026-05-30
+
+7. Miami-Dade County officials agreed to buy a Fisher Island property for $400 million amid corruption concerns: The deal raised questions about public spending, eminent domain, and whether local government was protecting the public interest. — 2026-06-01
+
+8. The FCC created new matching programs with Kentucky and New Mexico agencies to verify Lifeline and ACP eligibility: The programs tightened administrative checks on public-benefit access and expanded data-sharing in social support systems. — 2026-06-01
+
+9. The FDA issued multiple device classifications and draft guidances affecting medical product approval pathways: The actions shaped how quickly firms could bring products to market and showed the state's role in structuring health-sector access and regulation. — 2026-06-01
+
+10. Oil markets surged after Iran suspended talks and threatened key shipping routes: The price spike showed how geopolitical conflict quickly translated into economic pressure on households and public policy. — 2026-06-01
+
+11. The CDC proposed and submitted several public-health data collections for outbreak, HIV, tobacco, and Ebola monitoring: These notices maintained federal information systems that support public-health oversight, funding accountability, and disease response. — 2026-06-02
+
+12. The White House reduced tariffs on imported farm and construction equipment: The tariff cut used executive trade power to ease costs for selected industries and respond to inflation pressure. — 2026-06-02
+
+13. California Blue PAC backed a Democratic candidate in a jungle primary to shape which Republicans advanced: The spending strategy used campaign money to manipulate electoral competition rather than simply support a preferred candidate. — 2026-06-02
+
+14. California Conservatives PAC and allied groups used dark-money funding and a shell company to obscure political spending in California races: The funding structure hid who was paying to influence elections and weakened transparency in campaign finance. — 2026-06-02
+
+15. House committees questioned Agriculture Secretary Brooke Rollins and Treasury Secretary Scott Bessent about farm losses, fuel costs, and economic strain: The hearings highlighted how executive economic choices were affecting farmers, prices, and public confidence in fiscal management. — 2026-06-03
+
+16. The EPA issued a series of rules, approvals, notices, and reporting changes on air pollution, hazardous waste, PCBs, and environmental review: The actions showed how administrative rulemaking structures environmental compliance, public participation, and industrial costs. — 2026-06-03
+
+17. The FDA announced hearings, conferences, and guidances affecting drug, gene therapy, and manufacturer communications: These actions shaped the balance between public oversight, industry access, and the pace of pharmaceutical development. — 2026-06-03
+
+18. The TSA revised information collection for the PreCheck program: The revision expanded data collection and identity systems in a public-security program that affects access to travel. — 2026-06-03
+
+19. The Trump administration drew down oil stocks while inventories fell toward critical levels: The depletion raised energy-security concerns and showed how executive crisis management can shift economic risk onto the public. — 2026-06-03
+
+20. The Trump administration defended reductions in SNAP benefits affecting millions of people: The cuts reduced a core food-support program and shifted economic hardship onto low-income households and children. — 2026-06-03
+
+21. Albanian anti-corruption authorities investigated Jared Kushner's resort project on Sazan Island: The probe focused on whether politically connected development had benefited from altered land protections and opaque approvals. — 2026-06-03
+
+22. The Census Bureau submitted multiple survey collections for OMB review: The notices sustained federal statistical capacity that informs housing, labor, and economic policy decisions. — 2026-06-04
+
+23. New York City launched a campaign against junk fees and deceptive subscription practices: The effort used local regulatory power to curb exploitative business practices and strengthen consumer protection. — 2026-06-05
+
+
+Civil Rights and Dissent
+
+1. ICE detained an asylum seeker under harsh conditions until she requested deportation: The case showed how detention conditions can pressure asylum seekers to abandon legal claims and bodily security. — 2026-05-30
+
+2. Representative Yassamin Ansari and Senator Andy Kim criticized private detention companies and Delaney Hall's contract and staffing: Their criticism highlighted how privatized detention can weaken accountability for detainee welfare and rights. — 2026-05-30
+
+3. An Associated Press investigation found an unusually high number of suicides among ICE detainees: The deaths pointed to severe failures in detention oversight and the state's duty to protect people in custody. — 2026-05-30
+
+4. Detainees at Delaney Hall carried out a hunger and labor strike over detention conditions and legal access: The strike turned detention conditions into a rights dispute over bodily safety, due process, and protest inside custody. — 2026-05-30
+
+5. Governor Mikie Sherrill shifted policing outside Delaney Hall to state authorities and set protest controls: The move reshaped how protest rights were managed around a detention site and increased state control over dissent. — 2026-05-30
+
+6. Employers paid settlements after workers were fired or punished for political speech about Charlie Kirk: The settlements underscored how workplace discipline can chill political expression beyond formal state censorship. — 2026-05-30
+
+7. The town of Social Circle sued to stop a planned ICE detention center in Georgia: The suit showed local resistance to federal detention expansion on environmental and community-rights grounds. — 2026-05-31
+
+8. CBS News reporting revealed that children in ICE detention were served food containing worms, bugs, and mold: The report documented degrading treatment of detained children and raised urgent questions about state custody standards. — 2026-05-31
+
+9. Delaney Hall officials partly restored family visitation after protests and detainee strikes: The change showed that organized pressure could win limited rights protections inside detention, even amid ongoing conflict. — 2026-05-31
+
+10. More than 120 civil society groups issued a travel warning about rights risks during the World Cup in the United States: The warning framed immigration enforcement as a civil-liberties risk for visitors and residents during a major public event. — 2026-06-01
+
+11. Police departments in Atlanta, Seattle, and Los Angeles announced they would not cooperate with ICE during the World Cup: The stance limited local participation in federal immigration enforcement and protected space for community trust and mobility. — 2026-06-01
+
+12. Several protesters were arrested at Delaney Hall after defying a curfew during demonstrations: The arrests showed how curfews and dispersal orders were being used to narrow protest rights around detention policy. — 2026-06-01
+
+13. North Carolina activists and organizers delayed new voter rules and organized against detention-center expansion: The actions showed civic groups using procedural tools and protest to defend voting access and immigrant rights. — 2026-06-01
+
+14. May Day Strong organizers held a strategy conference on responding to possible election interference: The gathering reflected organized civil-society preparation to defend electoral participation and public mobilization. — 2026-06-01
+
+15. Democratic lawmakers introduced bills to limit ICE activity near World Cup matches: The bills sought to protect immigrant communities and visitors from aggressive enforcement during a major public event. — 2026-06-01
+
+16. An immigration judge in North Carolina ordered the deportation of a teenager who had already died: The order exposed severe due-process failures and dehumanizing practices in the immigration court system. — 2026-06-03
+
+17. Sushma Bade sued DHS and USCIS over a rule ending automatic work-permit extensions during renewals: The case challenged a policy that could strip immigrants of lawful work and stability while applications remained pending. — 2026-06-03
+
+18. Thousands of protesters in Albania demonstrated against Jared Kushner's resort project: The protests showed public resistance to elite development deals seen as corrupt, exclusionary, and harmful to shared land. — 2026-06-03
+
+19. The Justice Department investigated 15 medical schools over alleged race discrimination in admissions: The investigations put federal pressure on higher education admissions and could reshape diversity efforts through civil-rights enforcement. — 2026-06-04
+
+20. ICE re-separated families and ended a guideline requiring reports on deaths after release from custody: The actions deepened harms to immigrant families while reducing accountability for deaths linked to detention. — 2026-06-04
+
+21. Detainees at the Alligator Alcatraz detention center reported being denied food, clean water, and legal understanding unless they signed English documents: The allegations described coercive detention practices that threatened bodily safety, informed consent, and access to counsel. — 2026-06-05
+
+22. The School of the Art Institute of Chicago suspended a professor after an assignment mentioned violence against Palestinians: The suspension raised academic-freedom concerns by showing how institutional discipline can chill discussion of contested political issues. — 2026-06-05
+
+23. Governor Mikie Sherrill deployed state police to Delaney Hall protests, where officers arrested protesters and some journalists: The deployment raised concerns about suppression of protest and press activity around immigration detention. — 2026-06-05
+
+
+Information, Memory and Manipulation
+
+1. The White House released a memo describing Trump's health exam: The release addressed public transparency about presidential fitness, a basic information need in democratic accountability. — 2026-05-30
+
+2. The United States Postal Service proposed sending mail ballots only to voters registered with the federal government: The proposal would centralize election administration data and could restrict access to mail voting through federal information control. — 2026-05-30
+
+3. Governor Ned Lamont signed a bill expanding no-excuse mail voting in Connecticut: The law broadened access to absentee voting and reduced informational and procedural barriers to participation. — 2026-05-30
+
+4. The 250 to 250 Project began releasing civic-history videos about democracy, rights, and public agency: The project used public history to strengthen democratic memory and broaden access to civic narratives. — 2026-05-30
+
+5. The National Archives and Records Administration requested public comment on digitization and military-record information collections: The notice concerned public access to archival and service records, which supports transparency and historical accountability. — 2026-06-01
+
+6. Tina Peters claimed without evidence that Democrats would cheat in the midterms after her early release from prison: The statement spread election denial claims that could erode trust in vote counting and democratic legitimacy. — 2026-06-01
+
+7. A new activist website launched protest and digital-safety resources for movements: The site expanded access to practical information that can help people participate in civic action more safely. — 2026-06-01
+
+8. The Pentagon barred journalists from entering its press office by redesignating it as a classified space: The move sharply reduced routine press access to defense officials and narrowed public visibility into military affairs. — 2026-06-02
+
+9. President Trump used social media to mix Iran negotiation claims with attacks on judges and Democrats: The posts blurred statecraft with personal grievance and shaped public understanding of foreign policy through partisan messaging. — 2026-06-02
+
+10. Real Change PAC and allied Republican-linked groups posed as progressive organizations while attacking Democrats in California races: The deception manipulated voter perception by disguising partisan campaign messages as left-leaning advocacy. — 2026-06-02
+
+11. Judge Gregory Carro held a sealed hearing in the Luigi Mangione case without giving the press a chance to object: The sealed proceeding limited public access to court information and raised transparency concerns in a high-profile case. — 2026-06-03
+
+12. President Trump called for dismissal of his criminal and civil judgments and for charges against New York prosecutors: The statements sought to delegitimize adverse legal outcomes in public discourse and pressure confidence in judicial facts. — 2026-06-03
+
+13. President Trump verbally attacked CNN reporter Kaitlan Collins during a press interaction: The attack reinforced a hostile climate for journalists and signaled executive contempt for adversarial reporting. — 2026-06-03
+
+14. The Department of Justice released records showing Ben Black's ties to Jeffrey Epstein: The disclosure affected public scrutiny of a senior official and highlighted the role of records release in accountability. — 2026-06-03
+
+15. Congressional watchdog reporting showed that many donors to Trump's ballroom project later received major federal contracts: The findings linked donor disclosure to possible pay-to-play contracting and informed public oversight of corruption risks. — 2026-06-05
+<!-- END GENERATED APPENDIX -->

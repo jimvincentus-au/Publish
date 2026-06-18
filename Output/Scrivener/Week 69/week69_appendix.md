@@ -246,3 +246,195 @@ Information, Memory and Manipulation
 10. Democracy Docket launched a live redistricting tracker and published election-law analysis and opinion content: The coverage expanded public access to information about litigation and map changes that affect democratic participation. — 2026-05-13
 
 11. Major media outlets repeated the Pentagon's $29 billion Iran war cost estimate without much scrutiny: Uncritical repetition of official figures narrowed informed debate by passing along a contested government narrative as settled fact. — 2026-05-14
+
+<!-- BEGIN GENERATED APPENDIX -->
+Power and Authority
+
+1. President Trump pressured the FDA to approve fruit-flavored vapes and backed a plan to remove Commissioner Marty Makary: White House pressure on a regulator tested whether scientific and health decisions would remain independent of electoral and personal demands. — 2026-05-09
+
+2. The Trump administration paused Clean Air Act compliance for more than 180 facilities: The pause used executive power to suspend normal regulatory limits, weakening rule-bound oversight in favor of politically chosen exemptions. — 2026-05-09
+
+3. President Trump announced the release of government files on UFOs and extraterrestrial life: A high-profile disclosure announcement shaped the public agenda and showed how executive messaging can redirect attention during periods of political strain. — 2026-05-09
+
+4. President Trump awarded a no-bid contract for Lincoln Memorial Reflecting Pool repairs: Bypassing normal review in a symbolic public project raised accountability concerns about discretionary executive spending and favoritism. — 2026-05-09
+
+5. The Trump administration proposed cutting overdose prevention funding and ending federal support for fentanyl test strips: The proposed changes used executive budget power to narrow harm-reduction policy and reduce support for vulnerable people without new legislation. — 2026-05-10
+
+6. President Trump said he would suspend the federal gas tax if Congress approved it: The proposal showed the executive using public pressure and agenda-setting to push a major fiscal change outside unilateral authority. — 2026-05-10
+
+7. President Trump criticized the Supreme Court's tariff ruling and warned the justices on birthright citizenship: Public pressure on the Court tested judicial independence by signaling that major rulings should align with executive preferences. — 2026-05-12
+
+8. President Trump threatened to cut health funding for states that did not follow his anti-fraud demands: The threat used federal leverage against states, showing how executive power can be turned into a compliance tool across jurisdictions. — 2026-05-13
+
+9. The Trump administration expanded the use of Guantánamo Bay for migrant detention: Moving migrants into an offshore detention system extended coercive state power into a setting with weaker visibility and fewer ordinary safeguards. — 2026-05-13
+
+10. The Trump administration announced plans to rescind 2024 ethylene oxide pollution rules: The rollback used executive control of regulation to weaken health protections, especially in communities with less political power. — 2026-05-13
+
+11. Governor Brian Kemp called a special session to redraw Georgia's electoral maps: Calling a special session concentrated agenda power in the executive and opened the way for rapid map changes with major representation effects. — 2026-05-13
+
+12. Governor Jeff Landry declared a state of emergency to halt Louisiana's active congressional primary: Using emergency power to stop an election disrupted voting already underway and tested limits on executive control over electoral timing. — 2026-05-14
+
+13. Governor Henry McMaster was expected to call a special session to redraw South Carolina's congressional map: The expected use of executive session power signaled a direct role in reshaping representation after weakened voting-rights protections. — 2026-05-14
+
+
+Institutions and Governance
+
+1. Arizona Republican state senators asked the state attorney general to investigate Pima County's anti-ICE rule: State lawmakers used a preemption tool to challenge local policy, testing how much local governments can set their own enforcement boundaries. — 2026-05-09
+
+2. Senator Josh Hawley introduced a bill to revoke the FDA's approval of mifepristone: The bill sought to override an agency drug approval through politics, shifting a scientific regulatory question into partisan lawmaking. — 2026-05-09
+
+3. The Tucson City Council voted to block ICE from using city property without a judicial warrant: The measure asserted local procedural limits on federal enforcement and showed municipal institutions trying to protect due process on their own property. — 2026-05-09
+
+4. The Trump administration proposed a $1.5 trillion defense budget for fiscal year 2027: The proposal set institutional priorities through the budget process and signaled a major shift of public resources toward military power. — 2026-05-09
+
+5. The Tennessee legislature passed a new congressional map that could produce a 9-0 Republican delegation: Mid-decade redistricting used legislative power to reshape representation and reduce electoral competition through map design. — 2026-05-09
+
+6. The Board of Immigration Appeals fast-tracked Mahmoud Khalil's case and issued a final administrative removal order: An unusually accelerated immigration ruling raised concerns that adjudication was being bent to executive priorities rather than ordinary process. — 2026-05-11
+
+7. A federal judge ordered the release of Kevin González's parents from ICE custody: The order showed courts still checking detention decisions when enforcement collided with urgent humanitarian claims. — 2026-05-11
+
+8. The Supreme Court temporarily extended access to mail-order mifepristone: The stay preserved a nationwide medical access rule while the Court reviewed a conflict between state abortion bans and federal drug regulation. — 2026-05-11
+
+9. The government appealed the preliminary injunction in Institute for Applied Ecology v. Burgum: The appeal kept a live institutional fight over executive action in the courts and delayed final resolution of the challenged policy. — 2026-05-11
+
+10. The Cultural Landscape Foundation and Charles Birnbaum filed suit against the Interior Department and National Park Service over the Reflecting Pool project: The complaint sought judicial review of whether executive agencies bypassed required preservation and environmental procedures at a national civic site. — 2026-05-11
+
+11. Public Employees for Environmental Responsibility sued the Interior Department over unanswered FOIA requests about Freedom250: The suit tested whether transparency law still constrained agencies handling politically sensitive records and public commemorations. — 2026-05-11
+
+12. House Democrats asked the FAA to address secretive ICE deportation flights and provide transparency: The letter used congressional oversight to press an agency on hidden enforcement practices that may affect due process and public accountability. — 2026-05-11
+
+13. Senate Democrats said they would oppose a reconciliation bill that included White House ballroom security funding: The dispute showed Congress fighting over whether budget procedure would be used for presidential projects tied to immigration spending. — 2026-05-11
+
+14. The Senate Judiciary Committee included $1 billion in ballroom security funding in an immigration spending package: The move folded a presidential construction priority into a major enforcement bill, blurring institutional budgeting and personal benefit. — 2026-05-11
+
+15. Péter Magyar promised to root out corruption and restore rule of law and free speech in Hungary: The pledges framed institutional repair as a core governing task after a period of concentrated and abusive political control. — 2026-05-11
+
+16. The Senate held hearings on Kash Patel's conduct and Patel denied misconduct allegations: The hearing tested whether Congress could still scrutinize the integrity of top law-enforcement leadership through ordinary oversight tools. — 2026-05-12
+
+17. Senate Republicans advanced a $72 billion reconciliation package for immigration enforcement and ballroom security: Using reconciliation for enforcement expansion and a presidential project showed procedural rules being used to speed contested institutional changes. — 2026-05-12
+
+18. Tennessee House Speaker Cameron Sexton removed Democratic lawmakers from committee assignments after their redistricting protest: The punishment weakened minority-party participation inside the legislature and reduced representation for districts tied to those members. — 2026-05-12
+
+19. The House Oversight Committee held a field hearing on the Epstein scandal and released a report on non-prosecution: The hearing used congressional oversight to revisit failures of justice and document withholding in a case involving elite protection. — 2026-05-12
+
+20. Pete Hegseth testified to Congress about the reported costs of the Iran war: The testimony put military spending under legislative review and exposed disputes over whether the executive was giving Congress reliable figures. — 2026-05-12
+
+21. The Federal Circuit stayed enforcement of the tariff injunction pending appeal: The stay shifted the balance back toward executive tariff authority while courts continued to sort out the legality of the policy. — 2026-05-12
+
+22. The Election Assistance Commission announced a public meeting on election official training: The notice supported routine election administration by inviting public input on how officials are trained to run federal elections. — 2026-05-12
+
+23. Governor Tate Reeves canceled a special legislative session for Mississippi redistricting: The cancellation delayed immediate map changes but confirmed that executive timing decisions were shaping when and how representation would be redrawn. — 2026-05-13
+
+24. The Senate rejected a war powers resolution to end U.S. involvement in Iran: The failed vote left military action in place and showed Congress struggling to enforce its formal role over war-making. — 2026-05-13
+
+25. Interior Secretary Doug Burgum refused to provide Congress with requested information: Stonewalling weakened legislative oversight by denying lawmakers information needed to review executive decisions and contracts. — 2026-05-13
+
+26. The House leadership created a bipartisan taskforce to address sexual misconduct in Congress: The taskforce was an institutional reform effort aimed at improving accountability and workplace safety inside the legislature itself. — 2026-05-14
+
+27. The Massachusetts campaign for Homes for All qualified a ballot question to end the state's rent-control ban: The measure used a formal democratic process to move housing policy directly to voters rather than leaving it only to legislators. — 2026-05-14
+
+28. Mayor Brett Smiley vetoed Providence's rent stabilization ordinance after the city council passed it: The veto showed executive checks operating at the local level in a contested policy area with broad public participation. — 2026-05-14
+
+29. Ted Waitt testified to the House Oversight Committee about his relationship with Ghislaine Maxwell: The testimony reflected Congress using investigative powers to map elite networks tied to a major abuse and accountability scandal. — 2026-05-14
+
+30. More Affordable DC drafted a ballot campaign for a rent freeze and public land changes: The campaign showed civic actors trying to use direct democracy to alter housing policy outside ordinary legislative channels. — 2026-05-14
+
+31. Louisiana legislators advanced a congressional map that would remove a Black-majority district: Legislative action after weakened voting-rights protections showed institutions moving quickly to lock in partisan and racial advantage. — 2026-05-14
+
+32. The South Carolina Senate blocked a redistricting proposal targeting Representative Jim Clyburn's district: The vote showed an institutional brake still operating inside a state legislature amid broader pressure for partisan remapping. — 2026-05-14
+
+
+Economic Structure
+
+1. Trump Media Group reported a large quarterly loss tied mainly to cryptocurrency holdings: The loss highlighted how politically connected firms tied to speculative assets can affect investors and public confidence in market governance. — 2026-05-09
+
+2. Sean Duffy moved ahead with a reality show backed by sponsors linked to Transportation Department interests: The arrangement raised conflict-of-interest concerns about whether public office was being used to support private branding and sponsor relationships. — 2026-05-09
+
+3. The Trump administration proposed and promoted a temporary suspension of the federal gas tax: The push for a tax holiday showed how economic relief proposals can shift infrastructure funding and federal revenue through short-term political pressure. — 2026-05-10
+
+4. Former Justice Department employees and preservation groups sued over the Reflecting Pool project as its cost rose under a no-bid contract: The litigation and cost growth raised questions about procurement integrity, public spending controls, and politically connected contracting. — 2026-05-10
+
+5. Congress and President Trump enacted hydropower and rural broadband bills into law: The new laws changed the framework for energy development and rural connectivity, affecting how public goods and infrastructure are distributed. — 2026-05-11
+
+6. The FDA issued guidance and opened stakeholder processes on drug and animal-drug regulation: These routine notices showed lower-level regulatory processes still functioning through public participation and formal guidance despite political pressure above them. — 2026-05-11
+
+7. Federal economic agencies reported rising inflation and energy-price pressure during the Iran conflict: Higher inflation and fuel costs shaped the material conditions under which democratic choices and public trust in governance are made. — 2026-05-11
+
+8. Trump Mobile and T-Mobile drew scrutiny over regulatory conflicts and undelivered phone deposits: The overlap between a family business and a regulated carrier raised concerns about consumer protection and whether political ties distort market oversight. — 2026-05-11
+
+9. The CDC, EPA, and FDA opened comment periods and issued technical rules on health, chemicals, and medical products: These notices reflected ordinary regulatory administration that shapes public health, environmental standards, and market access through formal rulemaking. — 2026-05-12
+
+10. Customs and Border Protection began issuing tariff refunds to the trade community: The refunds redistributed the costs of contested tariff policy and showed how trade decisions can channel relief toward firms rather than consumers. — 2026-05-12
+
+11. The DEA, EPA, FCC, FDA, and procurement agencies issued a broad set of final rules and information requests affecting drugs, food, telecom, and contracting: The notices showed the state continuing to shape markets and public goods through technical regulation across many sectors at once. — 2026-05-13
+
+12. Nevada power managers redirected electricity toward AI data centers while Lake Tahoe residents lost power: The outage highlighted how infrastructure choices can favor concentrated private demand over household needs and public service reliability. — 2026-05-13
+
+13. The developer of Trump Tower Australia canceled the project and cited the Trump brand as toxic: The cancellation showed how political identity can directly affect investment decisions and the economic viability of branded projects. — 2026-05-13
+
+14. Noah Smith's analysis described tariffs, export controls, reshoring, and falling investment in China as part of U.S.-China decoupling: The developments pointed to a structural shift in trade and industrial policy that can reshape economic power and state-business relations. — 2026-05-13
+
+15. Major media outlets and the Pentagon circulated a $29 billion Iran war cost estimate that critics said was incomplete: Disputed war-cost accounting affected public understanding of fiscal choices and Congress's ability to judge the real economic burden of conflict. — 2026-05-14
+
+16. The Census Bureau, EPA, FCC, and procurement agencies issued notices on surveys, permits, air plans, settlements, radio licenses, and acquisition feedback: These actions showed routine economic governance continuing through data collection, environmental enforcement, communications policy, and procurement review. — 2026-05-14
+
+
+Civil Rights and Dissent
+
+1. The Trump administration intensified its mass deportation campaign amid reports that federal agents killed two U.S. citizens: The campaign showed immigration enforcement expanding in ways that threatened bodily safety, due process, and equal protection. — 2026-05-09
+
+2. Activists in North Carolina campaigned against ICE facility expansion and new detention infrastructure: The campaign reflected organized civic resistance to detention growth and to policies seen as endangering immigrant communities. — 2026-05-09
+
+3. An ethanol lobbyist offered payments for people to attend a JD Vance rally: Paying for visible political support raised concerns about the authenticity of participation around elected leaders and campaign integrity. — 2026-05-09
+
+4. The ACLU and ACLU of Tennessee sued over Tennessee's new congressional map on behalf of Memphis voters and groups: The suit challenged a map alleged to dilute Black voting power and retaliate against a city's political voice. — 2026-05-11
+
+5. The Supreme Court allowed Alabama to use a congressional map previously blocked for racial vote dilution: The order weakened protections for Black representation by letting a disputed map govern an upcoming election. — 2026-05-11
+
+6. Six people were found dead inside a train car near the Texas-Mexico border: The deaths underscored the human danger surrounding migration routes and the rights consequences of hardened border conditions. — 2026-05-11
+
+7. President Trump said he would consider using the National Guard or ICE at voting locations: The suggestion raised the prospect of armed or enforcement-linked presence at polls, which could chill turnout through fear and intimidation. — 2026-05-11
+
+8. The Department of Health and Human Services issued a statement on hantavirus cruise passengers that critics said omitted key details: Incomplete public-health communication can weaken informed consent and trust for people facing possible health risks. — 2026-05-11
+
+9. Louisiana State Police and a sheriff's office agreed to a $4.85 million settlement over Ronald Greene's death: The settlement acknowledged legal exposure in a police violence case and highlighted the long struggle for accountability after abuse of force. — 2026-05-12
+
+10. A Texas federal prosecutor subpoenaed NYU Langone Health for records on minors who received gender-affirming care: The subpoena threatened medical privacy and signaled federal pressure on care tied to a politically targeted group. — 2026-05-12
+
+11. The Memphis City Council voted to oppose Tennessee's new redistricting plan: The vote showed local government resisting a map seen as diluting Black political power and weakening fair representation. — 2026-05-12
+
+12. The Supreme Court and other courts issued or were described in rulings that weakened voting-rights protections after Callais: The legal shift reduced tools for challenging racially discriminatory maps and widened the path for states to cut minority representation. — 2026-05-13
+
+13. Tiffany McElroy sued Alabama jail officials over being forced to give birth on a prison floor: The lawsuit alleged severe mistreatment in custody and tested whether incarcerated women retain meaningful constitutional protection in childbirth. — 2026-05-13
+
+14. Police officers from Gratis, Ohio tried to conduct unauthorized ICE wellness checks at Cincinnati schools: The attempted school checks blurred policing and immigration enforcement in a way that could intimidate children and families. — 2026-05-14
+
+15. Louisiana officials suspended U.S. House primaries after ballots had already been sent and cast: Stopping an election in progress disrupted voting rights and risked disenfranchising people who had already participated. — 2026-05-14
+
+
+Information, Memory and Manipulation
+
+1. The FDA halted publication of vaccine safety research that had been accepted by a journal: Stopping release of approved research weakened public access to evidence and increased the risk of politically shaped health information. — 2026-05-09
+
+2. A federal judge dismissed Raymond Epps's defamation suit against Fox News: The ruling left unresolved the broader civic harm from repeated false claims about a politically charged event and their effect on public trust. — 2026-05-09
+
+3. The Virginia Supreme Court struck down a redistricting referendum and was described as overturning a voter-backed plan: Invalidating a voter-approved map process altered how public decisions about representation are recorded and carried into law. — 2026-05-09
+
+4. The Florida attorney general and a victim's family opened criminal and civil cases against OpenAI after a university shooting: The cases raised questions about how AI systems shape harmful information environments and what accountability applies when they do. — 2026-05-11
+
+5. The Kremlin restricted internet and texting access during Victory Day celebrations: The restrictions limited communication and outside reporting during a major state event, tightening official control over what the public could see. — 2026-05-11
+
+6. President Trump accused the media of treason over Iran coverage and posted false claims about opponents and election fraud: Presidential use of conspiracy claims and treason rhetoric threatened press freedom and further polluted the shared factual basis of politics. — 2026-05-11
+
+7. Freedom House and V-Dem released reports describing continued global democratic decline: The reports added independent documentation about attacks on elections, press freedom, and rule-bound government, shaping the public record of democratic erosion. — 2026-05-11
+
+8. Major Cities Chiefs Association data showed violent crime falling in major cities despite contrary political claims: The data challenged a fear-based narrative and showed the importance of verified public information in democratic debate. — 2026-05-12
+
+9. Advance Local newspapers published thousands of gambling promotion articles presented as journalism: Blurring advertising and reporting weakened media transparency and made it harder for readers to judge what information was independent. — 2026-05-13
+
+10. Democracy Docket published election-law analysis and launched a live redistricting tracker: The reporting tools strengthened public access to timely information about litigation and map changes that affect democratic representation. — 2026-05-13
+
+11. Major media outlets repeated the Pentagon's Iran war cost estimate without much scrutiny: Uncritical repetition of official numbers risked narrowing public understanding of war costs and weakening informed oversight. — 2026-05-14
+
+12. The National Archives and Records Administration requested public comments on proposed federal records schedules: The notice affected how government records may be preserved or destroyed, which shapes future public access to the documentary record. — 2026-05-14
+<!-- END GENERATED APPENDIX -->

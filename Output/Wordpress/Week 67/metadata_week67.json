@@ -1,169 +1,158 @@
 {
   "actionable_outcomes": [
-    "Support nonpartisan voting-rights and redistricting litigation groups working on map transparency, election scheduling, and minority representation.",
-    "Subscribe to and fund independent local and national investigative outlets that can withstand regulatory and political pressure.",
-    "Press state and local officials to adopt stronger public-records compliance, open-contracting rules, and independent procurement review.",
-    "Support legal aid, bond funds, and due-process organizations assisting immigrants facing detention, status revocation, or rushed deportation.",
-    "Urge members of Congress to strengthen war-powers reporting, surveillance safeguards, and oversight enforcement across agencies.",
-    "Join or back local civic groups monitoring detention facilities, public spending on executive projects, and agency rule changes."
+    "Support or follow litigation and public-interest groups challenging disrupted elections and weakened voting-rights protections in affected states.",
+    "Contact members of Congress about war-powers enforcement, immigration-enforcement funding, and surveillance authorities such as FISA Section 702.",
+    "Support local and national journalism outlets facing regulatory or political pressure, including through subscriptions and public records advocacy.",
+    "Track state redistricting sessions, election-calendar changes, and public-hearing notices in Florida, Louisiana, Mississippi, Alabama, and Tennessee.",
+    "Submit comments or testimony in open federal rulemaking and advisory processes where environmental, labor, communications, or public-health oversight remains publicly reviewable."
   ],
   "category_flags": [
-    "Power & Authority",
-    "Consent & Elections",
-    "Rights & Protections",
-    "Information & Truth",
-    "Economy & Patronage",
-    "Civil Society & Dissent",
-    "Civic Covenant Collapse"
+    "voting rights rollback",
+    "immigration coercion",
+    "executive overreach",
+    "media intimidation",
+    "regulatory capture",
+    "personalization of state power",
+    "partial institutional resistance"
   ],
-  "clock_time_reference": "The Democracy Clock remained publicly at 8:13 p.m., moving from 493.0 to 493.1 minutes, a net shift of 0.1 minutes. That near-hold represents not calm but modest erosion through consolidation: several damaging patterns deepened without a single rupture large enough to change the displayed time.",
+  "clock_after_minutes": 493.3,
+  "clock_before_minutes": 493.3,
+  "clock_delta_minutes": 0.0,
+  "clock_time_reference": "The Democracy Clock remained at 8:13 p.m. this week, with a net change of 0 minutes. The hold reflects a balance between new democratic damage and the continued survival of partial judicial and congressional checks, not a period of calm or recovery.",
   "delta_summary": {
     "grand_total_points": {
-      "note": "Exact weekly clock change supplied by clock_info and carry-forward totals.",
-      "value": 0.1
+      "note": "The net clock change was 0 minutes because new damage was offset by partial judicial and congressional resistance.",
+      "value": 0
     },
-    "moral_floor": "",
-    "net_interpretation": "Near-stasis on the public clock masked a broad consolidating week: electoral protections weakened, legal and regulatory tools were used more selectively, and public authority bent further toward personal, partisan, and coercive ends.",
+    "moral_floor": "The week did not improve democratic conditions; it showed erosion settling into doctrine, budgets, agencies, and public symbolism even as some checks still functioned.",
+    "net_interpretation": "Democratic decline advanced through convergence. Voting rights, immigration enforcement, media pressure, executive war claims, and industry-aligned administration all moved in the same direction, while surviving checks remained mostly reactive and insufficient to reverse the larger pattern.",
     "traits_moved": {
-      "note": "Exact count supplied in delta hints and supported by the trait movement list.",
-      "value": 28
+      "note": "Twenty-four tracked traits registered movement, showing broad cross-institutional pressure rather than a single isolated break.",
+      "value": 24
     }
   },
-  "epigraphs": [
-    {
-      "attribution": "Anonymous",
-      "text": "The forms of freedom can survive long after their substance has been put to other uses."
-    },
-    {
-      "attribution": "Frederick Douglass",
-      "text": "Power concedes nothing without a demand."
-    },
-    {
-      "attribution": "A warning from the American constitutional tradition",
-      "text": "The greatest dangers to liberty lurk in insidious encroachment by men of zeal, well-meaning but without understanding."
-    }
-  ],
+  "end_date": "2026-05-01",
   "image_prompts": {
-    "square": "A painterly, realistic 1:1 symbolic still life: a brass clock stopped at 8:13 p.m., a folded congressional map with district lines cut sharply across it, a courthouse gavel beside sealed legal folders, a miniature white ballroom model, and a passport with a blank portrait oval, all arranged on a dark wooden desk under tense evening light, no text.",
-    "wide": "A painterly, realistic 16:9 scene inside a dim civic rotunda at dusk, with a large democracy clock fixed at 8:13 p.m., redistricting maps spread across a long table, courthouse columns receding into shadow, construction scaffolding rising toward a grand ballroom facade, detention buses in the far background, and scattered oversight files under a cold institutional light, no text, no identifiable politicians."
+    "square": "A painterly, realistic 1:1 symbolic still life showing a cracked ballot box, a courthouse gavel, detention wristbands, a broadcast microphone under scrutiny, and a gilded architectural model resting on public documents; dramatic natural light, sober colors, high detail, no faces, no on-image text.",
+    "wide": "A painterly, realistic 16:9 scene inside a dim civic rotunda where multiple corridors converge: judges' robes recede toward a redistricting map table, immigration detention buses idle near chain-link fencing, broadcast towers face regulatory files, and a grand presidential construction model sits under harsh security lights; the atmosphere is tense, institutional, and historically grounded, with no visible real politicians and no on-image text."
   },
   "internal_tags": [
-    "Week 67",
-    "Democracy Clock",
-    "Trump second term",
-    "Voting Rights Act",
-    "Louisiana v. Callais",
-    "Redistricting",
-    "Minority vote dilution",
-    "Election disruption",
-    "Law as weapon",
-    "DOJ politicization",
-    "White House ballroom",
-    "Personal glorification",
-    "Immigration detention",
-    "Green card speech test",
-    "War powers",
-    "FCC retaliation",
-    "Media pressure",
-    "EPA capture",
-    "Crony capitalism",
-    "Democracy erosion"
+    "week-67",
+    "louisiana-v-callais",
+    "voting-rights-act",
+    "redistricting",
+    "black-representation",
+    "immigration-detention",
+    "green-card-speech-guidance",
+    "tps",
+    "war-powers",
+    "iran",
+    "fcc-pressure",
+    "press-freedom",
+    "objection-ai",
+    "epa-capture",
+    "glyphosate",
+    "white-house-ballroom",
+    "personal-state-fusion",
+    "trump-family-enrichment",
+    "fisa-702",
+    "reactive-checks"
   ],
   "key_traits": [
     {
-      "name": "Law is a weapon of the state, not a limit on its power",
-      "trait_number": 4
-    },
-    {
       "name": "Voter suppression is rationalized as election integrity",
       "trait_number": 45
-    },
-    {
-      "name": "Public funds are used for personal glorification and symbolic dominance",
-      "trait_number": 24
-    },
-    {
-      "name": "Emergency powers are normalized and permanent",
-      "trait_number": 5
-    },
-    {
-      "name": "Executive power operates without effective oversight",
-      "trait_number": 1
-    },
-    {
-      "name": "Opposition parties are allowed but structurally weakened",
-      "trait_number": 6
-    },
-    {
-      "name": "Administrative agencies are deregulated or captured by private interests",
-      "trait_number": 16
-    },
-    {
-      "name": "Transparency laws are weakened or unenforced",
-      "trait_number": 21
-    },
-    {
-      "name": "State power is outsourced to unaccountable private contractors",
-      "trait_number": 25
-    },
-    {
-      "name": "Entire industries are shielded from accountability through lobbying power",
-      "trait_number": 30
-    },
-    {
-      "name": "Protest rights are abridged through zoning, permits, or security claims",
-      "trait_number": 41
-    },
-    {
-      "name": "Independent media is starved while state-aligned outlets thrive",
-      "trait_number": 43
     },
     {
       "name": "Citizenship is stratified by wealth, ideology, and heritage",
       "trait_number": 47
     },
     {
-      "name": "Dissenters are labeled unpatriotic, subversive, or corrupt",
-      "trait_number": 49
+      "name": "Executive power operates without effective oversight",
+      "trait_number": 1
+    },
+    {
+      "name": "Law is a weapon of the state, not a limit on its power",
+      "trait_number": 4
+    },
+    {
+      "name": "Emergency powers are normalized and permanent",
+      "trait_number": 5
+    },
+    {
+      "name": "Administrative agencies are deregulated or captured by private interests",
+      "trait_number": 16
+    },
+    {
+      "name": "Public funds are used for personal glorification and symbolic dominance",
+      "trait_number": 24
     },
     {
       "name": "Crony capitalism becomes indistinguishable from governance",
       "trait_number": 38
     },
     {
-      "name": "Civil service roles are politicized or privatized",
-      "trait_number": 22
+      "name": "Independent media is starved while state-aligned outlets thrive",
+      "trait_number": 43
+    },
+    {
+      "name": "Journalists investigating the elite are surveilled or smeared",
+      "trait_number": 42
     },
     {
       "name": "Surveillance of ordinary citizens increases; elite crimes remain opaque",
       "trait_number": 46
     },
     {
-      "name": "Memory is curated by power\u2014what cannot be controlled is erased",
-      "trait_number": 60
+      "name": "Transparency laws are weakened or unenforced",
+      "trait_number": 21
+    },
+    {
+      "name": "Civil service roles are politicized or privatized",
+      "trait_number": 22
+    },
+    {
+      "name": "Courts issue rulings aligned with donor or elite preference",
+      "trait_number": 13
+    },
+    {
+      "name": "Protest rights are abridged through zoning, permits, or security claims",
+      "trait_number": 41
     }
   ],
-  "long_synopsis": "Week 67 brought almost no visible movement on the public clock, but it deepened several authoritarian habits at once. The Supreme Court's Louisiana v. Callais ruling weakened a central Voting Rights Act protection, and state officials in Florida, Louisiana, Alabama, Mississippi, and Tennessee moved quickly to convert doctrine into partisan mapmaking and election disruption. At the same time, immigration enforcement expanded through family detention, new detention planning, speech-based green-card guidance, and large proposed funding increases without matching safeguards. The Justice Department appeared increasingly instrumental, from the James Comey indictment to pressure on litigation over Trump's White House ballroom. Media pressure also shifted from rhetoric to regulatory leverage through FCC action against ABC and Disney. The Democracy Clock held at 8:13 p.m., moving only 0.1 minutes, a near-stall that reflected consolidation rather than relief.",
-  "publishing_status": "Ready for release to The Democracy Clock weekly section with cross-posting to main feed.",
+  "long_synopsis": "Week 67 brought no single democratic rupture, but several reinforcing ones. The Supreme Court weakened Section 2 of the Voting Rights Act in Louisiana v. Callais, and Republican officials in Florida, Tennessee, Alabama, Mississippi, and Louisiana quickly moved to redraw maps or disrupt election calendars under the new standard. Immigration power widened through speech-based green-card guidance, renewed family detention, harsher detention conditions, judge replacements, and major new enforcement funding. The presidency also drew public symbolism and public resources closer to the person of Donald Trump through the White House ballroom push, Trump-branded passports, and family-linked benefits. Meanwhile, the FCC increased pressure on media, and environmental agencies tilted further toward favored industries while EPA scientific capacity was cut back. Courts and committees still imposed some limits, but mostly after the fact. The clock held steady because fresh damage was offset by partial, reactive checks rather than any real reversal.",
+  "mode": "weekly",
+  "new_time_public": "8:13 p.m.",
+  "period_label": "Week 67 \u2013 2026-04-25\u20132026-05-01",
+  "previous_time_public": "8:13 p.m.",
+  "publishing_status": "publication-ready",
   "quote_sources": [
     "The Guardian",
-    "Reuters",
+    "Heather Cox Richardson",
+    "MeidasTouch",
+    "Zeteo",
+    "Popular Information",
     "Just Security",
     "Democracy Docket",
-    "Zeteo",
-    "Letters from an American",
-    "Popular Information",
+    "50501",
     "Federal Register",
-    "MeidasTouch"
+    "Congress.gov"
   ],
-  "short_synopsis": "The week's central movement was conversion: court rulings, prosecutions, budgets, and security fears were turned into tools for narrowing representation, oversight, and neutrality without breaking formal procedure.",
+  "short_synopsis": "The week\u2019s main pattern was convergence: voting-rights rollback, expanded immigration coercion, media pressure, industry-aligned governance, and presidential personalization all moved together. Courts and Congress still produced some resistance, but mostly as delayed brakes. The Democracy Clock held at 8:13 p.m. because erosion and partial checks balanced, not because conditions stabilized.",
+  "start_date": "2026-04-25",
   "substack_metadata": {
-    "meta_description": "Week 67: a voting-rights ruling, immigration expansion, DOJ pressure, and media retaliation deepened democratic erosion even as the clock held at 8:13 p.m.",
-    "seo_description": "Week 67 saw voting-rights rollback, immigration expansion, DOJ pressure, and media retaliation deepen erosion while the clock held at 8:13 p.m.",
-    "seo_title": "Maps, Monuments, and Leverage",
-    "title": "Maps, Monuments, and Leverage -- Democracy Clock Week 67"
+    "meta_description": "Week 67: voting rights weakened, immigration coercion widened, media pressure rose, and the clock held at 8:13 p.m. amid reactive checks.",
+    "seo_description": "Week 67 saw voting-rights rollback, harsher immigration power, media pressure, and reactive oversight. The Democracy Clock held at 8:13 p.m.",
+    "seo_title": "Week 67: Converging Pressures, Partial Checks",
+    "title": "Converging Pressures, Partial Checks"
   },
-  "subtitle": "A voting-rights ruling, a president's building project, and selective legal pressure turned formal process into a method of democratic narrowing.",
-  "tagline": "Nothing dramatic had to happen for the system to worsen; this was a week when rulings, contracts, and guidance quietly taught power how to serve itself.",
-  "title": "Maps, Monuments, and Leverage"
+  "subtitle": "Voting rights, immigration enforcement, media pressure, and presidential personalization all advanced at once while oversight survived mostly as reaction.",
+  "tagline": "No single break defined the week; democratic erosion advanced through many institutions at once, while surviving checks remained real but largely reactive.",
+  "title": "Converging Pressures, Partial Checks",
+  "week_label": "Week 67",
+  "week_number": 67,
+  "window": {
+    "end": "2026-05-01",
+    "start": "2026-04-25"
+  }
 }

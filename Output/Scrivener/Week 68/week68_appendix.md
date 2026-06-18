@@ -294,3 +294,305 @@ Information, Memory and Manipulation
 13. Kash Patel was accused of distributing personalized bourbon bottles transported on Justice Department aircraft: The allegation raised questions about use of government resources and the blurring of official office with personal branding. — 2026-05-07
 
 14. The U.S. government asked commercial satellite firms to limit, delay, or withhold Middle East imagery during military operations: The request restricted independent visual evidence about a war zone, reducing outside scrutiny of military action. — 2026-05-07
+
+<!-- BEGIN GENERATED APPENDIX -->
+Power and Authority
+
+1. The Trump administration issued an executive order to limit mail-in voting through a national voter file tied to ballot delivery: The order sought to shift election control toward the federal executive and could restrict ballot access in states that rely heavily on voting by mail. — 2026-05-03
+
+2. Donald Trump urged states to redraw congressional maps even where voting had begun: The call pressed states to alter election rules midstream for partisan gain, testing fair representation and stable election administration. — 2026-05-03
+
+3. Defense Secretary Pete Hegseth dismissed or forced out 24 generals and senior commanders: The purge concentrated control over military leadership and weakened an institutional check on unlawful or politicized executive demands. — 2026-05-03
+
+4. The Trump administration considered creating new federal oversight for advanced AI models: The proposed shift would expand executive influence over a major technology sector and reshape how state power reaches private innovation. — 2026-05-05
+
+5. Tom Homan announced that mass deportations were imminent and that more ICE agents would be deployed: The statement signaled a planned escalation in coercive immigration enforcement, increasing executive pressure on noncitizens and local communities. — 2026-05-06
+
+6. The FBI searched the office of Virginia state Senate President Pro Tempore L. Louise Lucas: The search brought federal coercive power into a state political dispute and raised concerns about intimidation around redistricting and representation. — 2026-05-06
+
+7. Secretary of State Marco Rubio announced that Operation Epic Fury had ended and shifted to Project Freedom without congressional approval: The move suggested continued military action under a new label, testing war-powers limits and congressional control over armed conflict. — 2026-05-06
+
+8. Donald Trump paused Project Freedom after Iranian strikes in the Strait of Hormuz: The pause showed unilateral presidential control over a live military operation with little visible legislative check. — 2026-05-06
+
+9. The U.S. military struck Iranian targets in the Strait of Hormuz area: The strikes expanded direct use of force abroad and heightened concerns about executive war-making without effective oversight. — 2026-05-06
+
+10. The Department of Justice closed the San Francisco immigration court and shifted most operations to Concord: The closure used executive control over court infrastructure to reduce adjudicative capacity in a major immigration venue. — 2026-05-06
+
+11. The Department of Justice sought Supreme Court intervention to take over Donald Trump's defense in the E. Jean Carroll case: The move would use federal legal power to shield a president from personal accountability, blurring public office and private liability. — 2026-05-07
+
+12. The Trump administration classified anti-fascists and transgender people alongside ISIS in its counterterrorism strategy: The classification widened the state's security frame to cover political and identity groups, increasing the risk of coercive targeting. — 2026-05-07
+
+13. The Secret Service closed a large area around the Lincoln Memorial for Trump's inspection of a paint job: The closure used security powers to restrict public access for a leader-centered purpose, showing how state force can serve personal convenience. — 2026-05-07
+
+14. Alabama Governor Kay Ivey called for congressional redistricting despite a federal court injunction: The call challenged judicial limits and pressed executive power into an election dispute over representation and court authority. — 2026-05-08
+
+15. The Trump administration claimed that the war with Iran had terminated: The declaration appeared to redefine an ongoing conflict in order to reduce congressional leverage under war-powers law. — 2026-05-08
+
+
+Institutions and Governance
+
+1. The Department of Justice filed an emergency motion to resume White House ballroom construction: The filing pressed the courts to clear a contested presidential project, testing how legal process can be used to advance executive priorities. — 2026-05-02
+
+2. A federal court blocked access to mifepristone by mail: The ruling narrowed access to an FDA-approved drug and shifted power from health regulators to the courts. — 2026-05-02
+
+3. The Supreme Court issued a ruling that weakened Voting Rights Act protections against race-based districting: The decision reduced a key legal barrier to map changes that can dilute minority representation and destabilize election rules. — 2026-05-02
+
+4. A federal judge dismissed the Justice Department's lawsuit seeking Arizona voter-roll data: The ruling checked federal demands for sensitive election records and reinforced limits on executive reach into state election systems. — 2026-05-03
+
+5. The Supreme Court temporarily stayed the Fifth Circuit's mifepristone restrictions: The stay preserved the status quo for medication access and showed the Court acting as a short-term check on lower-court disruption. — 2026-05-04
+
+6. Judge Reyes ordered Interior Department defendants to compile and produce communications about Hains Point and golf-course plans: The order strengthened judicial oversight of executive decision-making by forcing preservation and disclosure of internal records. — 2026-05-04
+
+7. The Conservation Law Foundation and allied plaintiffs filed suit challenging Trump's revocation of fishing protections in a marine monument: The complaint asked the courts to review whether the president exceeded statutory authority, reinforcing separation-of-powers checks. — 2026-05-04
+
+8. A pseudonymous plaintiff filed suit against DHS over an administrative summons to Google for Gmail records: The case challenged agency use of subpoena power and asked the courts to police legal limits on executive information demands. — 2026-05-04
+
+9. The court dismissed Media Matters for America v. Federal Trade Commission after a joint stipulation: The dismissal ended an active challenge involving federal investigative power and media oversight. — 2026-05-04
+
+10. The Tennessee legislature opened a special session to consider mid-decade congressional redistricting: The session used legislative procedure to reopen settled maps after a court ruling, putting minority representation at risk. — 2026-05-06
+
+11. Commerce Secretary Howard Lutnick testified before the House Oversight Committee about his past ties to Jeffrey Epstein: The hearing tested Congress's capacity to investigate senior officials and demand truthful answers about conflicts and conduct. — 2026-05-06
+
+12. The Mississippi House scheduled a special session at the Old Capitol to redraw supreme court districts: The move reopened judicial district lines in a way critics said could dilute Black voting strength and politicize court representation. — 2026-05-06
+
+13. HHS Secretary Robert F. Kennedy Jr. reported a sharp drop in Affordable Care Act coverage after rule changes: The report showed administrative changes reshaping access to a major public program through executive control of enrollment rules. — 2026-05-06
+
+14. Senate Republicans advanced a budget reconciliation package with major cuts to health and nutrition support: The proposal used fast-track legislative procedure to reduce public benefits with limited minority-party leverage or deliberation. — 2026-05-06
+
+15. Senate Republicans proposed $72 billion in reconciliation funding for ICE and Border Patrol through 2029: The plan would lock in long-term enforcement capacity through budget procedure, reducing future oversight leverage over immigration agencies. — 2026-05-06
+
+16. Senate Republicans proposed $1 billion in taxpayer funding for White House security tied to Trump's ballroom project: The proposal used congressional budgeting to support a leader-centered project, raising questions about public purpose and accountability. — 2026-05-06
+
+17. Carla Espinoza sued the Department of Justice over her termination as an immigration judge: The suit challenged alleged ideological and discriminatory staffing decisions that can erode adjudicative independence. — 2026-05-05
+
+18. The Seventh Circuit partly affirmed and partly reversed orders in Castanon Nava v. Department of Homeland Security: The ruling maintained some judicial limits on immigration detention while narrowing relief for part of the affected class. — 2026-05-05
+
+19. A transgender woman in federal custody sued the Department of Justice over suspended PREA protections: The complaint asked the courts to review whether the executive changed prison protections without lawful rulemaking. — 2026-05-06
+
+20. Judge Provinzino denied a stay request against DHS guidance on ICE operations near schools: The ruling left the guidance in place and showed how standing rules can limit judicial review of contested enforcement policy. — 2026-05-06
+
+21. Judge Russo stayed proceedings in Herzberg v. United States until July 13: The stay delayed judicial resolution of an active challenge to federal action. — 2026-05-06
+
+22. The NAACP Tennessee State Conference filed an emergency challenge to Tennessee's new congressional map: The suit sought judicial review of a rushed redistricting process that critics said diluted Black voting power. — 2026-05-07
+
+23. A federal judge unsealed an alleged Jeffrey Epstein suicide note: The order expanded public access to court records in a matter with broad accountability implications. — 2026-05-07
+
+24. A Los Angeles County jury found an LAPD officer not liable for the death of Valentina Orellana-Peralta: The verdict underscored the difficulty of securing accountability through civil litigation after police use of force. — 2026-05-07
+
+25. Kash Patel sued The Atlantic: The lawsuit added legal pressure on a news outlet and showed how senior officials can use courts against critical reporting. — 2026-05-07
+
+26. The Southern Poverty Law Center pleaded not guilty in a federal fraud case: The plea kept alive a prosecution that critics said could burden a major civil-rights organization through criminal process. — 2026-05-07
+
+27. The First Circuit dismissed State of Illinois v. Noem after a joint stipulation: The dismissal ended an appellate challenge involving federal executive action. — 2026-05-07
+
+28. Judge Boasberg partly enjoined the FTC's investigative demands to the Endocrine Society and WPATH as likely retaliatory: The rulings checked agency use of investigative power against advocacy groups and reinforced First Amendment limits on retaliation. — 2026-05-07
+
+29. Judge Howell enforced a preliminary injunction against ICE's narrowed standard for warrantless civil arrests in Washington: The order reaffirmed judicial control over how immigration officers apply arrest authority in the capital. — 2026-05-07
+
+30. The Court of International Trade ruled Proclamation 11012 invalid and barred collection of the Section 122 surcharge from importer plaintiffs: The decision limited presidential trade authority by holding that the executive had acted outside the statute. — 2026-05-07
+
+31. French prosecutors opened a criminal investigation into Elon Musk and X: The investigation added legal scrutiny to a major platform owner whose decisions affect public discourse and political communication. — 2026-05-07
+
+32. The National Trust for Historic Preservation filed a response disputing the Justice Department's claims in the White House ballroom case: The filing contested executive representations to the court and kept judicial scrutiny on a disputed federal construction project. — 2026-05-07
+
+33. The Virginia Supreme Court struck down the voter-approved congressional redistricting referendum: The ruling voided a map change on procedural grounds and reshaped the institutional rules governing representation in Virginia. — 2026-05-07
+
+34. Virginia Attorney General Jay Jones petitioned the Virginia Supreme Court to stay its redistricting ruling pending appeal: The petition sought to preserve a contested map and showed continued institutional conflict over election procedure. — 2026-05-07
+
+35. A judge allowed cameras in the courtroom for the Charlie Kirk murder case: The ruling favored public access to judicial proceedings while balancing fair-trial concerns. — 2026-05-08
+
+36. The Guardian and the Reporters Committee for Freedom of the Press won release of immigration arrest records from the Trump administration: The case used the courts to force disclosure of enforcement records, strengthening transparency around family-impacting arrests. — 2026-05-08
+
+37. Plaintiffs in N. v. U.S. Department of Health and Human Services appealed the denial of a preliminary injunction: The appeal kept judicial review alive in a challenge to federal health-related action. — 2026-05-08
+
+38. The Trump administration appealed the Court of International Trade ruling against Proclamation 11012: The appeal prolonged a separation-of-powers dispute over the scope of presidential trade authority. — 2026-05-08
+
+39. Judge Rubin denied the government's motion to dismiss NAACP v. U.S.A.: The ruling allowed a challenge to federal education grant cuts to proceed, preserving judicial review of executive action. — 2026-05-08
+
+
+Economic Structure
+
+1. The North Carolina General Assembly introduced SB 815 to allow public carrying of loaded guns without a permit: The proposal would change the regulatory balance around public safety and state control of weapons in shared civic space. — 2026-05-02
+
+2. California lawmakers proposed a one-time tax on billionaires' net worth: The proposal aimed to shift wealth into public programs, making tax policy a direct tool for funding social goods. — 2026-05-02
+
+3. Portland passed an ordinance protecting polyamorous households from discrimination: The ordinance expanded equal access to housing, work, and public accommodations through local civil-rights regulation. — 2026-05-03
+
+4. The Tribal Trust Land Homeownership Act of 2025 became law: The law expanded pathways to homeownership on tribal trust lands, affecting wealth-building and economic self-determination. — 2026-05-04
+
+5. ANI Pharmaceuticals Inc. applied to import controlled substances through DEA registration: The application entered a federal licensing process that governs access to tightly regulated pharmaceutical markets. — 2026-05-04
+
+6. The DEA created a specific Schedule I listing for hexahydrocannabinol: The rule clarified federal drug control and expanded the precision of enforcement and quota-setting authority. — 2026-05-04
+
+7. The Box Elder County Commission approved the Stratos AI datacenter project in Utah: The approval advanced a resource-intensive private project despite broad public opposition, highlighting tensions in local control over land and water. — 2026-05-04
+
+8. ICE failed to resume payments for detainee medical care provided by outside vendors: The payment failure shifted detention costs onto providers and endangered basic care for people held by the state. — 2026-05-04
+
+9. Senate Republicans proposed a $1 billion immigration enforcement package that included White House ballroom security funding: The package tied immigration spending to a presidential construction priority, blending enforcement budgets with leader-centered capital spending. — 2026-05-05
+
+10. Several senators proposed legislation to explore nationalization of AI companies: The proposal would expand federal leverage over a concentrated industry with growing economic and political power. — 2026-05-05
+
+11. The CDC opened comment on revisions to World Trade Center Health Program data collection: The notice affected how a federal health-benefit program gathers information and manages access for responders and survivors. — 2026-05-05
+
+12. The CDC submitted a revised lead profile assessment information request to OMB: The request shaped how federal and local officials collect data used to direct childhood lead-poisoning prevention resources. — 2026-05-05
+
+13. The CDC submitted an information collection request on tobacco ingredients: The request supported federal oversight of cigarette composition and the data base for tobacco regulation. — 2026-05-05
+
+14. The EPA extended the postponement of parts of the trichloroethylene rule during judicial review: The delay slowed enforcement of chemical safeguards and showed how litigation can suspend public-health regulation. — 2026-05-05
+
+15. The EPA finalized a risk evaluation finding 1,2-dichloroethane posed unreasonable risk to workers: The finding set up future risk-management rules and strengthened the regulatory basis for worker protection. — 2026-05-05
+
+16. The EPA proposed an information collection for state revolving fund water programs: The proposal affected how states document and manage federal water infrastructure funding. — 2026-05-05
+
+17. The FCC sought comments on an information collection tied to radio-service licensing: The notice affected the administrative burden and access rules for communications licensing. — 2026-05-05
+
+18. AI industry leaders publicly discussed possible nationalization of AI companies: The discussion reflected concern over concentrated private power in a sector with growing public consequences. — 2026-05-05
+
+19. OpenAI removed an AGI clause from its agreement with Microsoft: The contract change signaled a shift in governance and control within a major technology partnership. — 2026-05-05
+
+20. The CDC opened comment on extending tobacco communication message-testing data collection: The notice supported federal public-health messaging and the evidence base for tobacco education campaigns. — 2026-05-05
+
+21. The Census Bureau sought OMB approval for a 2030 Census address test focused on accessory dwelling units: The test aimed to improve the address base used for future representation and funding counts. — 2026-05-06
+
+22. The EPA received Google's application for an experimental mosquito-control permit: The application put a novel environmental intervention into federal review, testing public oversight of experimental releases. — 2026-05-06
+
+23. The FDA classified three medical devices into class II with special controls: The classifications lowered some market barriers while setting federal safety conditions for new medical products. — 2026-05-06
+
+24. The FDA determined that Dexamethasone Elixir had not been withdrawn for safety or effectiveness reasons: The determination kept the path open for generic approvals and affected competition in the drug market. — 2026-05-06
+
+25. The FDA issued a priority review voucher to Regeneron for a rare pediatric disease treatment: The voucher used market incentives to steer private investment toward rare-disease drug development. — 2026-05-06
+
+26. The Office of Federal Procurement Policy, the Defense Department, GSA, and NASA announced a new contractor information collection on DEI discrimination compliance: The requirement expanded federal leverage over contractors by tying procurement participation to new reporting duties. — 2026-05-06
+
+27. The TSA revised pipeline-operator information collection by removing mandatory cybersecurity vulnerability assessments: The revision reduced reporting burdens but also narrowed one channel of federal oversight over critical infrastructure security. — 2026-05-06
+
+28. The Stratos datacenter developers withdrew their water-diversion application and said they would refile: The move reset the objection process and showed how developers can use procedure to outlast local opposition. — 2026-05-06
+
+29. The Department of Justice investigated suspicious oil trades made before major Iran-war announcements: The probe addressed whether political or military information was used for private market gain. — 2026-05-06
+
+30. U.S. fuel markets pushed gas prices to a new high during the Iran conflict: The price spike showed how foreign policy shocks can quickly burden households and reshape economic conditions at home. — 2026-05-06
+
+31. The EPA delegated authority over sewage sludge incineration units to Allegheny County: The delegation shifted enforcement power from the federal government to a local agency, changing who controls environmental compliance. — 2026-05-07
+
+32. The EPA cleared Virginia to designate Northern Neck waters as a vessel sewage no-discharge zone: The determination enabled stronger local water protections through federal environmental review. — 2026-05-07
+
+33. The FCC put revised pole-attachment rules into effect to speed broadband deployment: The rules changed infrastructure bargaining and could expand digital access by reducing deployment delays. — 2026-05-07
+
+34. The FDA determined that MICARDIS had not been withdrawn for safety or effectiveness reasons: The decision preserved a route for generic competition in a prescription drug market. — 2026-05-07
+
+35. The FDA issued final guidance on patient-matched guides for orthopedic implants: The guidance shaped how firms design and submit specialized medical devices for federal review. — 2026-05-07
+
+36. The FDA withdrew approval of 15 abbreviated new drug applications at the applicants' request: The withdrawals changed the set of generic products available in the market and under federal approval. — 2026-05-07
+
+37. The FDA authorized fruit-flavored vapes after reported political pressure: The authorization raised concerns that political influence, rather than public-health judgment alone, shaped market access. — 2026-05-07
+
+38. Trump cabinet members insisted gas prices were favorable despite prices above $4.55 per gallon: The messaging sought to shape public understanding of economic conditions while households faced rising fuel costs. — 2026-05-07
+
+39. The California Department of Insurance filed a major enforcement action against State Farm over wildfire claims handling: The action used state regulatory power to police insurer conduct in a market central to household security and disaster recovery. — 2026-05-07
+
+40. State Farm expanded in risky California markets and later withdrew coverage from thousands of homes: The pattern showed how private insurers can shape access to a basic economic safeguard while shifting risk onto the public. — 2026-05-07
+
+41. The FCC submitted an information collection request to OMB for review: The filing affected compliance burdens for regulated entities and the administrative reach of communications oversight. — 2026-05-08
+
+42. The FDA classified an external condom for anal and vaginal intercourse into class II: The classification set federal safety controls while easing a path to market for a sexual-health device. — 2026-05-08
+
+43. The FDA determined that leucovorin calcium oral solution had not been withdrawn for safety or effectiveness reasons: The determination preserved the possibility of generic approvals and affected drug-market competition. — 2026-05-08
+
+44. OSHA extended OMB approval for ethylene oxide and HAZWOPER information collections: The extensions maintained federal reporting systems that support worker-safety enforcement in hazardous settings. — 2026-05-08
+
+45. General Motors agreed to a $12.75 million settlement over selling drivers' location and driving data: The settlement used state enforcement to curb corporate monetization of personal data and protect consumer rights in digital markets. — 2026-05-08
+
+46. The National Park Service released data showing toxic contamination at a golf course used for White House demolition debris: The disclosure raised questions about environmental compliance and the use of public land to absorb costs from a federal project. — 2026-05-08
+
+47. Joint Base Andrews spilled about 32,000 gallons of jet fuel into a nearby creek and delayed notice to Maryland regulators: The spill and late reporting showed how state institutions can impose environmental costs while evading timely oversight. — 2026-05-08
+
+
+Civil Rights and Dissent
+
+1. A North Carolina grand jury indicted former FBI director James Comey over an Instagram post interpreted as a threat to Trump: The indictment raised concerns that criminal law was being used in a way that could chill political speech and dissent. — 2026-05-02
+
+2. ICE re-arrested the El Gamal family shortly after a judge ordered their release: The re-arrest tested compliance with court orders and heightened fears that immigration enforcement could override basic due-process protections. — 2026-05-02
+
+3. Community groups blocked proposed ICE detention warehouses from becoming operational: The resistance showed local civic action constraining detention expansion and defending bodily security for migrants. — 2026-05-02
+
+4. North Carolina Democrats mobilized against anti-DEI and pro-ICE bills: The organizing effort used public participation to resist legislation seen as harmful to minority and immigrant rights. — 2026-05-02
+
+5. Federal prosecutors charged Cole Tomas Allen with attempting to assassinate Donald Trump: The case addressed a direct act of political violence against public officials and the security of democratic institutions. — 2026-05-03
+
+6. Federal immigration officers carried out a Minnesota enforcement operation that killed two unarmed civilians and drew mass protests: The operation raised grave concerns about lethal force, community targeting, and the civil-rights costs of immigration policing. — 2026-05-03
+
+7. ICE agents and the NYPD arrested a visa overstay in Brooklyn and then arrested eight protesters outside a hospital: The incident linked immigration enforcement to protest policing and tested local sanctuary limits on cooperation with federal action. — 2026-05-04
+
+8. The Department of Justice subpoenaed personal information for Fulton County election workers and volunteers: The demand risked intimidating election workers and could deter future participation in election administration. — 2026-05-04
+
+9. Governor Ron DeSantis signed a new Florida congressional map into law: The map change was challenged as a partisan gerrymander that could weaken fair representation and minority voting strength. — 2026-05-04
+
+10. Unknown vandals sprayed swastikas and antisemitic graffiti on synagogues and homes in Queens: The attacks targeted a religious minority and threatened equal civic belonging and community safety. — 2026-05-04
+
+11. The EEOC sued The New York Times over an alleged discriminatory promotion decision: The suit used federal civil-rights enforcement against a major newsroom in a way the paper said was politically motivated. — 2026-05-05
+
+12. Voters in Indiana, Ohio, and Michigan cast ballots in primaries and a special election: The elections maintained routine democratic participation and determined party nominees and legislative control. — 2026-05-05
+
+13. Hundreds of protesters gathered at the Tennessee Capitol against the redistricting session: The protest asserted public opposition to a rushed map change that critics said would dilute Black voting power. — 2026-05-05
+
+14. Chedrick Greene won the Michigan Senate special election and kept Democrats in control of the chamber: The result preserved the elected balance of power in a state legislature and showed normal electoral accountability at work. — 2026-05-06
+
+15. Indiana Republican primary voters defeated several state senators who had resisted Trump's redistricting push: The results strengthened forces favoring partisan remapping and showed how intraparty pressure can reshape representation rules. — 2026-05-06
+
+16. Ohio voters nominated Sherrod Brown and Jon Husted for the U.S. Senate race: The primary set a major general-election contest that could affect national representation and Senate control. — 2026-05-06
+
+17. Ohio Republican voters nominated Vivek Ramaswamy for governor: The primary determined a major statewide nominee and shaped the coming contest over executive power in Ohio. — 2026-05-06
+
+18. Rutgers University rescinded a graduation speech invitation after complaints about pro-Palestinian posts: The cancellation showed institutional pressure on controversial speech in a university setting and narrowed space for open debate. — 2026-05-06
+
+19. Tennessee Republicans and Governor Bill Lee passed and signed a new congressional map that split Shelby County across three Republican districts: The map change dismantled the state's only majority-Black district and sharply reduced Black voters' collective electoral power. — 2026-05-07
+
+20. Tennessee state troopers cleared protesters from the Capitol gallery after the map passed: The removal restricted protest access at the moment of contested lawmaking and narrowed public presence inside the legislature. — 2026-05-07
+
+21. Professors sued Emory University over its handling of Gaza-related protests: The suit challenged university and police responses that faculty said burdened protest rights and campus expression. — 2026-05-07
+
+22. Representative Justin Pearson confronted the sergeant at arms during Tennessee's redistricting session and was escorted out: The incident showed conflict over minority representation spilling into direct limits on dissent inside a legislative setting. — 2026-05-07
+
+23. Immigration officers used tear gas and pepper spray on at least 79 children during enforcement encounters: The reported force against children highlighted severe rights and safety harms tied to immigration policing. — 2026-05-07
+
+24. Governor Jeff Landry suspended Louisiana's congressional primary to allow redistricting: The suspension interrupted an election already underway and used state power to reopen representation rules for partisan advantage. — 2026-05-08
+
+25. Republican-led legislatures in multiple states pursued coordinated redistricting efforts after the Voting Rights Act ruling: The push showed a broad effort to use mapmaking to lock in partisan gains and weaken minority representation. — 2026-05-08
+
+26. Representative Justin Jones burned a Confederate battle flag in the Tennessee Capitol rotunda to protest redistricting: The act used symbolic protest to contest a map change that critics said stripped Black voters of effective representation. — 2026-05-08
+
+27. Governor Ron DeSantis discussed closing the Alligator Alcatraz detention center with the Trump administration: The talks reflected scrutiny of detention conditions and the rights implications of holding migrants in unsafe facilities. — 2026-05-08
+
+28. Tom Homan claimed there were well over 20 million undocumented immigrants and said arrests would intensify: The statement framed a broad population as a target for expanded enforcement, increasing fear and insecurity among migrants. — 2026-05-08
+
+29. Steve Hilton announced his run for California governor: The announcement added a new contender to a major statewide race and altered the field of democratic choice. — 2026-05-08
+
+30. The Box Elder Accountability Referendum group filed to seek a referendum overturning the Stratos datacenter approval: The filing used direct democracy to challenge a local government decision with major environmental and resource effects. — 2026-05-08
+
+
+Information, Memory and Manipulation
+
+1. The FCC accelerated review of eight ABC local broadcasting licenses after criticism of Jimmy Kimmel's remarks: The move suggested regulatory pressure on a broadcaster over protected speech, threatening media independence. — 2026-05-02
+
+2. Donald Trump accused former Attorney General Eric Holder of treasonous conduct on Truth Social: The accusation used a mass platform to stigmatize a political opponent in terms that can delegitimize lawful dissent. — 2026-05-02
+
+3. The FCC Media Bureau sought comment on the transparency and effectiveness of the TV ratings system: The notice opened a federal review of how television content is labeled and framed for the public. — 2026-05-04
+
+4. The FDA blocked publication of taxpayer-funded studies finding Covid-19 and shingles vaccines safe: The decision withheld public health findings that could shape trust in science and informed consent. — 2026-05-05
+
+5. FBI Director Kash Patel ordered polygraph tests for current and former staff to identify leakers: The order expanded internal surveillance in response to press reporting and could chill lawful contact with journalists. — 2026-05-06
+
+6. The FBI opened a criminal leak investigation tied to reporting on Kash Patel's conduct: The probe threatened source confidentiality and increased pressure on journalists covering senior law-enforcement officials. — 2026-05-06
+
+7. A confidential CIA report contradicted public claims by Trump and Pete Hegseth about Iran's weakness: The gap between intelligence and public messaging raised concerns that the administration was shaping opinion with misleading war claims. — 2026-05-06
+
+8. Axios reporter Barak Ravid faced antisemitic attacks on social media after his Iran reporting: The abuse targeted a journalist's identity and reporting, worsening the climate for independent press work. — 2026-05-07
+
+9. Joint Base Andrews delayed disclosure of a major jet-fuel leak to Maryland regulators: The late notice withheld information about environmental harm and weakened timely public oversight. — 2026-05-06
+
+10. Secretary Pete Hegseth and Acting Comptroller Jules Hurst reported Iran war costs to Congress far below internal and outside estimates: The discrepancy impaired informed oversight by obscuring the scale of public spending on war. — 2026-05-06
+
+11. Kash Patel allegedly distributed personalized bourbon bottles transported on Justice Department aircraft: The allegation raised questions about whether official resources were used to build personal image and patronage networks. — 2026-05-07
+
+12. The U.S. government asked commercial satellite firms to delay or withhold Middle East imagery: The request limited independent visual evidence about military operations and reduced outside scrutiny of war claims. — 2026-05-07
+<!-- END GENERATED APPENDIX -->

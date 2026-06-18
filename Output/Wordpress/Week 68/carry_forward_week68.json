@@ -1,19 +1,19 @@
 {
-  "clock_after_minutes": 493.1,
-  "clock_before_minutes": 493.1,
+  "clock_after_minutes": 493.3,
+  "clock_before_minutes": 493.3,
   "clock_delta_minutes": 0.0,
-  "generated_at": "2026-05-16T12:03:31.691288+00:00",
+  "generated_at": "2026-05-23T07:16:21.765171+00:00",
   "provenance": {
     "mel": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Master Event Logs/master_index_week68_2026-05-02_2026-05-08.json",
     "mel_sha1": "85c6f70fbd15e169073f5d13eb7c392dc3e972ba",
     "prior": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Weeks/Week 67/carry_forward_week67.json",
-    "prior_sha1": "c1a4f033eb306e41699421d0928d18768aade248",
+    "prior_sha1": "be42b3d356784cdec13dee67ea3214b2c4b60166",
     "trait_catalogue": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Programs/step3_trait_catalogue_v4.json",
     "trait_catalogue_sha1": "636ee63296eafb124942adf76cebfb6936d491e4"
   },
   "totals": {
     "difficulty_sum": 117.0,
-    "presence_sum": 376.1
+    "presence_sum": 376.3
   },
   "traits": [
     {
@@ -235,7 +235,7 @@
       },
       "difficulty": 2.0,
       "notes": "",
-      "presence": 5.3,
+      "presence": 5.4,
       "rationale": "Presence is 4.8 (notable) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Institutional baselines improved (respect for oversight, apolitical DOJ posture), yet Court doctrine and structural incentives from the 2010s persisted. Week 0 weights these durable architectures over goodwill. Difficulty 0.9 is readily reversible: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "legislatures_as_performance_not_deliberation",
       "trait_name": "Legislatures function as performance, not deliberation",
@@ -370,7 +370,7 @@
       },
       "difficulty": 2.0,
       "notes": "",
-      "presence": 5.6,
+      "presence": 5.5,
       "rationale": "Presence is 5.2 (notable) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Institutional baselines improved (respect for oversight, apolitical DOJ posture), yet Court doctrine and structural incentives from the 2010s persisted. Week 0 weights these durable architectures over goodwill. Difficulty 1.5 is sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "public_funds_for_glorification_and_symbolic_dominance",
       "trait_name": "Public funds are used for personal glorification and symbolic dominance",
@@ -685,7 +685,7 @@
       },
       "difficulty": 2.0,
       "notes": "",
-      "presence": 6.7,
+      "presence": 6.8,
       "rationale": "Presence is 6.8 (elevated) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Civil liberties posture improved, with symmetrical enforcement and fewer retaliations. However, surveillance infrastructure and uneven state practices endured, keeping risks above pre\u20112017 levels. Difficulty 1.6 is highly sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "voter_suppression_rationalized_as_integrity",
       "trait_name": "Voter suppression is rationalized as election integrity",
@@ -880,7 +880,7 @@
       },
       "difficulty": 2.0,
       "notes": "",
-      "presence": 5.7,
+      "presence": 5.8,
       "rationale": "Presence is 5.6 (moderate) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Institutional baselines improved (respect for oversight, apolitical DOJ posture), yet Court doctrine and structural incentives from the 2010s persisted. Week 0 weights these durable architectures over goodwill. Difficulty 1.3 is partly reversible: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "government_archives_sealed_sanitized_or_destroyed",
       "trait_name": "Government archives are sealed, sanitized, or destroyed",
@@ -917,29 +917,29 @@
       "trait_number": 60
     }
   ],
-  "updated_at": "2026-05-16T12:03:31.691307+00:00",
+  "updated_at": "2026-05-23T07:16:21.765199+00:00",
   "week": 68,
   "weekly_analytic_brief": {
     "sensor": {
       "institutional_shifts": [
-        "The Supreme Court\u2019s Voting Rights Act posture triggered immediate downstream movement in state legislatures and election systems, accelerating map manipulation and election-calendar disruption.",
-        "The Justice Department and allied federal law-enforcement bodies appeared increasingly available for politically charged actions involving critics, election administration, immigration, and the press.",
-        "State legislatures in Tennessee and Florida moved from ordinary partisan competition into overt structural redesign of representation, especially where Black voting power was at stake.",
-        "Some lower federal courts still acted as partial brakes, blocking voter-roll overreach, enjoining retaliatory FTC investigations, and forcing disclosure or compliance in immigration-related cases.",
-        "The Pentagon and national-security apparatus showed both politicization and opacity: leadership purges, disputed war-cost reporting, and information restrictions around the Iran conflict all weakened oversight."
+        "The Supreme Court and allied state actors materially shifted the electoral landscape by enabling or accelerating redistricting that weakens minority voting power and destabilizes settled election procedures.",
+        "The Justice Department and FBI appeared to move further toward politicized enforcement, with actions touching former officials, election workers, journalists, civil-rights groups, and state political figures.",
+        "Congress functioned unevenly: some oversight occurred, but major legislative energy on the Republican side centered on immigration escalation and funding a White House ballroom through reconciliation.",
+        "Federal courts still imposed meaningful friction, including blocking voter-data overreach, enjoining retaliatory FTC investigations, preserving some immigration protections, and forcing release of immigration records.",
+        "Executive agencies showed signs of politicization in communications and regulation, especially the FCC, FDA, EEOC, and immigration court system."
       ],
       "oddities_or_open_questions": [
-        "Several judicial actions cut in opposite directions in the same week, especially on mifepristone and immigration enforcement, suggesting a fragmented rather than uniformly captured court environment.",
-        "The Virginia map rulings are procedurally distinct from the overtly racial redistricting fights elsewhere; analysts should separate genuine procedural enforcement from opportunistic structural advantage.",
-        "The extent to which leak investigations and media-targeting actions will mature into durable precedent, rather than episodic intimidation, remains an important question for future tracking."
+        "The week mixed severe anti-democratic pressure with several real judicial checks. The key analytic question is whether these court interventions are episodic brakes or evidence of still-resilient institutional resistance.",
+        "The Virginia map rulings cut against the broader pro-Republican redistricting wave, but on procedural rather than rights-protective grounds; whether that represents democratic repair is ambiguous.",
+        "The administration\u2019s simultaneous insistence that the Iran conflict had effectively ended, while military exchanges and secrecy disputes continued, leaves unresolved how war-powers evasion is being operationalized."
       ],
-      "summary": "This was a high-pressure week centered on the conversion of legal, regulatory, and electoral machinery into instruments of partisan entrenchment. The strongest pattern was the rapid exploitation of a Supreme Court decision weakening the Voting Rights Act: Tennessee, Florida, Louisiana, Alabama, Mississippi, and other states moved or prepared to move maps in ways that dilute Black voting power and advantage Republicans, often mid-cycle and with compressed procedures. At the federal level, the administration paired election-related overreach with retaliatory uses of state power: subpoenas for election workers, an executive order targeting mail voting, prosecutions and investigations with clear political valence, and escalating pressure on journalists and media outlets through the FCC, FBI, EEOC, and civil litigation. Immigration enforcement also remained a major vector of democratic decay, with court-defying arrests, court closures, mass-deportation escalation, and documented harm to children. Courts provided some partial checks, but the week\u2019s dominant signal was not democratic repair; it was the use of law, security, and administration to harden asymmetries in representation, speech, and accountability.",
+      "summary": "This was a high-pressure week defined by the convergence of election manipulation, retaliatory state power, and information control. The most consequential pattern was the rapid exploitation of a Supreme Court decision weakening Voting Rights Act protections: Tennessee enacted a map dismantling its only majority-Black district, other states moved to redraw maps mid-cycle, and national Republican actors openly framed redistricting as a route to partisan seat gains. At the same time, federal power was repeatedly used in ways that looked punitive or intimidatory: subpoenas for election workers, the Comey indictment, media-targeting FCC and EEOC actions, leak investigations aimed at journalists, and immigration enforcement that appeared to disregard court limits and humanitarian obligations. A secondary but important theme was executive opportunism under security and war rationales, including efforts to fund Trump\u2019s ballroom with public money and to evade congressional war-powers accountability. Courts provided some counter-pressure through injunctions, stays, and records disclosures, but the week\u2019s dominant structural force was toward entrenching selective enforcement, weakening electoral fairness, and normalizing governance by retaliation.",
       "top_themes": [
-        "Redistricting as regime consolidation: after the Voting Rights Act setback, multiple Republican-led states moved quickly to redraw maps, often targeting majority-Black districts and compressing normal procedural safeguards.",
-        "Retaliatory governance through legal process: subpoenas, indictments, lawsuits, and investigations repeatedly appeared aimed not just at enforcement, but at intimidating critics, election workers, civil society groups, and media institutions.",
-        "Regulatory coercion against speech institutions: the FCC, FDA, FTC, and EEOC surfaced as tools in broader political campaigns against broadcasters, scientific publication, advocacy groups, and major newspapers.",
-        "Immigration enforcement as a site of rights erosion: court defiance, detention expansion, medical neglect, court closures, and force against children all pointed to a system operating with weak humanitarian and legal constraints.",
-        "Security and emergency rationales expanding executive discretion: assassination-attempt fallout and Iran-related conflict were repeatedly invoked to justify exceptional spending, secrecy, and unilateral action."
+        "Mid-cycle redistricting became an openly coordinated method of partisan power consolidation, especially where Black representation could be diluted after the Voting Rights Act ruling.",
+        "Retaliatory use of state machinery intensified across domains: prosecutors, regulators, and investigators were deployed against critics, journalists, civil society groups, and election actors.",
+        "Security and emergency language continued to justify exceptional executive behavior, from election administration overreach to public spending on presidential prestige projects.",
+        "Immigration enforcement showed both coercive escalation and institutional disregard, including court-defying arrests, detention expansion, and documented harms to children and detainees.",
+        "Information control operated through both censorship and intimidation: blocked health research, pressure on broadcasters, leak probes, and efforts to suppress war transparency."
       ]
     }
   },

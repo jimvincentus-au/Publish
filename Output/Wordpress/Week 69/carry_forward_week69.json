@@ -1,19 +1,19 @@
 {
-  "clock_after_minutes": 493.1,
-  "clock_before_minutes": 493.1,
+  "clock_after_minutes": 493.3,
+  "clock_before_minutes": 493.3,
   "clock_delta_minutes": 0.0,
-  "generated_at": "2026-05-16T12:33:49.612099+00:00",
+  "generated_at": "2026-05-23T07:31:41.735845+00:00",
   "provenance": {
     "mel": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Master Event Logs/master_index_week69_2026-05-09_2026-05-15.json",
     "mel_sha1": "97f20372624a0ccc220a66bb9c6178e9cd7a6e3d",
     "prior": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Weeks/Week 68/carry_forward_week68.json",
-    "prior_sha1": "238b41a2b50876eaaa941a715ec377ed2dd90882",
+    "prior_sha1": "78833e9983731a67970f107b7d6b85cee7042a41",
     "trait_catalogue": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Programs/step3_trait_catalogue_v4.json",
     "trait_catalogue_sha1": "636ee63296eafb124942adf76cebfb6936d491e4"
   },
   "totals": {
     "difficulty_sum": 117.0,
-    "presence_sum": 376.1
+    "presence_sum": 376.3
   },
   "traits": [
     {
@@ -235,7 +235,7 @@
       },
       "difficulty": 2.0,
       "notes": "",
-      "presence": 5.3,
+      "presence": 5.4,
       "rationale": "Presence is 4.8 (notable) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Institutional baselines improved (respect for oversight, apolitical DOJ posture), yet Court doctrine and structural incentives from the 2010s persisted. Week 0 weights these durable architectures over goodwill. Difficulty 0.9 is readily reversible: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "legislatures_as_performance_not_deliberation",
       "trait_name": "Legislatures function as performance, not deliberation",
@@ -370,7 +370,7 @@
       },
       "difficulty": 2.0,
       "notes": "",
-      "presence": 5.6,
+      "presence": 5.5,
       "rationale": "Presence is 5.2 (notable) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Institutional baselines improved (respect for oversight, apolitical DOJ posture), yet Court doctrine and structural incentives from the 2010s persisted. Week 0 weights these durable architectures over goodwill. Difficulty 1.5 is sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "public_funds_for_glorification_and_symbolic_dominance",
       "trait_name": "Public funds are used for personal glorification and symbolic dominance",
@@ -685,7 +685,7 @@
       },
       "difficulty": 2.0,
       "notes": "",
-      "presence": 6.7,
+      "presence": 6.8,
       "rationale": "Presence is 6.8 (elevated) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Civil liberties posture improved, with symmetrical enforcement and fewer retaliations. However, surveillance infrastructure and uneven state practices endured, keeping risks above pre\u20112017 levels. Difficulty 1.6 is highly sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "voter_suppression_rationalized_as_integrity",
       "trait_name": "Voter suppression is rationalized as election integrity",
@@ -880,7 +880,7 @@
       },
       "difficulty": 2.0,
       "notes": "",
-      "presence": 5.7,
+      "presence": 5.8,
       "rationale": "Presence is 5.6 (moderate) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Institutional baselines improved (respect for oversight, apolitical DOJ posture), yet Court doctrine and structural incentives from the 2010s persisted. Week 0 weights these durable architectures over goodwill. Difficulty 1.3 is partly reversible: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "government_archives_sealed_sanitized_or_destroyed",
       "trait_name": "Government archives are sealed, sanitized, or destroyed",
@@ -917,28 +917,29 @@
       "trait_number": 60
     }
   ],
-  "updated_at": "2026-05-16T12:33:49.612112+00:00",
+  "updated_at": "2026-05-23T07:31:41.735863+00:00",
   "week": 69,
   "weekly_analytic_brief": {
     "sensor": {
       "institutional_shifts": [
-        "The judiciary was pulled in opposite directions: some courts checked executive overreach, but the Supreme Court\u2019s voting-rights and map-related interventions materially widened space for disenfranchising redistricting.",
-        "Congress remained active but uneven: oversight hearings and transparency demands continued, while reconciliation and committee retaliation showed how procedure can be used to bypass scrutiny or punish dissent.",
-        "Executive agencies, especially FDA and immigration adjudication, moved further from technocratic independence toward direct political management and loyalty testing.",
-        "State legislatures in the South became major engines of democratic erosion this week, using redistricting, special sessions, and internal discipline to reduce minority and opposition power."
+        "Immigration adjudication moved sharply toward executive control through judge firings, court closures, fast-tracked cases, and temporary military-lawyer appointments.",
+        "State-level election administration and redistricting institutions shifted toward rapid partisan exploitation of the weakened Voting Rights Act, especially in Tennessee, Louisiana, Georgia, and Alabama.",
+        "Congress remained active but uneven: oversight hearings and transparency demands continued, while reconciliation and committee retaliation showed how legislative procedure can also be weaponized.",
+        "Regulatory agencies showed mixed movement, but the dominant shift was politicization\u2014especially at FDA and EPA\u2014despite some routine rulemaking and stakeholder processes continuing in the background.",
+        "Federal courts still functioned as partial checks, blocking some sanctions and preserving some rights, but major election-law and map decisions also deepened structural vulnerability."
       ],
       "oddities_or_open_questions": [
-        "The same week contained pockets of democratic repair, especially lower-court interventions and local resistance to ICE cooperation, but these were outweighed by larger structural moves; whether they can scale remains unclear.",
-        "The administration\u2019s apparent willingness to discuss renaming military operations to reset War Powers timelines deserves close follow-up because it suggests procedural evasion rather than a one-off legal argument.",
-        "The FDA record was internally contradictory: political interference and scientific suppression intensified, yet routine regulatory notices and guidance continued, suggesting institutional degradation without full administrative collapse."
+        "The same week featured routine FDA and CDC public-facing regulatory processes alongside intense political interference at the top of health agencies; the durability of lower-level administrative normalcy is worth tracking.",
+        "Several legal and oversight responses were immediate and substantial, especially around the Reflecting Pool, immigration, and voting maps; whether these remain symbolic or produce real constraint is unresolved.",
+        "Trump\u2019s suggestion of deploying ICE or the National Guard at voting locations was only rhetorical this week, but it is a notable threshold-crossing statement that may merit separate monitoring."
       ],
-      "summary": "This was a high-pressure week defined by the convergence of three decay patterns: partisan restructuring of electoral rules after the Callais voting-rights decision, overt politicization of law enforcement and regulatory institutions, and executive use of public resources for personal or factional ends. The strongest structural pressure came from the South\u2019s rapid move toward racialized mid-decade gerrymanders and election disruption in Tennessee, Louisiana, Georgia, Alabama, and South Carolina, which sharply worsened traits tied to voter suppression, minority disenfranchisement, and weakened opposition. At the same time, the administration and allied officials intensified pressure on the FDA, immigration courts, DOJ, and the military-legal boundary, showing a state apparatus increasingly expected to serve political objectives rather than neutral administration. Trump\u2019s calls to prosecute opponents, accusations of treason against the press, and politically suspect cases against Comey and the SPLC reinforced the pattern of law as retaliation. A secondary but important theme was corruption-through-symbolism: no-bid contracting, ballroom security funding, and the Reflecting Pool fight showed public money and public space being bent toward personal glorification and patronage.",
+      "summary": "This was a high-pressure week for democratic structure, defined less by one singular rupture than by coordinated stress across elections, law enforcement, regulatory independence, and executive accountability. The strongest pattern was the conversion of formal institutions into partisan instruments: immigration courts were hollowed out and repopulated on political terms, prosecutors and agencies faced pressure to align with White House priorities, and the president openly demanded prosecutions of opponents while accusing critics and media of treason. A second major theme was electoral hardball accelerating after the Callais voting-rights ruling: Tennessee\u2019s map, Louisiana\u2019s halted primary, Alabama\u2019s map reinstatement, and new redistricting pushes in Georgia and elsewhere all pointed toward rapid racialized entrenchment. A third theme was state capture through patronage and private gain, especially around the FDA, no-bid contracting, and public spending for Trump-branded or Trump-serving projects. Courts and Congress still showed pockets of resistance\u2014judges blocked some executive overreach, lawsuits proliferated, and oversight hearings continued\u2014but the week\u2019s net structural force was clearly toward politicized governance and harder reversibility.",
       "top_themes": [
-        "Post-Callais electoral hardball accelerated quickly, with redistricting, suspended primaries, and committee retaliation combining into a broader effort to convert judicial openings into durable partisan advantage.",
-        "Law enforcement and adjudication were pushed toward political service, especially through immigration court restructuring, retaliatory prosecutions, and presidential demands for criminal action against rivals.",
-        "Regulatory capture became unusually visible in public-health governance, as FDA decisions, scientific publication, and agency leadership were all subjected to direct political pressure.",
-        "Public funds and state procedure were repeatedly redirected toward symbolic or personal projects, especially the ballroom and Reflecting Pool controversies, blurring governance with self-glorification.",
-        "Information pressure came less from formal censorship than from intimidation, disinformation, and narrative flooding: treason rhetoric, election lies, and dubious official cost claims all degraded accountability."
+        "Governing by retaliation: executive and justice-system power were repeatedly directed at critics, perceived enemies, and disfavored communities rather than neutrally administered.",
+        "Post-Callais electoral entrenchment: weakened voting-rights protections immediately translated into aggressive map-drawing, election disruption, and dilution of Black representation across multiple Southern states.",
+        "Regulatory capture through political loyalty: FDA and environmental decisions showed direct pressure to subordinate expertise, science, and public health to electoral or industry interests.",
+        "Personalization of the state: public funds, appointments, and enforcement priorities were bent toward the leader\u2019s image, allies, and projects, blurring public purpose and private benefit.",
+        "Militarized immigration governance: detention expansion, court restructuring, deportation secrecy, and threats to use ICE or National Guard at polls normalized coercive tools in civilian politics."
       ]
     }
   },

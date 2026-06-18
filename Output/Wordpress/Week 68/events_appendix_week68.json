@@ -27,9 +27,8 @@
           "source_names": [
             "guardian"
           ],
-          "summary_line": "The order sought to shift election control toward the federal executive and could restrict ballot access that states had long managed themselves.",
+          "summary_line": "The order sought to shift election control toward the federal executive and could restrict ballot access in states that rely heavily on voting by mail.",
           "trait_links": [
-            1,
             11,
             45,
             53
@@ -41,7 +40,7 @@
             "to": "wk68_PA_002"
           },
           "action": "urged states to redraw congressional maps even where voting had begun",
-          "actor": "President Trump",
+          "actor": "Donald Trump",
           "category": "Power and Authority",
           "date": "2026-05-03",
           "event_date": "2026-05-03",
@@ -60,9 +59,9 @@
           "source_names": [
             "zeteo"
           ],
-          "summary_line": "The call pressed states to change representation rules midstream for partisan gain, testing fair process and stable election administration.",
+          "summary_line": "The call pressed states to alter election rules midstream for partisan gain, testing fair representation and stable election administration.",
           "trait_links": [
-            6
+            45
           ]
         },
         {
@@ -70,7 +69,7 @@
             "from": "PA_003",
             "to": "wk68_PA_003"
           },
-          "action": "dismissed or forced out 24 generals and senior commanders without stated performance grounds",
+          "action": "dismissed or forced out 24 generals and senior commanders",
           "actor": "Defense Secretary Pete Hegseth",
           "category": "Power and Authority",
           "date": "2026-05-03",
@@ -90,10 +89,10 @@
           "source_names": [
             "guardian"
           ],
-          "summary_line": "The removals raised concerns that military leadership was being reshaped for loyalty, weakening an institution that can check unlawful executive demands.",
+          "summary_line": "The purge concentrated control over military leadership and weakened an institutional check on unlawful or politicized executive demands.",
           "trait_links": [
-            7,
             9,
+            22,
             53
           ]
         },
@@ -123,7 +122,7 @@
           "source_names": [
             "noah"
           ],
-          "summary_line": "The proposed shift would expand executive influence over a fast-growing sector with major effects on information, markets, and state capacity.",
+          "summary_line": "The proposed shift would expand executive influence over a major technology sector and reshape how state power reaches private innovation.",
           "trait_links": []
         },
         {
@@ -151,37 +150,165 @@
           "source_names": [
             "hcr"
           ],
-          "summary_line": "The statement signaled a broader use of coercive federal power in immigration enforcement, with direct effects on bodily security and due process.",
-          "trait_links": [
-            9,
-            47
-          ]
+          "summary_line": "The statement signaled a planned escalation in coercive immigration enforcement, increasing executive pressure on noncitizens and local communities.",
+          "trait_links": []
         },
         {
-          "action": "accused Eric Holder of treasonous conduct on social media",
-          "actor": "President Trump",
+          "action": "searched the office of Virginia state Senate President Pro Tempore L. Louise Lucas",
+          "actor": "The FBI",
           "category": "Power and Authority",
-          "date": "2026-05-02",
-          "event_date": "2026-05-02",
+          "date": "2026-05-06",
+          "event_date": "2026-05-06",
           "event_id": "wk68_PA_006",
           "provenance": {
             "dates": [
-              "2026-05-02"
+              "2026-05-06"
             ],
             "sources": [
               "zeteo"
             ]
           },
           "source_event_ids": [
-            "wk068-0011"
+            "wk068-0084"
           ],
           "source_names": [
             "zeteo"
           ],
-          "summary_line": "The accusation cast a political opponent as disloyal to the nation, normalizing the use of executive rhetoric to stigmatize dissent.",
+          "summary_line": "The search brought federal coercive power into a state political dispute and raised concerns about intimidation around redistricting and representation.",
           "trait_links": [
-            8,
-            49
+            4
+          ]
+        },
+        {
+          "action": "announced that Operation Epic Fury had ended and shifted to Project Freedom without congressional approval",
+          "actor": "Secretary of State Marco Rubio",
+          "category": "Power and Authority",
+          "date": "2026-05-06",
+          "event_date": "2026-05-06",
+          "event_id": "wk68_PA_007",
+          "provenance": {
+            "dates": [
+              "2026-05-06"
+            ],
+            "sources": [
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk068-0106"
+          ],
+          "source_names": [
+            "hcr"
+          ],
+          "summary_line": "The move suggested continued military action under a new label, testing war-powers limits and congressional control over armed conflict.",
+          "trait_links": [
+            1
+          ]
+        },
+        {
+          "action": "paused Project Freedom after Iranian strikes in the Strait of Hormuz",
+          "actor": "Donald Trump",
+          "category": "Power and Authority",
+          "date": "2026-05-06",
+          "event_date": "2026-05-06",
+          "event_id": "wk68_PA_008",
+          "provenance": {
+            "dates": [
+              "2026-05-06"
+            ],
+            "sources": [
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk068-0107"
+          ],
+          "source_names": [
+            "hcr"
+          ],
+          "summary_line": "The pause showed unilateral presidential control over a live military operation with little visible legislative check.",
+          "trait_links": [
+            1
+          ]
+        },
+        {
+          "action": "struck Iranian targets in the Strait of Hormuz area",
+          "actor": "The U.S. military",
+          "category": "Power and Authority",
+          "date": "2026-05-06",
+          "event_date": "2026-05-06",
+          "event_id": "wk68_PA_009",
+          "provenance": {
+            "dates": [
+              "2026-05-06"
+            ],
+            "sources": [
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk068-0109"
+          ],
+          "source_names": [
+            "meidas"
+          ],
+          "summary_line": "The strikes expanded direct use of force abroad and heightened concerns about executive war-making without effective oversight.",
+          "trait_links": [
+            1
+          ]
+        },
+        {
+          "action": "closed the San Francisco immigration court and shifted most operations to Concord",
+          "actor": "The Department of Justice",
+          "category": "Power and Authority",
+          "date": "2026-05-06",
+          "event_date": "2026-05-06",
+          "event_id": "wk68_PA_010",
+          "provenance": {
+            "dates": [
+              "2026-05-06"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk068-0076"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "The closure used executive control over court infrastructure to reduce adjudicative capacity in a major immigration venue.",
+          "trait_links": [
+            14,
+            22,
+            53
+          ]
+        },
+        {
+          "action": "sought Supreme Court intervention to take over Donald Trump's defense in the E. Jean Carroll case",
+          "actor": "The Department of Justice",
+          "category": "Power and Authority",
+          "date": "2026-05-07",
+          "event_date": "2026-05-07",
+          "event_id": "wk68_PA_011",
+          "provenance": {
+            "dates": [
+              "2026-05-07"
+            ],
+            "sources": [
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk068-0118"
+          ],
+          "source_names": [
+            "hcr"
+          ],
+          "summary_line": "The move would use federal legal power to shield a president from personal accountability, blurring public office and private liability.",
+          "trait_links": [
+            4
           ]
         },
         {
@@ -190,7 +317,7 @@
           "category": "Power and Authority",
           "date": "2026-05-07",
           "event_date": "2026-05-07",
-          "event_id": "wk68_PA_007",
+          "event_id": "wk68_PA_012",
           "provenance": {
             "dates": [
               "2026-05-07"
@@ -205,10 +332,9 @@
           "source_names": [
             "meidas"
           ],
-          "summary_line": "The classification widened the security frame around domestic dissent and identity, increasing the risk of state power being turned on protected groups.",
+          "summary_line": "The classification widened the state's security frame to cover political and identity groups, increasing the risk of coercive targeting.",
           "trait_links": [
             8,
-            47,
             49
           ]
         },
@@ -218,7 +344,7 @@
           "category": "Power and Authority",
           "date": "2026-05-07",
           "event_date": "2026-05-07",
-          "event_id": "wk68_PA_008",
+          "event_id": "wk68_PA_013",
           "provenance": {
             "dates": [
               "2026-05-07"
@@ -233,18 +359,42 @@
           "source_names": [
             "meidas"
           ],
-          "summary_line": "The closure used security power to restrict public access to civic space for a presidentially linked personal visit.",
+          "summary_line": "The closure used security powers to restrict public access for a leader-centered purpose, showing how state force can serve personal convenience.",
+          "trait_links": []
+        },
+        {
+          "action": "called for congressional redistricting despite a federal court injunction",
+          "actor": "Alabama Governor Kay Ivey",
+          "category": "Power and Authority",
+          "date": "2026-05-08",
+          "event_date": "2026-05-08",
+          "event_id": "wk68_PA_014",
+          "provenance": {
+            "dates": [
+              "2026-05-08"
+            ],
+            "sources": [
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk068-0161"
+          ],
+          "source_names": [
+            "hcr"
+          ],
+          "summary_line": "The call challenged judicial limits and pressed executive power into an election dispute over representation and court authority.",
           "trait_links": [
-            9
+            4
           ]
         },
         {
-          "action": "declared that the war with Iran had terminated while exchanges continued",
+          "action": "claimed that the war with Iran had terminated",
           "actor": "The Trump administration",
           "category": "Power and Authority",
           "date": "2026-05-08",
           "event_date": "2026-05-08",
-          "event_id": "wk68_PA_009",
+          "event_id": "wk68_PA_015",
           "provenance": {
             "dates": [
               "2026-05-08"
@@ -259,10 +409,10 @@
           "source_names": [
             "hcr"
           ],
-          "summary_line": "The declaration appeared to redefine an active conflict to avoid legal checks, expanding executive room to act without congressional approval.",
+          "summary_line": "The declaration appeared to redefine an ongoing conflict in order to reduce congressional leverage under war-powers law.",
           "trait_links": [
             1,
-            21
+            4
           ]
         }
       ],
@@ -291,10 +441,8 @@
           "source_names": [
             "guardian"
           ],
-          "summary_line": "The filing showed the executive using court process to advance a contested presidential project despite prior judicial intervention.",
-          "trait_links": [
-            24
-          ]
+          "summary_line": "The filing pressed the courts to clear a contested presidential project, testing how legal process can be used to advance executive priorities.",
+          "trait_links": []
         },
         {
           "action": "blocked access to mifepristone by mail",
@@ -317,11 +465,11 @@
           "source_names": [
             "outloud"
           ],
-          "summary_line": "The ruling narrowed access to a lawful medication and showed courts reshaping rights and agency authority through emergency reproductive health litigation.",
+          "summary_line": "The ruling narrowed access to an FDA-approved drug and shifted power from health regulators to the courts.",
           "trait_links": []
         },
         {
-          "action": "issued a ruling that weakened Voting Rights Act protections against race-based map challenges",
+          "action": "issued a ruling that weakened Voting Rights Act protections against race-based districting",
           "actor": "The Supreme Court",
           "category": "Institutions and Governance",
           "date": "2026-05-02",
@@ -354,14 +502,13 @@
             "guardian",
             "hcr"
           ],
-          "summary_line": "The decision reduced a key legal check on discriminatory redistricting and opened room for states to redraw maps that dilute minority voting power.",
+          "summary_line": "The decision reduced a key legal barrier to map changes that can dilute minority representation and destabilize election rules.",
           "trait_links": [
-            4,
             45
           ]
         },
         {
-          "action": "dismissed the Justice Department's lawsuit seeking Arizona voter roll information",
+          "action": "dismissed the Justice Department's lawsuit seeking Arizona voter-roll data",
           "actor": "A federal judge",
           "category": "Institutions and Governance",
           "date": "2026-05-03",
@@ -381,7 +528,7 @@
           "source_names": [
             "guardian"
           ],
-          "summary_line": "The ruling limited federal access to sensitive voter data and reinforced state control over election records and privacy rules.",
+          "summary_line": "The ruling checked federal demands for sensitive election records and reinforced limits on executive reach into state election systems.",
           "trait_links": [
             11
           ]
@@ -411,11 +558,11 @@
             "50501",
             "guardian"
           ],
-          "summary_line": "The stay preserved existing access to an FDA-approved drug while the justices reviewed emergency appeals, showing courts still acting as a partial check.",
+          "summary_line": "The stay preserved the status quo for medication access and showed the Court acting as a short-term check on lower-court disruption.",
           "trait_links": []
         },
         {
-          "action": "ordered Interior Department defendants to compile and produce communications about Hains Point and golf course plans",
+          "action": "ordered Interior Department defendants to compile and produce communications about Hains Point and golf-course plans",
           "actor": "Judge Reyes",
           "category": "Institutions and Governance",
           "date": "2026-05-04",
@@ -435,12 +582,12 @@
           "source_names": [
             "justsecurity"
           ],
-          "summary_line": "The order forced disclosure in active litigation and strengthened judicial oversight of executive decision-making and records handling.",
+          "summary_line": "The order strengthened judicial oversight of executive decision-making by forcing preservation and disclosure of internal records.",
           "trait_links": []
         },
         {
-          "action": "filed suit challenging President Trump's revocation of fishing protections in a marine monument",
-          "actor": "Conservation groups",
+          "action": "filed suit challenging Trump's revocation of fishing protections in a marine monument",
+          "actor": "The Conservation Law Foundation and allied plaintiffs",
           "category": "Institutions and Governance",
           "date": "2026-05-04",
           "event_date": "2026-05-04",
@@ -459,12 +606,12 @@
           "source_names": [
             "justsecurity"
           ],
-          "summary_line": "The case tested whether the president had exceeded statutory authority, putting separation-of-powers questions before the courts.",
+          "summary_line": "The complaint asked the courts to review whether the president exceeded statutory authority, reinforcing separation-of-powers checks.",
           "trait_links": []
         },
         {
-          "action": "sued the Department of Homeland Security over an administrative summons to Google for Gmail records",
-          "actor": "A pseudonymous social media user",
+          "action": "filed suit against DHS over an administrative summons to Google for Gmail records",
+          "actor": "A pseudonymous plaintiff",
           "category": "Institutions and Governance",
           "date": "2026-05-04",
           "event_date": "2026-05-04",
@@ -483,8 +630,10 @@
           "source_names": [
             "justsecurity"
           ],
-          "summary_line": "The suit challenged agency use of administrative process to obtain private communications data, raising limits on executive investigative power.",
-          "trait_links": []
+          "summary_line": "The case challenged agency use of subpoena power and asked the courts to police legal limits on executive information demands.",
+          "trait_links": [
+            46
+          ]
         },
         {
           "action": "dismissed Media Matters for America v. Federal Trade Commission after a joint stipulation",
@@ -507,19 +656,45 @@
           "source_names": [
             "justsecurity"
           ],
-          "summary_line": "The dismissal ended one active challenge involving federal pressure on a media watchdog, changing the oversight path for that dispute.",
+          "summary_line": "The dismissal ended an active challenge involving federal investigative power and media oversight.",
           "trait_links": []
         },
         {
-          "action": "proposed a $1 billion immigration and White House security package that included funding for Trump's ballroom project",
-          "actor": "Senate Republicans",
+          "action": "opened a special session to consider mid-decade congressional redistricting",
+          "actor": "The Tennessee legislature",
           "category": "Institutions and Governance",
-          "date": "2026-05-05",
+          "date": "2026-05-06",
+          "event_date": "2026-05-06",
           "event_id": "wk68_IG_010",
           "provenance": {
             "dates": [
-              "2026-05-05",
               "2026-05-06"
+            ],
+            "sources": [
+              "50501"
+            ]
+          },
+          "source_event_ids": [
+            "wk068-0068"
+          ],
+          "source_names": [
+            "50501"
+          ],
+          "summary_line": "The session used legislative procedure to reopen settled maps after a court ruling, putting minority representation at risk.",
+          "trait_links": [
+            45
+          ]
+        },
+        {
+          "action": "testified before the House Oversight Committee about his past ties to Jeffrey Epstein",
+          "actor": "Commerce Secretary Howard Lutnick",
+          "category": "Institutions and Governance",
+          "date": "2026-05-06",
+          "event_id": "wk68_IG_011",
+          "provenance": {
+            "dates": [
+              "2026-05-06",
+              "2026-05-07"
             ],
             "sources": [
               "guardian",
@@ -527,67 +702,138 @@
             ]
           },
           "source_event_ids": [
-            "wk068-0044",
-            "wk068-0074"
+            "wk068-0069",
+            "wk068-0110"
           ],
           "source_names": [
             "guardian",
             "hcr"
           ],
-          "summary_line": "The proposal tied immigration spending to a presidential construction project, raising questions about legislative priorities and use of public funds.",
-          "trait_links": [
-            24,
-            38
-          ]
-        },
-        {
-          "action": "proposed legislation requiring federal agencies to explore nationalization of AI companies",
-          "actor": "Senators",
-          "category": "Institutions and Governance",
-          "date": "2026-05-05",
-          "event_date": "2026-05-05",
-          "event_id": "wk68_IG_011",
-          "provenance": {
-            "dates": [
-              "2026-05-05"
-            ],
-            "sources": [
-              "noah"
-            ]
-          },
-          "source_event_ids": [
-            "wk068-0045"
-          ],
-          "source_names": [
-            "noah"
-          ],
-          "summary_line": "The bill would push agencies to examine direct state control over a major industry, expanding the policy reach of federal institutions.",
+          "summary_line": "The hearing tested Congress's capacity to investigate senior officials and demand truthful answers about conflicts and conduct.",
           "trait_links": []
         },
         {
-          "action": "filed a motion to quash a federal subpoena seeking poll worker contact information",
-          "actor": "Fulton County",
+          "action": "scheduled a special session at the Old Capitol to redraw supreme court districts",
+          "actor": "The Mississippi House",
           "category": "Institutions and Governance",
-          "date": "2026-05-05",
-          "event_date": "2026-05-05",
+          "date": "2026-05-06",
+          "event_date": "2026-05-06",
           "event_id": "wk68_IG_012",
           "provenance": {
             "dates": [
-              "2026-05-05"
+              "2026-05-06"
             ],
             "sources": [
               "guardian"
             ]
           },
           "source_event_ids": [
-            "wk068-0047"
+            "wk068-0070"
           ],
           "source_names": [
             "guardian"
           ],
-          "summary_line": "The filing asked courts to block a federal demand that local officials said could intimidate election workers and disrupt state election administration.",
+          "summary_line": "The move reopened judicial district lines in a way critics said could dilute Black voting strength and politicize court representation.",
+          "trait_links": []
+        },
+        {
+          "action": "reported a sharp drop in Affordable Care Act coverage after rule changes",
+          "actor": "HHS Secretary Robert F. Kennedy Jr.",
+          "category": "Institutions and Governance",
+          "date": "2026-05-06",
+          "event_date": "2026-05-06",
+          "event_id": "wk68_IG_013",
+          "provenance": {
+            "dates": [
+              "2026-05-06"
+            ],
+            "sources": [
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk068-0071"
+          ],
+          "source_names": [
+            "hcr"
+          ],
+          "summary_line": "The report showed administrative changes reshaping access to a major public program through executive control of enrollment rules.",
+          "trait_links": []
+        },
+        {
+          "action": "advanced a budget reconciliation package with major cuts to health and nutrition support",
+          "actor": "Senate Republicans",
+          "category": "Institutions and Governance",
+          "date": "2026-05-06",
+          "event_date": "2026-05-06",
+          "event_id": "wk68_IG_014",
+          "provenance": {
+            "dates": [
+              "2026-05-06"
+            ],
+            "sources": [
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk068-0072"
+          ],
+          "source_names": [
+            "hcr"
+          ],
+          "summary_line": "The proposal used fast-track legislative procedure to reduce public benefits with limited minority-party leverage or deliberation.",
+          "trait_links": []
+        },
+        {
+          "action": "proposed $72 billion in reconciliation funding for ICE and Border Patrol through 2029",
+          "actor": "Senate Republicans",
+          "category": "Institutions and Governance",
+          "date": "2026-05-06",
+          "event_date": "2026-05-06",
+          "event_id": "wk68_IG_015",
+          "provenance": {
+            "dates": [
+              "2026-05-06"
+            ],
+            "sources": [
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk068-0073"
+          ],
+          "source_names": [
+            "hcr"
+          ],
+          "summary_line": "The plan would lock in long-term enforcement capacity through budget procedure, reducing future oversight leverage over immigration agencies.",
           "trait_links": [
-            11
+            25
+          ]
+        },
+        {
+          "action": "proposed $1 billion in taxpayer funding for White House security tied to Trump's ballroom project",
+          "actor": "Senate Republicans",
+          "category": "Institutions and Governance",
+          "date": "2026-05-06",
+          "event_date": "2026-05-06",
+          "event_id": "wk68_IG_016",
+          "provenance": {
+            "dates": [
+              "2026-05-06"
+            ],
+            "sources": [
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk068-0074"
+          ],
+          "source_names": [
+            "hcr"
+          ],
+          "summary_line": "The proposal used congressional budgeting to support a leader-centered project, raising questions about public purpose and accountability.",
+          "trait_links": [
+            38
           ]
         },
         {
@@ -596,7 +842,7 @@
           "category": "Institutions and Governance",
           "date": "2026-05-05",
           "event_date": "2026-05-05",
-          "event_id": "wk68_IG_013",
+          "event_id": "wk68_IG_017",
           "provenance": {
             "dates": [
               "2026-05-05"
@@ -611,18 +857,18 @@
           "source_names": [
             "justsecurity"
           ],
-          "summary_line": "The case challenged alleged discriminatory and political firing practices inside a court system that depends on adjudicative independence.",
+          "summary_line": "The suit challenged alleged ideological and discriminatory staffing decisions that can erode adjudicative independence.",
           "trait_links": [
-            22
+            14
           ]
         },
         {
-          "action": "partly rejected the administration's position on mandatory detention for noncitizens arrested in the interior",
+          "action": "partly affirmed and partly reversed orders in Castanon Nava v. Department of Homeland Security",
           "actor": "The Seventh Circuit",
           "category": "Institutions and Governance",
           "date": "2026-05-05",
           "event_date": "2026-05-05",
-          "event_id": "wk68_IG_014",
+          "event_id": "wk68_IG_018",
           "provenance": {
             "dates": [
               "2026-05-05"
@@ -637,43 +883,16 @@
           "source_names": [
             "justsecurity"
           ],
-          "summary_line": "The ruling preserved some bond-hearing protections and checked a broad executive reading of immigration detention authority.",
+          "summary_line": "The ruling maintained some judicial limits on immigration detention while narrowing relief for part of the affected class.",
           "trait_links": []
         },
         {
-          "action": "closed the San Francisco immigration court and shifted operations to Concord",
-          "actor": "The Department of Justice",
-          "category": "Institutions and Governance",
-          "date": "2026-05-06",
-          "event_date": "2026-05-06",
-          "event_id": "wk68_IG_015",
-          "provenance": {
-            "dates": [
-              "2026-05-06"
-            ],
-            "sources": [
-              "guardian"
-            ]
-          },
-          "source_event_ids": [
-            "wk068-0076"
-          ],
-          "source_names": [
-            "guardian"
-          ],
-          "summary_line": "The closure threatened access to timely hearings by shrinking adjudicative capacity in a system already strained by judge removals.",
-          "trait_links": [
-            4,
-            22
-          ]
-        },
-        {
-          "action": "sued the Department of Justice over a memorandum suspending prison protections for transgender people",
+          "action": "sued the Department of Justice over suspended PREA protections",
           "actor": "A transgender woman in federal custody",
           "category": "Institutions and Governance",
           "date": "2026-05-06",
           "event_date": "2026-05-06",
-          "event_id": "wk68_IG_016",
+          "event_id": "wk68_IG_019",
           "provenance": {
             "dates": [
               "2026-05-06"
@@ -688,16 +907,16 @@
           "source_names": [
             "justsecurity"
           ],
-          "summary_line": "The suit challenged a policy change that affected safety rules in custody and tested whether the department had bypassed lawful rulemaking.",
+          "summary_line": "The complaint asked the courts to review whether the executive changed prison protections without lawful rulemaking.",
           "trait_links": []
         },
         {
-          "action": "denied school districts' request to stay ICE guidance on enforcement near protected locations",
+          "action": "denied a stay request against DHS guidance on ICE operations near schools",
           "actor": "Judge Provinzino",
           "category": "Institutions and Governance",
           "date": "2026-05-06",
           "event_date": "2026-05-06",
-          "event_id": "wk68_IG_017",
+          "event_id": "wk68_IG_020",
           "provenance": {
             "dates": [
               "2026-05-06"
@@ -712,16 +931,16 @@
           "source_names": [
             "justsecurity"
           ],
-          "summary_line": "The ruling left federal enforcement guidance in place and showed how standing rules can limit institutional challenges to executive policy.",
+          "summary_line": "The ruling left the guidance in place and showed how standing rules can limit judicial review of contested enforcement policy.",
           "trait_links": []
         },
         {
-          "action": "granted a stay of proceedings in Herzberg v. United States",
+          "action": "stayed proceedings in Herzberg v. United States until July 13",
           "actor": "Judge Russo",
           "category": "Institutions and Governance",
           "date": "2026-05-06",
           "event_date": "2026-05-06",
-          "event_id": "wk68_IG_018",
+          "event_id": "wk68_IG_021",
           "provenance": {
             "dates": [
               "2026-05-06"
@@ -736,240 +955,15 @@
           "source_names": [
             "justsecurity"
           ],
-          "summary_line": "The stay delayed judicial review in an active challenge, affecting the pace of accountability through the courts.",
+          "summary_line": "The stay delayed judicial resolution of an active challenge to federal action.",
           "trait_links": []
         },
         {
-          "action": "struck down the voter-approved congressional redistricting referendum and new maps",
-          "actor": "The Virginia Supreme Court",
-          "category": "Institutions and Governance",
-          "date": "2026-05-07",
-          "event_id": "wk68_IG_019",
-          "provenance": {
-            "dates": [
-              "2026-05-07",
-              "2026-05-08"
-            ],
-            "sources": [
-              "meidas",
-              "guardian",
-              "zeteo"
-            ]
-          },
-          "source_event_ids": [
-            "wk068-0127",
-            "wk068-0168",
-            "wk068-0169",
-            "wk068-0176"
-          ],
-          "source_names": [
-            "meidas",
-            "guardian",
-            "zeteo"
-          ],
-          "summary_line": "The ruling nullified a referendum on procedural grounds and reshaped the map rules that could affect control of House seats.",
-          "trait_links": []
-        },
-        {
-          "action": "filed a petition to stay the Virginia Supreme Court's redistricting ruling",
-          "actor": "The Virginia attorney general",
-          "category": "Institutions and Governance",
-          "date": "2026-05-07",
-          "event_date": "2026-05-07",
-          "event_id": "wk68_IG_020",
-          "provenance": {
-            "dates": [
-              "2026-05-07"
-            ],
-            "sources": [
-              "meidas"
-            ]
-          },
-          "source_event_ids": [
-            "wk068-0126"
-          ],
-          "source_names": [
-            "meidas"
-          ],
-          "summary_line": "The petition sought to preserve a contested map while appeals continued, extending judicial conflict over representation rules.",
-          "trait_links": []
-        },
-        {
-          "action": "sought Supreme Court intervention in E. Jean Carroll's defamation case against Donald Trump",
-          "actor": "The Department of Justice",
-          "category": "Institutions and Governance",
-          "date": "2026-05-07",
-          "event_date": "2026-05-07",
-          "event_id": "wk68_IG_021",
-          "provenance": {
-            "dates": [
-              "2026-05-07"
-            ],
-            "sources": [
-              "hcr"
-            ]
-          },
-          "source_event_ids": [
-            "wk068-0118"
-          ],
-          "source_names": [
-            "hcr"
-          ],
-          "summary_line": "The move raised concerns that federal legal machinery was being used to shield a president from personal accountability.",
-          "trait_links": [
-            4
-          ]
-        },
-        {
-          "action": "granted a joint stipulation and dismissed State of Illinois v. Noem",
-          "actor": "The First Circuit",
-          "category": "Institutions and Governance",
-          "date": "2026-05-07",
-          "event_date": "2026-05-07",
-          "event_id": "wk68_IG_022",
-          "provenance": {
-            "dates": [
-              "2026-05-07"
-            ],
-            "sources": [
-              "justsecurity"
-            ]
-          },
-          "source_event_ids": [
-            "wk068-0119"
-          ],
-          "source_names": [
-            "justsecurity"
-          ],
-          "summary_line": "The dismissal ended one appellate challenge to executive action and changed the available path for judicial review.",
-          "trait_links": []
-        },
-        {
-          "action": "partly enjoined the FTC's investigative demands to the Endocrine Society as likely retaliatory",
-          "actor": "Judge Boasberg",
-          "category": "Institutions and Governance",
-          "date": "2026-05-07",
-          "event_date": "2026-05-07",
-          "event_id": "wk68_IG_023",
-          "provenance": {
-            "dates": [
-              "2026-05-07"
-            ],
-            "sources": [
-              "justsecurity"
-            ]
-          },
-          "source_event_ids": [
-            "wk068-0120"
-          ],
-          "source_names": [
-            "justsecurity"
-          ],
-          "summary_line": "The ruling treated agency investigation as possible retaliation for protected advocacy, reinforcing judicial checks on abusive oversight powers.",
-          "trait_links": []
-        },
-        {
-          "action": "enforced a preliminary injunction against ICE's narrowed standard for warrantless civil immigration arrests in Washington",
-          "actor": "Judge Howell",
-          "category": "Institutions and Governance",
-          "date": "2026-05-07",
-          "event_date": "2026-05-07",
-          "event_id": "wk68_IG_024",
-          "provenance": {
-            "dates": [
-              "2026-05-07"
-            ],
-            "sources": [
-              "justsecurity"
-            ]
-          },
-          "source_event_ids": [
-            "wk068-0121"
-          ],
-          "source_names": [
-            "justsecurity"
-          ],
-          "summary_line": "The order blocked reliance on a memo that expanded arrest discretion, preserving court-imposed limits on executive enforcement tactics.",
-          "trait_links": []
-        },
-        {
-          "action": "partly enjoined the FTC's investigative demands to WPATH as likely retaliatory",
-          "actor": "Judge Boasberg",
-          "category": "Institutions and Governance",
-          "date": "2026-05-07",
-          "event_date": "2026-05-07",
-          "event_id": "wk68_IG_025",
-          "provenance": {
-            "dates": [
-              "2026-05-07"
-            ],
-            "sources": [
-              "justsecurity"
-            ]
-          },
-          "source_event_ids": [
-            "wk068-0122"
-          ],
-          "source_names": [
-            "justsecurity"
-          ],
-          "summary_line": "The ruling found likely retaliation against protected advocacy, showing courts still checking agency pressure on disfavored viewpoints.",
-          "trait_links": []
-        },
-        {
-          "action": "ruled Proclamation 11012 unlawful and barred collection of the Section 122 surcharge from importer plaintiffs",
-          "actor": "The Court of International Trade",
-          "category": "Institutions and Governance",
-          "date": "2026-05-07",
-          "event_date": "2026-05-07",
-          "event_id": "wk68_IG_026",
-          "provenance": {
-            "dates": [
-              "2026-05-07"
-            ],
-            "sources": [
-              "justsecurity"
-            ]
-          },
-          "source_event_ids": [
-            "wk068-0123"
-          ],
-          "source_names": [
-            "justsecurity"
-          ],
-          "summary_line": "The decision limited presidential trade authority by holding that the statute did not support the surcharge the administration had imposed.",
-          "trait_links": []
-        },
-        {
-          "action": "filed a response disputing the Justice Department's claims in the White House ballroom case",
-          "actor": "The National Trust for Historic Preservation",
-          "category": "Institutions and Governance",
-          "date": "2026-05-07",
-          "event_date": "2026-05-07",
-          "event_id": "wk68_IG_027",
-          "provenance": {
-            "dates": [
-              "2026-05-07"
-            ],
-            "sources": [
-              "meidas"
-            ]
-          },
-          "source_event_ids": [
-            "wk068-0125"
-          ],
-          "source_names": [
-            "meidas"
-          ],
-          "summary_line": "The filing contested the government's account of a disputed federal project and kept judicial scrutiny on executive transparency and compliance.",
-          "trait_links": []
-        },
-        {
-          "action": "filed an emergency lawsuit to block Tennessee's new congressional map",
+          "action": "filed an emergency challenge to Tennessee's new congressional map",
           "actor": "The NAACP Tennessee State Conference",
           "category": "Institutions and Governance",
           "date": "2026-05-07",
-          "event_id": "wk68_IG_028",
+          "event_id": "wk68_IG_022",
           "provenance": {
             "dates": [
               "2026-05-07",
@@ -992,9 +986,8 @@
             "hcr",
             "zeteo"
           ],
-          "summary_line": "The suit asked courts to stop a mid-decade map change that opponents said diluted Black voting power and broke state law.",
+          "summary_line": "The suit sought judicial review of a rushed redistricting process that critics said diluted Black voting power.",
           "trait_links": [
-            6,
             45
           ]
         },
@@ -1004,7 +997,7 @@
           "category": "Institutions and Governance",
           "date": "2026-05-07",
           "event_date": "2026-05-07",
-          "event_id": "wk68_IG_029",
+          "event_id": "wk68_IG_023",
           "provenance": {
             "dates": [
               "2026-05-07"
@@ -1019,7 +1012,7 @@
           "source_names": [
             "guardian"
           ],
-          "summary_line": "The order expanded public access to court records in a matter with high public interest and long-running accountability questions.",
+          "summary_line": "The order expanded public access to court records in a matter with broad accountability implications.",
           "trait_links": []
         },
         {
@@ -1028,7 +1021,7 @@
           "category": "Institutions and Governance",
           "date": "2026-05-07",
           "event_date": "2026-05-07",
-          "event_id": "wk68_IG_030",
+          "event_id": "wk68_IG_024",
           "provenance": {
             "dates": [
               "2026-05-07"
@@ -1043,16 +1036,16 @@
           "source_names": [
             "guardian"
           ],
-          "summary_line": "The verdict underscored the difficulty of securing accountability through civil courts in police use-of-force cases.",
+          "summary_line": "The verdict underscored the difficulty of securing accountability through civil litigation after police use of force.",
           "trait_links": []
         },
         {
-          "action": "filed a lawsuit against The Atlantic",
+          "action": "sued The Atlantic",
           "actor": "Kash Patel",
           "category": "Institutions and Governance",
           "date": "2026-05-07",
           "event_date": "2026-05-07",
-          "event_id": "wk68_IG_031",
+          "event_id": "wk68_IG_025",
           "provenance": {
             "dates": [
               "2026-05-07"
@@ -1067,7 +1060,7 @@
           "source_names": [
             "guardian"
           ],
-          "summary_line": "The suit added legal pressure on a news outlet and showed how public officials can use civil process against critical reporting.",
+          "summary_line": "The lawsuit added legal pressure on a news outlet and showed how senior officials can use courts against critical reporting.",
           "trait_links": [
             42
           ]
@@ -1078,7 +1071,7 @@
           "category": "Institutions and Governance",
           "date": "2026-05-07",
           "event_date": "2026-05-07",
-          "event_id": "wk68_IG_032",
+          "event_id": "wk68_IG_026",
           "provenance": {
             "dates": [
               "2026-05-07"
@@ -1093,79 +1086,209 @@
           "source_names": [
             "guardian"
           ],
-          "summary_line": "The plea kept a politically charged prosecution of a civil rights group moving through the courts, with implications for advocacy organizations.",
+          "summary_line": "The plea kept alive a prosecution that critics said could burden a major civil-rights organization through criminal process.",
+          "trait_links": [
+            4
+          ]
+        },
+        {
+          "action": "dismissed State of Illinois v. Noem after a joint stipulation",
+          "actor": "The First Circuit",
+          "category": "Institutions and Governance",
+          "date": "2026-05-07",
+          "event_date": "2026-05-07",
+          "event_id": "wk68_IG_027",
+          "provenance": {
+            "dates": [
+              "2026-05-07"
+            ],
+            "sources": [
+              "justsecurity"
+            ]
+          },
+          "source_event_ids": [
+            "wk068-0119"
+          ],
+          "source_names": [
+            "justsecurity"
+          ],
+          "summary_line": "The dismissal ended an appellate challenge involving federal executive action.",
           "trait_links": []
         },
         {
-          "action": "appealed the denial of a preliminary injunction",
-          "actor": "Plaintiffs in N. v. U.S. Department of Health and Human Services",
+          "action": "partly enjoined the FTC's investigative demands to the Endocrine Society and WPATH as likely retaliatory",
+          "actor": "Judge Boasberg",
           "category": "Institutions and Governance",
-          "date": "2026-05-08",
-          "event_date": "2026-05-08",
+          "date": "2026-05-07",
+          "event_date": "2026-05-07",
+          "event_id": "wk68_IG_028",
+          "provenance": {
+            "dates": [
+              "2026-05-07"
+            ],
+            "sources": [
+              "justsecurity"
+            ]
+          },
+          "source_event_ids": [
+            "wk068-0120",
+            "wk068-0122"
+          ],
+          "source_names": [
+            "justsecurity"
+          ],
+          "summary_line": "The rulings checked agency use of investigative power against advocacy groups and reinforced First Amendment limits on retaliation.",
+          "trait_links": []
+        },
+        {
+          "action": "enforced a preliminary injunction against ICE's narrowed standard for warrantless civil arrests in Washington",
+          "actor": "Judge Howell",
+          "category": "Institutions and Governance",
+          "date": "2026-05-07",
+          "event_date": "2026-05-07",
+          "event_id": "wk68_IG_029",
+          "provenance": {
+            "dates": [
+              "2026-05-07"
+            ],
+            "sources": [
+              "justsecurity"
+            ]
+          },
+          "source_event_ids": [
+            "wk068-0121"
+          ],
+          "source_names": [
+            "justsecurity"
+          ],
+          "summary_line": "The order reaffirmed judicial control over how immigration officers apply arrest authority in the capital.",
+          "trait_links": []
+        },
+        {
+          "action": "ruled Proclamation 11012 invalid and barred collection of the Section 122 surcharge from importer plaintiffs",
+          "actor": "The Court of International Trade",
+          "category": "Institutions and Governance",
+          "date": "2026-05-07",
+          "event_date": "2026-05-07",
+          "event_id": "wk68_IG_030",
+          "provenance": {
+            "dates": [
+              "2026-05-07"
+            ],
+            "sources": [
+              "justsecurity"
+            ]
+          },
+          "source_event_ids": [
+            "wk068-0123"
+          ],
+          "source_names": [
+            "justsecurity"
+          ],
+          "summary_line": "The decision limited presidential trade authority by holding that the executive had acted outside the statute.",
+          "trait_links": []
+        },
+        {
+          "action": "opened a criminal investigation into Elon Musk and X",
+          "actor": "French prosecutors",
+          "category": "Institutions and Governance",
+          "date": "2026-05-07",
+          "event_date": "2026-05-07",
+          "event_id": "wk68_IG_031",
+          "provenance": {
+            "dates": [
+              "2026-05-07"
+            ],
+            "sources": [
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk068-0124"
+          ],
+          "source_names": [
+            "meidas"
+          ],
+          "summary_line": "The investigation added legal scrutiny to a major platform owner whose decisions affect public discourse and political communication.",
+          "trait_links": []
+        },
+        {
+          "action": "filed a response disputing the Justice Department's claims in the White House ballroom case",
+          "actor": "The National Trust for Historic Preservation",
+          "category": "Institutions and Governance",
+          "date": "2026-05-07",
+          "event_date": "2026-05-07",
+          "event_id": "wk68_IG_032",
+          "provenance": {
+            "dates": [
+              "2026-05-07"
+            ],
+            "sources": [
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk068-0125"
+          ],
+          "source_names": [
+            "meidas"
+          ],
+          "summary_line": "The filing contested executive representations to the court and kept judicial scrutiny on a disputed federal construction project.",
+          "trait_links": []
+        },
+        {
+          "action": "struck down the voter-approved congressional redistricting referendum",
+          "actor": "The Virginia Supreme Court",
+          "category": "Institutions and Governance",
+          "date": "2026-05-07",
           "event_id": "wk68_IG_033",
           "provenance": {
             "dates": [
+              "2026-05-07",
               "2026-05-08"
             ],
             "sources": [
-              "justsecurity"
+              "meidas",
+              "guardian",
+              "zeteo"
             ]
           },
           "source_event_ids": [
-            "wk068-0172"
+            "wk068-0127",
+            "wk068-0168",
+            "wk068-0169",
+            "wk068-0176"
           ],
           "source_names": [
-            "justsecurity"
+            "meidas",
+            "guardian",
+            "zeteo"
           ],
-          "summary_line": "The appeal kept judicial review alive in an active challenge to federal policy and preserved a path for appellate oversight.",
+          "summary_line": "The ruling voided a map change on procedural grounds and reshaped the institutional rules governing representation in Virginia.",
           "trait_links": []
         },
         {
-          "action": "appealed the Court of International Trade ruling against its Section 122 surcharge",
-          "actor": "The Trump administration",
+          "action": "petitioned the Virginia Supreme Court to stay its redistricting ruling pending appeal",
+          "actor": "Virginia Attorney General Jay Jones",
           "category": "Institutions and Governance",
-          "date": "2026-05-08",
-          "event_date": "2026-05-08",
+          "date": "2026-05-07",
+          "event_date": "2026-05-07",
           "event_id": "wk68_IG_034",
           "provenance": {
             "dates": [
-              "2026-05-08"
+              "2026-05-07"
             ],
             "sources": [
-              "justsecurity"
+              "meidas"
             ]
           },
           "source_event_ids": [
-            "wk068-0173"
+            "wk068-0126"
           ],
           "source_names": [
-            "justsecurity"
+            "meidas"
           ],
-          "summary_line": "The appeal sought to restore a contested use of presidential trade power after a court found the surcharge unlawful.",
-          "trait_links": []
-        },
-        {
-          "action": "denied the government's motion to dismiss NAACP v. U.S.A.",
-          "actor": "Judge Rubin",
-          "category": "Institutions and Governance",
-          "date": "2026-05-08",
-          "event_date": "2026-05-08",
-          "event_id": "wk68_IG_035",
-          "provenance": {
-            "dates": [
-              "2026-05-08"
-            ],
-            "sources": [
-              "justsecurity"
-            ]
-          },
-          "source_event_ids": [
-            "wk068-0174"
-          ],
-          "source_names": [
-            "justsecurity"
-          ],
-          "summary_line": "The ruling allowed claims over school-based mental health grant cuts to proceed, preserving judicial review of executive action.",
+          "summary_line": "The petition sought to preserve a contested map and showed continued institutional conflict over election procedure.",
           "trait_links": []
         },
         {
@@ -1174,7 +1297,7 @@
           "category": "Institutions and Governance",
           "date": "2026-05-08",
           "event_date": "2026-05-08",
-          "event_id": "wk68_IG_036",
+          "event_id": "wk68_IG_035",
           "provenance": {
             "dates": [
               "2026-05-08"
@@ -1189,16 +1312,16 @@
           "source_names": [
             "guardian"
           ],
-          "summary_line": "The ruling favored public visibility into a major criminal proceeding while balancing concerns about a fair trial.",
+          "summary_line": "The ruling favored public access to judicial proceedings while balancing fair-trial concerns.",
           "trait_links": []
         },
         {
-          "action": "won a lawsuit forcing release of immigration arrest records",
+          "action": "won release of immigration arrest records from the Trump administration",
           "actor": "The Guardian and the Reporters Committee for Freedom of the Press",
           "category": "Institutions and Governance",
           "date": "2026-05-08",
           "event_date": "2026-05-08",
-          "event_id": "wk68_IG_037",
+          "event_id": "wk68_IG_036",
           "provenance": {
             "dates": [
               "2026-05-08"
@@ -1213,11 +1336,83 @@
           "source_names": [
             "guardian"
           ],
-          "summary_line": "The case used courts to compel disclosure of enforcement data, strengthening transparency around family impacts of immigration arrests.",
+          "summary_line": "The case used the courts to force disclosure of enforcement records, strengthening transparency around family-impacting arrests.",
           "trait_links": [
             21,
-            46
+            47
           ]
+        },
+        {
+          "action": "appealed the denial of a preliminary injunction",
+          "actor": "Plaintiffs in N. v. U.S. Department of Health and Human Services",
+          "category": "Institutions and Governance",
+          "date": "2026-05-08",
+          "event_date": "2026-05-08",
+          "event_id": "wk68_IG_037",
+          "provenance": {
+            "dates": [
+              "2026-05-08"
+            ],
+            "sources": [
+              "justsecurity"
+            ]
+          },
+          "source_event_ids": [
+            "wk068-0172"
+          ],
+          "source_names": [
+            "justsecurity"
+          ],
+          "summary_line": "The appeal kept judicial review alive in a challenge to federal health-related action.",
+          "trait_links": []
+        },
+        {
+          "action": "appealed the Court of International Trade ruling against Proclamation 11012",
+          "actor": "The Trump administration",
+          "category": "Institutions and Governance",
+          "date": "2026-05-08",
+          "event_date": "2026-05-08",
+          "event_id": "wk68_IG_038",
+          "provenance": {
+            "dates": [
+              "2026-05-08"
+            ],
+            "sources": [
+              "justsecurity"
+            ]
+          },
+          "source_event_ids": [
+            "wk068-0173"
+          ],
+          "source_names": [
+            "justsecurity"
+          ],
+          "summary_line": "The appeal prolonged a separation-of-powers dispute over the scope of presidential trade authority.",
+          "trait_links": []
+        },
+        {
+          "action": "denied the government's motion to dismiss NAACP v. U.S.A.",
+          "actor": "Judge Rubin",
+          "category": "Institutions and Governance",
+          "date": "2026-05-08",
+          "event_date": "2026-05-08",
+          "event_id": "wk68_IG_039",
+          "provenance": {
+            "dates": [
+              "2026-05-08"
+            ],
+            "sources": [
+              "justsecurity"
+            ]
+          },
+          "source_event_ids": [
+            "wk068-0174"
+          ],
+          "source_names": [
+            "justsecurity"
+          ],
+          "summary_line": "The ruling allowed a challenge to federal education grant cuts to proceed, preserving judicial review of executive action.",
+          "trait_links": []
         }
       ],
       "name": "Institutions and Governance"
@@ -1225,7 +1420,7 @@
     {
       "events": [
         {
-          "action": "introduced SB 815 to allow public carrying of loaded guns without a permit through a constitutional amendment",
+          "action": "introduced SB 815 to allow public carrying of loaded guns without a permit",
           "actor": "The North Carolina General Assembly",
           "category": "Economic Structure",
           "date": "2026-05-02",
@@ -1245,11 +1440,11 @@
           "source_names": [
             "outloud"
           ],
-          "summary_line": "The proposal would change the state's regulatory framework for public safety and shift how lawmakers balance individual liberty and collective risk.",
+          "summary_line": "The proposal would change the regulatory balance around public safety and state control of weapons in shared civic space.",
           "trait_links": []
         },
         {
-          "action": "proposed a one-time 5 percent tax on billionaires' net worth",
+          "action": "proposed a one-time tax on billionaires' net worth",
           "actor": "California lawmakers",
           "category": "Economic Structure",
           "date": "2026-05-02",
@@ -1269,12 +1464,12 @@
           "source_names": [
             "noah"
           ],
-          "summary_line": "The proposal would use concentrated private wealth to fund public programs, making fiscal capacity and redistribution a live democratic choice.",
+          "summary_line": "The proposal aimed to shift wealth into public programs, making tax policy a direct tool for funding social goods.",
           "trait_links": []
         },
         {
-          "action": "passed an ordinance protecting polyamorous people and multipartner households from discrimination",
-          "actor": "The city of Portland",
+          "action": "passed an ordinance protecting polyamorous households from discrimination",
+          "actor": "Portland",
           "category": "Economic Structure",
           "date": "2026-05-03",
           "event_date": "2026-05-03",
@@ -1293,7 +1488,7 @@
           "source_names": [
             "guardian"
           ],
-          "summary_line": "The ordinance expanded equal access to housing, work, and public accommodations through local civil rights law.",
+          "summary_line": "The ordinance expanded equal access to housing, work, and public accommodations through local civil-rights regulation.",
           "trait_links": []
         },
         {
@@ -1317,7 +1512,7 @@
           "source_names": [
             "congress"
           ],
-          "summary_line": "The law expanded a path to homeownership on tribal trust lands, affecting wealth building and economic self-determination in Native communities.",
+          "summary_line": "The law expanded pathways to homeownership on tribal trust lands, affecting wealth-building and economic self-determination.",
           "trait_links": []
         },
         {
@@ -1341,7 +1536,7 @@
           "source_names": [
             "federalregister"
           ],
-          "summary_line": "The application moved through a public regulatory process that governs access to tightly controlled drugs and related markets.",
+          "summary_line": "The application entered a federal licensing process that governs access to tightly regulated pharmaceutical markets.",
           "trait_links": []
         },
         {
@@ -1365,7 +1560,7 @@
           "source_names": [
             "federalregister"
           ],
-          "summary_line": "The rule clarified federal drug control authority and affected how production, research, and enforcement would be managed.",
+          "summary_line": "The rule clarified federal drug control and expanded the precision of enforcement and quota-setting authority.",
           "trait_links": []
         },
         {
@@ -1389,11 +1584,11 @@
           "source_names": [
             "guardian"
           ],
-          "summary_line": "The approval committed local governance to a resource-intensive project despite broad public opposition, testing how public goods are allocated.",
+          "summary_line": "The approval advanced a resource-intensive private project despite broad public opposition, highlighting tensions in local control over land and water.",
           "trait_links": []
         },
         {
-          "action": "continued failing to pay third-party providers for detainee medical care",
+          "action": "failed to resume payments for detainee medical care provided by outside vendors",
           "actor": "ICE",
           "category": "Economic Structure",
           "date": "2026-05-04",
@@ -1414,14 +1609,14 @@
           "source_names": [
             "popinfo"
           ],
-          "summary_line": "The payment failure showed how administrative and contracting choices can deny basic care to people held by the state.",
+          "summary_line": "The payment failure shifted detention costs onto providers and endangered basic care for people held by the state.",
           "trait_links": [
-            25
+            12
           ]
         },
         {
-          "action": "opened public comment on revisions to World Trade Center Health Program data collection",
-          "actor": "The CDC",
+          "action": "proposed a $1 billion immigration enforcement package that included White House ballroom security funding",
+          "actor": "Senate Republicans",
           "category": "Economic Structure",
           "date": "2026-05-05",
           "event_date": "2026-05-05",
@@ -1431,21 +1626,23 @@
               "2026-05-05"
             ],
             "sources": [
-              "federalregister"
+              "guardian"
             ]
           },
           "source_event_ids": [
-            "wk068-0057"
+            "wk068-0044"
           ],
           "source_names": [
-            "federalregister"
+            "guardian"
           ],
-          "summary_line": "The notice kept a public health benefits program within a formal participation and oversight process.",
-          "trait_links": []
+          "summary_line": "The package tied immigration spending to a presidential construction priority, blending enforcement budgets with leader-centered capital spending.",
+          "trait_links": [
+            38
+          ]
         },
         {
-          "action": "submitted a revised information collection request for childhood lead poisoning prevention",
-          "actor": "The CDC",
+          "action": "proposed legislation to explore nationalization of AI companies",
+          "actor": "Several senators",
           "category": "Economic Structure",
           "date": "2026-05-05",
           "event_date": "2026-05-05",
@@ -1455,20 +1652,20 @@
               "2026-05-05"
             ],
             "sources": [
-              "federalregister"
+              "noah"
             ]
           },
           "source_event_ids": [
-            "wk068-0058"
+            "wk068-0045"
           ],
           "source_names": [
-            "federalregister"
+            "noah"
           ],
-          "summary_line": "The request affected how federal and state officials gather evidence to guide public health policy and resource use.",
+          "summary_line": "The proposal would expand federal leverage over a concentrated industry with growing economic and political power.",
           "trait_links": []
         },
         {
-          "action": "submitted an information collection request on tobacco ingredients",
+          "action": "opened comment on revisions to World Trade Center Health Program data collection",
           "actor": "The CDC",
           "category": "Economic Structure",
           "date": "2026-05-05",
@@ -1483,17 +1680,17 @@
             ]
           },
           "source_event_ids": [
-            "wk068-0059"
+            "wk068-0057"
           ],
           "source_names": [
             "federalregister"
           ],
-          "summary_line": "The request supported federal oversight of cigarette contents and the evidence base for tobacco regulation.",
+          "summary_line": "The notice affected how a federal health-benefit program gathers information and manages access for responders and survivors.",
           "trait_links": []
         },
         {
-          "action": "extended the postponement of parts of the trichloroethylene rule during judicial review",
-          "actor": "The EPA",
+          "action": "submitted a revised lead profile assessment information request to OMB",
+          "actor": "The CDC",
           "category": "Economic Structure",
           "date": "2026-05-05",
           "event_date": "2026-05-05",
@@ -1507,17 +1704,17 @@
             ]
           },
           "source_event_ids": [
-            "wk068-0060"
+            "wk068-0058"
           ],
           "source_names": [
             "federalregister"
           ],
-          "summary_line": "The delay kept weaker protections in place while litigation continued, affecting how quickly health and environmental safeguards take effect.",
+          "summary_line": "The request shaped how federal and local officials collect data used to direct childhood lead-poisoning prevention resources.",
           "trait_links": []
         },
         {
-          "action": "finalized a risk evaluation finding 1,2-dichloroethane posed unreasonable risk to workers",
-          "actor": "The EPA",
+          "action": "submitted an information collection request on tobacco ingredients",
+          "actor": "The CDC",
           "category": "Economic Structure",
           "date": "2026-05-05",
           "event_date": "2026-05-05",
@@ -1531,16 +1728,16 @@
             ]
           },
           "source_event_ids": [
-            "wk068-0061"
+            "wk068-0059"
           ],
           "source_names": [
             "federalregister"
           ],
-          "summary_line": "The finding triggered the next stage of federal risk management and showed regulatory institutions still shaping workplace safety.",
+          "summary_line": "The request supported federal oversight of cigarette composition and the data base for tobacco regulation.",
           "trait_links": []
         },
         {
-          "action": "proposed an information collection for state revolving fund water programs",
+          "action": "extended the postponement of parts of the trichloroethylene rule during judicial review",
           "actor": "The EPA",
           "category": "Economic Structure",
           "date": "2026-05-05",
@@ -1555,21 +1752,69 @@
             ]
           },
           "source_event_ids": [
+            "wk068-0060"
+          ],
+          "source_names": [
+            "federalregister"
+          ],
+          "summary_line": "The delay slowed enforcement of chemical safeguards and showed how litigation can suspend public-health regulation.",
+          "trait_links": []
+        },
+        {
+          "action": "finalized a risk evaluation finding 1,2-dichloroethane posed unreasonable risk to workers",
+          "actor": "The EPA",
+          "category": "Economic Structure",
+          "date": "2026-05-05",
+          "event_date": "2026-05-05",
+          "event_id": "wk68_ES_015",
+          "provenance": {
+            "dates": [
+              "2026-05-05"
+            ],
+            "sources": [
+              "federalregister"
+            ]
+          },
+          "source_event_ids": [
+            "wk068-0061"
+          ],
+          "source_names": [
+            "federalregister"
+          ],
+          "summary_line": "The finding set up future risk-management rules and strengthened the regulatory basis for worker protection.",
+          "trait_links": []
+        },
+        {
+          "action": "proposed an information collection for state revolving fund water programs",
+          "actor": "The EPA",
+          "category": "Economic Structure",
+          "date": "2026-05-05",
+          "event_date": "2026-05-05",
+          "event_id": "wk68_ES_016",
+          "provenance": {
+            "dates": [
+              "2026-05-05"
+            ],
+            "sources": [
+              "federalregister"
+            ]
+          },
+          "source_event_ids": [
             "wk068-0062"
           ],
           "source_names": [
             "federalregister"
           ],
-          "summary_line": "The proposal affected how states document and manage federal support for drinking water and wastewater infrastructure.",
+          "summary_line": "The proposal affected how states document and manage federal water infrastructure funding.",
           "trait_links": []
         },
         {
-          "action": "sought comments on an information collection tied to licensing forms",
+          "action": "sought comments on an information collection tied to radio-service licensing",
           "actor": "The FCC",
           "category": "Economic Structure",
           "date": "2026-05-05",
           "event_date": "2026-05-05",
-          "event_id": "wk68_ES_015",
+          "event_id": "wk68_ES_017",
           "provenance": {
             "dates": [
               "2026-05-05"
@@ -1584,16 +1829,16 @@
           "source_names": [
             "federalregister"
           ],
-          "summary_line": "The notice concerned how communications regulation gathers data from license holders and small businesses.",
+          "summary_line": "The notice affected the administrative burden and access rules for communications licensing.",
           "trait_links": []
         },
         {
-          "action": "publicly discussed nationalization of AI companies",
+          "action": "publicly discussed possible nationalization of AI companies",
           "actor": "AI industry leaders",
           "category": "Economic Structure",
           "date": "2026-05-05",
           "event_date": "2026-05-05",
-          "event_id": "wk68_ES_016",
+          "event_id": "wk68_ES_018",
           "provenance": {
             "dates": [
               "2026-05-05"
@@ -1608,7 +1853,7 @@
           "source_names": [
             "noah"
           ],
-          "summary_line": "The discussion reflected growing concern over concentrated private power in a sector with broad economic and civic effects.",
+          "summary_line": "The discussion reflected concern over concentrated private power in a sector with growing public consequences.",
           "trait_links": []
         },
         {
@@ -1617,7 +1862,7 @@
           "category": "Economic Structure",
           "date": "2026-05-05",
           "event_date": "2026-05-05",
-          "event_id": "wk68_ES_017",
+          "event_id": "wk68_ES_019",
           "provenance": {
             "dates": [
               "2026-05-05"
@@ -1632,16 +1877,16 @@
           "source_names": [
             "noah"
           ],
-          "summary_line": "The contract change signaled a shift in governance and control within a major technology partnership with public-interest implications.",
+          "summary_line": "The contract change signaled a shift in governance and control within a major technology partnership.",
           "trait_links": []
         },
         {
-          "action": "invited public comment on tobacco communication message-testing data collection",
+          "action": "opened comment on extending tobacco communication message-testing data collection",
           "actor": "The CDC",
           "category": "Economic Structure",
           "date": "2026-05-05",
           "event_date": "2026-05-05",
-          "event_id": "wk68_ES_018",
+          "event_id": "wk68_ES_020",
           "provenance": {
             "dates": [
               "2026-05-05"
@@ -1656,114 +1901,16 @@
           "source_names": [
             "federalregister"
           ],
-          "summary_line": "The notice kept federal health messaging within a formal public review process that shapes how agencies communicate risk.",
+          "summary_line": "The notice supported federal public-health messaging and the evidence base for tobacco education campaigns.",
           "trait_links": []
         },
         {
-          "action": "reported a sharp drop in Affordable Care Act coverage tied to enrollment rule changes",
-          "actor": "Health and Human Services Secretary Robert F. Kennedy Jr.",
-          "category": "Economic Structure",
-          "date": "2026-05-06",
-          "event_date": "2026-05-06",
-          "event_id": "wk68_ES_019",
-          "provenance": {
-            "dates": [
-              "2026-05-06"
-            ],
-            "sources": [
-              "hcr"
-            ]
-          },
-          "source_event_ids": [
-            "wk068-0071"
-          ],
-          "source_names": [
-            "hcr"
-          ],
-          "summary_line": "The decline showed how administrative choices can narrow access to health insurance and weaken a major public benefit system.",
-          "trait_links": []
-        },
-        {
-          "action": "advanced a budget reconciliation bill with major healthcare and SNAP cuts",
-          "actor": "Senate Republicans",
-          "category": "Economic Structure",
-          "date": "2026-05-06",
-          "event_date": "2026-05-06",
-          "event_id": "wk68_ES_020",
-          "provenance": {
-            "dates": [
-              "2026-05-06"
-            ],
-            "sources": [
-              "hcr"
-            ]
-          },
-          "source_event_ids": [
-            "wk068-0072"
-          ],
-          "source_names": [
-            "hcr"
-          ],
-          "summary_line": "The bill would reduce support for health coverage and food aid, shifting economic risk onto lower-income households.",
-          "trait_links": []
-        },
-        {
-          "action": "proposed $72 billion in funding for ICE and Border Patrol through 2029",
-          "actor": "Senate Republicans",
-          "category": "Economic Structure",
-          "date": "2026-05-06",
-          "event_date": "2026-05-06",
-          "event_id": "wk68_ES_021",
-          "provenance": {
-            "dates": [
-              "2026-05-06"
-            ],
-            "sources": [
-              "hcr"
-            ]
-          },
-          "source_event_ids": [
-            "wk068-0073"
-          ],
-          "source_names": [
-            "hcr"
-          ],
-          "summary_line": "The long-term funding plan would lock in enforcement capacity through budget law, limiting future leverage for reform or oversight.",
-          "trait_links": [
-            9
-          ]
-        },
-        {
-          "action": "announced that 4.3 million people had been removed from SNAP",
-          "actor": "Agriculture Secretary Brooke Rollins",
-          "category": "Economic Structure",
-          "date": "2026-05-06",
-          "event_date": "2026-05-06",
-          "event_id": "wk68_ES_022",
-          "provenance": {
-            "dates": [
-              "2026-05-06"
-            ],
-            "sources": [
-              "hcr"
-            ]
-          },
-          "source_event_ids": [
-            "wk068-0075"
-          ],
-          "source_names": [
-            "hcr"
-          ],
-          "summary_line": "The drop reflected policy choices that can reduce food support and alter who can access basic public assistance.",
-          "trait_links": []
-        },
-        {
-          "action": "sought OMB approval for a 2026 address test for accessory dwelling units",
+          "action": "sought OMB approval for a 2030 Census address test focused on accessory dwelling units",
           "actor": "The Census Bureau",
           "category": "Economic Structure",
           "date": "2026-05-06",
           "event_date": "2026-05-06",
-          "event_id": "wk68_ES_023",
+          "event_id": "wk68_ES_021",
           "provenance": {
             "dates": [
               "2026-05-06"
@@ -1778,7 +1925,7 @@
           "source_names": [
             "federalregister"
           ],
-          "summary_line": "The test aimed to improve census accuracy, which affects representation and the distribution of public resources.",
+          "summary_line": "The test aimed to improve the address base used for future representation and funding counts.",
           "trait_links": []
         },
         {
@@ -1787,7 +1934,7 @@
           "category": "Economic Structure",
           "date": "2026-05-06",
           "event_date": "2026-05-06",
-          "event_id": "wk68_ES_024",
+          "event_id": "wk68_ES_022",
           "provenance": {
             "dates": [
               "2026-05-06"
@@ -1802,7 +1949,7 @@
           "source_names": [
             "federalregister"
           ],
-          "summary_line": "The application placed a novel environmental intervention into a public regulatory process with local and national stakes.",
+          "summary_line": "The application put a novel environmental intervention into federal review, testing public oversight of experimental releases.",
           "trait_links": []
         },
         {
@@ -1811,7 +1958,7 @@
           "category": "Economic Structure",
           "date": "2026-05-06",
           "event_date": "2026-05-06",
-          "event_id": "wk68_ES_025",
+          "event_id": "wk68_ES_023",
           "provenance": {
             "dates": [
               "2026-05-06"
@@ -1828,16 +1975,16 @@
           "source_names": [
             "federalregister"
           ],
-          "summary_line": "The classifications reduced some regulatory barriers while setting safety rules, shaping how new health technologies reach the market.",
+          "summary_line": "The classifications lowered some market barriers while setting federal safety conditions for new medical products.",
           "trait_links": []
         },
         {
-          "action": "determined that dexamethasone elixir had not been withdrawn for safety or effectiveness reasons",
+          "action": "determined that Dexamethasone Elixir had not been withdrawn for safety or effectiveness reasons",
           "actor": "The FDA",
           "category": "Economic Structure",
           "date": "2026-05-06",
           "event_date": "2026-05-06",
-          "event_id": "wk68_ES_026",
+          "event_id": "wk68_ES_024",
           "provenance": {
             "dates": [
               "2026-05-06"
@@ -1852,16 +1999,16 @@
           "source_names": [
             "federalregister"
           ],
-          "summary_line": "The determination allowed continued generic approvals and affected drug competition and availability.",
+          "summary_line": "The determination kept the path open for generic approvals and affected competition in the drug market.",
           "trait_links": []
         },
         {
-          "action": "issued a priority review voucher for a rare pediatric disease treatment",
+          "action": "issued a priority review voucher to Regeneron for a rare pediatric disease treatment",
           "actor": "The FDA",
           "category": "Economic Structure",
           "date": "2026-05-06",
           "event_date": "2026-05-06",
-          "event_id": "wk68_ES_027",
+          "event_id": "wk68_ES_025",
           "provenance": {
             "dates": [
               "2026-05-06"
@@ -1876,16 +2023,16 @@
           "source_names": [
             "federalregister"
           ],
-          "summary_line": "The voucher used market incentives to steer private development toward treatments for rare conditions.",
+          "summary_line": "The voucher used market incentives to steer private investment toward rare-disease drug development.",
           "trait_links": []
         },
         {
-          "action": "announced a new information collection on DEI discrimination by federal contractors",
+          "action": "announced a new contractor information collection on DEI discrimination compliance",
           "actor": "The Office of Federal Procurement Policy, the Defense Department, GSA, and NASA",
           "category": "Economic Structure",
           "date": "2026-05-06",
           "event_date": "2026-05-06",
-          "event_id": "wk68_ES_028",
+          "event_id": "wk68_ES_026",
           "provenance": {
             "dates": [
               "2026-05-06"
@@ -1900,16 +2047,16 @@
           "source_names": [
             "federalregister"
           ],
-          "summary_line": "The requirement expanded federal procurement oversight into contractor compliance and reporting on workplace policy.",
+          "summary_line": "The requirement expanded federal leverage over contractors by tying procurement participation to new reporting duties.",
           "trait_links": []
         },
         {
-          "action": "revised pipeline operator information collection by removing mandatory cybersecurity vulnerability assessments",
+          "action": "revised pipeline-operator information collection by removing mandatory cybersecurity vulnerability assessments",
           "actor": "The TSA",
           "category": "Economic Structure",
           "date": "2026-05-06",
           "event_date": "2026-05-06",
-          "event_id": "wk68_ES_029",
+          "event_id": "wk68_ES_027",
           "provenance": {
             "dates": [
               "2026-05-06"
@@ -1924,16 +2071,16 @@
           "source_names": [
             "federalregister"
           ],
-          "summary_line": "The revision reduced reporting burdens but also changed how the federal government monitors security risks in critical infrastructure.",
+          "summary_line": "The revision reduced reporting burdens but also narrowed one channel of federal oversight over critical infrastructure security.",
           "trait_links": []
         },
         {
-          "action": "withdrew their water diversion application and said they would file a new one",
+          "action": "withdrew their water-diversion application and said they would refile",
           "actor": "The Stratos datacenter developers",
           "category": "Economic Structure",
           "date": "2026-05-06",
           "event_date": "2026-05-06",
-          "event_id": "wk68_ES_030",
+          "event_id": "wk68_ES_028",
           "provenance": {
             "dates": [
               "2026-05-06"
@@ -1948,16 +2095,16 @@
           "source_names": [
             "guardian"
           ],
-          "summary_line": "The move reset the objection process and affected how residents could contest a project with major public resource demands.",
+          "summary_line": "The move reset the objection process and showed how developers can use procedure to outlast local opposition.",
           "trait_links": []
         },
         {
-          "action": "investigated suspicious oil trades made before major Iran war announcements",
+          "action": "investigated suspicious oil trades made before major Iran-war announcements",
           "actor": "The Department of Justice",
           "category": "Economic Structure",
           "date": "2026-05-06",
           "event_date": "2026-05-06",
-          "event_id": "wk68_ES_031",
+          "event_id": "wk68_ES_029",
           "provenance": {
             "dates": [
               "2026-05-06"
@@ -1972,16 +2119,16 @@
           "source_names": [
             "meidas"
           ],
-          "summary_line": "The probe addressed whether political or military information had been used for private market gain, a core accountability issue in crisis governance.",
+          "summary_line": "The probe addressed whether political or military information was used for private market gain.",
           "trait_links": []
         },
         {
-          "action": "rose sharply amid the Iran conflict",
-          "actor": "Gasoline prices in the United States",
+          "action": "pushed gas prices to a new high during the Iran conflict",
+          "actor": "U.S. fuel markets",
           "category": "Economic Structure",
           "date": "2026-05-06",
           "event_date": "2026-05-06",
-          "event_id": "wk68_ES_032",
+          "event_id": "wk68_ES_030",
           "provenance": {
             "dates": [
               "2026-05-06"
@@ -1996,7 +2143,7 @@
           "source_names": [
             "meidas"
           ],
-          "summary_line": "The price spike showed how foreign policy and conflict can quickly shift household costs and economic pressure at home.",
+          "summary_line": "The price spike showed how foreign policy shocks can quickly burden households and reshape economic conditions at home.",
           "trait_links": []
         },
         {
@@ -2005,7 +2152,7 @@
           "category": "Economic Structure",
           "date": "2026-05-07",
           "event_date": "2026-05-07",
-          "event_id": "wk68_ES_033",
+          "event_id": "wk68_ES_031",
           "provenance": {
             "dates": [
               "2026-05-07"
@@ -2020,16 +2167,16 @@
           "source_names": [
             "federalregister"
           ],
-          "summary_line": "The delegation shifted enforcement power to a local agency, changing who administers environmental rules and accountability.",
+          "summary_line": "The delegation shifted enforcement power from the federal government to a local agency, changing who controls environmental compliance.",
           "trait_links": []
         },
         {
-          "action": "finalized a no-discharge determination for vessel sewage in Virginia's Northern Neck waters",
+          "action": "cleared Virginia to designate Northern Neck waters as a vessel sewage no-discharge zone",
           "actor": "The EPA",
           "category": "Economic Structure",
           "date": "2026-05-07",
           "event_date": "2026-05-07",
-          "event_id": "wk68_ES_034",
+          "event_id": "wk68_ES_032",
           "provenance": {
             "dates": [
               "2026-05-07"
@@ -2044,16 +2191,16 @@
           "source_names": [
             "federalregister"
           ],
-          "summary_line": "The action enabled stronger local water protections through federal environmental review and state implementation.",
+          "summary_line": "The determination enabled stronger local water protections through federal environmental review.",
           "trait_links": []
         },
         {
-          "action": "put revised pole attachment rules into effect to speed broadband deployment",
+          "action": "put revised pole-attachment rules into effect to speed broadband deployment",
           "actor": "The FCC",
           "category": "Economic Structure",
           "date": "2026-05-07",
           "event_date": "2026-05-07",
-          "event_id": "wk68_ES_035",
+          "event_id": "wk68_ES_033",
           "provenance": {
             "dates": [
               "2026-05-07"
@@ -2068,7 +2215,7 @@
           "source_names": [
             "federalregister"
           ],
-          "summary_line": "The rules changed infrastructure access and could affect digital inclusion, local investment, and utility bargaining power.",
+          "summary_line": "The rules changed infrastructure bargaining and could expand digital access by reducing deployment delays.",
           "trait_links": []
         },
         {
@@ -2077,7 +2224,7 @@
           "category": "Economic Structure",
           "date": "2026-05-07",
           "event_date": "2026-05-07",
-          "event_id": "wk68_ES_036",
+          "event_id": "wk68_ES_034",
           "provenance": {
             "dates": [
               "2026-05-07"
@@ -2092,7 +2239,7 @@
           "source_names": [
             "federalregister"
           ],
-          "summary_line": "The determination preserved a path for generic competition and affected drug pricing and supply.",
+          "summary_line": "The decision preserved a route for generic competition in a prescription drug market.",
           "trait_links": []
         },
         {
@@ -2101,7 +2248,7 @@
           "category": "Economic Structure",
           "date": "2026-05-07",
           "event_date": "2026-05-07",
-          "event_id": "wk68_ES_037",
+          "event_id": "wk68_ES_035",
           "provenance": {
             "dates": [
               "2026-05-07"
@@ -2116,7 +2263,7 @@
           "source_names": [
             "federalregister"
           ],
-          "summary_line": "The guidance shaped how firms navigate device review, affecting regulatory clarity and market entry.",
+          "summary_line": "The guidance shaped how firms design and submit specialized medical devices for federal review.",
           "trait_links": []
         },
         {
@@ -2125,7 +2272,7 @@
           "category": "Economic Structure",
           "date": "2026-05-07",
           "event_date": "2026-05-07",
-          "event_id": "wk68_ES_038",
+          "event_id": "wk68_ES_036",
           "provenance": {
             "dates": [
               "2026-05-07"
@@ -2140,16 +2287,16 @@
           "source_names": [
             "federalregister"
           ],
-          "summary_line": "The withdrawals changed the generic drug landscape and could affect availability of some products.",
+          "summary_line": "The withdrawals changed the set of generic products available in the market and under federal approval.",
           "trait_links": []
         },
         {
-          "action": "authorized fruit-flavored vapes after reported pressure from Trump",
+          "action": "authorized fruit-flavored vapes after reported political pressure",
           "actor": "The FDA",
           "category": "Economic Structure",
           "date": "2026-05-07",
           "event_date": "2026-05-07",
-          "event_id": "wk68_ES_039",
+          "event_id": "wk68_ES_037",
           "provenance": {
             "dates": [
               "2026-05-07"
@@ -2164,10 +2311,9 @@
           "source_names": [
             "meidas"
           ],
-          "summary_line": "The decision raised concerns that political influence, rather than public health evidence alone, was shaping market access.",
+          "summary_line": "The authorization raised concerns that political influence, rather than public-health judgment alone, shaped market access.",
           "trait_links": [
-            16,
-            38
+            16
           ]
         },
         {
@@ -2176,7 +2322,7 @@
           "category": "Economic Structure",
           "date": "2026-05-07",
           "event_date": "2026-05-07",
-          "event_id": "wk68_ES_040",
+          "event_id": "wk68_ES_038",
           "provenance": {
             "dates": [
               "2026-05-07"
@@ -2191,17 +2337,17 @@
           "source_names": [
             "meidas"
           ],
-          "summary_line": "The messaging sought to soften public reaction to rising costs, affecting trust in official economic claims.",
+          "summary_line": "The messaging sought to shape public understanding of economic conditions while households faced rising fuel costs.",
           "trait_links": [
             39
           ]
         },
         {
-          "action": "filed an enforcement action against State Farm over wildfire claims handling",
+          "action": "filed a major enforcement action against State Farm over wildfire claims handling",
           "actor": "The California Department of Insurance",
           "category": "Economic Structure",
           "date": "2026-05-07",
-          "event_id": "wk68_ES_041",
+          "event_id": "wk68_ES_039",
           "provenance": {
             "dates": [
               "2026-05-07",
@@ -2218,16 +2364,16 @@
           "source_names": [
             "popinfo"
           ],
-          "summary_line": "The action used state regulatory power to protect policyholders and test corporate accountability after a disaster.",
+          "summary_line": "The action used state regulatory power to police insurer conduct in a market central to household security and disaster recovery.",
           "trait_links": []
         },
         {
-          "action": "was reported to have expanded aggressively in risky California markets before later dropping coverage",
+          "action": "expanded in risky California markets and later withdrew coverage from thousands of homes",
           "actor": "State Farm",
           "category": "Economic Structure",
           "date": "2026-05-07",
           "event_date": "2026-05-07",
-          "event_id": "wk68_ES_042",
+          "event_id": "wk68_ES_040",
           "provenance": {
             "dates": [
               "2026-05-07"
@@ -2242,7 +2388,7 @@
           "source_names": [
             "popinfo"
           ],
-          "summary_line": "The pattern showed how private insurers can shape access to a basic economic safeguard while shifting risk back onto the public.",
+          "summary_line": "The pattern showed how private insurers can shape access to a basic economic safeguard while shifting risk onto the public.",
           "trait_links": []
         },
         {
@@ -2251,7 +2397,7 @@
           "category": "Economic Structure",
           "date": "2026-05-08",
           "event_date": "2026-05-08",
-          "event_id": "wk68_ES_043",
+          "event_id": "wk68_ES_041",
           "provenance": {
             "dates": [
               "2026-05-08"
@@ -2266,7 +2412,7 @@
           "source_names": [
             "federalregister"
           ],
-          "summary_line": "The filing continued routine federal rule administration that affects compliance burdens for regulated entities.",
+          "summary_line": "The filing affected compliance burdens for regulated entities and the administrative reach of communications oversight.",
           "trait_links": []
         },
         {
@@ -2275,7 +2421,7 @@
           "category": "Economic Structure",
           "date": "2026-05-08",
           "event_date": "2026-05-08",
-          "event_id": "wk68_ES_044",
+          "event_id": "wk68_ES_042",
           "provenance": {
             "dates": [
               "2026-05-08"
@@ -2290,7 +2436,7 @@
           "source_names": [
             "federalregister"
           ],
-          "summary_line": "The classification set safety controls while easing a path to market for a sexual health product.",
+          "summary_line": "The classification set federal safety controls while easing a path to market for a sexual-health device.",
           "trait_links": []
         },
         {
@@ -2299,7 +2445,7 @@
           "category": "Economic Structure",
           "date": "2026-05-08",
           "event_date": "2026-05-08",
-          "event_id": "wk68_ES_045",
+          "event_id": "wk68_ES_043",
           "provenance": {
             "dates": [
               "2026-05-08"
@@ -2314,16 +2460,16 @@
           "source_names": [
             "federalregister"
           ],
-          "summary_line": "The determination preserved the possibility of generic approvals and affected drug market competition.",
+          "summary_line": "The determination preserved the possibility of generic approvals and affected drug-market competition.",
           "trait_links": []
         },
         {
-          "action": "extended OMB approval for information collection under the ethylene oxide standard",
+          "action": "extended OMB approval for ethylene oxide and HAZWOPER information collections",
           "actor": "OSHA",
           "category": "Economic Structure",
           "date": "2026-05-08",
           "event_date": "2026-05-08",
-          "event_id": "wk68_ES_046",
+          "event_id": "wk68_ES_044",
           "provenance": {
             "dates": [
               "2026-05-08"
@@ -2333,36 +2479,13 @@
             ]
           },
           "source_event_ids": [
-            "wk068-0185"
-          ],
-          "source_names": [
-            "federalregister"
-          ],
-          "summary_line": "The extension maintained a worker-safety reporting framework while adjusting compliance burdens on employers.",
-          "trait_links": []
-        },
-        {
-          "action": "extended OMB approval for information collection under the HAZWOPER standard",
-          "actor": "OSHA",
-          "category": "Economic Structure",
-          "date": "2026-05-08",
-          "event_date": "2026-05-08",
-          "event_id": "wk68_ES_047",
-          "provenance": {
-            "dates": [
-              "2026-05-08"
-            ],
-            "sources": [
-              "federalregister"
-            ]
-          },
-          "source_event_ids": [
+            "wk068-0185",
             "wk068-0186"
           ],
           "source_names": [
             "federalregister"
           ],
-          "summary_line": "The extension kept hazardous-waste safety reporting in place and affected how employers document compliance.",
+          "summary_line": "The extensions maintained federal reporting systems that support worker-safety enforcement in hazardous settings.",
           "trait_links": []
         },
         {
@@ -2371,7 +2494,7 @@
           "category": "Economic Structure",
           "date": "2026-05-08",
           "event_date": "2026-05-08",
-          "event_id": "wk68_ES_048",
+          "event_id": "wk68_ES_045",
           "provenance": {
             "dates": [
               "2026-05-08"
@@ -2386,16 +2509,16 @@
           "source_names": [
             "guardian"
           ],
-          "summary_line": "The settlement used state enforcement to curb corporate data extraction and protect consumer privacy in a key market.",
+          "summary_line": "The settlement used state enforcement to curb corporate monetization of personal data and protect consumer rights in digital markets.",
           "trait_links": []
         },
         {
-          "action": "released data showing toxic metal contamination at a public golf course used for White House demolition debris",
+          "action": "released data showing toxic contamination at a golf course used for White House demolition debris",
           "actor": "The National Park Service",
           "category": "Economic Structure",
           "date": "2026-05-08",
           "event_date": "2026-05-08",
-          "event_id": "wk68_ES_049",
+          "event_id": "wk68_ES_046",
           "provenance": {
             "dates": [
               "2026-05-08"
@@ -2410,16 +2533,16 @@
           "source_names": [
             "popinfo"
           ],
-          "summary_line": "The release exposed possible environmental law avoidance in a public space, linking executive projects to public health risk.",
+          "summary_line": "The disclosure raised questions about environmental compliance and the use of public land to absorb costs from a federal project.",
           "trait_links": []
         },
         {
-          "action": "was reported to have spilled about 32,000 gallons of jet fuel into a nearby creek",
+          "action": "spilled about 32,000 gallons of jet fuel into a nearby creek and delayed notice to Maryland regulators",
           "actor": "Joint Base Andrews",
           "category": "Economic Structure",
           "date": "2026-05-08",
           "event_date": "2026-05-08",
-          "event_id": "wk68_ES_050",
+          "event_id": "wk68_ES_047",
           "provenance": {
             "dates": [
               "2026-05-08"
@@ -2434,7 +2557,7 @@
           "source_names": [
             "popinfo"
           ],
-          "summary_line": "The spill showed how military operations can impose environmental costs on the public when oversight and reporting fail.",
+          "summary_line": "The spill and late reporting showed how state institutions can impose environmental costs while evading timely oversight.",
           "trait_links": []
         }
       ],
@@ -2443,12 +2566,12 @@
     {
       "events": [
         {
-          "action": "indicted former FBI Director James Comey over an Instagram post interpreted as a threat to President Trump",
+          "action": "indicted former FBI director James Comey over an Instagram post interpreted as a threat to Trump",
           "actor": "A North Carolina grand jury",
           "category": "Civil Rights and Dissent",
           "date": "2026-05-02",
           "event_date": "2026-05-02",
-          "event_id": "wk68_CD_001",
+          "event_id": "wk68_CRD_001",
           "provenance": {
             "dates": [
               "2026-05-02"
@@ -2463,18 +2586,18 @@
           "source_names": [
             "guardian"
           ],
-          "summary_line": "The indictment raised concerns that criminal law was being used in a politically charged way against a prominent critic.",
+          "summary_line": "The indictment raised concerns that criminal law was being used in a way that could chill political speech and dissent.",
           "trait_links": [
             4
           ]
         },
         {
-          "action": "re-arrested the El Gamal family after a judge had ordered their release",
+          "action": "re-arrested the El Gamal family shortly after a judge ordered their release",
           "actor": "ICE",
           "category": "Civil Rights and Dissent",
           "date": "2026-05-02",
           "event_date": "2026-05-02",
-          "event_id": "wk68_CD_002",
+          "event_id": "wk68_CRD_002",
           "provenance": {
             "dates": [
               "2026-05-02"
@@ -2489,43 +2612,16 @@
           "source_names": [
             "guardian"
           ],
-          "summary_line": "The re-arrest tested compliance with court authority and showed how immigration enforcement can override family security and due process.",
-          "trait_links": [
-            4,
-            47
-          ]
-        },
-        {
-          "action": "withdrew from the California governor's race after misconduct allegations",
-          "actor": "Eric Swalwell",
-          "category": "Civil Rights and Dissent",
-          "date": "2026-05-02",
-          "event_date": "2026-05-02",
-          "event_id": "wk68_CD_003",
-          "provenance": {
-            "dates": [
-              "2026-05-02"
-            ],
-            "sources": [
-              "guardian"
-            ]
-          },
-          "source_event_ids": [
-            "wk068-0007"
-          ],
-          "source_names": [
-            "guardian"
-          ],
-          "summary_line": "The exit changed voter choice in a major statewide race by removing a leading candidate from contention.",
+          "summary_line": "The re-arrest tested compliance with court orders and heightened fears that immigration enforcement could override basic due-process protections.",
           "trait_links": []
         },
         {
-          "action": "blocked proposed new detention warehouses from becoming operational",
-          "actor": "Communities opposing ICE detention expansion",
+          "action": "blocked proposed ICE detention warehouses from becoming operational",
+          "actor": "Community groups",
           "category": "Civil Rights and Dissent",
           "date": "2026-05-02",
           "event_date": "2026-05-02",
-          "event_id": "wk68_CD_004",
+          "event_id": "wk68_CRD_003",
           "provenance": {
             "dates": [
               "2026-05-02"
@@ -2540,7 +2636,7 @@
           "source_names": [
             "outloud"
           ],
-          "summary_line": "The resistance showed local civic action constraining expansion of detention capacity that would have increased state control over migrants.",
+          "summary_line": "The resistance showed local civic action constraining detention expansion and defending bodily security for migrants.",
           "trait_links": [
             25
           ]
@@ -2551,7 +2647,7 @@
           "category": "Civil Rights and Dissent",
           "date": "2026-05-02",
           "event_date": "2026-05-02",
-          "event_id": "wk68_CD_005",
+          "event_id": "wk68_CRD_004",
           "provenance": {
             "dates": [
               "2026-05-02"
@@ -2566,41 +2662,40 @@
           "source_names": [
             "outloud"
           ],
-          "summary_line": "The organizing used public participation to contest state measures affecting minority inclusion and immigrant rights.",
+          "summary_line": "The organizing effort used public participation to resist legislation seen as harmful to minority and immigrant rights.",
           "trait_links": []
         },
         {
-          "action": "charged Cole Tomas Allen with attempting to assassinate Donald Trump and other federal crimes",
-          "actor": "Federal authorities",
+          "action": "charged Cole Tomas Allen with attempting to assassinate Donald Trump",
+          "actor": "Federal prosecutors",
           "category": "Civil Rights and Dissent",
           "date": "2026-05-03",
-          "event_id": "wk68_CD_006",
+          "event_date": "2026-05-03",
+          "event_id": "wk68_CRD_005",
           "provenance": {
             "dates": [
-              "2026-05-03",
-              "2026-05-05"
+              "2026-05-03"
             ],
             "sources": [
               "guardian"
             ]
           },
           "source_event_ids": [
-            "wk068-0016",
-            "wk068-0052"
+            "wk068-0016"
           ],
           "source_names": [
             "guardian"
           ],
-          "summary_line": "The case addressed a direct violent threat to elected leadership and the continuity of democratic institutions.",
+          "summary_line": "The case addressed a direct act of political violence against public officials and the security of democratic institutions.",
           "trait_links": []
         },
         {
-          "action": "were reported to have killed two unarmed civilians during a Minnesota enforcement operation",
+          "action": "carried out a Minnesota enforcement operation that killed two unarmed civilians and drew mass protests",
           "actor": "Federal immigration officers",
           "category": "Civil Rights and Dissent",
           "date": "2026-05-03",
           "event_date": "2026-05-03",
-          "event_id": "wk68_CD_007",
+          "event_id": "wk68_CRD_006",
           "provenance": {
             "dates": [
               "2026-05-03"
@@ -2615,10 +2710,8 @@
           "source_names": [
             "guardian"
           ],
-          "summary_line": "The operation raised serious concerns about lethal force, community targeting, and the rights impact of federal immigration policing.",
-          "trait_links": [
-            47
-          ]
+          "summary_line": "The operation raised grave concerns about lethal force, community targeting, and the civil-rights costs of immigration policing.",
+          "trait_links": []
         },
         {
           "action": "arrested a visa overstay in Brooklyn and then arrested eight protesters outside a hospital",
@@ -2626,7 +2719,7 @@
           "category": "Civil Rights and Dissent",
           "date": "2026-05-04",
           "event_date": "2026-05-04",
-          "event_id": "wk68_CD_008",
+          "event_id": "wk68_CRD_007",
           "provenance": {
             "dates": [
               "2026-05-04"
@@ -2641,16 +2734,71 @@
           "source_names": [
             "guardian"
           ],
-          "summary_line": "The incident linked immigration enforcement to protest policing and raised questions about local compliance with sanctuary limits.",
+          "summary_line": "The incident linked immigration enforcement to protest policing and tested local sanctuary limits on cooperation with federal action.",
           "trait_links": []
         },
         {
-          "action": "defaced synagogues and homes in Queens with swastikas and antisemitic graffiti",
+          "action": "subpoenaed personal information for Fulton County election workers and volunteers",
+          "actor": "The Department of Justice",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-05-04",
+          "event_id": "wk68_CRD_008",
+          "provenance": {
+            "dates": [
+              "2026-05-04",
+              "2026-05-05"
+            ],
+            "sources": [
+              "zeteo",
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk068-0030",
+            "wk068-0047"
+          ],
+          "source_names": [
+            "zeteo",
+            "guardian"
+          ],
+          "summary_line": "The demand risked intimidating election workers and could deter future participation in election administration.",
+          "trait_links": [
+            46
+          ]
+        },
+        {
+          "action": "signed a new Florida congressional map into law",
+          "actor": "Governor Ron DeSantis",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-05-04",
+          "event_date": "2026-05-04",
+          "event_id": "wk68_CRD_009",
+          "provenance": {
+            "dates": [
+              "2026-05-04"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk068-0031"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "The map change was challenged as a partisan gerrymander that could weaken fair representation and minority voting strength.",
+          "trait_links": [
+            45
+          ]
+        },
+        {
+          "action": "sprayed swastikas and antisemitic graffiti on synagogues and homes in Queens",
           "actor": "Unknown vandals",
           "category": "Civil Rights and Dissent",
           "date": "2026-05-04",
           "event_date": "2026-05-04",
-          "event_id": "wk68_CD_009",
+          "event_id": "wk68_CRD_010",
           "provenance": {
             "dates": [
               "2026-05-04"
@@ -2669,12 +2817,38 @@
           "trait_links": []
         },
         {
-          "action": "cast ballots in primary and special elections",
-          "actor": "Voters in Indiana and Ohio and voters in a Michigan special election",
+          "action": "sued The New York Times over an alleged discriminatory promotion decision",
+          "actor": "The EEOC",
           "category": "Civil Rights and Dissent",
           "date": "2026-05-05",
           "event_date": "2026-05-05",
-          "event_id": "wk68_CD_010",
+          "event_id": "wk68_CRD_011",
+          "provenance": {
+            "dates": [
+              "2026-05-05"
+            ],
+            "sources": [
+              "zeteo"
+            ]
+          },
+          "source_event_ids": [
+            "wk068-0051"
+          ],
+          "source_names": [
+            "zeteo"
+          ],
+          "summary_line": "The suit used federal civil-rights enforcement against a major newsroom in a way the paper said was politically motivated.",
+          "trait_links": [
+            42
+          ]
+        },
+        {
+          "action": "cast ballots in primaries and a special election",
+          "actor": "Voters in Indiana, Ohio, and Michigan",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-05-05",
+          "event_date": "2026-05-05",
+          "event_id": "wk68_CRD_012",
           "provenance": {
             "dates": [
               "2026-05-05"
@@ -2689,16 +2863,16 @@
           "source_names": [
             "50501"
           ],
-          "summary_line": "The elections were routine exercises of representation and public participation in choosing officeholders.",
+          "summary_line": "The elections maintained routine democratic participation and determined party nominees and legislative control.",
           "trait_links": []
         },
         {
-          "action": "gathered at the Tennessee Capitol to oppose the special redistricting session",
+          "action": "gathered at the Tennessee Capitol against the redistricting session",
           "actor": "Hundreds of protesters",
           "category": "Civil Rights and Dissent",
           "date": "2026-05-05",
           "event_date": "2026-05-05",
-          "event_id": "wk68_CD_011",
+          "event_id": "wk68_CRD_013",
           "provenance": {
             "dates": [
               "2026-05-05"
@@ -2713,63 +2887,8 @@
           "source_names": [
             "50501"
           ],
-          "summary_line": "The protest showed public resistance to a rushed map process that threatened minority representation.",
-          "trait_links": [
-            15
-          ]
-        },
-        {
-          "action": "opened a special session to consider redrawing the state's congressional map",
-          "actor": "The Tennessee legislature",
-          "category": "Civil Rights and Dissent",
-          "date": "2026-05-06",
-          "event_date": "2026-05-06",
-          "event_id": "wk68_CD_012",
-          "provenance": {
-            "dates": [
-              "2026-05-06"
-            ],
-            "sources": [
-              "50501"
-            ]
-          },
-          "source_event_ids": [
-            "wk068-0068"
-          ],
-          "source_names": [
-            "50501"
-          ],
-          "summary_line": "The session put minority representation at risk by reopening district lines mid-decade under compressed procedures.",
-          "trait_links": [
-            6,
-            15
-          ]
-        },
-        {
-          "action": "scheduled a special session at the Old Capitol to redraw supreme court districts",
-          "actor": "The Mississippi House of Representatives",
-          "category": "Civil Rights and Dissent",
-          "date": "2026-05-06",
-          "event_date": "2026-05-06",
-          "event_id": "wk68_CD_013",
-          "provenance": {
-            "dates": [
-              "2026-05-06"
-            ],
-            "sources": [
-              "guardian"
-            ]
-          },
-          "source_event_ids": [
-            "wk068-0070"
-          ],
-          "source_names": [
-            "guardian"
-          ],
-          "summary_line": "The move signaled another state effort to alter representation after weakened federal voting protections, with strong racial implications.",
-          "trait_links": [
-            6
-          ]
+          "summary_line": "The protest asserted public opposition to a rushed map change that critics said would dilute Black voting power.",
+          "trait_links": []
         },
         {
           "action": "won the Michigan Senate special election and kept Democrats in control of the chamber",
@@ -2777,7 +2896,7 @@
           "category": "Civil Rights and Dissent",
           "date": "2026-05-06",
           "event_date": "2026-05-06",
-          "event_id": "wk68_CD_014",
+          "event_id": "wk68_CRD_014",
           "provenance": {
             "dates": [
               "2026-05-06"
@@ -2792,16 +2911,16 @@
           "source_names": [
             "guardian"
           ],
-          "summary_line": "The result preserved the partisan balance in a state legislature and affected who could govern for the rest of the year.",
+          "summary_line": "The result preserved the elected balance of power in a state legislature and showed normal electoral accountability at work.",
           "trait_links": []
         },
         {
-          "action": "ousted five state senators who had resisted redistricting demands",
-          "actor": "Indiana Republican primary voters and Trump-aligned groups",
+          "action": "defeated several state senators who had resisted Trump's redistricting push",
+          "actor": "Indiana Republican primary voters",
           "category": "Civil Rights and Dissent",
           "date": "2026-05-06",
           "event_date": "2026-05-06",
-          "event_id": "wk68_CD_015",
+          "event_id": "wk68_CRD_015",
           "provenance": {
             "dates": [
               "2026-05-06"
@@ -2816,20 +2935,16 @@
           "source_names": [
             "guardian"
           ],
-          "summary_line": "The results showed party discipline and money being used to punish resistance to map manipulation, weakening internal checks on gerrymandering.",
-          "trait_links": [
-            6,
-            26,
-            29
-          ]
+          "summary_line": "The results strengthened forces favoring partisan remapping and showed how intraparty pressure can reshape representation rules.",
+          "trait_links": []
         },
         {
           "action": "nominated Sherrod Brown and Jon Husted for the U.S. Senate race",
-          "actor": "Ohio primary voters",
+          "actor": "Ohio voters",
           "category": "Civil Rights and Dissent",
           "date": "2026-05-06",
           "event_date": "2026-05-06",
-          "event_id": "wk68_CD_016",
+          "event_id": "wk68_CRD_016",
           "provenance": {
             "dates": [
               "2026-05-06"
@@ -2844,16 +2959,16 @@
           "source_names": [
             "guardian"
           ],
-          "summary_line": "The nominations set a high-stakes general election that could affect control of the Senate.",
+          "summary_line": "The primary set a major general-election contest that could affect national representation and Senate control.",
           "trait_links": []
         },
         {
           "action": "nominated Vivek Ramaswamy for governor",
-          "actor": "Ohio Republican primary voters",
+          "actor": "Ohio Republican voters",
           "category": "Civil Rights and Dissent",
           "date": "2026-05-06",
           "event_date": "2026-05-06",
-          "event_id": "wk68_CD_017",
+          "event_id": "wk68_CRD_017",
           "provenance": {
             "dates": [
               "2026-05-06"
@@ -2868,16 +2983,16 @@
           "source_names": [
             "guardian"
           ],
-          "summary_line": "The result shaped the field for a major statewide race and the policy direction voters would face in November.",
+          "summary_line": "The primary determined a major statewide nominee and shaped the coming contest over executive power in Ohio.",
           "trait_links": []
         },
         {
-          "action": "rescinded a graduation speech invitation after complaints about the speaker's posts on Palestine",
+          "action": "rescinded a graduation speech invitation after complaints about pro-Palestinian posts",
           "actor": "Rutgers University",
           "category": "Civil Rights and Dissent",
           "date": "2026-05-06",
           "event_date": "2026-05-06",
-          "event_id": "wk68_CD_018",
+          "event_id": "wk68_CRD_018",
           "provenance": {
             "dates": [
               "2026-05-06"
@@ -2892,45 +3007,18 @@
           "source_names": [
             "guardian"
           ],
-          "summary_line": "The cancellation showed institutional pressure on political expression in an academic setting and narrowed space for contested speech.",
+          "summary_line": "The cancellation showed institutional pressure on controversial speech in a university setting and narrowed space for open debate.",
           "trait_links": [
             44
           ]
         },
         {
-          "action": "cleared protesters from the Capitol gallery after passage of the new congressional map",
-          "actor": "Tennessee state troopers",
+          "action": "passed and signed a new congressional map that split Shelby County across three Republican districts",
+          "actor": "Tennessee Republicans and Governor Bill Lee",
           "category": "Civil Rights and Dissent",
           "date": "2026-05-07",
           "event_date": "2026-05-07",
-          "event_id": "wk68_CD_019",
-          "provenance": {
-            "dates": [
-              "2026-05-07"
-            ],
-            "sources": [
-              "50501"
-            ]
-          },
-          "source_event_ids": [
-            "wk068-0128"
-          ],
-          "source_names": [
-            "50501"
-          ],
-          "summary_line": "The removal used security power to limit visible dissent during a major representation dispute.",
-          "trait_links": [
-            15,
-            41
-          ]
-        },
-        {
-          "action": "passed and signed a new congressional map that split Shelby County and weakened the majority-Black Memphis district",
-          "actor": "The Tennessee Republican supermajority and Governor Bill Lee",
-          "category": "Civil Rights and Dissent",
-          "date": "2026-05-07",
-          "event_date": "2026-05-07",
-          "event_id": "wk68_CD_020",
+          "event_id": "wk68_CRD_019",
           "provenance": {
             "dates": [
               "2026-05-07"
@@ -2946,20 +3034,44 @@
           "source_names": [
             "50501"
           ],
-          "summary_line": "The map changed representation rules to dilute Black voting strength and could lock in partisan advantage through redistricting.",
+          "summary_line": "The map change dismantled the state's only majority-Black district and sharply reduced Black voters' collective electoral power.",
           "trait_links": [
-            6,
-            15,
             45
           ]
         },
         {
-          "action": "sued the university over its handling of Gaza-related protests",
-          "actor": "Professors at Emory University",
+          "action": "cleared protesters from the Capitol gallery after the map passed",
+          "actor": "Tennessee state troopers",
           "category": "Civil Rights and Dissent",
           "date": "2026-05-07",
           "event_date": "2026-05-07",
-          "event_id": "wk68_CD_021",
+          "event_id": "wk68_CRD_020",
+          "provenance": {
+            "dates": [
+              "2026-05-07"
+            ],
+            "sources": [
+              "50501"
+            ]
+          },
+          "source_event_ids": [
+            "wk068-0128"
+          ],
+          "source_names": [
+            "50501"
+          ],
+          "summary_line": "The removal restricted protest access at the moment of contested lawmaking and narrowed public presence inside the legislature.",
+          "trait_links": [
+            41
+          ]
+        },
+        {
+          "action": "sued Emory University over its handling of Gaza-related protests",
+          "actor": "Professors",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-05-07",
+          "event_date": "2026-05-07",
+          "event_id": "wk68_CRD_021",
           "provenance": {
             "dates": [
               "2026-05-07"
@@ -2974,18 +3086,18 @@
           "source_names": [
             "guardian"
           ],
-          "summary_line": "The lawsuit challenged restrictions on campus expression and police involvement in protest management.",
+          "summary_line": "The suit challenged university and police responses that faculty said burdened protest rights and campus expression.",
           "trait_links": [
             44
           ]
         },
         {
-          "action": "confronted the sergeant at arms during Tennessee's redistricting fight and was escorted out by troopers",
+          "action": "confronted the sergeant at arms during Tennessee's redistricting session and was escorted out",
           "actor": "Representative Justin Pearson",
           "category": "Civil Rights and Dissent",
           "date": "2026-05-07",
           "event_date": "2026-05-07",
-          "event_id": "wk68_CD_022",
+          "event_id": "wk68_CRD_022",
           "provenance": {
             "dates": [
               "2026-05-07"
@@ -3000,17 +3112,15 @@
           "source_names": [
             "meidas"
           ],
-          "summary_line": "The incident showed how dissent inside a legislature was constrained during a rushed fight over minority representation.",
-          "trait_links": [
-            15
-          ]
+          "summary_line": "The incident showed conflict over minority representation spilling into direct limits on dissent inside a legislative setting.",
+          "trait_links": []
         },
         {
           "action": "used tear gas and pepper spray on at least 79 children during enforcement encounters",
           "actor": "Immigration officers",
           "category": "Civil Rights and Dissent",
           "date": "2026-05-07",
-          "event_id": "wk68_CD_023",
+          "event_id": "wk68_CRD_023",
           "provenance": {
             "dates": [
               "2026-05-07",
@@ -3029,47 +3139,19 @@
             "zeteo",
             "hcr"
           ],
-          "summary_line": "The reported use of force on children highlighted severe rights harms in immigration enforcement and the vulnerability of families under state power.",
+          "summary_line": "The reported force against children highlighted severe rights and safety harms tied to immigration policing.",
           "trait_links": [
             9,
-            46
+            47
           ]
         },
         {
-          "action": "pushed for congressional redistricting despite a federal court injunction",
-          "actor": "Governor Kay Ivey and Alabama's attorney general",
-          "category": "Civil Rights and Dissent",
-          "date": "2026-05-08",
-          "event_date": "2026-05-08",
-          "event_id": "wk68_CD_024",
-          "provenance": {
-            "dates": [
-              "2026-05-08"
-            ],
-            "sources": [
-              "hcr"
-            ]
-          },
-          "source_event_ids": [
-            "wk068-0161"
-          ],
-          "source_names": [
-            "hcr"
-          ],
-          "summary_line": "The effort challenged judicial limits and sought to reopen map fights that affect minority representation and election fairness.",
-          "trait_links": [
-            4,
-            11,
-            45
-          ]
-        },
-        {
-          "action": "suspended Louisiana's congressional primary so lawmakers could redraw district maps",
+          "action": "suspended Louisiana's congressional primary to allow redistricting",
           "actor": "Governor Jeff Landry",
           "category": "Civil Rights and Dissent",
           "date": "2026-05-08",
           "event_date": "2026-05-08",
-          "event_id": "wk68_CD_025",
+          "event_id": "wk68_CRD_024",
           "provenance": {
             "dates": [
               "2026-05-08"
@@ -3084,19 +3166,16 @@
           "source_names": [
             "hcr"
           ],
-          "summary_line": "The suspension interrupted an election already underway to make room for a new map, undermining stable and fair electoral process.",
-          "trait_links": [
-            4,
-            11
-          ]
+          "summary_line": "The suspension interrupted an election already underway and used state power to reopen representation rules for partisan advantage.",
+          "trait_links": []
         },
         {
-          "action": "expanded coordinated redistricting efforts after the Voting Rights Act ruling",
+          "action": "pursued coordinated redistricting efforts after the Voting Rights Act ruling",
           "actor": "Republican-led legislatures in multiple states",
           "category": "Civil Rights and Dissent",
           "date": "2026-05-08",
           "event_date": "2026-05-08",
-          "event_id": "wk68_CD_026",
+          "event_id": "wk68_CRD_025",
           "provenance": {
             "dates": [
               "2026-05-08"
@@ -3111,20 +3190,18 @@
           "source_names": [
             "hcr"
           ],
-          "summary_line": "The multi-state push showed a broad attempt to reshape representation rules for partisan advantage after federal protections weakened.",
+          "summary_line": "The push showed a broad effort to use mapmaking to lock in partisan gains and weaken minority representation.",
           "trait_links": [
-            4,
-            11,
             45
           ]
         },
         {
-          "action": "burned a Confederate battle flag in the Tennessee Capitol to protest redistricting",
+          "action": "burned a Confederate battle flag in the Tennessee Capitol rotunda to protest redistricting",
           "actor": "Representative Justin Jones",
           "category": "Civil Rights and Dissent",
           "date": "2026-05-08",
           "event_date": "2026-05-08",
-          "event_id": "wk68_CD_027",
+          "event_id": "wk68_CRD_026",
           "provenance": {
             "dates": [
               "2026-05-08"
@@ -3139,7 +3216,7 @@
           "source_names": [
             "hcr"
           ],
-          "summary_line": "The protest used symbolic speech to contest a map change that opponents said erased Black political power.",
+          "summary_line": "The act used symbolic protest to contest a map change that critics said stripped Black voters of effective representation.",
           "trait_links": []
         },
         {
@@ -3148,7 +3225,7 @@
           "category": "Civil Rights and Dissent",
           "date": "2026-05-08",
           "event_date": "2026-05-08",
-          "event_id": "wk68_CD_028",
+          "event_id": "wk68_CRD_027",
           "provenance": {
             "dates": [
               "2026-05-08"
@@ -3163,8 +3240,34 @@
           "source_names": [
             "hcr"
           ],
-          "summary_line": "The talks reflected pressure over detention conditions and costs in a facility criticized for treatment of detainees.",
+          "summary_line": "The talks reflected scrutiny of detention conditions and the rights implications of holding migrants in unsafe facilities.",
           "trait_links": []
+        },
+        {
+          "action": "claimed there were well over 20 million undocumented immigrants and said arrests would intensify",
+          "actor": "Tom Homan",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-05-08",
+          "event_date": "2026-05-08",
+          "event_id": "wk68_CRD_028",
+          "provenance": {
+            "dates": [
+              "2026-05-08"
+            ],
+            "sources": [
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk068-0179"
+          ],
+          "source_names": [
+            "hcr"
+          ],
+          "summary_line": "The statement framed a broad population as a target for expanded enforcement, increasing fear and insecurity among migrants.",
+          "trait_links": [
+            47
+          ]
         },
         {
           "action": "announced his run for California governor",
@@ -3172,7 +3275,7 @@
           "category": "Civil Rights and Dissent",
           "date": "2026-05-08",
           "event_date": "2026-05-08",
-          "event_id": "wk68_CD_029",
+          "event_id": "wk68_CRD_029",
           "provenance": {
             "dates": [
               "2026-05-08"
@@ -3187,16 +3290,16 @@
           "source_names": [
             "guardian"
           ],
-          "summary_line": "The announcement added a new contender to a major state race and changed the field of voter choice.",
+          "summary_line": "The announcement added a new contender to a major statewide race and altered the field of democratic choice.",
           "trait_links": []
         },
         {
-          "action": "filed for a referendum to overturn approval of the Stratos datacenter",
+          "action": "filed to seek a referendum overturning the Stratos datacenter approval",
           "actor": "The Box Elder Accountability Referendum group",
           "category": "Civil Rights and Dissent",
           "date": "2026-05-08",
           "event_date": "2026-05-08",
-          "event_id": "wk68_CD_030",
+          "event_id": "wk68_CRD_030",
           "provenance": {
             "dates": [
               "2026-05-08"
@@ -3211,7 +3314,7 @@
           "source_names": [
             "guardian"
           ],
-          "summary_line": "The filing used direct democracy to challenge a local government decision with major environmental and resource consequences.",
+          "summary_line": "The filing used direct democracy to challenge a local government decision with major environmental and resource effects.",
           "trait_links": []
         }
       ],
@@ -3220,12 +3323,12 @@
     {
       "events": [
         {
-          "action": "accelerated review of eight ABC broadcasting licenses after criticism of Jimmy Kimmel's remarks about Melania Trump",
+          "action": "accelerated review of eight ABC local broadcasting licenses after criticism of Jimmy Kimmel's remarks",
           "actor": "The FCC",
           "category": "Information, Memory and Manipulation",
           "date": "2026-05-02",
           "event_date": "2026-05-02",
-          "event_id": "wk68_IM_001",
+          "event_id": "wk68_IMM_001",
           "provenance": {
             "dates": [
               "2026-05-02"
@@ -3240,68 +3343,46 @@
           "source_names": [
             "guardian"
           ],
-          "summary_line": "The move suggested regulatory power could be used to pressure broadcasters over protected speech, chilling media independence.",
+          "summary_line": "The move suggested regulatory pressure on a broadcaster over protected speech, threatening media independence.",
           "trait_links": [
-            42
+            42,
+            43
           ]
         },
         {
-          "action": "requested an extension for collecting Federal Air Marshal health certification information",
-          "actor": "The TSA",
+          "action": "accused former Attorney General Eric Holder of treasonous conduct on Truth Social",
+          "actor": "Donald Trump",
           "category": "Information, Memory and Manipulation",
-          "date": "2026-05-04",
-          "event_date": "2026-05-04",
-          "event_id": "wk68_IM_002",
+          "date": "2026-05-02",
+          "event_date": "2026-05-02",
+          "event_id": "wk68_IMM_002",
           "provenance": {
             "dates": [
-              "2026-05-04"
-            ],
-            "sources": [
-              "federalregister"
-            ]
-          },
-          "source_event_ids": [
-            "wk068-0028"
-          ],
-          "source_names": [
-            "federalregister"
-          ],
-          "summary_line": "The notice maintained a federal information system tied to security staffing and internal oversight.",
-          "trait_links": []
-        },
-        {
-          "action": "issued a grand jury subpoena for personal information on Fulton County election workers and volunteers",
-          "actor": "The Department of Justice",
-          "category": "Information, Memory and Manipulation",
-          "date": "2026-05-04",
-          "event_date": "2026-05-04",
-          "event_id": "wk68_IM_003",
-          "provenance": {
-            "dates": [
-              "2026-05-04"
+              "2026-05-02"
             ],
             "sources": [
               "zeteo"
             ]
           },
           "source_event_ids": [
-            "wk068-0030"
+            "wk068-0011"
           ],
           "source_names": [
             "zeteo"
           ],
-          "summary_line": "The subpoena threatened to expose election workers to intimidation and could deter future participation in election administration.",
+          "summary_line": "The accusation used a mass platform to stigmatize a political opponent in terms that can delegitimize lawful dissent.",
           "trait_links": [
-            4
+            8,
+            49
           ]
         },
         {
           "action": "sought comment on the transparency and effectiveness of the TV ratings system",
-          "actor": "The FCC's Media Bureau",
+          "actor": "The FCC Media Bureau",
           "category": "Information, Memory and Manipulation",
           "date": "2026-05-04",
           "event_date": "2026-05-04",
-          "event_id": "wk68_IM_004",
+          "event_id": "wk68_IMM_003",
           "provenance": {
             "dates": [
               "2026-05-04"
@@ -3316,43 +3397,16 @@
           "source_names": [
             "federalregister"
           ],
-          "summary_line": "The review opened a federal process that could shape how media content is labeled and contested in the public sphere.",
+          "summary_line": "The notice opened a federal review of how television content is labeled and framed for the public.",
           "trait_links": []
         },
         {
-          "action": "sued The New York Times over an alleged discriminatory promotion decision",
-          "actor": "The EEOC",
-          "category": "Information, Memory and Manipulation",
-          "date": "2026-05-05",
-          "event_date": "2026-05-05",
-          "event_id": "wk68_IM_005",
-          "provenance": {
-            "dates": [
-              "2026-05-05"
-            ],
-            "sources": [
-              "zeteo"
-            ]
-          },
-          "source_event_ids": [
-            "wk068-0051"
-          ],
-          "source_names": [
-            "zeteo"
-          ],
-          "summary_line": "The case added federal legal pressure on a major newsroom and raised concerns about selective enforcement against media institutions.",
-          "trait_links": [
-            4,
-            42
-          ]
-        },
-        {
-          "action": "blocked publication of taxpayer-funded studies that found Covid-19 and shingles vaccines were safe",
+          "action": "blocked publication of taxpayer-funded studies finding Covid-19 and shingles vaccines safe",
           "actor": "The FDA",
           "category": "Information, Memory and Manipulation",
           "date": "2026-05-05",
           "event_date": "2026-05-05",
-          "event_id": "wk68_IM_006",
+          "event_id": "wk68_IMM_004",
           "provenance": {
             "dates": [
               "2026-05-05"
@@ -3367,11 +3421,10 @@
           "source_names": [
             "guardian"
           ],
-          "summary_line": "The decision withheld evidence relevant to public health debate and weakened trust in transparent scientific communication.",
+          "summary_line": "The decision withheld public health findings that could shape trust in science and informed consent.",
           "trait_links": [
             16,
-            21,
-            39
+            58
           ]
         },
         {
@@ -3380,7 +3433,7 @@
           "category": "Information, Memory and Manipulation",
           "date": "2026-05-06",
           "event_date": "2026-05-06",
-          "event_id": "wk68_IM_007",
+          "event_id": "wk68_IMM_005",
           "provenance": {
             "dates": [
               "2026-05-06"
@@ -3395,10 +3448,10 @@
           "source_names": [
             "meidas"
           ],
-          "summary_line": "The order expanded internal surveillance in response to critical reporting and could chill lawful contact with journalists.",
+          "summary_line": "The order expanded internal surveillance in response to press reporting and could chill lawful contact with journalists.",
           "trait_links": [
-            18,
-            42
+            42,
+            46
           ]
         },
         {
@@ -3406,7 +3459,7 @@
           "actor": "The FBI",
           "category": "Information, Memory and Manipulation",
           "date": "2026-05-06",
-          "event_id": "wk68_IM_008",
+          "event_id": "wk68_IMM_006",
           "provenance": {
             "dates": [
               "2026-05-06",
@@ -3428,10 +3481,10 @@
             "zeteo",
             "hcr"
           ],
-          "summary_line": "The probe threatened source confidentiality and increased pressure on journalists reporting on powerful officials.",
+          "summary_line": "The probe threatened source confidentiality and increased pressure on journalists covering senior law-enforcement officials.",
           "trait_links": [
-            18,
-            42
+            42,
+            46
           ]
         },
         {
@@ -3439,7 +3492,7 @@
           "actor": "A confidential CIA report",
           "category": "Information, Memory and Manipulation",
           "date": "2026-05-06",
-          "event_id": "wk68_IM_009",
+          "event_id": "wk68_IMM_007",
           "provenance": {
             "dates": [
               "2026-05-06",
@@ -3460,19 +3513,43 @@
             "meidas",
             "hcr"
           ],
-          "summary_line": "The gap between intelligence findings and public statements raised concerns that the administration was shaping war information for political effect.",
+          "summary_line": "The gap between intelligence and public messaging raised concerns that the administration was shaping opinion with misleading war claims.",
           "trait_links": [
             39,
             53
           ]
         },
         {
-          "action": "delayed disclosure of a major jet fuel leak to Maryland regulators",
+          "action": "faced antisemitic attacks on social media after his Iran reporting",
+          "actor": "Axios reporter Barak Ravid",
+          "category": "Information, Memory and Manipulation",
+          "date": "2026-05-07",
+          "event_date": "2026-05-07",
+          "event_id": "wk68_IMM_008",
+          "provenance": {
+            "dates": [
+              "2026-05-07"
+            ],
+            "sources": [
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk068-0138"
+          ],
+          "source_names": [
+            "meidas"
+          ],
+          "summary_line": "The abuse targeted a journalist's identity and reporting, worsening the climate for independent press work.",
+          "trait_links": []
+        },
+        {
+          "action": "delayed disclosure of a major jet-fuel leak to Maryland regulators",
           "actor": "Joint Base Andrews",
           "category": "Information, Memory and Manipulation",
           "date": "2026-05-06",
           "event_date": "2026-05-06",
-          "event_id": "wk68_IM_010",
+          "event_id": "wk68_IMM_009",
           "provenance": {
             "dates": [
               "2026-05-06"
@@ -3487,17 +3564,17 @@
           "source_names": [
             "meidas"
           ],
-          "summary_line": "The delay withheld information about environmental harm from outside oversight and weakened public accountability.",
+          "summary_line": "The late notice withheld information about environmental harm and weakened timely public oversight.",
           "trait_links": [
-            21
+            58
           ]
         },
         {
           "action": "reported Iran war costs to Congress far below internal and outside estimates",
-          "actor": "Secretary Pete Hegseth and Pentagon officials",
+          "actor": "Secretary Pete Hegseth and Acting Comptroller Jules Hurst",
           "category": "Information, Memory and Manipulation",
           "date": "2026-05-06",
-          "event_id": "wk68_IM_011",
+          "event_id": "wk68_IMM_010",
           "provenance": {
             "dates": [
               "2026-05-06",
@@ -3514,44 +3591,19 @@
           "source_names": [
             "popinfo"
           ],
-          "summary_line": "The discrepancy impaired congressional oversight by obscuring the scale of military spending and the public burden of war.",
+          "summary_line": "The discrepancy impaired informed oversight by obscuring the scale of public spending on war.",
           "trait_links": [
             21,
-            39,
-            53
+            39
           ]
         },
         {
-          "action": "faced antisemitic attacks on social media after reporting on Iran",
-          "actor": "Axios reporter Barak Ravid",
-          "category": "Information, Memory and Manipulation",
-          "date": "2026-05-07",
-          "event_date": "2026-05-07",
-          "event_id": "wk68_IM_012",
-          "provenance": {
-            "dates": [
-              "2026-05-07"
-            ],
-            "sources": [
-              "meidas"
-            ]
-          },
-          "source_event_ids": [
-            "wk068-0138"
-          ],
-          "source_names": [
-            "meidas"
-          ],
-          "summary_line": "The harassment targeted a journalist on ethnic and religious grounds, threatening press participation in public debate.",
-          "trait_links": []
-        },
-        {
-          "action": "was accused of distributing personalized bourbon bottles transported on Justice Department aircraft",
+          "action": "allegedly distributed personalized bourbon bottles transported on Justice Department aircraft",
           "actor": "Kash Patel",
           "category": "Information, Memory and Manipulation",
           "date": "2026-05-07",
           "event_date": "2026-05-07",
-          "event_id": "wk68_IM_013",
+          "event_id": "wk68_IMM_011",
           "provenance": {
             "dates": [
               "2026-05-07"
@@ -3566,18 +3618,16 @@
           "source_names": [
             "meidas"
           ],
-          "summary_line": "The allegation raised questions about use of government resources and the blurring of official office with personal branding.",
-          "trait_links": [
-            38
-          ]
+          "summary_line": "The allegation raised questions about whether official resources were used to build personal image and patronage networks.",
+          "trait_links": []
         },
         {
-          "action": "asked commercial satellite firms to limit, delay, or withhold Middle East imagery during military operations",
+          "action": "asked commercial satellite firms to delay or withhold Middle East imagery",
           "actor": "The U.S. government",
           "category": "Information, Memory and Manipulation",
           "date": "2026-05-07",
           "event_date": "2026-05-07",
-          "event_id": "wk68_IM_014",
+          "event_id": "wk68_IMM_012",
           "provenance": {
             "dates": [
               "2026-05-07"
@@ -3592,10 +3642,10 @@
           "source_names": [
             "hcr"
           ],
-          "summary_line": "The request restricted independent visual evidence about a war zone, reducing outside scrutiny of military action.",
+          "summary_line": "The request limited independent visual evidence about military operations and reduced outside scrutiny of war claims.",
           "trait_links": [
             21,
-            53
+            58
           ]
         }
       ],

@@ -1,13 +1,13 @@
 {
   "clock_after_minutes": 493.5,
-  "clock_before_minutes": 493.3,
-  "clock_delta_minutes": 0.2,
-  "generated_at": "2026-06-13T00:10:04.340686+00:00",
+  "clock_before_minutes": 493.5,
+  "clock_delta_minutes": 0.0,
+  "generated_at": "2026-06-07T23:23:19.439214+00:00",
   "provenance": {
-    "mel": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Master Event Logs/master_index_week70_2026-05-16_2026-05-22.json",
-    "mel_sha1": "52da401e5cd9cfb28a40fd8845c6ad38980f338a",
-    "prior": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Weeks/Week 69/carry_forward_week69.json",
-    "prior_sha1": "f939f1ffc70ad476c72cd8587a3bcf44356e478c",
+    "mel": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Master Event Logs/master_index_week72_2026-05-30_2026-06-05.json",
+    "mel_sha1": "3ee918cf387d0d0025b33a3a9629403900b26403",
+    "prior": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Weeks/Week 71/carry_forward_week71.json",
+    "prior_sha1": "78326921ae49486c528ca37e328a287abc183bc1",
     "trait_catalogue": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Programs/step3_trait_catalogue_v4.json",
     "trait_catalogue_sha1": "636ee63296eafb124942adf76cebfb6936d491e4"
   },
@@ -370,7 +370,7 @@
       },
       "difficulty": 2.0,
       "notes": "",
-      "presence": 5.5,
+      "presence": 5.6,
       "rationale": "Presence is 5.2 (notable) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Institutional baselines improved (respect for oversight, apolitical DOJ posture), yet Court doctrine and structural incentives from the 2010s persisted. Week 0 weights these durable architectures over goodwill. Difficulty 1.5 is sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "public_funds_for_glorification_and_symbolic_dominance",
       "trait_name": "Public funds are used for personal glorification and symbolic dominance",
@@ -730,7 +730,7 @@
       },
       "difficulty": 2.0,
       "notes": "",
-      "presence": 5.6,
+      "presence": 5.5,
       "rationale": "Presence is 5.2 (notable) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Civil liberties posture improved, with symmetrical enforcement and fewer retaliations. However, surveillance infrastructure and uneven state practices endured, keeping risks above pre\u20112017 levels. Difficulty 1.3 is partly reversible: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "religion_co_opted_for_legitimacy_and_control",
       "trait_name": "Religion is co-opted as a tool of legitimacy and control",
@@ -850,7 +850,7 @@
       },
       "difficulty": 1.8,
       "notes": "",
-      "presence": 5.6,
+      "presence": 5.5,
       "rationale": "Presence is 5.4 (notable) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Open\u2011gov initiatives and scientific\u2011integrity rules helped, but platform dynamics, disinformation, and culture\u2011war curricula fights sustained information risks beyond a healthy democracy\u2019s floor. Difficulty 1.3 is partly reversible: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "national_history_rewritten_to_glorify_conquest",
       "trait_name": "National history is rewritten to glorify conquest, not justice",
@@ -880,7 +880,7 @@
       },
       "difficulty": 2.0,
       "notes": "",
-      "presence": 5.8,
+      "presence": 5.9,
       "rationale": "Presence is 5.6 (moderate) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Institutional baselines improved (respect for oversight, apolitical DOJ posture), yet Court doctrine and structural incentives from the 2010s persisted. Week 0 weights these durable architectures over goodwill. Difficulty 1.3 is partly reversible: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "government_archives_sealed_sanitized_or_destroyed",
       "trait_name": "Government archives are sealed, sanitized, or destroyed",
@@ -917,34 +917,34 @@
       "trait_number": 60
     }
   ],
-  "updated_at": "2026-06-13T00:10:04.340695+00:00",
-  "week": 70,
+  "updated_at": "2026-06-07T23:23:19.439225+00:00",
+  "week": 72,
   "weekly_analytic_brief": {
     "sensor": {
       "institutional_shifts": [
-        "The Justice Department shifted further from neutral law enforcement toward a vehicle for presidential protection, patronage, and retaliatory legal theory, especially through the fund and tax-immunity agreements.",
-        "Congress showed both weakness and residual checking capacity: Senate and House actors challenged the fund and war powers over Iran, but leadership also delayed or avoided votes to shield the president.",
-        "The courts remained one of the few active counterweights, blocking some immigration tactics, enforcing records preservation, and dismissing retaliatory or vindictive prosecutions.",
-        "Administrative agencies moved unevenly: EPA and FDA actions reflected deregulation and instability in some areas, while routine advisory and rulemaking processes continued elsewhere.",
-        "Military and national-security institutions showed politicization pressure through Hegseth\u2019s partisan activity, troop posture disruptions, and the reported forced exit of the DNI."
+        "The executive branch moved sharply toward politicized personnel control through the Schedule Policy/Career order, increasing presidential leverage over previously protected policy-facing civil servants.",
+        "DOJ and related legal machinery showed dual movement: courts and bipartisan pressure halted the anti-weaponization fund, but retaliatory investigations and special protections for Trump remained active.",
+        "Congress partially reasserted itself on war powers and oversight, yet also advanced or tolerated large immigration-enforcement funding with weak accountability guardrails.",
+        "The courts acted as an uneven brake: several judges blocked or narrowed executive overreach, while the Supreme Court simultaneously weakened Black voting representation in Alabama.",
+        "The Pentagon and intelligence apparatus shifted toward greater politicization, with press restrictions, loyalty-based appointments, and controversial staffing in sensitive national-security roles."
       ],
       "oddities_or_open_questions": [
-        "The anti-weaponization fund appears to be the week\u2019s most structurally important development, but key operational details remain unclear: beneficiary criteria, disclosure rules, and the exact legal theory for using the Judgment Fund.",
-        "Republican resistance to the fund was unusually visible; the open question is whether this was a substantive institutional defense or a narrow objection to political optics and specific beneficiaries.",
-        "Several judicial rulings favored transparency, protest rights, or immigrant protections in the same week that executive actors escalated self-protective and retaliatory conduct, underscoring a widening gap between legal constraint and executive behavior."
+        "The anti-weaponization fund was repeatedly described as abandoned, paused, or still legally alive; the exact operative status of the settlement architecture remains unresolved.",
+        "Several events suggest the administration is testing extreme legal theories of executive control over public institutions, records, and monuments; whether courts will consistently reject these claims is still unclear.",
+        "State-level resistance to ICE conditions and federal detention expansion is becoming more legally creative, raising the question of how durable subnational checks can be under expanded federal enforcement funding."
       ],
-      "summary": "This was a high-pressure week centered on executive self-protection, patronage-style use of public resources, and the conversion of legal and symbolic state machinery into instruments of personal rule. The dominant event cluster was the Justice Department\u2019s creation of the $1.776 billion \u201cAnti-Weaponization Fund\u201d alongside agreements barring future tax scrutiny of Trump and related entities. That package strongly worsened traits tied to unchecked executive power, weaponized law, elite impunity, transparency failure, and crony capitalism. A second major theme was electoral and representational degradation: the Supreme Court\u2019s weakening of Voting Rights Act protections, South Carolina\u2019s move toward map redrawing, and North Carolina\u2019s pending suppression rules all increased pressure on voter suppression and minority disenfranchisement. A third theme was memory politics and symbolic domination, with the Freedom 250 Christian-nationalist programming and approval of a Trump triumphal arch showing state-backed historical revision and personal glorification. Courts and some legislators did provide pockets of resistance, but the week\u2019s raw structural force came mainly from attempts to entrench executive immunity, redirect public money to allies, and subordinate institutions to personal and ideological loyalty.",
+      "summary": "This was a high-pressure week defined by politicization of state machinery across multiple fronts at once: the civil service, the justice system, immigration enforcement, intelligence appointments, and information control. The strongest structural signal came from efforts to convert neutral institutions into loyalty-based instruments\u2014most clearly through the Schedule F-style order stripping protections from senior federal workers, the appointment of unqualified loyalists and January 6 figures to sensitive posts, and continuing DOJ actions that look retaliatory toward Trump critics while preserving special protections for Trump and his family. Immigration was the other major pressure point: abusive detention conditions, reduced death-reporting transparency, asset-seizure threats, and a massive Senate enforcement package all deepened the sense of a coercive apparatus expanding faster than oversight. Courts provided meaningful but partial counterpressure\u2014blocking some executive actions, protecting asylum processing, and checking anti-trans and institutional overreach\u2014but these repairs were offset by the Supreme Court\u2019s Alabama map ruling and by the administration\u2019s increasingly maximal claims of executive authority. Overall, the week showed democratic erosion less as a single rupture than as coordinated institutional conversion.",
       "top_themes": [
-        "Executive self-dealing moved from scandal to structure: legal settlements, immunity from tax scrutiny, and a politically controlled compensation fund all pointed toward formalized elite impunity.",
-        "Voting rights pressure intensified through doctrine and administration: weakened VRA protections, proposed redistricting, and new state-level suppression measures combined legal rollback with operational restriction.",
-        "Historical narrative and public symbolism were politicized: America250 programming, Christian-nationalist messaging, and the triumphal arch project fused state resources with leader glorification and ideological memory control.",
-        "Immigration enforcement remained a major site of democratic stress, with harsh status-adjustment rules, detention abuses, activist raids, and retaliatory prosecutions or deportation efforts.",
-        "Institutional resistance existed but was reactive: judges, parliamentarians, and some lawmakers slowed or challenged abuses without yet reversing the broader concentration of power."
+        "Loyalty over competence: key appointments and personnel rules pushed the federal state toward personal allegiance, especially in intelligence, DOJ, and the upper civil service.",
+        "Retaliatory governance through law: investigations, prosecutions, and legal threats increasingly appeared directed at critics, rivals, and disfavored groups rather than neutrally applied.",
+        "Immigration enforcement as a model of democratic hardening: detention abuse, secrecy, family separation, and major new funding combined coercion with weakened oversight.",
+        "Corruption and patronage normalized through policy: donor-linked contracts, audit immunity, and conflict-ridden settlements reinforced the fusion of public power and private benefit.",
+        "Information restriction by administrative means: press access limits, sealed proceedings, and reduced detainee-death reporting narrowed visibility into state conduct without formal censorship laws."
       ]
     }
   },
   "window": {
-    "end": "2026-05-22",
-    "start": "2026-05-16"
+    "end": "2026-06-05",
+    "start": "2026-05-30"
   }
 }

@@ -1,0 +1,561 @@
+{
+  "week_number": 73,
+  "period_label": "Week 73 – 2026-06-06–2026-06-12",
+  "window": {
+    "start": "2026-06-06",
+    "end": "2026-06-12"
+  },
+  "clock_time_public": "8:14 p.m.",
+  "clock_delta_minutes": 0.0,
+  "baseline_traits": [
+    {
+      "name": "character",
+      "definition": "Internal discipline to align words with deeds, to place public duty ahead of personal gain, and to honour the oath of office even when it conflicts with short-term advantage."
+    },
+    {
+      "name": "ethics",
+      "definition": "Commitment to keep a firm boundary between public power and private interest, avoiding conflicts of interest, self-dealing, and the use of office to enrich oneself, family, or allies."
+    },
+    {
+      "name": "restraint",
+      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+    },
+    {
+      "name": "truthfulness",
+      "definition": "Obligation to speak accurately on matters of public consequence, avoid deliberate disinformation, correct false statements, and ensure that citizens are not governed by manufactured unreality."
+    },
+    {
+      "name": "good_faith",
+      "definition": "Adherence to the spirit as well as the letter of democratic rules, keeping promises, respecting outcomes, and avoiding procedural manipulation that defeats the purpose of the law."
+    },
+    {
+      "name": "stewardship",
+      "definition": "Responsibility to maintain and strengthen institutions so they can serve future generations as well as the present, avoiding actions that permanently damage capacity, credibility, or public trust."
+    }
+  ],
+  "weekly_audit": {
+    "summary": "The week showed further ethical erosion through formal channels rather than open rupture. Executive and legislative actors expanded coercive capacity, pressed against referees, narrowed oversight, and tolerated deeper overlap between public power and private or personal advantage. At the same time, courts, litigants, some lawmakers, journalists, and civic actors continued to impose real checks. The moral floor therefore held only in contested form: breaches were not isolated, but increasingly normalized and embedded in ordinary governance, while resistance remained active and consequential.",
+    "norms_broken": [
+      {
+        "trait": "character",
+        "pattern": "Senior officials repeatedly treated public office as a vehicle for personal loyalty, ally protection, or grievance rather than impartial duty.",
+        "severity": "serious",
+        "institutional_response": "Courts and oversight actors remained active in adjacent matters, but these choices themselves were not directly reversed during the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk73_character_ex01",
+            "week": 73,
+            "event_ids": [
+              "wk73_PA_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk73_PA_001",
+                "development_label": "President pardoned former Representative Stephen Buyer",
+                "role": "primary"
+              }
+            ],
+            "summary": "Presidential clemency erased a completed corruption conviction for a former lawmaker.",
+            "why_exemplary": "Character requires honoring public duty over personal or factional advantage. Using clemency to wipe away a corruption case signals tolerance for ally protection rather than accountability.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk73_character_ex02",
+            "week": 73,
+            "event_ids": [
+              "wk73_IG_023",
+              "wk73_IG_038"
+            ],
+            "developments": [
+              {
+                "development_id": "wk73_IG_023",
+                "development_label": "President nominated Todd Blanche for attorney general",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk73_IG_038",
+                "development_label": "JD Vance said he would refer Minnesota officials to the Justice Department for a fraud investigation",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Justice leadership and prosecutorial threat both pointed toward personalist rather than neutral public duty.",
+            "why_exemplary": "Putting a former personal lawyer atop DOJ while invoking federal investigation in a politically charged dispute suggests loyalty and advantage displacing impartial oath-bound conduct.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "The boundary between state power and family or private benefit remained weak, with repeated conflict-of-interest signals around policy, assets, branding, and business gain.",
+        "severity": "extreme",
+        "institutional_response": "Watchdog reporting and litigation exposed or challenged some conduct, but no broad corrective boundary appeared in the week’s events.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk73_ethics_ex01",
+            "week": 73,
+            "event_ids": [
+              "wk73_ES_015",
+              "wk73_ES_016"
+            ],
+            "developments": [
+              {
+                "development_id": "wk73_ES_015",
+                "development_label": "Reports said foreign-linked investment flowed into a Trump Jr.-connected startup after favorable policy decisions",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk73_ES_016",
+                "development_label": "Administration planned to transfer frozen Iranian assets to Gulf allies",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Policy decisions and foreign-linked money were reported to overlap with family-connected business interests.",
+            "why_exemplary": "Ethics requires a firm line between public power and private enrichment. These reports describe that line as blurred where foreign policy and family-linked gain may intersect.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk73_ethics_ex02",
+            "week": 73,
+            "event_ids": [
+              "wk73_IG_026",
+              "wk73_ES_023"
+            ],
+            "developments": [
+              {
+                "development_id": "wk73_IG_026",
+                "development_label": "Public Integrity Project sued over a White House UFC event",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk73_ES_023",
+                "development_label": "Trump family reportedly made large profits from cryptocurrency licensing ventures",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Public property and political prominence were both tied to possible private commercial benefit.",
+            "why_exemplary": "The lawsuit and profit reports together show how official symbols and family business can become entangled, weakening confidence that office is being kept separate from enrichment.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "Actors with power repeatedly sought to enlarge coercive or unilateral authority and to bypass ordinary limits rather than exercise self-limitation.",
+        "severity": "serious",
+        "institutional_response": "Courts blocked several executive initiatives and the House failed to renew surveillance powers, but the initiating pattern remained expansive.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk73_restraint_ex01",
+            "week": 73,
+            "event_ids": [
+              "wk73_IG_007",
+              "wk73_IG_018",
+              "wk73_PA_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk73_IG_007",
+                "development_label": "Senate Republicans passed about $70 billion in additional funding for ICE and CBP",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk73_IG_018",
+                "development_label": "House passed the Secure America Act",
+                "role": "secondary"
+              },
+              {
+                "development_id": "wk73_PA_005",
+                "development_label": "President signed the Secure America Act",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Congress and the president jointly gave immigration enforcement a larger, longer-lived coercive capacity.",
+            "why_exemplary": "Restraint weakens when institutions choose to endow coercive agencies with major new power while adding few visible guardrails or oversight conditions.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk73_restraint_ex02",
+            "week": 73,
+            "event_ids": [
+              "wk73_IG_002",
+              "wk73_PA_008"
+            ],
+            "developments": [
+              {
+                "development_id": "wk73_IG_002",
+                "development_label": "Justice Department argued courts could not stop completed executive construction after the fact",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk73_PA_008",
+                "development_label": "Administration waived environmental and historic-preservation laws for border wall work in Big Bend National Park",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Executive action was paired with a theory that speed and completion could outrun judicial review.",
+            "why_exemplary": "This is a restraint failure because it treats legal limits as obstacles to be bypassed rather than boundaries to respect before acting.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "Official and adjacent information channels repeatedly spread falsehoods, manipulated framing, or withheld consequential facts, degrading the public’s shared reality.",
+        "severity": "serious",
+        "institutional_response": "Journalists, watchdogs, and some lawmakers kept exposing omissions and false claims, but the week still showed active production of unreality.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk73_truthfulness_ex01",
+            "week": 73,
+            "event_ids": [
+              "wk73_IMM_004",
+              "wk73_IG_035"
+            ],
+            "developments": [
+              {
+                "development_id": "wk73_IMM_004",
+                "development_label": "President walked out of an NBC interview after being challenged on election-fraud claims",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk73_IG_035",
+                "development_label": "A judicial nominee refused to say who won the 2020 presidential election",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Election falsehoods and refusal to affirm a basic electoral fact both remained in circulation.",
+            "why_exemplary": "Truthfulness is breached when leaders and nominees will not sustain basic electoral reality, leaving citizens to judge institutions through manufactured doubt.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk73_truthfulness_ex02",
+            "week": 73,
+            "event_ids": [
+              "wk73_IMM_002",
+              "wk73_IMM_010"
+            ],
+            "developments": [
+              {
+                "development_id": "wk73_IMM_002",
+                "development_label": "USDA secretary deleted an announcement about a second screwworm detection in Texas",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk73_IMM_010",
+                "development_label": "Department of Justice failed to release all Epstein files required by law",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Timely public information was deleted in one case and incompletely released in another.",
+            "why_exemplary": "Truthfulness depends not only on avoiding lies but on preserving accurate disclosure about public threats and accountability records. Both actions narrowed reality available to the public.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Officials and allied actors repeatedly treated rules, referees, and oversight mechanisms as obstacles to be bent, bypassed, or selectively applied.",
+        "severity": "serious",
+        "institutional_response": "Judges, some legislators, and civil litigants defended review and process, but the week’s dominant pressure ran against the spirit of democratic rules.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk73_good_faith_ex01",
+            "week": 73,
+            "event_ids": [
+              "wk73_IG_016",
+              "wk73_IG_019"
+            ],
+            "developments": [
+              {
+                "development_id": "wk73_IG_016",
+                "development_label": "President called for firing the Senate parliamentarian over a Byrd Rule ruling",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk73_IG_019",
+                "development_label": "President urged Republicans to pass a reconciliation bill carrying the SAVE America Act",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A nonpartisan Senate referee was targeted while budget procedure was pressed into service for a favored election bill.",
+            "why_exemplary": "Good faith requires respecting the purpose of rules and referees. Treating them as disposable when they impede a preferred outcome defeats that democratic purpose.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk73_good_faith_ex02",
+            "week": 73,
+            "event_ids": [
+              "wk73_IG_008",
+              "wk73_IG_020"
+            ],
+            "developments": [
+              {
+                "development_id": "wk73_IG_008",
+                "development_label": "Senator Andy Kim said he was denied access to speak with detainees at Delaney Hall",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk73_IG_020",
+                "development_label": "House Oversight Chair James Comer refused to subpoena Todd Blanche in the Epstein investigation",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Oversight was obstructed in detention and selectively narrowed in a politically sensitive inquiry.",
+            "why_exemplary": "These actions preserve formal process while frustrating its checking function, which is a core sign of bad-faith democratic practice.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Institutional capacity, neutrality, and public trust were weakened by politicized appointments, reduced accountability systems, and rougher use of official communication.",
+        "severity": "serious",
+        "institutional_response": "Courts protected some institutions and civil society created support and monitoring structures, but the week still pointed toward cumulative institutional thinning.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk73_stewardship_ex01",
+            "week": 73,
+            "event_ids": [
+              "wk73_IG_022",
+              "wk73_IG_023",
+              "wk73_IG_044"
+            ],
+            "developments": [
+              {
+                "development_id": "wk73_IG_022",
+                "development_label": "President announced Bill Pulte as acting Director of National Intelligence",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk73_IG_023",
+                "development_label": "President nominated Todd Blanche for attorney general",
+                "role": "secondary"
+              },
+              {
+                "development_id": "wk73_IG_044",
+                "development_label": "President nominated Jay Clayton as Director of National Intelligence",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Justice and intelligence leadership were reshaped around politically connected or loyalty-linked figures.",
+            "why_exemplary": "Stewardship fails when key institutions are staffed in ways that raise doubts about expertise, independence, and future credibility rather than preserving them.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk73_stewardship_ex02",
+            "week": 73,
+            "event_ids": [
+              "wk73_CRD_005",
+              "wk73_IMM_006"
+            ],
+            "developments": [
+              {
+                "development_id": "wk73_CRD_005",
+                "development_label": "ICE abandoned a policy requiring reports and investigations of detainee deaths within 30 days of release",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk73_IMM_006",
+                "development_label": "White House launched an 'Aliens' website portraying undocumented immigrants in dehumanizing terms",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Accountability systems were weakened while official messaging further degraded the civic tone of government.",
+            "why_exemplary": "Stewardship includes preserving trust and corrective capacity. Cutting death-reporting accountability and using dehumanizing state language damages both.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      }
+    ],
+    "norms_strengthened": [
+      {
+        "trait": "restraint",
+        "pattern": "Courts and legislators imposed limits on executive or surveillance power, keeping contested authority from expanding unchecked.",
+        "scope": "institutional",
+        "why_it_matters": "Democratic restraint is reinforced when other institutions insist that coercive or unilateral power remain reviewable and bounded.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk73_restraint_ex03",
+            "week": 73,
+            "event_ids": [
+              "wk73_IG_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk73_IG_011",
+                "development_label": "Judge Sorokin struck down the administration's $100,000 H-1B fee",
+                "role": "primary"
+              }
+            ],
+            "summary": "A court barred the executive from imposing a major fee without Congress.",
+            "why_exemplary": "This strengthened restraint by reaffirming that executive convenience does not substitute for legislative authority.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk73_restraint_ex04",
+            "week": 73,
+            "event_ids": [
+              "wk73_IG_037"
+            ],
+            "developments": [
+              {
+                "development_id": "wk73_IG_037",
+                "development_label": "House failed to pass a short-term extension of Section 702 of FISA",
+                "role": "primary"
+              }
+            ],
+            "summary": "The House did not renew surveillance powers amid oversight concerns.",
+            "why_exemplary": "Refusing automatic renewal of surveillance authority matters because restraint often depends on saying no to additional secret power until accountability concerns are addressed.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Courts and some public institutions defended the intended operation of review, insisting that contested executive actions remain answerable to law and record.",
+        "scope": "institutional",
+        "why_it_matters": "Good faith survives when institutions preserve the checking purpose of rules instead of allowing power to convert procedure into fait accompli.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk73_good_faith_ex03",
+            "week": 73,
+            "event_ids": [
+              "wk73_IG_046",
+              "wk73_IG_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk73_IG_046",
+                "development_label": "A federal judge extended the block on the anti-weaponization fund and later granted a preliminary injunction",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk73_IG_009",
+                "development_label": "A federal judge temporarily blocked the anti-weaponization fund earlier in the week",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Judges kept a contested executive fund from hardening into operational fact.",
+            "why_exemplary": "These rulings reinforced good faith by requiring the executive to remain within lawful purpose, sworn record, and judicial review.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk73_good_faith_ex04",
+            "week": 73,
+            "event_ids": [
+              "wk73_IG_017",
+              "wk73_IG_049"
+            ],
+            "developments": [
+              {
+                "development_id": "wk73_IG_017",
+                "development_label": "Kennedy Center removed Trump's name from its website after a court order",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk73_IG_049",
+                "development_label": "Judge Cooper denied a stay of the Kennedy Center injunction pending appeal",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A public institution complied with a court ruling limiting unauthorized executive influence.",
+            "why_exemplary": "Good faith is strengthened when institutions accept adverse rulings and preserve the lawful boundaries of governance rather than evading them.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Courts, watchdogs, and civic actors continued to preserve oversight capacity, transparency channels, and institutional memory under pressure.",
+        "scope": "public",
+        "why_it_matters": "Stewardship depends on keeping institutions reviewable and capable of correction even when officeholders do not self-limit.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk73_stewardship_ex03",
+            "week": 73,
+            "event_ids": [
+              "wk73_IG_040",
+              "wk73_IMM_015"
+            ],
+            "developments": [
+              {
+                "development_id": "wk73_IG_040",
+                "development_label": "Democracy Forward Foundation sued the FBI and DOJ for records about FBI Director Kash Patel's conduct",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk73_IMM_015",
+                "development_label": "Democratic lawmakers requested a GAO audit of Venezuelan oil proceeds",
+                "role": "secondary"
+              }
+            ],
+            "summary": "FOIA litigation and audit requests pushed to keep executive conduct documented and reviewable.",
+            "why_exemplary": "These actions matter because they preserve the record and oversight capacity that future correction depends on.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk73_stewardship_ex04",
+            "week": 73,
+            "event_ids": [
+              "wk73_CRD_016",
+              "wk73_CRD_013"
+            ],
+            "developments": [
+              {
+                "development_id": "wk73_CRD_016",
+                "development_label": "Former FBI agents formed the FBI Support Network for agents pushed out or pressured to resign",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk73_CRD_013",
+                "development_label": "Community organizers in Pacoima installed air-quality sensors for neighborhood monitoring",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Civic and professional actors built independent monitoring and support structures outside weakened official channels.",
+            "why_exemplary": "Stewardship is reinforced when communities and professionals preserve knowledge, monitoring, and institutional memory that formal systems are failing to protect.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      }
+    ],
+    "direction_of_movement": "eroding"
+  },
+  "cumulative_condition": {
+    "narrative": "This week fits the prior trajectory closely and deepens it. The earlier pattern of personalist, retaliatory, and opaque governance did not recede; it became more structured. The most important shift was not a new kind of abuse but the conversion of existing tendencies into durable arrangements: more funding for coercive enforcement, more pressure on procedural referees, more loyalty-sensitive appointments, and more routine use of official communication to stigmatize or mislead.\n\nCompared with the prior week, the same six traits remain under stress, but restraint, good faith, and stewardship appear especially strained because the pressure is moving from episodic overreach toward institutional entrenchment. Immigration enforcement gained a longer budget horizon, oversight was obstructed or selectively narrowed, and accountability systems around detention and records were weakened. Ethics also remains acutely vulnerable as family-linked business and public power continue to overlap without a visible restoring boundary.\n\nThe moral floor has not collapsed outright because courts, litigants, some legislators, journalists, and civic actors still imposed meaningful limits. But the cumulative condition remains deteriorating. Resilience is increasingly reactive rather than internal to officeholding itself. That means the republic is relying less on ethical self-limitation by leaders and more on after-the-fact resistance by institutions and the public.",
+    "trend": "deteriorating",
+    "stress_points": [
+      "long-horizon expansion of immigration enforcement power",
+      "pressure on nonpartisan procedural referees and legislative guardrails",
+      "conflict-of-interest signals involving presidential family business",
+      "obstruction or selective narrowing of oversight",
+      "routine disinformation and incomplete disclosure on public matters",
+      "politicized appointments in justice and intelligence",
+      "dehumanizing official language toward vulnerable groups",
+      "weakening accountability around detention harms"
+    ],
+    "sources_of_resilience": [
+      "federal courts blocking or narrowing contested executive actions",
+      "state, nonprofit, and civil-rights litigation preserving review",
+      "legislative resistance to some surveillance and spending expansions",
+      "watchdog and investigative reporting exposing secrecy and conflicts",
+      "FOIA suits and audit requests sustaining transparency pressure",
+      "civic protest and community monitoring efforts",
+      "public institutions complying with court orders"
+    ]
+  },
+  "risk_assessment": {
+    "level": "severe",
+    "justification": "Severe risk is warranted because this week’s breaches were broad, repeated, and increasingly structural. Ethics remained under heavy strain through reported overlap between policy decisions, public resources, and family-linked gain. Good faith weakened through attacks on procedural referees, efforts to use reconciliation for purposes outside its ordinary spirit, and obstruction or selective use of oversight. Truthfulness also deteriorated through election falsehoods, deleted disclosures, incomplete records release, and official communications that blurred propaganda with governance.\n\nThe risk is not best described as critical because the digest still shows meaningful resistance with real effect. Courts blocked the anti-weaponization fund, struck down an unlawful fee, protected vulnerable prisoners, kept limits in force at the Kennedy Center, and defended an independent institution from politically driven pressure. The House also failed to renew surveillance powers, and numerous suits, audits, and records actions kept review alive. But those defenses were fragmented and reactive. If the current pattern continues, further erosion is likely because coercive capacity is being endowed for the long term while the burden of maintaining the moral floor falls increasingly on institutions forced to contest one breach at a time.",
+    "forward_signals": [
+      "whether new immigration funding is paired with further oversight restrictions",
+      "additional efforts to sideline procedural referees or stretch reconciliation rules",
+      "further loyalty-based appointments in justice, intelligence, or enforcement posts",
+      "continued use of federal leverage against disfavored states or cities",
+      "whether courts continue to require sworn records and timely compliance",
+      "escalation of official dehumanizing rhetoric or manipulated government messaging",
+      "new disclosures linking policy decisions to family or allied business interests",
+      "whether incomplete records releases and deleted public notices become routine"
+    ]
+  }
+}

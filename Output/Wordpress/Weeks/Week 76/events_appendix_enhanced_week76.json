@@ -1,0 +1,700 @@
+{
+  "schema": "dc_events_appendix_enhanced_v1",
+  "intended_use": "wordpress_seed_only",
+  "do_not_use_for": [
+    "step3",
+    "step4",
+    "step5",
+    "step6",
+    "step7",
+    "substack",
+    "scrivener",
+    "vellum"
+  ],
+  "week": 76,
+  "generated_at": "2026-07-04T16:12:15+10:00",
+  "source_artifacts": {
+    "appendix_full": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Weeks/Week 76/events_appendix_full_week76.json",
+    "master_index": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Master Event Logs/master_index_week76_2026-06-27_2026-07-03.json"
+  },
+  "stats": {
+    "events_total": 22,
+    "matched_by_event_id": 22,
+    "unmatched": 0,
+    "events_with_multiple_sources": 0
+  },
+  "events": [
+    {
+      "attacks": [
+        "elections",
+        "economy"
+      ],
+      "date": "2026-06-27",
+      "domain": null,
+      "event_id": "wk076-0001",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "President Trump canceled the signing of the 21st Century ROAD to Housing Act, a bipartisan housing reform bill, demanding that Congress first pass his proof-of-citizenship voting bill, the SAVE America Act. The housing bill, which aims to limit large institutional investors from buying single-family homes and ease construction rules, was passed with overwhelming support in both the Senate and the House. The bill will become law without the president's signature if not vetoed within ten days, provided Congress remains in session.",
+      "title": "President Trump cancels signing of bipartisan housing bill",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.2,
+          "trait_id": "executive_power_operates_without_effective_oversight",
+          "trait_name": "Executive power operates without effective oversight",
+          "trait_number": 1
+        },
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.2,
+          "trait_id": "law_is_weapon_not_limit",
+          "trait_name": "Law is a weapon of the state, not a limit on its power",
+          "trait_number": 4
+        },
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.2,
+          "trait_id": "legislatures_as_performance_not_deliberation",
+          "trait_name": "Legislatures function as performance, not deliberation",
+          "trait_number": 15
+        },
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.2,
+          "trait_id": "voter_suppression_rationalized_as_integrity",
+          "trait_name": "Voter suppression is rationalized as election integrity",
+          "trait_number": 45
+        }
+      ],
+      "why_relevant": "The president's action uses housing relief as leverage to push a restrictive voting agenda, impacting legislative processes and housing policy.",
+      "provenance": [
+        {
+          "source_key": "50501",
+          "source_name": "50501",
+          "source_url": "https://www.the50501movement.org/p/50501-friday-briefing-june-26-2026",
+          "origin_file": "50501_events_2026-06-13_2026-07-03.json",
+          "origin_index": 0
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [],
+      "date": "2026-06-27",
+      "domain": null,
+      "event_id": "wk076-0002",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "In response to the massive warehouse fire in Boyle Heights, Los Angeles Mayor Karen Bass announced plans to sign an executive order to mobilize additional resources for the cleanup of the site. The fire, which burned for a week, resulted in the loss of approximately 40 million pounds of frozen food, creating significant health and environmental concerns for local residents. The executive order aims to expedite the cleanup process and address the pervasive smell and potential health risks associated with the rotting food.",
+      "title": "Los Angeles Mayor Plans Executive Order for Cleanup Resources",
+      "traits": [],
+      "why_relevant": "The executive order is significant as it represents a governmental response to a public health and environmental crisis, aiming to mitigate the impact on the affected community.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2026/jun/27/boyle-heights-warehouse-fire-smell-los-angeles",
+          "origin_file": "guardian_events_2026-06-13_2026-07-03.json",
+          "origin_index": 2
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "presidency",
+        "public_memory"
+      ],
+      "date": "2026-06-27",
+      "domain": null,
+      "event_id": "wk076-0003",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "The White House has unveiled new images of a commemorative US passport, dubbed the \"patriot passport,\" featuring a portrait of Donald Trump. This limited-edition passport is set to be issued at the Washington Passport Agency starting July 6, 2026, to mark America's 250th anniversary. The passport includes a three-quarter-length portrait of Trump and decorative elements such as a \"Freedom 250\" gold flag. The initiative has faced criticism from Democrats, who argue that it is more fitting for a monarchy than a democracy.",
+      "title": "White House unveils new 'patriot passports' featuring Trump's portrait",
+      "traits": [
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.2,
+          "trait_id": "public_funds_for_glorification_and_symbolic_dominance",
+          "trait_name": "Public funds are used for personal glorification and symbolic dominance",
+          "trait_number": 24
+        },
+        {
+          "category": "Information, Memory, & Manipulation",
+          "delta_p": 0.1,
+          "trait_id": "national_history_rewritten_to_glorify_conquest",
+          "trait_name": "National history is rewritten to glorify conquest, not justice",
+          "trait_number": 56
+        }
+      ],
+      "why_relevant": "The issuance of a passport featuring a sitting president's portrait raises concerns about the personalization of government symbols and the potential erosion of democratic norms.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2026/jun/27/trump-america-250-passports-democrats",
+          "origin_file": "guardian_events_2026-06-13_2026-07-03.json",
+          "origin_index": 0
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "voting"
+      ],
+      "date": "2026-06-27",
+      "domain": null,
+      "event_id": "wk076-0004",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "President Trump announced that he would not sign any further legislation until the Senate passed the Safeguard American Voter Eligibility Act (SAVE Act), which aims to limit voting ahead of the 2026 election. This demand was made following a lunch meeting where he expressed frustration with Senate Republicans.",
+      "title": "Trump Demands Passage of SAVE Act",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.2,
+          "trait_id": "executive_power_operates_without_effective_oversight",
+          "trait_name": "Executive power operates without effective oversight",
+          "trait_number": 1
+        },
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.2,
+          "trait_id": "law_is_weapon_not_limit",
+          "trait_name": "Law is a weapon of the state, not a limit on its power",
+          "trait_number": 4
+        },
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.2,
+          "trait_id": "legislatures_as_performance_not_deliberation",
+          "trait_name": "Legislatures function as performance, not deliberation",
+          "trait_number": 15
+        },
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.2,
+          "trait_id": "voter_suppression_rationalized_as_integrity",
+          "trait_name": "Voter suppression is rationalized as election integrity",
+          "trait_number": 45
+        }
+      ],
+      "why_relevant": "Trump's demand to limit voting rights raises concerns about the integrity of the electoral process and the potential erosion of democratic norms.",
+      "provenance": [
+        {
+          "source_key": "hcr",
+          "source_name": "hcr",
+          "source_url": "https://www.washingtonpost.com/politics/2026/06/26/trump-tries-out-midterms-message-that-focuses-communists/",
+          "origin_file": "hcr_events_2026-06-13_2026-07-03.json",
+          "origin_index": 1
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [],
+      "date": "2026-06-27",
+      "domain": null,
+      "event_id": "wk076-0005",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "On June 26, 2026, Senate Republicans voted against advancing a war powers resolution, which had been passed the day before, in an apparent effort to appease President Trump after he refused to sign a bipartisan housing bill. This action reflects the increasing influence of Trump over the Republican Party and the party's alignment with his agenda.",
+      "title": "Senate Republicans Vote Against War Powers Resolution",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.2,
+          "trait_id": "executive_power_operates_without_effective_oversight",
+          "trait_name": "Executive power operates without effective oversight",
+          "trait_number": 1
+        },
+        {
+          "category": "Institutions & Governance",
+          "delta_p": 0.2,
+          "trait_id": "legislatures_as_performance_not_deliberation",
+          "trait_name": "Legislatures function as performance, not deliberation",
+          "trait_number": 15
+        }
+      ],
+      "why_relevant": "This vote illustrates the Republican Party's shift towards prioritizing loyalty to Trump over legislative independence, impacting the functioning of Congress.",
+      "provenance": [
+        {
+          "source_key": "hcr",
+          "source_name": "hcr",
+          "source_url": "https://www.nbcnews.com/politics/congress/senate-republicans-reject-war-powers-resolution-trump-cassidy-clash-rcna351703",
+          "origin_file": "hcr_events_2026-06-13_2026-07-03.json",
+          "origin_index": 0
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "immigrants_refugees",
+        "rule_of_law",
+        "minorities"
+      ],
+      "date": "2026-06-27",
+      "domain": null,
+      "event_id": "wk076-0006",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "On Thursday, the U.S. Supreme Court ruled 6-3 to end Temporary Protected Status (TPS) for approximately 350,000 Haitians and several thousand Syrians residing in the United States. This decision pauses previous rulings by courts in New York and Washington D.C. that had temporarily blocked the Trump administration from terminating TPS for these groups. The ruling has sparked fear among affected communities, as they face potential deportation by Immigration and Customs Enforcement (ICE). The decision has been criticized for advancing a discriminatory agenda and threatens the stability of communities like Springfield, Ohio, where many Haitians reside.",
+      "title": "Supreme Court Ruling Ends TPS for Haitians and Syrians",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.2,
+          "trait_id": "law_is_weapon_not_limit",
+          "trait_name": "Law is a weapon of the state, not a limit on its power",
+          "trait_number": 4
+        },
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.2,
+          "trait_id": "citizenship_stratified_by_wealth_ideology_heritage",
+          "trait_name": "Citizenship is stratified by wealth, ideology, and heritage",
+          "trait_number": 47
+        }
+      ],
+      "why_relevant": "This ruling significantly impacts the legal status and future of hundreds of thousands of immigrants, affecting their rights and livelihoods in the U.S.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2026/jun/27/haitians-ohio-supreme-court-ruling",
+          "origin_file": "guardian_events_2026-06-13_2026-07-03.json",
+          "origin_index": 3
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "immigrants_refugees"
+      ],
+      "date": "2026-06-27",
+      "domain": null,
+      "event_id": "wk076-0007",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "On June 25, 2026, the Supreme Court ruled that the Trump administration could end the temporary protected status (TPS) for over 350,000 individuals from Syria and Haiti, who had fled violence and war. The decision was based on procedural grounds, but it has been interpreted by Trump supporters as a validation of their nationalist agenda.",
+      "title": "Supreme Court Allows End of TPS for 350,000 Individuals",
+      "traits": [
+        {
+          "category": "Power & Authority",
+          "delta_p": 0.2,
+          "trait_id": "law_is_weapon_not_limit",
+          "trait_name": "Law is a weapon of the state, not a limit on its power",
+          "trait_number": 4
+        },
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.2,
+          "trait_id": "citizenship_stratified_by_wealth_ideology_heritage",
+          "trait_name": "Citizenship is stratified by wealth, ideology, and heritage",
+          "trait_number": 47
+        }
+      ],
+      "why_relevant": "This ruling impacts the legal status and rights of vulnerable populations, reflecting a shift towards more restrictive immigration policies.",
+      "provenance": [
+        {
+          "source_key": "hcr",
+          "source_name": "hcr",
+          "source_url": "https://www.politico.com/news/2026/06/25/supreme-court-temporary-protected-status-ruling-00975658",
+          "origin_file": "hcr_events_2026-06-13_2026-07-03.json",
+          "origin_index": 2
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [],
+      "date": "2026-06-27",
+      "domain": null,
+      "event_id": "wk076-0008",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "In the recent New York Democratic primary elections, progressive candidates who oppose U.S. support for Israel and criticize the American Israel Public Affairs Committee (Aipac) achieved significant victories. Brad Lander, Darializa Avila Chevalier, and Claire Valdez won their respective races, defeating incumbents or establishment-backed candidates. These wins highlight a shift within the Democratic Party, as candidates critical of Israel's actions in Gaza gain traction. The results are expected to influence the party's stance on U.S.-Israel relations and impact upcoming elections.",
+      "title": "New York Democratic Primary Results",
+      "traits": [],
+      "why_relevant": "The election results indicate a growing influence of progressive voices within the Democratic Party, potentially reshaping its foreign policy stance.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2026/jun/27/israel-democrats-palestinians",
+          "origin_file": "guardian_events_2026-06-13_2026-07-03.json",
+          "origin_index": 1
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [],
+      "date": "2026-06-27",
+      "domain": null,
+      "event_id": "wk076-0009",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "A coalition including 50501 and the Women’s March is organizing a national day of action on June 27, called \"All of U.S. 250,\" to mark the 250th anniversary of the United States. The event aims to highlight the struggles for equality and justice throughout American history, with a main mobilization in Washington and local actions nationwide. The initiative also includes a project called \"Letters to America\" for those unable to participate in person.",
+      "title": "National day of action planned for U.S. 250th anniversary",
+      "traits": [],
+      "why_relevant": "The event promotes civic engagement and historical awareness, encouraging public participation in democracy.",
+      "provenance": [
+        {
+          "source_key": "50501",
+          "source_name": "50501",
+          "source_url": "https://www.the50501movement.org/p/50501-friday-briefing-june-26-2026",
+          "origin_file": "50501_events_2026-06-13_2026-07-03.json",
+          "origin_index": 3
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [],
+      "date": "2026-06-27",
+      "domain": null,
+      "event_id": "wk076-0010",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "On June 27, 2026, Americans across the country will participate in \"All of U.S. 250,\" a national day of action organized by the 50501 Movement and its partners. This event aims to highlight the full history of the United States, countering the administration's \"Freedom 250\" program, which is criticized for presenting an incomplete narrative of American history. The day will feature marches, rallies, and gatherings nationwide, emphasizing the struggles and achievements of various groups in American history, including abolitionists, suffragists, civil rights activists, and others.",
+      "title": "National Day of Action: All of U.S. 250",
+      "traits": [],
+      "why_relevant": "This event represents a significant mobilization effort to advocate for a comprehensive understanding of American history and to challenge narratives that omit the struggles for civil rights and equality.",
+      "provenance": [
+        {
+          "source_key": "50501",
+          "source_name": "50501",
+          "source_url": "https://www.the50501movement.org/p/announcement-all-of-us-250-june-27th",
+          "origin_file": "50501_events_2026-05-02_2026-05-15.json",
+          "origin_index": 14
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [],
+      "date": "2026-06-27",
+      "domain": null,
+      "event_id": "wk076-0011",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "Next250, a grassroots organization, launched the Declaration of Interdependence, an art installation in Washington DC's McPherson Square. This installation aims to highlight collective values for America's future, such as economic security, healthcare, and environmental sustainability. The event coincides with the Trump administration's Freedom 250 celebration, which Next250 organizers criticize as a partisan spectacle. The Declaration of Interdependence is part of a broader movement to emphasize the importance of constitutional protections and the rights of ordinary people.",
+      "title": "Launch of Next250's Declaration of Interdependence Art Installation",
+      "traits": [],
+      "why_relevant": "This event underscores the ongoing struggle for constitutional rights and the role of grassroots movements in shaping America's future.",
+      "provenance": [
+        {
+          "source_key": "guardian",
+          "source_name": "The Guardian",
+          "source_url": "https://www.theguardian.com/us-news/2026/jun/27/next250-declaration-of-interdependence-art-gallery",
+          "origin_file": "guardian_events_2026-06-13_2026-07-03.json",
+          "origin_index": 4
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "minorities"
+      ],
+      "date": "2026-06-27",
+      "domain": null,
+      "event_id": "wk076-0012",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "During a town hall meeting on June 26, 2026, Representative Tom Emmer (R-MN) made inflammatory comments regarding the Somali community, suggesting that those who do not assimilate should \"go the hell back to where they came from.\" His remarks highlight the growing acceptance of white nationalist rhetoric within the Republican Party.",
+      "title": "Representative Emmer Makes Controversial Remarks",
+      "traits": [
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.1,
+          "trait_id": "dissenters_labeled_unpatriotic_subversive_or_corrupt",
+          "trait_name": "Dissenters are labeled unpatriotic, subversive, or corrupt",
+          "trait_number": 49
+        }
+      ],
+      "why_relevant": "Emmer's comments reflect a broader trend of xenophobia and racism in political discourse, undermining the principles of inclusivity and diversity in American society.",
+      "provenance": [
+        {
+          "source_key": "hcr",
+          "source_name": "hcr",
+          "source_url": "https://www.cbsnews.com/minnesota/news/rep-tom-emmer-says-somalis-who-dont-assimilate-should-go-the-hell-back-to-where-they-came-from/",
+          "origin_file": "hcr_events_2026-06-13_2026-07-03.json",
+          "origin_index": 3
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [
+        "truth"
+      ],
+      "date": "2026-06-27",
+      "domain": null,
+      "event_id": "wk076-0013",
+      "has_trait": true,
+      "source_name": null,
+      "source_url": null,
+      "summary": "In a speech to the Faith & Freedom Coalition on June 26, 2026, President Trump referred to Democrats as \"hard core, godless communists,\" escalating his rhetoric against political opponents. This statement is part of his strategy to galvanize support ahead of the midterm elections.",
+      "title": "Trump Labels Democrats as \"Communists\"",
+      "traits": [
+        {
+          "category": "Civil Rights & Dissent",
+          "delta_p": 0.1,
+          "trait_id": "dissenters_labeled_unpatriotic_subversive_or_corrupt",
+          "trait_name": "Dissenters are labeled unpatriotic, subversive, or corrupt",
+          "trait_number": 49
+        }
+      ],
+      "why_relevant": "Trump's labeling of opponents as communists serves to polarize the political landscape and undermine constructive political discourse.",
+      "provenance": [
+        {
+          "source_key": "hcr",
+          "source_name": "hcr",
+          "source_url": "https://www.washingtonpost.com/politics/2026/06/26/trump-tries-out-midterms-message-that-focuses-communists/",
+          "origin_file": "hcr_events_2026-06-13_2026-07-03.json",
+          "origin_index": 4
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [],
+      "date": "2026-06-27",
+      "domain": null,
+      "event_id": "wk076-0014",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "A recent survey by the Brennan Center revealed that 92% of Americans are worried about corruption in government, with a significant majority supporting a constitutional amendment to limit money in elections. This reflects widespread dissatisfaction with the current political system.",
+      "title": "Public Concern Over Government Corruption",
+      "traits": [],
+      "why_relevant": "The high level of concern about corruption indicates a demand for reform and accountability in government, essential for a functioning democracy.",
+      "provenance": [
+        {
+          "source_key": "hcr",
+          "source_name": "hcr",
+          "source_url": "https://www.brennancenter.org/our-work/analysis-opinion/poll-voters-want-solutions-government-corruption",
+          "origin_file": "hcr_events_2026-06-13_2026-07-03.json",
+          "origin_index": 5
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [],
+      "date": "2026-06-29",
+      "domain": null,
+      "event_id": "wk076-0015",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "The Environmental Protection Agency (EPA) issued a correction to its previous cancellation order for certain pesticide registrations and amendments to terminate uses. The correction removes three products (70060-12, 70060-13, 70060-32) from the cancellation list, as their registrant withdrew the cancellation requests. This action is effective June 29, 2026, and follows a February 10, 2026, Federal Register notice. The correction ensures accurate representation of products subject to cancellation under the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA).",
+      "title": "EPA Corrects Pesticide Cancellation Order",
+      "traits": [],
+      "why_relevant": "This correction affects the regulatory landscape for pesticide use, impacting environmental and agricultural stakeholders by clarifying which products remain subject to cancellation.",
+      "provenance": [
+        {
+          "source_key": "federalregister",
+          "source_name": "federalregister",
+          "source_url": "https://www.federalregister.gov/documents/2026/06/29/2026-13051/correction-cancellation-order-for-certain-pesticide-registrations-andor-amendments-to-terminate-uses",
+          "origin_file": "federalregister_events_2026-06-13_2026-07-03.json",
+          "origin_index": 20
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [],
+      "date": "2026-06-29",
+      "domain": null,
+      "event_id": "wk076-0016",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "The Environmental Protection Agency (EPA) announced receipt of requests from registrants to voluntarily cancel certain pesticide registrations or amend them to terminate specific uses. The EPA will consider public comments until July 29, 2026, before deciding on these requests. If approved, the EPA will issue an order in the Federal Register to cancel or amend the registrations, affecting the sale, distribution, and use of the listed products.",
+      "title": "EPA Receives Requests to Cancel or Amend Pesticide Registrations",
+      "traits": [],
+      "why_relevant": "This action impacts regulatory oversight of pesticide use, affecting environmental and public health standards.",
+      "provenance": [
+        {
+          "source_key": "federalregister",
+          "source_name": "federalregister",
+          "source_url": "https://www.federalregister.gov/documents/2026/06/29/2026-13066/pesticides-notice-of-receipt-of-requests-to-voluntarily-cancel-certain-pesticide-registrations-andor",
+          "origin_file": "federalregister_events_2026-06-13_2026-07-03.json",
+          "origin_index": 19
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [],
+      "date": "2026-06-29",
+      "domain": null,
+      "event_id": "wk076-0017",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "The Environmental Protection Agency (EPA) has issued a notice seeking public comments on the proposed extension of the Renewable Fuel Standard (RFS) Program's information collection request. This extension covers standards for 2023-2025 and other changes, including biogas-derived renewable fuel requirements and recordkeeping for waste feedstocks. The comment period is open until August 28, 2026, and aims to evaluate the necessity and utility of the information collection, as well as minimize the burden on respondents.",
+      "title": "EPA Solicits Comments on Renewable Fuel Standard Program",
+      "traits": [],
+      "why_relevant": "This action affects the regulatory framework for renewable fuels, impacting environmental policy and industry compliance.",
+      "provenance": [
+        {
+          "source_key": "federalregister",
+          "source_name": "federalregister",
+          "source_url": "https://www.federalregister.gov/documents/2026/06/29/2026-13077/agency-information-collection-activities-proposed-information-collection-request-comment-request",
+          "origin_file": "federalregister_events_2026-06-13_2026-07-03.json",
+          "origin_index": 18
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [],
+      "date": "2026-06-29",
+      "domain": null,
+      "event_id": "wk076-0018",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "The Food and Drug Administration (FDA) announced a public advisory committee meeting of the Cellular, Tissue, and Gene Therapies Advisory Committee to discuss Biologics License Application 125842 from Capricor, Inc. for Deramiocel. The meeting will be held online on July 29, 2026, and will be open for public comments until July 28, 2026. The committee will provide advice and recommendations on regulatory issues related to the application.",
+      "title": "FDA Announces Advisory Committee Meeting for Biologics License Application",
+      "traits": [],
+      "why_relevant": "This meeting is significant as it involves regulatory review and public input on a new biologic therapy, impacting healthcare and regulatory practices.",
+      "provenance": [
+        {
+          "source_key": "federalregister",
+          "source_name": "federalregister",
+          "source_url": "https://www.federalregister.gov/documents/2026/06/29/2026-13096/cellular-tissue-and-gene-therapies-advisory-committee-notice-of-meeting-establishment-of-a-public",
+          "origin_file": "federalregister_events_2026-06-13_2026-07-03.json",
+          "origin_index": 65
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [],
+      "date": "2026-06-29",
+      "domain": null,
+      "event_id": "wk076-0019",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "The Food and Drug Administration (FDA) has classified the medial knee implanted shock absorber into class II, with special controls, effective June 29, 2026. This classification aims to ensure the device's safety and effectiveness while reducing regulatory burdens, thereby enhancing patient access to innovative orthopedic devices. The device is intended to alleviate osteoarthritis symptoms by reducing loads on the medial joint surface. The classification includes specific requirements for clinical data, non-clinical performance testing, biocompatibility, sterility, and labeling.",
+      "title": "FDA Classifies Medial Knee Implanted Shock Absorber as Class II Device",
+      "traits": [],
+      "why_relevant": "This classification facilitates the introduction of new medical devices, potentially improving patient care and access to advanced treatments.",
+      "provenance": [
+        {
+          "source_key": "federalregister",
+          "source_name": "federalregister",
+          "source_url": "https://www.federalregister.gov/documents/2026/06/29/2026-13101/medical-devices-orthopedic-devices-classification-of-the-medial-knee-implanted-shock-absorber",
+          "origin_file": "federalregister_events_2026-06-13_2026-07-03.json",
+          "origin_index": 64
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [],
+      "date": "2026-06-29",
+      "domain": null,
+      "event_id": "wk076-0020",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "The Food and Drug Administration (FDA) has determined the regulatory review period for the drug VYALEV, which is used to treat motor fluctuations in adults with advanced Parkinson's disease. The review period totals 2,871 days, with 1,989 days in the testing phase and 882 days in the approval phase. This determination is part of the process for patent term extension applications submitted to the U.S. Patent and Trademark Office by AbbVie Inc. The public can comment on this determination until December 28, 2026.",
+      "title": "FDA Determines Regulatory Review Period for VYALEV",
+      "traits": [],
+      "why_relevant": "This determination affects the patent extension process, impacting the economic interests of the pharmaceutical company and the availability of the drug.",
+      "provenance": [
+        {
+          "source_key": "federalregister",
+          "source_name": "federalregister",
+          "source_url": "https://www.federalregister.gov/documents/2026/06/29/2026-13006/determination-of-regulatory-review-period-for-purposes-of-patent-extension-vyalev",
+          "origin_file": "federalregister_events_2026-06-13_2026-07-03.json",
+          "origin_index": 66
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [],
+      "date": "2026-06-29",
+      "domain": null,
+      "event_id": "wk076-0021",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "The Food and Drug Administration (FDA) announced the submission of a proposed information collection to the Office of Management and Budget (OMB) for review. This collection pertains to new animal drugs for minor use and minor species, under the Paperwork Reduction Act of 1995. The FDA seeks public comments by July 29, 2026, on the collection requirements, which support the implementation of sections 572 and 573 of the Federal Food, Drug, and Cosmetic Act. These regulations aim to encourage the development of new animal drugs while ensuring safety for animal and human health.",
+      "title": "FDA Submits Information Collection Request for New Animal Drugs",
+      "traits": [],
+      "why_relevant": "This action affects regulatory processes for animal drug approval, impacting pharmaceutical companies and veterinary practices.",
+      "provenance": [
+        {
+          "source_key": "federalregister",
+          "source_name": "federalregister",
+          "source_url": "https://www.federalregister.gov/documents/2026/06/29/2026-13005/agency-information-collection-activities-submission-for-office-of-management-and-budget-review",
+          "origin_file": "federalregister_events_2026-06-13_2026-07-03.json",
+          "origin_index": 67
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    },
+    {
+      "attacks": [],
+      "date": "2026-06-29",
+      "domain": null,
+      "event_id": "wk076-0022",
+      "has_trait": false,
+      "note": "No traits were assigned to this event in this Step 3 run. In practice, this usually means the movement for this week was absorbed into other, more consequential events.",
+      "source_name": null,
+      "source_url": null,
+      "summary": "The Centers for Disease Control and Prevention (CDC) announced the renewal of the charter for the Advisory Committee on Breast Cancer in Young Women. This renewal extends the committee's charter for two years, through June 17, 2028. The committee advises on issues related to breast cancer in young women, providing guidance and recommendations to the CDC.",
+      "title": "Advisory Committee on Breast Cancer in Young Women Charter Renewal",
+      "traits": [],
+      "why_relevant": "The renewal of this advisory committee's charter ensures continued expert guidance on breast cancer issues affecting young women, impacting public health policy and awareness.",
+      "provenance": [
+        {
+          "source_key": "federalregister",
+          "source_name": "federalregister",
+          "source_url": "https://www.federalregister.gov/documents/2026/06/29/2026-13049/advisory-committee-on-breast-cancer-in-young-women-notice-of-charter-renewal",
+          "origin_file": "federalregister_events_2026-06-13_2026-07-03.json",
+          "origin_index": 56
+        }
+      ],
+      "join_status": "matched_by_event_id"
+    }
+  ]
+}

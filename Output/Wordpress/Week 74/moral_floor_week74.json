@@ -1,0 +1,525 @@
+{
+  "week_number": 74,
+  "period_label": "Week 74 – 2026-06-13–2026-06-19",
+  "window": {
+    "start": "2026-06-13",
+    "end": "2026-06-19"
+  },
+  "clock_time_public": "8:14 p.m.",
+  "clock_delta_minutes": 0.0,
+  "baseline_traits": [
+    {
+      "name": "character",
+      "definition": "Internal discipline to align words with deeds, to place public duty ahead of personal gain, and to honour the oath of office even when it conflicts with short-term advantage."
+    },
+    {
+      "name": "ethics",
+      "definition": "Commitment to keep a firm boundary between public power and private interest, avoiding conflicts of interest, self-dealing, and the use of office to enrich oneself, family, or allies."
+    },
+    {
+      "name": "restraint",
+      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+    },
+    {
+      "name": "truthfulness",
+      "definition": "Obligation to speak accurately on matters of public consequence, avoid deliberate disinformation, correct false statements, and ensure that citizens are not governed by manufactured unreality."
+    },
+    {
+      "name": "good_faith",
+      "definition": "Adherence to the spirit as well as the letter of democratic rules, keeping promises, respecting outcomes, and avoiding procedural manipulation that defeats the purpose of the law."
+    },
+    {
+      "name": "stewardship",
+      "definition": "Responsibility to maintain and strengthen institutions so they can serve future generations as well as the present, avoiding actions that permanently damage capacity, credibility, or public trust."
+    }
+  ],
+  "weekly_audit": {
+    "summary": "The week showed continued ethical erosion through ordinary governing tools rather than a single rupture. Public power was repeatedly used in ways that widened discretion, weakened accountability, and blurred the line between office, spectacle, and private advantage. At the same time, courts, some legislatures, archives, advisory bodies, and local resistance still imposed meaningful checks. The moral floor therefore held in contested form, but the dominant pattern was normalization of breaches rather than restoration of self-limiting democratic conduct.",
+    "norms_broken": [
+      {
+        "trait": "character",
+        "pattern": "Senior officeholders again appeared to treat public authority as a vehicle for loyalty, prestige, or political advantage rather than impartial public duty.",
+        "severity": "serious",
+        "institutional_response": "Some courts and litigants checked adjacent abuses, but the week’s loyalty- and prestige-driven choices were not directly reversed.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk74_character_ex01",
+            "week": 74,
+            "event_ids": [
+              "wk74_PA_007"
+            ],
+            "developments": [
+              {
+                "development_id": "wk74_PA_007",
+                "development_label": "President appointed Bill Pulte as acting director of national intelligence",
+                "role": "primary"
+              }
+            ],
+            "summary": "A political loyalist without intelligence experience was placed atop the intelligence community.",
+            "why_exemplary": "Character requires honoring public duty over personal loyalty. Installing an inexperienced loyalist in a sensitive national-security role suggests allegiance to the center outweighed institutional obligation.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk74_character_ex02",
+            "week": 74,
+            "event_ids": [
+              "wk74_PA_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk74_PA_005",
+                "development_label": "Administration redirected $352 million to build a White House ballroom",
+                "role": "primary"
+              }
+            ],
+            "summary": "Appropriated federal money was redirected toward a White House prestige project.",
+            "why_exemplary": "Using public funds for executive image-building rather than their stated purpose indicates public duty yielding to personal or symbolic advantage.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "The boundary between public office and private or family-linked benefit remained weak, especially where state prestige, contracting, and commercial products overlapped.",
+        "severity": "extreme",
+        "institutional_response": "A judge allowed one contested use of public property to proceed, leaving deeper conflict-of-interest questions unresolved; scrutiny came mainly from reporting and litigation pressure.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk74_ethics_ex01",
+            "week": 74,
+            "event_ids": [
+              "wk74_ES_003",
+              "wk74_IG_003"
+            ],
+            "developments": [
+              {
+                "development_id": "wk74_ES_003",
+                "development_label": "UFC planned fighter bonuses in stablecoins issued by a Trump family business",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk74_IG_003",
+                "development_label": "Judge denied emergency bid to block a UFC event at the White House",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A White House-linked spectacle was tied to a Trump family financial product.",
+            "why_exemplary": "Ethics is breached when official setting and presidential prominence create commercial opportunity for family-linked business, collapsing the line between public power and private gain.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk74_ethics_ex02",
+            "week": 74,
+            "event_ids": [
+              "wk74_PA_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk74_PA_002",
+                "development_label": "Administration awarded a no-bid Lincoln Memorial reflecting pool contract",
+                "role": "primary"
+              }
+            ],
+            "summary": "A no-bid public works contract raised accountability and conflict-of-interest concerns.",
+            "why_exemplary": "No-bid contracting tied to insider networks weakens the ethical boundary against favoritism and self-dealing in the use of public funds.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "Officials repeatedly expanded coercive or discretionary power without adding corresponding guardrails, especially in immigration and fiscal control.",
+        "severity": "serious",
+        "institutional_response": "Courts reviewed some detention and election disputes, the House asserted war-powers limits, and local resistance altered one detention plan, but the initiating pattern remained expansive.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk74_restraint_ex01",
+            "week": 74,
+            "event_ids": [
+              "wk74_PA_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk74_PA_001",
+                "development_label": "President signed law providing about $70 billion for ICE, Border Patrol, and DHS without new accountability measures",
+                "role": "primary"
+              }
+            ],
+            "summary": "Immigration enforcement capacity grew sharply without new oversight safeguards.",
+            "why_exemplary": "Restraint weakens when government enlarges coercive capacity while declining to build stronger accountability into that expansion.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk74_restraint_ex02",
+            "week": 74,
+            "event_ids": [
+              "wk74_PA_003",
+              "wk74_PA_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk74_PA_003",
+                "development_label": "Department of Labor threatened to withhold unemployment administration funds from states",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk74_PA_005",
+                "development_label": "Administration redirected appropriated funds to a White House ballroom",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Administrative and fiscal leverage was used aggressively against states and appropriations norms.",
+            "why_exemplary": "These actions show willingness to press available power to its edge rather than self-limit in deference to federal-state balance and congressional spending purpose.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "Election administration and political influence were shaped through misleading presentation and trust-eroding rule changes rather than clear, candid public justification.",
+        "severity": "concerning",
+        "institutional_response": "Election-order challenges were allowed to proceed in court, and an elections director in Alaska acted to protect ballot clarity, but the week still showed manipulation of voter understanding.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk74_truthfulness_ex01",
+            "week": 74,
+            "event_ids": [
+              "wk74_CRD_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk74_CRD_002",
+                "development_label": "GOP-linked PAC was presented as a progressive group in Democratic primaries",
+                "role": "primary"
+              }
+            ],
+            "summary": "A partisan PAC disguised its identity to influence Democratic primary voters.",
+            "why_exemplary": "Truthfulness requires citizens not be governed by manufactured unreality. Concealing the true source of campaign influence directly misleads voters about who is speaking to them.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk74_truthfulness_ex02",
+            "week": 74,
+            "event_ids": [
+              "wk74_IMM_003"
+            ],
+            "developments": [
+              {
+                "development_id": "wk74_IMM_003",
+                "development_label": "North Carolina Board of Elections introduced new election rules criticized as undermining election integrity",
+                "role": "primary"
+              }
+            ],
+            "summary": "Election rule changes were framed as integrity measures while risking weaker public trust.",
+            "why_exemplary": "When election changes are justified in integrity language but plausibly weaken confidence and fairness, public understanding is shaped through misleading framing rather than transparent reasoning.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Rules and institutions were increasingly used in ways that preserved formal legality while frustrating the democratic purpose of fair participation, neutral enforcement, and nonretaliatory governance.",
+        "severity": "serious",
+        "institutional_response": "Courts kept some election and detention challenges alive and found likely retaliation in one ICE case, but many pressures moved through ordinary legislative and prosecutorial channels.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk74_good_faith_ex01",
+            "week": 74,
+            "event_ids": [
+              "wk74_IG_004",
+              "wk74_IG_005",
+              "wk74_CRD_019"
+            ],
+            "developments": [
+              {
+                "development_id": "wk74_IG_004",
+                "development_label": "North Carolina leaders introduced HB 958 tightening election rules and partisan control",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk74_IG_005",
+                "development_label": "North Carolina lawmakers proposed shortening early voting",
+                "role": "secondary"
+              },
+              {
+                "development_id": "wk74_CRD_019",
+                "development_label": "North Carolina lawmakers advanced or considered bills that could dilute Black voting power",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Election changes clustered to narrow access and increase partisan leverage over administration.",
+            "why_exemplary": "Good faith requires respecting the spirit of democratic participation. A package of technical rule changes that reduces access and increases partisan control defeats that purpose while retaining formal procedure.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk74_good_faith_ex02",
+            "week": 74,
+            "event_ids": [
+              "wk74_CRD_011",
+              "wk74_CRD_008",
+              "wk74_IG_027"
+            ],
+            "developments": [
+              {
+                "development_id": "wk74_CRD_011",
+                "development_label": "Federal prosecutors charged 15 people with conspiracy tied to opposition to immigration enforcement",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk74_CRD_008",
+                "development_label": "Governor Newsom said Trump directed DOJ to investigate him and his wife",
+                "role": "secondary"
+              },
+              {
+                "development_id": "wk74_IG_027",
+                "development_label": "Judge ordered release of Salah Sarsour after finding likely retaliation for protected advocacy",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Investigative and prosecutorial tools were repeatedly linked to retaliation or political targeting concerns.",
+            "why_exemplary": "Democratic good faith fails when legal powers are used or credibly alleged to be used against protected advocacy or political rivals rather than neutral law enforcement ends.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Institutional independence, expertise, and public trust were weakened by politicized appointments, ideological control over knowledge systems, and opaque handling of detention and records.",
+        "severity": "serious",
+        "institutional_response": "Courts, archives, advisory bodies, and litigants preserved some review capacity, but the week’s main pressures pushed institutions toward thinner independence and credibility.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk74_stewardship_ex01",
+            "week": 74,
+            "event_ids": [
+              "wk74_IMM_008",
+              "wk74_IG_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk74_IMM_008",
+                "development_label": "Administration proposed putting research grant decisions under political appointees and presidential priorities",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk74_IG_012",
+                "development_label": "Researchers sued NIH over terminated grants alleging ideological and discriminatory cuts",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Scientific funding was pushed toward ideological control rather than expert review.",
+            "why_exemplary": "Stewardship requires preserving institutions that produce knowledge credibly over time. Politicizing grant decisions damages both capacity and trust in future research governance.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk74_stewardship_ex02",
+            "week": 74,
+            "event_ids": [
+              "wk74_PA_007",
+              "wk74_PA_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk74_PA_007",
+                "development_label": "President appointed Bill Pulte as acting director of national intelligence",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk74_PA_004",
+                "development_label": "OLC memo narrowed duty to provide disability services in integrated settings",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Sensitive institutions were reshaped through loyalty-sensitive staffing and narrower civil-rights interpretation.",
+            "why_exemplary": "Stewardship is weakened when expertise and durable rights enforcement give way to politicized control and interpretive retreat, reducing institutional credibility for the future.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      }
+    ],
+    "norms_strengthened": [
+      {
+        "trait": "restraint",
+        "pattern": "Other institutions still imposed limits on unilateral executive power, especially in war powers and immigration detention.",
+        "scope": "institutional",
+        "why_it_matters": "Democratic restraint survives when courts and legislatures insist that coercive power remain bounded and reviewable.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk74_restraint_ex03",
+            "week": 74,
+            "event_ids": [
+              "wk74_IG_018"
+            ],
+            "developments": [
+              {
+                "development_id": "wk74_IG_018",
+                "development_label": "House passed a war powers resolution aimed at limiting presidential authority in Iran",
+                "role": "primary"
+              }
+            ],
+            "summary": "The House asserted Congress's role in checking unilateral military action.",
+            "why_exemplary": "This reinforced restraint by affirming that even in security matters the executive should not act without meaningful legislative boundary.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk74_restraint_ex04",
+            "week": 74,
+            "event_ids": [
+              "wk74_IG_027"
+            ],
+            "developments": [
+              {
+                "development_id": "wk74_IG_027",
+                "development_label": "Judge ordered release of Salah Sarsour from ICE custody",
+                "role": "primary"
+              }
+            ],
+            "summary": "A court checked likely retaliatory immigration detention.",
+            "why_exemplary": "Judicial intervention matters because restraint in a democracy often depends on outside institutions stopping coercive power from being used punitively.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Courts and some public officials defended the intended operation of law, records, and public institutions against unilateral or misleading control.",
+        "scope": "institutional",
+        "why_it_matters": "Good faith is reinforced when institutions preserve the lawful purpose of governance rather than allowing procedure to become a shell for domination.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk74_good_faith_ex03",
+            "week": 74,
+            "event_ids": [
+              "wk74_IG_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk74_IG_001",
+                "development_label": "Judge blocked Kennedy Center closure and ordered Trump's name removed",
+                "role": "primary"
+              }
+            ],
+            "summary": "A court reaffirmed that naming authority over a national institution rested with Congress.",
+            "why_exemplary": "This strengthened good faith by insisting that executive preference cannot displace the lawful allocation of authority over public institutions.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk74_good_faith_ex04",
+            "week": 74,
+            "event_ids": [
+              "wk74_IG_031",
+              "wk74_CRD_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk74_IG_031",
+                "development_label": "Judge allowed near-term election-order challenges to proceed",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk74_CRD_009",
+                "development_label": "Alaska elections director disqualified a misleading Senate candidate",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Election institutions preserved review of immediate harms and protected ballot clarity.",
+            "why_exemplary": "Good faith depends on fair electoral process in practice. These actions defended that purpose by keeping review available and reducing voter confusion.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Some institutions continued to preserve records, expertise, and public oversight capacity despite broader politicizing pressure.",
+        "scope": "public",
+        "why_it_matters": "Stewardship matters because democratic recovery depends on institutions that still keep records, expertise, and channels for correction alive.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk74_stewardship_ex03",
+            "week": 74,
+            "event_ids": [
+              "wk74_IG_035",
+              "wk74_IG_036"
+            ],
+            "developments": [
+              {
+                "development_id": "wk74_IG_035",
+                "development_label": "National Archives invited public comments on federal records schedules",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk74_IG_036",
+                "development_label": "National Archives announced public meetings on the records of Congress",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Archives processes kept public oversight of government records and legislative memory open.",
+            "why_exemplary": "Preserving records and public access is core stewardship because future accountability depends on an intact documentary and institutional memory.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk74_stewardship_ex04",
+            "week": 74,
+            "event_ids": [
+              "wk74_IG_026",
+              "wk74_IG_033"
+            ],
+            "developments": [
+              {
+                "development_id": "wk74_IG_026",
+                "development_label": "FDA renewed its Science Board advisory committee",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk74_IG_033",
+                "development_label": "Judge denied stay of order restoring national park interpretive materials",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Expert advisory capacity and public historical materials were kept in place.",
+            "why_exemplary": "These actions support stewardship by protecting both evidence-based governance and institutional memory against erosion.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      }
+    ],
+    "direction_of_movement": "eroding"
+  },
+  "cumulative_condition": {
+    "narrative": "This week fits the prior trajectory closely and makes it more legible. The earlier pattern of ethical weakening through formal channels did not pause; it spread across funding, appointments, contracting, prosecutions, election administration, and public spectacle. The most important continuity is that breaches are becoming less episodic and more administrative. Power is not only being abused in visible moments; it is being routinized through ordinary instruments of government.\n\nCompared with the prior week, ethics, restraint, good_faith, and stewardship remain under the greatest strain. Immigration enforcement again expanded faster than its accountability structure. Election rules in North Carolina moved in a coordinated direction that could reduce participation and increase partisan leverage while preserving procedural form. Public office continued to blur with family-linked commercial benefit through the White House-UFC nexus and contracting choices. Expertise-dependent institutions, especially intelligence and research funding, faced further politicizing pressure.\n\nThe moral floor has not collapsed because resistance remains real and sometimes effective. Courts checked retaliatory detention, protected protest and public history, and reaffirmed congressional authority over public institutions. Congress asserted a war-powers limit, archives preserved records processes, and local resistance helped stop one detention expansion. But as in the prior summary, resilience is increasingly external to officeholding itself. The republic is relying less on ethical self-limitation by leaders and more on after-the-fact correction by courts, civil society, and scattered institutional holdouts.",
+    "trend": "deteriorating",
+    "stress_points": [
+      "expansion of immigration enforcement without stronger accountability",
+      "fusion of public spectacle with family-linked commercial gain",
+      "aggressive use of fiscal and investigative leverage",
+      "state-level election rule changes increasing partisan control",
+      "politicization of expertise and research funding",
+      "loyalty-sensitive appointments in sensitive institutions",
+      "retaliatory or chilling pressure on protest and civic participation",
+      "opaque detention and records practices"
+    ],
+    "sources_of_resilience": [
+      "federal courts checking detention abuses and unilateral institutional control",
+      "congressional assertion of war-powers limits",
+      "archives and advisory bodies preserving records and expertise",
+      "election-related judicial review remaining available for near-term harms",
+      "local resistance altering some federal detention plans",
+      "civil litigation sustaining oversight and transparency pressure",
+      "public and civic organizing around immigrant rights and democratic participation"
+    ]
+  },
+  "risk_assessment": {
+    "level": "severe",
+    "justification": "Severe risk is warranted because the week’s breaches were broad, repeated, and increasingly normalized across multiple democratic functions. Ethics remained acutely vulnerable through overlap between official prestige, White House access, contracting, and family-linked financial products. Restraint weakened through major enforcement expansion without new accountability, coercive funding threats, and repurposing of appropriated money. Good faith deteriorated through election-rule packages that could narrow participation while increasing partisan leverage, and through repeated signs that investigative or detention powers may be used in retaliatory ways.\n\nThe risk is not best described as critical because the digest still shows meaningful resistance with real effect. Courts blocked or narrowed several contested actions, Congress asserted a war-powers check, archives and advisory institutions continued ordinary transparency and expertise functions, and local resistance still changed at least one federal detention outcome. But those defenses were fragmented and reactive. If current patterns continue, further erosion is likely because the burden of preserving the moral floor is falling on institutions forced to contest one administrative maneuver at a time rather than on leaders practicing self-limitation from within.",
+    "forward_signals": [
+      "whether new immigration funding is followed by weaker detention oversight or more retaliatory enforcement claims",
+      "additional uses of public property or state prestige tied to family-linked business interests",
+      "further loyalty-based appointments in intelligence, justice, or enforcement posts",
+      "continued use of federal funds leverage against disfavored states",
+      "whether North Carolina election changes advance through legislative or administrative channels",
+      "new efforts to place expert grantmaking or civil-rights enforcement under ideological control",
+      "whether courts continue to preserve review of protest, detention, and election disputes",
+      "signs that civic groups face escalating investigative pressure before proven wrongdoing"
+    ]
+  }
+}

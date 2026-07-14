@@ -1,0 +1,252 @@
+Week 74 Appendix: Discretion Without Democratic Restraint
+This was a high-pressure week defined by executive aggrandizement, politicized enforcement, and overt patronage, partially offset by meaningful judicial resistance on public memory and retaliatory detention. The largest decay signals came from the $70 billion immigration-enforcement law enacted without new accountability, the redirection of congressionally appropriated Secret Service funds to a White House ballroom, the proposed OMB rule placing research grants under political appointees, and the appointment of Trump loyalist Bill Pulte to lead national intelligence despite no intelligence background. At the state and federal levels, election administration also came under pressure: North Carolina Republicans advanced multiple voter-suppression measures while the FBI’s actions against voter-registration and voting-rights groups in Ohio suggested coercive scrutiny of civic participation infrastructure. The week also showed law enforcement and prosecutorial power being used in ways that blur public safety and political control, especially around anti-ICE protest cases and alleged DOJ targeting of Gavin Newsom. The strongest repair signals came from courts blocking executive manipulation of the Kennedy Center, restoring erased historical materials at national parks, and ordering release of a mosque leader likely detained in retaliation for protected speech.
+Week 74 Events
+Power and Authority
+
+1. President Trump signed a law providing about $70 billion for ICE, Border Patrol, and DHS without new accountability measures: The law expanded federal coercive capacity in immigration enforcement while omitting added oversight, shifting power toward detention and deportation systems. — 2026-06-13
+
+2. The Trump administration awarded a $14.2 million no-bid contract to repaint and waterproof the Lincoln Memorial reflecting pool: The no-bid award raised accountability and favoritism concerns in federal spending on a symbolic public site. — 2026-06-16
+
+3. Acting Labor Secretary Keith Sonderling threatened to withhold unemployment administration funds from states and territories over alleged fraud: The threat used federal funding leverage against state-run systems without cited evidence, testing limits on executive pressure over states. — 2026-06-17
+
+4. The Justice Department Office of Legal Counsel issued a memo narrowing federal disability integration obligations under Olmstead: The memo signaled weaker federal protection against unnecessary institutionalization, shifting executive enforcement away from disability rights. — 2026-06-18
+
+5. The Trump administration redirected $352 million appropriated for the Secret Service to build a White House ballroom: The fund transfer bypassed Congress's refusal to finance the project and strengthened unilateral executive control over appropriated money. — 2026-06-18
+
+6. The Department of Homeland Security canceled plans for a 10,000-bed ICE detention center in Social Circle, Georgia: The reversal reduced planned detention capacity and showed that local resistance could still alter federal enforcement infrastructure. — 2026-06-19
+
+7. The Trump administration proposed a rule placing federal research grant decisions under political appointees and presidential priorities: The proposal would shift public research funding from expert review toward political control, weakening institutional independence. — 2026-06-19
+
+8. President Trump signed a memorandum of understanding with Iran that lifted sanctions and reopened oil sales: The agreement marked a major executive foreign-policy shift with broad effects on war powers, sanctions policy, and regional leverage. — 2026-06-19
+
+9. The U.S. military killed Venezuelan gang leader Hector Rusthenford Guerrero Flores in a strike conducted with Venezuelan authorities: The operation showed direct executive use of military force abroad against a non-state target. — 2026-06-13
+
+10. The Trump administration announced a Penn Station renovation plan involving federal support and financing: The plan committed federal executive backing to a major infrastructure project with large public spending implications. — 2026-06-18
+
+
+Institutions and Governance
+
+1. Judge Christopher Cooper blocked the planned two-year Kennedy Center closure and ordered removal of Trump's name from the facade: The rulings checked unilateral executive control over a congressionally created institution and reaffirmed legal limits on symbolic appropriation. — 2026-06-13
+
+2. A federal judge allowed a UFC event at the White House after denying emergency efforts to stop it: The decision let a private spectacle proceed on public grounds, leaving unresolved questions about institutional misuse and public purpose. — 2026-06-13
+
+3. A Manhattan federal court sentenced Haji Najibullah to 42 years in prison for the kidnapping of journalist David Rohde: The sentence reinforced judicial accountability for hostage-taking and violence against journalists. — 2026-06-13
+
+4. Judge Angel Kelley ordered the restoration of history and science materials removed from national parks and monuments: The order protected public institutions from executive censorship of slavery, civil rights, Indigenous history, and climate content. — 2026-06-13
+
+5. A New York jury convicted Dmitriy Popov of manslaughter as a hate crime in the killing of O'Shae Sibley: The verdict showed the courts enforcing hate-crime law in a case involving anti-LGBTQ violence. — 2026-06-13
+
+6. Republican leaders in the North Carolina General Assembly introduced HB 958 to restrict voting rules and election activity: The bill would shift election administration toward partisan control and could reduce voter access and transparency. — 2026-06-14
+
+7. North Carolina lawmakers advanced SB 1084 to shorten the state's early voting period: The proposal would reduce a major voting access channel and could lower participation. — 2026-06-14
+
+8. A federal judge dismissed a fired Yosemite ranger's lawsuit over a transgender pride flag on procedural grounds: The ruling highlighted how civil service procedures can limit direct judicial review of claimed speech retaliation. — 2026-06-14
+
+9. Florida Attorney General James Uthmeier sued TikTok over alleged violations of the state's youth social media law: The case tested state power to regulate platform access and content practices affecting minors. — 2026-06-15
+
+10. Defendants in National Parks Conservation Association v. Department of the Interior appealed the order restoring removed park materials: The appeal kept active a major institutional fight over executive control of public history in federal sites. — 2026-06-15
+
+11. Nancy Martinez and her children filed an FTCA complaint over an ICE arrest they said was retaliatory and procedurally abusive: The suit sought judicial review of immigration enforcement practices alleged to punish a state's protective policy choices. — 2026-06-15
+
+12. The National Parks Conservation Association filed a complaint against Interior Secretary Doug Burgum: The filing opened another judicial challenge to executive action affecting federal public institutions. — 2026-06-15
+
+13. The National Treasury Employees Union sued the IRS over removal of union materials from workplace bulletin boards and workstations: The case challenged agency restrictions on employee association and speech inside the federal workplace. — 2026-06-15
+
+14. Two Northwestern medical researchers sued the National Institutes of Health over grant terminations they said were ideological and discriminatory: The suit challenged political interference in research funding and alleged viewpoint and equal-protection violations. — 2026-06-15
+
+15. Judge Moss extended and expanded a temporary restraining order protecting anti-Trump demonstration displays: The order protected protest speech from permit revocation and reaffirmed First Amendment limits on administrative suppression. — 2026-06-15
+
+16. The Supreme Court granted certiorari in Genalo v. Black: The Court agreed to review a lower-court ruling, showing its continuing role in setting national legal standards. — 2026-06-15
+
+17. The Supreme Court granted certiorari in Guerrero v. Johnson: The Court's review signaled possible nationwide legal consequences beyond the lower court's judgment. — 2026-06-15
+
+18. The Supreme Court granted certiorari in Kian v. Florida: The Court's decision to hear the case added another pending avenue for national precedent. — 2026-06-15
+
+19. The Environmental Protection Agency transferred dicamba-related confidential business information to the Justice Department and litigants under a proposed protective order: The transfer showed how agencies manage sensitive records during litigation while limiting public disclosure. — 2026-06-16
+
+20. Prosecutors in Manhattan failed to deliver transport paperwork for Luigi Mangione's scheduled court appearance: The error exposed basic procedural breakdowns in a high-profile criminal case. — 2026-06-16
+
+21. The United Power Trades Organization sued President Trump over an order excluding the Defense Department from federal labor-management law: The complaint challenged executive authority to strip collective bargaining rights across a major federal department. — 2026-06-16
+
+22. The Supreme Court invited an amicus curiae to defend the judgment below in Maxwell v. Thomas: The order shaped the Court's review process and underscored its control over how contested cases are argued. — 2026-06-16
+
+23. Georgia Republicans declined to redraw the state's congressional map during a special session: The decision preserved existing districts and avoided an immediate new round of representation changes after pressure to remap. — 2026-06-17
+
+24. The House of Representatives passed a war powers resolution aimed at limiting presidential authority in Iran: The vote asserted Congress's institutional role in checking unilateral military action by the executive. — 2026-06-17
+
+25. Representative Jamie Raskin requested records from Harvard and Bard about ties to Jeffrey Epstein: The request used oversight tools to press private institutions for accountability and disclosure. — 2026-06-17
+
+26. Lawmakers proposed legislation to bar January 6 offenders from receiving federal payouts: The proposal sought to close a legal path for compensation that critics said could undermine accountability for the attack on Congress. — 2026-06-17
+
+27. House staff visited Ghislaine Maxwell's prison to examine treatment and conditions: The visit reflected legislative oversight of prison administration and equal treatment in custody. — 2026-06-17
+
+28. January 6 defendants filed Federal Tort Claims Act claims seeking compensation from the Justice Department: The claims tested whether legal compensation mechanisms could be used in ways that weaken accountability for anti-democratic violence. — 2026-06-17
+
+29. Judge Gregory Carro ordered Luigi Mangione's defense to disclose details of its planned psychiatric defense: The order aimed to preserve fairness and orderly process by requiring advance notice of a major trial defense. — 2026-06-17
+
+30. Plaintiffs challenging the Alligator Alcatraz detention center resumed a lawsuit seeking the facility's permanent closure: The case pressed courts to review whether the government built and operated the site without lawful process. — 2026-06-17
+
+31. Environmental groups sued the Bureau of Ocean Energy Management over Gulf of America Lease Sale 2: The complaint challenged whether the agency followed required environmental review and consultation rules before leasing public resources. — 2026-06-17
+
+32. The Presidio Municipal Development District sued DHS and CBP over the Big Bend 2 Wall Project: The suit asked courts to enforce statutory permitting limits on border infrastructure built by the executive branch. — 2026-06-17
+
+33. A federal judge ordered the release of Salah Sarsour from ICE custody after finding likely retaliation for protected speech: The ruling checked immigration detention used against political advocacy and reaffirmed First Amendment limits on executive retaliation. — 2026-06-18
+
+34. Luigi Mangione's legal team withdrew its notice of a psychiatric defense in his state murder trial: The change altered the posture of a closely watched criminal case and narrowed a major contested issue before trial. — 2026-06-18
+
+35. As You Sow sued the Department of Labor over withheld contractor EEO-1 records under FOIA: The suit challenged agency secrecy over contractor workforce data and sought judicial enforcement of public records law. — 2026-06-18
+
+36. The National Family Planning and Reproductive Health Association and a Pennsylvania affiliate sued HHS over a new Title X alignment review requirement: The case challenged executive use of grant conditions to impose ideological screening on public health funding. — 2026-06-18
+
+37. Judge Talwani allowed parts of the League of Women Voters of Massachusetts challenge to a Trump elections order to proceed: The ruling kept near-term election-related claims alive and recognized immediate burdens on election administration. — 2026-06-18
+
+38. Judge Kelley denied the government's emergency stay request in the national parks materials case: The denial kept restored public-history materials visible and limited executive delay tactics after an adverse ruling. — 2026-06-18
+
+39. The Supreme Court released its opinion in Hunter v. United States: The opinion added binding national law from the Court, affecting future institutional and legal disputes. — 2026-06-18
+
+40. The Supreme Court released its opinion in T. M. v. University of Maryland Medical System Corporation: The opinion set national precedent with potential effects on institutional obligations and litigants' rights. — 2026-06-18
+
+41. The Supreme Court released its opinion in United States v. Hemani: The opinion became binding law and could alter how lower courts and agencies apply federal rules. — 2026-06-18
+
+42. The FDA renewed the charter of its Science Board advisory committee for two years: The renewal preserved an expert advisory channel inside a major regulatory institution. — 2026-06-18
+
+43. The California secretary of state's office qualified the California Billionaire Tax Act for the November ballot: The certification advanced a major fiscal proposal through the ballot process and preserved direct voter decision-making. — 2026-06-19
+
+44. The Chicago City Council passed tenant protection legislation tied to displacement around the Obama Presidential Center: The law used municipal power to address displacement and housing access around a major public development. — 2026-06-19
+
+45. North Carolina lawmakers pulled HB 1038 after criticism that it would dilute Black voting power: The bill's movement showed ongoing institutional pressure on minority representation even before final passage. — 2026-06-19
+
+46. North Carolina lawmakers advanced HB 437 to criminalize homelessness: The proposal would use legislative power to punish poverty, with likely effects on equal treatment and civic inclusion. — 2026-06-19
+
+47. President Trump appointed Bill Pulte as acting director of national intelligence: The appointment placed a political loyalist without intelligence experience atop a core oversight-sensitive institution. — 2026-06-19
+
+
+Economic Structure
+
+1. The Justice Department approved the $111 billion Paramount-Warner Bros. Discovery merger: The approval increased media concentration risks and could reduce competition and pluralism in a key information market. — 2026-06-13
+
+2. The European Union showed interest in degrowth policies that would limit economic expansion: The shift signaled possible changes in economic governance that could affect public policy priorities and resource allocation. — 2026-06-13
+
+3. UFC and World Liberty Financial arranged for some White House event fighter bonuses to be paid in Trump-linked stablecoins: The payment plan blurred public spectacle, private gain, and presidential family business interests. — 2026-06-14
+
+4. A national coalition called for a moratorium on new data center construction: The campaign sought to shape economic development rules around local resource use and public costs. — 2026-06-14
+
+5. The Chinese government encouraged banks to keep lending to unprofitable firms and extended support to the banking system: The policy used state-backed finance to preserve favored firms, distorting market discipline and competition. — 2026-06-15
+
+6. The DEA opened comment on Cerilliant Corporation's application to import controlled substances for research standards: The notice reflected routine federal control over sensitive pharmaceutical supply chains and research inputs. — 2026-06-15
+
+7. The EPA set a pesticide residue tolerance for pydiflumetofen on sugarcane: The rule adjusted federal food and agriculture standards that shape market access and public health safeguards. — 2026-06-15
+
+8. The EPA exempted sodium nitrate in certain pesticide formulations from tolerance requirements: The exemption reduced compliance burdens for pesticide use and changed the regulatory balance between industry and oversight. — 2026-06-15
+
+9. The EPA received applications for new pesticide uses and invited public comment: The notice opened a regulatory pathway for expanded pesticide use with implications for agriculture and environmental oversight. — 2026-06-15
+
+10. The EPA reported new chemical submissions under TSCA and invited comment: The action showed ongoing federal review of new chemicals that affect industrial development and public risk management. — 2026-06-15
+
+11. The FDA amended and revoked outdated organizational information regulations: The change shifted how the public accesses agency structure and contact information, affecting administrative transparency and compliance. — 2026-06-15
+
+12. The FDA issued draft guidance on patent information forms for drug applications: The guidance affected how pharmaceutical firms navigate patent disclosure and market entry rules. — 2026-06-15
+
+13. The FCC corrected a common carrier rule on video relay service user validation: The correction clarified telecom compliance duties and preserved operational rules for accessibility services. — 2026-06-15
+
+14. The DEA opened comment on Veranova's application to manufacture controlled substances in bulk: The notice reflected federal gatekeeping over production of highly regulated drugs used in research and medicine. — 2026-06-15
+
+15. The National Audit Office of China reported that audited banks had far higher non-performing loans than officially reported: The report exposed weak financial transparency in a major economy, affecting confidence in official economic data. — 2026-06-15
+
+16. The EPA released a draft risk evaluation for TBBPA and invited comment: The draft could shape future restrictions on a widely used chemical and alter industrial compliance costs. — 2026-06-16
+
+17. The FCC invited comment on tariff streamlining information collection for local exchange carriers: The notice affected telecom regulatory burdens and public access to tariff information. — 2026-06-16
+
+18. The FDA corrected a prior withdrawal notice so two drug approvals for Masuu Global Solutions remained in effect: The correction preserved market authorization for two products and altered the regulatory status of those drugs. — 2026-06-16
+
+19. The General Services Administration proposed quarterly compliance certifications for certain colleges under Executive Order 14400: The requirement tied federal contracting eligibility to executive-order compliance, extending political conditions into higher education finance. — 2026-06-16
+
+20. CBS reached a licensing agreement over Peanuts music use: The agreement reflected how intellectual property enforcement shapes media production and corporate control of cultural assets. — 2026-06-16
+
+21. The United States reportedly agreed in a draft framework to lift sanctions on Iran: The move would reverse a major economic pressure tool and reshape trade and energy flows through executive foreign policy. — 2026-06-16
+
+22. The DEA opened comment on importer applications from AndersonBrecon, Aphena Pharma, the Arizona Department of Corrections, Scottsdale Research Institute, Veranova, and Wedgewood Pharmacy: The notices showed federal control over legal import channels for highly regulated substances across research, medicine, and corrections. — 2026-06-17
+
+23. The FCC submitted information collections to OMB for review and comment: The submission affected administrative burdens on regulated entities and the structure of telecom oversight. — 2026-06-17
+
+24. The FDA classified an ingestible gastrointestinal blood detection capsule as a class II device: The classification set the regulatory path for a new medical device and shaped market access conditions. — 2026-06-17
+
+25. The FDA classified radiological machine-learning imaging software as a class II device with special controls: The rule set oversight terms for a medical AI product and affected how such tools enter the healthcare market. — 2026-06-17
+
+26. The CDC invited comment on workplace health hazard evaluation data collection: The notice supported federal worker-safety oversight by gathering information on workplace risks. — 2026-06-18
+
+27. The CDC submitted a domestic violence prevention evaluation collection for OMB review: The review supported continued federal monitoring of prevention programs that guide public spending and policy. — 2026-06-18
+
+28. The CDC submitted a service-delivery feedback collection for OMB review: The collection aimed to improve agency performance and public trust through structured feedback. — 2026-06-18
+
+29. The CDC submitted security forms for researcher access to confidential data for OMB review: The forms governed access to sensitive health data and balanced research use against confidentiality controls. — 2026-06-18
+
+30. The EPA published notice of available environmental impact statements for public review: The notice preserved a public comment channel in federal project review that affects land use and development. — 2026-06-18
+
+31. The EPA exempted resin acids esters with glycerol from a pesticide tolerance requirement: The exemption reduced regulatory limits on an agricultural input and shifted compliance obligations for manufacturers. — 2026-06-18
+
+32. The FCC invited comment on information collections tied to suspension and debarment rules for funding programs: The proposal affected oversight of federal telecom funding and anti-fraud compliance systems. — 2026-06-18
+
+33. The FDA authorized emergency use of two animal drugs for New World screwworm: The authorization used emergency regulatory power to address a livestock threat with public and economic consequences. — 2026-06-18
+
+34. The FDA sought comment on information collection for extralabel drug use in animals: The notice affected veterinary drug oversight and compliance burdens in animal health markets. — 2026-06-18
+
+35. The FDA submitted dietary supplement manufacturing information collection requirements for OMB review: The review maintained federal recordkeeping rules that shape supplement industry compliance and consumer safeguards. — 2026-06-18
+
+36. The FDA submitted medicated feed manufacturing information collection requirements for OMB review: The proposal affected compliance systems in animal feed production and related public health oversight. — 2026-06-18
+
+37. The FDA withdrew approval of SpecGx's methylphenidate extended-release tablets: The withdrawal removed a generic drug from lawful interstate distribution and changed market availability. — 2026-06-18
+
+38. The CDC invited comment on a childhood adversity prevention data collection program: The program supported federal planning for child welfare and public health prevention spending. — 2026-06-18
+
+
+Civil Rights and Dissent
+
+1. Detained women at Delaney Hall joined an ongoing hunger and labor strike over conditions and medical neglect: The strike highlighted detainees' use of collective action to contest treatment inside an immigration detention facility. — 2026-06-13
+
+2. Sama Safi remained held without charge by the Israeli military after a West Bank raid: The detention raised due process and bodily security concerns for a U.S. citizen held by a foreign military. — 2026-06-13
+
+3. A federal court was described as having ordered ICE to halt indiscriminate raids and racial profiling in Los Angeles: The reported order showed judicial intervention against immigration enforcement practices that threatened equal protection and due process. — 2026-06-14
+
+4. The Supreme Court was described as having overturned a lower-court order limiting ICE raids in Los Angeles: The reported reversal weakened a judicial check on racial profiling and broad immigration enforcement tactics. — 2026-06-14
+
+5. A Senatobia police officer shot into a vehicle during a shoplifting response, killing one-year-old Kohen Wiley, and was later placed on leave: The shooting and delayed disclosure raised acute concerns about police force, transparency, and accountability in a child's death. — 2026-06-14
+
+6. The FBI raided an Ohio voter registration group's offices and homes and later seized devices as the inquiry widened: The investigation risked chilling voter registration and voting-rights work by treating civic participation groups as law-enforcement targets. — 2026-06-14
+
+7. The 50501 / No Kings Portland group held a civic fair focused on democracy and local governance: The event used public education and community gathering to strengthen civic participation outside formal institutions. — 2026-06-14
+
+8. The Committee for the First Amendment and partner groups hosted a nationwide concert and watch-party event centered on First Amendment rights: The event promoted community organizing and public engagement around speech and assembly rights. — 2026-06-14
+
+9. Indivisible launched an immigrant justice training series: The program aimed to build public capacity for organized advocacy on detention conditions and immigration policy. — 2026-06-14
+
+10. Juven Pineda was arrested and transferred to Louisiana on rape and human trafficking charges involving a Honduran teenager: The case centered on coercion, migration vulnerability, and the state's duty to protect bodily security. — 2026-06-16
+
+11. Federal prosecutors in Minnesota charged fifteen people with conspiracy tied to opposition to an immigration crackdown: The case raised concerns that protest and direct action against immigration enforcement were being treated as criminal conspiracy. — 2026-06-16
+
+12. ICE and DHS relocated detainees from the Alligator Alcatraz detention center: The transfer responded to pressure over harsh conditions but left unresolved questions about detention abuse and accountability. — 2026-06-16
+
+13. Law enforcement in Senatobia used tear gas against protesters demanding answers after Kohen Wiley's death: The response burdened the right to protest police violence and intensified concerns about force used against dissent. — 2026-06-17
+
+14. Merlin Lu was charged with hate crimes and related offenses for burning a cross in Chicago's Grant Park: The charges addressed an act tied to racial terror symbolism and enforced legal limits against intimidation. — 2026-06-18
+
+15. The Obama Presidential Center opened in Chicago with speeches urging civic engagement and collective action: The opening created a new civic venue framed around participation, public memory, and democratic engagement. — 2026-06-19
+
+
+Information, Memory and Manipulation
+
+1. Progressive Champions PAC was revealed to be linked to Republican political infrastructure while presenting itself as progressive: The disclosure showed deceptive campaign branding that could mislead voters and distort primary election information. — 2026-06-13
+
+2. Secretary of State Marco Rubio signed a memorandum of understanding creating a State Department partnership with UFC: The deal fused state messaging with a private entertainment brand, blurring public diplomacy and promotional spectacle. — 2026-06-13
+
+3. The FCC invited comment on an information collection tied to TTY-to-Real-Time-Text transition requirements: The notice affected how a communications regulator gathers data for accessibility and public safety systems. — 2026-06-15
+
+4. Eric Trump said screenshots suggesting he sought inside help during White House UFC fights were fake: The dispute highlighted how contested or fabricated digital images can shape public understanding of political events. — 2026-06-15
+
+5. The FCC invited comment on a new information collection about foreign adversary control of communications networks: The proposal sought more disclosure about ownership and control in communications infrastructure, linking information systems to national security oversight. — 2026-06-16
+
+6. The National Archives and Records Administration requested public comment on proposed federal records schedules: The notice opened public review of how agencies retain or dispose of records that matter for future accountability. — 2026-06-15
+
+7. The National Archives and Records Administration announced two public meetings of the Advisory Committee on the Records of Congress: The meetings supported public access and oversight of how legislative records are preserved and managed. — 2026-06-16
+
+8. The National Archives and Records Administration sought OMB approval to continue a FOIA consent form used in mediation and compliance review: The request supported the administrative machinery that helps the public pursue access to government records. — 2026-06-18

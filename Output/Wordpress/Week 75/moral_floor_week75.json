@@ -1,0 +1,548 @@
+{
+  "week_number": 75,
+  "period_label": "Week 75 – 2026-06-20–2026-06-26",
+  "window": {
+    "start": "2026-06-20",
+    "end": "2026-06-26"
+  },
+  "clock_time_public": "8:14 p.m.",
+  "clock_delta_minutes": 0.0,
+  "baseline_traits": [
+    {
+      "name": "character",
+      "definition": "Internal discipline to align words with deeds, to place public duty ahead of personal gain, and to honour the oath of office even when it conflicts with short-term advantage."
+    },
+    {
+      "name": "ethics",
+      "definition": "Commitment to keep a firm boundary between public power and private interest, avoiding conflicts of interest, self-dealing, and the use of office to enrich oneself, family, or allies."
+    },
+    {
+      "name": "restraint",
+      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+    },
+    {
+      "name": "truthfulness",
+      "definition": "Obligation to speak accurately on matters of public consequence, avoid deliberate disinformation, correct false statements, and ensure that citizens are not governed by manufactured unreality."
+    },
+    {
+      "name": "good_faith",
+      "definition": "Adherence to the spirit as well as the letter of democratic rules, keeping promises, respecting outcomes, and avoiding procedural manipulation that defeats the purpose of the law."
+    },
+    {
+      "name": "stewardship",
+      "definition": "Responsibility to maintain and strengthen institutions so they can serve future generations as well as the present, avoiding actions that permanently damage capacity, credibility, or public trust."
+    }
+  ],
+  "weekly_audit": {
+    "summary": "The week’s moral pattern was one of sustained pressure on the democratic floor rather than a single ethical break. Executive actors repeatedly used leverage, acting authority, coercive framing, and unsupported narratives to widen control over elections, dissent, intelligence, and war powers. At the same time, courts and some legislative actions still supplied real resistance. The result was not ethical recovery but a contested hold: breaches were broad and increasingly normalized, while correction remained reactive and external.",
+    "norms_broken": [
+      {
+        "trait": "character",
+        "pattern": "Public authority was used in openly transactional ways, with public duty subordinated to leverage, loyalty, and political advantage.",
+        "severity": "serious",
+        "institutional_response": "Courts and some legislators resisted adjacent abuses, but the core acts of transactional executive conduct were not directly reversed this week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk75_character_ex01",
+            "week": 75,
+            "event_ids": [
+              "wk75_PA_001",
+              "wk75_IG_013"
+            ],
+            "developments": [
+              {
+                "development_id": "wk75_PA_001",
+                "development_label": "President canceled signing of bipartisan housing bill pending SAVE America Act",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk75_IG_013",
+                "development_label": "Senate passed bipartisan 21st Century Road to Housing Act",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A bipartisan housing bill was held hostage to unrelated voting restrictions.",
+            "why_exemplary": "Character requires placing public duty above short-term advantage. Conditioning enacted housing policy on unrelated election demands shows office used as bargaining leverage rather than faithful execution.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk75_character_ex02",
+            "week": 75,
+            "event_ids": [
+              "wk75_PA_002",
+              "wk75_PA_003"
+            ],
+            "developments": [
+              {
+                "development_id": "wk75_PA_002",
+                "development_label": "President canceled confirmation hearing and installed acting DNI William Pulte",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk75_PA_003",
+                "development_label": "Acting DNI ordered list of about 300 staff to be fired",
+                "role": "secondary"
+              }
+            ],
+            "summary": "An acting intelligence chief was installed, followed by reported purge planning.",
+            "why_exemplary": "Honoring the oath requires protecting sensitive institutions, not bending them toward personal loyalty. The appointment-plus-purge sequence suggests allegiance and control displaced impartial public duty.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "Public resources and contracting processes again appeared vulnerable to leader-centered spending and politically connected procurement.",
+        "severity": "serious",
+        "institutional_response": "Oversight requests and litigation pressure emerged, but no decisive institutional correction to the spending and contracting concerns occurred during the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk75_ethics_ex01",
+            "week": 75,
+            "event_ids": [
+              "wk75_ES_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk75_ES_005",
+                "development_label": "Public funds paid for White House granite walkway despite claims of personal funding",
+                "role": "primary"
+              }
+            ],
+            "summary": "Public money funded a White House project reportedly described as personally funded.",
+            "why_exemplary": "Ethics requires a firm boundary between office and personal benefit. Using public funds while claims suggested private payment undermines that boundary and public trust.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk75_ethics_ex02",
+            "week": 75,
+            "event_ids": [
+              "wk75_ES_006",
+              "wk75_ES_007",
+              "wk75_IG_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk75_ES_006",
+                "development_label": "Reflecting Pool renovation completed after donor-linked no-bid contract and overruns",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk75_ES_007",
+                "development_label": "Administration prepared to drain and repair pool again",
+                "role": "secondary"
+              },
+              {
+                "development_id": "wk75_IG_011",
+                "development_label": "Senator Blumenthal requested project documents",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A donor-linked no-bid project failed and required more public spending.",
+            "why_exemplary": "No-bid, politically connected contracting with overruns and repeat repairs signals weak protection against favoritism and misuse of public money.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "Officials repeatedly pressed coercive and unilateral powers to their edge, especially in elections, protest policing, intelligence control, and foreign policy.",
+        "severity": "serious",
+        "institutional_response": "Lower courts repeatedly slowed or blocked election-related moves, and Congress asserted some war-powers limits, but the initiating pattern remained expansive.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk75_restraint_ex01",
+            "week": 75,
+            "event_ids": [
+              "wk75_CRD_005",
+              "wk75_IG_032"
+            ],
+            "developments": [
+              {
+                "development_id": "wk75_CRD_005",
+                "development_label": "Administration threatened to withhold Homeland Security funds unless states changed election laws",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk75_IG_032",
+                "development_label": "Judge upheld injunction against coercive USDA funding conditions on states",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Federal funding leverage was used to pressure states on election rules.",
+            "why_exemplary": "Restraint fails when available spending power is used coercively against state autonomy in a core democratic domain rather than exercised with self-limiting caution.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk75_restraint_ex02",
+            "week": 75,
+            "event_ids": [
+              "wk75_PA_009",
+              "wk75_CRD_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk75_PA_009",
+                "development_label": "President designated antifa as a domestic terrorist organization and ordered broad protest investigations",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk75_CRD_001",
+                "development_label": "Texas prosecutors and judges pursued terrorism cases and long sentences against anti-ICE protesters",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Dissent was widened into a terrorism frame and punished accordingly.",
+            "why_exemplary": "Democratic restraint requires limiting coercive power around protest. Treating domestic dissent as terrorism expands state force beyond norm-bound self-limitation.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "Official narratives repeatedly outran evidence, and public understanding of major matters was clouded by unsupported accusations, rebranding, and conflicting claims.",
+        "severity": "serious",
+        "institutional_response": "Some judges demanded records or explanations in related disputes, but the false or unverified narratives themselves were not meaningfully corrected by officeholders.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk75_truthfulness_ex01",
+            "week": 75,
+            "event_ids": [
+              "wk75_IMM_002",
+              "wk75_IMM_003"
+            ],
+            "developments": [
+              {
+                "development_id": "wk75_IMM_002",
+                "development_label": "President blamed antifa and unnamed vandals for Reflecting Pool problems without evidence",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk75_IMM_003",
+                "development_label": "Administration promised but did not produce proof of sabotage claims",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Unsupported sabotage claims were advanced and left unsubstantiated.",
+            "why_exemplary": "Truthfulness requires accuracy and correction on public matters. Repeating accusations without evidence and failing to substantiate them manufactures unreality around government failure.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk75_truthfulness_ex02",
+            "week": 75,
+            "event_ids": [
+              "wk75_IMM_007"
+            ],
+            "developments": [
+              {
+                "development_id": "wk75_IMM_007",
+                "development_label": "Conflicting public claims about nuclear inspections and negotiation outcomes",
+                "role": "primary"
+              }
+            ],
+            "summary": "Conflicting official claims clouded a major diplomatic process.",
+            "why_exemplary": "On war and diplomacy, citizens depend on reliable official information. Contradictory public accounts weaken informed consent and trust in consequential state action.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Democratic procedures were used as leverage or manipulated against their purpose, especially in election administration and ordinary lawmaking.",
+        "severity": "serious",
+        "institutional_response": "Courts strongly defended constitutional limits in election cases, but Congress also showed vulnerability to executive pressure and paralysis.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk75_good_faith_ex01",
+            "week": 75,
+            "event_ids": [
+              "wk75_PA_001",
+              "wk75_IG_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk75_PA_001",
+                "development_label": "President withheld housing bill signing pending SAVE America Act",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk75_IG_012",
+                "development_label": "Senate adjourned for 19 days during standoff",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Routine lawmaking was turned into leverage for unrelated voting demands.",
+            "why_exemplary": "Good faith requires respecting the purpose of legislation once Congress has acted. Using signature power to force unrelated election concessions defeats that purpose while preserving formal procedure.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk75_good_faith_ex02",
+            "week": 75,
+            "event_ids": [
+              "wk75_PA_002",
+              "wk75_IG_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk75_PA_002",
+                "development_label": "President canceled confirmation hearing and installed acting DNI",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk75_IG_004",
+                "development_label": "Judge blocked key parts of proof-of-citizenship voting order",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Normal confirmation checks were bypassed in a sensitive national security post.",
+            "why_exemplary": "Good faith includes honoring the spirit of checks and balances. Avoiding confirmation to secure loyalty-based control uses legal form to defeat accountability’s purpose.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Institutional capacity and credibility were weakened through politicization, secrecy, and repeated damage to public trust in administration and civic institutions.",
+        "severity": "serious",
+        "institutional_response": "Courts, oversight requests, and litigation preserved some review capacity, but the week’s main pressures still degraded institutional independence and confidence.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk75_stewardship_ex01",
+            "week": 75,
+            "event_ids": [
+              "wk75_PA_002",
+              "wk75_PA_003"
+            ],
+            "developments": [
+              {
+                "development_id": "wk75_PA_002",
+                "development_label": "Acting DNI installed without confirmation",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk75_PA_003",
+                "development_label": "Reported list of about 300 NCTC staff to be fired",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Intelligence leadership and staffing were pushed toward politicized control.",
+            "why_exemplary": "Stewardship requires preserving durable institutional independence. Loyalty-centered leadership changes and purge planning damage expertise, continuity, and future credibility.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk75_stewardship_ex02",
+            "week": 75,
+            "event_ids": [
+              "wk75_CRD_008",
+              "wk75_IG_003"
+            ],
+            "developments": [
+              {
+                "development_id": "wk75_CRD_008",
+                "development_label": "ODNI withheld report on voting-machine vulnerabilities",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk75_IG_003",
+                "development_label": "Judge blocked use of SAVE system for state voter rolls",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Election-security information was withheld while election control fights intensified.",
+            "why_exemplary": "Stewardship of democracy includes maintaining trusted election infrastructure and informed protection of it. Withholding vulnerability information weakens institutional capacity and public confidence.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      }
+    ],
+    "norms_strengthened": [
+      {
+        "trait": "restraint",
+        "pattern": "Courts and, in part, Congress continued to impose limits on unilateral executive control over elections and war-making.",
+        "scope": "institutional",
+        "why_it_matters": "Democratic restraint survives when other institutions insist that executive power remains bounded, reviewable, and constitutionally shared.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk75_restraint_ex03",
+            "week": 75,
+            "event_ids": [
+              "wk75_IG_004",
+              "wk75_IG_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk75_IG_004",
+                "development_label": "Judge blocked key parts of proof-of-citizenship voting order",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk75_IG_005",
+                "development_label": "Judge blocked key parts of mail voting executive order",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Federal judges blocked major election-control orders from the executive.",
+            "why_exemplary": "These rulings reinforced restraint by refusing to let the presidency unilaterally rewrite election rules beyond its lawful authority.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk75_restraint_ex04",
+            "week": 75,
+            "event_ids": [
+              "wk75_IG_008"
+            ],
+            "developments": [
+              {
+                "development_id": "wk75_IG_008",
+                "development_label": "Senate passed war powers resolution requiring approval for further Iran action",
+                "role": "primary"
+              }
+            ],
+            "summary": "The Senate asserted Congress’s constitutional role in war-making.",
+            "why_exemplary": "Legislative insistence on approval for further military action is a direct reinforcement of self-limiting constitutional structure.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Courts repeatedly defended the intended constitutional allocation of authority in election administration and related disputes.",
+        "scope": "institutional",
+        "why_it_matters": "Good faith is strengthened when institutions preserve the real purpose of law rather than allowing procedure to become a tool of domination.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk75_good_faith_ex03",
+            "week": 75,
+            "event_ids": [
+              "wk75_IG_003",
+              "wk75_IG_007"
+            ],
+            "developments": [
+              {
+                "development_id": "wk75_IG_003",
+                "development_label": "Judge blocked use of SAVE system to check state voter rolls",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk75_IG_007",
+                "development_label": "Sixth Circuit rejected administration suit against Michigan over voter rolls",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Courts protected state election administration from federal overreach.",
+            "why_exemplary": "These decisions upheld the spirit of democratic federalism by preventing technical or legal maneuvers from displacing lawful state control over elections.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk75_good_faith_ex04",
+            "week": 75,
+            "event_ids": [
+              "wk75_IG_001",
+              "wk75_IG_006"
+            ],
+            "developments": [
+              {
+                "development_id": "wk75_IG_001",
+                "development_label": "Judge allowed challenge to mail voting order",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk75_IG_006",
+                "development_label": "Seventh Circuit slowed DOJ actions on Wisconsin voter rolls",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Judicial review remained open against rapid election-rule changes.",
+            "why_exemplary": "Good faith depends on preserving meaningful review before contested election changes harden into facts on the ground.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Judicial and oversight actions preserved transparency, records access, and public scrutiny in contested institutional disputes.",
+        "scope": "public",
+        "why_it_matters": "Stewardship matters because democratic recovery depends on institutions that still keep records, explanations, and oversight channels alive.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk75_stewardship_ex03",
+            "week": 75,
+            "event_ids": [
+              "wk75_IG_028"
+            ],
+            "developments": [
+              {
+                "development_id": "wk75_IG_028",
+                "development_label": "Judge ordered administration to defend redactions and produce more Epstein files records",
+                "role": "primary"
+              }
+            ],
+            "summary": "A court enforced transparency duties in a politically sensitive records case.",
+            "why_exemplary": "Compelling fuller records production protects institutional memory and accountability, both essential to long-term democratic stewardship.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk75_stewardship_ex04",
+            "week": 75,
+            "event_ids": [
+              "wk75_IG_011",
+              "wk75_IG_026"
+            ],
+            "developments": [
+              {
+                "development_id": "wk75_IG_011",
+                "development_label": "Senator Blumenthal requested Reflecting Pool project documents",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk75_IG_026",
+                "development_label": "Judge ordered explanation for tarp covering Kennedy Center facade",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Oversight and judicial inquiry pressed for explanations in public-institution disputes.",
+            "why_exemplary": "Demanding records and explanations helps preserve the credibility of public institutions against opaque or politicized management.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      }
+    ],
+    "direction_of_movement": "eroding"
+  },
+  "cumulative_condition": {
+    "narrative": "This week extends the prior trajectory rather than changing it. The same six traits remain under strain, but the pattern is becoming more systematic. Character and good_faith weakened through openly transactional use of presidential power, especially the effort to force unrelated voting restrictions through a housing bill and the bypass of confirmation in intelligence leadership. Restraint and stewardship weakened through broader claims over protest, elections, intelligence staffing, and war powers, while truthfulness deteriorated through unsupported sabotage narratives and conflicting public claims on diplomacy.\n\nThe moral floor still has not collapsed because resistance remains real and often effective. Lower courts repeatedly blocked or slowed election-related overreach, some judges protected due process and transparency, and the Senate at least briefly asserted its war-powers role. But as in the prior summary, resilience is increasingly external to executive conduct itself. Ethical self-limitation inside office remains weak; correction comes mainly after the fact from courts, oversight, and litigation.\n\nCompared with the previous week, the republic looks less like it is facing isolated abuses and more like it is living inside a normalized contest over whether power will be bounded at all. The floor is holding in contested form, but it is holding because counter-institutions are still working, not because leaders are reliably honoring democratic obligations from within.",
+    "trend": "deteriorating",
+    "stress_points": [
+      "transactional use of executive power against ordinary lawmaking",
+      "coercive pressure on state election administration",
+      "politicization of intelligence leadership and staffing",
+      "terror framing of domestic dissent",
+      "unsupported official narratives on public controversies",
+      "procurement and spending practices that weaken trust",
+      "executive pressure weakening legislative checks on war powers",
+      "withholding of election-security information"
+    ],
+    "sources_of_resilience": [
+      "lower federal courts blocking election overreach",
+      "judicial protection of due process and public access in immigration cases",
+      "congressional assertion of war-powers authority",
+      "oversight requests and litigation around contracting and records",
+      "continued availability of judicial review across multiple policy domains",
+      "civil society and media scrutiny sustaining transparency pressure"
+    ]
+  },
+  "risk_assessment": {
+    "level": "severe",
+    "justification": "Severe risk is warranted because the week showed broad, repeated breaches across several core democratic functions at once: elections, dissent, intelligence, immigration, public information, and war powers. The danger is not only the number of incidents but their ethical pattern. Power was used transactionally, checks were bypassed, dissent was recast as terrorism, and unsupported narratives were advanced in place of evidence. These are direct pressures on character, restraint, truthfulness, good_faith, and stewardship.\n\nThe risk is not best described as critical because the digest also shows substantial resistance with real effect. Courts repeatedly blocked election-related overreach, some judges protected transparency and due process, and Congress still showed some capacity to assert constitutional role. But those defenses were fragmented and reactive. If current patterns continue, further erosion is likely because the burden of preserving the moral floor is falling on institutions forced to contest each maneuver separately rather than on officeholders practicing ethical self-limitation.",
+    "forward_signals": [
+      "whether executive funding threats against state election rules escalate",
+      "further use of acting appointments or purge planning in sensitive agencies",
+      "additional terrorism-framed investigations or prosecutions of protest activity",
+      "new unsupported official narratives used to deflect accountability failures",
+      "whether Congress sustains or abandons war-powers resistance under pressure",
+      "continued withholding of election-security or other public-interest information",
+      "more oversight or court action on donor-linked contracting and public spending",
+      "signs that courts remain able to slow election and immigration overreach quickly"
+    ]
+  }
+}

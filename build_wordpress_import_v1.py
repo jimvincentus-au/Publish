@@ -18,7 +18,9 @@ import pandas as pd
 DEFAULT_IMAGE_BASE_URL = "https://thedemocracyclock.com/wp-content/uploads"
 DEFAULT_SITE_BASE_URL = "https://thedemocracyclock.com"
 
-PUBLISH_ROOT = Path("/Volumes/T3BlueJVI2026/Democracy Clock Automation/Publish")
+# Resolve paths relative to this script so the publish pipeline follows the
+# active working copy/volume instead of a stale hardcoded disk path.
+PUBLISH_ROOT = Path(__file__).resolve().parent
 WP_OUTPUT_ROOT = PUBLISH_ROOT / "Output" / "Wordpress"
 WP_INPUT_ROOT = PUBLISH_ROOT / "Input" / "Wordpress"
 PUBLISH_LOGS_DIR = PUBLISH_ROOT / "Logs"
@@ -769,8 +771,7 @@ def _minutes_after_noon_to_time_str(minutes_after_noon: float | int | None) -> s
 # Tier config is part of the Publish pipeline and must live alongside this script
 # (Publish is intentionally self-contained and has no external Config dependency).
 
-PUBLISH_ROOT_PATH = Path(__file__).resolve().parent
-CLOCK_TIER_CONFIG_PATH = PUBLISH_ROOT_PATH / "clock_status_tiers_v1.json"
+CLOCK_TIER_CONFIG_PATH = PUBLISH_ROOT / "clock_status_tiers_v1.json"
 
 def _load_clock_tiers() -> List[Dict[str, Any]]:
     """Load clock status tier bins from Publish-local config.

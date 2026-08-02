@@ -1,0 +1,509 @@
+{
+  "week_number": 80,
+  "period_label": "Week 80 – 2026-07-25–2026-07-31",
+  "window": {
+    "start": "2026-07-25",
+    "end": "2026-07-31"
+  },
+  "clock_time_public": "7:44 p.m.",
+  "clock_delta_minutes": 0.1,
+  "baseline_traits": [
+    {
+      "name": "character",
+      "definition": "Internal discipline to align words with deeds, to place public duty ahead of personal gain, and to honour the oath of office even when it conflicts with short-term advantage."
+    },
+    {
+      "name": "ethics",
+      "definition": "Commitment to keep a firm boundary between public power and private interest, avoiding conflicts of interest, self-dealing, and the use of office to enrich oneself, family, or allies."
+    },
+    {
+      "name": "restraint",
+      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+    },
+    {
+      "name": "truthfulness",
+      "definition": "Obligation to speak accurately on matters of public consequence, avoid deliberate disinformation, correct false statements, and ensure that citizens are not governed by manufactured unreality."
+    },
+    {
+      "name": "good_faith",
+      "definition": "Adherence to the spirit as well as the letter of democratic rules, keeping promises, respecting outcomes, and avoiding procedural manipulation that defeats the purpose of the law."
+    },
+    {
+      "name": "stewardship",
+      "definition": "Responsibility to maintain and strengthen institutions so they can serve future generations as well as the present, avoiding actions that permanently damage capacity, credibility, or public trust."
+    }
+  ],
+  "weekly_audit": {
+    "summary": "The week showed continued erosion of the moral floor through ordinary legal and administrative forms rather than open rupture. Executive power was used to reward allies, pressure institutions of memory, narrow ballot access, harden immigration coercion, and preserve personal legal shelter, while public information around war, security, and history remained unstable or politically managed. Courts, some legislators, and civil society still imposed partial checks, but the dominant pattern was normalization of ethically thin governance across several domains at once.",
+    "norms_broken": [
+      {
+        "trait": "character",
+        "pattern": "Public office was used in ways that placed personal or political advantage ahead of impartial public duty, especially where presidential authority was directed toward personal legal protection or partisan punishment.",
+        "severity": "serious",
+        "institutional_response": "The Senate Judiciary Committee used delay as leverage and courts exposed some facts, but the digest shows no decisive correction of the underlying willingness to use office for self-protective or partisan ends.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk80_character_ex01",
+            "week": 80,
+            "event_ids": [
+              "wk80_PA_011",
+              "wk80_IG_043"
+            ],
+            "developments": [
+              {
+                "development_id": "wk80_PA_011",
+                "development_label": "Refused to end a tax immunity agreement and related settlement fund tied to his tax records case",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk80_IG_043",
+                "development_label": "Senate Judiciary Committee postponed and then canceled a vote on Todd Blanche's attorney general nomination",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Presidential power was used to preserve disputed personal legal protections.",
+            "why_exemplary": "Character fails when the oath of office yields to self-protection. The linked nomination fight shows institutions recognized the conflict but only slowed it.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk80_character_ex02",
+            "week": 80,
+            "event_ids": [
+              "wk80_PA_003"
+            ],
+            "developments": [
+              {
+                "development_id": "wk80_PA_003",
+                "development_label": "Administration admitted in court that it cut clean energy grants based on states' 2024 voting behavior",
+                "role": "primary"
+              }
+            ],
+            "summary": "Federal grants were admitted to have been cut by partisan voting behavior.",
+            "why_exemplary": "Using public funds to reward allies and punish opposition-led states shows public duty subordinated to political advantage rather than neutral service.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "The boundary between public power and private interest was weakened where presidential authority and justice-related appointments were entangled with the president's own legal exposure.",
+        "severity": "serious",
+        "institutional_response": "Senate delay and activist opposition signaled resistance, but the ethical conflict itself remained active and unresolved in the week's record.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk80_ethics_ex01",
+            "week": 80,
+            "event_ids": [
+              "wk80_PA_011",
+              "wk80_IG_043"
+            ],
+            "developments": [
+              {
+                "development_id": "wk80_PA_011",
+                "development_label": "Refused to end a tax immunity agreement and related settlement fund tied to his tax records case",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk80_IG_043",
+                "development_label": "Senate Judiciary Committee postponed and then canceled a vote on Todd Blanche's attorney general nomination",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A disputed immunity arrangement shadowed the fight over the attorney general post.",
+            "why_exemplary": "Ethics requires separation between public legal authority and private legal need. This episode blurred that line by linking a top justice appointment to personal protection.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "Officials repeatedly pressed maximal executive or procedural power in elections, war, trade, immigration, and cultural governance instead of practicing self-limitation.",
+        "severity": "extreme",
+        "institutional_response": "Courts blocked or slowed some actions and some Senate Republicans resisted procedural escalation, but Congress also declined to reassert war powers and much of the pressure remained intact.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk80_restraint_ex01",
+            "week": 80,
+            "event_ids": [
+              "wk80_PA_007",
+              "wk80_IG_044"
+            ],
+            "developments": [
+              {
+                "development_id": "wk80_PA_007",
+                "development_label": "Notified Congress about military action in Iran while claiming the War Powers deadline did not apply",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk80_IG_044",
+                "development_label": "Senate rejected a resolution to limit Trump's authority to continue military operations in Iran",
+                "role": "secondary"
+              }
+            ],
+            "summary": "War authority was asserted broadly and then left largely unchecked by the Senate.",
+            "why_exemplary": "Restraint is breached when the executive narrows Congress's practical role in hostilities and the legislature declines to restore the limit.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk80_restraint_ex02",
+            "week": 80,
+            "event_ids": [
+              "wk80_PA_001",
+              "wk80_IM_006"
+            ],
+            "developments": [
+              {
+                "development_id": "wk80_PA_001",
+                "development_label": "Ordered temporary signs outside the Smithsonian accusing it of inaccuracy and calling for exhibit renovation",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk80_IM_006",
+                "development_label": "Administration reportedly delayed Smithsonian Board of Regents nominations to shape the board's composition",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Presidential power was used to pressure a national museum's content and governance.",
+            "why_exemplary": "Democratic restraint requires distance from direct control of public memory. This pattern showed the opposite: using office to manage a cultural institution from above.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "Public understanding was weakened by false claims, unstable war reporting, and executive pressure on historical narrative, making shared facts harder to maintain.",
+        "severity": "extreme",
+        "institutional_response": "Critics, judges, and some public figures challenged secrecy or defended fuller history, but the digest shows no broad official correction sufficient to restore confidence.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk80_truthfulness_ex01",
+            "week": 80,
+            "event_ids": [
+              "wk80_IM_005",
+              "wk80_IM_008"
+            ],
+            "developments": [
+              {
+                "development_id": "wk80_IM_005",
+                "development_label": "Claimed he personally controlled the Strait of Hormuz",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk80_IM_008",
+                "development_label": "Dismissed allegations of Iranian cyberattacks on Minnesota water systems and blamed state officials",
+                "role": "secondary"
+              }
+            ],
+            "summary": "False or misleading presidential claims distorted foreign-policy and security understanding.",
+            "why_exemplary": "Truthfulness is breached when senior officials inject unreality into matters of war and infrastructure risk, leaving citizens unsure what authority or threat is real.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk80_truthfulness_ex02",
+            "week": 80,
+            "event_ids": [
+              "wk80_IG_006",
+              "wk80_IG_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk80_IG_006",
+                "development_label": "Pentagon revised casualty figures and categories for the Iran conflict",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk80_IG_005",
+                "development_label": "Critics said the administration withheld the names of U.S. service members killed in Iran",
+                "role": "secondary"
+              }
+            ],
+            "summary": "War casualty reporting shifted while key names were withheld from public view.",
+            "why_exemplary": "Democratic truthfulness requires stable, timely facts about war costs. Revisions and withholding complicated oversight and weakened trust in the official record.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Procedural tools were used to carry democratic changes through leverage rather than straightforward debate, and election access was pursued through multiple pressure points at once.",
+        "severity": "serious",
+        "institutional_response": "Some courts preserved ballot-access protections and Senate Republicans resisted one procedural demand, but the main pattern remained strategic manipulation of process.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk80_good_faith_ex01",
+            "week": 80,
+            "event_ids": [
+              "wk80_IG_001",
+              "wk80_CR_038"
+            ],
+            "developments": [
+              {
+                "development_id": "wk80_IG_001",
+                "development_label": "House Republicans passed a defense bill merged with voting restrictions on mail ballots and voter ID",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk80_CR_038",
+                "development_label": "Administration asked the Supreme Court to let restrictive mail-voting rules take effect",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Voting restrictions were advanced through both must-pass legislation and emergency litigation.",
+            "why_exemplary": "Good faith weakens when election rules are pursued through procedural leverage and compressed pathways rather than open democratic justification.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk80_good_faith_ex02",
+            "week": 80,
+            "event_ids": [
+              "wk80_IG_011",
+              "wk80_IG_010"
+            ],
+            "developments": [
+              {
+                "development_id": "wk80_IG_011",
+                "development_label": "President demanded that Senate Republicans end the filibuster to pass the SAVE America Act",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk80_IG_010",
+                "development_label": "Senate Republicans resisted ending the filibuster",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The executive pressed the Senate to change its rules for a voting bill.",
+            "why_exemplary": "The demand treated legislative procedure as an obstacle to be bent for a preferred outcome, rather than respecting the chamber's own institutional process.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Institutional credibility and future capacity were weakened by politicizing public memory, degrading neutral administration, and hardening coercive systems that already showed poor accountability.",
+        "severity": "extreme",
+        "institutional_response": "Courts, monitors, and civic actors documented harms and preserved some corrective channels, but the week's dominant effect was cumulative damage to trust and institutional independence.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk80_stewardship_ex01",
+            "week": 80,
+            "event_ids": [
+              "wk80_PA_001",
+              "wk80_IM_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk80_PA_001",
+                "development_label": "President ordered temporary signs outside the Smithsonian accusing it of inaccuracy",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk80_IM_001",
+                "development_label": "White House released a report attacking the Smithsonian's portrayal of American history",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Executive power was used to pressure a national museum's historical record.",
+            "why_exemplary": "Stewardship fails when institutions meant to preserve shared civic memory are treated as objects of political management rather than protected public trusts.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk80_stewardship_ex02",
+            "week": 80,
+            "event_ids": [
+              "wk80_CR_024",
+              "wk80_CR_016"
+            ],
+            "developments": [
+              {
+                "development_id": "wk80_CR_024",
+                "development_label": "Office of Refugee Resettlement shared leads contributing to thousands of immigration arrests",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk80_CR_016",
+                "development_label": "Court-appointed monitor reported an ICE facility failed to meet court-ordered health care standards",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Protective and custodial systems were repurposed or run without meeting basic standards.",
+            "why_exemplary": "Turning welfare channels into enforcement pipelines while detention fails court-ordered care damages long-term trust in state institutions and their lawful purpose.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      }
+    ],
+    "norms_strengthened": [
+      {
+        "trait": "restraint",
+        "pattern": "Courts and some legislators continued to impose practical limits on executive overreach in elections, public health, and legislative procedure.",
+        "scope": "institutional",
+        "why_it_matters": "Democratic restraint survives when other institutions can still slow concentrated power and insist that major changes pass through lawful channels.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk80_restraint_ex03",
+            "week": 80,
+            "event_ids": [
+              "wk80_IG_003",
+              "wk80_IG_025"
+            ],
+            "developments": [
+              {
+                "development_id": "wk80_IG_003",
+                "development_label": "First Circuit refused to stay an injunction blocking parts of Trump's election administration order",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk80_IG_025",
+                "development_label": "Federal judge halted changes to the federal vaccine schedule and paused the advisory committee's work",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Courts preserved checks on election administration and public-health process.",
+            "why_exemplary": "These rulings reinforced that executive preferences do not automatically override legal limits or expert-governance structures.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk80_restraint_ex04",
+            "week": 80,
+            "event_ids": [
+              "wk80_IG_010"
+            ],
+            "developments": [
+              {
+                "development_id": "wk80_IG_010",
+                "development_label": "Senate Republicans resisted ending the filibuster to pass the SAVE Act despite pressure from Trump",
+                "role": "primary"
+              }
+            ],
+            "summary": "Senators declined executive pressure to rewrite chamber rules for a voting bill.",
+            "why_exemplary": "Self-government depends on institutions refusing to surrender their own procedures to immediate partisan demand from outside the chamber.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Some courts and election institutions continued to protect ordinary democratic process rather than allowing disputed restrictions to take effect unchecked.",
+        "scope": "institutional",
+        "why_it_matters": "Good faith is reinforced when institutions preserve the practical meaning of lawful participation and resist efforts to manipulate election rules through pressure or timing.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk80_good_faith_ex03",
+            "week": 80,
+            "event_ids": [
+              "wk80_IG_049",
+              "wk80_IG_003"
+            ],
+            "developments": [
+              {
+                "development_id": "wk80_IG_049",
+                "development_label": "Kansas Court of Appeals upheld counting of timely postmarked mail ballots arriving after Election Day",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk80_IG_003",
+                "development_label": "First Circuit preserved an injunction against parts of the election administration order",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Courts protected existing ballot-counting rules and checked federal election reach.",
+            "why_exemplary": "These actions upheld the spirit of fair participation by preserving valid votes and limiting opportunistic interference with election administration.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Public institutions, courts, and civic actors kept some review, participation, and corrective capacity alive despite broader erosion.",
+        "scope": "public",
+        "why_it_matters": "Stewardship depends on preserving the mechanisms that allow future repair: public input, judicial review, and civic preparation.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk80_stewardship_ex03",
+            "week": 80,
+            "event_ids": [
+              "wk80_CR_014",
+              "wk80_IG_018"
+            ],
+            "developments": [
+              {
+                "development_id": "wk80_CR_014",
+                "development_label": "Election organizers in North Carolina scheduled training for poll workers, advocates, and de-escalation teams",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk80_IG_018",
+                "development_label": "FCC sought comments on emergency information accessibility requirements",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Civic training and formal public comment channels remained active.",
+            "why_exemplary": "Institutional resilience grows when citizens prepare to protect elections and agencies continue to use participatory rulemaking rather than closed command.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk80_stewardship_ex04",
+            "week": 80,
+            "event_ids": [
+              "wk80_IG_004",
+              "wk80_CR_040"
+            ],
+            "developments": [
+              {
+                "development_id": "wk80_IG_004",
+                "development_label": "Judge Emmet Sullivan ordered unredacted Epstein-related records for private review",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk80_CR_040",
+                "development_label": "Organizers and South Bay officials rallied against a planned ICE detention facility near Gilroy",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Judicial oversight and local organizing kept accountability channels open.",
+            "why_exemplary": "Future correction remains possible when courts demand justification for secrecy and communities mobilize before coercive infrastructure becomes entrenched.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      }
+    ],
+    "direction_of_movement": "eroding"
+  },
+  "cumulative_condition": {
+    "narrative": "Week 80 fits the prior trajectory closely and deepens it. The previous summary described a republic whose moral floor was being maintained less by internal duty than by external resistance. This week confirms that diagnosis while making the pattern more integrated. The same traits remained under pressure, but the breaches converged more visibly across elections, immigration, war powers, information control, and public memory.\n\nCompared with Week 79, the ethical problem is even less about isolated misconduct and more about a governing style. Character and ethics were weakened by the continued mixing of presidential office with personal legal protection. Restraint, good_faith, and stewardship were weakened by using ordinary procedures to carry coercive ends: voting restrictions through must-pass legislation, war authority through broad unilateral claims, immigration enforcement through repurposed welfare systems, and cultural control through appointments and executive messaging. Truthfulness remained under severe strain as false claims, unstable war reporting, and managed historical narrative all made shared reality harder to sustain.\n\nThe moral floor has not fully collapsed because corrective institutions still function in part. Courts blocked or slowed several actions, some senators resisted procedural escalation, and civic actors continued training, protest, and oversight. But these supports are increasingly reactive. The cumulative condition is a democracy where self-limitation, candor, and institutional care are no longer reliably supplied from within power itself.",
+    "trend": "deteriorating",
+    "stress_points": [
+      "partisan use of public funds and grants",
+      "presidential pressure on institutions of public memory",
+      "procedural hardball around voting rules",
+      "expanding immigration coercion with weak due-process safeguards",
+      "broad executive claims over war and trade authority",
+      "unstable or politically managed public information",
+      "personal legal interests shadowing justice appointments",
+      "erosion of trust in neutral administration"
+    ],
+    "sources_of_resilience": [
+      "appellate and trial-court checks on executive action",
+      "senate resistance to some rule changes under executive pressure",
+      "state and local election protections",
+      "public-comment and advisory processes still functioning in agencies",
+      "court-ordered review of secrecy and detention conditions",
+      "civic organizing around voting access and detention expansion",
+      "public criticism and reporting that force visibility onto abuses"
+    ]
+  },
+  "risk_assessment": {
+    "level": "severe",
+    "justification": "Severe risk is warranted because this week showed simultaneous breaches across all six moral-floor traits, with the heaviest damage concentrated in restraint, truthfulness, good_faith, and stewardship. The most serious developments were structural rather than episodic: admitted partisan allocation of grants, broad unilateral claims over war powers, procedural packaging of voting restrictions, executive pressure on a national museum's historical narrative and governance, and immigration enforcement practices that repurposed protective systems while detention conditions remained deficient. These are not merely controversial policies. They affect whether power is exercised impartially, truthfully, and with care for institutions that must outlast current officeholders.\n\nThe risk is not best described as critical because the digest still shows meaningful resistance with practical effect. Courts preserved injunctions, blocked some public-health and election-related actions, and demanded review of secrecy. Some senators resisted executive pressure, and civic actors continued to organize, train, and protest. But those defenses were mostly defensive and fragmented. If the current pattern continues, further erosion is likely because ethically weak uses of ordinary procedure are becoming normalized rather than exceptional.",
+    "forward_signals": [
+      "whether the Smithsonian pressure campaign moves from messaging into durable board or exhibit control",
+      "additional use of must-pass bills or emergency litigation to narrow ballot access",
+      "further claims that war powers or trade powers bypass ordinary legislative limits",
+      "continued mixing of presidential legal interests with justice or intelligence appointments",
+      "escalation of immigration arrests through administrative data-sharing systems",
+      "whether courts continue to preserve injunctions or begin yielding more ground",
+      "further instability or withholding in war, security, or casualty reporting",
+      "new retaliation or chilling pressure against media, experts, or public witnesses"
+    ]
+  }
+}

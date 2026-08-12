@@ -876,6 +876,20 @@ def format_metadata_for_notes(week: int, meta: Dict[str, Any]) -> str:
     return "\n".join(lines)
 
 
+def _verification_marker(ev: Dict[str, Any]) -> str:
+    """Soft-annotation marker (option ii): flag events Step 9 could not verify to
+    tier-1 or multi-source, so readers can weight them appropriately. Verified
+    events (tier1_primary / multi_source_corroborated) get NO marker. An
+    un-annotated appendix (no `corroboration` object) also gets no marker."""
+    corr = ev.get("corroboration")
+    tier = corr.get("verification_tier") if isinstance(corr, dict) else None
+    if tier == "single_source_unverified":
+        return " *[single source]*"
+    if tier == "unverified":
+        return " *[unverified]*"
+    return ""
+
+
 def build_appendix_from_json(path: Path) -> str:
     """Convert events_appendix JSON into categorized Markdown."""
     ensure_exists(path, "week appendix (events_appendix JSON)")
@@ -938,7 +952,10 @@ def build_appendix_from_json(path: Path) -> str:
                         label_parts.append(f"({source})")
 
                 label = " ".join(label_parts).strip()
+                marker = _verification_marker(ev)
                 first_line = f"{idx}. {label}" if label else f"{idx}."
+                if marker:
+                    first_line = f"{first_line}{marker}"
                 if summary:
                     first_line = f"{first_line}: {summary}"
                 lines.append(first_line)
@@ -996,7 +1013,10 @@ def build_appendix_from_json(path: Path) -> str:
                         label_parts.append(f"({source})")
 
                 label = " ".join(label_parts).strip()
+                marker = _verification_marker(ev)
                 first_line = f"{idx}. {label}" if label else f"{idx}."
+                if marker:
+                    first_line = f"{first_line}{marker}"
                 if summary:
                     first_line = f"{first_line}: {summary}"
                 lines.append(first_line)

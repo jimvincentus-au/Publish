@@ -87,7 +87,6 @@ class WeekPaths:
     week_dir: Path
     narrative_publish: Path
     narrative_final: Path
-    narrative_draft3: Path
     metadata_json: Path
     appendix: Path
     image_wide: Optional[Path]
@@ -127,7 +126,6 @@ def discover_week_paths(week_number: int) -> WeekPaths:
     week_dir = STEP3_WEEKS_DIR / week_label
     narrative_publish = week_dir / f"step5_narrative_{slug}_publish.txt"
     narrative_final = week_dir / f"step5_narrative_{slug}_final.txt"
-    narrative_draft3 = week_dir / f"step5_narrative_{slug}_draft3.txt"
     metadata_json = week_dir / f"metadata_stack_{slug}.json"
     appendix = week_dir / f"events_appendix_{slug}.json"
 
@@ -209,7 +207,6 @@ def discover_week_paths(week_number: int) -> WeekPaths:
         week_dir=week_dir,
         narrative_publish=narrative_publish,
         narrative_final=narrative_final,
-        narrative_draft3=narrative_draft3,
         metadata_json=metadata_json,
         appendix=appendix,
         image_wide=image_wide,
@@ -1937,31 +1934,18 @@ def build_publish_week(
 
     ensure_exists(paths.week_dir, "week directory")
 
-    # Narrative selection
-    if use_publish:
-        if paths.narrative_publish.exists():
-            narrative_path = paths.narrative_publish
-            logger.info("Using PUBLISH narrative for Week %s (explicit --use-publish): %s", week_number, narrative_path)
-        elif paths.narrative_final.exists():
-            narrative_path = paths.narrative_final
-            logger.warning("Requested --use-publish for Week %s but no _publish file; falling back to FINAL: %s", week_number, narrative_path)
-        elif paths.narrative_draft3.exists():
-            narrative_path = paths.narrative_draft3
-            logger.warning("Requested --use-publish for Week %s but no _publish/_final; falling back to DRAFT3: %s", week_number, narrative_path)
-        else:
-            raise FileNotFoundError(f"Expected narrative (_publish, _final, or _draft3) for Week {week_number} in {paths.week_dir}")
+    # Narrative selection: _publish (step5b, style-constrained) is created LAST in
+    # the Step 5 chain, so it is the canonical narrative — prefer it. Fall back to
+    # _final only if step5b did not run. (--use-publish is retained for backward
+    # compatibility but is now the default behaviour; the flag is a no-op.)
+    if paths.narrative_publish.exists():
+        narrative_path = paths.narrative_publish
+        logger.info("Using PUBLISH narrative for Week %s (canonical, created last): %s", week_number, narrative_path)
+    elif paths.narrative_final.exists():
+        narrative_path = paths.narrative_final
+        logger.warning("Week %s: no _publish narrative; falling back to FINAL: %s", week_number, narrative_path)
     else:
-        if paths.narrative_final.exists():
-            narrative_path = paths.narrative_final
-            logger.info("Using FINAL narrative for Week %s (default): %s", week_number, narrative_path)
-        elif paths.narrative_publish.exists():
-            narrative_path = paths.narrative_publish
-            logger.info("Using PUBLISH narrative for Week %s (no _final found; falling back): %s", week_number, narrative_path)
-        elif paths.narrative_draft3.exists():
-            narrative_path = paths.narrative_draft3
-            logger.info("Using legacy DRAFT3 narrative for Week %s (no _final/_publish found): %s", week_number, narrative_path)
-        else:
-            raise FileNotFoundError(f"Expected narrative (_final, _publish, or _draft3) for Week {week_number} in {paths.week_dir}")
+        raise FileNotFoundError(f"Expected narrative (_publish or _final) for Week {week_number} in {paths.week_dir}")
 
     ensure_exists(paths.metadata_json, "metadata_stack JSON")
     metadata = load_metadata(paths.metadata_json)
@@ -2375,8 +2359,8 @@ def parse_args(argv: Optional[list[str]] = None) -> argparse.Namespace:
         "--use-publish",
         action="store_true",
         help=(
-            "Use step5_narrative_weekNN_publish.txt instead of "
-            "step5_narrative_weekNN_draft3.txt when selecting the narrative."
+            "Deprecated no-op. The _publish narrative (step5b, created last in the "
+            "Step 5 chain) is now the default; _final is used only if _publish is absent."
         ),
     )
     parser.add_argument(

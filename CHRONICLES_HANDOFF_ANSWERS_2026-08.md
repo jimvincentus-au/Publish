@@ -172,12 +172,48 @@ job, not a gate job**, and it must precede Fix C.
 ## Class-test cost (measured): it eliminates the tier, not a handful
 
 Of events currently `multi_source_corroborated`, how many have ≥1 Tier-1 corroborator?
-**Zero — wk1: 0/14, wk34: 0/43, all 81 weeks: 0/2638.** This is definitional: an event lands in
-`multi_source_corroborated` precisely *because* it had ≥2 news desks and **no** Tier-1 (a Tier-1
-source routes it to `tier1_primary` instead). So a class test that requires a Tier-1 corroborator
-**demotes 100% of the MSC pool** (43 events in wk34, 2,638 across the backfill). That is the honest
-cost of the class-test ruling: it doesn't refine the tier, it retires it — every two-news-desk event
-drops to single-source/needs-Tier-1. Right or wrong per the book's promise, it is not marginal.
+**Against the CURRENT narrow Tier-1 table (AP/Reuters/WSJ/NYT/WaPo/LAT): zero — 0/14, 0/43,
+0/2638.** But that number is **coupled to Ruling 3** and must not be read alone:
+
+| Tier table | MSC events surviving the class test |
+|---|---|
+| Current narrow (6 wires/broadsheets) | **0 / 2638 (0%)** — class test guts the pool |
+| **Ruling 1+3 as drafted** (broadcast news desks → Tier 1) | **2620 / 2638 (99%)** — ~1% demoted |
+
+It's definitional in reverse: an MSC event is corroborated *by exactly the news desks Ruling 3
+promotes* — so promoting them gives ~99% of MSC events a legitimate Tier-1 corroborator. **So
+Ruling 3 decides whether the class test is a scalpel (18 residual events) or a wrecking ball (all
+2,638).** The 18 that still demote under Ruling 3 are MSC events corroborated only by outlets outside
+the broadcast/news-desk class — the genuine scope of the test once the table is ratified. (Correction
+to the earlier line here: "the class test retires the tier" is true ONLY against the current table;
+under the drafted rulings it is marginal.)
+
+## Independent archive-side verification of the ruling sheet (Code)
+
+Re-derived the testable archive-side identities from the master event logs (all 81 weeks). The
+**identities behind Rulings 2/7/8 are confirmed decisively**; magnitudes differ because Code counted
+raw rows across all 81 weeks while the sheet scoped Vol 4 (and likely deduped) — a scope artifact
+that moves no ruling:
+
+| Key | Sheet's identity | Code (all-weeks) | Verdict |
+|---|---|---|---|
+| `orders` | Ballotpedia tracker | **264/264 = 100% ballotpedia.org** | confirmed (purer than the sheet's Vol-4 mix) |
+| `outloud` | kziegler.substack | 405/410 kziegler.substack.com | confirmed |
+| `50501` | the50501movement.org | 520/571 the50501movement.org | confirmed |
+| `doomsdayscenario` | 0 events | 0 | confirmed |
+| `guardian` | archive's largest | 6746 (largest source_key) | confirmed |
+
+**What Code CANNOT verify:** the endnote-side numbers (20.4% Tier-1, 79% unruled, ~113 broadcast
+notes). Those live in the manuscript, which is CoWork's — they remain CoWork's to stand behind. They
+are also the numbers that drive Rulings 1/3, so that boundary matters.
+
+**Class-test mechanism (ready on ratification):** the tier table is
+`Step 3/Trump Action Archive/source_tier_lookup.json` (`domains` by tier + `keys` by source_key). The
+rulings map onto it directly — Ruling 1/3/4/9 add `tier1` domains; Ruling 5 adds a `reference` class;
+Rulings 2/7 mark `orders`/`outloud` as aggregator keys (tier follows the underlying URL); Ruling 8
+removes `50501` to an event-origin tag; Ruling 10 marks `syndication` as tier-less. Then the class
+test on `multi_source_corroborated` = require ≥1 `corroborated_by` whose domain is `tier1` in the
+ratified table. Code implements once you freeze v1.0.
 
 ## Harvester: built and tested (commit a134796)
 

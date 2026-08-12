@@ -143,6 +143,51 @@ standard, **or** `multi_source_corroborated` gets a **class test** layered on be
 claim (i.e. require ≥1 class-Tier-1 among the corroborators, not merely ≥2 desks). Code can implement
 either once you rule; neither is implemented now.
 
+## P9 (ghost IDs): the discriminating test says DRIFT, not fabrication — proven
+
+Ran your test on week 35 against git history. Pulled the **Dec-24 allocator** (the CoWork vintage)
+and resolved its cited IDs against three appendix builds:
+
+| Allocator IDs resolved against | Unresolved (ghosts) |
+|---|---|
+| **Dec-22 appendix** (contemporaneous with the allocator) | **0 / 157** |
+| **Jan-06 appendix** (≈ the Mar-08 enriched copy's source) | **19** |
+| **Jul-03 appendix** (current-era) | **39** |
+
+Every ID the Dec allocator cited **resolved in the Dec appendix** — valid when written — and decayed
+as the appendix was rebuilt underneath it. The ghosts are contiguous tail blocks (`wk35_CR_038…_049`),
+the shrinking-appendix signature. **This refutes fabrication** (the model never cited past the real
+data) and **confirms provenance drift**. Independently: our *current* matched pair (current allocator
++ current appendix) has **0 ghosts** — a matched build never ghosts.
+
+**Consequence for the P9 fix:** the step4_8 validation gate is the WRONG fix — it would have PASSED
+at generation time (0 ghosts in Dec) and this state would still have happened, because the corruption
+is introduced later, at appendix-rebuild time. The correct fix is **provenance pinning**: stamp the
+appendix build identity (a content hash or the event-ID set) into the allocator at generation, and
+**invalidate/flag the allocator when the appendix changes underneath it**. Plus write the
+`manifest.json` that `setup_inputs.py` documents but never produced (`Volumes/Vol04/manifest.json`
+is absent — which is why this needed mtime forensics). This reorders the queue: **P9 is a pinning
+job, not a gate job**, and it must precede Fix C.
+
+## Class-test cost (measured): it eliminates the tier, not a handful
+
+Of events currently `multi_source_corroborated`, how many have ≥1 Tier-1 corroborator?
+**Zero — wk1: 0/14, wk34: 0/43, all 81 weeks: 0/2638.** This is definitional: an event lands in
+`multi_source_corroborated` precisely *because* it had ≥2 news desks and **no** Tier-1 (a Tier-1
+source routes it to `tier1_primary` instead). So a class test that requires a Tier-1 corroborator
+**demotes 100% of the MSC pool** (43 events in wk34, 2,638 across the backfill). That is the honest
+cost of the class-test ruling: it doesn't refine the tier, it retires it — every two-news-desk event
+drops to single-source/needs-Tier-1. Right or wrong per the book's promise, it is not marginal.
+
+## Harvester: built and tested (commit a134796)
+
+`Step 3/Trump Action Archive/harvest_source_dates_v1.py`. All five requirements honored. Smoke test
+on wk34 corroborator URLs: 3/6 resolved with date + verbatim headline + byline; NYT (×2) and NPR
+returned `http_403/402` — the distinct **retryable** `fetch_error` state, not `no_date`. Note:
+paywalled/bot-blocked Tier-1 sites (esp. NYT) won't yield to plain HTTP; NYT-domain URLs could be
+routed through the existing NYT API key to recover pub_date by URL — a small follow-up if the Vol-4
+endnote set is NYT-heavy.
+
 ## Decisions that are the user's, not ours
 - **Tier taxonomy reconciliation** (three tiers vs. the book's two-tier "Note on Sources") — the
   user must rule which taxonomy governs and how `verification_tier`/`archive_grade` map onto the

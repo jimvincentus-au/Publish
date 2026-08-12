@@ -175,18 +175,24 @@ Of events currently `multi_source_corroborated`, how many have ≥1 Tier-1 corro
 **Against the CURRENT narrow Tier-1 table (AP/Reuters/WSJ/NYT/WaPo/LAT): zero — 0/14, 0/43,
 0/2638.** But that number is **coupled to Ruling 3** and must not be read alone:
 
-| Tier table | MSC events surviving the class test |
-|---|---|
-| Current narrow (6 wires/broadsheets) | **0 / 2638 (0%)** — class test guts the pool |
-| **Ruling 1+3 as drafted** (broadcast news desks → Tier 1) | **2620 / 2638 (99%)** — ~1% demoted |
+The cost is **three-valued**, and it turns on the `news_desk_class_scope` decision (measured against
+the staged draft table, all 81 weeks, MSC=2638):
 
-It's definitional in reverse: an MSC event is corroborated *by exactly the news desks Ruling 3
-promotes* — so promoting them gives ~99% of MSC events a legitimate Tier-1 corroborator. **So
-Ruling 3 decides whether the class test is a scalpel (18 residual events) or a wrecking ball (all
-2,638).** The 18 that still demote under Ruling 3 are MSC events corroborated only by outlets outside
-the broadcast/news-desk class — the genuine scope of the test once the table is ratified. (Correction
-to the earlier line here: "the class test retires the tier" is true ONLY against the current table;
-under the drafted rulings it is marginal.)
+| Tier table | MSC surviving the class test |
+|---|---|
+| Current narrow (6 wires/broadsheets) | **0 / 2638 (0%)** — guts the pool |
+| **Draft as literally written** (Rulings 3/4/9 — NAMED desks only) | **1847 / 2638 (70%)** — 791 demoted |
+| All passing news_desk domains → Tier 1 | **2620 / 2638 (99%)** — ~18 demoted |
+
+So the earlier "0/2638 retires the tier" holds ONLY against the current table; and CoWork's "under
+Ruling 3 the check is nearly vacuous (2620/2638)" holds ONLY if the *whole* news_desk class is
+promoted. **The sheet's named rulings alone demote 791 events (30%)** — not marginal. The residual
+791 are corroborated only by outlets the 11 rulings don't rule; the top ones:
+`nypost.com (295) · washingtontimes.com (264) · propublica.org (242) · thedispatch.com (206) ·
+theguardian.com (199) · nationalreview.com (161) · theatlantic.com (115) · thehill.com (98) ·
+freebeacon.com (56) · scotusblog.com (41)`. That list — spanning the spectrum — IS the
+`news_desk_class_scope` decision made concrete: each needs Ruling 1's newsroom test applied. It is a
+12th ruling the data says you need, and it moves 29 percentage points of the MSC pool.
 
 ## Independent archive-side verification of the ruling sheet (Code)
 

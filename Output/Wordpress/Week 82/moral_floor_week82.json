@@ -1,0 +1,389 @@
+{
+  "week_number": 82,
+  "period_label": "Week 82 – Aug 8–14 2026",
+  "window": {
+    "start": "2026-08-08",
+    "end": "2026-08-14"
+  },
+  "clock_time_public": "7:40 p.m.",
+  "clock_delta_minutes": -0.1,
+  "baseline_traits": [
+    {
+      "name": "character",
+      "definition": "Internal discipline to align words with deeds, to place public duty ahead of personal gain, and to honour the oath of office even when it conflicts with short-term advantage."
+    },
+    {
+      "name": "ethics",
+      "definition": "Commitment to keep a firm boundary between public power and private interest, avoiding conflicts of interest, self-dealing, and the use of office to enrich oneself, family, or allies."
+    },
+    {
+      "name": "restraint",
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+    },
+    {
+      "name": "truthfulness",
+      "definition": "Obligation to speak accurately on matters of public consequence, avoid deliberate disinformation, correct false statements, and ensure that citizens are not governed by manufactured unreality."
+    },
+    {
+      "name": "good_faith",
+      "definition": "Adherence to the spirit as well as the letter of democratic rules, keeping promises, respecting outcomes, and avoiding procedural manipulation that defeats the purpose of the law."
+    },
+    {
+      "name": "stewardship",
+      "definition": "Responsibility to maintain and strengthen institutions so they can serve future generations as well as the present, avoiding actions that permanently damage capacity, credibility, or public trust."
+    }
+  ],
+  "weekly_audit": {
+    "summary": "Week 82 confirmed a president's former personal lawyer as Attorney General and watched federal law enforcement move within days to serve presidential grievances, while the president's family income approached $2.2 billion for the term through crypto ventures, paid access to presidential speech, and foreign-linked negotiations. A Trump-aligned board openly defied a binding federal court order. Enforcement agencies expanded physical and surveillance capacity against immigrants and protestors, including procurement of shock gloves and infiltration of peaceful organizing. Courts, a stalled defense budget, and a state pesticide ban provided partial, reactive resistance, but none reversed the underlying conduct. The pattern is one of parallel tracks: politicized justice, self-enrichment, and institutional defiance advancing largely unchecked, offset only partially by scattered judicial and legislative friction.",
+    "norms_broken": [
+      {
+        "trait": "ethics",
+        "pattern": "The confirmation of Trump's former personal defense lawyer as Attorney General was followed almost immediately by White House pressure on federal prosecutors to revive a dismissed case against a specific defendant the president had criticized, collapsing the boundary between personal loyalty and impartial law enforcement.",
+        "severity": "extreme",
+        "institutional_response": "The Senate confirmed the nominee by the narrowest possible margin over documented objections; no subsequent institutional mechanism blocked the prosecutorial pressure that followed within days.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk82_ethics_ex01",
+            "week": 82,
+            "event_ids": [
+              "wk82_IG_004",
+              "wk82_PA_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk82_IG_004",
+                "development_label": "Senate confirmed Todd Blanche, Trump's former personal lawyer, as Attorney General in a narrow 50-49 vote.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk82_PA_004",
+                "development_label": "Trump pressured a US Attorney to reverse a dropped indictment and demanded prosecution of a specific defendant.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A president's former personal lawyer became Attorney General; within days, prosecutorial independence was tested by direct presidential demands for a specific reversal.",
+            "why_exemplary": "Multi-source corroborated confirmation combined with a documented, immediate act of prosecutorial pressure shows the conflict of interest was not theoretical but operational almost instantly.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk82_ethics_ex02",
+            "week": 82,
+            "event_ids": [
+              "wk82_ES_018",
+              "wk82_ES_015"
+            ],
+            "developments": [
+              {
+                "development_id": "wk82_ES_018",
+                "development_label": "Trump generated approximately $2.2 billion in personal revenue through crypto holdings, Truth Social schemes, an IRS settlement, and a foreign gift.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk82_ES_015",
+                "development_label": "Trump Media launched a paid subscription selling early access to presidential posts to Wall Street firms for $100,000 per month.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Documented multi-billion-dollar personal enrichment during the term, including a scheme selling privileged early access to presidential communications to trading firms.",
+            "why_exemplary": "Tier-one corroborated reporting establishes systematic, ongoing conversion of the presidency into a revenue-generating enterprise with plausible insider-trading implications.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "A Trump-aligned Kennedy Center board voted to inscribe the president's name and proceed with closure plans that a federal court had explicitly blocked, choosing open defiance over compliance or appeal.",
+        "severity": "extreme",
+        "institutional_response": "The underlying court order remained formally in place at week's end, but no enforcement action against the board's defiance is recorded; the episode tested whether judicial rulings can be enforced against executive-aligned bodies.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk82_good_faith_ex01",
+            "week": 82,
+            "event_ids": [
+              "wk82_PA_014",
+              "wk82_IG_018"
+            ],
+            "developments": [
+              {
+                "development_id": "wk82_PA_014",
+                "development_label": "Kennedy Center board voted to inscribe Trump's name and proceed with closure plans despite a federal court order blocking both actions.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk82_IG_018",
+                "development_label": "The board's second vote directly tested compliance with the binding judicial ruling governing the institution.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A federal cultural institution's board openly defied a binding court order blocking both a naming change and a closure plan.",
+            "why_exemplary": "Tier-one corroborated reporting documents direct, repeated defiance of a judicial order by a body operating under federal authority, a rare and serious breach of adherence to binding legal outcomes.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk82_good_faith_ex02",
+            "week": 82,
+            "event_ids": [
+              "wk82_PA_015"
+            ],
+            "developments": [
+              {
+                "development_id": "wk82_PA_015",
+                "development_label": "Trump petitioned the Supreme Court to allow White House ballroom construction despite an appeals court injunction.",
+                "role": "primary"
+              }
+            ],
+            "summary": "After an appellate court reaffirmed limits on unilateral White House construction, the president sought Supreme Court intervention to override the injunction outright.",
+            "why_exemplary": "This tier-one corroborated escalation shows an adverse ruling treated as an obstacle to route around rather than a limit to respect, consistent with a broader pattern of resisting judicial constraint.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "Enforcement agencies expanded physical coercion and surveillance capacity well beyond stated security needs: ICE moved to procure electric-shock gloves for use against detainees, and DHS ran an undercover infiltration operation against peaceful protest and labor organizing that produced fifteen indictments.",
+        "severity": "serious",
+        "institutional_response": "Reporting drew public outrage and some local government pushback (Columbus restricted data sharing), but no federal body halted either program during the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk82_restraint_ex01",
+            "week": 82,
+            "event_ids": [
+              "wk82_CR_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk82_CR_005",
+                "development_label": "ICE announced plans to spend up to $20 million on electric-shock gloves for use against detainees.",
+                "role": "primary"
+              }
+            ],
+            "summary": "ICE moved to formally procure and budget for pain-delivery devices against detained individuals, drawing public alarm over escalation.",
+            "why_exemplary": "Tier-one corroborated reporting documents institutionalized, budgeted acquisition of a coercive tool rather than an isolated incident, indicating a systemic lowering of self-imposed limits on enforcement conduct.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk82_restraint_ex02",
+            "week": 82,
+            "event_ids": [
+              "wk82_CR_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk82_CR_009",
+                "development_label": "DHS ran an undercover surveillance operation infiltrating peaceful protest groups and labor unions in Minnesota, leading to 15 indictments.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Federal agents infiltrated lawful protest-planning and union meetings over an extended period, resulting in indictments against organizers.",
+            "why_exemplary": "Multi-source corroborated reporting shows a federal agency treating protected assembly and organized labor as inherent security threats, a significant expansion of surveillance power without corresponding restraint.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "The president and senior officials repeatedly contradicted verifiable data and documented conditions: denying a munitions shortage while threatening leakers, disputing the administration's own jobs report on air, and falsely claiming full US Navy control of the Strait of Hormuz against shipping data.",
+        "severity": "serious",
+        "institutional_response": "Independent journalism and shipping/economic data contradicted the claims publicly; no administration correction is recorded.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk82_truthfulness_ex01",
+            "week": 82,
+            "event_ids": [
+              "wk82_IM_001",
+              "wk82_PA_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk82_IM_001",
+                "development_label": "Trump denied reports of a missile shortage and threatened prosecution of leakers as treasonous.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk82_PA_005",
+                "development_label": "Trump ordered investigations into leakers of weapons shortage information and threatened long jail sentences.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The president denied a documented munitions shortage while threatening severe punishment for those who disclosed it, pairing falsehood with intimidation.",
+            "why_exemplary": "Corroborated across multiple outlets, this pairing of denial and threatened prosecution directly chills accurate reporting on matters of national security.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk82_truthfulness_ex02",
+            "week": 82,
+            "event_ids": [
+              "wk82_IM_012",
+              "wk82_IM_007"
+            ],
+            "developments": [
+              {
+                "development_id": "wk82_IM_012",
+                "development_label": "Trump falsely claimed total US Navy control over the Strait of Hormuz while shipping data showed near-total closure.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk82_IM_007",
+                "development_label": "Administration officials denied documented economic deterioration on Sunday news programs despite contradicting job-loss figures.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Statements on an active military crisis and on the economy directly contradicted verifiable data, both military shipping records and the administration's own labor statistics.",
+            "why_exemplary": "Multi-source corroborated reporting demonstrates a pattern in which senior officials, including the president, publicly reject their own government's documented data.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Congressional appropriations authority was bypassed to fund at least $927 million in White House renovations, including a nearly 5,000 percent increase in Park Service funds redirected to White House grounds projects, while a DOJ Office of Legal Counsel opinion extended executive privilege to private presidential advisors, narrowing future oversight capacity.",
+        "severity": "serious",
+        "institutional_response": "Courts blocked a related construction project, but the funding redirection and privilege expansion proceeded through executive channels without direct legislative or judicial reversal within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk82_stewardship_ex01",
+            "week": 82,
+            "event_ids": [
+              "wk82_PA_009",
+              "wk82_ES_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk82_PA_009",
+                "development_label": "The administration bypassed Congress to fund at least $927 million in White House renovations using redirected agency and private funds.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk82_ES_012",
+                "development_label": "Over $323 million in Park Service funds were redirected to White House grounds projects, a nearly 5,000 percent increase over 2024 levels.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Public funds intended for national park stewardship were redirected at unprecedented scale toward presidential grounds projects, bypassing congressional appropriation.",
+            "why_exemplary": "Tier-one corroborated reporting documents a durable diversion of resources away from public institutional purposes, weakening long-term legislative control over federal spending.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk82_stewardship_ex02",
+            "week": 82,
+            "event_ids": [
+              "wk82_PA_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk82_PA_011",
+                "development_label": "DOJ Office of Legal Counsel issued an opinion extending executive privilege to private presidential advisors.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A new legal opinion sought to shield communications between the president and outside advisors from congressional and judicial scrutiny.",
+            "why_exemplary": "Multi-source corroborated reporting shows a durable doctrinal expansion that could permanently narrow future oversight capacity, a structural rather than episodic harm.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      }
+    ],
+    "norms_strengthened": [
+      {
+        "trait": "good_faith",
+        "pattern": "A federal appeals court reaffirmed that the president lacks unilateral authority over White House property absent congressional approval, and a federal judge dismissed the administration's lawsuit against Harvard for lacking factual basis.",
+        "scope": "institutional",
+        "why_it_matters": "Judicial willingness to rule against the executive on the merits, even under sustained pressure and subsequent appeal, preserves meaningful separation-of-powers constraint.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk82_good_faith_strength_ex01",
+            "week": 82,
+            "event_ids": [
+              "wk82_IG_003"
+            ],
+            "developments": [
+              {
+                "development_id": "wk82_IG_003",
+                "development_label": "US Court of Appeals for the DC Circuit upheld a ban on Trump's unilateral White House ballroom construction.",
+                "role": "primary"
+              }
+            ],
+            "summary": "An appeals court reaffirmed that presidential authority over White House property is legally constrained absent congressional approval.",
+            "why_exemplary": "A tier-one corroborated ruling maintained a structural check even as the president sought to escalate around it, demonstrating durable judicial resolve.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk82_good_faith_strength_ex02",
+            "week": 82,
+            "event_ids": [
+              "wk82_IG_017"
+            ],
+            "developments": [
+              {
+                "development_id": "wk82_IG_017",
+                "development_label": "A federal judge dismissed the administration's lawsuit alleging Harvard failed to protect Jewish students from harassment.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A federal court dismissed a contested lawsuit used to pressure a university, finding insufficient factual basis for the claims.",
+            "why_exemplary": "Corroborated reporting shows a court constraining the use of litigation as a coercive tool against an independent institution.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "Congressional oversight persisted across party lines in narrow but real ways: Senate Republicans failed to advance a $1.5 trillion defense budget favored by the administration, and Democratic senators pressed for information on luxury aircraft purchases and ICE use-of-force practices.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Continued willingness within the president's own party to resist a favored budget request, alongside minority oversight efforts, signals that institutional loyalty has not fully displaced independent judgment in Congress.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk82_character_strength_ex01",
+            "week": 82,
+            "event_ids": [
+              "wk82_IG_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk82_IG_012",
+                "development_label": "Senate Republicans were unable to advance a $1.5 trillion defense budget favored by Defense Secretary Hegseth.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The president's own party failed to advance a major defense spending priority, reflecting intra-party resistance ahead of midterms.",
+            "why_exemplary": "This documented stall shows that party loyalty has not fully subordinated fiscal and institutional judgment to executive preference.",
+            "exemplar_type": "primary"
+          }
+        ]
+      }
+    ],
+    "direction_of_movement": "eroding"
+  },
+  "cumulative_condition": {
+    "narrative": "Week 82 extends the trajectory chronicled since Week 80 and sharpened in Week 81, but with a notable structural escalation: the confirmation of a president's personal lawyer as Attorney General converted a standing conflict-of-interest concern into an operational one almost overnight, as prosecutorial pressure followed within days. This deepens the ethics stress flagged in the prior summary — no longer merely a nomination shaped by personal protection, but a functioning department whose independence is now actively tested by direct presidential demands.\n\nThe defiance by the Kennedy Center board of a binding federal court order marks a new and more serious test of good faith than prior weeks' record of resisting or re-litigating adverse rulings. Where Week 81 showed the executive re-litigating a settled constitutional question through new executive orders, Week 82 shows an executive-aligned body simply ignoring a court's order altogether. Whether this defiance carries consequence remains unresolved, but its occurrence alone marks a further slide from procedural contestation toward open non-compliance.\n\nSelf-enrichment, flagged as a stewardship and ethics concern in Week 81 through the paid Truth Social access tier, has now been quantified: approximately $2.2 billion in documented personal revenue over the term, drawn from crypto ventures tied to opaque foreign investors, a paid-access scheme now fully operational and monetizing privileged government communication, and a family member's private firm profiting from the same governments he negotiates with officially. This is not an isolated instance but an accumulating, systemic pattern that the ongoing lawsuit against the paid-access scheme has not yet interrupted. Meanwhile, enforcement capacity against immigrants and dissenters continued to expand in both scale and severity, including procurement of coercive devices and infiltration of lawful organizing, consistent with the detention and surveillance escalation noted previously.\n\nCountervailing forces remain real but reactive: courts held the line on White House construction and dismissed a coercive lawsuit against Harvard; Senate Republicans stalled a favored defense budget; a state banned a toxic pesticide; congressional Democrats pursued oversight into luxury spending and ICE conduct. As in prior weeks, none of these actions reversed the underlying conduct they responded to — money continued moving despite the ballroom injunction, and enforcement expansion continued despite public backlash. The moral floor has not collapsed, but its erosion has become more structural and less recoverable with each passing week.",
+    "trend": "deteriorating",
+    "stress_points": [
+      "Justice Department independence compromised by a personally conflicted Attorney General",
+      "open defiance of a binding federal court order by a Trump-aligned board",
+      "quantified, systemic presidential self-enrichment through crypto and paid-access schemes",
+      "expansion of coercive and surveillance enforcement capacity against vulnerable populations and lawful dissent",
+      "bypassing of congressional appropriations authority for executive projects",
+      "expansion of executive privilege doctrine narrowing future oversight"
+    ],
+    "sources_of_resilience": [
+      "appellate judicial enforcement of separation-of-powers limits",
+      "judicial dismissal of coercive litigation against independent institutions",
+      "intra-party congressional resistance to a favored defense budget",
+      "minority-party oversight requests on luxury spending and enforcement conduct",
+      "state-level regulatory action independent of federal inaction",
+      "local government responsiveness to public scrutiny of surveillance data-sharing"
+    ]
+  },
+  "risk_assessment": {
+    "level": "severe",
+    "justification": "The moral floor remains severely stressed and shows further structural deterioration rather than stabilization. A conflicted Attorney General confirmation converted into operational prosecutorial pressure within days, a federal court order was openly defied by an executive-aligned board, and documented multi-billion-dollar personal enrichment continued through mechanisms including paid access to presidential communications and opaque foreign investment. Enforcement agencies expanded coercive capacity and surveillance against vulnerable and dissenting populations without meaningful internal restraint. Countervailing institutional action — appellate rulings, a dismissed coercive lawsuit, a stalled defense budget, oversight requests — persisted but remained reactive and partial, unable to reverse the conduct it responded to. The near-zero net clock movement this week reflects a rough balance between escalating harm and partial resistance, not genuine stabilization of the underlying structure.",
+    "forward_signals": [
+      "whether the Kennedy Center court order is enforced against continued board defiance",
+      "whether prosecutorial pressure on the Attorney General's office produces further politicized case reversals",
+      "whether the Supreme Court grants or denies the ballroom construction petition",
+      "whether the paid early-access lawsuit against Trump Media produces any injunction or penalty",
+      "whether ICE's shock-glove procurement proceeds to deployment or draws legal challenge",
+      "whether congressional oversight into luxury spending and Minnesota surveillance produces public accountability"
+    ]
+  }
+}

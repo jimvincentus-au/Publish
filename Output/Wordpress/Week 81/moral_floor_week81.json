@@ -1,0 +1,331 @@
+{
+  "week_number": 81,
+  "period_label": "Week 81",
+  "window": {
+    "start": "2026-08-01",
+    "end": "2026-08-07"
+  },
+  "clock_time_public": "7:40 p.m.",
+  "clock_delta_minutes": 0.0,
+  "baseline_traits": [
+    {
+      "name": "character",
+      "definition": "Internal discipline to align words with deeds, to place public duty ahead of personal gain, and to honour the oath of office even when it conflicts with short-term advantage."
+    },
+    {
+      "name": "ethics",
+      "definition": "Commitment to keep a firm boundary between public power and private interest, avoiding conflicts of interest, self-dealing, and the use of office to enrich oneself, family, or allies."
+    },
+    {
+      "name": "restraint",
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+    },
+    {
+      "name": "truthfulness",
+      "definition": "Obligation to speak accurately on matters of public consequence, avoid deliberate disinformation, correct false statements, and ensure that citizens are not governed by manufactured unreality."
+    },
+    {
+      "name": "good_faith",
+      "definition": "Adherence to the spirit as well as the letter of democratic rules, keeping promises, respecting outcomes, and avoiding procedural manipulation that defeats the purpose of the law."
+    },
+    {
+      "name": "stewardship",
+      "definition": "Responsibility to maintain and strengthen institutions so they can serve future generations as well as the present, avoiding actions that permanently damage capacity, credibility, or public trust."
+    }
+  ],
+  "weekly_audit": {
+    "summary": "Week 81 showed pressure without net resolution: the executive pressed hardest at the boundaries of basic status — citizenship, detention, surveillance, and press scrutiny — while attorney general nomination politics remained entangled with personal financial protection, and disinformation and pay-to-access schemes continued to blur public and private interest. Courts, voters, and some institutional actors pushed back in specific instances, but the overall pattern was one of continued erosion at the structural level, checked only partially and unevenly.",
+    "norms_broken": [
+      {
+        "trait": "good_faith",
+        "pattern": "The administration signed executive orders restricting birthright citizenship and birth tourism weeks after the Supreme Court affirmed birthright citizenship protections, treating a settled constitutional ruling as a starting point for renewed executive pressure rather than a binding limit.",
+        "severity": "serious",
+        "institutional_response": "Courts had not yet ruled on the new orders by week's end; civil society groups and legal commentators flagged the constitutional conflict, but no immediate injunction is recorded in this digest.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk81_good_faith_ex01",
+            "week": 81,
+            "event_ids": [
+              "wk81_PA_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk81_PA_009",
+                "development_label": "Trump signed executive orders restricting birthright citizenship and birth tourism weeks after Supreme Court affirmation.",
+                "role": "primary"
+              }
+            ],
+            "summary": "New executive orders sought to narrow birthright citizenship shortly after the Supreme Court had affirmed it, testing the finality of judicial review.",
+            "why_exemplary": "A multi-source corroborated action shows the executive treating a recent, settled constitutional ruling as negotiable rather than final, a direct challenge to good-faith acceptance of judicial outcomes.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "Todd Blanche's rescission of the disputed $1.8 billion anti-weaponization fund, timed to ease his own confirmation and reported to shield Trump and his family from tax audits, continued the pattern of a top law enforcement nomination entangled with the president's personal legal and financial protection.",
+        "severity": "serious",
+        "institutional_response": "The Senate Judiciary Committee advanced the nomination and Republican holdouts, including Cassidy, ultimately supported confirmation, suggesting the conflict was resolved through political accommodation rather than independent scrutiny.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk81_ethics_ex01",
+            "week": 81,
+            "event_ids": [
+              "wk81_IG_004",
+              "wk81_PA_008"
+            ],
+            "developments": [
+              {
+                "development_id": "wk81_IG_004",
+                "development_label": "Blanche released documents purporting to rescind the anti-weaponization fund, appearing to shield Trump and family from tax audits.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk81_PA_008",
+                "development_label": "Trump pressured Blanche over abandonment of the fund even as confirmation proceeded.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A contested rescission of a personal-protection fund, paired with continued presidential pressure on his own nominee, cleared the path for Blanche's confirmation as attorney general.",
+            "why_exemplary": "Tier-one corroborated reporting documents a top DOJ appointment shaped by unresolved conflicts between institutional independence and presidential financial protection.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "DHS exempted border wall contractors from Endangered Species Act compliance, ICE adopted a body-camera policy granting discretion to withhold footage of officer-involved deaths, and DOJ gutted its own internal misconduct oversight office amid a surge in complaints — each removing a check on executive agency conduct without corresponding external constraint.",
+        "severity": "concerning",
+        "institutional_response": "No external body reversed these actions within the week; civil society groups and reporting flagged the pattern, but institutional response was limited to documentation rather than reversal.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk81_restraint_ex01",
+            "week": 81,
+            "event_ids": [
+              "wk81_IG_022",
+              "wk81_IG_026"
+            ],
+            "developments": [
+              {
+                "development_id": "wk81_IG_022",
+                "development_label": "DOJ gutted its Office of Professional Responsibility amid a surge in misconduct complaints.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk81_IG_026",
+                "development_label": "ICE adopted a body-camera policy granting discretion to withhold footage of officer-involved deaths.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Internal watchdog capacity was reduced even as complaints rose, while new camera policy preserved agency control over what death-related footage the public may see.",
+            "why_exemplary": "Tier-one corroborated reporting shows two agencies simultaneously narrowing internal and external accountability mechanisms rather than expanding them.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "Trump continued to press false claims about vandalism at the Lincoln Memorial reflecting pool even after acknowledging no proof existed, while pressuring a federal prosecutor over the dismissed case; separately, a dark-money group ran a false attack ad against a sitting senator and operated a network of fake local news sites in competitive states.",
+        "severity": "serious",
+        "institutional_response": "Journalists documented the false claims and the absence of evidence; no administration correction or retraction is recorded, and the prosecutor faced public pressure rather than institutional protection.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk81_truthfulness_ex01",
+            "week": 81,
+            "event_ids": [
+              "wk81_IM_005",
+              "wk81_IM_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk81_IM_005",
+                "development_label": "Trump posted and maintained false claims about reflecting pool vandalism, then pressured the prosecutor who dropped the case.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk81_IM_011",
+                "development_label": "Trump publicly attacked US Attorney Jeanine Pirro over her dismissal of the vandalism case.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The president sustained a factually unsupported public claim and pressured the prosecutor who declined to pursue it, conflating personal narrative with prosecutorial independence.",
+            "why_exemplary": "Multi-source corroborated reporting confirms sustained false public claims paired with direct pressure on legal discretion, undermining both truthfulness and prosecutorial independence.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk81_truthfulness_ex02",
+            "week": 81,
+            "event_ids": [
+              "wk81_CR_011",
+              "wk81_IM_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk81_CR_011",
+                "development_label": "One Nation broadcast a false political ad attacking Senator Ossoff.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk81_IM_012",
+                "development_label": "One Nation created a network of fake news sites targeting competitive Senate race states.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A dark-money group combined a false attack advertisement with deceptive fake-news infrastructure ahead of competitive elections.",
+            "why_exemplary": "Multi-source corroborated events show coordinated disinformation infrastructure designed to manufacture unreality in electorally consequential states.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Executive interference with the Smithsonian continued via a new order targeting alleged political activism, while Trump Media's paid early-access tier to presidential posts converted public communication into a tiered private revenue product, undermining equal public access to government-relevant information.",
+        "severity": "concerning",
+        "institutional_response": "No institutional reversal recorded within the week; reporting and public commentary raised concerns but did not produce corrective action.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk81_stewardship_ex01",
+            "week": 81,
+            "event_ids": [
+              "wk81_ES_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk81_ES_002",
+                "development_label": "Trump Media launched a paid tier selling early access to presidential posts for up to $100,000 monthly.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A premium subscription tier monetized advance access to market-moving presidential communications, converting public office into a private revenue stream.",
+            "why_exemplary": "Multi-source corroborated reporting documents a direct commercial fusion of the presidency's communicative authority with a paid, unequal-access product, damaging the credibility of equal public information access.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk81_stewardship_ex02",
+            "week": 81,
+            "event_ids": [
+              "wk81_PA_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk81_PA_001",
+                "development_label": "Executive order targeted the Smithsonian Institution over alleged political activism.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A new order sought to control messaging at a major public history museum, extending prior efforts to reshape independent cultural institutions.",
+            "why_exemplary": "A tier-one corroborated action continuing a durable campaign to capture governance of an institution intended to serve future generations impartially.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      }
+    ],
+    "norms_strengthened": [
+      {
+        "trait": "good_faith",
+        "pattern": "The DC Circuit upheld a preliminary injunction blocking White House ballroom construction, reaffirming that the president lacks unilateral authority over federal property absent congressional authorization, and federal judges ruled against the administration in 75 of 93 First Amendment cases.",
+        "scope": "institutional",
+        "why_it_matters": "Continued judicial willingness to enforce separation-of-powers limits and protect speech rights, even amid sustained executive pressure, preserves a meaningful check against unilateral executive action.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk81_good_faith_strength_ex01",
+            "week": 81,
+            "event_ids": [
+              "wk81_IG_003"
+            ],
+            "developments": [
+              {
+                "development_id": "wk81_IG_003",
+                "development_label": "US Court of Appeals for the DC Circuit upheld injunction halting White House ballroom construction.",
+                "role": "primary"
+              }
+            ],
+            "summary": "An appeals court reaffirmed that the president cannot unilaterally demolish and rebuild federal property without congressional authorization.",
+            "why_exemplary": "A tier-one corroborated ruling maintains a structural check on executive control over public property, reinforcing constitutional limits.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk81_good_faith_strength_ex02",
+            "week": 81,
+            "event_ids": [
+              "wk81_CR_025"
+            ],
+            "developments": [
+              {
+                "development_id": "wk81_CR_025",
+                "development_label": "Federal judges ruled against the administration in 75 of 93 First Amendment cases.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A large majority of First Amendment rulings went against the administration, demonstrating sustained judicial resistance to speech and press restrictions.",
+            "why_exemplary": "The pattern, drawn from a substantive case count, shows courts continuing to check systemic efforts to suppress protected dissent.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "The House ethics committee recommended censure of Rep. Chuck Edwards for sexual harassment and opened a formal investigation into Rep. Max Miller over domestic abuse allegations, while a Republican senator publicly called for a colleague's resignation over the same allegations, showing willingness to hold members of one's own party accountable.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Bipartisan or intra-party enforcement of personal conduct standards against sitting members, even when politically uncomfortable, signals that some baseline accountability for personal character remains functional within Congress.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk81_character_strength_ex01",
+            "week": 81,
+            "event_ids": [
+              "wk81_IG_007",
+              "wk81_IG_008"
+            ],
+            "developments": [
+              {
+                "development_id": "wk81_IG_007",
+                "development_label": "House ethics committee recommended censure of Rep. Chuck Edwards for sexual harassment.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk81_IG_008",
+                "development_label": "Senator Bernie Moreno called for Rep. Max Miller's resignation over domestic abuse allegations.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A bipartisan ethics finding against a sitting member and a Republican senator's public call for a colleague's resignation showed enforcement of personal conduct norms within the same party.",
+            "why_exemplary": "Tier-one and multi-source corroborated events demonstrate that internal accountability structures, though imperfect, continued to function against members of the governing party itself.",
+            "exemplar_type": "primary"
+          }
+        ]
+      }
+    ],
+    "direction_of_movement": "eroding"
+  },
+  "cumulative_condition": {
+    "narrative": "Week 81 extends the trajectory documented through Week 80 without a sharp new rupture but with clarified structure: displacement of pressure onto the most basic questions of democratic membership and scrutiny — who belongs, who may be watched, who may speak, and who may profit from proximity to power. The birthright citizenship orders, issued weeks after Supreme Court affirmation, echo the tariff-cycling and forum-shopping patterns of Week 80 in treating adverse or settled judicial outcomes as starting points for renewed pressure rather than binding limits. The Blanche confirmation saga concluded much as it began, with a nomination whose ethical taint — tied to a fund benefiting the president's personal legal exposure — was managed through political bargaining rather than resolved through independent scrutiny, extending the ethics concern flagged in the prior week's summary.\n\nNew this week was the sharpening of surveillance and detention infrastructure (record ICE arrests, private detention center purchases, discretionary body-camera footage release, gutted internal DOJ oversight) alongside a novel fusion of presidential communication and commercial gain via paid early access to Truth Social posts. These developments deepen the stewardship and ethics concerns raised previously regarding institutional capture and conflicts of interest, now extending into surveillance capacity and information markets.\n\nCountervailing forces persisted at a meaningful but partial level. The DC Circuit upheld separation-of-powers limits on White House property, federal judges ruled against the administration in the large majority of First Amendment cases reviewed, and Congress's own ethics processes produced real, if incomplete, accountability for sitting members. Voters in Kansas and Missouri had rejected anti-democratic ballot measures in the preceding period, and this week's data continues to show that resistance remains strongest where institutions are closest to citizens and where legal process retains independent force. As in Week 80, these checks arrived alongside or after the underlying conduct rather than preventing it, consistent with a pattern of erosion that holds steady rather than accelerating, but does not reverse.",
+    "trend": "deteriorating",
+    "stress_points": [
+      "executive re-litigation of settled constitutional rulings on citizenship",
+      "conflict of interest embedded in attorney general confirmation process",
+      "expansion of detention and surveillance infrastructure with reduced accountability",
+      "gutting of internal DOJ misconduct oversight amid rising complaints",
+      "commercialization of presidential communication through paid access tiers",
+      "coordinated disinformation infrastructure targeting competitive elections"
+    ],
+    "sources_of_resilience": [
+      "judicial enforcement of separation-of-powers limits on executive property control",
+      "sustained judicial rejection of First Amendment restrictions in the large majority of cases",
+      "congressional ethics enforcement against sitting members of the governing party",
+      "state and local pushback against surveillance overreach",
+      "independent journalism documenting false claims and disinformation networks"
+    ]
+  },
+  "risk_assessment": {
+    "level": "severe",
+    "justification": "The moral floor remains severely stressed and shows no meaningful recovery from the prior week. Verified events confirm the executive pressing against a recently settled constitutional ruling on citizenship, a top law enforcement confirmation shaped by unresolved personal financial conflicts, and simultaneous reductions in internal (DOJ) and external (body-camera footage) accountability mechanisms. A new fusion of presidential communication and paid commercial access further blurs the line between public office and private enrichment. Countervailing institutional action — appellate enforcement of separation of powers, a strong majority of First Amendment rulings against the administration, and congressional ethics enforcement against sitting members — demonstrates that meaningful resistance persists, but it remains reactive, partial, and concentrated at levels closer to citizens rather than at the federal executive core.",
+    "forward_signals": [
+      "whether Blanche's confirmation and the fund's rescission produce genuine independence from presidential interests",
+      "whether courts intervene against the new birthright citizenship and birth tourism orders",
+      "whether DOJ's reduced internal oversight capacity is restored or further eroded",
+      "whether ICE's discretionary body-camera policy is challenged or narrowed",
+      "whether Trump Media's paid-access tier draws regulatory or market scrutiny",
+      "whether disinformation networks targeting competitive Senate races expand or face exposure"
+    ]
+  }
+}

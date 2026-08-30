@@ -278,3 +278,217 @@ Information, Memory and Manipulation
 17. Robert F. Kennedy Jr. maintained financial ties to a Scientology-linked law firm while serving as HHS secretary: The relationship raised conflict-of-interest concerns that could affect trust in official health messaging and policy choices. — 2026-07-09
 
 18. Heather Cox Richardson commemorated the Fourteenth Amendment and its equal-protection principles: The commemoration reinforced public memory of a constitutional safeguard central to citizenship and civil rights debates. — 2026-07-10
+
+<!-- BEGIN GENERATED APPENDIX -->
+Power and Authority
+
+1. Trump delivered a campaign-style speech at the nation's 250th anniversary event on the National Mall: The president used a nonpartisan national commemoration to attack political opponents, repeat election fraud claims, and promote partisan messaging, blurring the line between office and campaign. — 2026-07-04
+
+2. Trump issued 11 pardons including Clean Air Act violators and financial fraudsters: Presidential clemency for emissions-law violators, timed with rollback of related environmental rules, signals selective enforcement and erosion of regulatory accountability. — 2026-07-04
+
+3. Trump delivered a speech at Mt. Rushmore branding political opponents as communists and demanding voter-suppression legislation: The president equated political disagreement with existential threat and explicitly called for passage of a voter-restriction law, undermining norms of legitimate opposition and electoral fairness. — 2026-07-04
+
+4. Trump referenced serving a third presidential term before self-correcting: A public remark implying continued tenure beyond constitutional limits raises questions about respect for the 22nd Amendment's two-term restriction. — 2026-07-04
+
+5. Trump refused to cancel a National Mall speech despite a severe-weather evacuation order [single source]: Overriding emergency management protocols during a dangerous storm to proceed with a political event put attendees at risk and prioritized spectacle over public safety. — 2026-07-04
+
+6. Trump used a Qatari-gifted aircraft for a flyover at his July 4th event: Deployment of a foreign-gifted jet for a domestic patriotic display raises conflict-of-interest and emoluments concerns about blending personal financial benefit with official events. — 2026-07-04
+
+7. Trump dozed off during the July 4th fireworks display [single source]: Documented inattention during a major event he insisted on holding despite an emergency evacuation raises questions about judgment and fitness in office. — 2026-07-05
+
+8. Trump made incoherent statements confusing Iran with Japan and Zelensky with Putin: Fundamental confusion about key foreign leaders during active military conflict raises public questions about presidential capacity to reliably conduct national security affairs. — 2026-07-08
+
+9. Trump used an alternate aircraft for security reasons and misrepresented the reason publicly [single source]: Deception about switching planes during a national security crisis undermines truthful public communication about presidential safety and movements. — 2026-07-08
+
+10. Trump ordered Treasury Secretary to cut off all trade with Spain over a policy disagreement: A unilateral, likely unenforceable directive to sever trade with a NATO ally over refusal to grant military basing signals willingness to weaponize economic power against allies. — 2026-07-08
+
+11. Trump declined to sign a bipartisan housing bill, conditioning approval on unrelated voter-suppression legislation: Refusing to sign broadly popular legislation unless Congress passes a separate voting-restriction act uses executive leverage to coerce legislative action harming ballot access. — 2026-07-10
+
+12. Trump removed all commissioners from the bipartisan Election Assistance Commission: Firing every remaining member of the federal body that certifies voting systems and assists election administration eliminates independent oversight of election infrastructure ahead of midterms. — 2026-07-09
+
+
+Institutions and Governance
+
+1. North Carolina General Assembly overrode the governor's veto of SB 153, an immigration-enforcement escalation bill [single source]: A legislative override removed executive restraint on a bill intensifying enforcement and surveillance targeting immigrants and people of color. — 2026-07-04
+
+2. Trump filed a motion to delay payment of a $5.8 million civil judgment to E. Jean Carroll: Repeated procedural delay tactics against a final civil judgment test whether a sitting president can evade compliance with court-ordered damages. — 2026-07-04
+
+3. SCOTUS ruled on transgender athletes' eligibility in sports: A Supreme Court decision on transgender athletic participation sets binding precedent shaping legal recognition and access to public institutions. — 2026-07-04
+
+4. House Committee on Natural Resources released a report alleging Trump diverted America250 donations to the parallel Freedom 250 entity: A congressional investigation into alleged fraud and diversion of charitable donations and appropriations, including funds routed to a January 6 rally organizer, exercises oversight of potential executive misconduct. — 2026-07-06
+
+5. SCOTUS denied applications to vacate stays in Computer & Communications Industry Association v. Paxton and SEAT v. Paxton: The Court's denial of stay-vacation requests preserves existing lower-court suspensions, affecting the pace of judicial relief for the parties involved. — 2026-07-06
+
+6. Mike Johnson announced plans to pass the SAVE America Act via budget reconciliation to avoid a filibuster [single source]: Using a procedural shortcut designed to bypass normal debate to enact voter-suppression legislation would curtail voting access and circumvent deliberative safeguards. — 2026-07-07
+
+7. 11th Circuit Court of Appeals struck down the higher-education provision of Florida's Stop Woke Act [single source]: A federal appeals panel found the law's restriction on professors' speech regarding race and gender unconstitutional, reaffirming academic freedom protections against state control of discourse. — 2026-07-07
+
+8. SCOTUS ruled that TPS determinations are largely exempt from judicial review [single source]: A 6-3 ruling strips courts of oversight over Temporary Protected Status decisions, enabling the administration to terminate protections for over a million immigrants without judicial check. — 2026-07-07
+
+9. SCOTUS approved reinstatement of the asylum "metering" policy at the US-Mexico border [single source]: Court approval of a previously rescinded policy limiting asylum-seeker processing at ports of entry narrows a legal pathway for humanitarian protection claims. — 2026-07-07
+
+10. Amanda McGonigle filed a First Amendment complaint alleging retaliatory exclusion from vice-presidential events: A citizen's lawsuit alleges Secret Service and White House officials barred her from public events for criticizing the vice president, testing constitutional limits on viewpoint discrimination at government functions. — 2026-07-07
+
+11. Federal appeals court rejected the administration's bid to pause removal of Trump's name from the Kennedy Center: A unanimous panel found no evidentiary support for the administration's financial-harm claims, reinforcing judicial independence against executive pressure to overturn a naming ruling. — 2026-07-08
+
+12. Judge Lewis Kaplan ordered release of $5.8 million in judgment funds to E. Jean Carroll: A federal judge enforced a long-delayed civil judgment against the president after the Supreme Court declined to hear his appeal, demonstrating judicial capacity to compel compliance. — 2026-07-08
+
+13. US Court of Appeals for the Second Circuit rejected Trump's emergency bid to delay the Carroll payment [single source]: The appellate court's swift denial of a delay tactic closed off further avenues for evading the civil judgment. — 2026-07-09
+
+14. Trump announced he would ask the Supreme Court to rehear its birthright citizenship ruling: Seeking to overturn a recently decided constitutional ruling on citizenship threatens judicial finality and signals intent to strip citizenship protections for many Americans. — 2026-07-08
+
+15. DOJ sent letters threatening criminal prosecution to election officials in all 50 states over noncitizen voting claims: Federal threats of prosecution against state election administrators, despite courts previously ruling similar data demands illegal, pressure officials ahead of midterms and risk chilling lawful election administration. — 2026-07-08
+
+16. Harmeet Dhillon announced DOJ election monitors for 15 jurisdictions in six states and demanded Lansing, Michigan voter data [single source]: Targeted deployment of federal monitors and data demands concentrated in Democratic-leaning jurisdictions departs from historical nonpartisan election oversight practice. — 2026-07-08
+
+17. Judge Tony Graf concluded the five-day preliminary hearing in the Tyler Robinson murder case and set final arguments for September: A capital murder proceeding against the man accused of killing Charlie Kirk moved forward, with the presiding judge to decide on advancing the case to trial. — 2026-07-10
+
+18. Trump declined to sign the bipartisan housing bill, which became law without his signature: Congress's ability to enact legislation despite presidential non-cooperation demonstrates a functioning constitutional safeguard against executive obstruction. — 2026-07-10
+
+19. Trump fired the last three members of the Election Assistance Commission: Removal of every remaining independent commissioner from a nonpartisan election-administration body ahead of midterms undermines institutional safeguards for election integrity. — 2026-07-10
+
+20. U.S. Congress (bipartisan group) urged HHS to establish stricter hospice monitoring rules for medically assisted suicide [single source]: Bipartisan lawmakers sought oversight to prevent coercion and discrimination affecting older adults and people with disabilities in end-of-life care settings. — 2026-07-09
+
+21. Federal courts (various) issued rulings and case updates across multiple pending challenges to administration actions: A cluster of ongoing federal litigation over immigration enforcement, agency conduct, and civil-rights claims continued to test administrative accountability under the rule of law. — 2026-07-06
+
+22. Todd Blanche was nominated to become attorney general with confirmation hearings scheduled: The nomination of the president's former personal defense lawyer, who has stated a continuing duty of loyalty to Trump, raises concerns about independence of federal law enforcement leadership. — 2026-07-09
+
+
+Economic Structure
+
+1. Trump administration conducted the largest fireworks display in U.S. history, releasing hazardous air toxins over Washington: A federally authorized display released tons of toxic chemicals into the air of the capital, producing documented public-health hazards and a subsequent air-quality emergency. — 2026-07-04
+
+2. Trump saw personal wealth increase by $2.2 billion since returning to office, mostly from cryptocurrency: Rapid accumulation of wealth by a sitting president from assets whose value may be influenced by his own policy decisions raises emoluments and self-dealing concerns. — 2026-07-04
+
+3. Food and Water Watch; Center for Biological Diversity publicly opposed the Ratepayer Protection Act, warning it raises consumer costs while easing environmental review [single source]: Advocacy groups warned that legislation framed as consumer protection actually shifts costs to ratepayers while accelerating datacenter construction and weakening environmental safeguards. — 2026-07-05
+
+4. Trump administration left toxic ash contamination around the Lincoln Memorial Reflecting Pool after the fireworks display: Environmental fallout from the federal celebration degraded a national monument and public space, raising questions about event planning and environmental accountability. — 2026-07-05
+
+5. Equal Employment Opportunity Commission rescinded its 1979 affirmative action guidelines under Title VII: Eliminating a decades-old legal safe harbor for voluntary affirmative action narrows workplace remedies for historically disadvantaged groups. — 2026-07-06
+
+6. Trump profited from a memecoin collapse that cost nearly a million investors $3.81 billion: The president personally extracted $636 million in fees from a cryptocurrency scheme whose value collapsed 97%, raising fraud and self-dealing concerns with no apparent regulatory response. — 2026-07-06
+
+7. Trump disclosed $1.4 billion in family cryptocurrency profits since taking office and defended his children's use of insider information: Public defense of profiting from privileged access to presidential decision-making raises conflict-of-interest and insider-trading concerns without corrective action. — 2026-07-06
+
+8. Newport Beach Police Department arrested over 400 people during a social-media-organized "TikTok takeover" gathering [single source]: Mass arrests and heavy police mobilization in response to an online-organized crowd event raise questions about proportional crowd-control tactics and treatment of young people. — 2026-07-05
+
+9. Trump administration pledged $300 million in earthquake aid to Venezuela via non-governmental channels after dismantling USAID: Routing disaster relief through NGOs after eliminating the federal aid agency reflects diminished U.S. humanitarian capacity, with the aid pledge dwarfed by oil revenue extracted from the same country. — 2026-07-06
+
+10. Trump administration extracted an estimated $8 billion in oil revenue from Venezuela without disclosing its use [single source]: Undisclosed extraction of foreign resources following military intervention raises questions about executive war powers, transparency, and use of public funds. — 2026-07-06
+
+11. Chinese National Bureau of Statistics; Chinese government reported GDP growth and unemployment figures inconsistent with independent estimates [single source]: Systematic manipulation of official economic statistics obscures true economic conditions, affecting international assessment of a major foreign power's stability. — 2026-07-06
+
+12. Water at Trump Freedom 250 project turned brown, indicating possible contamination [single source]: Environmental degradation at a presidential vanity project raises questions about oversight and safety of public-facing infrastructure built under expedited timelines. — 2026-07-08
+
+13. Strategic Petroleum Reserve approached critically low levels amid escalating military conflict [single source]: Depletion of the nation's strategic energy reserve during active military escalation undermines the government's capacity to manage further crises. — 2026-07-09
+
+14. Trump issued a proclamation exempting chemical manufacturers from Clean Air Act emissions standards for two years: A national-security proclamation suspending federal air-pollution controls for chemical plants prioritizes industrial deregulation over public health and environmental protections. — 2026-07-09
+
+15. Trump issued a proclamation directing trade negotiations on aircraft imports under Section 232 national security authority: Invoking national-security trade authority over aircraft imports asserts significant executive control over international commerce with reserved unilateral tariff power. — 2026-07-09
+
+16. New York City consumer protection office adopted a rule banning deceptive subscription practices and proposed a junk-fee disclosure rule [single source]: Local consumer-protection rules requiring transparent pricing and easy subscription cancellation protect residents from predatory corporate practices and hidden fees. — 2026-07-10
+
+17. Trump administration finalized a rule drastically cutting endangered species protections to open habitats to development: Eliminating regulatory barriers to commercial exploitation of critical habitat represents a major rollback of environmental law prioritizing extraction over conservation. — 2026-07-10
+
+18. Various federal agencies (EPA, FDA, FCC, GSA, OSHA) conducted routine rulemaking, information collection, and public comment activities: A broad set of routine regulatory actions across agencies reflects ordinary administrative governance affecting environmental, health, and telecommunications policy. — 2026-07-06
+
+
+Civil Rights and Dissent
+
+1. Gun Violence Archive (reporting entity) documented 224 mass shootings and over 6,600 gun deaths in the U.S. by early July [single source]: A record pace of mass-shooting violence over the July 4 weekend, including an attack on children at a family gathering, reflects a persistent public-safety crisis. — 2026-07-04
+
+2. ICE conducted a surge of 10,000 arrests in five days: A rapid mass-enforcement operation targeting immigrants without documented individualized safeguards raises due-process and equal-protection concerns. — 2026-07-04
+
+3. Trump promoted mandatory voter ID as an anti-fraud measure in a national address [single source]: Advocating a policy shown to disproportionately restrict voting access for minority, elderly, and low-income voters during a major national speech advances suppression under a fraud-prevention label. — 2026-07-04
+
+4. Patriot Front marched through Washington DC carrying Confederate flags and chanting nationalist slogans [single source]: A large white-nationalist demonstration in the capital on Independence Day, unaddressed by the White House, signals normalization of extremist activity in public space. — 2026-07-04
+
+5. White House declined to condemn the Patriot Front march: Silence from the executive branch in response to a public white-nationalist demonstration reflects a failure of moral leadership and tolerance of extremist rhetoric. — 2026-07-04
+
+6. Women's March, Veterans Against Fascism organized counter-protests in Washington DC and Philadelphia [single source]: Civic mobilization against the administration's rhetoric and extremist activity demonstrated ongoing organized dissent on Independence Day. — 2026-07-04
+
+7. Jake Lang protested at the Supreme Court with a sign demanding women be banned from the Court: A pardoned January 6 participant used his restored freedom to organize a misogynistic protest targeting the Court's female justices, illustrating downstream effects of presidential clemency. — 2026-07-04
+
+8. U.S. Justice Department civil rights division investigated a Brooklyn coffee shop that said it would have refused service to a congressman over his Israel support [single source]: A federal civil rights investigation into a business's political speech tests the boundaries between discrimination law and protected expression in a polarized environment. — 2026-07-05
+
+9. Pro-Palestine protest group confronted a California state senator at a public pride event over his Israel positions [single source]: Aggressive confrontation of an elected official at a public event illustrates the volatility of Israel-Palestine politics within domestic protest culture. — 2026-07-05
+
+10. Mt Olive Pickle Company withdrew from a Trump-affiliated state fair over a Confederate flag displayed at a state exhibit [single source]: A private company's public withdrawal over a Confederate symbol reflects ongoing contestation over how national history and identity are represented at official events. — 2026-07-05
+
+11. ICE shot and killed Lorenzo Salgado Araujo, a non-target civilian, during a Houston traffic stop: Federal agents killed an unarmed 35-year Houston resident mistaken for an enforcement target, with no body-camera footage and disputed DHS claims, raising serious accountability concerns. — 2026-07-07
+
+12. ICE detained the three eyewitnesses to the Salgado Araujo shooting at an undisclosed location [single source]: Detaining the only civilian witnesses to a fatal federal shooting, amid fears of deportation before testimony, undermines due process and independent investigation. — 2026-07-08
+
+13. Magnolia Park residents and community organizations held sustained vigils, marches, and rallies demanding accountability after the ICE shooting [single source]: Grassroots community mobilization pressing for an independent investigation demonstrates civic assertion of rights and demand for accountability from federal law enforcement. — 2026-07-07
+
+14. DHS Office of Inspector General was assigned to investigate the ICE shooting, with the FBI examining the deceased as a suspect: Assigning the internal watchdog of the same agency involved in the shooting, rather than an independent body, raises conflict-of-interest concerns about the adequacy of oversight. — 2026-07-09
+
+15. Chokwe Antar Lumumba pleaded guilty to bribery, wire fraud, and money laundering [single source]: A former mayor's guilty plea to federal corruption charges demonstrates ordinary functioning of anti-corruption law enforcement. — 2026-07-08
+
+16. Pete Hegseth announced a joint Pentagon-DOJ taskforce to identify and prosecute press leaks: Establishing a formal cross-agency mechanism to pursue unauthorized disclosures to journalists escalates pressure on press sources and threatens government accountability reporting. — 2026-07-08
+
+17. Bernie Sanders called on Graham Platner to withdraw from Maine's Senate race amid sexual assault allegations: A prominent supporter's public call for withdrawal following serious misconduct allegations affected the integrity and viability of a competitive Senate race. — 2026-07-08
+
+18. ICE investigated U.S. citizens for speech criticizing the agency [single source]: An internal watchdog office launched over a hundred investigations into individuals who spoke out against ICE, chilling lawful criticism of federal law enforcement. — 2026-07-10
+
+19. Trump administration announced plans for a new 500-bed immigrant detention facility in Louisiana [single source]: Expansion of detention infrastructure to accelerate deportation operations signals intensified immigration enforcement with implications for due process and family separation. — 2026-07-10
+
+20. Marco Rubio revoked legal status and deported a Minnesota man previously pardoned by the state [single source]: Federal override of a state pardon, despite victim forgiveness and state clemency, raises questions about federalism and executive control over immigration status. — 2026-07-10
+
+21. Major Jason Watson was restricted to base and placed under a gag order following calls for presidential impeachment [single source]: Military restrictions imposed on an officer for political speech raise concerns about suppression of dissent and retaliation within the armed forces. — 2026-07-09
+
+22. David Hearn pleaded not guilty to felony property destruction charges over alleged Reflecting Pool damage: Criminal prosecution of a private citizen for minor alleged property damage, described by his attorney as politically motivated, raises concerns about selective use of law enforcement. — 2026-07-10
+
+23. Mexico announced it will seek criminal charges over the deaths of 17 Mexican citizens linked to U.S. immigration enforcement [single source]: A foreign government's formal push for accountability over deaths in U.S. custody escalates diplomatic pressure regarding immigration enforcement practices. — 2026-07-10
+
+24. Tennessee National Guard fatally shot a 20-year-old man during a police pursuit in Memphis: Lethal use of force by National Guard troops in a domestic policing operation raises constitutional concerns about militarization of civilian law enforcement. — 2026-07-08
+
+25. Israeli settlers and Israeli Defense Forces blocked and detained U.S. Rep. Ro Khanna's delegation in the West Bank: The detention of a sitting U.S. congressman by armed settlers with apparent military acquiescence raises questions about protection of American officials abroad. — 2026-07-09
+
+
+Information, Memory and Manipulation
+
+1. Trump compared delivering his speech despite severe weather to soldiers storming the beaches at D-Day [single source]: Equating a personal inconvenience with wartime sacrifice degrades public discourse and trivializes historical memory of combat losses. — 2026-07-04
+
+2. Trump falsely claimed the Declaration of Independence contains religious language about being made in God's image [single source]: Misquoting a founding document during a major national address distorts historical fact and public understanding of the nation's origins. — 2026-07-04
+
+3. Trump referenced his own legal cases while discussing equal justice under the law [single source]: Conflating personal legal grievances with systemic justice principles in a national address undermines public confidence in the impartiality of the justice system. — 2026-07-04
+
+4. Doug Burgum claimed unnamed vandals damaged the Lincoln Memorial Reflecting Pool without producing promised evidence: A cabinet official's unsubstantiated claims and refusal to release promised video evidence raise concerns about disinformation covering for a failed renovation. — 2026-07-05
+
+5. Trump posted over 100 social media messages attacking Democrats in a single day: An intensive presidential social-media campaign attacking political opponents while demanding voter-restriction legislation used official platform reach for partisan messaging. — 2026-07-05
+
+6. The Atlantic republished JD Vance's 2016 essay criticizing Trump on its 10th anniversary: Revisiting a vice president's past public criticism of the president he now serves invites scrutiny of political consistency and evolving loyalty within the administration. — 2026-07-05
+
+7. Trump posted a self-glorifying video depicting his likeness carved into Mt. Rushmore: Presidential imagery equating himself with historical founding figures represents propaganda-style self-promotion using national symbols. — 2026-07-06
+
+8. White House officials deleted unflattering aerial images of a sparsely attended state fair from social media: Removing unfavorable documentation of a failed federal event from official and personal accounts represents active manipulation of the public record. — 2026-07-06
+
+9. Michael Cohen secured a radio broadcasting position reportedly with White House approval [single source]: A former Trump lawyer's placement on a major media platform, with claimed presidential endorsement, raises questions about the blurring of political power and media access. — 2026-07-06
+
+10. David Streever filed a First Amendment complaint challenging an ICE warning notice issued after emailed criticism of the agency: A journalist's lawsuit against an ICE warning notice tests whether federal agencies may use coercive notices to suppress protected speech critical of enforcement conduct. — 2026-07-06
+
+11. White House publicly attacked a journalist over a factual video clip involving JD Vance [single source]: Official communications channels were used to disparage an independent reporter over accurate coverage, illustrating hostility toward press scrutiny. — 2026-07-08
+
+12. Rick Crawford made an unsupported claim that Iranians support U.S. military intervention [single source]: A House Intelligence Committee chair's unverified assertion about foreign public opinion, contradicted by visible events, undermines factual discourse on active military conflict. — 2026-07-09
+
+13. Marsha Blackburn released a campaign ad destroying fortune cookies to signal anti-communist messaging [single source]: A gubernatorial campaign advertisement relying on cultural stereotypes and factually inaccurate framing degrades substantive political discourse. — 2026-07-09
+
+14. Trump claimed without evidence that Iran had contacted him wanting to make a deal: An unsubstantiated claim of direct contact with a hostile power during active conflict raises questions about accuracy of information conveyed to the public and Congress. — 2026-07-09
+
+15. White House wrapped White House columns in construction fabric while denying unusual activity was occurring [single source]: Simultaneous concealment and denial regarding work at the White House raises questions about transparency concerning changes to the executive residence. — 2026-07-09
+
+16. Trump falsely claimed to have settled eight wars, including conflicts that remain ongoing: Public misrepresentation of major foreign-policy achievements during active military conflict misleads the public about the administration's actual diplomatic record. — 2026-07-08
+
+17. Andy Beshear demanded Senator Mitch McConnell disclose his health status amid extended hospitalization [single source]: A governor's public demand for transparency about a senator's health and fitness to serve underscores concerns about the public's right to know regarding elected officials' capacity. — 2026-07-09
+
+18. J.B. Pritzker publicly stated that Trump is suffering from dementia following incoherent NATO summit remarks: A sitting governor's public assertion questioning the president's mental fitness raises constitutional questions about capacity to discharge presidential duties. — 2026-07-09
+
+19. Treasury Department abandoned the plan to place Harriet Tubman on the $20 bill while preparing currency featuring Trump [single source]: Dropping a symbolic honor for a Black abolitionist while advancing plans for currency depicting the sitting president reflects choices about whose history and image the government elevates. — 2026-07-07
+
+20. Trump administration appointed a climate science denier to lead the U.S. Global Change Research Program: Installing a climate skeptic without formal training atop the federal body responsible for the National Climate Assessment undermines evidence-based reporting on environmental risk. — 2026-07-10
+
+21. Heather Cox Richardson published a historical essay marking the 158th anniversary of the Fourteenth Amendment's ratification [single source]: A public historical essay connecting Reconstruction-era constitutional protections to present-day threats preserves civic memory of federal equal-protection guarantees. — 2026-07-10
+
+22. National Archives and Records Administration published proposed federal records schedules for public comment: Routine public notice on records retention and disposal supports institutional transparency and historical accountability. — 2026-07-10
+<!-- END GENERATED APPENDIX -->

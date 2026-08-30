@@ -206,3 +206,231 @@ Information, Memory and Manipulation
 19. Hillary Clinton called for public, transparent hearings on the Epstein investigation and pledged to testify under oath: Her demand for open proceedings pushed back against closed-door, partisan handling of the case and emphasized the value of public fact-finding in high-profile scandals. — 2026-02-05
 
 20. National Institute for Occupational Safety and Health and EPA solicited public input on firefighter safety and hazardous waste e-Manifest topics: Requests for comment on research priorities and hazardous waste tracking topics opened technical policy discussions to broader stakeholder input, supporting more informed governance. — 2026-02-02
+
+<!-- BEGIN GENERATED APPENDIX -->
+Power and Authority
+
+1. Chicago Mayor Brandon Johnson ordered city police to investigate and document alleged illegal actions by ICE agents in Chicago [single source]: The order asserted local oversight over federal immigration enforcement and tested the balance between municipal accountability and federal coercive power. — 2026-01-31
+
+2. President Trump announced the Freedom 250 Grand Prix in Washington, D.C. [single source]: The announcement showed the White House using presidential attention and symbolic state power for a celebratory project rather than a governance action. — 2026-01-31
+
+3. The Trump administration distanced itself from the claim that Alex Pretti was a domestic terrorist after video contradicted it: The retreat showed that official narratives around a federal killing were politically managed and vulnerable to outside pressure rather than fixed by transparent fact-finding. — 2026-01-31
+
+4. The Advisory Committee on Immunization Practices reconsidered all federal vaccine recommendations [single source]: The review signaled a major executive-branch shift in public health policy with broad effects on state mandates, public trust, and evidence-based governance. — 2026-02-01
+
+5. Trump administration officials removed a slavery exhibit from Independence National Historical Park: The removal used executive control over public institutions to reshape national memory and limit how the state presents the country’s past. — 2026-02-02
+
+6. President Trump sought $1 billion in damages from Harvard University: The demand used executive leverage against a university and raised concerns about coercing academic institutions through federal power and funding threats. — 2026-02-03
+
+7. President Trump demoted the head of Border Patrol after backlash over the Minnesota operation: The personnel move showed the White House adjusting a high-profile enforcement campaign through direct command rather than independent review. — 2026-02-03
+
+8. The Trump administration moved to ease the firing of about 50,000 federal workers through an OPM rule [single source]: The rule expanded presidential control over the civil service and weakened independent protections that help keep federal administration nonpartisan. — 2026-02-05
+
+9. The Department of Homeland Security issued a press release pressing California to honor ICE detainers for 33,000 prisoners [single source]: The statement used federal messaging to pressure a state on immigration enforcement and sharpened conflict over state autonomy and federal claims. — 2026-02-06
+
+10. President Trump issued an executive order establishing an America First arms transfer strategy: The order concentrated foreign-policy and industrial priorities in the executive branch by tying arms sales more directly to presidential strategy. — 2026-02-06
+
+11. President Trump issued an executive order imposing tariffs on countries that traded with Iran: The order used unilateral economic power to pressure foreign states, showing how trade tools can be deployed as executive coercion. — 2026-02-06
+
+12. President Trump issued an executive order ending the extra 25% duty on Indian imports: The order showed the executive branch using tariff authority to reward foreign policy alignment without legislative action. — 2026-02-06
+
+13. President Trump issued an executive order expanding criminal-history information sharing for border and visa screening: The order broadened executive control over security data flows in immigration policy, increasing state surveillance capacity at the border. — 2026-02-06
+
+
+Institutions and Governance
+
+1. Representatives Ro Khanna and Thomas Massie demanded unredacted Epstein files from the Justice Department: The request asserted Congress’s oversight role over a politically sensitive Justice Department disclosure process. — 2026-01-31
+
+2. Senate Democrats advanced government spending bills while pressing for ICE reforms in DHS funding: The move used appropriations procedure to seek policy limits on federal enforcement agencies and avoid a broader shutdown. — 2026-01-31
+
+3. Congress allowed a partial government shutdown to begin during the DHS funding standoff: The shutdown showed how legislative deadlock over immigration enforcement disrupted routine governance and federal operations. — 2026-01-31
+
+4. The Senate approved a government funding package with temporary DHS funding: The vote kept most government functions moving while leaving immigration enforcement policy unresolved in later negotiations. — 2026-01-31
+
+5. The Senate rejected Bernie Sanders’s amendment to cut $75 billion in ICE funding [single source]: The failed amendment showed that congressional scrutiny of ICE had grown but had not yet changed the chamber’s funding choices. — 2026-01-31
+
+6. Florida Republicans advanced a bill to broaden vaccine exemptions for schoolchildren [single source]: The committee vote showed state lawmakers using legislative power to weaken a public-health rule that shapes access to schools and collective safety. — 2026-02-01
+
+7. Representative Anna Paulina Luna threatened to block a funding bill unless it included the SAVE Act: The threat used shutdown leverage to attach election-policy demands to must-pass spending legislation. — 2026-02-01
+
+8. President Trump urged lawmakers to pass the Senate funding bill without changes [single source]: The intervention showed a president trying to steer congressional procedure during a shutdown fight. — 2026-02-01
+
+9. Mississippi lawmakers introduced a state-level Voting Rights Act bill [single source]: The proposal sought to rebuild voting protections at the state level through institutional rules after federal safeguards weakened. — 2026-02-02
+
+10. Bill and Hillary Clinton agreed to testify in the House Epstein investigation: The agreement reinforced Congress’s subpoena and oversight power in a politically charged investigation. — 2026-02-02
+
+11. The North Carolina General Assembly failed to pass a 2026 budget [single source]: The stalemate weakened routine governance by delaying pay, school funding, and other public services tied to legislative budgeting. — 2026-02-02
+
+12. The House of Representatives passed a funding bill that ended the partial shutdown and extended DHS funding briefly: The vote restored normal operations while preserving Congress’s leverage over future DHS policy conditions. — 2026-02-03
+
+13. The Democratic National Committee launched the Local Listeners voter outreach initiative: The program aimed to strengthen electoral participation through party organizing rather than state action, affecting representation through turnout. — 2026-02-04
+
+14. Democratic lawmakers held a congressional hearing on violent encounters with federal agents [single source]: The hearing used legislative oversight to document alleged abuses by federal officers and press for accountability. — 2026-02-04
+
+15. The Florida House State Affairs Committee advanced a bill to ban the term West Bank in schools and state agencies [single source]: The bill showed lawmakers using state institutions to direct official language and shape public education and records. — 2026-02-04
+
+16. Representative Nancy Mace asked the House Oversight Committee to subpoena Bill Gates: The request sought to extend congressional investigative power to another prominent figure tied to the Epstein inquiry. — 2026-02-04
+
+17. Treasury Secretary Scott Bessent faced congressional questioning over possible market manipulation tied to Trump’s social media activity [single source]: The hearing tested Congress’s ability to oversee executive-branch ethics and financial conduct affecting public markets. — 2026-02-04
+
+18. Treasury Secretary Scott Bessent gave testimony that conflicted with his earlier written statements on tariffs [single source]: Conflicting testimony raised accountability concerns about truthfulness to Congress in economic oversight proceedings. — 2026-02-04
+
+19. Representative Joaquin Castro called for the Dilley family detention center to shut down after measles cases were confirmed: The demand used congressional voice to challenge detention conditions that affected both public health and detainee welfare. — 2026-02-05
+
+20. Congressional Democratic leaders issued ten demands for ICE and DHS reforms in funding talks: The demands used appropriations leverage to seek procedural limits, oversight, and accountability for federal immigration enforcement. — 2026-02-05
+
+21. Louisiana lawmakers eliminated filing deadlines for childhood sexual abuse lawsuits [single source]: The change expanded access to courts for survivors and altered how institutions can be held accountable for past abuse. — 2026-02-06
+
+22. Senator Ron Wyden sent a public letter to the CIA director raising concerns about agency conduct: The letter signaled legislative oversight of intelligence activity and created a public record of concern about executive secrecy. — 2026-02-06
+
+
+Economic Structure
+
+1. The Trump family sold a 49% stake in its cryptocurrency venture to an Abu Dhabi-backed buyer [single source]: The deal blurred the line between private family business and public power by inviting foreign money into a politically connected enterprise. — 2026-01-31
+
+2. The Trump administration proposed large Washington vanity projects including a Grand Prix course and monument plans [single source]: The proposals suggested public attention and possible resources could be steered toward symbolic projects instead of ordinary public needs. — 2026-01-31
+
+3. China increased its gold reserves amid financial uncertainty [single source]: The move reflected weakening confidence in the dollar-centered order and highlighted how U.S. instability can shift global economic power. — 2026-01-31
+
+4. Global central banks and investors bought more gold in response to Trump administration financial policies [single source]: The shift signaled that erratic U.S. policy could erode trust in American economic stewardship and weaken the country’s structural influence. — 2026-01-31
+
+5. President Trump nominated Kevin Warsh to lead the Federal Reserve: The nomination mattered because control of the central bank shapes monetary independence and the balance between politics and economic governance. — 2026-01-31
+
+6. The Environmental Protection Agency opened comment on applications for new pesticide active ingredients: The notice showed routine regulatory gatekeeping over products that affect public health, agriculture, and environmental risk. — 2026-02-02
+
+7. The Environmental Protection Agency opened comment on applications for new pesticide uses: The action reflected how federal regulators shape market access and safety standards through administrative review. — 2026-02-02
+
+8. Medi-Physics Inc. applied to import cocaine derivatives for diagnostic manufacturing: The application showed federal licensing power over controlled-substance supply chains used in medical production. — 2026-02-02
+
+9. Mylan Inc. applied to import controlled substances for testing and clinical trials: The filing highlighted how federal approvals govern pharmaceutical research inputs and market development. — 2026-02-02
+
+10. NIOSH requested public input on firefighter safety and health priorities: The request showed a federal agency using consultation to shape workplace safety research for a critical public workforce. — 2026-02-02
+
+11. Promega Corporation applied to manufacture psilocybin and psilocyn in bulk: The application illustrated how federal drug controls structure emerging pharmaceutical markets and research capacity. — 2026-02-02
+
+12. Sharp Clinical Services applied to import Schedule I substances for distribution and trials: The filing showed federal control over research supply chains for tightly regulated substances. — 2026-02-02
+
+13. North Carolina lawmakers planned to reduce the corporate tax rate to zero [single source]: The proposal would shift state fiscal priorities toward business tax relief while public services faced funding strain. — 2026-02-02
+
+14. DraftKings and FanDuel expanded into prediction markets and increased federal lobbying and political spending [single source]: The moves showed regulated firms using money and market expansion to shape federal rules in a growing sector tied to politics and information. — 2026-02-02
+
+15. President Trump announced lower tariffs on Indian exports after India agreed to stop buying Russian oil: The tariff change showed trade policy being used as a bargaining tool that linked economic access to foreign-policy compliance. — 2026-02-02
+
+16. The Centers for Disease Control and Prevention submitted an information collection request to assess CDC fellowship programs: The request affected how the federal government evaluates and allocates resources for public-health workforce development. — 2026-02-03
+
+17. OSHA advanced or approved several expansions of Nationally Recognized Testing Laboratory authority: The actions adjusted which private labs can certify products, shaping market access and the delegated structure of safety regulation. — 2026-02-03
+
+18. The Federal Communications Commission submitted an information collection request for OMB review: The filing reflected routine federal control over compliance burdens that affect regulated firms, especially smaller businesses. — 2026-02-03
+
+19. Commentators and policymakers proposed stricter enforcement against employers who hired undocumented workers [single source]: The proposal framed labor-market regulation as a tool for immigration control, linking workplace enforcement to broader state power. — 2026-02-03
+
+20. The Environmental Protection Agency reinstated Ohio’s gasoline volatility waiver for E10 fuel: The decision changed fuel-market rules in one state and showed how federal regulators can alter regional economic conditions. — 2026-02-04
+
+21. S and B Pharma LLC and Sterling Pharma USA LLC applied to manufacture controlled substances in bulk: The applications showed federal licensing power over sensitive drug manufacturing and research markets. — 2026-02-04
+
+22. The Drug Enforcement Administration finalized a rule creating a registration system for EMS agencies handling controlled substances: The rule changed how emergency medical providers can store and use controlled drugs, affecting public-service capacity and oversight. — 2026-02-05
+
+23. The Federal Communications Commission set the effective date for robocall mitigation database amendments: The rule tightened compliance duties for telecom providers and used regulation to protect consumers from abusive communications markets. — 2026-02-05
+
+24. The Trump administration canceled about 560 arts grants [single source]: The cuts withdrew federal support from cultural institutions and shifted public funding away from independent artistic activity. — 2026-02-05
+
+25. The cryptocurrency market lost more than $2 trillion in value as Trump-linked firms also sold at a loss [single source]: The collapse showed the instability of a politically entangled financial sector and its wider effects on investors and confidence. — 2026-02-05
+
+26. U.S. employers announced more than 108,000 layoffs in January while hiring weakened: The labor data pointed to economic strain that can shape political power by increasing insecurity and dependence. — 2026-02-05
+
+27. Treasury Secretary Scott Bessent acknowledged that the government could be ordered to pay Trump $10 billion over his tax-return claim [single source]: The possibility raised concerns that public funds could be redirected to a president’s personal legal dispute. — 2026-02-05
+
+28. The Trump administration withheld Gateway project funds while demanding Trump-related renamings [single source]: The move used infrastructure money as political leverage, tying public investment to personal branding demands. — 2026-02-05
+
+29. Anthropic released an AI legal-work tool that unsettled software markets [single source]: The launch highlighted how new technology can shift economic power and labor demand in knowledge industries. — 2026-02-05
+
+30. The Census Bureau submitted the Annual Business Survey for OMB review: The survey supports federal economic measurement that informs policy, representation of business conditions, and public decision-making. — 2026-02-06
+
+31. The Environmental Protection Agency published environmental impact statement notices for major projects: The notice preserved public review in federal project approval processes that shape land use, infrastructure, and environmental accountability. — 2026-02-06
+
+32. The Environmental Protection Agency approved parts of Nevada’s regional haze plan: The approval showed federal oversight of state environmental compliance under national clean-air rules. — 2026-02-06
+
+33. The Environmental Protection Agency sought nominations and public input for the e-Manifest advisory process: The actions used participatory rulemaking to shape hazardous-waste tracking and administrative modernization. — 2026-02-06
+
+34. The Food and Drug Administration amended animal drug and food color additive regulations: The rule changes showed routine federal control over product standards that affect food safety and pharmaceutical markets. — 2026-02-06
+
+35. The Food and Drug Administration set regulatory review periods for several medical products for patent extension purposes: The determinations affected how long firms may keep exclusive rights, shaping competition and access in health markets. — 2026-02-06
+
+36. The Food and Drug Administration opened comment on patient preference studies, Class II device exemptions, and expedited approval information collection: The notices showed regulators adjusting how quickly products can reach market and how much oversight firms must meet. — 2026-02-06
+
+
+Civil Rights and Dissent
+
+1. Judge Fred Biery ordered the release of Liam Conejo Ramos and his father from ICE detention: The ruling checked family detention practices and protected bodily liberty for a child and parent facing immigration custody. — 2026-01-31
+
+2. Judge Kate Menendez refused to halt Operation Metro Surge in Minneapolis: The ruling allowed a large federal immigration operation to continue despite claims of local harm, profiling, and state-rights violations. — 2026-01-31
+
+3. Federal immigration agents intensified enforcement around Minneapolis schools and nearby communities: The activity spread fear through schools and families, affecting attendance, safety, and the practical exercise of rights by immigrant communities. — 2026-01-31
+
+4. Federal agents arrested Don Lemon, Georgia Fort, and other protest participants tied to a Minneapolis church protest: The arrests raised First Amendment concerns by using criminal process against journalists and demonstrators covering or joining dissent. — 2026-01-31
+
+5. Federal agents arrested minors, bystanders, and other residents during Minneapolis operations: The arrests showed how broad enforcement tactics can sweep up vulnerable people and chill ordinary community life. — 2026-01-31
+
+6. Protesters across the United States held nationwide anti-ICE demonstrations, strikes, and walkouts: The coordinated actions showed large-scale public dissent against federal immigration enforcement and used protest to demand accountability. — 2026-01-31
+
+7. A federal appellate chief judge dismissed a misconduct complaint against Judge James Boasberg: The dismissal protected judicial independence against an executive-branch complaint tied to immigration litigation. — 2026-02-01
+
+8. The Justice Department opened a civil rights investigation into the fatal shooting of Alex Pretti: The investigation acknowledged possible abuse of force by federal agents and created a formal accountability channel after public protest. — 2026-02-01
+
+9. Federal officers used tear gas and flashbangs against peaceful protesters in Portland: The force raised direct concerns about the right to assemble and the state’s treatment of dissent. — 2026-02-01
+
+10. Júnior Pena was arrested by ICE in New Jersey [single source]: The detention showed the reach of immigration enforcement into settled communities and the insecurity it creates for noncitizens. — 2026-02-02
+
+11. Homeland Security Secretary Kristi Noem ordered federal agents in Minneapolis to begin wearing body cameras: The order responded to public concern over federal force and aimed to improve accountability in immigration policing. — 2026-02-02
+
+12. ICE detained Maher Tarabishi and denied him permission to attend his son’s funeral: The detention showed how immigration custody decisions can sever family unity and impose severe human consequences without meaningful relief. — 2026-02-02
+
+13. Protesters in Minneapolis demonstrated inside a Target store against cooperation with federal agents: The action showed civil resistance aimed at private actors seen as enabling state enforcement against immigrants. — 2026-02-02
+
+14. A coalition of immigration groups and affected individuals sued the State Department over the suspension of immigrant visa approvals for 75 countries: The lawsuit challenged a sweeping visa freeze that affected family unity, equal treatment, and access to lawful immigration. — 2026-02-02
+
+15. Judge Michael Simon considered and then temporarily restricted federal agents’ use of force against Portland protesters [single source]: The court intervention protected protest rights by limiting chemical and projectile force absent imminent physical threat. — 2026-02-02
+
+16. Judge Ana Reyes temporarily blocked the termination of Temporary Protected Status for Haitians: The ruling protected hundreds of thousands of Haitian residents from immediate loss of status, detention, and deportation. — 2026-02-03
+
+17. The American Association of University Professors and visa applicants sued over the Gold Card visa program: The case challenged an immigration system that allegedly favored wealth over statutory standards, raising equal-access concerns. — 2026-02-03
+
+18. Federal officials and political allies called for nationalized elections, floated ICE presence at polling places, and pushed new citizenship-based voter ID rules: The combined push threatened voter access by linking election administration to immigration enforcement and stricter proof-of-citizenship demands. — 2026-02-03
+
+19. The Department of Justice sought state voter rolls and sued states that refused to provide them [single source]: The campaign risked chilling participation and centralizing sensitive voter data in ways that could support exclusionary election enforcement. — 2026-02-03
+
+20. Attorney General Pam Bondi pressed Minnesota to cooperate with federal voter-roll demands after the Alex Pretti killing [single source]: The pressure linked a law-enforcement crisis to election administration demands, raising concerns about coercion of a state government. — 2026-02-03
+
+21. Federal agents used aggressive tactics against activists, observers, and protesters in Minneapolis [single source]: The tactics showed federal force being used in ways that could deter protest, observation, and community self-defense around enforcement actions. — 2026-02-05
+
+22. ICE and private flight contractors deported Palestinians from the United States to the West Bank on a private jet [single source]: The operation raised due-process and family-separation concerns while showing coercive deportation power carried out through private assets. — 2026-02-05
+
+23. Tom Homan and the Trump administration reduced but continued the large federal immigration deployment in Minnesota [single source]: The partial drawdown left a heavy federal presence in place, sustaining pressure on immigrant communities and local autonomy. — 2026-02-05
+
+24. Elizabeth Zuna Caisaguano was released from ICE custody after a month in detention [single source]: The release highlighted the rights stakes of detaining children and families with active asylum claims. — 2026-02-04
+
+25. Florida required all driver’s license exams to be given only in English [single source]: The rule created a language barrier to a basic public service and disproportionately burdened immigrant and limited-English communities. — 2026-02-06
+
+
+Information, Memory and Manipulation
+
+1. The Justice Department released about 3 million Epstein files and then faced criticism over redaction failures and withheld material: The release tested transparency and privacy at once by exposing sensitive records while failing to protect victims and leaving questions about selective disclosure. — 2026-01-31
+
+2. The Department of Homeland Security encouraged the public to report undocumented immigrants through an ICE hotline message: The message used official communications to mobilize public suspicion against a vulnerable group and shape the information environment around immigration. — 2026-01-31
+
+3. The Trump administration promoted a misleading op-ed about the economy as if it were validation of its record [single source]: The promotion used state-aligned messaging to distort public understanding of economic conditions and policy effects. — 2026-01-31
+
+4. Stephen Miller said Haitians living legally in Ohio should not be treated as part of the community or future citizenry: The statement used exclusionary rhetoric to redefine belonging and normalize a hierarchy of political membership. — 2026-02-01
+
+5. The Department of Justice released documents that included claims linking Steve Bannon to Clive Palmer’s 2019 Australian election strategy [single source]: The documents fed debate over elite influence, disinformation, and cross-border manipulation in democratic campaigns. — 2026-02-02
+
+6. The FCC requested comments on a national-security information collection tied to communications networks: The notice showed the state expanding information-gathering structures in the name of network security and foreign-risk management. — 2026-02-03
+
+7. The Washington Post announced plans to cut about one-third of its staff: The cuts weakened a major news institution’s reporting capacity and reduced independent scrutiny of powerful actors. — 2026-02-04
+
+8. The Justice Department released more Epstein-related documents, including FBI material on David Copperfield and communications involving William Burns: The disclosures expanded public access to elite networks but also showed how sensitive records can be released in ways that mix accountability with spectacle. — 2026-02-02
+
+9. Donald Trump posted racist imagery of Barack and Michelle Obama and later removed it after backlash: The post injected dehumanizing racial propaganda into national political discourse and showed how elite speech can poison the public sphere. — 2026-02-05
+
+10. Donald Trump repeated false claims that the 2020 election was rigged at the National Prayer Breakfast [single source]: The remarks continued elite-driven election disinformation that undermines trust in voting and democratic legitimacy. — 2026-02-06
+<!-- END GENERATED APPENDIX -->

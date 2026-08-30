@@ -1,12 +1,12 @@
 {
   "week_number": 41,
-  "period_label": "Week 41 – 2025-10-25–2025-10-31",
+  "period_label": "Week 41",
   "window": {
     "start": "2025-10-25",
     "end": "2025-10-31"
   },
-  "clock_time_public": "8:11 p.m.",
-  "clock_delta_minutes": 0.3,
+  "clock_time_public": "7:41 p.m.",
+  "clock_delta_minutes": -0.1,
   "baseline_traits": [
     {
       "name": "character",
@@ -34,221 +34,471 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week saw a continuation of significant breaches across multiple moral floor traits, reflecting a deepening normalization of authoritarian practices and the use of state power for partisan ends, despite some institutional pushback.",
+    "summary": "The week produced a dense accumulation of moral-floor breaches across nearly every trait, paired with real but reactive institutional friction. A shutdown was used as leverage against food-insecure Americans even as courts ordered relief; a pardon closely followed by financial benefit to the president's family crypto ventures raised direct self-dealing concerns; enforcement agencies deployed chemical agents against civilians, including children, at holiday events; prosecutorial power was turned repeatedly against critics and rivals; and disinformation, extremist platforming, and press pressure ran as ambient background noise throughout. Courts, some career officials, and bipartisan Senate votes supplied meaningful resistance, but relief consistently arrived after harm had already landed, and one judicial oversight mechanism was itself narrowed within days of being created.",
     "norms_broken": [
       {
         "trait": "character",
-        "pattern": "Executive actions prioritized political interests over public duty, particularly through punitive measures against dissent.",
+        "pattern": "Public office was repeatedly treated as a vehicle for personal grievance, vengeance, and self-benefit rather than disciplined duty, including open musing about circumventing term limits and public calls to imprison political rivals.",
         "severity": "serious",
-        "institutional_response": "Limited pushback from courts and Congress, indicating a lack of effective oversight.",
+        "institutional_response": "Some Republican officials (Speaker Johnson) quietly acknowledged no constitutional path exists for a third term, but no formal rebuke followed; DOJ and allied actors largely enabled retaliatory rhetoric.",
         "exemplars": [
           {
             "exemplar_id": "wk41_character_ex01",
             "week": 41,
             "event_ids": [
-              "wk41_PA_001",
-              "wk41_PA_002"
+              "wk41_PA_002",
+              "wk41_PA_003"
             ],
             "developments": [
               {
-                "development_id": "wk41_PA_001",
-                "development_label": "Demolished and rapidly remodeled the White House East Wing to build a donor-funded ballroom.",
+                "development_id": "wk41_PA_002",
+                "development_label": "Trump discussed circumventing the 22nd Amendment for a third term",
                 "role": "primary"
               },
               {
-                "development_id": "wk41_PA_002",
-                "development_label": "Terminated trade negotiations with Canada and imposed an additional 10% tariff on Canadian goods.",
+                "development_id": "wk41_PA_003",
+                "development_label": "Senator Tuberville suggested Trump could go around the Constitution",
                 "role": "secondary"
               }
             ],
-            "summary": "The president's actions exemplified a shift towards using state power for personal political gain.",
-            "why_exemplary": "These actions illustrated a disregard for the integrity of public institutions, undermining democratic norms.",
+            "summary": "Public presidential and senatorial musing about bypassing constitutional term limits tested commitment to a foundational restraint on power.",
+            "why_exemplary": "Character requires honoring the oath even under advantage; open discussion of workarounds by both the president and a sitting senator signals weakening internal discipline at the highest levels.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk41_character_ex02",
+            "week": 41,
+            "event_ids": [
+              "wk41_PA_008",
+              "wk41_PA_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk41_PA_008",
+                "development_label": "Trump called for Biden's imprisonment",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk41_PA_009",
+                "development_label": "Trump called for prosecution of Jack Smith and other officials",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The president publicly called for imprisoning a predecessor and prosecuting former investigators, treating law enforcement as an instrument of personal vengeance.",
+            "why_exemplary": "This directly substitutes personal grievance for the disciplined, duty-bound exercise of executive power the oath requires.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "ethics",
-        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the use of executive power to punish dissenting institutions and individuals.",
-        "severity": "serious",
-        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
+        "pattern": "Presidential clemency, family income, and donor solicitation converged in ways that strongly suggest use of office for direct personal and family enrichment.",
+        "severity": "extreme",
+        "institutional_response": "Media exposed the pattern; Senate Democrats demanded donor disclosure; no internal executive-branch check intervened.",
         "exemplars": [
           {
             "exemplar_id": "wk41_ethics_ex01",
             "week": 41,
             "event_ids": [
-              "wk41_PA_009",
-              "wk41_PA_013"
+              "wk41_PA_016",
+              "wk41_ES_015"
             ],
             "developments": [
               {
-                "development_id": "wk41_PA_009",
-                "development_label": "Pardoned Binance founder Changpeng Zhao after his money-laundering conviction.",
+                "development_id": "wk41_PA_016",
+                "development_label": "Trump pardoned Binance founder Changpeng Zhao",
                 "role": "primary"
               },
               {
-                "development_id": "wk41_PA_013",
-                "development_label": "Ordered the Pentagon to deploy the USS Gerald R. Ford strike group for lethal Caribbean operations.",
+                "development_id": "wk41_ES_015",
+                "development_label": "Binance invested $2 billion in Trump-linked crypto days after the pardon",
+                "role": "primary"
+              }
+            ],
+            "summary": "A pardon for a convicted financial-crimes defendant preceded a multi-billion-dollar financial benefit flowing to Trump-linked crypto ventures within days.",
+            "why_exemplary": "The close timing and financial magnitude present a textbook conflict of interest, exercising clemency power in a manner that appears to have generated personal enrichment.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk41_ethics_ex02",
+            "week": 41,
+            "event_ids": [
+              "wk41_PA_001",
+              "wk41_ES_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk41_PA_001",
+                "development_label": "Unauthorized demolition of the East Wing for a donor-funded ballroom",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk41_ES_004",
+                "development_label": "Solicited tax-advantaged donations from business leaders for the ballroom",
                 "role": "secondary"
               }
             ],
-            "summary": "The president's actions exemplified a disregard for ethical boundaries.",
-            "why_exemplary": "These actions demonstrated a willingness to use public resources as tools for political leverage and personal gain.",
-            "exemplar_type": "primary"
+            "summary": "A historic federal building was demolished without required approval to build a corporate-funded addition, with donations solicited using presidential access.",
+            "why_exemplary": "Using public office and public property to solicit private donations for a personal legacy project epitomizes the entwinement of public power and private benefit ethics rules exist to prevent.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "restraint",
-        "pattern": "The administration's aggressive use of executive orders and punitive measures against dissenting voices showed a lack of self-limitation.",
-        "severity": "serious",
-        "institutional_response": "Limited checks from Congress or courts, indicating a weakening of institutional norms.",
+        "pattern": "Executive actors asserted maximal, largely unchecked authority over domestic military deployment, nuclear testing, and unilateral foreign strikes, treating emergency powers as standing tools rather than exceptional measures.",
+        "severity": "extreme",
+        "institutional_response": "Courts intervened on narrower enforcement questions; Congress mounted limited but real resistance via tariff votes; no binding check emerged on military claims themselves.",
         "exemplars": [
           {
             "exemplar_id": "wk41_restraint_ex01",
             "week": 41,
             "event_ids": [
-              "wk41_PA_003",
-              "wk41_PA_004"
+              "wk41_PA_012",
+              "wk41_PA_015"
             ],
             "developments": [
               {
-                "development_id": "wk41_PA_003",
-                "development_label": "Left the United States for an Asia trip during an ongoing government shutdown.",
+                "development_id": "wk41_PA_012",
+                "development_label": "Trump claimed authority to deploy the military into US cities without court involvement",
                 "role": "primary"
               },
               {
-                "development_id": "wk41_PA_004",
-                "development_label": "Refused to use emergency funds to sustain SNAP food assistance during the shutdown.",
+                "development_id": "wk41_PA_015",
+                "development_label": "Pentagon ordered permanent quick-reaction Guard forces in every state by January",
                 "role": "secondary"
               }
             ],
-            "summary": "The use of executive power to bypass legislative negotiations exemplified a lack of restraint.",
-            "why_exemplary": "These actions illustrated a disregard for the limits of executive authority and the need for checks on power.",
+            "summary": "The president asserted unilateral domestic military deployment authority while the Pentagon institutionalized standing rapid-reaction forces for civil unrest nationwide.",
+            "why_exemplary": "Treating domestic military deployment as a routine, permanent capability rather than an extraordinary last resort is a direct rejection of self-limiting democratic authority.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk41_restraint_ex02",
+            "week": 41,
+            "event_ids": [
+              "wk41_PA_014",
+              "wk41_PA_018"
+            ],
+            "developments": [
+              {
+                "development_id": "wk41_PA_014",
+                "development_label": "Trump ordered resumption of nuclear weapons testing",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk41_PA_018",
+                "development_label": "Administration planned strikes inside Venezuela without congressional authorization",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Unilateral orders to resume nuclear testing and prepare strikes on foreign territory bypassed established arms-control norms and war-powers processes.",
+            "why_exemplary": "Both actions escalate global and constitutional risk through unilateral executive decision-making with no legislative or treaty-based limitation sought.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding dissent and national security.",
+        "pattern": "Officials at the highest levels repeated debunked claims, promoted non-standard medical guidance, disseminated doctored enforcement footage, and punished accurate factual statements.",
         "severity": "serious",
-        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
+        "institutional_response": "Journalists and fact-checkers documented falsehoods; DOJ punished truthful prosecutors rather than correcting the record.",
         "exemplars": [
           {
             "exemplar_id": "wk41_truthfulness_ex01",
             "week": 41,
             "event_ids": [
-              "wk41_PA_018",
-              "wk41_IM_001"
+              "wk41_IM_016",
+              "wk41_IM_002"
             ],
             "developments": [
               {
-                "development_id": "wk41_PA_018",
-                "development_label": "Publicly attacked the 2020 election as rigged and threatened federal intervention in future voting.",
+                "development_id": "wk41_IM_016",
+                "development_label": "DHS used doctored footage to promote enforcement successes",
                 "role": "primary"
               },
               {
-                "development_id": "wk41_IM_001",
-                "development_label": "Posted a banner blaming a 'Radical Left Democrat shutdown' for lack of updates.",
+                "development_id": "wk41_IM_002",
+                "development_label": "USDA posted partisan Hatch Act-violating messaging blaming Democrats",
                 "role": "secondary"
               }
             ],
-            "summary": "The normalization of false claims about public safety and election integrity exemplified a significant erosion of truthfulness.",
-            "why_exemplary": "These actions embedded disinformation at the center of governance, undermining trust in governmental processes.",
+            "summary": "Federal agencies used official channels to disseminate misleading footage and partisan messaging during a crisis affecting millions.",
+            "why_exemplary": "Government use of doctored content and partisan messaging on official platforms directly manufactures unreality rather than informing the public accurately.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk41_truthfulness_ex02",
+            "week": 41,
+            "event_ids": [
+              "wk41_IM_014"
+            ],
+            "developments": [
+              {
+                "development_id": "wk41_IM_014",
+                "development_label": "Two prosecutors placed on leave for calling January 6 a 'mob of rioters'",
+                "role": "primary"
+              }
+            ],
+            "summary": "Federal prosecutors were disciplined for an accurate factual characterization of a documented event in an official filing.",
+            "why_exemplary": "Punishing truthful statements to enforce a preferred narrative is a direct assault on the obligation to let citizens be governed by accurate fact rather than manufactured reality.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "good_faith",
-        "pattern": "The administration's actions undermined the spirit of democratic rules, particularly in election processes and judicial independence.",
+        "pattern": "Procedural tools were used to obstruct relief, block seating of an elected representative, and shield enforcement officials from oversight, defeating the purposes those procedures exist to serve.",
         "severity": "serious",
-        "institutional_response": "Limited institutional resistance, with some courts attempting to uphold democratic norms.",
+        "institutional_response": "Courts intervened repeatedly to compel compliance; the Seventh Circuit narrowed one oversight remedy on separation-of-powers grounds within days of its issuance.",
         "exemplars": [
           {
             "exemplar_id": "wk41_good_faith_ex01",
             "week": 41,
             "event_ids": [
-              "wk41_IG_001",
+              "wk41_PA_005",
+              "wk41_IG_022"
+            ],
+            "developments": [
+              {
+                "development_id": "wk41_PA_005",
+                "development_label": "Speaker Johnson kept the House out of session for most of a 17-week period",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk41_IG_022",
+                "development_label": "Johnson dismissed standalone relief bills for SNAP and federal workers as a waste of time",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Extended legislative recess and refusal to consider targeted relief bills blocked urgent humanitarian action during a shutdown affecting millions.",
+            "why_exemplary": "Using chamber control to prevent Congress from performing its basic representative function during an active humanitarian crisis defeats the spirit of legislative process.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk41_good_faith_ex02",
+            "week": 41,
+            "event_ids": [
+              "wk41_IG_018"
+            ],
+            "developments": [
+              {
+                "development_id": "wk41_IG_018",
+                "development_label": "Johnson refused to seat Representative-elect Grijalva, blocking an Epstein-files discharge petition",
+                "role": "primary"
+              }
+            ],
+            "summary": "Delaying the swearing-in of a duly elected representative to obstruct a transparency petition subverted both representation and accountability.",
+            "why_exemplary": "This is a clear procedural manipulation aimed at defeating a specific accountability outcome rather than managing legitimate legislative business.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Institutional review bodies were dismantled, career leadership was purged for loyalty, and enforcement architecture was expanded in ways that damage long-term institutional neutrality and capacity.",
+        "severity": "serious",
+        "institutional_response": "Some courts and career officials resisted; over 100 former DOJ officials filed an amicus brief warning of politicization, but structural damage to review bodies and civil service went largely unremedied.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk41_stewardship_ex01",
+            "week": 41,
+            "event_ids": [
+              "wk41_IG_003",
+              "wk41_IG_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk41_IG_003",
+                "development_label": "Trump fired all members of the National Capital Planning Commission and Commission of Fine Arts",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk41_IG_004",
+                "development_label": "Administration overhauled ICE leadership, replacing directors to accelerate deportations",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Independent review boards overseeing the president's own construction project were eliminated, alongside a purge of career immigration leadership for loyalty.",
+            "why_exemplary": "Removing the very bodies designed to check self-dealing, and replacing career expertise with political loyalty, damages institutional capacity to serve future administrations impartially.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk41_stewardship_ex02",
+            "week": 41,
+            "event_ids": [
               "wk41_IG_005"
             ],
             "developments": [
               {
-                "development_id": "wk41_IG_001",
-                "development_label": "Allowed a prolonged government shutdown to continue into its fourth week.",
-                "role": "primary"
-              },
-              {
                 "development_id": "wk41_IG_005",
-                "development_label": "Blocked and agreed to rehear Trump’s attempts to deploy federalized National Guard in Portland.",
-                "role": "secondary"
+                "development_label": "HHS began assessing employees on demonstrable support for Trump's agenda",
+                "role": "primary"
               }
             ],
-            "summary": "The procedural manipulation to deny representation exemplified a breach of good faith in democratic processes.",
-            "why_exemplary": "These actions demonstrated a willingness to manipulate legal frameworks for partisan advantage, undermining the integrity of democratic institutions.",
-            "exemplar_type": "primary"
+            "summary": "Civil-servant performance reviews were tied to political loyalty rather than merit at a major federal health agency.",
+            "why_exemplary": "This directly undermines the nonpartisan civil-service tradition needed to preserve institutional competence and credibility across administrations.",
+            "exemplar_type": "secondary"
           }
         ]
       }
     ],
     "norms_strengthened": [
       {
-        "trait": "stewardship",
-        "pattern": "Judicial actions aimed at preserving SNAP benefits and blocking voter suppression measures showed resilience against executive overreach.",
+        "trait": "restraint",
+        "pattern": "Courts and a bipartisan Senate majority imposed real, if partial, limits on unilateral executive claims over trade, deployment, and personnel authority.",
         "scope": "institutional",
-        "why_it_matters": "These actions reflect a commitment to maintaining public goods and services despite federal neglect.",
+        "why_it_matters": "When executive self-restraint fails, external institutional limits remain essential to prevent power claims from hardening into unreviewable practice.",
         "exemplars": [
           {
-            "exemplar_id": "wk41_stewardship_ex01",
+            "exemplar_id": "wk41_restraint_ex03",
             "week": 41,
             "event_ids": [
-              "wk41_IG_014",
+              "wk41_IG_019",
+              "wk41_IG_020",
+              "wk41_IG_021"
+            ],
+            "developments": [
+              {
+                "development_id": "wk41_IG_019",
+                "development_label": "Senate passed a bipartisan resolution against Brazil tariffs",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk41_IG_021",
+                "development_label": "Senate voted 51-47 to reject global reciprocal tariffs",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Three separate bipartisan Senate votes in one week rejected unilateral presidential tariff authority, with real cross-party support.",
+            "why_exemplary": "Repeated bipartisan legislative pushback, even if symbolic given House inaction, demonstrates that self-limitation on trade power can still be asserted across party lines.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk41_restraint_ex04",
+            "week": 41,
+            "event_ids": [
+              "wk41_IG_011",
+              "wk41_IG_017"
+            ],
+            "developments": [
+              {
+                "development_id": "wk41_IG_011",
+                "development_label": "Ninth Circuit agreed to rehear en banc the National Guard deployment case",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk41_IG_017",
+                "development_label": "A federal judge disqualified an illegally serving Trump-appointed US Attorney",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Appellate review reopened a key domestic deployment question, and a court enforced statutory limits on an improperly serving prosecutor.",
+            "why_exemplary": "These rulings show courts actively re-imposing legal ceilings on executive personnel and military authority rather than deferring to unilateral claims.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Federal courts repeatedly compelled the executive branch to comply with congressionally intended food assistance despite active resistance and delay.",
+        "scope": "institutional",
+        "why_it_matters": "Judicial enforcement of appropriated funds against a resistant executive preserves the basic principle that law, not political leverage, governs government obligations to citizens.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk41_good_faith_ex03",
+            "week": 41,
+            "event_ids": [
+              "wk41_IG_024"
+            ],
+            "developments": [
+              {
+                "development_id": "wk41_IG_024",
+                "development_label": "Federal judges ordered USDA to use contingency funds for SNAP, finding suspension likely unlawful",
+                "role": "primary"
+              }
+            ],
+            "summary": "Courts in Rhode Island and Massachusetts compelled the executive to release available emergency food-assistance funds.",
+            "why_exemplary": "This judicial intervention enforced the spirit of congressional appropriations against an executive branch using benefit withholding as leverage.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk41_good_faith_ex04",
+            "week": 41,
+            "event_ids": [
+              "wk41_IG_016"
+            ],
+            "developments": [
+              {
+                "development_id": "wk41_IG_016",
+                "development_label": "Federal judges blocked mass federal employee layoffs as likely retaliatory",
+                "role": "primary"
+              }
+            ],
+            "summary": "Multiple courts intervened to stop layoffs found likely arbitrary and politically motivated during the shutdown.",
+            "why_exemplary": "Judicial willingness to characterize and block retaliatory personnel action preserves procedural integrity against politically weaponized administrative tools.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Former officials and professional bodies publicly defended institutional integrity against politicized prosecution.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Institutional self-defense from within the legal profession helps preserve public confidence that prosecutorial power remains bound by professional norms even under political pressure.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk41_stewardship_ex03",
+            "week": 41,
+            "event_ids": [
               "wk41_IG_015"
             ],
             "developments": [
               {
-                "development_id": "wk41_IG_014",
-                "development_label": "Sued the Trump administration to stop suspension of SNAP benefits during the shutdown.",
-                "role": "primary"
-              },
-              {
                 "development_id": "wk41_IG_015",
-                "development_label": "Blocked the Trump administration from suspending SNAP and ordered emergency funding.",
-                "role": "secondary"
+                "development_label": "Over 100 former DOJ officials filed an amicus brief calling the Comey prosecution retaliatory",
+                "role": "primary"
               }
             ],
-            "summary": "Judicial actions to protect democratic integrity reflect a commitment to stewardship.",
-            "why_exemplary": "These initiatives demonstrate a proactive approach to governance that prioritizes public welfare over political expediency.",
+            "summary": "A large group of former Justice Department officials publicly challenged a politically charged prosecution as retribution rather than impartial justice.",
+            "why_exemplary": "This large-scale professional intervention signals that institutional norms of impartial prosecution retain defenders willing to act even without formal authority to intervene.",
             "exemplar_type": "primary"
           }
         ]
       }
     ],
-    "direction_of_movement": "collapsing"
+    "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "Week 41 continues the trend of significant erosion of the moral floor, with executive actions increasingly prioritizing political interests over adherence to democratic norms. The administration's consolidation of power and punitive measures against dissenting voices deepen concerns about the integrity of public institutions. While there are pockets of resistance, such as judicial interventions and state-level initiatives, they are insufficient to counterbalance the overall trend of deterioration. The trajectory indicates a worsening crisis in democratic accountability and civil rights protections, raising serious concerns about the future of governance in the current political climate.",
+    "narrative": "Week 41 extends and deepens the trajectory described in the prior summary: a governing center treating public power as routinely available for personal enrichment, retaliation, and unilateral force, while correction continues to arrive from courts, professional bodies, and a fraction of the legislature, almost always after harm has already occurred. The consolidation observed in Week 40 — clemency tied to donor benefit, procedural obstruction of representation, civil-service politicization — did not pause; it accelerated, adding a pardon-to-investment sequence involving billions of dollars, open discussion of circumventing the 22nd Amendment, unilateral claims to deploy the military domestically and abroad, and a coordinated redirection of prosecutorial power against a former FBI director, a state attorney general, a sitting member of Congress, a Senate candidate, and a sitting senator, all in a single week.\n\nWhat is most notable this week is the near-exact balance between erosion and resistance that produced an essentially flat clock movement. Bipartisan Senate votes against tariffs, appellate rehearing of National Guard deployment authority, judicial compulsion of SNAP funding, and a large professional intervention against a retaliatory prosecution all represent real, non-trivial pushback. Yet none of this resistance was preventive. Tear gas fell on children before any court order existed to stop it; oversight of the responsible official was won, then narrowed by an appellate court days later; SNAP benefits lapsed before judges intervened, and remained unpaid at week's end despite court orders. The floor is being held largely by after-the-fact correction rather than by institutional self-restraint at the point of decision, which is a structurally fragile equilibrium.\n\nThe cumulative picture is one of chronic, multi-trait erosion running in parallel with a resilient but reactive institutional core. Character and ethics failures compound rather than isolate; restraint failures span military, nuclear, and enforcement domains simultaneously; truthfulness continues to degrade through both deliberate falsehood and punishment of accurate statement; good faith is tested by procedural obstruction that targets specific accountability outcomes; and stewardship suffers as review bodies are dismantled and civil service is politicized. The overall trend remains deteriorating, though the intensity of resistance this week kept the floor from falling further within the period measured.",
     "trend": "deteriorating",
     "stress_points": [
-      "centralization of executive power",
-      "disinformation as a governance tool",
-      "erosion of civil rights protections",
-      "politicization of the civil service"
+      "clemency and financial self-dealing entangled with executive discretion",
+      "unilateral claims over domestic military deployment and nuclear escalation",
+      "systematic prosecutorial targeting of political critics and rivals",
+      "procedural obstruction of representation and humanitarian relief legislation",
+      "dismantling of independent review bodies and civil-service politicization",
+      "disinformation and doctored government messaging on official channels"
     ],
     "sources_of_resilience": [
-      "judicial pushback against executive orders",
-      "civil society mobilization against abuses",
-      "state-level legal challenges"
+      "federal judges compelling SNAP funding and blocking retaliatory layoffs",
+      "bipartisan Senate resistance to unilateral tariff authority",
+      "appellate reconsideration of domestic military deployment authority",
+      "large-scale professional intervention against politicized prosecution",
+      "continued independent press and civic documentation despite pressure",
+      "narrow but real judicial enforcement of statutory appointment limits"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
+    "level": "severe",
+    "justification": "The risk remains severe because breaches this week spanned all six moral-floor traits simultaneously and reinforced one another: self-dealing through clemency, retaliatory prosecution of critics, unilateral military and nuclear power claims, procedural obstruction of relief and representation, dismantling of oversight bodies, and disinformation from official channels. The magnitude and coordination of these actions — particularly the pardon-to-investment sequence, the multi-target prosecutorial campaign against a former FBI director, a state attorney general, a sitting representative, and a sitting senator, and open discussion of circumventing constitutional term limits — indicate a governing pattern rather than isolated incidents.\n\nThe assessment stops short of critical because institutional resistance this week was substantive rather than symbolic: courts compelled compliance on SNAP funding and layoffs, a bipartisan Senate majority repeatedly rejected unilateral tariff power, an appellate court reopened deployment authority questions, and a large body of former officials publicly challenged a retaliatory prosecution. These are not merely rhetorical checks; they produced real, if partial and delayed, constraints on executive action. The near-zero net movement in the clock this week reflects that fragile balance rather than genuine stability.",
     "forward_signals": [
-      "increased executive orders bypassing legislative input",
-      "escalation of disinformation campaigns",
-      "further attempts to undermine civil rights protections"
+      "whether the Seventh Circuit's narrowing of oversight becomes a template for further limiting judicial monitoring of enforcement conduct",
+      "further financial benefits flowing to Trump-linked ventures following pardons or regulatory decisions",
+      "additional criminal or investigative actions against sitting members of Congress or election officials",
+      "escalation toward unilateral military action in Venezuela without congressional authorization",
+      "continued erosion of civil-service neutrality through loyalty-based personnel actions",
+      "whether SNAP and other appropriated funds are fully and promptly restored despite court orders"
     ]
   }
 }

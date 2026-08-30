@@ -1,69 +1,64 @@
 {
   "actionable_outcomes": [
-    "Support local and national legal aid groups that represent immigrants, protesters, and asylum seekers facing raids, collateral arrests, or retaliatory prosecutions.",
-    "Back independent public-interest journalism and public media alternatives that investigate executive power, data centralization, and the use of law as a political weapon.",
-    "Engage with civil liberties and privacy organizations working to limit mass data-sharing, algorithmic surveillance, and outsourcing of core state functions to private contractors.",
-    "Press your representatives to scrutinize emergency orders, shadow-docket rulings, and omnibus budget bills, demanding hearings and plain-language explanations of their democratic impact.",
-    "Participate in or fund civic education efforts that teach accurate election history, civil-rights struggles, and media literacy in schools and community settings.",
-    "Join or assist watchdog groups that track pardons, prosecutorial decisions, and conflicts of interest, documenting how clemency and investigations are used across political lines."
+    "Contact congressional representatives about the constitutionality of impoundment claims and executive bypass of appropriations authority.",
+    "Support legal aid and due-process organizations assisting detained migrants challenging deportation.",
+    "Follow and support litigation tracking sites documenting court rulings on immigration and executive power.",
+    "Contact state representatives regarding proposed voter registration criminalization or election administration appointments.",
+    "Support independent journalism and public media facing funding cuts or restricted government access.",
+    "Attend or support lawful public demonstrations addressing budget cuts to health and social programs.",
+    "Request records or comment during public rulemaking periods to preserve transparency in federal record-keeping."
   ],
   "category_flags": [
-    "Power & Authority",
-    "Rights & Protections",
-    "Information & Truth",
-    "Economy & Patronage",
-    "Civil Society & Dissent",
-    "Civic Covenant Collapse"
+    "Executive overreach",
+    "Immigration enforcement",
+    "Judicial pushback",
+    "Congressional erosion",
+    "Civil service politicization",
+    "Information control",
+    "Crony capitalism"
   ],
-  "clock_time_reference": "The Democracy Clock remained at 7:59 p.m., shifting only 0.1 minutes from 479.2 to 479.3 minutes before midnight. This near-still reading masks a modest but real erosion, as existing trajectories of executive overreach, surveillance, and stratified citizenship deepened rather than dramatically broke new ground.",
+  "clock_after_minutes": 460.6,
+  "clock_before_minutes": 460.6,
+  "clock_delta_minutes": 0.0,
+  "clock_time_reference": "The Democracy Clock remained at 7:41 p.m., unchanged from the previous week, a net movement of zero minutes. This stillness reflected roughly matched forces: aggressive executive expansion on one side and judicial pushback on the other.",
   "delta_summary": {
     "grand_total_points": {
-      "note": "Net clock movement was 0.1 minutes toward midnight, indicating slight additional erosion driven by consolidation of existing authoritarian patterns rather than new ruptures.",
-      "value": 0.1
+      "note": "Aggressive expansions of executive and enforcement power were offset by judicial interventions and institutional friction, producing zero net clock movement despite substantial underlying activity.",
+      "value": 0.0
     },
-    "moral_floor": "The moral floor is collapsing: serious breaches of character, ethics, restraint, truthfulness, good faith, and stewardship outpaced limited acts of judicial and civic resistance.",
-    "net_interpretation": "Despite a nearly unchanged public clock time, Week 20 marked a meaningful consolidation of authoritarian structures: executive power grew more unilateral, surveillance more embedded, citizenship more stratified, and information and memory more tightly curated, while institutional pushback remained fragmented and reactive.",
+    "moral_floor": "The moral floor eroded further this week, with serious breaches in character, ethics, and truthfulness only partially offset by judicial rulings that reinforced due process and institutional accountability.",
+    "net_interpretation": "Week 20 sits at high pressure without net movement: executive assertion over spending, immigration enforcement, and agency capacity pushed outward, while courts held the line in specific cases, leaving the term's direction contested rather than resolved.",
     "traits_moved": {
-      "note": "Forty-seven democratic traits registered movement this week, reflecting broad but incremental shifts across executive power, rights, information, and inequality.",
-      "value": 47
+      "note": "Thirty traits registered measurable movement this week, spanning executive power, immigration, civil service, information control, and crony capitalism, though the net clock position held steady.",
+      "value": 30
     }
   },
-  "epigraphs": [
-    {
-      "attribution": "Anonymous legal scholar",
-      "text": "The most dangerous moment is not when the law is broken, but when it is obeyed in a new spirit."
-    },
-    {
-      "attribution": "Adapted from historical warnings",
-      "text": "Liberty is rarely lost in a single stroke; it is surrendered in a series of reasonable measures."
-    },
-    {
-      "attribution": "Civic reflection",
-      "text": "The test of a free society is not whether it holds elections, but whether it can endure dissent without calling it a threat."
-    }
-  ],
+  "end_date": "2025-06-06",
   "image_prompts": {
-    "square": "A symbolic still life on a heavy wooden desk: a stack of redacted legal documents, a pair of handcuffs resting atop an immigration file, a USB drive labeled with a barcoded sticker, and a small, dimly lit American flag folded behind them. In the background, a blurred wall of surveillance monitors shows maps and data grids. Painterly, realistic style, subdued lighting, no faces, no text.",
-    "wide": "A dusk-lit cityscape of Washington, D.C., with the Capitol and federal office blocks in the middle distance. In the foreground, a large analog clock reads just before 8 p.m. Streets below are filled with overlapping scenes: immigration agents leading people into unmarked vans, uniformed soldiers standing at a protest line, and anonymous office windows glowing as data streams and code reflections flicker across the glass. The atmosphere is tense but outwardly orderly, painterly realism, muted colors, no recognizable politicians, no text."
+    "square": "A 1:1 painterly, realistic still life of an old brass balance scale on a wooden desk, one side holding a gavel, the other a stack of official documents, both perfectly level, lit by a single desk lamp against a dark background.",
+    "wide": "A wide painterly, realistic 16:9 scene of a vast government archive hall at dusk, rows of filing cabinets partially in shadow, a single beam of light falling on an open drawer with scattered papers, evoking institutional strain and quiet contest between order and erosion."
   },
   "internal_tags": [
-    "Democracy Clock Week 20",
-    "Trump second term",
-    "Executive overreach",
-    "Immigration enforcement as control",
-    "Surveillance state",
-    "Law as Weapon",
-    "Judicial deference and shadow docket",
-    "Civil service politicization",
-    "Crony capitalism and crypto",
-    "Inequality by design",
-    "Public media under pressure",
-    "University speech and visa coercion",
-    "Protest policing and militarization",
-    "Information control and disinformation",
-    "Memory politics and historical erasure",
-    "Civic covenant collapsing",
-    "Chaos as governance strategy"
+    "executive overreach",
+    "immigration enforcement",
+    "travel ban",
+    "due process",
+    "impoundment",
+    "budget bill",
+    "Medicaid cuts",
+    "civil service cuts",
+    "FEMA",
+    "NOAA",
+    "Trump-Musk feud",
+    "crony capitalism",
+    "stablecoin legislation",
+    "press access",
+    "public media funding",
+    "historical erasure",
+    "voter suppression",
+    "judicial pushback",
+    "week 20",
+    "no clock movement"
   ],
   "key_traits": [
     {
@@ -75,12 +70,12 @@
       "trait_number": 4
     },
     {
-      "name": "Emergency powers are normalized and permanent",
-      "trait_number": 5
+      "name": "Opposition parties are allowed but structurally weakened",
+      "trait_number": 6
     },
     {
-      "name": "Dissent is reframed as disorder, treason, or terrorism",
-      "trait_number": 8
+      "name": "Political appointments are awarded based on loyalty and wealth",
+      "trait_number": 7
     },
     {
       "name": "Police and military are aligned with elite preservation, not public defense",
@@ -91,8 +86,12 @@
       "trait_number": 11
     },
     {
-      "name": "Judicial independence is eroded through politicized appointments",
-      "trait_number": 14
+      "name": "Administrative agencies are deregulated or captured by private interests",
+      "trait_number": 16
+    },
+    {
+      "name": "Investigations into corruption are blocked, buried, or retaliated against",
+      "trait_number": 17
     },
     {
       "name": "Civil service roles are politicized or privatized",
@@ -111,16 +110,8 @@
       "trait_number": 29
     },
     {
-      "name": "Labor protections are eroded to keep workers atomized and dependent",
-      "trait_number": 35
-    },
-    {
-      "name": "Inequality is not a flaw\u2014it is a function of the system",
-      "trait_number": 36
-    },
-    {
-      "name": "Protest rights are abridged through zoning, permits, or security claims",
-      "trait_number": 41
+      "name": "Crony capitalism becomes indistinguishable from governance",
+      "trait_number": 38
     },
     {
       "name": "Independent media is starved while state-aligned outlets thrive",
@@ -131,6 +122,10 @@
       "trait_number": 44
     },
     {
+      "name": "Voter suppression is rationalized as election integrity",
+      "trait_number": 45
+    },
+    {
       "name": "Surveillance of ordinary citizens increases; elite crimes remain opaque",
       "trait_number": 46
     },
@@ -139,38 +134,46 @@
       "trait_number": 47
     },
     {
-      "name": "Chaos is used as a strategy to fragment focus and disable accountability",
-      "trait_number": 53
+      "name": "Textbooks and museums are altered to erase dissent and accountability",
+      "trait_number": 57
     },
     {
       "name": "Memory is curated by power\u2014what cannot be controlled is erased",
       "trait_number": 60
     }
   ],
-  "long_synopsis": "Week 20 of Trump\u2019s second term registered almost no visible movement on the Democracy Clock, yet the underlying structure of power shifted further toward consolidation. Immigration enforcement became an overt instrument of political control: record ICE raids, collateral arrests, and the creation of an Office of Remigration turned status into a standing vulnerability, while National Guard and Marines were deployed against largely peaceful anti-deportation protests. A sympathetic Supreme Court expanded executive reach, upholding the firing of the NLRB chair, greenlighting a Musk-linked \u201cefficiency\u201d unit\u2019s access to Social Security data, and allowing the termination of humanitarian paroles for hundreds of thousands. Simultaneously, budget bills and executive orders hollowed out the safety net, privatized veterans\u2019 care, and weakened reproductive protections, even as tax cuts and crypto-friendly legislation favored elites. Public media, universities, and scientific agencies faced funding threats, censorship, and symbolic erasures. Courts, broadcasters, and civil society mounted pockets of resistance, but the week\u2019s through-line was normalization: law as weapon, surveillance as infrastructure, and inequality as design.",
-  "publishing_status": "Ready for release to The Democracy Clock weekly section with cross-posting to main feed.",
+  "long_synopsis": "Week 20 produced no net change in the Democracy Clock, but the stillness masked intense activity. Immigration enforcement widened through raids, a nineteen-country travel ban, and a Harvard student visa suspension, even as courts repeatedly intervened to restore due process for wrongly deported migrants. The White House budget director claimed authority to bypass Congress on spending, while the House passed a bill cutting Medicaid and food aid alongside a decade-long block on state AI regulation. Agencies tied to care and warning, FEMA, the National Weather Service, Veterans Affairs, were hollowed out through staffing cuts. A public feud between President Trump and Elon Musk exposed how much government capacity depends on personal alliance. Courts held some lines, but Congress's spending power came under direct, unresolved challenge.",
+  "mode": "weekly",
+  "new_time_public": "7:41 p.m.",
+  "period_label": "Week 20 \u2013 2025-05-31\u20132025-06-06",
+  "previous_time_public": "7:41 p.m.",
+  "publishing_status": "publication-ready",
   "quote_sources": [
+    "The Guardian",
+    "Heather Cox Richardson newsletter",
     "Associated Press",
     "Reuters",
-    "New York Times",
-    "Washington Post",
+    "Just Security",
     "ProPublica",
     "NPR",
-    "PBS NewsHour",
-    "Just Security",
-    "Congressional Budget Office",
-    "OECD",
-    "Federal court filings",
-    "National Archives notices"
+    "Politico",
+    "Democracy Docket"
   ],
-  "short_synopsis": "The clock barely moved, but power did. Immigration raids, data centralization, partisan clemency, and regressive budgets deepened a regime where surveillance, inequality, and curated truth feel increasingly normal.",
+  "short_synopsis": "Immigration raids, a new travel ban, and executive claims to bypass Congress on spending expanded coercive power this week, while courts pushed back on deportations and secrecy. The clock held steady, reflecting a term in tension rather than at rest.",
+  "start_date": "2025-05-31",
   "substack_metadata": {
-    "meta_description": "Week 20 of Trump\u2019s second term saw immigration raids, data centralization, partisan clemency, and regressive budgets deepen a quietly normalized authoritarian order.",
-    "seo_description": "Immigration raids, Supreme Court shadow rulings, data-mining, and social cuts advanced a stratified, surveillance-heavy state while the Democracy Clock barely moved.",
-    "seo_title": "Surveillance as Everyday Governance \u2013 Week 20",
-    "title": "Surveillance as Everyday Governance \u2013 Democracy Clock Week 20"
+    "meta_description": "Immigration raids, a travel ban, and executive spending claims met judicial pushback this week, holding the Democracy Clock steady at 7:41 p.m.",
+    "seo_description": "Executive power expanded on immigration and spending while courts pushed back. The Democracy Clock held at 7:41 p.m. this week.",
+    "seo_title": "Democracy Clock Week 20: Pressure Without Movement",
+    "title": "Democracy Clock Week 20: High Pressure, No Movement"
   },
-  "subtitle": "In a week of near-still clock time, immigration raids, data centralization, and partisan clemency showed power consolidating quietly inside a more permissive order.",
-  "tagline": "When raids, data-mining, and partisan pardons all proceed as routine, the danger lies less in rupture than in what begins to feel ordinary.",
-  "title": "Surveillance as Everyday Governance"
+  "subtitle": "Executive expansion collided with judicial resistance across immigration, spending, and information control, leaving the clock exactly where it stood.",
+  "tagline": "When expansion and resistance move in equal measure, the clock stands still, but the pressure underneath keeps building toward the next test.",
+  "title": "A Week of High Pressure, No Movement",
+  "week_label": "Week 20",
+  "week_number": 20,
+  "window": {
+    "end": "2025-06-06",
+    "start": "2025-05-31"
+  }
 }

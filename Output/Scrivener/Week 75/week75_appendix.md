@@ -264,3 +264,179 @@ Information, Memory and Manipulation
 8. President Trump called Democrats communists in campaign-style speeches tied to the midterms.: The rhetoric framed political opponents as existential enemies and used inflammatory messaging to shape the information environment around elections. — 2026-06-25
 
 9. The Texas State Board of Education approved curriculum and reading changes that added required Bible passages and reduced emphasis on parts of U.S. and global history.: The changes used state education power to reshape public memory and civic knowledge for millions of students. — 2026-06-26
+
+<!-- BEGIN GENERATED APPENDIX -->
+Power and Authority
+
+1. Trump made false and escalating claims that vandals damaged the Lincoln Memorial reflecting pool: The president fabricated an inflating vandalism narrative to deflect blame for a failed renovation, using state authority to punish an invented enemy. — 2026-06-20
+
+2. US Park Police and National Guard arrested and detained citizens at the reflecting pool, including a 67-year-old Olympic canoeist held incommunicado for five hours: Federal and deputized state officers arrested civilians for minor contact with a defective public installation, raising due process and proportionality concerns. — 2026-06-21
+
+3. US Marshals Service deployed out-of-state law enforcement officers to conduct detainments at the reflecting pool [single source]: Federal deputization of out-of-state police to patrol a national monument raised concerns about federalized, unaccountable domestic policing. — 2026-06-21
+
+4. Jeanine Pirro announced aggressive prosecution of anyone touching or vandalizing the reflecting pool: A US Attorney's public threat of full prosecution for minor contact with public property signaled potential politicization of criminal enforcement. — 2026-06-21
+
+5. Trump erected a fence restricting public access around the reflecting pool [single source]: Restricting public access to a national monument in response to fabricated vandalism claims narrowed civic space at a federal site. — 2026-06-23
+
+6. Trump canceled the signing of a bipartisan housing bill to force passage of the SAVE America Act voter-restriction measure: The president held popular, bipartisan legislation hostage to compel passage of a voting-restriction bill, using executive leverage against normal lawmaking. — 2026-06-24
+
+7. Trump berated Republican senators for supporting a war-powers resolution on Iran: The president directly pressured lawmakers exercising constitutional war-powers oversight, testing legislative independence from executive coercion. — 2026-06-24
+
+8. Senate Republicans reversed their prior vote and rejected a binding war-powers resolution after presidential pressure: Senators who had briefly asserted war-powers authority reversed course under direct intimidation from the president, weakening a core constitutional check. — 2026-06-25
+
+9. Mike Johnson pledged to shield the Trump administration from congressional oversight if Republicans retain the majority [single source]: The Speaker of the House explicitly promised to block investigations into potential executive corruption, undermining the legislature's oversight function. — 2026-06-26
+
+10. Trump instructed the Justice Department to investigate oil companies for alleged gas-price gouging: The president directed federal law enforcement against a private industry based on political concern over prices, raising politicization concerns. — 2026-06-25
+
+11. Trump called Democratic political opponents "godless communists" and "animals" at a religious conservative conference: The president used dehumanizing rhetoric against political opponents ahead of midterms, escalating polarization and delegitimizing dissent. — 2026-06-26
+
+12. Stephen Miller declared the administration's goal to end birthright citizenship [single source]: A senior White House official publicly announced intent to eliminate a constitutional right rooted in the 14th Amendment, escalating attacks on citizenship protections. — 2026-06-26
+
+13. Trump called for military deployment to Chicago amid weekend shootings, over the governor's objection [single source]: The president pressed for federal military intervention in a Democratic-led city despite the governor's legal resistance, testing federalism limits on domestic force. — 2026-06-22
+
+
+Institutions and Governance
+
+1. SCOTUS overturned Humphrey's Executor, granting presidents power to fire independent agency leaders without cause [single source]: The Supreme Court eliminated a 90-year precedent insulating independent agencies from presidential removal, concentrating power in the executive branch. — 2026-06-24
+
+2. William Pulte was installed as acting director of national intelligence and ordered mass firings at the National Counterterrorism Center [single source]: An unqualified loyalist took control of the intelligence community and immediately purged counterterrorism staff, threatening institutional independence and expertise. — 2026-06-20
+
+3. Pete Hegseth fired General Chris Donahue, commander of U.S. Army Europe and Africa: The removal of a bipartisan-respected military commander suggested loyalty purges over merit-based leadership decisions in the armed forces. — 2026-06-21
+
+4. Federal judge (New York) barred most ICE arrests at immigration courthouses in New York City: A court restrained federal immigration enforcement tactics found to be potentially unconstitutional, asserting judicial oversight of executive agency conduct. — 2026-06-20
+
+5. Judge Gary Brown condemned ICE practices as "abhorrent and illegal" in a court ruling [single source]: A Trump-appointed federal judge publicly denounced systematic illegal conduct by federal agents, reinforcing judicial checks on law enforcement abuse. — 2026-06-20
+
+6. Texas Supreme Court ruled that environmental groups lack standing to challenge SpaceX beach closures [single source]: The ruling removed a legal remedy for enforcing constitutionally protected public beach access, letting a private company restrict public land with no recourse. — 2026-06-21
+
+7. Chief Judge Patrick J. Schiltz quashed DOJ subpoenas against Minnesota officials, finding them politically motivated retaliation [single source]: A federal court rejected the executive branch's use of subpoena power to punish state officials for sanctuary policies, reaffirming limits on federal coercion of states. — 2026-06-23
+
+8. SCOTUS blocked a Rastafarian prisoner's damages lawsuit over forced head-shaving, limiting religious-rights remedies: The Court narrowed statutory protections for incarcerated people's religious rights, removing a deterrent against official abuse. — 2026-06-23
+
+9. US Senate passed a war-powers resolution requiring congressional approval to continue Iran hostilities: A bipartisan Senate majority asserted constitutional war-powers authority over unilateral executive military action, a rare institutional check. — 2026-06-23
+
+10. US District Judge Sparkle Sooknanan blocked use of the SAVE database to screen state voter rolls: A federal court halted a system with a documented high error rate from being used to purge voters, protecting the right to vote from executive overreach. — 2026-06-23
+
+11. Sixth Circuit Court of Appeals rejected the Trump administration's lawsuit seeking Michigan's voter rolls [single source]: An appellate court denied a federal attempt to seize state voter data, part of a pattern of judicial rejection of centralized election control. — 2026-06-24
+
+12. US District Judge Denise Casper permanently blocked provisions of Trump's executive order asserting federal power over elections: A federal court ruled the president has no specific constitutional authority over elections, blocking a proof-of-citizenship voter mandate nationwide. — 2026-06-24
+
+13. US District Judge Indira Talwani ruled Trump's executive order restricting mail-in voting unconstitutional: A federal court struck down a plan to condition mail-ballot delivery on states surrendering voter data, protecting mail-voting access nationwide. — 2026-06-25
+
+14. Judge Christopher Cooper ordered the Trump administration to explain a tarp obscuring the Kennedy Center facade after a court-ordered name removal [single source]: A federal judge pressed the administration over apparent noncompliance with a prior order to remove Trump's name from the Kennedy Center. — 2026-06-25
+
+15. Judge Tony Graf held a state prosecutor in contempt for violating a gag order in the Charlie Kirk murder case [single source]: A state judge enforced fair-trial protections against prosecutorial misconduct, reinforcing due process in a high-profile criminal case. — 2026-06-25
+
+16. SCOTUS allowed the Trump administration to end Temporary Protected Status for roughly 350,000 Haitians and thousands of Syrians: The Court removed judicial review of executive decisions revoking humanitarian legal status from vulnerable populations, expanding unchecked immigration authority. — 2026-06-25
+
+17. SCOTUS cleared the way for asylum seekers to be physically blocked at the U.S.-Mexico border: The Court authorized a policy that lets officials deny entry to asylum seekers without processing claims, narrowing statutory refugee protections. — 2026-06-25
+
+18. Senate blocked a second, binding war-powers resolution after presidential lobbying: The chamber reversed its earlier assertion of authority over Iran hostilities following direct executive pressure on wavering senators. — 2026-06-25
+
+19. House Republican leadership and Rep. Anna Paulina Luna shut down House floor operations to pressure the Senate on the SAVE Act [single source]: A member's procedural obstruction paralyzed the House, illustrating breakdown of normal legislative function amid a voting-rights standoff. — 2026-06-25
+
+20. Judge Denise Casper permanently barred a proof-of-citizenship voter registration order [single source]: A court struck down another element of federal control over voter eligibility, reinforcing that election administration authority rests with states. — 2026-06-25
+
+21. James Comer issued subpoenas to Leon Black after he refused to answer questions on Epstein-related NDAs: A House committee used compulsory process to press a witness on documents tied to Jeffrey Epstein, testing congressional investigative authority. — 2026-06-26
+
+22. Judge Emmet Sullivan ordered the Trump administration to advance transparency measures in the Epstein Files case: A federal judge compelled the executive branch to comply with disclosure obligations, preventing indefinite secrecy over Epstein-related records. — 2026-06-25
+
+23. US House and Senate passed the bipartisan 21st Century Road to Housing Act [single source]: Congress advanced legislation to lower housing costs with strong bipartisan support, a functioning example of legislative deliberation. — 2026-06-22
+
+24. 50501 movement and disability-rights coalition condemned a DOJ memo threatening Olmstead-based disability protections [single source]: Major disability-rights organizations mobilized against a federal memo perceived as weakening 27-year-old protections for community living. — 2026-06-22
+
+
+Economic Structure
+
+1. National Park Service awarded a no-bid $1.7 million contract for reflecting pool repairs to a firm owned by a Trump donor: A government contract for a failed renovation project went to a politically connected donor without competitive bidding, raising conflict-of-interest concerns. — 2026-06-21
+
+2. Trump administration issued Medicaid work-requirement rules under the One Big, Beautiful Bill Act [single source]: New Medicaid rules threaten to strip health coverage from millions of low-income Americans, including people with HIV who depend on continuous treatment. — 2026-06-22
+
+3. US House proposed a $225 million cut to the Ryan White HIV/AIDS program [single source]: A proposed funding cut threatens care access for roughly half of all Americans living with HIV, compounding pressure on already-strained state assistance programs. — 2026-06-22
+
+4. Trump administration froze HIV research funding in South Africa and proposed eliminating CDC HIV-prevention funding [single source]: Cuts to domestic and international HIV programs disproportionately affect marginalized communities and undermine decades of public health progress. — 2026-06-22
+
+5. Scott Bessent (Treasury Secretary) issued a 60-day general license waiving Iranian oil sanctions: A sweeping unilateral reversal of oil sanctions on Iran, issued without congressional approval, restored billions in economic access to a nuclear-armed adversary. — 2026-06-22
+
+6. Tech-backed Super PACs spent more than $24 million on a single New York congressional primary over AI regulation: Massive corporate spending concentrated in one primary race demonstrates how industry money can dominate electoral contests and shape policy outcomes. — 2026-06-24
+
+7. White House requested $87.6 billion in supplemental funding, including $67.1 billion for Iran war costs [single source]: A large funding request for a conflict initiated without prior congressional authorization raises separation-of-powers and fiscal accountability questions. — 2026-06-25
+
+8. California Secretary of State certified a billionaire wealth-tax ballot measure for the November election [single source]: A statewide ballot measure on wealth taxation advanced to voters despite well-funded opposition, testing direct democracy against concentrated wealth. — 2026-06-25
+
+9. Silicon Valley billionaires (Sergey Brin, Chris Larsen, and others) placed competing ballot measures to block the wealth tax [single source]: Billionaires used concentrated wealth to place counter-initiatives designed to preempt a popular tax measure, illustrating money's influence on direct democracy. — 2026-06-26
+
+10. Gavin Newsom proposed a national billionaires tax and federal AI equity stakes: A sitting governor's proposal to tax extreme wealth and take public equity in AI firms signals a policy shift addressing economic concentration. — 2026-06-26
+
+11. Congress prepared to approve an $11 billion farmer bailout following Trump tariffs: A second major bailout compensates farmers for tariff-driven market losses, with critics noting disproportionate benefit to the largest agricultural operations. — 2026-06-26
+
+12. Trump commissioned a $1 billion-plus set of construction projects including a triumphal arch, funded partly through diverted taxpayer funds: Major taxpayer-funded construction and commemorative projects raised questions about self-aggrandizement and misuse of public resources. — 2026-06-25
+
+
+Civil Rights and Dissent
+
+1. ICE conducted racially targeted street arrests, with 93% of New York and New Jersey arrests targeting Latinos [single source]: An investigation of over 1,200 lawsuits found systemic racial profiling in federal immigration enforcement, disproportionately affecting Latino communities. — 2026-06-20
+
+2. Brenden Cuni (ICE supervisor) was named in multiple lawsuits alleging excessive force and racial slurs during arrests [single source]: A pattern of alleged abuse by a named federal officer, paired with agency denial, points to accountability failures in immigration enforcement. — 2026-06-20
+
+3. NYCLU and immigrant advocacy groups filed a class action lawsuit challenging ICE racial profiling [single source]: Civil rights organizations sought judicial relief against systematic racial profiling in federal immigration arrests. — 2026-06-20
+
+4. New York state legislature enacted a civil liability law allowing retroactive suits against federal agents for constitutional violations [single source]: A state created a legal remedy for individuals harmed by federal agents' constitutional violations, asserting state power to check federal overreach. — 2026-06-20
+
+5. Minnesota prosecutors filed state felony charges against two federal immigration agents [single source]: A rare instance of state criminal accountability for federal immigration enforcement officers' alleged misconduct. — 2026-06-20
+
+6. Activists established a citywide ICE tracking hotline and organized rapid-response protests [single source]: Community organizing created rapid legal intervention capacity to protect immigrants from arrest, demonstrating civil-society resistance. — 2026-06-20
+
+7. Christian Miles was arrested on an obscenity charge for berating security personnel near the reflecting pool: A citizen documenting police activity was arrested under a federal obscenity statute, raising free-speech and protest-rights concerns. — 2026-06-23
+
+8. Federal judges (Mark Pittman and Reed O'Connor) sentenced nine anti-ICE protesters to 30-100 years in prison on terrorism charges [single source]: Extraordinarily long sentences for a 2025 protest, exceeding those for January 6 defendants, signal aggressive criminalization of political dissent. — 2026-06-24
+
+9. ICE and CBP expanded surveillance technology spending to a record $513 million in 2026 [single source]: Massive growth in AI-powered surveillance tools for immigration enforcement raises constitutional concerns about consent, warrants, and database creation. — 2026-06-24
+
+10. SCOTUS granted border officials broad discretion to deport lawful permanent residents without clear evidentiary standards: The ruling allows deportation of green-card holders suspected of crimes without requiring clear and convincing evidence, weakening due process protections. — 2026-06-24
+
+11. Senator Ron Wyden accused HHS of planning expedited removal of over 500 unaccompanied migrant children without statutory authority [single source]: Allegations of a plan to deport children without legal basis or adequate representation raise serious due process and child-welfare concerns. — 2026-06-25
+
+12. FBI attempted to recruit detained ICE-facility protesters as informants [single source]: Targeting arrested protesters for informant recruitment raises First Amendment concerns about chilling lawful assembly and dissent. — 2026-06-26
+
+13. Justice Department (Executive Office for Immigration Review) failed to ensure legal representation for over half of children facing deportation hearings [single source]: Data showing 57% of children in deportation proceedings lack counsel highlights systemic due process failures for vulnerable minors. — 2026-06-26
+
+14. Trump administration paused refugee admissions except for white South Africans and halted processing for 39 mostly African and Middle Eastern countries [single source]: A refugee policy explicitly favoring white applicants raises equal-protection concerns and represents racially discriminatory immigration enforcement. — 2026-06-26
+
+15. Markwayne Mullin announced migrants must formalize permanent status or accept deportation with financial incentives to leave [single source]: The administration operationalized the TPS ruling into an explicit deportation ultimatum affecting hundreds of thousands of people. — 2026-06-25
+
+16. Tom Emmer made public statements that Somalis "don't assimilate" and should "go back to where they came from" [single source]: A senior House Republican's ethnic denunciation and deportation rhetoric signals normalization of exclusionary language in mainstream leadership. — 2026-06-26
+
+17. anonymous caller filed a false child-welfare report against Pete Buttigieg, triggering a 24-hour family separation: Weaponizing child-protective systems against a political figure demonstrates abuse of government mechanisms to harass and intimidate. — 2026-06-26
+
+
+Information, Memory and Manipulation
+
+1. Amazon and Goodreads restricted or disabled reviews of JD Vance's memoir following negative feedback: Suppression of public book reviews following criticism raises concerns about information visibility manipulation tied to a political figure. — 2026-06-21
+
+2. Trump proposed renaming ICE to NICE, stating the change would "discombobulate" reporters: A proposal explicitly designed to confuse press reporting on a federal agency represents an attempt to manipulate the information environment. — 2026-06-21
+
+3. Trey Yingst broadcast inflammatory rhetoric about seizing the Strait of Hormuz just before US-Iran talks began: Media amplification of military threats immediately preceding diplomatic negotiations contributed to Iran's walkout from talks. — 2026-06-21
+
+4. JD Vance claimed a nuclear inspection agreement with Iran that Iranian officials publicly denied [single source]: The vice president's premature and contested claims about diplomatic terms misled the public about the actual state of negotiations. — 2026-06-21
+
+5. Trump attacked the New York Times as "treasonous" and threatened a multi-billion-dollar lawsuit over Iran war coverage [single source]: The president's characterization of critical journalism as treasonous and threats of massive litigation directly target press freedom. — 2026-06-23
+
+6. Harmeet Dhillon announced a DOJ civil rights investigation into a Brooklyn coffee shop over political speech [single source]: Federal civil rights enforcement targeting private speech critical of a political figure raises concerns about weaponized law enforcement against dissent. — 2026-06-23
+
+7. MAGA influencers spread a viral hoax claiming the FBI raided an "Antifa chemical weapons lab" [single source]: Amplification of a fabricated law-enforcement story by politically aligned influencers degraded the public information environment. — 2026-06-23
+
+8. Trump made false claims about Iran nuclear agreement terms and past predecessor spending on the reflecting pool: Fabricated claims about a foreign agreement and prior administrations' spending misled the public on both diplomacy and domestic accountability. — 2026-06-23
+
+9. ODNI withheld a report identifying vulnerabilities in the nation's voting machines ahead of midterms: Suppressing a completed election-security report prevents public knowledge of vulnerabilities affecting the integrity of upcoming elections. — 2026-06-23
+
+10. Interior Department attributed reflecting pool damage to "leftist activists" without evidence to justify fencing installation [single source]: A federal agency used an unsubstantiated partisan narrative to justify restricting public access to a national landmark. — 2026-06-25
+
+11. Karoline Leavitt announced Trump would sign the housing bill hours before he canceled the signing: A contradicted White House statement about imminent executive action undermined the credibility of official communications. — 2026-06-25
+
+12. Frank Lands (National Park Service) filed a court declaration alleging vandalism damage to the reflecting pool liner: An official government filing supporting unsubstantiated vandalism claims raises questions about accuracy in court submissions used to deflect accountability. — 2026-06-25
+
+13. Trump administration directed the CDC to impose new funding-contingent priorities deprioritizing harm reduction and overdose prevention [single source]: Subordinating evidence-based public health programs to political messaging threatens funding for proven overdose-prevention efforts nationwide. — 2026-06-26
+
+14. Washington Post published an investigation into Tulsi Gabbard's ties to a religious figure alleged to have shaped her political positions: Reporting raised questions about external influence on a former intelligence official's public decisions, relevant to trust in intelligence leadership. — 2026-06-21
+<!-- END GENERATED APPENDIX -->

@@ -1,12 +1,12 @@
 {
   "week_number": 70,
-  "period_label": "Week 70 – 2026-05-16–2026-05-22",
+  "period_label": "Week 70",
   "window": {
     "start": "2026-05-16",
     "end": "2026-05-22"
   },
-  "clock_time_public": "8:14 p.m.",
-  "clock_delta_minutes": 0.2,
+  "clock_time_public": "7:42 p.m.",
+  "clock_delta_minutes": -0.1,
   "baseline_traits": [
     {
       "name": "character",
@@ -18,7 +18,7 @@
     },
     {
       "name": "restraint",
-      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
     },
     {
       "name": "truthfulness",
@@ -34,469 +34,225 @@
     }
   ],
   "weekly_audit": {
-    "summary": "The week’s moral-floor pattern was structural rather than episodic. Executive and aligned actors used formal authority, public money, legal protection, symbolic state power, and contested narratives in ways that repeatedly favored the ruler and his circle over neutral public duty. The strongest breaches were not merely rhetorical: they joined patronage, self-protection, pressure on institutional referees, weakened voting safeguards, and blurred lines between office and private gain. Resistance remained visible in courts, oversight hearings, bipartisan legislative pushback, and civil society, but it was mostly reactive and case-specific.",
+    "summary": "Week 70 combined a landmark ethics breach with continued, if partial, institutional resistance. The Justice Department converted a personal presidential lawsuit into a $1.776 billion discretionary fund while the acting attorney general simultaneously granted the president and his family permanent immunity from IRS enforcement, fusing self-dealing with formal legal shielding in a single package. Public commemoration was bent toward personal glorification and religious nationalism through a taxpayer-funded prayer festival, an approved 250-foot arch, and a diverted anniversary commission soliciting corporate access-donations. Courts, a Treasury resignation, career IRS lawyers, and cross-partisan legislators pushed back forcefully, but the structural moves themselves took effect before opposition could reverse them.",
     "norms_broken": [
       {
-        "trait": "character",
-        "pattern": "Officeholders repeatedly treated public authority as a tool for personal or presidential advantage rather than as a duty bounded by oath and institutional role.",
-        "severity": "serious",
-        "institutional_response": "Congressional actors pushed back through war-powers votes, appropriations scrutiny, and resistance to the Anti-Weaponization Fund, but the pressure itself came from the top and was not self-corrected by the executive.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk70_character_ex01",
-            "week": 70,
-            "event_ids": [
-              "wk70_PA_003"
-            ],
-            "developments": [
-              {
-                "development_id": "wk70_PA_003",
-                "development_label": "Acting Attorney General barred future tax-related claims against Trump, his family, and affiliated companies",
-                "role": "primary"
-              }
-            ],
-            "summary": "Executive legal power was used to shield the president and related entities from future scrutiny.",
-            "why_exemplary": "Character fails when public duty yields to personal protection, especially where equal enforcement is narrowed for the officeholder and his circle.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk70_character_ex02",
-            "week": 70,
-            "event_ids": [
-              "wk70_PA_011",
-              "wk70_IG_036"
-            ],
-            "developments": [
-              {
-                "development_id": "wk70_PA_011",
-                "development_label": "President Trump called for replacing the Senate parliamentarian",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk70_IG_036",
-                "development_label": "House Republican leaders pulled a war powers vote over Iran",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Internal legislative checks were pressured or delayed when they impeded presidential goals.",
-            "why_exemplary": "This shows weak commitment to constitutional role morality: instead of accepting institutional limits, leaders pressed or bypassed gatekeepers meant to preserve balance.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
         "trait": "ethics",
-        "pattern": "The boundary between public power and private or allied benefit was repeatedly blurred through executive-controlled payouts, conflict-laden policy choices, donor access, and market activity tied to presidential visibility.",
+        "pattern": "The administration converted a personal presidential lawsuit into a nearly $2 billion taxpayer fund and paired it with a permanent bar on IRS enforcement against the president and his family, while allies and January 6 defendants lined up to apply for payouts.",
         "severity": "extreme",
-        "institutional_response": "Oversight hearings, bipartisan bills, lawsuits, and internal Senate resistance challenged these practices, but the digest shows the ethically suspect arrangements were already created or operating.",
+        "institutional_response": "A federal judge found no valid settlement of record, the Treasury's top lawyer resigned in apparent protest, career IRS attorneys objected internally, and House and Senate Democrats filed suit and sought document preservation, but the fund and immunity order remained in effect.",
         "exemplars": [
           {
             "exemplar_id": "wk70_ethics_ex01",
             "week": 70,
             "event_ids": [
-              "wk70_PA_002",
-              "wk70_IG_022"
+              "wk70_PA_004",
+              "wk70_PA_006"
             ],
             "developments": [
               {
-                "development_id": "wk70_PA_002",
-                "development_label": "Justice Department created the Anti-Weaponization Fund after Trump dropped his IRS lawsuit",
+                "development_id": "wk70_PA_004",
+                "development_label": "DOJ settled Trump's IRS lawsuit by establishing a $1.776 billion compensation fund controlled by his appointees.",
                 "role": "primary"
               },
               {
-                "development_id": "wk70_IG_022",
-                "development_label": "Two January 6 officers sued over the fund’s legality",
-                "role": "secondary"
+                "development_id": "wk70_PA_006",
+                "development_label": "Acting AG Blanche signed an order granting Trump and his family permanent immunity from IRS audit or prosecution.",
+                "role": "primary"
               }
             ],
-            "summary": "A large executive-controlled fund redirected public money toward favored claimants under disputed authority.",
-            "why_exemplary": "This is an ethics breach because public funds were routed through executive discretion in a way that raised patronage, selective benefit, and self-serving settlement concerns.",
+            "summary": "A withdrawn personal lawsuit produced both a discretionary billion-dollar fund and a permanent shield from tax enforcement for the president and his family.",
+            "why_exemplary": "Verified, tier-one-corroborated evidence shows public legal machinery converted simultaneously into patronage funding and personal enforcement immunity, a paradigmatic fusion of office and private interest.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk70_ethics_ex02",
             "week": 70,
             "event_ids": [
-              "wk70_IM_002",
-              "wk70_ES_007"
+              "wk70_ES_013",
+              "wk70_ES_014"
             ],
             "developments": [
               {
-                "development_id": "wk70_IM_002",
-                "development_label": "Trump and advisers made thousands of stock trades without a qualified blind trust",
+                "development_id": "wk70_ES_013",
+                "development_label": "Reynolds American donated $5 million to Trump's super PAC days before a favorable FDA vape ruling.",
                 "role": "primary"
               },
               {
-                "development_id": "wk70_ES_007",
-                "development_label": "Stock purchases aligned with later or same-day public praise of companies",
+                "development_id": "wk70_ES_014",
+                "development_label": "Presidential stock trades coincided with public praise of the same companies.",
                 "role": "secondary"
               }
             ],
-            "summary": "Presidential financial activity overlapped with public messaging and policy visibility without blind-trust separation.",
-            "why_exemplary": "Ethics requires a firm boundary between office and personal financial interest; this pattern weakens confidence that public speech and policy are not being monetized.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
-        "trait": "restraint",
-        "pattern": "Officials and agencies repeatedly used coercive, emergency, or discretionary power aggressively rather than observing voluntary limits, especially in immigration and executive spending.",
-        "severity": "serious",
-        "institutional_response": "Courts imposed some limits on courthouse arrests, victim-centered enforcement rollbacks, and unlawful arrests, but the broader pattern remained power-first and correction-later.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk70_restraint_ex01",
-            "week": 70,
-            "event_ids": [
-              "wk70_PA_001",
-              "wk70_PA_012"
-            ],
-            "developments": [
-              {
-                "development_id": "wk70_PA_001",
-                "development_label": "Texas placed buoys in the Rio Grande near Eagle Pass",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk70_PA_012",
-                "development_label": "DHS required many green card applicants to apply from their home countries",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Migration control was hardened through physical hazards and more disruptive status-adjustment rules.",
-            "why_exemplary": "Restraint is weakened when officials choose harsher tools and greater leverage over vulnerable people instead of narrower, less disruptive means.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk70_restraint_ex02",
-            "week": 70,
-            "event_ids": [
-              "wk70_PA_014",
-              "wk70_CR_015"
-            ],
-            "developments": [
-              {
-                "development_id": "wk70_PA_014",
-                "development_label": "CDC suspended entry of certain non-U.S. citizens from Ebola-affected countries",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk70_CR_015",
-                "development_label": "Administration continued large-scale immigration raids despite study showing no promised labor benefit",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Emergency health and enforcement powers were used broadly to restrict mobility and intensify raids.",
-            "why_exemplary": "This illustrates diminished self-limitation: coercive powers were expanded even where the digest records contested benefit and substantial rights costs.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
-        "trait": "truthfulness",
-        "pattern": "Senior officials and the president degraded the public information environment through conspiracy claims, false election narratives, and contradictory accounts about public-money disclosure.",
-        "severity": "serious",
-        "institutional_response": "Independent reporting, legislative questioning, and failed attempts to unsettle election infrastructure provided some correction, but the initial distortions still came from powerful official voices.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk70_truthfulness_ex01",
-            "week": 70,
-            "event_ids": [
-              "wk70_IM_003"
-            ],
-            "developments": [
-              {
-                "development_id": "wk70_IM_003",
-                "development_label": "Todd Blanche said the Justice Department was focused on proving the 2020 election was stolen",
-                "role": "primary"
-              }
-            ],
-            "summary": "A top Justice Department official put state credibility behind a false election narrative.",
-            "why_exemplary": "Truthfulness is directly breached when an official institution promotes a known falsehood on a matter central to democratic legitimacy.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk70_truthfulness_ex02",
-            "week": 70,
-            "event_ids": [
-              "wk70_IM_001",
-              "wk70_IM_008"
-            ],
-            "developments": [
-              {
-                "development_id": "wk70_IM_001",
-                "development_label": "President Trump posted rants and conspiracy theories on Truth Social",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk70_IM_008",
-                "development_label": "Conflicting accounts were given about whether Anti-Weaponization Fund payouts would be disclosed",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Conspiracy rhetoric and contradictory transparency claims clouded public understanding of consequential matters.",
-            "why_exemplary": "Citizens cannot judge power responsibly when leaders mix falsehoods with opaque or inconsistent explanations about who receives public money.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
-        "trait": "good_faith",
-        "pattern": "Democratic procedures were manipulated or pressured in ways that honored formal power while undermining the purpose of neutral rules, especially around representation, spending, and legislative referees.",
-        "severity": "serious",
-        "institutional_response": "The Senate parliamentarian, judges, and some lawmakers resisted through rulings, record-preservation demands, and legislative blocks, but the week still showed repeated attempts to bend process toward partisan or personal ends.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk70_good_faith_ex01",
-            "week": 70,
-            "event_ids": [
-              "wk70_IG_004",
-              "wk70_IG_003"
-            ],
-            "developments": [
-              {
-                "development_id": "wk70_IG_004",
-                "development_label": "Supreme Court weakened protections for Black-majority districts under the Voting Rights Act",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk70_IG_003",
-                "development_label": "South Carolina governor called a special session on congressional redistricting",
-                "role": "secondary"
-              }
-            ],
-            "summary": "A weakened voting-rights rule was quickly converted into a fast path for new redistricting.",
-            "why_exemplary": "Good faith is strained when legal openings are used immediately to narrow representation rather than to preserve the democratic purpose of fair electoral access.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk70_good_faith_ex02",
-            "week": 70,
-            "event_ids": [
-              "wk70_PA_011",
-              "wk70_IG_001"
-            ],
-            "developments": [
-              {
-                "development_id": "wk70_PA_011",
-                "development_label": "Trump called for replacing the Senate parliamentarian",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk70_IG_001",
-                "development_label": "The parliamentarian stripped a ballroom provision from the DHS bill",
-                "role": "secondary"
-              }
-            ],
-            "summary": "A legislative referee was targeted after enforcing procedure against a leader-linked spending item.",
-            "why_exemplary": "This is a good-faith breach because the response to an adverse procedural ruling was pressure on the referee rather than acceptance of the rule’s purpose.",
+            "summary": "A large corporate donation preceded favorable regulatory action, alongside documented alignment between presidential stock trades and public statements.",
+            "why_exemplary": "Verified reporting linking a specific donation to a specific regulatory outcome, reinforced by a pattern of trade-timed praise, illustrates recurring blending of private financial interest with the machinery of office.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "stewardship",
-        "pattern": "Institutions of accountability, public memory, representation, and long-term trust were weakened by politicized commemoration, recordkeeping failures, reduced voting safeguards, and policies that shift public risk onto future communities.",
+        "pattern": "Public commemoration of the nation's 250th anniversary was redirected toward personal and religious glorification: funds were diverted from a bipartisan congressional commission to an administration-created organization soliciting corporate donations for access, a taxpayer-funded evangelical event promoted a Christian-nation narrative on the National Mall, and an appointee-only arts panel approved a 250-foot presidential arch over hundreds of public objections.",
         "severity": "serious",
-        "institutional_response": "Courts protected records, agencies maintained some expert and notice-based processes, and civil society defended voting rights, but these supports operated defensively against top-level corrosion.",
+        "institutional_response": "Civil society and some legislators objected, but the appointed commission and executive-created entity proceeded without institutional reversal within the week.",
         "exemplars": [
           {
             "exemplar_id": "wk70_stewardship_ex01",
             "week": 70,
             "event_ids": [
-              "wk70_IG_008",
-              "wk70_IM_006"
+              "wk70_PA_002",
+              "wk70_PA_003"
             ],
             "developments": [
               {
-                "development_id": "wk70_IG_008",
-                "development_label": "Administration took control of America250 planning and redirected funds toward Freedom 250",
+                "development_id": "wk70_PA_002",
+                "development_label": "Administration created Freedom 250 and diverted congressional commission funds, soliciting donations for presidential access.",
                 "role": "primary"
               },
               {
-                "development_id": "wk70_IM_006",
-                "development_label": "Rededicate 250 promoted a Christian nationalist account of the founding",
-                "role": "secondary"
+                "development_id": "wk70_PA_003",
+                "development_label": "Taxpayer-funded evangelical worship event held on the National Mall promoting a Christian-nation narrative.",
+                "role": "primary"
               }
             ],
-            "summary": "A national civic commemoration was centralized and repurposed toward a narrower, politicized historical narrative.",
-            "why_exemplary": "Stewardship fails when shared civic institutions are converted into instruments of factional memory, weakening their future legitimacy and unifying function.",
+            "summary": "A bipartisan anniversary commission was bypassed and redirected toward a donor-access vehicle and a taxpayer-funded religious event.",
+            "why_exemplary": "Tier-one and multi-source-corroborated evidence shows a shared national commemoration converted into a partisan, sectarian, and donor-monetized vehicle, damaging the institution's function as an inclusive civic occasion.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk70_stewardship_ex02",
             "week": 70,
             "event_ids": [
-              "wk70_IG_004",
-              "wk70_IG_024"
+              "wk70_PA_010"
             ],
             "developments": [
               {
-                "development_id": "wk70_IG_004",
-                "development_label": "Supreme Court weakened protections for Black-majority districts",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk70_IG_024",
-                "development_label": "Judge Bates ordered compliance with the Presidential Records Act",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Representational safeguards weakened while courts had to force preservation of the official record.",
-            "why_exemplary": "This pairing shows institutional inheritance under strain: both fair representation and documentary accountability required defensive intervention rather than routine care.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      }
-    ],
-    "norms_strengthened": [
-      {
-        "trait": "restraint",
-        "pattern": "Courts and Congress still imposed or attempted limits on executive coercion and unilateral action.",
-        "scope": "institutional",
-        "why_it_matters": "Democratic restraint can survive executive overreach only if other institutions continue to enforce boundaries that leaders decline to observe voluntarily.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk70_restraint_ex03",
-            "week": 70,
-            "event_ids": [
-              "wk70_IG_018"
-            ],
-            "developments": [
-              {
-                "development_id": "wk70_IG_018",
-                "development_label": "Senate advanced a war powers resolution to curb Trump’s Iran operations",
+                "development_id": "wk70_PA_010",
+                "development_label": "Commission of Fine Arts, composed entirely of presidential appointees, approved a 250-foot Trump arch over 600 letters of opposition.",
                 "role": "primary"
               }
             ],
-            "summary": "The Senate asserted its constitutional role over military action.",
-            "why_exemplary": "This reinforced restraint by challenging unilateral war-making and reasserting that even national-security power is not meant to be self-judging.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk70_restraint_ex04",
-            "week": 70,
-            "event_ids": [
-              "wk70_CR_007",
-              "wk70_IG_025"
-            ],
-            "developments": [
-              {
-                "development_id": "wk70_CR_007",
-                "development_label": "A federal judge barred routine ICE arrests around Manhattan immigration courthouses",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk70_IG_025",
-                "development_label": "Judge Birotte stayed ICE guidance rescinding victim-centered enforcement policies",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Judges limited immigration enforcement practices that chilled access to process and protections.",
-            "why_exemplary": "These rulings matter because they preserve procedural boundaries and reject the idea that enforcement convenience alone justifies maximal coercion.",
+            "summary": "An appointed federal design panel approved a monument bearing the president's name despite substantial documented public opposition.",
+            "why_exemplary": "Verified evidence of a captured advisory body advancing personal aggrandizement against public objection illustrates institutional capacity being repurposed for individual glorification rather than public stewardship.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "good_faith",
-        "pattern": "Resistance to executive patronage and procedural abuse remained largely lawful, transparent, and institution-facing rather than retaliatory in kind.",
-        "scope": "cross-partisan",
-        "why_it_matters": "A democracy retains corrective capacity when opponents still use hearings, legislation, lawsuits, and record-preservation demands instead of abandoning procedure themselves.",
+        "pattern": "The executive pressured Congress's own procedural referees and delayed floor votes to avoid embarrassing outcomes: the president demanded the Senate parliamentarian's removal after an adverse ruling and called for ending the filibuster, while House leadership canceled a war powers vote likely to pass with bipartisan support.",
+        "severity": "concerning",
+        "institutional_response": "The parliamentarian's ruling held, roughly two dozen Republican senators openly confronted the acting attorney general, and the Senate advanced its own war powers resolution, showing partial resistance within the legislative branch itself.",
         "exemplars": [
           {
-            "exemplar_id": "wk70_good_faith_ex03",
+            "exemplar_id": "wk70_goodfaith_ex01",
             "week": 70,
             "event_ids": [
-              "wk70_IG_020",
-              "wk70_IG_021"
+              "wk70_PA_009",
+              "wk70_IG_023"
             ],
             "developments": [
               {
-                "development_id": "wk70_IG_020",
-                "development_label": "Bipartisan lawmakers drafted legislation to block the Anti-Weaponization Fund",
+                "development_id": "wk70_PA_009",
+                "development_label": "Trump demanded replacement of the Senate parliamentarian and elimination of the filibuster.",
                 "role": "primary"
               },
               {
-                "development_id": "wk70_IG_021",
-                "development_label": "Senate Republicans revolted against the fund and stalled related legislation",
-                "role": "secondary"
+                "development_id": "wk70_IG_023",
+                "development_label": "House Republican leaders canceled and delayed Iran war powers resolution votes likely to pass with bipartisan support.",
+                "role": "primary"
               }
             ],
-            "summary": "Cross-party lawmakers used ordinary legislative means to resist a patronage-style executive fund.",
-            "why_exemplary": "This is good-faith reinforcement because resistance stayed within constitutional channels and defended Congress’s spending role rather than mirroring the abuse.",
+            "summary": "The president pressured an independent procedural officer while House leadership shielded him from a probable bipartisan floor defeat on war powers.",
+            "why_exemplary": "Corroborated evidence of direct executive pressure on internal legislative referees, paired with leadership's avoidance of a likely adverse vote, demonstrates procedural manipulation defeating the purpose of legislative self-governance.",
+            "exemplar_type": "primary"
+          }
+        ]
+      }
+    ],
+    "norms_strengthened": [
+      {
+        "trait": "good_faith",
+        "pattern": "Multiple institutional actors pushed back against the settlement fund and related maneuvers through litigation, oversight requests, and legislative amendments, and the Senate advanced a bipartisan Iran war powers resolution despite House avoidance.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Willingness of judges, career officials, and members of both parties to contest a major self-dealing arrangement, even without fully reversing it, shows continued institutional capacity to resist procedural manipulation.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk70_goodfaith_strength_ex01",
+            "week": 70,
+            "event_ids": [
+              "wk70_IG_010",
+              "wk70_IG_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk70_IG_010",
+                "development_label": "Judge Kathleen Williams found no formal legal basis for the claimed IRS settlement.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk70_IG_011",
+                "development_label": "Treasury Department general counsel Brian Morrissey resigned upon announcement of the fund.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A federal judge undercut the legitimacy of the settlement while the Treasury's top lawyer resigned in apparent objection.",
+            "why_exemplary": "Verified judicial and internal-resignation responses within days of the fund's creation show that legal and administrative actors were unwilling to simply ratify the arrangement.",
             "exemplar_type": "primary"
           },
           {
-            "exemplar_id": "wk70_good_faith_ex04",
+            "exemplar_id": "wk70_goodfaith_strength_ex02",
             "week": 70,
             "event_ids": [
-              "wk70_IG_005",
-              "wk70_IG_031"
+              "wk70_IG_024",
+              "wk70_IG_014"
             ],
             "developments": [
               {
-                "development_id": "wk70_IG_005",
-                "development_label": "House Democrats filed an amicus brief challenging any settlement tied to Trump’s IRS lawsuit",
+                "development_id": "wk70_IG_024",
+                "development_label": "Senate advanced Iran war-powers resolution with bipartisan support, four Republicans joining Democrats.",
                 "role": "primary"
               },
               {
-                "development_id": "wk70_IG_031",
-                "development_label": "Senate Judiciary Democrats demanded preservation of January 6 fund documents",
+                "development_id": "wk70_IG_014",
+                "development_label": "Injured Capitol police officers sued to block fund payouts potentially benefiting their January 6 attackers.",
                 "role": "secondary"
               }
             ],
-            "summary": "Oversight opponents sought judicial review and preservation of the evidentiary record.",
-            "why_exemplary": "These actions reinforce good faith because they pursue accountability through lawful review and documentation rather than through extra-procedural obstruction.",
+            "summary": "A bipartisan Senate majority advanced war-powers constraints while individual plaintiffs directly challenged the fund's constitutionality in court.",
+            "why_exemplary": "Verified cross-partisan legislative assertion of constitutional war authority, alongside a direct suit from victims of January 6, both represent good-faith efforts to enforce the spirit of constitutional limits against executive maneuvering.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
-        "trait": "stewardship",
-        "pattern": "Some institutions continued to preserve records, expert review, and routine administrative capacity despite higher-level politicization.",
-        "scope": "institutional",
-        "why_it_matters": "The moral floor depends not only on stopping abuse but on keeping the machinery of future correction, evidence, and competent governance intact.",
+        "trait": "character",
+        "pattern": "Roughly two dozen Republican senators openly confronted the acting attorney general over the fund's fiscal and legal propriety, and a bipartisan House pair drafted legislation to eliminate it, showing some willingness to break ranks over a self-dealing arrangement.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Public intra-party confrontation over a co-partisan president's self-dealing arrangement signals that party loyalty has not fully displaced institutional obligation for at least some members.",
         "exemplars": [
           {
-            "exemplar_id": "wk70_stewardship_ex03",
+            "exemplar_id": "wk70_character_strength_ex01",
             "week": 70,
             "event_ids": [
-              "wk70_IG_024"
+              "wk70_IG_016",
+              "wk70_IG_018"
             ],
             "developments": [
               {
-                "development_id": "wk70_IG_024",
-                "development_label": "Judge Bates ordered the White House and vice president’s office to comply with the Presidential Records Act",
-                "role": "primary"
-              }
-            ],
-            "summary": "A court enforced recordkeeping duties essential to future oversight and historical accountability.",
-            "why_exemplary": "This strengthens stewardship because democratic institutions cannot be repaired later if the documentary record is allowed to disappear now.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk70_stewardship_ex04",
-            "week": 70,
-            "event_ids": [
-              "wk70_PA_006",
-              "wk70_PA_013"
-            ],
-            "developments": [
-              {
-                "development_id": "wk70_PA_006",
-                "development_label": "CDC re-established the Advisory Committee on Immunization Practices charter",
+                "development_id": "wk70_IG_016",
+                "development_label": "Roughly two dozen Republican senators confronted acting AG Blanche over the fund in a hostile closed meeting.",
                 "role": "primary"
               },
               {
-                "development_id": "wk70_PA_013",
-                "development_label": "FDA announced a public advisory committee meeting on a vaccine",
-                "role": "secondary"
+                "development_id": "wk70_IG_018",
+                "development_label": "Representative Fitzpatrick drafted bipartisan legislation to eliminate the fund, signaling use of a discharge petition.",
+                "role": "primary"
               }
             ],
-            "summary": "Public-health agencies preserved formal channels for expert review and evidence-based input.",
-            "why_exemplary": "These actions matter because they maintain institutional competence and transparent decision pathways even amid broader political pressure on public trust.",
-            "exemplar_type": "secondary"
+            "summary": "Republican senators and a bipartisan House pair separately pushed back against the fund as fiscally irresponsible and legally unprecedented.",
+            "why_exemplary": "Documented intra-party confrontation and cross-partisan legislative drafting against a co-partisan administration's signature financial maneuver reflect a meaningful, if limited, assertion of institutional duty over factional loyalty.",
+            "exemplar_type": "primary"
           }
         ]
       }
@@ -504,39 +260,35 @@
     "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "Week 70 fits the prior trajectory closely but deepens it in a more integrated form. The earlier pattern was already one of erosion through repeated pressure on ethics, restraint, truthfulness, good faith, and stewardship, with resistance coming mainly from courts, local institutions, and scattered oversight. This week added a more consolidated pattern: executive patronage, legal shielding, weakened representational safeguards, politicized civic symbolism, and conflict-laden financial behavior appeared not as separate anomalies but as mutually reinforcing practices.\n\nThe most important cumulative shift is from normalization to arrangement. The prior summary described habituation and selective impunity; this week shows those habits being organized into durable channels. Public money, legal immunity, donor access, and symbolic state power were routed in ways that favored the ruler and his allies while oversight had to scramble after the fact. At the same time, voting-rights weakening translated quickly into new redistricting opportunity, and immigration enforcement continued to rely on many small coercive levers while relief remained fragmented and plaintiff-dependent.\n\nThe moral floor therefore remains below a healthy democratic baseline across multiple traits at once. It has not fully collapsed because courts, some legislators, agencies, media actors, and civil society still preserve real corrective capacity. But the burden of ethical maintenance is increasingly external to the executive itself. That is a sign of deterioration: the system still resists, yet more of its resistance is defensive, delayed, and narrower than the breaches it confronts.",
+    "narrative": "Week 70 extends rather than reverses the severe deterioration documented across prior weeks. Where Week 69 showed the moral floor strained primarily through a multi-state redistricting campaign and continued unilateral war-making, Week 70 introduces a distinct and arguably more direct ethics violation: the conversion of a personal presidential lawsuit into both a discretionary billion-dollar fund and a permanent shield against IRS enforcement for the president and his family. This is a qualitatively significant development, moving beyond selective indulgence toward formal, durable legal protection of the officeholder from ordinary accountability mechanisms available to all other citizens.\n\nThe week also deepened the stewardship damage identified previously, this time through the deliberate fusion of national commemoration with personal glorification and sectarian religious display, funded by diverted public money and donor access. Combined with continued pressure on Congress's internal referees and avoidance of a probable adverse floor vote on war powers, the pattern from Week 69 of assertion followed by retreat persisted, though this week's retreat again favored the executive.\n\nResilience signals were meaningful but familiar in kind: judicial skepticism toward the settlement's legal basis, a high-profile resignation from within Treasury, career civil-service objection, direct suits from January 6 victims, and unusually candid cross-partisan legislative confrontation. As in Week 69, these checks arrived largely after the primary harm had already taken structural form, reinforcing a trend in which resistance is real but reactive, and the executive's most consequential moves continue to outpace the system's capacity to prevent them before they take effect.",
     "trend": "deteriorating",
     "stress_points": [
-      "executive-controlled patronage and disputed public payouts",
-      "legal shielding of the president and affiliated entities",
-      "conflicts of interest linking policy visibility, donor access, and private gain",
-      "pressure on legislative referees and selective delay of oversight votes",
-      "weakened voting-rights protections translated into rapid redistricting opportunity",
-      "routine disinformation on elections and opaque disclosure practices",
-      "politicized use of civic commemoration and leader-centered symbolism",
-      "expanded coercive immigration enforcement with documented human costs"
+      "fusion of settlement funding with permanent personal tax immunity",
+      "diversion of national commemoration funds toward donor-access and sectarian display",
+      "executive pressure on internal legislative referees",
+      "avoidance of probable adverse floor votes on war powers",
+      "donor-timed regulatory favors and stock-trade alignment with public praise",
+      "opaque fund administration with no disclosure requirement for recipients"
     ],
     "sources_of_resilience": [
-      "courts enforcing recordkeeping, due process, and some limits on immigration enforcement",
-      "bipartisan and intraparty congressional resistance to the Anti-Weaponization Fund",
-      "civil-society protest defending voting rights and immigrant communities",
-      "lawsuits challenging executive overreach, retaliatory prosecution, and press restrictions",
-      "routine expert advisory and notice-based administrative processes still functioning",
-      "judicial review preserving case-by-case accountability even in politically sensitive matters"
+      "judicial finding of no valid legal settlement",
+      "Treasury general counsel resignation in apparent protest",
+      "career IRS lawyers' internal objections",
+      "direct lawsuits from January 6 victims challenging the fund",
+      "cross-partisan Senate confrontation of the acting attorney general",
+      "bipartisan Senate passage of an Iran war powers resolution"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "High risk is warranted because this week’s breaches touched nearly every core moral-floor trait and did so in reinforcing ways. Ethics was strained by executive-controlled payouts, conflict-laden stock trading, donor-linked access, and policy choices that could benefit presidential interests. Character and good faith were weakened by legal shielding for the president, pressure on legislative gatekeepers, and procedural use of weakened voting-rights protections to open new paths for representational narrowing. Truthfulness deteriorated through false election claims and contradictory accounts about disclosure of public payouts. Stewardship suffered as civic commemoration, public memory, and long-term representational safeguards were politicized or weakened.\n\nThe risk is not yet severe or critical because the digest still shows meaningful resistance: courts ordered compliance with the Presidential Records Act, blocked or narrowed some immigration practices, dismissed vindictive prosecution, and preserved access to process; Congress held hearings, advanced war-powers limits, and generated bipartisan resistance to the Anti-Weaponization Fund; agencies continued some expert and public-review functions. But these supports are increasingly reactive and fragmented. If current patterns continue, the danger is that patronage, self-protection, procedural manipulation, and manufactured unreality will become accepted operating methods rather than recognized breaches.",
+    "level": "severe",
+    "justification": "The moral floor remains severely stressed. This week's central development, a settlement that both funds allies through an opaque billion-dollar mechanism and grants the president permanent personal immunity from IRS enforcement, represents an escalation in kind from prior weeks' ethics violations: it is not merely enrichment or access-selling but formal, durable legal insulation of the officeholder from ordinary accountability. Paired with the deliberate fusion of a national commemorative occasion with sectarian religious display and personal monument-building, and continued executive pressure on legislative referees, the week shows the executive consolidating both material and symbolic advantages faster than institutional checks can respond. Genuine resistance existed, judicial skepticism, a Treasury resignation, cross-partisan legislative pushback, and direct litigation, but none reversed the underlying arrangements within the week, consistent with the reactive, partial pattern established in prior assessments.",
     "forward_signals": [
-      "whether the Anti-Weaponization Fund is blocked, narrowed, or normalized",
-      "further efforts to shield the president or affiliates from ordinary legal scrutiny",
-      "additional pressure on legislative referees or cancellation of oversight votes",
-      "new state redistricting or election-rule changes after weakened voting-rights protections",
-      "continued overlap between presidential financial activity and public policy messaging",
-      "escalation of false election narratives by official institutions",
-      "further politicization of national commemorations and public symbolism",
-      "whether courts can convert case-specific immigration checks into broader limits"
+      "whether courts ultimately void the settlement fund or the tax immunity order",
+      "whether Fitzpatrick's discharge petition or Gallego-style amendments gain traction to eliminate the fund",
+      "whether January 6 defendants successfully obtain payouts from the fund",
+      "whether House leadership permits a floor vote on Iran war powers",
+      "whether additional Treasury or IRS officials resign or testify publicly against the settlement",
+      "whether Freedom 250 donor-access arrangements draw formal ethics investigation"
     ]
   }
 }

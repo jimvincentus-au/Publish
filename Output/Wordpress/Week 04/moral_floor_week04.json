@@ -1,12 +1,12 @@
 {
   "week_number": 4,
-  "period_label": "Week 4 – 2025-02-08–2025-02-14",
+  "period_label": "Week 4",
   "window": {
     "start": "2025-02-08",
     "end": "2025-02-14"
   },
-  "clock_time_public": "7:50 p.m.",
-  "clock_delta_minutes": 4.2,
+  "clock_time_public": "7:32 p.m.",
+  "clock_delta_minutes": null,
   "baseline_traits": [
     {
       "name": "character",
@@ -18,7 +18,7 @@
     },
     {
       "name": "restraint",
-      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
     },
     {
       "name": "truthfulness",
@@ -34,215 +34,361 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week marked a significant escalation in the erosion of democratic norms, characterized by aggressive executive actions that centralized power, undermined institutional integrity, and manipulated information, while courts and civil society attempted to resist these trends.",
+    "summary": "Week 4 shows the parallel executive apparatus built around DOGE moving from experiment to entrenched practice, with formal authority over federal hiring, mass firings, and continued unvetted access to sensitive agency data. Prosecutors' mass resignation over the Adams dismissal exposed law enforcement being bent toward political bargaining, while ethics oversight was further stripped by the firing of the Government Ethics director and USAID's inspector general. Truthfulness was strained by erasure of transgender history from federal sites and retaliation against the Associated Press over naming conventions. Courts, career prosecutors, and civil-society actors mounted sustained, partially effective resistance, but the structural entrenchment of unaccountable private power inside government institutions continued to deepen.",
     "norms_broken": [
       {
-        "trait": "character",
-        "pattern": "Executive actions prioritized personal and political gain over public duty, exemplified by mass firings and the consolidation of power within DOGE.",
-        "severity": "serious",
-        "institutional_response": "Courts issued rulings to block some actions, but overall institutional resistance was limited.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk04_character_ex01",
-            "week": 4,
-            "event_ids": [
-              "wk04_PA_009",
-              "wk04_PA_015"
-            ],
-            "developments": [
-              {
-                "development_id": "wk04_PA_009",
-                "development_label": "Repurposed the U.S. Digital Service into DOGE with authority to cancel payments and target employees",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk04_PA_015",
-                "development_label": "Moved to dismantle the Consumer Financial Protection Bureau by starving it of funds",
-                "role": "primary"
-              }
-            ],
-            "summary": "The transformation of the U.S. Digital Service into DOGE and the dismantling of the CFPB exemplified prioritization of political loyalty over public duty.",
-            "why_exemplary": "These actions illustrated a shift towards personal rule, undermining the integrity of public institutions.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "ethics",
-        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the involvement of private actors in government functions.",
-        "severity": "serious",
-        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk04_ethics_ex01",
-            "week": 4,
-            "event_ids": [
-              "wk04_PA_006",
-              "wk04_PA_021"
-            ],
-            "developments": [
-              {
-                "development_id": "wk04_PA_006",
-                "development_label": "Signed an executive order pausing enforcement of the Foreign Corrupt Practices Act",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk04_PA_021",
-                "development_label": "Fired the director of the Office of Government Ethics",
-                "role": "primary"
-              }
-            ],
-            "summary": "Pausing FCPA enforcement and firing the ethics office head reduced scrutiny of executive conduct.",
-            "why_exemplary": "These actions exemplified a disregard for ethical boundaries, prioritizing personal and political interests.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "truthfulness",
-        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding immigration and national security.",
-        "severity": "serious",
-        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk04_truthfulness_ex01",
-            "week": 4,
-            "event_ids": [
-              "wk04_CR_001",
-              "wk04_CR_002"
-            ],
-            "developments": [
-              {
-                "development_id": "wk04_CR_001",
-                "development_label": "Conducted heavily armed raids in Denver-area apartments targeting alleged gang members",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk04_CR_002",
-                "development_label": "Publicized large-scale ICE arrests nationwide with limited transparency",
-                "role": "primary"
-              }
-            ],
-            "summary": "Militarized raids and opaque arrest data framed enforcement as targeting criminals while obscuring impacts on families.",
-            "why_exemplary": "These actions embedded disinformation at the center of immigration policy, undermining trust in governmental processes.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
         "trait": "good_faith",
-        "pattern": "Executive orders undermined established legal frameworks and protections, particularly regarding immigration and civil rights.",
-        "severity": "serious",
-        "institutional_response": "Judicial challenges were initiated, but the executive's actions were largely unilateral.",
+        "pattern": "DOJ leadership pressured prosecutors to drop the corruption case against Mayor Eric Adams for reasons tied to his cooperation on immigration enforcement rather than the merits of the case, prompting the resignation of career prosecutors including the acting U.S. Attorney for SDNY.",
+        "severity": "extreme",
+        "institutional_response": "Career prosecutors resigned in protest rather than comply, and the episode drew widespread condemnation from legal commentators, though DOJ ultimately proceeded to seek dismissal.",
         "exemplars": [
           {
             "exemplar_id": "wk04_good_faith_ex01",
             "week": 4,
             "event_ids": [
-              "wk04_CR_008",
-              "wk04_CR_006"
+              "wk04_IG_046"
             ],
             "developments": [
               {
-                "development_id": "wk04_CR_008",
-                "development_label": "Ordered prosecutors to drop corruption charges against NYC Mayor Eric Adams",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk04_CR_006",
-                "development_label": "Announced plans to reopen an ICE office at Rikers Island jail",
+                "development_id": "wk04_IG_046",
+                "development_label": "Resignation of prosecutors after DOJ demanded dismissal of Adams corruption charges",
                 "role": "primary"
               }
             ],
-            "summary": "Linking dismissal of a corruption case to Adams’s role in deportation efforts politicized prosecution decisions.",
-            "why_exemplary": "These actions disregarded established processes for justice, undermining the spirit of legal protections.",
+            "summary": "Two career prosecutors resigned rather than drop corruption charges against Mayor Adams after DOJ leadership tied dismissal to his cooperation on immigration enforcement.",
+            "why_exemplary": "A verified, direct instance of prosecutorial independence being sacrificed to secure a political bargain, with resignations exposing the departure from evidence-based justice.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk04_good_faith_ex02",
+            "week": 4,
+            "event_ids": [
+              "wk04_IG_072"
+            ],
+            "developments": [
+              {
+                "development_id": "wk04_IG_072",
+                "development_label": "DOJ request to dismiss Adams charges after mass prosecutor resignations",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The Justice Department proceeded to seek dismissal of the Adams case despite the evidentiary record, following the wave of resignations.",
+            "why_exemplary": "Confirms that the dismissal proceeded regardless of internal objection, illustrating institutional capture of prosecutorial discretion by political priorities.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "stewardship",
-        "pattern": "The dismantling of oversight mechanisms and the removal of inspectors general weakened institutional accountability.",
+        "pattern": "The administration fired the director of the Office of Government Ethics and USAID's independent inspector general following a critical report, removing key oversight officials whose function is to detect and deter conflicts of interest and administrative abuse.",
         "severity": "serious",
-        "institutional_response": "Limited pushback from existing oversight bodies, highlighting a lack of resilience.",
+        "institutional_response": "No immediate legal action reported this week to reverse these removals; watchdogs and former officials issued public warnings, but institutional capacity for internal correction was directly reduced.",
         "exemplars": [
           {
             "exemplar_id": "wk04_stewardship_ex01",
             "week": 4,
             "event_ids": [
-              "wk04_IG_030"
+              "wk04_IG_060"
             ],
             "developments": [
               {
-                "development_id": "wk04_IG_030",
-                "development_label": "Purged top leadership at the National Archives and Records Administration",
+                "development_id": "wk04_IG_060",
+                "development_label": "Firing of the Office of Government Ethics director",
                 "role": "primary"
               }
             ],
-            "summary": "Removing senior archives officials overseeing Trump records investigations threatened the independence of the nation’s records custodian.",
-            "why_exemplary": "This action stripped internal watchdogs of their power, reducing institutional capacity to investigate executive misconduct.",
+            "summary": "Trump removed the head of the federal government's central ethics oversight office, weakening institutional checks on conflicts of interest across the executive branch.",
+            "why_exemplary": "A verified, direct blow to the government's internal capacity to police self-dealing and conflicts of interest at a moment of expanding private-sector access to federal systems.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk04_stewardship_ex02",
+            "week": 4,
+            "event_ids": [
+              "wk04_IG_061"
+            ],
+            "developments": [
+              {
+                "development_id": "wk04_IG_061",
+                "development_label": "Firing of USAID's inspector general after critical report",
+                "role": "secondary"
+              }
+            ],
+            "summary": "USAID's inspector general was fired shortly after issuing a report critical of the agency's dismantling, appearing retaliatory.",
+            "why_exemplary": "Illustrates the pattern of removing watchdogs precisely when their oversight function becomes inconvenient to executive action.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "DOGE was granted formal executive-order authority over federal hiring and firing across all agencies, private individual Elon Musk received a top-secret security clearance despite extensive federal contracting interests, and the administration continued attempting unauthorized access to sensitive Treasury, Energy, and CMS data systems.",
+        "severity": "extreme",
+        "institutional_response": "Multiple federal judges issued restraining orders blocking DOGE's access to Treasury systems and other sensitive data, and unions and former Treasury secretaries publicly objected, but the underlying authority granted by executive order remained intact.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk04_restraint_ex01",
+            "week": 4,
+            "event_ids": [
+              "wk04_PA_018",
+              "wk04_IG_054"
+            ],
+            "developments": [
+              {
+                "development_id": "wk04_PA_018",
+                "development_label": "Executive order directing agencies to cooperate with DOGE on hiring and firing",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk04_IG_054",
+                "development_label": "Musk granted top-secret security clearance as special government employee",
+                "role": "secondary"
+              }
+            ],
+            "summary": "An executive order formalized DOGE's authority over federal personnel decisions while its leader received top-secret clearance despite ongoing government contracts.",
+            "why_exemplary": "A verified structural expansion of private, unaccountable control over the civil service, compounded by a conflict-of-interest-laden security clearance grant.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk04_restraint_ex02",
+            "week": 4,
+            "event_ids": [
+              "wk04_PA_003",
+              "wk04_IG_006"
+            ],
+            "developments": [
+              {
+                "development_id": "wk04_PA_003",
+                "development_label": "DOGE team disrupting operations and seeking data access across 15+ agencies",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk04_IG_006",
+                "development_label": "Emergency restraining order blocking DOGE access to Treasury systems",
+                "role": "secondary"
+              }
+            ],
+            "summary": "DOGE sought sweeping access across agencies including Treasury payment systems, prompting an emergency court order to halt access and destroy downloaded material.",
+            "why_exemplary": "Demonstrates the scale of unauthorized reach attempted by an unaccountable private-led group and the judiciary's role in checking it.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "The National Park Service removed all references to transgender people from the Stonewall National Monument website, altering the historical record of a landmark civil-rights event without public process, while the White House barred Associated Press journalists over a naming dispute.",
+        "severity": "concerning",
+        "institutional_response": "Media reporting and LGBTQ advocacy groups publicized the Stonewall change; AP pursued legal action against the press ban, which the administration maintained through week's end.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk04_truthfulness_ex01",
+            "week": 4,
+            "event_ids": [
+              "wk04_IM_018"
+            ],
+            "developments": [
+              {
+                "development_id": "wk04_IM_018",
+                "development_label": "Removal of transgender references from Stonewall monument website",
+                "role": "primary"
+              }
+            ],
+            "summary": "The National Park Service scrubbed transgender references from the Stonewall National Monument site, altering the historical narrative of the 1969 uprising.",
+            "why_exemplary": "A verified act of curating the federal historical record to erase a marginalized group's documented role in a landmark civil-rights event.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk04_truthfulness_ex02",
+            "week": 4,
+            "event_ids": [
+              "wk04_IM_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk04_IM_012",
+                "development_label": "Associated Press barred from Oval Office and Air Force One over naming dispute",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The White House denied a major wire service access to presidential events after it declined to adopt the administration's preferred geographic terminology.",
+            "why_exemplary": "Illustrates retaliation against independent journalism for accurate, editorially independent reporting rather than any factual error.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "Senior officials publicly asserted that judicial rulings do not bind legitimate executive power, and members of Congress moved to threaten impeachment of judges who ruled against the administration, reflecting a stance that oath-bound institutional limits apply only when convenient.",
+        "severity": "serious",
+        "institutional_response": "Legal commentators and the American Bar Association condemned the rhetoric; no formal congressional action to impeach judges advanced this week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk04_character_ex01",
+            "week": 4,
+            "event_ids": [
+              "wk04_IG_032"
+            ],
+            "developments": [
+              {
+                "development_id": "wk04_IG_032",
+                "development_label": "Vance statement that judges are not allowed to control executive power",
+                "role": "primary"
+              }
+            ],
+            "summary": "The vice president publicly asserted that courts could not constrain the executive's 'legitimate power,' challenging the separation of powers directly.",
+            "why_exemplary": "A verified, high-level articulation of a constitutional position that would remove judicial review as a check on the executive.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk04_character_ex02",
+            "week": 4,
+            "event_ids": [
+              "wk04_IG_035"
+            ],
+            "developments": [
+              {
+                "development_id": "wk04_IG_035",
+                "development_label": "Threatened impeachment of Judge Engelmayer over DOGE ruling",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A member of Congress announced plans to draft impeachment articles against a judge solely because of an unfavorable ruling against DOGE.",
+            "why_exemplary": "Demonstrates willingness to weaponize impeachment power against judicial independence in direct response to adverse rulings.",
+            "exemplar_type": "secondary"
           }
         ]
       }
     ],
     "norms_strengthened": [
       {
-        "trait": "good_faith",
-        "pattern": "Judicial actions temporarily blocked some of the administration's most aggressive moves, demonstrating a commitment to uphold legal norms.",
+        "trait": "restraint",
+        "pattern": "Federal courts issued a dense sequence of rulings restraining executive overreach this week, including blocking DOGE's Treasury access, halting the birthright-citizenship order a second time, enforcing compliance on the funding freeze, and pausing the transgender military and healthcare restrictions.",
         "scope": "institutional",
-        "why_it_matters": "These judicial interventions highlight the importance of checks and balances in resisting executive overreach.",
+        "why_it_matters": "Sustained, multi-front judicial intervention demonstrates that courts retain practical capacity to check simultaneous executive actions, preserving a critical structural safeguard even amid rapid escalation.",
         "exemplars": [
           {
-            "exemplar_id": "wk04_good_faith_ex02",
+            "exemplar_id": "wk04_restraint_strength_ex01",
             "week": 4,
             "event_ids": [
-              "wk04_IG_004",
-              "wk04_IG_008"
+              "wk04_IG_033",
+              "wk04_IG_038"
             ],
             "developments": [
               {
-                "development_id": "wk04_IG_004",
-                "development_label": "Blocked the Trump administration from placing thousands of USAID employees on leave",
+                "development_id": "wk04_IG_033",
+                "development_label": "Judge McConnell ruling administration violated funding freeze order",
                 "role": "primary"
               },
               {
-                "development_id": "wk04_IG_008",
-                "development_label": "Ordered the Trump administration to immediately restore billions in frozen federal funding",
+                "development_id": "wk04_IG_038",
+                "development_label": "Second order compelling immediate release of frozen funds",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A federal judge found the administration in continued noncompliance with a prior order and ordered immediate restoration of appropriated funding.",
+            "why_exemplary": "A verified, repeated judicial enforcement action against executive defiance of court orders, reinforcing the practical force of judicial review.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk04_restraint_strength_ex02",
+            "week": 4,
+            "event_ids": [
+              "wk04_IG_040",
+              "wk04_IG_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk04_IG_040",
+                "development_label": "Judicial block on Musk team's Treasury records access",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk04_IG_005",
+                "development_label": "Court order blocking USAID mass leave notices",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Courts halted unauthorized access to Treasury records and blocked a mass administrative-leave action against USAID staff.",
+            "why_exemplary": "Demonstrates continued judicial willingness to intervene against unaccountable private access to sensitive systems and abrupt agency dismantling.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Career prosecutors resigned rather than comply with a politically motivated directive to drop the Adams case, and eight fired inspectors general filed suit to enforce statutory removal protections, both defending institutional norms against political interference.",
+        "scope": "individual",
+        "why_it_matters": "Individual acts of principled refusal signal that some officials continue to prioritize the rule of law over political convenience, providing a check that written rules alone cannot guarantee.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk04_good_faith_strength_ex01",
+            "week": 4,
+            "event_ids": [
+              "wk04_IG_046"
+            ],
+            "developments": [
+              {
+                "development_id": "wk04_IG_046",
+                "development_label": "Resignation of prosecutors rather than drop Adams charges",
                 "role": "primary"
               }
             ],
-            "summary": "Judicial rulings enforced prior restraining orders on funding freezes, reaffirming judicial power to compel executive compliance.",
-            "why_exemplary": "These actions reinforced congressional control over appropriations and limited executive attempts to unilaterally suspend international commitments.",
+            "summary": "Career prosecutors chose resignation over compliance with a directive to dismiss corruption charges for political reasons.",
+            "why_exemplary": "A verified act of professional integrity that publicly exposed political interference rather than quietly enabling it.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk04_good_faith_strength_ex02",
+            "week": 4,
+            "event_ids": [
+              "wk04_IG_047"
+            ],
+            "developments": [
+              {
+                "development_id": "wk04_IG_047",
+                "development_label": "Eight fired inspectors general filing suit for reinstatement",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Fired inspectors general jointly sued to challenge their removals as unlawful under statutory protections.",
+            "why_exemplary": "Represents coordinated legal action to defend the institutional independence of oversight officials against improper removal.",
+            "exemplar_type": "secondary"
           }
         ]
       }
     ],
-    "direction_of_movement": "collapsing"
+    "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "Week 4 represents a significant escalation in the concerning trends established in previous weeks, with the consolidation of a parallel executive state and the aggressive use of executive power to reshape governance. The administration's actions increasingly prioritized personal and political interests over public duty, exemplified by mass firings and the centralization of authority within DOGE. The erosion of accountability mechanisms, including the dismantling of oversight bodies and the politicization of the justice system, further exacerbates the risks to democratic integrity. However, judicial pushback indicates that some institutional resilience remains, albeit under significant threat.",
+    "narrative": "Week 4 confirms and deepens the trajectory established over the prior three weeks. Where Week 3 saw DOGE gain operational access to Treasury systems and independent watchdogs purged one by one, Week 4 formalized that expansion through an executive order granting DOGE authority over hiring and firing across the entire federal government, paired with a top-secret security clearance for Musk despite his extensive government contracting interests. The firing of the Government Ethics director and USAID's inspector general further hollowed out the internal machinery designed to catch conflicts of interest and administrative abuse, extending a pattern begun with the Archivist's removal and the dismantling of DOJ's anti-corruption units in Week 3.\n\nThe Adams prosecution episode was the sharpest single data point of the week: prosecutors resigned rather than treat a corruption case as a bargaining chip for immigration cooperation, exposing precisely the kind of good-faith breach the moral floor exists to prevent. This sits alongside continuing erasure of historical and scientific information—Stonewall's transgender history, health agency terminology, retaliation against the Associated Press—showing that truthfulness and memory continue to be treated as adjustable variables rather than fixed obligations.\n\nCountervailing this, courts remained an active and partially effective check, repeatedly enforcing funding orders, blocking Treasury access, and pausing several executive orders on citizenship and healthcare. Individual acts of resistance—prosecutorial resignations, inspector general lawsuits, a former Treasury secretaries' warning—show that the institutional immune system has not gone silent. But the structural changes of this week, particularly DOGE's now-formalized personnel authority and the loss of two ethics-oversight officials in a single week, make the overall trajectory one of continued, compounding deterioration rather than stabilization.",
     "trend": "deteriorating",
     "stress_points": [
-      "centralization of executive power",
-      "disinformation as a governance tool",
-      "erosion of civil rights protections",
-      "politicization of the civil service"
+      "formalized private control over federal hiring and firing",
+      "prosecutorial independence subordinated to political bargaining",
+      "removal of ethics and inspector-general oversight officials",
+      "unauthorized or contested access to sensitive federal data systems",
+      "erasure of historical and scientific information via administrative action",
+      "public rhetoric denying judicial authority over the executive"
     ],
     "sources_of_resilience": [
-      "judicial pushback against executive orders",
-      "civil society mobilization against abuses",
-      "state-level legal challenges"
+      "repeated, effective judicial intervention against executive noncompliance",
+      "resignations by career prosecutors refusing politically motivated directives",
+      "coordinated litigation by fired inspectors general and federal unions",
+      "public statements from former officials and professional bodies (ABA, former Treasury secretaries)",
+      "sustained civic mobilization via congressional constituent contact",
+      "state and local litigation defending appropriated funds and sanctuary policies"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
+    "level": "severe",
+    "justification": "This week's formal grant of hiring and firing authority to DOGE, combined with the removal of the Government Ethics director and USAID's inspector general, represents a coordinated reduction in the institutional capacity to detect and deter self-dealing and abuse of power precisely as private, unaccountable influence over the civil service expanded. The Adams prosecution episode demonstrates that prosecutorial discretion can be redirected toward political ends even at the cost of losing experienced career staff, a pattern with few effective internal correctives once ethics oversight itself has been weakened. Courts continued to provide a meaningful check, but the volume and coordination of executive actions this week, and explicit rhetoric questioning judicial authority, suggest the check is being tested at a rate that risks outpacing the judiciary's practical capacity to respond.",
     "forward_signals": [
-      "increased executive orders bypassing legislative input",
-      "escalation of disinformation campaigns",
-      "further attempts to undermine civil rights protections"
+      "whether DOGE's hiring/firing authority survives legal challenge or expands further",
+      "outcome of the Adams dismissal and any further politically motivated prosecutorial actions",
+      "whether additional ethics or inspector-general vacancies are filled with independent or loyalist appointees",
+      "continued attempts to access sensitive data systems despite court orders",
+      "escalation of rhetoric or action against judges perceived as obstructing the executive",
+      "further erasure or alteration of historical, scientific, or public-health information"
     ]
   }
 }

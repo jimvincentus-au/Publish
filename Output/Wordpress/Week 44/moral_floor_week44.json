@@ -1,12 +1,12 @@
 {
   "week_number": 44,
-  "period_label": "Week 44 – 2025-11-15–2025-11-21",
+  "period_label": "Week 44",
   "window": {
     "start": "2025-11-15",
     "end": "2025-11-21"
   },
-  "clock_time_public": "8:11 p.m.",
-  "clock_delta_minutes": null,
+  "clock_time_public": "7:42 p.m.",
+  "clock_delta_minutes": -0.2,
   "baseline_traits": [
     {
       "name": "character",
@@ -18,7 +18,7 @@
     },
     {
       "name": "restraint",
-      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
     },
     {
       "name": "truthfulness",
@@ -34,221 +34,424 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week saw significant breaches of ethical norms, particularly through the use of executive power for political ends and the erosion of civil rights, while some institutional pushback was evident.",
+    "summary": "The week combined a rare, veto-proof legislative rebuke of executive stonewalling with an unprecedented presidential threat against sitting lawmakers, a mass federal enforcement operation that swept up a U.S. citizen, and a dense cluster of conflict-of-interest pardons and business deals. Institutional friction was real: courts found prosecutorial misconduct, blocked a racial gerrymander, and forced disclosure of grand jury irregularities. But the president's call for the arrest and execution of Democratic lawmakers over protected speech marks a new and severe escalation in restraint and character failure, even though no formal consequence followed.",
     "norms_broken": [
       {
-        "trait": "character",
-        "pattern": "Executive actions prioritized political interests over public duty, particularly through aggressive immigration enforcement and eliminationist rhetoric.",
-        "severity": "serious",
-        "institutional_response": "Limited resistance from institutions, highlighting a weakening of checks on executive power.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk44_character_ex01",
-            "week": 44,
-            "event_ids": [
-              "wk44_PA_001",
-              "wk44_CR_013"
-            ],
-            "developments": [
-              {
-                "development_id": "wk44_PA_001",
-                "development_label": "Launched Operation Charlotte's Web targeting immigrant communities.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk44_CR_013",
-                "development_label": "Called for execution of Democratic lawmakers for constitutional messaging.",
-                "role": "secondary"
-              }
-            ],
-            "summary": "The president's actions exemplified a shift towards using state power for personal political gain.",
-            "why_exemplary": "These actions illustrated a disregard for the integrity of public institutions, undermining democratic norms.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "ethics",
-        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the use of executive power to reward allies and punish critics.",
-        "severity": "serious",
-        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk44_ethics_ex01",
-            "week": 44,
-            "event_ids": [
-              "wk44_PA_002",
-              "wk44_CR_024"
-            ],
-            "developments": [
-              {
-                "development_id": "wk44_PA_002",
-                "development_label": "Directed investigation into political opponents using Epstein materials.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk44_CR_024",
-                "development_label": "Used investigations to justify limiting file releases.",
-                "role": "secondary"
-              }
-            ],
-            "summary": "The president's actions exemplified a disregard for ethical boundaries.",
-            "why_exemplary": "These actions demonstrated a willingness to use public resources as tools for political leverage and personal gain.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
         "trait": "restraint",
-        "pattern": "The administration's aggressive use of executive orders and immigration enforcement showed a lack of self-limitation.",
-        "severity": "serious",
-        "institutional_response": "Limited checks from Congress or courts, indicating a weakening of institutional norms.",
+        "pattern": "The president publicly called for the arrest and execution of six Democratic lawmakers over a video reminding troops of their duty to refuse illegal orders, with White House officials amplifying the mischaracterization as incitement to insurrection.",
+        "severity": "extreme",
+        "institutional_response": "No formal indictment or disciplinary action followed; media and some officials pushed back, but no institutional mechanism constrained the threat itself.",
         "exemplars": [
           {
             "exemplar_id": "wk44_restraint_ex01",
             "week": 44,
             "event_ids": [
-              "wk44_PA_001",
-              "wk44_CR_014"
+              "wk44_PA_025",
+              "wk44_PA_026"
             ],
             "developments": [
               {
-                "development_id": "wk44_PA_001",
-                "development_label": "Conducted large-scale immigration raids in Charlotte.",
+                "development_id": "wk44_PA_025",
+                "development_label": "Presidential call for arrest and execution of six Democratic lawmakers",
                 "role": "primary"
               },
               {
-                "development_id": "wk44_CR_014",
-                "development_label": "Deployed National Guard troops in U.S. cities without local consent.",
+                "development_id": "wk44_PA_026",
+                "development_label": "White House officials mischaracterized the video as incitement to insurrection",
                 "role": "secondary"
               }
             ],
-            "summary": "The use of executive power to manipulate legislative processes exemplified a lack of restraint.",
-            "why_exemplary": "These actions illustrated a disregard for the limits of executive authority and the need for checks on power.",
+            "summary": "A sitting president demanded execution of members of Congress for a video stating settled law on refusing illegal orders, amplified by senior aides.",
+            "why_exemplary": "Publicly threatening execution of legislative dissenters, without formal consequence, marks an unprecedented breach of self-limitation on executive rhetoric toward a co-equal branch.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk44_restraint_ex02",
+            "week": 44,
+            "event_ids": [
+              "wk44_PA_027"
+            ],
+            "developments": [
+              {
+                "development_id": "wk44_PA_027",
+                "development_label": "Continued threats of legal consequences against the same lawmakers",
+                "role": "primary"
+              }
+            ],
+            "summary": "The president sustained threats of prosecution against lawmakers days after the initial call for their arrest, prolonging pressure on protected legislative speech.",
+            "why_exemplary": "Persistence of the threat beyond a single outburst suggests calculated pressure rather than a one-time lapse, deepening concern about durable norm erosion.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
-        "trait": "truthfulness",
-        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding immigration and economic conditions.",
+        "trait": "ethics",
+        "pattern": "Clemency and business decisions again tracked personal financial benefit: a pardon for Binance founder Changpeng Zhao followed a lucrative deal with a Trump-linked crypto firm, the president launched his own crypto venture while deregulating that industry, and Trump Organization pursued foreign real estate deals concurrent with related diplomatic and defense decisions.",
         "severity": "serious",
-        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
+        "institutional_response": "Reported extensively by multiple outlets; no ethics enforcement body intervened within the week.",
         "exemplars": [
           {
-            "exemplar_id": "wk44_truthfulness_ex01",
+            "exemplar_id": "wk44_ethics_ex01",
             "week": 44,
             "event_ids": [
-              "wk44_IM_009",
-              "wk44_IM_010"
+              "wk44_PA_015"
             ],
             "developments": [
               {
-                "development_id": "wk44_IM_009",
-                "development_label": "Promoted misleading claims about a strong economy despite contrary indicators.",
+                "development_id": "wk44_PA_015",
+                "development_label": "Pardon of Changpeng Zhao following Binance-Trump crypto firm deal",
+                "role": "primary"
+              }
+            ],
+            "summary": "A pardon for a money-laundering conviction followed a business arrangement between the recipient's company and a Trump-linked crypto venture.",
+            "why_exemplary": "Direct financial proximity between clemency and personal enrichment exemplifies the conflict-of-interest pattern the ethics floor is designed to prevent.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk44_ethics_ex02",
+            "week": 44,
+            "event_ids": [
+              "wk44_PA_032",
+              "wk44_PA_029"
+            ],
+            "developments": [
+              {
+                "development_id": "wk44_PA_032",
+                "development_label": "Trump Organization real estate deals in Saudi Arabia and the Maldives",
                 "role": "primary"
               },
               {
-                "development_id": "wk44_IM_010",
-                "development_label": "Falsely blamed former President Biden for beef price spikes.",
+                "development_id": "wk44_PA_029",
+                "development_label": "Elevation of Saudi Arabia to major non-NATO ally status and F-35 approval",
                 "role": "secondary"
               }
             ],
-            "summary": "The normalization of false claims about public safety and economic integrity exemplified a significant erosion of truthfulness.",
-            "why_exemplary": "These actions embedded disinformation at the center of governance, undermining trust in governmental processes.",
-            "exemplar_type": "primary"
+            "summary": "Family business deals with foreign governments coincided with major diplomatic and arms decisions benefiting the same governments.",
+            "why_exemplary": "Concurrent personal business dealings and official state decisions with the same foreign partners raise serious emoluments-style concerns central to the ethics definition.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "good_faith",
-        "pattern": "The administration's actions undermined the spirit of democratic rules, particularly in election processes and judicial independence.",
+        "pattern": "Following signature of the bipartisan Epstein Files Transparency Act, the DOJ opened investigations into Epstein-linked figures including political rivals, a maneuver that creates exemptions allowing continued withholding of the very documents Congress had just voted to require be released.",
         "severity": "serious",
-        "institutional_response": "Limited institutional resistance, with some courts attempting to uphold democratic norms.",
+        "institutional_response": "Congress had acted in good faith with near-unanimous votes; the administration's response used a formally legal mechanism to potentially defeat the law's purpose. Ghislaine Maxwell's refusal to cooperate with oversight further limited enforcement.",
         "exemplars": [
           {
-            "exemplar_id": "wk44_good_faith_ex01",
+            "exemplar_id": "wk44_goodfaith_ex01",
             "week": 44,
             "event_ids": [
-              "wk44_IG_007",
-              "wk44_IG_011"
+              "wk44_PA_010",
+              "wk44_PA_020"
             ],
             "developments": [
               {
-                "development_id": "wk44_IG_007",
-                "development_label": "Passed the Epstein Files Transparency Act mandating DOJ disclosure.",
+                "development_id": "wk44_PA_020",
+                "development_label": "Signing of the Epstein Files Transparency Act",
                 "role": "primary"
               },
               {
-                "development_id": "wk44_IG_011",
-                "development_label": "Approved the Epstein files release bill by unanimous consent.",
-                "role": "secondary"
+                "development_id": "wk44_PA_010",
+                "development_label": "DOJ directed to investigate Epstein-linked figures including Clinton and Summers",
+                "role": "primary"
               }
             ],
-            "summary": "The procedural manipulation to deny representation exemplified a breach of good faith in democratic processes.",
-            "why_exemplary": "These actions demonstrated a willingness to manipulate legal frameworks for partisan advantage, undermining the integrity of democratic institutions.",
+            "summary": "Signature of a veto-proof transparency law was closely followed by new investigations that could justify withholding disclosure documents under standard legal exemptions.",
+            "why_exemplary": "Using a formally compliant investigative step to potentially defeat a just-enacted transparency mandate exemplifies letter-of-the-law compliance paired with spirit-of-the-law evasion.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk44_goodfaith_ex02",
+            "week": 44,
+            "event_ids": [
+              "wk44_IG_027"
+            ],
+            "developments": [
+              {
+                "development_id": "wk44_IG_027",
+                "development_label": "Ghislaine Maxwell's refusal to cooperate with House Oversight investigation",
+                "role": "primary"
+              }
+            ],
+            "summary": "A key witness invoked her rights to avoid answering questions from a congressional inquiry into a major criminal case.",
+            "why_exemplary": "Non-cooperation, while legally permissible, illustrates how disclosure mandates remain dependent on cooperation the law itself cannot compel.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "Federal enforcement operations produced documented harm to a U.S. citizen wrongly detained despite presenting citizenship papers, and a judicial finding that a Trump-appointed prosecutor made false statements to a grand jury in the Comey case, with the final indictment never actually reviewed by that jury.",
+        "severity": "serious",
+        "institutional_response": "Federal judges intervened to expose the misconduct; enforcement agencies did not retract the underlying operation.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk44_character_ex01",
+            "week": 44,
+            "event_ids": [
+              "wk44_CR_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk44_CR_001",
+                "development_label": "Detention of U.S. citizen Willy Aceituno despite citizenship documents",
+                "role": "primary"
+              }
+            ],
+            "summary": "A naturalized citizen was detained during a federal enforcement sweep despite presenting valid citizenship papers.",
+            "why_exemplary": "Disregard for documented citizenship during enforcement reflects a failure of the basic discipline expected of officials exercising coercive federal power.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk44_character_ex02",
+            "week": 44,
+            "event_ids": [
+              "wk44_IG_011",
+              "wk44_IG_020"
+            ],
+            "developments": [
+              {
+                "development_id": "wk44_IG_011",
+                "development_label": "Judicial finding that prosecutor Lindsey Halligan gave false statements to a grand jury",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk44_IG_020",
+                "development_label": "Hearing revealing the grand jury never reviewed the final Comey indictment",
+                "role": "primary"
+              }
+            ],
+            "summary": "Court proceedings established that a Trump-appointed prosecutor misrepresented the law to a grand jury and that jurors never saw the final indictment.",
+            "why_exemplary": "Documented, court-established dishonesty in a politically sensitive prosecution reflects a serious internal-discipline failure at the center of a high-profile case.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "The administration repeated claims of a 'Golden Age' economy and disputed explanations for rising beef prices even as record grocery costs and the sharpest unemployment deterioration since 2021 emerged, while the Labor Department cancelled the October inflation report and delayed the November release.",
+        "severity": "concerning",
+        "institutional_response": "Independent polling and labor data documented the gap; no correction was issued by responsible officials.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk44_truthfulness_ex01",
+            "week": 44,
+            "event_ids": [
+              "wk44_IM_010",
+              "wk44_ES_016"
+            ],
+            "developments": [
+              {
+                "development_id": "wk44_IM_010",
+                "development_label": "Claims of a 'Golden Age' economy despite weakening data",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk44_ES_016",
+                "development_label": "Fox News poll and unemployment data showing widespread economic hardship",
+                "role": "primary"
+              }
+            ],
+            "summary": "Officials continued asserting economic success while polling and labor data showed the highest unemployment since 2021 and record-low consumer sentiment.",
+            "why_exemplary": "Persisting in an optimistic narrative directly contradicted by contemporaneous data obstructs the public's ability to evaluate government performance accurately.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk44_truthfulness_ex02",
+            "week": 44,
+            "event_ids": [
+              "wk44_IM_027"
+            ],
+            "developments": [
+              {
+                "development_id": "wk44_IM_027",
+                "development_label": "Cancellation of October CPI report and delay of November data",
+                "role": "primary"
+              }
+            ],
+            "summary": "Key inflation data was cancelled or delayed at a moment when the Federal Reserve and public most needed independent verification of economic conditions.",
+            "why_exemplary": "Withholding the data that could adjudicate disputed economic claims leaves the public without an independent referee for official assertions.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "An agency head fired officials investigating his own conduct, a state governor made an unauthorized federal-level terrorist designation targeting a religious minority, and a proclamation exempted an industrial sector from pollution controls, each weakening institutional checks or overriding jurisdictional limits.",
+        "severity": "concerning",
+        "institutional_response": "Congressional oversight (Whitehouse investigation) and litigation emerged in response; no reversal occurred within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk44_stewardship_ex01",
+            "week": 44,
+            "event_ids": [
+              "wk44_PA_017"
+            ],
+            "developments": [
+              {
+                "development_id": "wk44_PA_017",
+                "development_label": "Firing of FHFA officials investigating Bill Pulte",
+                "role": "primary"
+              }
+            ],
+            "summary": "An agency head removed staff examining his own alleged misuse of mortgage records, undermining internal accountability infrastructure.",
+            "why_exemplary": "Eliminating an active internal investigation by removing its investigators, rather than by resolving its findings, damages institutional capacity to police conflicts of interest.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk44_stewardship_ex02",
+            "week": 44,
+            "event_ids": [
+              "wk44_PA_021"
+            ],
+            "developments": [
+              {
+                "development_id": "wk44_PA_021",
+                "development_label": "Texas governor's unauthorized terrorist designation of CAIR and Muslim Brotherhood",
+                "role": "primary"
+              }
+            ],
+            "summary": "A state official exercised a power reserved to the federal government to designate a religious minority group as a terrorist organization.",
+            "why_exemplary": "Unilateral assumption of a constitutionally reserved federal power against a minority group damages institutional boundaries meant to prevent politicized abuse of designation authority.",
+            "exemplar_type": "secondary"
           }
         ]
       }
     ],
     "norms_strengthened": [
       {
-        "trait": "stewardship",
-        "pattern": "Judicial actions aimed at preserving civil rights and transparency showed resilience against executive overreach.",
-        "scope": "institutional",
-        "why_it_matters": "These actions reflect a commitment to maintaining public goods and services despite federal neglect.",
+        "trait": "good_faith",
+        "pattern": "A discharge petition forced the House to a 427-1 vote on the Epstein Files Transparency Act, and the Senate passed it by unanimous consent, resulting in the president's signature despite months of prior resistance.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Near-unanimous, veto-proof legislative action compelling executive transparency demonstrates that ordinary legislative mechanics can still override sustained resistance from party and executive leadership.",
         "exemplars": [
           {
-            "exemplar_id": "wk44_stewardship_ex01",
+            "exemplar_id": "wk44_goodfaith_strength_ex01",
             "week": 44,
             "event_ids": [
-              "wk44_IG_005",
-              "wk44_IM_018"
+              "wk44_IG_002",
+              "wk44_IG_004",
+              "wk44_IG_005"
             ],
             "developments": [
               {
-                "development_id": "wk44_IG_005",
-                "development_label": "Found government misconduct and ordered grand jury materials released in the Comey case.",
+                "development_id": "wk44_IG_004",
+                "development_label": "House passage of the Epstein Files Transparency Act 427-1",
                 "role": "primary"
               },
               {
-                "development_id": "wk44_IM_018",
-                "development_label": "Passed a law mandating release of Epstein files with limited redactions.",
-                "role": "secondary"
+                "development_id": "wk44_IG_005",
+                "development_label": "Senate passage by unanimous consent",
+                "role": "primary"
               }
             ],
-            "summary": "Judicial actions to protect democratic integrity reflect a commitment to stewardship.",
-            "why_exemplary": "These initiatives demonstrate a proactive approach to governance that prioritizes public welfare over political expediency.",
+            "summary": "Near-unanimous bicameral passage of a transparency mandate forced the administration's hand after months of resistance to disclosure.",
+            "why_exemplary": "A veto-proof, cross-partisan majority using standard legislative procedure to compel executive accountability exemplifies functioning good-faith institutional practice.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "Courts continued to check executive overreach: a three-judge panel struck down Texas's mid-decade congressional map as an unconstitutional racial gerrymander, and a federal judge found the National Guard deployment in Washington, D.C. unlawful.",
+        "scope": "institutional",
+        "why_it_matters": "Judicial willingness to find executive and state actions unlawful, even where enforcement was subsequently stayed, preserves the principle that courts retain authority to check overreach.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk44_restraint_strength_ex01",
+            "week": 44,
+            "event_ids": [
+              "wk44_IG_018"
+            ],
+            "developments": [
+              {
+                "development_id": "wk44_IG_018",
+                "development_label": "Federal panel blocked Texas's racially gerrymandered congressional map",
+                "role": "primary"
+              }
+            ],
+            "summary": "A three-judge federal panel struck down a mid-decade partisan and racial gerrymander ahead of the midterms.",
+            "why_exemplary": "A substantive judicial check on electoral map manipulation demonstrates continued capacity to enforce constitutional limits despite political pressure.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk44_restraint_strength_ex02",
+            "week": 44,
+            "event_ids": [
+              "wk44_IG_029"
+            ],
+            "developments": [
+              {
+                "development_id": "wk44_IG_029",
+                "development_label": "Court ruled D.C. National Guard deployment illegal, though stayed pending appeal",
+                "role": "primary"
+              }
+            ],
+            "summary": "A federal court found domestic National Guard deployment for policing unlawful, though it stayed enforcement of its own ruling.",
+            "why_exemplary": "A formal finding of illegality against executive military deployment maintains the substantive record of judicial oversight, even where the practical remedy was delayed.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "The Charlotte-Mecklenburg Police Department declined to participate in the federal immigration operation, and a jury acquitted a veteran protester while charges were dismissed against another for anti-ICE demonstrations.",
+        "scope": "individual",
+        "why_it_matters": "Local law enforcement and juries maintaining independent judgment against federal pressure or overreaching prosecution preserves professional and civic integrity at points of direct contact with citizens.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk44_character_strength_ex01",
+            "week": 44,
+            "event_ids": [
+              "wk44_IG_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk44_IG_001",
+                "development_label": "Charlotte-Mecklenburg Police Department declined to assist federal enforcement operation",
+                "role": "primary"
+              }
+            ],
+            "summary": "A local police department refused to participate in a federal immigration enforcement operation despite pressure to cooperate.",
+            "why_exemplary": "A local institution's principled refusal to assist a federally directed operation illustrates a jurisdictional check rooted in professional integrity.",
             "exemplar_type": "primary"
           }
         ]
       }
     ],
-    "direction_of_movement": "collapsing"
+    "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "Week 44 continues the trend of significant erosion of the moral floor, with executive actions increasingly prioritizing political interests over adherence to democratic norms. The administration's consolidation of power and punitive measures against dissenting voices deepen concerns about the integrity of public institutions. While there are pockets of resistance, such as judicial interventions and state-level initiatives, they are insufficient to counterbalance the overall trend of deterioration. The trajectory indicates a worsening crisis in democratic accountability and civil rights protections, raising serious concerns about the future of governance in the current political climate.",
+    "narrative": "Week 44 extends the deteriorating trajectory documented through Week 43 rather than reversing it. The single most severe development was the president's public call for the arrest and execution of six Democratic lawmakers over protected speech reminding troops of their duty to refuse illegal orders. Though no formal action followed, the absence of consequence is itself the measure of how far acceptable executive rhetoric toward a co-equal branch has shifted. This sits alongside a now-familiar pattern of ethics failures: a pardon following a lucrative crypto deal, concurrent Trump family business dealings with foreign governments receiving major U.S. diplomatic and arms benefits, and an agency head removing his own investigators.\n\nGenuine institutional resistance persisted, and in one case produced a rare, veto-proof achievement: the Epstein Files Transparency Act passed the House 427-1 and the Senate by unanimous consent, forcing a presidential signature after months of resistance. But the administration's near-immediate response, opening investigations into political figures connected to Epstein, illustrates the recurring pattern in which formal compliance is paired with structural evasion of a law's purpose. Courts continued to provide friction, blocking a racial gerrymander in Texas and finding prosecutorial misconduct in the Comey case, though a court's own finding that the D.C. National Guard deployment was unlawful was undercut by a stay allowing the deployment to continue.\n\nTaken together, the week shows the same pattern identified previously: active, multi-front erosion running in close parallel with a still-functioning but increasingly strained set of institutional checks. The severity of the president's threat against lawmakers, however, represents an escalation beyond prior weeks' pattern of pressure and intimidation, moving from removal of allies and punitive rhetoric toward explicit calls for violence against elected officials.",
     "trend": "deteriorating",
     "stress_points": [
-      "centralization of executive power",
-      "disinformation as a governance tool",
-      "erosion of civil rights protections",
-      "politicization of the civil service"
+      "presidential threats of violence against sitting lawmakers over protected speech",
+      "pardons and business ventures entangled with personal financial benefit",
+      "use of new investigations to create pretexts for withholding legally mandated disclosures",
+      "removal of internal watchdogs investigating officials' own conduct",
+      "unauthorized state assumption of federal designation powers targeting a religious minority",
+      "withholding or delay of key economic data amid disputed official claims"
     ],
     "sources_of_resilience": [
-      "judicial pushback against executive orders",
-      "civil society mobilization against abuses",
-      "state-level legal challenges"
+      "veto-proof bipartisan passage of the Epstein Files Transparency Act",
+      "judicial findings of prosecutorial misconduct and grand jury irregularities",
+      "federal court blocking of a racially gerrymandered congressional map",
+      "local police department's refusal to assist federal enforcement operation",
+      "jury acquittal and dismissal of charges against protesters",
+      "congressional oversight investigation into alleged self-dealing"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
+    "level": "critical",
+    "justification": "Risk rises to critical this week primarily because of the president's public call for the arrest and execution of sitting members of Congress over protected speech, amplified by senior White House officials mischaracterizing the underlying statement as incitement to insurrection. This is a new category of breach beyond the ethics and stewardship failures documented in prior weeks: it directly threatens the physical safety and independence of a co-equal branch of government, and the absence of any formal consequence demonstrates that such rhetoric currently carries no institutional cost. Combined with continuing conflict-of-interest pardons, concurrent family business dealings with foreign governments receiving major U.S. diplomatic and military benefits, and the removal of an agency's own investigators, the week shows erosion across restraint, ethics, and stewardship occurring simultaneously and reinforcing one another.\n\nThe assessment is tempered, but not reduced to severe, by real institutional friction: a veto-proof transparency law was enacted, courts blocked an unconstitutional gerrymander and exposed prosecutorial misconduct, and local actors including a police department and a jury exercised independent judgment against pressure. These checks prevented the week's breaches from compounding entirely unopposed, but none of them addressed or constrained the core danger of the week: a president threatening violence against legislators with no formal consequence.",
     "forward_signals": [
-      "increased executive orders bypassing legislative input",
-      "escalation of disinformation campaigns",
-      "further attempts to undermine civil rights protections"
+      "whether any formal consequence follows the president's threats against Democratic lawmakers",
+      "whether the newly opened DOJ investigations are used to withhold documents required by the Transparency Act",
+      "outcomes of the Kennedy Center self-dealing investigation",
+      "whether the D.C. National Guard ruling is upheld or reversed on appeal",
+      "further personnel actions against officials investigating administration allies",
+      "continued financial entanglement between pardon recipients, family business deals, and official policy decisions"
     ]
   }
 }

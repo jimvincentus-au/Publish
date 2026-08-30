@@ -1,12 +1,12 @@
 {
   "week_number": 61,
-  "period_label": "Week 61 – 2026-03-14–2026-03-20",
+  "period_label": "Week 61",
   "window": {
     "start": "2026-03-14",
     "end": "2026-03-20"
   },
-  "clock_time_public": "8:13 p.m.",
-  "clock_delta_minutes": 0.0,
+  "clock_time_public": "7:43 p.m.",
+  "clock_delta_minutes": -0.1,
   "baseline_traits": [
     {
       "name": "character",
@@ -34,120 +34,124 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week saw a continuation and deepening of previously established patterns of democratic erosion, with significant breaches in character, ethics, restraint, truthfulness, and good faith. The consolidation of executive power and manipulation of democratic processes persisted, while stewardship remained largely unaddressed.",
+    "summary": "Week 61 continued the pattern of executive consolidation established in prior weeks, with war-making, emergency powers, and information control advancing along familiar lines rather than opening new fronts. The president overrode a state settlement via Defense Production Act authority, pivoted to new legal grounds after a Supreme Court tariff defeat, and claimed unilateral power to withdraw from NATO. Intelligence officials shaded testimony to match presidential preference, and a dissenting official was investigated for leaking immediately after resigning in protest. Courts, a bipartisan subpoena effort, and the Chief Justice's public rebuke of attacks on judges provided meaningful but partial resistance. The moral floor did not collapse further this week, but it did not meaningfully recover either.",
     "norms_broken": [
       {
-        "trait": "character",
-        "pattern": "Executive actions prioritized personal and political gain over public duty, exemplified by Trump's unilateral military actions and rhetoric.",
-        "severity": "serious",
-        "institutional_response": "Congressional leaders largely acquiesced to executive demands, failing to resist the erosion of legislative authority.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk61_character_ex1",
-            "week": 61,
-            "event_ids": [
-              "wk61_PA_002",
-              "wk61_PA_005"
-            ],
-            "developments": [
-              {
-                "development_id": "wk61_PA_002",
-                "development_label": "Trump ordered a large-scale bombardment of Iran without congressional authorization.",
-                "role": "primary"
-              }
-            ],
-            "summary": "Trump's unilateral military action against Iran exemplified a prioritization of personal political goals over legislative integrity.",
-            "why_exemplary": "This action illustrates a significant breach of character, undermining the principle of public duty in favor of personal political objectives.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "ethics",
-        "pattern": "The administration's actions blurred lines between public power and private interests, particularly in military and economic decisions.",
-        "severity": "serious",
-        "institutional_response": "Congress failed to effectively challenge the administration's use of emergency powers to bypass legislative oversight.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk61_ethics_ex1",
-            "week": 61,
-            "event_ids": [
-              "wk61_PA_006",
-              "wk61_PA_013"
-            ],
-            "developments": [
-              {
-                "development_id": "wk61_PA_006",
-                "development_label": "Trump publicly blamed Obama for the Iran conflict to justify his actions.",
-                "role": "primary"
-              }
-            ],
-            "summary": "Trump's framing of past policies to justify current military actions raised significant ethical concerns.",
-            "why_exemplary": "This event highlights a troubling intertwining of public authority and private interests, undermining ethical governance.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
         "trait": "restraint",
-        "pattern": "The administration exhibited a lack of self-limitation in military actions and legislative pressures, pushing boundaries of executive power.",
-        "severity": "serious",
-        "institutional_response": "Congressional attempts to reassert authority were largely ineffective, reflecting a failure to uphold checks and balances.",
+        "pattern": "The president overrode a court-approved settlement and state law via emergency wartime authority to restart an oil pipeline, claimed sole power to withdraw from NATO, dismissed military warnings about Strait of Hormuz closure before it occurred, and pursued economic coercion and annexation talk against Cuba.",
+        "severity": "extreme",
+        "institutional_response": "Congress voted down a war-powers resolution; no other formal constraint was applied to these unilateral assertions of authority.",
         "exemplars": [
           {
-            "exemplar_id": "wk61_restraint_ex1",
+            "exemplar_id": "wk61_restraint_ex01",
             "week": 61,
             "event_ids": [
-              "wk61_PA_010",
-              "wk61_PA_011"
+              "wk61_PA_001",
+              "wk61_PA_008"
             ],
             "developments": [
               {
-                "development_id": "wk61_PA_010",
-                "development_label": "Trump's anti-fraud task force centralized enforcement under White House leadership.",
+                "development_id": "wk61_PA_001",
+                "development_label": "Invoked Cold War emergency powers to override state law and a court settlement to restart an oil pipeline.",
                 "role": "primary"
+              },
+              {
+                "development_id": "wk61_PA_008",
+                "development_label": "Claimed sole authority to withdraw the US from NATO without congressional approval.",
+                "role": "secondary"
               }
             ],
-            "summary": "The centralization of enforcement powers demonstrated a significant lack of restraint in executive authority.",
-            "why_exemplary": "This action reflects a concerning trend of diminishing legislative checks on executive power, undermining democratic norms.",
+            "summary": "Emergency and treaty powers were asserted unilaterally, bypassing courts, states, and Congress on matters with lasting institutional consequence.",
+            "why_exemplary": "Both actions show the executive treating statutory and judicial limits as obstacles to route around rather than binding constraints, the defining feature of restraint failure.",
             "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "truthfulness",
-        "pattern": "The administration's public statements often contradicted internal findings and realities, particularly regarding military actions and their consequences.",
-        "severity": "serious",
-        "institutional_response": "Media scrutiny increased, but the administration continued to manipulate narratives without accountability.",
-        "exemplars": [
+          },
           {
-            "exemplar_id": "wk61_truthfulness_ex1",
+            "exemplar_id": "wk61_restraint_ex02",
             "week": 61,
             "event_ids": [
-              "wk61_IM_001",
-              "wk61_IM_002"
+              "wk61_PA_003",
+              "wk61_PA_009"
             ],
             "developments": [
               {
-                "development_id": "wk61_IM_001",
-                "development_label": "Trump and FCC Chair threatened broadcasters over critical coverage of the Iran war.",
+                "development_id": "wk61_PA_003",
+                "development_label": "Overruled military advice warning that striking Iran would prompt closure of the Strait of Hormuz.",
                 "role": "primary"
+              },
+              {
+                "development_id": "wk61_PA_009",
+                "development_label": "Cut off oil supplies to Cuba while musing publicly about annexing the island.",
+                "role": "secondary"
               }
             ],
-            "summary": "The threats to media outlets exemplified a breach of truthfulness in public discourse.",
-            "why_exemplary": "This reflects a broader pattern of disinformation that undermines public trust and accountability.",
-            "exemplar_type": "primary"
+            "summary": "Military counsel was overridden with the predicted consequence materializing, while economic coercion abroad was paired with talk of territorial annexation.",
+            "why_exemplary": "The realized consequence of ignored military advice, verified independently, demonstrates a concrete cost of unrestrained decision-making rather than a hypothetical risk.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "good_faith",
-        "pattern": "Legislative processes were manipulated to favor partisan objectives, undermining the spirit of democratic engagement.",
+        "pattern": "The DOJ withheld an unclassified Epstein-related memo despite a bipartisan subpoena, filed dozens of procedurally defective voter-roll lawsuits against states, and the administration pressured senators over the Save America Act while demanding elimination of the filibuster.",
         "severity": "serious",
-        "institutional_response": "Congressional leaders largely complied with executive demands, failing to uphold democratic principles.",
+        "institutional_response": "State election officials across party lines refused DOJ data demands; federal courts flagged the DOJ's procedural failures; Congress advanced the bill despite the pressure campaign.",
         "exemplars": [
           {
-            "exemplar_id": "wk61_good_faith_ex1",
+            "exemplar_id": "wk61_goodfaith_ex01",
+            "week": 61,
+            "event_ids": [
+              "wk61_IG_016",
+              "wk61_IG_015"
+            ],
+            "developments": [
+              {
+                "development_id": "wk61_IG_016",
+                "development_label": "DOJ invoked privilege to block release of an Epstein-related DEA memo despite bipartisan subpoena.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk61_IG_015",
+                "development_label": "Senator accused Deputy AG of blocking release of unclassified Epstein memo to Congress.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The Justice Department withheld unclassified investigative material from a bipartisan congressional subpoena, obstructing legislative oversight.",
+            "why_exemplary": "Refusal to comply with a bipartisan subpoena for unclassified material directly defeats the spirit of oversight law rather than merely testing its limits.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk61_goodfaith_ex02",
+            "week": 61,
+            "event_ids": [
+              "wk61_IG_017",
+              "wk61_IG_019"
+            ],
+            "developments": [
+              {
+                "development_id": "wk61_IG_017",
+                "development_label": "DOJ filed voter-roll lawsuits riddled with misspelled names, nonexistent statutes, and procedural errors.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk61_IG_019",
+                "development_label": "States across party lines refused DOJ demands for unredacted voter rolls.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A nationwide legal campaign for sensitive voter data was marked by basic procedural failures, met by broad bipartisan state resistance.",
+            "why_exemplary": "The scale and sloppiness of the litigation campaign suggest pretextual rather than genuine legal purpose, while cross-partisan state refusal shows the effort lacked broad legitimacy.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "The Director of National Intelligence omitted the intelligence community's no-imminent-threat assessment from sworn Senate testimony, and the president misrepresented a poll as showing near-universal war support when it reflected only his base.",
+        "severity": "serious",
+        "institutional_response": "A senior counterterrorism official publicly resigned in protest, contradicting the official narrative, but no formal correction of the sworn testimony occurred.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk61_truthfulness_ex01",
             "week": 61,
             "event_ids": [
               "wk61_IG_010",
@@ -156,43 +160,146 @@
             "developments": [
               {
                 "development_id": "wk61_IG_010",
-                "development_label": "Congress failed to hold substantive hearings on the Iran war's costs.",
+                "development_label": "DNI Gabbard omitted the intelligence community's no-imminent-threat conclusion from Senate testimony.",
                 "role": "primary"
+              },
+              {
+                "development_id": "wk61_IG_011",
+                "development_label": "NCTC Director Joe Kent resigned, stating Iran posed no imminent threat.",
+                "role": "secondary"
               }
             ],
-            "summary": "The lack of hearings on military actions exemplified a breach of good faith in legislative processes.",
-            "why_exemplary": "This reflects a manipulation of democratic norms to achieve partisan ends, undermining the integrity of the electoral process.",
+            "summary": "Sworn testimony omitted a key intelligence finding contradicting the war's stated justification, exposed by a senior official's public resignation.",
+            "why_exemplary": "The direct contrast between concealed testimony and a resigning official's public statement, both independently verified, demonstrates deliberate obscuring of the factual basis for war.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "A dissenting national-security official was investigated by the FBI for alleged leaks immediately after publicly resigning over the war, and the president publicly dismissed him as unfit, signaling that internal dissent would be met with retaliation rather than engagement.",
+        "severity": "concerning",
+        "institutional_response": "The timing and framing drew multi-source scrutiny as apparent retaliation, but no institutional check halted the investigation.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk61_stewardship_ex01",
+            "week": 61,
+            "event_ids": [
+              "wk61_IG_012",
+              "wk61_IG_013"
+            ],
+            "developments": [
+              {
+                "development_id": "wk61_IG_012",
+                "development_label": "FBI opened a leak investigation into Joe Kent immediately after his public resignation and criticism.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk61_IG_013",
+                "development_label": "Trump dismissed Kent as weak and said dissenters have no place in his administration.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A resigning official's public dissent was met with a swift federal investigation and public presidential condemnation.",
+            "why_exemplary": "The tight timing between protected dissent and investigative action, confirmed by multiple outlets, illustrates institutional capacity being turned against internal accountability rather than preserved for future oversight.",
             "exemplar_type": "primary"
           }
         ]
       }
     ],
-    "norms_strengthened": [],
-    "direction_of_movement": "collapsing"
+    "norms_strengthened": [
+      {
+        "trait": "stewardship",
+        "pattern": "Federal courts blocked an executive attempt to reshape a vaccine advisory committee, reinstated over 1,000 unlawfully terminated Voice of America employees, and a judge signaled willingness to halt an unauthorized construction project on historic federal property.",
+        "scope": "institutional",
+        "why_it_matters": "Judicial willingness to reverse unlawful agency restructuring preserves institutional continuity and expert governance against politically motivated dismantlement.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk61_stewardship_ex02",
+            "week": 61,
+            "event_ids": [
+              "wk61_IG_002",
+              "wk61_IG_006"
+            ],
+            "developments": [
+              {
+                "development_id": "wk61_IG_002",
+                "development_label": "Court invalidated RFK Jr.'s reconstituted vaccine advisory committee, restoring the prior schedule.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk61_IG_006",
+                "development_label": "Judge ordered reinstatement of over 1,000 unlawfully terminated Voice of America employees.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Courts reversed two separate executive attempts to dismantle or capture independent institutions, restoring prior expert-led structures.",
+            "why_exemplary": "Both rulings directly restored institutional capacity that had been unilaterally stripped, demonstrating durable judicial stewardship of agency independence.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Chief Justice Roberts publicly warned that personal attacks on judges are dangerous and must stop, and a bipartisan House Oversight Committee subpoenaed the Attorney General over Epstein files despite executive resistance.",
+        "scope": "cross-partisan",
+        "why_it_matters": "A public institutional defense of judicial independence and continued bipartisan oversight pressure demonstrate that some actors still treat procedural norms as binding rather than optional.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk61_goodfaith_ex03",
+            "week": 61,
+            "event_ids": [
+              "wk61_IG_005",
+              "wk61_IG_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk61_IG_005",
+                "development_label": "Chief Justice Roberts publicly warned that personal attacks on judges are dangerous and must stop.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk61_IG_004",
+                "development_label": "House Oversight Committee subpoenaed AG Bondi over DOJ's handling of Epstein files.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The head of the judiciary defended judicial independence publicly, while a bipartisan committee pressed for accountability despite executive evasion.",
+            "why_exemplary": "Both actions, independently verified, show institutional actors asserting procedural norms against direct political pressure, even without full success.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      }
+    ],
+    "direction_of_movement": "mixed_but_stable"
   },
   "cumulative_condition": {
-    "narrative": "The trajectory of ethical conditions continues to deteriorate, with Week 61 marking a further consolidation of previously established patterns of erosion. The previous week indicated a concerning trend, and this week has further entrenched the normalization of executive overreach, manipulation of democratic processes, and erosion of public trust. The cumulative effect is a democracy increasingly governed by unilateral decisions and diminished accountability.",
-    "trend": "deteriorating",
+    "narrative": "Week 61 extends the trajectory documented across recent weeks without a sharp new rupture. The moral floor remains under sustained pressure from unilateral executive assertions of war, tariff, and treaty power, but this week's violations largely retrace grooves cut in Week 60 rather than opening new categories of breach. The pivot to alternate legal authority after the Supreme Court's tariff ruling, the NATO withdrawal claim, and the Defense Production Act override of a state settlement all continue a pattern of routing around adjudicated limits rather than accepting them.\n\nWhat distinguishes this week is a slightly more visible institutional counterweight. The Chief Justice's public rebuke of attacks on judges, court rulings restoring the vaccine advisory committee and Voice of America staff, and broad bipartisan state resistance to DOJ voter-roll demands together represent a modest strengthening of institutional stewardship compared to the near-total executive dominance described in Week 60. At the same time, the investigation of a dissenting official immediately following his resignation, and the DNI's omission of a key intelligence finding from sworn testimony, show that retaliation against internal dissent and manipulation of the factual record supporting war remain active and largely unchecked.\n\nThe cumulative picture is one of a democracy holding at a seriously eroded plateau: neither accelerating toward collapse nor meaningfully recovering. Courts continue to function as the most reliable check, but their rulings address discrete abuses rather than the underlying pattern of unilateral executive power, and their independence is itself under rhetorical and structural pressure.",
+    "trend": "unstable",
     "stress_points": [
-      "consolidation of executive power",
-      "manipulation of voting rights",
-      "erosion of ethical oversight",
-      "disinformation and narrative control"
+      "unilateral executive routing around judicial and legislative constraints",
+      "retaliation against dissenting national-security officials",
+      "selective omission of intelligence findings from sworn testimony",
+      "obstruction of bipartisan congressional oversight on Epstein records",
+      "procedurally deficient DOJ litigation campaign against state voter rolls"
     ],
     "sources_of_resilience": [
-      "judicial pushback in some cases",
-      "public advocacy and dissent",
-      "media scrutiny of government actions"
+      "judicial reversal of unlawful agency restructuring",
+      "Chief Justice's public defense of judicial independence",
+      "cross-partisan state resistance to federal voter-data demands",
+      "bipartisan congressional subpoena pressure on DOJ",
+      "public resignation and dissent by a senior intelligence official"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "The ongoing patterns of erosion, particularly in character, ethics, restraint, truthfulness, and good faith, indicate a high risk of further deterioration. The lack of effective institutional resistance to executive overreach and the manipulation of democratic processes suggest that the foundations of self-government are increasingly at risk.",
+    "level": "severe",
+    "justification": "The moral floor remains severely stressed by continued unilateral executive assertions of war, tariff, and treaty power that treat judicial and legislative constraints as obstacles rather than limits, compounded by retaliation against a dissenting official and manipulation of sworn intelligence testimony. These patterns mirror and extend the severe risk identified in the prior week. The presence of meaningful judicial reversals, a notable public institutional defense of judicial independence, and broad bipartisan state resistance to federal overreach prevent an escalation to critical, but they address symptoms rather than the underlying concentration of unchecked executive discretion.",
     "forward_signals": [
-      "escalating military actions without congressional approval",
-      "continued push for restrictive voting laws",
-      "increased disinformation campaigns surrounding elections",
-      "further erosion of civil rights protections"
+      "further unilateral action justified by wartime emergency authority",
+      "additional retaliatory investigations against dissenting officials",
+      "continued DOJ resistance to bipartisan oversight subpoenas",
+      "escalating rhetoric or action against judicial independence",
+      "expansion of executive claims to bypass adverse court rulings"
     ]
   }
 }

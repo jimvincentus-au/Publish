@@ -1,11 +1,11 @@
 {
   "week_number": 68,
-  "period_label": "Week 68 – 2026-05-02–2026-05-08",
+  "period_label": "Week 68",
   "window": {
     "start": "2026-05-02",
     "end": "2026-05-08"
   },
-  "clock_time_public": "8:13 p.m.",
+  "clock_time_public": "7:42 p.m.",
   "clock_delta_minutes": 0.0,
   "baseline_traits": [
     {
@@ -18,7 +18,7 @@
     },
     {
       "name": "restraint",
-      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
     },
     {
       "name": "truthfulness",
@@ -34,292 +34,286 @@
     }
   ],
   "weekly_audit": {
-    "summary": "The week showed a broad ethical erosion spread across elections, law enforcement, immigration, war powers, and public information. The dominant pattern was not one spectacular break but many coordinated uses of official power that weakened self-limitation, blurred public purpose, destabilized settled rules, and thinned the factual basis for oversight. Courts, journalists, civic groups, and some judges still imposed meaningful friction, but most resistance was reactive and fragmented rather than strong enough to reset the moral floor.",
+    "summary": "Week 68 saw the Callais ruling operationalized at speed: Tennessee eliminated its only majority-Black district within days via emergency procedure, Alabama's governor urged defiance of a standing federal injunction, and Louisiana suspended an active primary mid-cycle, while DOJ officials signaled intent to weaponize the ruling nationally. War powers remained under executive control through relabeling and reversal (the Iran blockade termed 'not war,' Project Freedom announced then abruptly halted), sustained by a naval ultimatum and a retaliatory troop withdrawal from Germany. Ethics breaches recurred through the ballroom and monument projects funded or expanded beyond congressional appropriation, and press-freedom pressure intensified via a leak investigation targeting a journalist's sources and personal defamation suits by a sitting FBI director. Courts provided real friction — blocking sanctions against a UN expert, ruling tariffs illegal, sustaining an abortion-pill stay, and Virginia's high court nullifying a voter-approved map on procedural grounds — but the week's dominant motion was rapid conversion of new legal openings into durable institutional change.",
     "norms_broken": [
       {
-        "trait": "ethics",
-        "pattern": "Public resources and legal authority were used in ways that blurred official duty with leader-centered or personal protection, weakening the boundary between state power and private interest.",
-        "severity": "serious",
-        "institutional_response": "Some litigation and public-interest filings challenged these moves, but the digest shows no decisive institutional block on the underlying use of public power for leader-centered ends.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk68_ethics_ex01",
-            "week": 68,
-            "event_ids": [
-              "wk68_PA_011"
-            ],
-            "developments": [
-              {
-                "development_id": "wk68_PA_011",
-                "development_label": "Department of Justice sought Supreme Court intervention to take over Donald Trump's defense in the E. Jean Carroll case",
-                "role": "primary"
-              }
-            ],
-            "summary": "DOJ moved to use federal legal power to shield Trump from personal liability.",
-            "why_exemplary": "This is a direct ethics breach because it blurs the line between public office and private legal exposure, using state capacity to protect a personal interest.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk68_ethics_ex02",
-            "week": 68,
-            "event_ids": [
-              "wk68_IG_016",
-              "wk68_ES_009"
-            ],
-            "developments": [
-              {
-                "development_id": "wk68_IG_016",
-                "development_label": "Senate Republicans proposed $1 billion in taxpayer funding for White House security tied to Trump's ballroom project",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk68_ES_009",
-                "development_label": "Senate Republicans proposed an immigration package that included White House ballroom security funding",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Congressional funding tied public money to a leader-centered White House project.",
-            "why_exemplary": "This is exemplary because it treats a presidential prestige project as a public funding priority, weakening the ethical boundary between public purpose and personal monument.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
-        "trait": "restraint",
-        "pattern": "Executive and aligned actors repeatedly pressed coercive and constitutional powers to their outer edge, especially in war-making, immigration enforcement, and security classification, with little evidence of voluntary self-limitation.",
-        "severity": "serious",
-        "institutional_response": "Some judges enforced injunctions and some community groups blocked detention expansion, but Congress and executive agencies largely enabled continued power concentration.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk68_restraint_ex01",
-            "week": 68,
-            "event_ids": [
-              "wk68_PA_007",
-              "wk68_PA_009",
-              "wk68_PA_015"
-            ],
-            "developments": [
-              {
-                "development_id": "wk68_PA_007",
-                "development_label": "Secretary of State Marco Rubio shifted from Operation Epic Fury to Project Freedom without congressional approval",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk68_PA_009",
-                "development_label": "U.S. military struck Iranian targets in the Strait of Hormuz area",
-                "role": "secondary"
-              },
-              {
-                "development_id": "wk68_PA_015",
-                "development_label": "Administration claimed the war with Iran had terminated",
-                "role": "secondary"
-              }
-            ],
-            "summary": "War powers were exercised, renamed, and rhetorically closed without visible legislative control.",
-            "why_exemplary": "Restraint fails when force abroad is managed through unilateral executive choice rather than self-limited deference to Congress's checking role.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk68_restraint_ex02",
-            "week": 68,
-            "event_ids": [
-              "wk68_PA_003",
-              "wk68_IG_015"
-            ],
-            "developments": [
-              {
-                "development_id": "wk68_PA_003",
-                "development_label": "Defense Secretary Pete Hegseth dismissed or forced out 24 generals and senior commanders",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk68_IG_015",
-                "development_label": "Senate Republicans proposed $72 billion for ICE and Border Patrol through 2029",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Military and immigration power were concentrated while long-term coercive capacity expanded.",
-            "why_exemplary": "This shows a governing preference for enlarging and centralizing force rather than limiting it, reducing the practical checks that democratic restraint depends on.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
-        "trait": "truthfulness",
-        "pattern": "On war, public health, and economic conditions, official messaging was contradicted by intelligence, withheld evidence, or observable conditions, leaving citizens and overseers with a distorted factual record.",
-        "severity": "serious",
-        "institutional_response": "Independent reporting, leaked intelligence, and later disclosures challenged misleading narratives, but correction came after official claims had already shaped public understanding.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk68_truthfulness_ex01",
-            "week": 68,
-            "event_ids": [
-              "wk68_IMM_007",
-              "wk68_PA_015"
-            ],
-            "developments": [
-              {
-                "development_id": "wk68_IMM_007",
-                "development_label": "Confidential CIA report contradicted public claims by Trump and Pete Hegseth about Iran's weakness",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk68_PA_015",
-                "development_label": "Administration claimed that the war with Iran had terminated",
-                "role": "secondary"
-              }
-            ],
-            "summary": "War-related public claims diverged from intelligence and the continuing conflict sequence.",
-            "why_exemplary": "Truthfulness is breached when executive descriptions of war appear tailored to political or legal advantage rather than accurate public understanding.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk68_truthfulness_ex02",
-            "week": 68,
-            "event_ids": [
-              "wk68_IMM_004",
-              "wk68_ES_038",
-              "wk68_IMM_010"
-            ],
-            "developments": [
-              {
-                "development_id": "wk68_IMM_004",
-                "development_label": "FDA blocked publication of taxpayer-funded studies finding Covid-19 and shingles vaccines safe",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk68_ES_038",
-                "development_label": "Trump cabinet members insisted gas prices were favorable despite prices above $4.55 per gallon",
-                "role": "secondary"
-              },
-              {
-                "development_id": "wk68_IMM_010",
-                "development_label": "Defense officials reported Iran war costs to Congress far below internal and outside estimates",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Officials withheld or softened consequential facts on health, prices, and war costs.",
-            "why_exemplary": "These acts matter because democratic judgment depends on timely, accurate information about safety, household burdens, and public spending.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
-        "trait": "good_faith",
-        "pattern": "Election and legal procedures were used opportunistically to reopen settled rules, alter contests already underway, and press advantage after a favorable court ruling rather than preserve fair and stable democratic process.",
-        "severity": "serious",
-        "institutional_response": "Voting-rights groups, protesters, and some judges resisted, but the week's dominant pattern was procedural manipulation first and corrective challenge later.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk68_good_faith_ex01",
-            "week": 68,
-            "event_ids": [
-              "wk68_CRD_019",
-              "wk68_IG_010",
-              "wk68_IG_022"
-            ],
-            "developments": [
-              {
-                "development_id": "wk68_CRD_019",
-                "development_label": "Tennessee Republicans and Governor Bill Lee passed and signed a new map splitting Shelby County across three Republican districts",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk68_IG_010",
-                "development_label": "Tennessee legislature opened a special session to consider mid-decade congressional redistricting",
-                "role": "secondary"
-              },
-              {
-                "development_id": "wk68_IG_022",
-                "development_label": "NAACP Tennessee State Conference filed an emergency challenge to Tennessee's new map",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Tennessee rapidly reopened and changed congressional lines in a rushed special session.",
-            "why_exemplary": "This is a good-faith breach because formal procedure was used to defeat the stabilizing purpose of election rules and weaken minority representation.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk68_good_faith_ex02",
-            "week": 68,
-            "event_ids": [
-              "wk68_PA_002",
-              "wk68_CRD_024",
-              "wk68_CRD_025"
-            ],
-            "developments": [
-              {
-                "development_id": "wk68_PA_002",
-                "development_label": "Donald Trump urged states to redraw congressional maps even where voting had begun",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk68_CRD_024",
-                "development_label": "Governor Jeff Landry suspended Louisiana's congressional primary to allow redistricting",
-                "role": "secondary"
-              },
-              {
-                "development_id": "wk68_CRD_025",
-                "development_label": "Republican-led legislatures pursued coordinated redistricting after the Voting Rights Act ruling",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Officials pushed midstream map changes and even suspended an active primary for redistricting.",
-            "why_exemplary": "Good faith requires respecting settled electoral ground; changing rules during a live contest for advantage defeats that democratic purpose.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
         "trait": "stewardship",
-        "pattern": "Institutional capacity, credibility, and future trust were weakened through thinning of adjudicative systems, pressure on independent information channels, and legal changes that invite durable damage to representation and oversight.",
-        "severity": "serious",
-        "institutional_response": "Courts preserved some review and transparency, but the week's structural moves still pointed toward long-term weakening of institutions meant to correct abuse.",
+        "pattern": "The Callais ruling was converted within days into concrete elimination of minority representation: Tennessee repealed a 1972 anti-mid-decade-redistricting law and passed a new map erasing its only majority-Black district, Alabama's governor urged open defiance of a federal injunction, and Louisiana suspended an active congressional primary to enable redistricting.",
+        "severity": "extreme",
+        "institutional_response": "The NAACP and ACLU filed emergency suits, and some federal courts (Mississippi, Florida) reopened settled cases for review, but Republican-led legislatures moved faster than litigation could restrain, and SCOTUS itself expedited implementation rather than slowing it.",
         "exemplars": [
           {
             "exemplar_id": "wk68_stewardship_ex01",
             "week": 68,
             "event_ids": [
-              "wk68_PA_010",
-              "wk68_IG_017"
+              "wk68_PA_011",
+              "wk68_IG_032"
             ],
             "developments": [
               {
-                "development_id": "wk68_PA_010",
-                "development_label": "Department of Justice closed the San Francisco immigration court and shifted most operations to Concord",
+                "development_id": "wk68_PA_011",
+                "development_label": "Tennessee called special session, repealed redistricting law, eliminated only majority-Black district.",
                 "role": "primary"
               },
               {
-                "development_id": "wk68_IG_017",
-                "development_label": "Carla Espinoza sued DOJ over her termination as an immigration judge",
+                "development_id": "wk68_IG_032",
+                "development_label": "NAACP filed emergency lawsuit challenging Tennessee's new map.",
                 "role": "secondary"
               }
             ],
-            "summary": "Immigration adjudication capacity was reduced while staffing independence remained under challenge.",
-            "why_exemplary": "Stewardship fails when a high-volume court system loses capacity and perceived independence, making lawful review less credible over time.",
+            "summary": "Tennessee used emergency legislative procedure to repeal a decades-old redistricting protection and erase its only majority-Black congressional district within days.",
+            "why_exemplary": "A verified, rapid, coordinated executive-legislative action permanently altering minority representation exemplifies durable institutional harm converted from a single court ruling into state law almost immediately.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk68_stewardship_ex02",
             "week": 68,
             "event_ids": [
-              "wk68_IG_003",
-              "wk68_CRD_025"
+              "wk68_PA_012"
             ],
             "developments": [
               {
-                "development_id": "wk68_IG_003",
-                "development_label": "Supreme Court weakened Voting Rights Act protections against race-based districting",
+                "development_id": "wk68_PA_012",
+                "development_label": "Alabama governor called for redistricting despite standing federal injunction forbidding it before 2030.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A sitting governor publicly urged defiance of an existing federal court order barring redistricting, undermining judicial authority over electoral maps.",
+            "why_exemplary": "Open gubernatorial encouragement to disregard a federal injunction represents a direct challenge to judicial supremacy over election administration, a serious erosion of institutional durability.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "Executive war-making continued unchecked: the administration claimed the Iran conflict had 'terminated' to avoid War Powers compliance despite an ongoing naval blockade, issued a public 24-hour ultimatum threatening massive strikes, then announced and abruptly halted a major military operation (Project Freedom) within 36 hours after an ally blocked base access.",
+        "severity": "serious",
+        "institutional_response": "Republican Armed Services Committee chairs publicly voiced concern over the related Germany troop withdrawal, showing some cross-partisan pushback, but Congress took no binding action to reassert War Powers authority.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk68_restraint_ex01",
+            "week": 68,
+            "event_ids": [
+              "wk68_PA_003",
+              "wk68_PA_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk68_PA_003",
+                "development_label": "Administration claimed Iran war had 'terminated' while continuing naval blockade to avoid War Powers compliance.",
                 "role": "primary"
               },
               {
-                "development_id": "wk68_CRD_025",
-                "development_label": "Republican-led legislatures pursued coordinated redistricting after the ruling",
+                "development_id": "wk68_PA_009",
+                "development_label": "Announced and then abruptly halted Project Freedom military operation within 36 hours.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The administration asserted an active blockade did not constitute war while simultaneously launching and reversing a major unilateral military operation without ally coordination.",
+            "why_exemplary": "A verified, sustained pattern of redefining ongoing hostilities to evade congressional oversight, paired with erratic unilateral military decisions, demonstrates executive war-making operating with minimal self-limitation.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk68_restraint_ex02",
+            "week": 68,
+            "event_ids": [
+              "wk68_PA_007",
+              "wk68_PA_008"
+            ],
+            "developments": [
+              {
+                "development_id": "wk68_PA_007",
+                "development_label": "Issued 24-hour ultimatum threatening massive air strike on Iran.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk68_PA_008",
+                "development_label": "Withdrew 5,000 troops from Germany in apparent retaliation for chancellor's criticism.",
                 "role": "secondary"
               }
             ],
-            "summary": "A weakened voting-rights safeguard was quickly converted into broad remapping pressure.",
-            "why_exemplary": "This is a stewardship failure because it damages the long-term institutional protection of equal representation and invites repeated instability in election rules.",
+            "summary": "A public ultimatum threatening large-scale war escalation coincided with a punitive troop reallocation against an allied nation over political criticism.",
+            "why_exemplary": "Multi-source corroborated threats of unilateral military escalation, combined with grievance-driven force posture changes, show military authority exercised without institutional or allied constraint.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "Public funds and public land continued to be redirected toward the president's personal legacy projects: the National Garden of American Heroes expanded far beyond its $40 million congressional appropriation, and a public D.C. golf course was converted for a private championship course without congressional approval, while a $1 billion appropriations package was structured around ballroom-adjacent security spending.",
+        "severity": "serious",
+        "institutional_response": "Democracy Forward sued to block the golf course conversion, and public polling showed only 28% approval of the ballroom project, but no legislative or executive correction occurred within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk68_ethics_ex01",
+            "week": 68,
+            "event_ids": [
+              "wk68_PA_004",
+              "wk68_PA_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk68_PA_004",
+                "development_label": "National Garden of American Heroes monument expanded beyond $40 million congressional appropriation.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk68_PA_005",
+                "development_label": "Public D.C. golf course converted for private presidential course and sculpture park without congressional approval.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Two separate federally funded projects tied to the president's personal legacy grew or were created well beyond their authorized scope and public process.",
+            "why_exemplary": "Verified, tier-one-corroborated expansion of public spending on presidential vanity projects without legislative authorization illustrates a direct blending of public resources and personal interest.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk68_ethics_ex02",
+            "week": 68,
+            "event_ids": [
+              "wk68_ES_007"
+            ],
+            "developments": [
+              {
+                "development_id": "wk68_ES_007",
+                "development_label": "Senate Republicans proposed $1 billion appropriations tied to security upgrades for the ballroom project.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A federal appropriations package nominally for security was structured to subsidize construction costs for a private presidential project.",
+            "why_exemplary": "Multi-source corroborated use of security appropriations language to fund a personal construction project demonstrates a recurring pattern of self-enrichment through public budgeting.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "The DOJ continued prosecutions widely viewed as weak or retaliatory (Comey, SPLC), sought Supreme Court intervention to substitute itself as defendant to shield the president from a jury verdict, and was separately accused of making false statements to a federal court regarding the ballroom project.",
+        "severity": "serious",
+        "institutional_response": "A Republican senator publicly broke with the DOJ's prosecution theory against Comey, and a preservation group publicly disputed DOJ's court filings, showing some institutional and cross-partisan friction.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk68_goodfaith_ex01",
+            "week": 68,
+            "event_ids": [
+              "wk68_IG_030",
+              "wk68_IG_015"
+            ],
+            "developments": [
+              {
+                "development_id": "wk68_IG_030",
+                "development_label": "DOJ sought SCOTUS intervention to substitute itself for Trump as defendant in Carroll defamation case.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk68_IG_015",
+                "development_label": "Senator Tillis publicly stated posting '86 47' is not a crime, contradicting DOJ's Comey prosecution theory.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The Justice Department sought to convert a federal institution into a personal legal shield for the president while a Republican senator publicly rejected the legal basis of a related prosecution.",
+            "why_exemplary": "Verified use of DOJ substitution power to erase a jury verdict against the president, alongside cross-partisan repudiation of a parallel prosecution's theory, together show procedural manipulation of legal process for personal protection.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk68_goodfaith_ex02",
+            "week": 68,
+            "event_ids": [
+              "wk68_IG_042"
+            ],
+            "developments": [
+              {
+                "development_id": "wk68_IG_042",
+                "development_label": "National Trust for Historic Preservation accused DOJ of making false statements to court in ballroom litigation.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A preservation group alleged the government misrepresented facts to a federal court to justify continued construction on a contested presidential project.",
+            "why_exemplary": "An allegation of false statements to a court by government counsel, if substantiated, represents a direct breach of the duty of candor underlying good-faith legal process.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "The administration sustained a gap between public claims and verified facts across multiple domains: it characterized an active blockade as 'very friendly,' Cabinet members denied economic hardship despite record gas prices, and a landmark voting-rights opinion was reported to rest on misleading DOJ turnout data.",
+        "severity": "concerning",
+        "institutional_response": "Independent press reporting and consumer sentiment data (record-low University of Michigan reading) documented the gap, but no correction was issued by the administration.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk68_truthfulness_ex01",
+            "week": 68,
+            "event_ids": [
+              "wk68_IG_039"
+            ],
+            "developments": [
+              {
+                "development_id": "wk68_IG_039",
+                "development_label": "Majority opinion gutting Voting Rights Act relied on misleading DOJ voter turnout data.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A landmark ruling dismantling voting rights protections was found to rest on a manipulated statistical methodology.",
+            "why_exemplary": "If accurate, a factual basis for a major judicial decision built on distorted data undermines the truthfulness obligation at the highest level of legal authority, with nationwide downstream consequences already visible this week.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk68_truthfulness_ex02",
+            "week": 68,
+            "event_ids": [
+              "wk68_IM_018"
+            ],
+            "developments": [
+              {
+                "development_id": "wk68_IM_018",
+                "development_label": "Cabinet members claimed gas prices were acceptable despite prices exceeding $4.55 per gallon.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Cabinet-level denial of visible economic hardship contradicted lived consumer experience amid record-high fuel prices.",
+            "why_exemplary": "Public denial of documented economic conditions, contradicted by record-low consumer sentiment data the same week, illustrates a persistent gap between official messaging and public reality.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "Presidential conduct combined attacks on institutional actors (calling for Jeffries' impeachment without legal basis, attacking Pope Leo XIV for criticizing policy) with a sustained stream of AI-generated self-aggrandizing imagery, blending personal grievance and self-promotion with the discipline expected of the office.",
+        "severity": "concerning",
+        "institutional_response": "No formal institutional correction occurred; media coverage and public commentary provided the primary check.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk68_character_ex01",
+            "week": 68,
+            "event_ids": [
+              "wk68_PA_014"
+            ],
+            "developments": [
+              {
+                "development_id": "wk68_PA_014",
+                "development_label": "Posted repeatedly attacking Hakeem Jeffries, calling for impeachment despite no legal basis.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Presidential attacks called for the improper impeachment of a congressional leader, invoking personal grievance rather than legal process.",
+            "why_exemplary": "Repeated, baseless calls for impeachment of an opposing branch's leader reflect a failure of internal discipline to separate personal grievance from the duties of office.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk68_character_ex02",
+            "week": 68,
+            "event_ids": [
+              "wk68_IM_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk68_IM_002",
+                "development_label": "Posted rapid series of AI-generated self-aggrandizing images during an active war and economic strain.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A concentrated burst of fabricated, self-promotional imagery was posted during a week of war, record gas prices, and legal upheaval.",
+            "why_exemplary": "The timing and volume of self-glorifying synthetic media during active crises illustrates a persistent prioritization of personal image over the disciplined conduct expected of the office.",
             "exemplar_type": "secondary"
           }
         ]
@@ -327,157 +321,97 @@
     ],
     "norms_strengthened": [
       {
-        "trait": "restraint",
-        "pattern": "Some courts continued to impose legal limits on executive reach into election administration, immigration enforcement, and retaliatory investigation.",
-        "scope": "institutional",
-        "why_it_matters": "Democratic restraint survives when institutions other than the executive still enforce boundaries that officeholders decline to observe voluntarily.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk68_restraint_ex03",
-            "week": 68,
-            "event_ids": [
-              "wk68_IG_004"
-            ],
-            "developments": [
-              {
-                "development_id": "wk68_IG_004",
-                "development_label": "Federal judge dismissed the Justice Department's lawsuit seeking Arizona voter-roll data",
-                "role": "primary"
-              }
-            ],
-            "summary": "A judge blocked federal reach into sensitive state election records.",
-            "why_exemplary": "This reinforced restraint by limiting executive intrusion into state election systems and preserving a boundary against centralized control.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk68_restraint_ex04",
-            "week": 68,
-            "event_ids": [
-              "wk68_IG_028",
-              "wk68_IG_029"
-            ],
-            "developments": [
-              {
-                "development_id": "wk68_IG_028",
-                "development_label": "Judge Boasberg partly enjoined FTC investigative demands as likely retaliatory",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk68_IG_029",
-                "development_label": "Judge Howell enforced a preliminary injunction against ICE's narrowed standard for warrantless civil arrests in Washington",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Judges checked retaliatory investigation and reaffirmed limits on warrantless immigration arrests.",
-            "why_exemplary": "These rulings matter because they show institutions still willing to curb coercive power when executive actors overreach.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
         "trait": "good_faith",
-        "pattern": "Civic groups, litigants, and journalists used lawful channels to contest rushed power moves and demand accountability rather than abandoning formal process.",
-        "scope": "public",
-        "why_it_matters": "Good-faith democratic practice is preserved when opposition to abuse remains procedural, transparent, and institution-facing.",
+        "pattern": "Federal courts issued multiple preliminary injunctions and summary judgments against administration actions (grant terminations, FTC retaliation, ICE detention standards, UN expert sanctions), and a Republican senator publicly broke with the DOJ's prosecution theory in the Comey case.",
+        "scope": "institutional",
+        "why_it_matters": "Continued willingness of courts to find likely constitutional and statutory violations against the executive, and of at least one senator to publicly contest a prosecution's legal basis, shows that procedural checks on executive overreach retain real force.",
         "exemplars": [
           {
-            "exemplar_id": "wk68_good_faith_ex03",
+            "exemplar_id": "wk68_goodfaith_strength_ex01",
             "week": 68,
             "event_ids": [
-              "wk68_IG_022",
-              "wk68_CRD_013"
+              "wk68_IG_027",
+              "wk68_IG_040"
             ],
             "developments": [
               {
-                "development_id": "wk68_IG_022",
-                "development_label": "NAACP Tennessee State Conference filed an emergency challenge to Tennessee's new congressional map",
+                "development_id": "wk68_IG_027",
+                "development_label": "Federal courts issued injunctions against grant terminations, FTC retaliation, and ICE detention standards.",
                 "role": "primary"
               },
               {
-                "development_id": "wk68_CRD_013",
-                "development_label": "Hundreds of protesters gathered at the Tennessee Capitol against the redistricting session",
+                "development_id": "wk68_IG_040",
+                "development_label": "Federal judge blocked administration sanctions against UN expert Francesca Albanese.",
                 "role": "secondary"
               }
             ],
-            "summary": "Opponents of Tennessee's rushed map change answered through protest and court challenge.",
-            "why_exemplary": "This reinforces good faith because it defends representation through lawful mobilization and judicial review rather than reciprocal procedural abuse.",
+            "summary": "Multiple federal courts found the administration likely violated First Amendment and statutory protections across several unrelated cases in a single week.",
+            "why_exemplary": "A verified cluster of judicial rulings against executive overreach across distinct policy areas demonstrates that independent judicial review continues to function as a meaningful check.",
             "exemplar_type": "primary"
           },
           {
-            "exemplar_id": "wk68_good_faith_ex04",
+            "exemplar_id": "wk68_goodfaith_strength_ex02",
             "week": 68,
             "event_ids": [
-              "wk68_IG_036",
-              "wk68_IG_032"
+              "wk68_IG_036"
             ],
             "developments": [
               {
                 "development_id": "wk68_IG_036",
-                "development_label": "The Guardian and the Reporters Committee won release of immigration arrest records",
+                "development_label": "Court of International Trade ruled Trump's global tariffs illegal.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk68_IG_032",
-                "development_label": "National Trust for Historic Preservation disputed DOJ claims in the White House ballroom case",
-                "role": "secondary"
               }
             ],
-            "summary": "Journalists and civic litigants used courts to force disclosure and contest executive claims.",
-            "why_exemplary": "These actions matter because they keep accountability disputes inside lawful institutions and preserve the possibility of correction.",
+            "summary": "A federal court found the president's tariff regime exceeded statutory authority, constraining executive power over trade policy.",
+            "why_exemplary": "A verified judicial finding that the executive acted outside its statutory authority on a major economic policy demonstrates continued institutional capacity to enforce legal limits on presidential power.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "stewardship",
-        "pattern": "Judicial and administrative processes still preserved records, review, and transparency in ways that help institutions remain correctable.",
-        "scope": "institutional",
-        "why_it_matters": "Stewardship depends on maintaining records, disclosure, and review so future correction remains possible even during periods of ethical strain.",
+        "pattern": "Civil society and state legal officers moved rapidly to challenge the redistricting wave, and a state high court corrected trial misconduct in an unrelated major case, showing that institutional correction mechanisms remained active even amid a week of accelerating harm.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Rapid civil-society and judicial responses to the redistricting wave and to documented courtroom interference demonstrate that mechanisms for correcting institutional failure have not been fully disabled, even where they could not fully reverse the week's dominant trend.",
         "exemplars": [
           {
-            "exemplar_id": "wk68_stewardship_ex03",
+            "exemplar_id": "wk68_stewardship_strength_ex01",
             "week": 68,
             "event_ids": [
-              "wk68_IG_006",
-              "wk68_IG_039"
+              "wk68_IG_032",
+              "wk68_IG_033"
             ],
             "developments": [
               {
-                "development_id": "wk68_IG_006",
-                "development_label": "Judge Reyes ordered Interior defendants to compile and produce communications about Hains Point and golf-course plans",
+                "development_id": "wk68_IG_032",
+                "development_label": "NAACP Tennessee filed emergency lawsuit challenging new congressional map.",
                 "role": "primary"
               },
               {
-                "development_id": "wk68_IG_039",
-                "development_label": "Judge Rubin denied the government's motion to dismiss NAACP v. U.S.A.",
+                "development_id": "wk68_IG_033",
+                "development_label": "Alabama Attorney General filed emergency petition regarding prior gerrymandered map.",
                 "role": "secondary"
               }
             ],
-            "summary": "Courts preserved records and kept review alive in disputes over executive action.",
-            "why_exemplary": "This strengthens stewardship because institutional memory and judicial access are prerequisites for later accountability.",
+            "summary": "Civil rights organizations moved within days to challenge new maps eliminating Black representation in multiple states.",
+            "why_exemplary": "Swift, corroborated legal challenges to redistricting harms show that civil society retains capacity to contest institutional damage even when it cannot yet reverse it.",
             "exemplar_type": "primary"
           },
           {
-            "exemplar_id": "wk68_stewardship_ex04",
+            "exemplar_id": "wk68_stewardship_strength_ex02",
             "week": 68,
             "event_ids": [
-              "wk68_ES_021",
-              "wk68_IG_023"
+              "wk68_IG_041"
             ],
             "developments": [
               {
-                "development_id": "wk68_ES_021",
-                "development_label": "Census Bureau sought OMB approval for a 2030 Census address test focused on accessory dwelling units",
+                "development_id": "wk68_IG_041",
+                "development_label": "South Carolina Supreme Court overturned Alex Murdaugh's murder convictions due to jury interference.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk68_IG_023",
-                "development_label": "Federal judge unsealed an alleged Jeffrey Epstein suicide note",
-                "role": "secondary"
               }
             ],
-            "summary": "Routine census preparation and court unsealing preserved future capacity and public access.",
-            "why_exemplary": "These acts matter because they maintain institutional competence and transparency rather than allowing systems to hollow out entirely.",
+            "summary": "A state high court corrected trial misconduct by ordering a new trial after discovering jury tampering.",
+            "why_exemplary": "A verified judicial willingness to overturn a high-profile conviction upon discovering institutional interference reinforces the principle that fair-trial safeguards apply regardless of a case's prominence.",
             "exemplar_type": "secondary"
           }
         ]
@@ -486,35 +420,34 @@
     "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "This week fits and sharpens the prior trajectory. The previous summary described a moral floor weakened by convergence across domains, with ethics, restraint, truthfulness, good faith, and stewardship all under strain while correction came mostly from outside the executive. Week 68 confirms that pattern and makes it more operational. The key change was not a new category of abuse but the speed with which existing openings were used: a weakened voting-rights barrier was immediately converted into redistricting drives, election timing disruptions, and renewed federal pressure on ballot administration; war powers remained effectively executive-managed through naming, secrecy, and unilateral control; and immigration enforcement expanded while adjudicative capacity and humane limits were thinned.",
+    "narrative": "Week 68 confirms and accelerates the trajectory identified in Week 67: the Callais ruling functioned exactly as an accelerant, and this week showed the acceleration reaching its logical endpoint in at least one state. Tennessee did not merely explore the new legal opening — it repealed a fifty-year-old statutory protection and eliminated its only majority-Black district within a single special session, while Alabama's governor urged outright defiance of a standing federal injunction. This is a qualitatively further step than the multi-state exploitation described last week: from opportunistic exploitation of a doctrinal shift toward open disregard for existing judicial constraints.\n\nThe war-powers pattern flagged previously also deepened rather than resolved. Rather than a single redefinition of hostilities, the week showed an unstable oscillation of ultimatum, announced escalation (Project Freedom), and abrupt reversal within 36 hours — a pattern less like exercise of judgment and more like impulsive unilateral control absent institutional friction, though Republican committee chairs' public concern over the related Germany withdrawal is a modest, cross-partisan signal that legislative oversight instincts have not fully atrophied.\n\nEthics and good-faith violations persisted in familiar form — presidential vanity projects funded or expanded beyond appropriation, DOJ substitution maneuvers to shield the president personally from judicial accountability, and continuing weak or retaliatory prosecutions — while press-freedom pressure intensified through a criminal leak investigation targeting a journalist's confidential sources, alongside personal defamation suits by senior officials against reporters. Resilience remained real: courts issued a meaningful cluster of injunctions against executive overreach, struck down the tariff regime, blocked sanctions against a UN critic, and Virginia's high court exercise (however contested on partisan grounds) showed judicial willingness to intervene in redistricting disputes. But as in Week 67, these frictions slowed rather than reversed the broader direction, and in the case of the voting-rights wave, judicial and civil-society resistance visibly failed to keep pace with the speed of state action.",
     "trend": "deteriorating",
     "stress_points": [
-      "midstream redistricting and election-rule manipulation after voting-rights rollback",
-      "use of public power for leader-centered legal and budgetary protection",
-      "executive war-making with weak congressional control",
-      "pressure on journalists, broadcasters, sources, and advocacy groups",
-      "harsher immigration enforcement paired with reduced adjudicative capacity",
-      "withholding or distortion of public information on war, health, and environmental harm"
+      "open gubernatorial defiance of a standing federal injunction",
+      "rapid, near-total elimination of minority representation via redistricting",
+      "unstable, unchecked unilateral war-making including ultimatum and reversal within days",
+      "continued presidential vanity-project funding beyond congressional appropriation",
+      "criminal leak investigations and personal lawsuits targeting journalists",
+      "DOJ use of institutional substitution to shield the president from personal liability"
     ],
     "sources_of_resilience": [
-      "judicial review limiting election-system intrusion and retaliatory investigation",
-      "civil-rights and public-interest litigation challenging rushed map changes and executive action",
-      "journalists and press-freedom groups forcing disclosure through courts",
-      "public protest against redistricting and detention expansion",
-      "routine administrative processes that preserve records, comment, and future capacity",
-      "independent reporting and leaked or disclosed evidence contradicting official narratives"
+      "rapid civil-society litigation against redistricting harms",
+      "judicial injunctions against executive overreach across multiple policy areas",
+      "cross-partisan congressional concern over unilateral military decisions",
+      "a Republican senator's public repudiation of a prosecution's legal theory",
+      "state judicial correction of documented trial misconduct",
+      "continued independent press reporting despite intensifying pressure"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "High risk is warranted because the week's breaches touched core democratic safeguards at once: fair representation, truthful public information, lawful limits on coercive power, and the institutional capacity to review state action. The digest shows serious failures of ethics in using public authority to shield personal interests and fund leader-centered projects; failures of restraint in war powers, military purges, and long-term enforcement buildout; failures of truthfulness in war claims, war-cost reporting, health-information suppression, and economic messaging; failures of good faith in reopening election rules midstream for advantage; and failures of stewardship in weakening immigration adjudication and voting-rights protections. These are not isolated incidents. They form a pattern in which power is increasingly exercised through many channels at once.",
+    "level": "severe",
+    "justification": "The moral floor remains severely stressed and shows signs of further deterioration rather than stabilization. This week's central development — a state legislature repealing statutory redistricting protections and eliminating its only majority-Black district within days, alongside a governor's open call to defy a standing federal injunction — represents an escalation beyond last week's already-severe pattern of doctrinal exploitation, moving from rapid exploitation of a legal opening toward direct disregard for existing judicial constraints. This compounds sustained unilateral and unstable war-making, continued personal enrichment through public projects, and intensifying pressure on journalists through criminal leak investigations and personal lawsuits. Countervailing judicial and civil-society resistance remains genuine and produced real results (tariff ruling, UN-expert sanctions block, multiple injunctions), but as in the prior week, this resistance is reactive and has not been sufficient to keep pace with or reverse the dominant trajectory.",
     "forward_signals": [
-      "additional state redistricting moves or election suspensions after the Voting Rights Act ruling",
-      "further executive attempts to centralize control over voting administration or voter data",
-      "continued use of leak probes, licensing pressure, or lawsuits against journalists and media outlets",
-      "new war-related claims that conflict with intelligence, costs, or observable evidence",
-      "expansion of immigration enforcement capacity without matching due-process safeguards",
-      "whether courts can convert reactive friction into durable limits on retaliation and procedural manipulation"
+      "whether other Republican-led states follow Tennessee's model of repealing redistricting protections outright",
+      "whether Alabama or other states act on open calls to defy standing federal injunctions",
+      "outcome of the criminal leak investigation targeting journalist sources and any chilling effect on reporting",
+      "whether Congress takes any binding action in response to the erratic Project Freedom episode",
+      "whether the DOJ's substitution motion in the Carroll case succeeds in shielding the president from the jury verdict"
     ]
   }
 }

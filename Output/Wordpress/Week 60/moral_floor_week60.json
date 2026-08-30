@@ -1,12 +1,12 @@
 {
   "week_number": 60,
-  "period_label": "Week 60 – 2026-03-07–2026-03-13",
+  "period_label": "Week 60",
   "window": {
     "start": "2026-03-07",
     "end": "2026-03-13"
   },
-  "clock_time_public": "8:13 p.m.",
-  "clock_delta_minutes": 0.0,
+  "clock_time_public": "7:43 p.m.",
+  "clock_delta_minutes": -0.4,
   "baseline_traits": [
     {
       "name": "character",
@@ -18,7 +18,7 @@
     },
     {
       "name": "restraint",
-      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
     },
     {
       "name": "truthfulness",
@@ -34,165 +34,322 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week saw a deepening of existing patterns of democratic erosion, with significant breaches in character, ethics, restraint, truthfulness, and good faith, while stewardship remained largely unaddressed. The consolidation of power in the executive branch continued unabated, with legislative checks weakened and public trust eroded.",
+    "summary": "Week 60 shows an unauthorized war expanding in scope and rhetoric while the executive branch simultaneously coerced Congress on voting legislation, suppressed unfavorable information, and shielded itself from accountability for civilian deaths. Courts and a handful of legislators pushed back on discrete abuses, but the dominant pattern was executive actors treating war powers, electoral rules, and public communication as instruments of personal and partisan control, with only partial and reactive institutional resistance.",
     "norms_broken": [
       {
-        "trait": "character",
-        "pattern": "Executive actions prioritized personal and political gain over public duty, exemplified by Trump's threats to veto legislation unless the SAVE America Act passed.",
-        "severity": "serious",
-        "institutional_response": "Congressional leaders largely acquiesced to executive demands, failing to resist the erosion of legislative authority.",
+        "trait": "restraint",
+        "pattern": "The president launched strikes on Iran without congressional authorization, escalated rhetoric toward disproportionate retaliation and discussed assassinating a foreign head of state, and used emergency and unilateral authorities to bypass Congress on arms sales, sanctions policy, and economic emergency powers.",
+        "severity": "extreme",
+        "institutional_response": "Congress attempted symbolic pushback through War Powers resolutions and classified-briefing demands, but these mechanisms did not constrain actual military decision-making; the administration proceeded regardless.",
         "exemplars": [
           {
-            "exemplar_id": "wk60_character_ex1",
+            "exemplar_id": "wk60_restraint_ex01",
             "week": 60,
             "event_ids": [
-              "wk60_PA_008",
-              "wk60_PA_009"
+              "wk60_PA_001",
+              "wk60_PA_005"
             ],
             "developments": [
               {
-                "development_id": "wk60_PA_008",
-                "development_label": "Trump threatened to veto all legislation unless Congress passed restrictive voting rules.",
+                "development_id": "wk60_PA_001",
+                "development_label": "Launched air and naval strikes on Iran without congressional authorization.",
                 "role": "primary"
+              },
+              {
+                "development_id": "wk60_PA_005",
+                "development_label": "Reportedly told aides he would support assassinating Iran's Supreme Leader.",
+                "role": "secondary"
               }
             ],
-            "summary": "Trump's ultimatum to Congress exemplified a prioritization of personal political goals over legislative integrity.",
-            "why_exemplary": "This action illustrates a significant breach of character, as it undermines the principle of public duty in favor of personal political objectives.",
+            "summary": "Unauthorized war-making escalated to include discussion of extrajudicial killing of a foreign leader, bypassing legal and constitutional limits on executive force.",
+            "why_exemplary": "These verified developments show the executive treating war powers as effectively unbounded, with no legislative check operative in practice.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk60_restraint_ex02",
+            "week": 60,
+            "event_ids": [
+              "wk60_PA_010",
+              "wk60_PA_013"
+            ],
+            "developments": [
+              {
+                "development_id": "wk60_PA_010",
+                "development_label": "Used emergency authority to bypass Congress on a $650 million bomb sale to Israel.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk60_PA_013",
+                "development_label": "Eased sanctions on Russian oil during the Iran war.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Emergency waivers and sanctions relief were used to sidestep normal legislative and diplomatic review during active conflict.",
+            "why_exemplary": "Both actions show the executive substituting unilateral discretion for statutory process on matters with major foreign-policy consequence.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "The administration made repeated false or shifting claims about the war's status, denied responsibility for a strike that killed children at a school despite an internal finding of US fault, and suppressed an intelligence bulletin on Iran-related threats to the homeland.",
+        "severity": "serious",
+        "institutional_response": "Press secretaries and cabinet officials defended falsehoods rather than correcting them; independent reporting and internal investigations surfaced contradictions, but no formal accountability mechanism was triggered.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk60_truthfulness_ex01",
+            "week": 60,
+            "event_ids": [
+              "wk60_IM_004",
+              "wk60_IM_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk60_IM_004",
+                "development_label": "Falsely denied US responsibility for a strike that killed civilians at a girls' school.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk60_IM_005",
+                "development_label": "Falsely claimed Iran possessed Tomahawk missiles to deflect blame for the strike.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The president denied and deflected blame for a lethal strike that internal military investigation attributed to US targeting error.",
+            "why_exemplary": "This pairing shows deliberate disinformation deployed specifically to avoid accountability for civilian deaths, a serious breach of the obligation to speak accurately on matters of grave public consequence.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk60_truthfulness_ex02",
+            "week": 60,
+            "event_ids": [
+              "wk60_IM_002",
+              "wk60_PA_006"
+            ],
+            "developments": [
+              {
+                "development_id": "wk60_IM_002",
+                "development_label": "Blocked an intelligence bulletin warning of Iran-related threats to the homeland.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk60_PA_006",
+                "development_label": "Publicly contradicted the Pentagon on the war's status and objectives.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Public safety information was suppressed while official statements about the war's progress diverged from Pentagon assessments.",
+            "why_exemplary": "Both developments show information being managed for political narrative rather than public safety or accuracy, a core truthfulness failure.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "The president threatened to block all other legislation unless Congress passed a restrictive voting bill and pushed the Senate to gut the filibuster specifically to achieve that partisan outcome, while House Republicans passed the bill over documented disenfranchisement concerns.",
+        "severity": "serious",
+        "institutional_response": "Senate Majority Leader Thune refused to eliminate the filibuster despite pressure, preserving a key procedural check, but the House passed the underlying bill regardless.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk60_good_faith_ex01",
+            "week": 60,
+            "event_ids": [
+              "wk60_PA_011",
+              "wk60_PA_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk60_PA_011",
+                "development_label": "Threatened a legislative blockade unless Congress passed the Save America Act.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk60_PA_012",
+                "development_label": "Demanded the Senate weaken filibuster rules to force the voting-restriction bill through.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Presidential leverage was used to coerce legislative process itself toward a specific partisan outcome on voting access.",
+            "why_exemplary": "This is a direct attempt to override normal deliberative procedure for a substantive policy goal, defeating the spirit of legislative independence.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "DHS gutted internal civil-rights and detention oversight offices even as complaints and in-custody deaths rose, and ICE conducted ethnically targeted operations against Somali American communities following termination of their protected status.",
+        "severity": "serious",
+        "institutional_response": "No corrective institutional response was recorded within the week; oversight capacity was reduced rather than restored.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk60_stewardship_ex01",
+            "week": 60,
+            "event_ids": [
+              "wk60_CR_002",
+              "wk60_CR_003"
+            ],
+            "developments": [
+              {
+                "development_id": "wk60_CR_002",
+                "development_label": "Ended Temporary Protected Status for approximately 2,500 Somali nationals.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk60_CR_003",
+                "development_label": "Launched Operation Buckeye targeting the Somali American community in Ohio.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Protection was withdrawn from a vulnerable population and followed by targeted enforcement operations against the same community.",
+            "why_exemplary": "This sequence illustrates the state actively degrading protections for an identifiable group rather than maintaining institutional capacity to serve the public impartially.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
         "trait": "ethics",
-        "pattern": "The administration's actions blurred lines between public power and private interests, particularly in arms sales and funding decisions.",
-        "severity": "serious",
-        "institutional_response": "Congress failed to effectively challenge the administration's use of emergency powers to bypass legislative oversight.",
+        "pattern": "War-adjacent decisions intersected with private financial interests and beneficiaries, including eased sanctions benefiting Russian oil sales and advisers with financial ties shaping war-related decisions.",
+        "severity": "concerning",
+        "institutional_response": "No agency or oversight body was recorded intervening on these conflicts during the week.",
         "exemplars": [
           {
-            "exemplar_id": "wk60_ethics_ex1",
+            "exemplar_id": "wk60_ethics_ex01",
             "week": 60,
             "event_ids": [
-              "wk60_PA_004",
-              "wk60_PA_003"
+              "wk60_PA_007"
             ],
             "developments": [
               {
-                "development_id": "wk60_PA_004",
-                "development_label": "Trump bypassed Congress to expedite a large bomb sale to Israel.",
+                "development_id": "wk60_PA_007",
+                "development_label": "Disclosed that conflicted advisers shaped a war decision whose stated rationale intelligence agencies did not support.",
                 "role": "primary"
               }
             ],
-            "summary": "The expedited arms sale to Israel without congressional oversight raised significant ethical concerns.",
-            "why_exemplary": "This event highlights a troubling intertwining of public authority and private interests, undermining ethical governance.",
+            "summary": "A war decision with severe consequences was reportedly shaped by advisers with personal financial entanglements rather than a vetted intelligence rationale.",
+            "why_exemplary": "This directly illustrates the blurring of private interest and public war-making authority central to the ethics trait.",
             "exemplar_type": "primary"
           }
         ]
-      },
+      }
+    ],
+    "norms_strengthened": [
       {
         "trait": "restraint",
-        "pattern": "The administration exhibited a lack of self-limitation in military actions and legislative pressures, pushing boundaries of executive power.",
-        "severity": "serious",
-        "institutional_response": "Congressional attempts to reassert authority were largely ineffective, reflecting a failure to uphold checks and balances.",
+        "pattern": "Senate Majority Leader Thune declined to eliminate the filibuster despite direct presidential pressure to force through voting-restriction legislation.",
+        "scope": "institutional",
+        "why_it_matters": "Preserving a minority-protection procedural rule under direct executive coercion demonstrates that some structural checks can still hold even amid intense partisan pressure.",
         "exemplars": [
           {
-            "exemplar_id": "wk60_restraint_ex1",
+            "exemplar_id": "wk60_restraint_ex03",
             "week": 60,
             "event_ids": [
-              "wk60_PA_001",
-              "wk60_PA_002"
+              "wk60_IG_009"
             ],
             "developments": [
               {
-                "development_id": "wk60_PA_001",
-                "development_label": "Senate Republicans blocked a war powers resolution on Iran.",
+                "development_id": "wk60_IG_009",
+                "development_label": "Refused to eliminate the Senate filibuster to pass Trump's voting-restriction bill.",
                 "role": "primary"
               }
             ],
-            "summary": "The blocking of the war powers resolution demonstrated a significant lack of restraint in executive military authority.",
-            "why_exemplary": "This action reflects a concerning trend of diminishing legislative checks on executive power, undermining democratic norms.",
+            "summary": "The Senate Majority Leader resisted presidential demands to gut the filibuster for a partisan voting bill.",
+            "why_exemplary": "This is a clear, verified instance of institutional self-limitation against executive coercion, exactly the kind of restraint democratic governance depends upon.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
-        "trait": "truthfulness",
-        "pattern": "The administration's public statements often contradicted internal findings and realities, particularly regarding military actions and their consequences.",
-        "severity": "serious",
-        "institutional_response": "Media scrutiny increased, but the administration continued to manipulate narratives without accountability.",
+        "trait": "stewardship",
+        "pattern": "Federal courts voided unlawful appointments at Voice of America and in a US Attorney's office, and quashed a subpoena targeting the Federal Reserve Chair, protecting institutional independence from executive pressure.",
+        "scope": "institutional",
+        "why_it_matters": "Judicial enforcement of confirmation requirements and protection of an independent central bank preserves the structural integrity of agencies against politicization.",
         "exemplars": [
           {
-            "exemplar_id": "wk60_truthfulness_ex1",
+            "exemplar_id": "wk60_stewardship_ex02",
             "week": 60,
             "event_ids": [
-              "wk60_PA_012",
-              "wk60_IM_003"
+              "wk60_IG_002",
+              "wk60_IG_007"
             ],
             "developments": [
               {
-                "development_id": "wk60_PA_012",
-                "development_label": "Trump denied U.S. responsibility for an Iranian school strike despite evidence.",
+                "development_id": "wk60_IG_002",
+                "development_label": "Ruled Kari Lake's leadership of Voice of America unlawful and voided her actions.",
                 "role": "primary"
+              },
+              {
+                "development_id": "wk60_IG_007",
+                "development_label": "Quashed a grand jury subpoena targeting Federal Reserve Chair Jerome Powell.",
+                "role": "secondary"
               }
             ],
-            "summary": "Trump's denial of responsibility for the school strike exemplified a breach of truthfulness in public discourse.",
-            "why_exemplary": "This denial reflects a broader pattern of disinformation that undermines public trust and accountability.",
+            "summary": "Courts invalidated an unlawful media-agency appointment and blocked a retaliatory subpoena against the Fed chair.",
+            "why_exemplary": "Both rulings are verified judicial actions directly restoring institutional independence against executive overreach, a core stewardship function.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
         "trait": "good_faith",
-        "pattern": "Legislative processes were manipulated to favor partisan objectives, undermining the spirit of democratic engagement.",
-        "severity": "serious",
-        "institutional_response": "Congressional leaders largely complied with executive demands, failing to uphold democratic principles.",
+        "pattern": "Bipartisan public backlash led to the release of detained mariachi teenagers, and a Republican senator's opposition sank a controversial nominee's confirmation.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Cross-partisan responsiveness to visible injustice shows that public and legislative accountability mechanisms have not been fully extinguished.",
         "exemplars": [
           {
-            "exemplar_id": "wk60_good_faith_ex1",
+            "exemplar_id": "wk60_good_faith_ex02",
             "week": 60,
             "event_ids": [
-              "wk60_CR_007",
-              "wk60_CR_008"
+              "wk60_CR_008",
+              "wk60_IG_012"
             ],
             "developments": [
               {
-                "development_id": "wk60_CR_007",
-                "development_label": "The SAVE America Act imposed strict voter ID and proof-of-citizenship rules.",
+                "development_id": "wk60_CR_008",
+                "development_label": "Released two teenage mariachi musicians from detention after bipartisan backlash.",
                 "role": "primary"
+              },
+              {
+                "development_id": "wk60_IG_012",
+                "development_label": "Jeremy Carl withdrew from a State Department nomination after Republican senators opposed his confirmation.",
+                "role": "secondary"
               }
             ],
-            "summary": "The passage of the SAVE America Act under duress exemplified a breach of good faith in legislative processes.",
-            "why_exemplary": "This act reflects a manipulation of democratic norms to achieve partisan ends, undermining the integrity of the electoral process.",
+            "summary": "Public and legislative pressure across party lines produced two concrete corrections to executive branch overreach.",
+            "why_exemplary": "These are verified examples of the system responding to public conscience and internal party dissent rather than suppressing it.",
             "exemplar_type": "primary"
           }
         ]
       }
     ],
-    "norms_strengthened": [],
-    "direction_of_movement": "collapsing"
+    "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "The trajectory of ethical conditions continues to deteriorate, with Week 60 marking a consolidation of previously established patterns of erosion. The previous week indicated a concerning trend, and this week has further entrenched the normalization of executive overreach, manipulation of democratic processes, and erosion of public trust. The cumulative effect is a democracy increasingly governed by unilateral decisions and diminished accountability.",
+    "narrative": "Week 60 continues the deterioration documented in Week 59, with the moral floor holding in isolated pockets while the dominant currents of unauthorized war-making, coerced legislative process, and information suppression deepen. The war against Iran again illustrates a presidency treating military force as personal prerogative, undisciplined by congressional authorization, disciplined messaging, or acknowledgment of civilian harm. The pattern of denying responsibility for a fatal strike on a school, rather than a single event, reflects an entrenched habit of prioritizing narrative control over truthful accounting to the public.",
     "trend": "deteriorating",
     "stress_points": [
-      "consolidation of executive power",
-      "manipulation of voting rights",
-      "erosion of ethical oversight",
-      "disinformation and narrative control"
+      "unauthorized and expanding war powers",
+      "coercive use of presidential leverage over legislative process",
+      "suppression of internal findings on civilian harm",
+      "dismantling of internal oversight in immigration enforcement",
+      "targeted enforcement against specific ethnic communities"
     ],
     "sources_of_resilience": [
-      "judicial pushback in some cases",
-      "public advocacy and dissent",
-      "media scrutiny of government actions"
+      "judicial enforcement of appointment and confirmation law",
+      "protection of Federal Reserve independence from retaliatory subpoena",
+      "Senate leadership resistance to filibuster elimination under pressure",
+      "cross-partisan public backlash correcting individual injustices",
+      "continued independent and investigative press reporting"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "The ongoing patterns of erosion, particularly in character, ethics, restraint, truthfulness, and good faith, indicate a high risk of further deterioration. The lack of effective institutional resistance to executive overreach and the manipulation of democratic processes suggest that the foundations of self-government are increasingly at risk.",
+    "level": "severe",
+    "justification": "The war's expansion without congressional authorization, combined with a demonstrated willingness to deny responsibility for civilian deaths and suppress relevant intelligence, indicates that core restraint and truthfulness norms are failing at the highest levels of the executive branch. The coercive campaign to force voting restrictions through Congress, while temporarily blocked on the filibuster, shows sustained pressure to erode electoral fairness through procedural means. Surviving checks — court rulings on unlawful appointments, Senate resistance on the filibuster, bipartisan reactions to specific abuses — are real but narrow and reactive, addressing individual incidents rather than reversing the broader trajectory.",
     "forward_signals": [
-      "escalating military actions without congressional approval",
-      "continued push for restrictive voting laws",
-      "increased disinformation campaigns surrounding elections",
-      "further erosion of civil rights protections"
+      "further escalation or widening of the Iran conflict without congressional vote",
+      "renewed attempts to weaken or eliminate the filibuster for voting legislation",
+      "additional retaliation against journalists or broadcasters covering the war critically",
+      "further contraction of DHS oversight capacity amid rising detention complaints",
+      "expansion of targeted immigration enforcement against specific communities"
     ]
   }
 }

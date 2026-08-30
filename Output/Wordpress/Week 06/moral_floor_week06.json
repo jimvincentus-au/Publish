@@ -1,12 +1,12 @@
 {
   "week_number": 6,
-  "period_label": "Week 6 – 2025-02-22–2025-02-28",
+  "period_label": "Week 6",
   "window": {
     "start": "2025-02-22",
     "end": "2025-02-28"
   },
-  "clock_time_public": "7:52 p.m.",
-  "clock_delta_minutes": 0.2,
+  "clock_time_public": "7:32 p.m.",
+  "clock_delta_minutes": 0.0,
   "baseline_traits": [
     {
       "name": "character",
@@ -34,221 +34,415 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week marked a significant escalation in the erosion of democratic norms, characterized by aggressive executive actions that centralized power, undermined institutional integrity, and manipulated information, while courts and civil society attempted to resist these trends.",
+    "summary": "Week 6 shows the executive consolidating fiscal and personnel authority under DOGE while shielding politically connected actors from legal consequence and continuing to erode press access and judicial independence. Pardons for January 6 defendants, a DOJ 'weaponization' review, and a US attorney's declaration of personal loyalty to the president compounded concerns about the impartial use of law. Ethics were strained by SEC leniency toward a crypto donor and a federal contract benefiting Musk's company. Truthfulness suffered from repeated false election claims, AI-generated propaganda imagery, and quiet deletion of debunked savings figures. Courts, unions, and career officials again supplied the most consistent resistance, blocking DOGE's data access, mass firings, and funding freezes, though the sheer volume of simultaneous executive actions continued to outpace institutional response capacity.",
     "norms_broken": [
       {
         "trait": "character",
-        "pattern": "Executive actions prioritized personal and political gain over public duty, exemplified by mass firings and the consolidation of power within DOGE.",
+        "pattern": "A sitting US attorney publicly declared himself and DOJ colleagues to be 'President Trump's lawyers' rather than independent prosecutors, while a presidential order created a body to review past prosecutions tied to the president himself, blending personal grievance with the machinery of federal law enforcement.",
         "severity": "serious",
-        "institutional_response": "Courts issued rulings to block some actions, but overall institutional resistance was limited.",
+        "institutional_response": "A member of Congress opened an investigation into the US attorney's conduct; courts continued to adjudicate related executive orders, but no removal or formal discipline occurred within the week.",
         "exemplars": [
           {
             "exemplar_id": "wk06_character_ex01",
             "week": 6,
             "event_ids": [
-              "wk06_PA_002",
-              "wk06_PA_018"
+              "wk06_IG_013"
+            ],
+            "developments": [
+              {
+                "development_id": "wk06_IG_013",
+                "development_label": "US attorney declared himself and DOJ colleagues 'President Trump's lawyers'",
+                "role": "primary"
+              }
+            ],
+            "summary": "A federal prosecutor publicly asserted personal loyalty to the president rather than institutional independence from the Justice Department.",
+            "why_exemplary": "Directly repudiates the oath-bound duty to serve the Constitution rather than an individual, signaling that legal judgment may be subordinated to personal fealty.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk06_character_ex02",
+            "week": 6,
+            "event_ids": [
+              "wk06_PA_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk06_PA_001",
+                "development_label": "Executive order created a DOJ working group to review past prosecutions tied to Trump",
+                "role": "primary"
+              }
+            ],
+            "summary": "The president directed a review of prosecutions connected to his own past legal exposure, blurring personal grievance and official law-enforcement machinery.",
+            "why_exemplary": "A verified, self-referential use of executive authority that places personal vindication ahead of the impartial application of justice expected of the office.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Mass pardons for roughly 1,500 January 6 defendants erased accountability for an attack on the peaceful transfer of power, while the administration continued a funding freeze on NIH research after a court had already restrained it, and pressed forward with mass-layoff planning despite an ongoing court challenge to OPM's authority.",
+        "severity": "extreme",
+        "institutional_response": "Courts pushed back repeatedly (injunctions on firings, funding freezes, and data access), but the administration proceeded with parallel actions regardless, testing the limits of compliance.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk06_good_faith_ex01",
+            "week": 6,
+            "event_ids": [
+              "wk06_PA_002"
             ],
             "developments": [
               {
                 "development_id": "wk06_PA_002",
-                "development_label": "Pardoned Enrique Tarrio and about 1,500 January 6 participants",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk06_PA_018",
-                "development_label": "Fired the chairman of the Joint Chiefs and multiple senior Pentagon leaders",
+                "development_label": "Blanket pardons for ~1,500 January 6 defendants, including Enrique Tarrio",
                 "role": "primary"
               }
             ],
-            "summary": "Mass pardons for January 6 offenders and the removal of military leadership exemplified prioritization of loyalty over public duty.",
-            "why_exemplary": "These actions illustrated a shift towards personal rule, undermining the integrity of public institutions.",
+            "summary": "Sweeping pardons erased legal consequences for participants in an attack on Congress and the certification of an election.",
+            "why_exemplary": "A verified act that defeats the purpose of accountability mechanisms for political violence, potentially emboldening future attempts to overturn democratic outcomes by force.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk06_good_faith_ex02",
+            "week": 6,
+            "event_ids": [
+              "wk06_PA_014",
+              "wk06_ES_008"
+            ],
+            "developments": [
+              {
+                "development_id": "wk06_PA_014",
+                "development_label": "NIH funding notice submission halted in apparent violation of a court order",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk06_ES_008",
+                "development_label": "NIH reimposed a DEI-related funding freeze despite a restraining order",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The administration continued restricting NIH research funding after courts had ordered it to stop, delaying medical research including cancer and Alzheimer's studies.",
+            "why_exemplary": "A verified pattern of proceeding with executive action despite explicit judicial restraint, undermining the presumption that court orders bind the executive in practice, not just on paper.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
         "trait": "ethics",
-        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the involvement of private actors in government functions.",
+        "pattern": "The SEC halted its fraud prosecution of a crypto entrepreneur who had invested $75 million in a Trump-linked venture, while a federal contract was signed with a company owned by an influential unpaid adviser, and Jared Kushner's Gaza redevelopment planning proceeded alongside his private financial interests.",
         "severity": "serious",
-        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
+        "institutional_response": "No independent ethics enforcement action was recorded within the week; media and watchdog coverage raised the concerns but no formal remedy was reported.",
         "exemplars": [
           {
             "exemplar_id": "wk06_ethics_ex01",
             "week": 6,
             "event_ids": [
-              "wk06_PA_003",
-              "wk06_PA_021"
+              "wk06_IG_024"
             ],
             "developments": [
               {
-                "development_id": "wk06_PA_003",
-                "development_label": "Announced the largest deportation operation in US history",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk06_PA_021",
-                "development_label": "Announced plans to cut most USAID foreign-aid contracts",
+                "development_id": "wk06_IG_024",
+                "development_label": "SEC halted fraud prosecution of Justin Sun after his $75 million investment in a Trump-linked venture",
                 "role": "primary"
               }
             ],
-            "summary": "The deportation operation and cuts to foreign aid contracts blurred the lines between public office and private interests.",
-            "why_exemplary": "These actions exemplified a disregard for ethical boundaries, prioritizing personal and political interests.",
+            "summary": "Federal securities enforcement against a politically connected donor was paused following his substantial investment tied to the president's family business interests.",
+            "why_exemplary": "A verified instance suggesting regulatory outcomes may track political and financial proximity rather than the underlying merits of a fraud case.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk06_ethics_ex02",
+            "week": 6,
+            "event_ids": [
+              "wk06_ES_010"
+            ],
+            "developments": [
+              {
+                "development_id": "wk06_ES_010",
+                "development_label": "FAA signed a contract to use SpaceX's Starlink system",
+                "role": "primary"
+              }
+            ],
+            "summary": "A federal agency contracted with a company owned by an unpaid but highly influential presidential adviser overseeing government-wide cost-cutting.",
+            "why_exemplary": "Raises a direct conflict-of-interest concern where the adviser directing federal spending decisions also stands to benefit commercially from federal contracts.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "The administration centralized federal spending and personnel authority under DOGE without statutory basis, froze government credit cards for 30 days disrupting medical research, ordered preparation of a 30,000-bed migrant detention facility at Guantanamo, and designated cartels as terrorist organizations opening the door to unilateral military strikes in a foreign sovereign country.",
+        "severity": "extreme",
+        "institutional_response": "Courts blocked some data-access and firing components; Congress and allied agencies otherwise largely acquiesced or were bypassed.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk06_restraint_ex01",
+            "week": 6,
+            "event_ids": [
+              "wk06_PA_018"
+            ],
+            "developments": [
+              {
+                "development_id": "wk06_PA_018",
+                "development_label": "Executive order expanding DOGE's authority over federal spending, contracts, and grants",
+                "role": "primary"
+              }
+            ],
+            "summary": "An executive order centralized budgetary oversight for contracts, grants, and loans under an advisor's team without clear statutory authorization.",
+            "why_exemplary": "A verified structural concentration of the federal purse outside ordinary accountable channels, testing constitutional limits on executive control of appropriated funds.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk06_restraint_ex02",
+            "week": 6,
+            "event_ids": [
+              "wk06_PA_006",
+              "wk06_PA_007"
+            ],
+            "developments": [
+              {
+                "development_id": "wk06_PA_006",
+                "development_label": "Ordered preparation of a 30,000-bed migrant detention facility at Guantanamo Bay",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk06_PA_007",
+                "development_label": "Designated Mexican drug cartels as terrorist organizations eligible for military strikes",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The administration expanded executive detention capacity using a military base and opened a legal pathway to unilateral cross-border military action.",
+            "why_exemplary": "Both verified actions extend executive coercive reach well beyond ordinary immigration and law-enforcement frameworks, raising war-powers and civil-liberties concerns.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding immigration and national security.",
-        "severity": "serious",
-        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
+        "pattern": "The president repeated baseless election-fraud claims at CPAC, the White House shared an AI-generated video depicting a fictional luxury 'Trump Gaza' resort, and DOGE quietly deleted debunked cost-savings figures from its public tracking website without explanation.",
+        "severity": "concerning",
+        "institutional_response": "Independent journalists and fact-checkers challenged the claims; no retraction or correction was issued by the administration.",
         "exemplars": [
           {
             "exemplar_id": "wk06_truthfulness_ex01",
             "week": 6,
             "event_ids": [
-              "wk06_CR_004",
-              "wk06_IM_001"
+              "wk06_CR_004"
             ],
             "developments": [
               {
                 "development_id": "wk06_CR_004",
-                "development_label": "Falsely claimed massive election fraud at CPAC",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk06_IM_001",
-                "development_label": "Labeled MSNBC a threat to democracy during CPAC",
+                "development_label": "Trump falsely claimed to have received 'much more' than 77 million votes and accused Democrats of cheating",
                 "role": "primary"
               }
             ],
-            "summary": "False claims of election fraud and labeling media as threats spread disinformation and undermined trust.",
-            "why_exemplary": "These actions embedded disinformation at the center of governance, undermining trust in governmental processes.",
+            "summary": "The president repeated unsubstantiated claims of electoral fraud at a major political gathering, contradicting certified results.",
+            "why_exemplary": "A verified, repeated pattern of undermining confidence in certified election outcomes without evidence, corroborated by multiple news organizations.",
             "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "good_faith",
-        "pattern": "Executive orders undermined established legal frameworks and protections, particularly regarding immigration and civil rights.",
-        "severity": "serious",
-        "institutional_response": "Judicial challenges were initiated, but the executive's actions were largely unilateral.",
-        "exemplars": [
+          },
           {
-            "exemplar_id": "wk06_good_faith_ex01",
+            "exemplar_id": "wk06_truthfulness_ex02",
             "week": 6,
             "event_ids": [
-              "wk06_CR_007",
-              "wk06_CR_020"
+              "wk06_IM_012",
+              "wk06_IM_015"
             ],
             "developments": [
               {
-                "development_id": "wk06_CR_007",
-                "development_label": "Directed ICE to deport hundreds of thousands of unaccompanied migrant children",
+                "development_id": "wk06_IM_012",
+                "development_label": "DOGE quietly deleted debunked cost-savings claims from its public website",
                 "role": "primary"
               },
               {
-                "development_id": "wk06_CR_020",
-                "development_label": "Suspended refugee admissions until blocked by a federal judge",
-                "role": "primary"
+                "development_id": "wk06_IM_015",
+                "development_label": "Posted AI-generated 'Trump Gaza' resort video",
+                "role": "secondary"
               }
             ],
-            "summary": "The deportation of children and suspension of refugee admissions politicized enforcement and undermined legal protections.",
-            "why_exemplary": "These actions disregarded established processes for justice, undermining the spirit of legal protections.",
-            "exemplar_type": "primary"
+            "summary": "Official channels removed discredited savings figures without explanation and circulated synthetic imagery promoting a contested redevelopment plan.",
+            "why_exemplary": "Both verified actions used official platforms to manage public perception through omission or fabrication rather than correction and transparency.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "stewardship",
-        "pattern": "The dismantling of oversight mechanisms and the removal of inspectors general weakened institutional accountability.",
+        "pattern": "Mass workforce reductions swept across USAID, the Pentagon, the Social Security Administration, and the EPA, cutting expertise and capacity in foreign aid, benefits administration, and environmental enforcement, while a 30-day credit card freeze halted active cancer and Alzheimer's research.",
         "severity": "serious",
-        "institutional_response": "Limited pushback from existing oversight bodies, highlighting a lack of resilience.",
+        "institutional_response": "Courts blocked some firings and funding freezes; agencies partially reversed course (e.g., FDA rehiring, OPM ultimatum reversal) after disruption had already occurred.",
         "exemplars": [
           {
             "exemplar_id": "wk06_stewardship_ex01",
             "week": 6,
             "event_ids": [
-              "wk06_PA_008",
-              "wk06_CR_015"
+              "wk06_PA_013",
+              "wk06_PA_022"
             ],
             "developments": [
               {
-                "development_id": "wk06_PA_008",
-                "development_label": "Ordered NIH to halt normal grant-review processes, effectively freezing research funding",
+                "development_id": "wk06_PA_013",
+                "development_label": "Eliminated ~2,000 USAID positions and placed nearly all USAID personnel on leave",
                 "role": "primary"
               },
               {
-                "development_id": "wk06_CR_015",
-                "development_label": "Ordered DOJ’s Civil Rights Division to dismiss DEI lawsuits against police and fire departments",
+                "development_id": "wk06_PA_022",
+                "development_label": "Cut more than 90% of USAID foreign aid contracts",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Near-total dismantling of USAID staffing and contracts sharply reduced US capacity for foreign assistance and diplomatic engagement.",
+            "why_exemplary": "A verified, large-scale reduction in institutional capacity that will be difficult to rebuild quickly, with direct effects on vulnerable populations abroad.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk06_stewardship_ex02",
+            "week": 6,
+            "event_ids": [
+              "wk06_PA_019"
+            ],
+            "developments": [
+              {
+                "development_id": "wk06_PA_019",
+                "development_label": "Froze all government credit cards for 30 days, halting NIH cancer and Alzheimer's research",
                 "role": "primary"
               }
             ],
-            "summary": "Halting NIH funding processes and dismissing DEI lawsuits undermined institutional capacity and accountability.",
-            "why_exemplary": "These actions stripped internal watchdogs of their power, reducing institutional capacity to investigate executive misconduct.",
-            "exemplar_type": "primary"
+            "summary": "A blunt administrative freeze disrupted ongoing federally funded medical research with no apparent targeting or exemption process.",
+            "why_exemplary": "Demonstrates how efficiency measures implemented without care for institutional function can cause direct, hard-to-reverse harm to public health research infrastructure.",
+            "exemplar_type": "secondary"
           }
         ]
       }
     ],
     "norms_strengthened": [
       {
-        "trait": "good_faith",
-        "pattern": "Judicial actions temporarily blocked some of the administration's most aggressive moves, demonstrating a commitment to uphold legal norms.",
+        "trait": "restraint",
+        "pattern": "Federal courts issued a dense sequence of injunctions this week blocking DOGE's access to Treasury and personal data systems, halting mass firings of probationary workers, and restraining funding freezes, showing sustained judicial capacity to check executive overreach despite the volume of contested actions.",
         "scope": "institutional",
-        "why_it_matters": "These judicial interventions highlight the importance of checks and balances in resisting executive overreach.",
+        "why_it_matters": "Continued, active judicial engagement across many simultaneous fronts demonstrates that courts retain functional power to slow or reverse executive overreach even as the pace of contested actions accelerates.",
         "exemplars": [
           {
-            "exemplar_id": "wk06_good_faith_ex01",
+            "exemplar_id": "wk06_restraint_strength_ex01",
             "week": 6,
             "event_ids": [
-              "wk06_IG_002",
-              "wk06_IG_013"
+              "wk06_IG_001",
+              "wk06_IG_010"
             ],
             "developments": [
               {
-                "development_id": "wk06_IG_002",
-                "development_label": "Issued nationwide injunctions blocking Trump’s anti-DEI orders",
+                "development_id": "wk06_IG_001",
+                "development_label": "Preliminary injunction blocking DOGE's access to Treasury payment data",
                 "role": "primary"
               },
               {
-                "development_id": "wk06_IG_013",
-                "development_label": "Issued injunctions blocking freezes of federal loans, grants, refugee admissions, and foreign aid nonpayment",
+                "development_id": "wk06_IG_010",
+                "development_label": "Temporary restraining order blocking DOGE from accessing federal employee and student data",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Courts twice restrained an unaccountable private team from accessing sensitive federal financial and personal data systems.",
+            "why_exemplary": "Verified, concrete judicial checks on an unelected advisor's access to systems holding personal data on millions of Americans.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk06_restraint_strength_ex02",
+            "week": 6,
+            "event_ids": [
+              "wk06_IG_021"
+            ],
+            "developments": [
+              {
+                "development_id": "wk06_IG_021",
+                "development_label": "Judge blocked mass firings of federal probationary workers, finding OPM lacked authority",
                 "role": "primary"
               }
             ],
-            "summary": "Judicial rulings enforced prior restraining orders on funding freezes, reaffirming judicial power to compel executive compliance.",
-            "why_exemplary": "These actions reinforced congressional control over appropriations and limited executive attempts to unilaterally suspend international commitments.",
+            "summary": "A federal judge found that OPM lacked legal authority to order the mass firings, temporarily protecting thousands of jobs.",
+            "why_exemplary": "A verified ruling directly constraining an improvised mechanism for politicizing and shrinking the civil service without proper legal basis.",
             "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Federal agency heads and the FBI director instructed staff to disregard Musk's weekly-accomplishments ultimatum, more than 20 DOGE-linked employees resigned rather than help dismantle public services, and unions amended litigation to challenge the ultimatum's legality, sustaining internal resistance to procedurally improper directives.",
+        "scope": "institutional",
+        "why_it_matters": "Internal refusal by career officials and agency leadership to comply with directives seen as procedurally improper demonstrates that professional norms can still function as a check even amid centralizing pressure.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk06_good_faith_strength_ex01",
+            "week": 6,
+            "event_ids": [
+              "wk06_PA_011",
+              "wk06_IG_017"
+            ],
+            "developments": [
+              {
+                "development_id": "wk06_PA_011",
+                "development_label": "FBI Director Kash Patel instructed staff to ignore Musk's weekly-accomplishments request",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk06_IG_017",
+                "development_label": "Federal department heads instructed employees to disregard Musk's directives",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Agency leadership across multiple departments refused to comply with an unelected advisor's ultimatum to federal employees.",
+            "why_exemplary": "A verified, cross-agency instance of institutional leadership asserting accountable chains of authority against an improvised, extralegal directive.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk06_good_faith_strength_ex02",
+            "week": 6,
+            "event_ids": [
+              "wk06_IG_016"
+            ],
+            "developments": [
+              {
+                "development_id": "wk06_IG_016",
+                "development_label": "More than 20 DOGE-linked civil service employees resigned rather than comply",
+                "role": "primary"
+              }
+            ],
+            "summary": "Federal technology workers resigned rather than assist in dismantling public services under DOGE's direction.",
+            "why_exemplary": "Reflects grassroots professional resistance sustaining institutional norms even where top-down enforcement was absent.",
+            "exemplar_type": "secondary"
           }
         ]
       }
     ],
-    "direction_of_movement": "collapsing"
+    "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "Week 6 represents a significant escalation in the concerning trends established in previous weeks, with the consolidation of a parallel executive state and the aggressive use of executive power to reshape governance. The administration's actions increasingly prioritized personal and political interests over public duty, exemplified by mass pardons and the centralization of authority within DOGE. The erosion of accountability mechanisms, including the dismantling of oversight bodies and the politicization of the justice system, further exacerbates the risks to democratic integrity. However, judicial pushback indicates that some institutional resilience remains, albeit under significant threat.",
+    "narrative": "Week 6 continues and deepens the trajectory identified in Week 5, converting provisional and formal grants of power into operational reality. Where Week 5 chartered DOGE and subordinated regulators to White House review, Week 6 saw that authority exercised directly: a 30-day credit card freeze disrupting active medical research, an executive order centralizing spending oversight, and sweeping layoff-planning directives across agencies. The pattern of legal accountability being erased for allies and applied selectively against critics also continued and arguably intensified, with blanket pardons for January 6 defendants, a US attorney's declaration of personal loyalty to the president, and an SEC pause on enforcement against a politically connected crypto donor.\n\nEthics concerns persisted through Musk's dual role as government cost-cutter and federal contractor, and Kushner's continued Gaza planning alongside his private financial interests. Truthfulness was again strained by repeated false election claims and now by the explicit use of AI-generated propaganda imagery, extending Week 5's promotional-messaging concerns into outright synthetic fabrication. Stewardship suffered from the near-total dismantling of USAID and disruptive, poorly targeted funding freezes affecting cancer and Alzheimer's research, echoing but exceeding the erroneous bird-flu-related firings of the prior week.\n\nCountervailing this, courts remained the most reliable institutional check, issuing another dense sequence of injunctions against DOGE's data access and mass firings, this time joined by more visible internal resistance: agency heads and the FBI director openly instructing staff to disregard an unelected advisor's directives, and DOGE-linked employees resigning en masse rather than comply. This suggests that while the volume and reach of executive action continues to outpace institutional response capacity, resistance is becoming somewhat more organized and vocal rather than purely reactive. The overall trajectory remains one of continued, compounding deterioration.",
     "trend": "deteriorating",
     "stress_points": [
-      "centralization of executive power",
-      "disinformation as a governance tool",
-      "erosion of civil rights protections",
-      "politicization of the civil service"
+      "operational centralization of federal spending and personnel authority under DOGE",
+      "erasure of accountability for political violence via mass pardons",
+      "regulatory leniency correlated with political and financial proximity",
+      "conflicts of interest between advisory roles and personal commercial benefit",
+      "use of AI-generated imagery and quiet data deletion to manage public perception",
+      "disruptive, poorly targeted funding freezes damaging public health research capacity"
     ],
     "sources_of_resilience": [
-      "judicial pushback against executive orders",
-      "civil society mobilization against abuses",
-      "state-level legal challenges"
+      "sustained judicial issuance of injunctions across data-access, firing, and funding disputes",
+      "agency leadership publicly refusing to comply with an unelected advisor's directives",
+      "mass resignations by DOGE-linked civil servants rather than complicity in service dismantlement",
+      "union and civil-society litigation challenging procedural legality of executive directives",
+      "congressional oversight inquiry into alleged prosecutorial misconduct",
+      "grassroots protest and consumer boycotts against corporate and governmental rollbacks"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
+    "level": "severe",
+    "justification": "Week 6 shows the executive moving from formal authorization of centralized power (Week 5) to its operational exercise: disruptive funding freezes, sweeping layoff directives, and expanded detention and military-strike authority. Combined with mass pardons for January 6 defendants, a prosecutor's declared personal loyalty to the president, and regulatory leniency toward a politically connected donor, the pattern indicates that legal and administrative tools are increasingly deployed according to loyalty rather than neutral function. Courts continue to intervene effectively in specific instances, and internal institutional resistance appears somewhat more organized this week, but the accumulating scale and simultaneity of executive actions continues to strain the capacity of these checks to prevent lasting institutional damage.",
     "forward_signals": [
-      "increased executive orders bypassing legislative input",
-      "escalation of disinformation campaigns",
-      "further attempts to undermine civil rights protections"
+      "whether courts' injunctions against DOGE data access and mass firings survive appeal",
+      "further use of pardons or prosecutorial discretion to reward loyalty or punish dissent",
+      "additional regulatory actions correlating with political donations or business ties",
+      "scale and effect of March 13 agency layoff and reorganization submissions",
+      "continued use of AI-generated or synthetic media in official government communications",
+      "whether internal agency resistance to DOGE directives persists or is suppressed"
     ]
   }
 }

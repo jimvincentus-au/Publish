@@ -1,12 +1,12 @@
 {
   "week_number": 1,
-  "period_label": "Week 1 – 2025-01-20–2025-01-24",
+  "period_label": "Week 1",
   "window": {
     "start": "2025-01-20",
     "end": "2025-01-24"
   },
-  "clock_time_public": "7:39 p.m.",
-  "clock_delta_minutes": 8.0,
+  "clock_time_public": "7:32 p.m.",
+  "clock_delta_minutes": 0.4,
   "baseline_traits": [
     {
       "name": "character",
@@ -18,7 +18,7 @@
     },
     {
       "name": "restraint",
-      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
     },
     {
       "name": "truthfulness",
@@ -34,159 +34,345 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week marked a significant erosion of democratic norms, characterized by aggressive executive actions that blurred the lines between governance and personal interests, alongside a troubling disregard for established legal frameworks and civil rights protections.",
+    "summary": "The opening week of the term produced a dense concentration of moral floor stress across nearly every trait. A president used emergency declarations, mass pardons, purges of watchdogs, and personal financial ventures simultaneously, while courts and a handful of institutional actors offered early but partial resistance. The pattern was not one isolated breach but a coordinated first-week method: widen executive discretion, remove internal checks, reward allies, and blur public office with private gain, all before opposition could organize.",
     "norms_broken": [
       {
-        "trait": "character",
-        "pattern": "Executive actions prioritized personal and political gain over public duty, exemplified by the pardoning of January 6 participants.",
+        "trait": "restraint",
+        "pattern": "Simultaneous emergency declarations, military deployment to the border, unilateral non-enforcement of a law upheld by the Supreme Court, and a memorandum challenging the Impoundment Control Act all expanded executive discretion far beyond routine governance in a single week.",
         "severity": "serious",
-        "institutional_response": "Courts and civil society organizations initiated legal challenges, but these responses were reactive rather than proactive.",
+        "institutional_response": "A federal judge blocked the birthright citizenship order and states filed suit, but Congress and most agencies did not resist; several career staff and watchdog structures were removed rather than consulted.",
         "exemplars": [
           {
-            "exemplar_id": "wk01_character_ex01",
+            "exemplar_id": "wk01_restraint_ex01",
             "week": 1,
             "event_ids": [
+              "wk01_PA_002",
               "wk01_PA_007"
             ],
             "developments": [
               {
+                "development_id": "wk01_PA_002",
+                "development_label": "National emergency declarations unlocking military and emergency authorities",
+                "role": "primary"
+              },
+              {
                 "development_id": "wk01_PA_007",
-                "development_label": "Pardoned January 6 defendants",
+                "development_label": "Deployment of active-duty troops to the border",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Two national emergencies were declared on day one, unlocking military deployment and regulatory waivers despite migration levels at multi-year lows.",
+            "why_exemplary": "Demonstrates use of emergency powers as a routine governing tool rather than a response to an actual crisis, the core restraint failure of the week.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk01_restraint_ex02",
+            "week": 1,
+            "event_ids": [
+              "wk01_PA_006"
+            ],
+            "developments": [
+              {
+                "development_id": "wk01_PA_006",
+                "development_label": "Non-enforcement of the TikTok law despite Supreme Court ruling",
                 "role": "primary"
               }
             ],
-            "summary": "Trump pardoned over 1,500 individuals involved in the January 6 attack.",
-            "why_exemplary": "This act exemplified a prioritization of political loyalty over accountability, undermining the integrity of the legal system.",
+            "summary": "The president directed non-enforcement of a validly enacted, Court-upheld statute for 75 days, asserting personal discretion over binding law.",
+            "why_exemplary": "A clear instance of substituting presidential preference for a settled legislative and judicial outcome, a direct restraint failure.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Mass pardons for January 6 defendants, clemency for FACE Act violators, and the formation of a new subcommittee to reinvestigate a matter already settled by a bipartisan committee all worked to relitigate or nullify prior legal and institutional outcomes rather than honor them.",
+        "severity": "serious",
+        "institutional_response": "No formal institutional check on the pardons power existed to contest this; the new subcommittee drew criticism but proceeded regardless.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk01_good_faith_ex01",
+            "week": 1,
+            "event_ids": [
+              "wk01_PA_003"
+            ],
+            "developments": [
+              {
+                "development_id": "wk01_PA_003",
+                "development_label": "Mass pardons and commutations for January 6 defendants",
+                "role": "primary"
+              }
+            ],
+            "summary": "Approximately 1,500 people charged in the Capitol attack, including violent and seditious conspiracy offenders, received clemency on day one.",
+            "why_exemplary": "Undermines deterrence against political violence and signals that loyalty, not legal outcome, determines accountability, a direct breach of good-faith adherence to justice processes.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk01_good_faith_ex02",
+            "week": 1,
+            "event_ids": [
+              "wk01_IG_003"
+            ],
+            "developments": [
+              {
+                "development_id": "wk01_IG_003",
+                "development_label": "New House subcommittee to reinvestigate January 6",
+                "role": "primary"
+              }
+            ],
+            "summary": "House Republicans formed a subcommittee explicitly aimed at undercutting the conclusions of the prior bipartisan January 6 investigation.",
+            "why_exemplary": "Uses legislative oversight power to rewrite an accepted record rather than pursue new accountability, illustrating procedural manipulation of institutional findings.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "ethics",
-        "pattern": "The launch of personal cryptocurrencies blurred the line between public office and private enrichment.",
+        "pattern": "The president launched personal cryptocurrency ventures at the moment of taking office, while simultaneously repealing crypto consumer protections, and a close associate secured a large foreign sovereign investment; a defense contractor facing federal scrutiny donated to the inauguration while retaining the new Attorney General's former firm.",
         "severity": "serious",
-        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
+        "institutional_response": "No agency or court intervened during the week; scrutiny came only from watchdog and journalistic sources cited in reporting.",
         "exemplars": [
           {
             "exemplar_id": "wk01_ethics_ex01",
             "week": 1,
             "event_ids": [
-              "wk01_ES_001"
+              "wk01_ES_004",
+              "wk01_ES_005"
             ],
             "developments": [
               {
-                "development_id": "wk01_ES_001",
-                "development_label": "Launched personal cryptocurrencies",
+                "development_id": "wk01_ES_004",
+                "development_label": "Launch of personal TRUMP and MELANIA cryptocurrency tokens",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk01_ES_005",
+                "development_label": "Repeal of crypto consumer-protection rules",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The president launched personal crypto tokens around inauguration while his administration simultaneously repealed consumer protections in that same industry.",
+            "why_exemplary": "Directly fuses regulatory policymaking with personal financial gain, the clearest emoluments-adjacent conflict of the week.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk01_ethics_ex02",
+            "week": 1,
+            "event_ids": [
+              "wk01_ES_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk01_ES_009",
+                "development_label": "Boeing inauguration donation and hiring of AG's former firm",
                 "role": "primary"
               }
             ],
-            "summary": "Trump launched TRUMP and MELANIA cryptocurrencies, controlled by entities he owns.",
-            "why_exemplary": "This action created a direct channel for speculative payments to the sitting president, raising ethical concerns about self-dealing.",
+            "summary": "A corporation facing federal prosecution donated $1 million to the inauguration and hired the incoming Attorney General's former law firm.",
+            "why_exemplary": "Illustrates how private interests sought proximity to enforcement decision-makers immediately upon transition, raising direct self-dealing concerns.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Mass removal of inspectors general without statutory notice, Schedule F reclassification of career civil servants, and dismantling of the federal police misconduct database each degraded institutional oversight capacity built to outlast any single administration.",
+        "severity": "extreme",
+        "institutional_response": "Unions and public-interest groups filed lawsuits (NTEU, National Security Counselors), but no immediate injunctive relief was reported this week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk01_stewardship_ex01",
+            "week": 1,
+            "event_ids": [
+              "wk01_PA_008"
+            ],
+            "developments": [
+              {
+                "development_id": "wk01_PA_008",
+                "development_label": "Purge of at least 12 inspectors general without required notice",
+                "role": "primary"
+              }
+            ],
+            "summary": "At least twelve inspectors general were removed across major agencies without the legally mandated 30-day congressional notice.",
+            "why_exemplary": "Directly disables the internal oversight infrastructure meant to detect waste, fraud, and abuse independent of political control, a foundational stewardship failure.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk01_stewardship_ex02",
+            "week": 1,
+            "event_ids": [
+              "wk01_PA_010"
+            ],
+            "developments": [
+              {
+                "development_id": "wk01_PA_010",
+                "development_label": "Reinstatement of Schedule F reclassifying civil servants",
+                "role": "primary"
+              }
+            ],
+            "summary": "Tens of thousands of career federal employees were reclassified as at-will political appointees, removing longstanding job protections.",
+            "why_exemplary": "Threatens the institutional continuity and non-partisan expertise that stewardship requires to survive changes in political leadership.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "False claims about the 2020 election and misrepresentation of Biden's actions eroded public trust.",
-        "severity": "serious",
-        "institutional_response": "Media and civil society organizations attempted to counter disinformation, but the narrative persisted.",
+        "pattern": "Disputed factual claims in the inaugural address, manipulation of ICE press release dates to inflate enforcement activity, and systematic removal of transgender-related data and terminology from federal websites degraded the shared factual basis for public governance.",
+        "severity": "concerning",
+        "institutional_response": "Media fact-checking occurred but no institutional correction mechanism was applied within the executive branch itself.",
         "exemplars": [
           {
             "exemplar_id": "wk01_truthfulness_ex01",
             "week": 1,
             "event_ids": [
-              "wk01_IM_005"
+              "wk01_IM_009"
             ],
             "developments": [
               {
-                "development_id": "wk01_IM_005",
-                "development_label": "Claimed the 2020 election was rigged",
+                "development_id": "wk01_IM_009",
+                "development_label": "ICE altering press release dates to appear current",
                 "role": "primary"
               }
             ],
-            "summary": "Trump repeatedly claimed the 2020 election was rigged.",
-            "why_exemplary": "These statements embedded disinformation at the center of presidential communication, undermining trust in electoral processes.",
+            "summary": "ICE updated old press releases to appear newly issued, creating a false impression of ongoing mass deportation activity.",
+            "why_exemplary": "A direct act of manufactured unreality by a federal agency intended to mislead the public about the scale of enforcement.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk01_truthfulness_ex02",
+            "week": 1,
+            "event_ids": [
+              "wk01_IM_010"
+            ],
+            "developments": [
+              {
+                "development_id": "wk01_IM_010",
+                "development_label": "Disputed factual claims in inaugural address",
+                "role": "primary"
+              }
+            ],
+            "summary": "The inaugural address included multiple contested claims about immigration, crime, and the prior administration.",
+            "why_exemplary": "Sets an early tone of departure from verified fact in the most visible public address of the term, shaping subsequent information environment.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "Revocation of security clearances from perceived political opponents and orders directing investigation of the prior administration for alleged 'weaponization' reflect use of office to punish critics rather than uphold neutral public duty.",
+        "severity": "concerning",
+        "institutional_response": "No institutional check occurred within the week; actions proceeded via executive order.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk01_character_ex01",
+            "week": 1,
+            "event_ids": [
+              "wk01_PA_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk01_PA_004",
+                "development_label": "Revocation of security clearances from former officials and Bolton",
+                "role": "primary"
+              }
+            ],
+            "summary": "Security clearances were stripped from about 50 former intelligence officials and John Bolton over a 2020 political letter.",
+            "why_exemplary": "Uses a national-security tool to punish past political speech rather than address any security risk, reflecting personal grievance over duty.",
+            "exemplar_type": "primary"
+          }
+        ]
+      }
+    ],
+    "norms_strengthened": [
+      {
+        "trait": "restraint",
+        "pattern": "A federal judge quickly blocked the executive order attempting to end birthright citizenship, and a coalition of states filed suit, demonstrating that constitutional limits on executive power retained practical force in the opening days.",
+        "scope": "institutional",
+        "why_it_matters": "Rapid judicial intervention against an attempt to override the 14th Amendment shows courts remain willing to check executive overreach even amid a flood of simultaneous actions.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk01_restraint_ex03",
+            "week": 1,
+            "event_ids": [
+              "wk01_IG_001",
+              "wk01_IG_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk01_IG_001",
+                "development_label": "Federal court blocks birthright citizenship order",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk01_IG_002",
+                "development_label": "State coalition lawsuits against the order",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A federal judge called the birthright citizenship order 'blatantly unconstitutional' and issued a temporary restraining order within days.",
+            "why_exemplary": "One of the clearest, fastest institutional checks of the week, showing judicial capacity to constrain a direct constitutional challenge.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
         "trait": "good_faith",
-        "pattern": "Executive orders undermined established legal frameworks and protections, particularly regarding immigration and civil rights.",
-        "severity": "serious",
-        "institutional_response": "Judicial challenges were initiated, but the executive's actions were largely unilateral.",
+        "pattern": "The National Archivist refused to certify the Equal Rights Amendment despite executive claims it was already ratified, upholding required constitutional procedure over political pressure.",
+        "scope": "individual",
+        "why_it_matters": "An independent official's adherence to procedural correctness over political expedience preserves the integrity of constitutional amendment processes.",
         "exemplars": [
           {
-            "exemplar_id": "wk01_good_faith_ex01",
+            "exemplar_id": "wk01_good_faith_ex03",
             "week": 1,
             "event_ids": [
-              "wk01_CR_001"
+              "wk01_IG_011"
             ],
             "developments": [
               {
-                "development_id": "wk01_CR_001",
-                "development_label": "Ended use of the CBP One app",
+                "development_id": "wk01_IG_011",
+                "development_label": "Archivist refusal to certify ERA",
                 "role": "primary"
               }
             ],
-            "summary": "The shutdown of the CBP One app cut off lawful pathways for asylum seekers.",
-            "why_exemplary": "This action disregarded established processes for asylum, undermining the spirit of legal protections.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "stewardship",
-        "pattern": "The dismantling of oversight mechanisms and the removal of inspectors general weakened institutional accountability.",
-        "severity": "serious",
-        "institutional_response": "Limited pushback from existing oversight bodies, highlighting a lack of resilience.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk01_stewardship_ex01",
-            "week": 1,
-            "event_ids": [
-              "wk01_PA_027"
-            ],
-            "developments": [
-              {
-                "development_id": "wk01_PA_027",
-                "development_label": "Fired inspectors general",
-                "role": "primary"
-              }
-            ],
-            "summary": "Trump fired inspectors general at multiple federal agencies without proper notice.",
-            "why_exemplary": "This action stripped internal watchdogs of their power, reducing institutional capacity to investigate executive misconduct.",
+            "summary": "The National Archivist declined to bypass required constitutional-amendment procedures despite political pressure to declare the ERA ratified.",
+            "why_exemplary": "Demonstrates institutional adherence to the spirit and letter of constitutional process rather than yielding to political convenience.",
             "exemplar_type": "primary"
           }
         ]
       }
     ],
-    "norms_strengthened": [],
-    "direction_of_movement": "collapsing"
+    "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "Week 1 represents a significant deterioration of the moral floor, building on a trajectory of weakened democratic norms. The aggressive use of executive power, coupled with actions that prioritize personal and political interests over public duty, has set a concerning precedent. The erosion of accountability mechanisms and the normalization of disinformation further exacerbate the risks to democratic integrity. This week’s events illustrate a stark shift towards a more authoritarian governance style, where the rule of law is increasingly weaponized and civil rights are undermined.",
+    "narrative": "This is the first week evaluated under the Democracy Clock framework, so there is no prior trajectory to build upon. The week itself, however, establishes a baseline of significant ethical stress: emergency powers invoked without corresponding emergency conditions, watchdogs purged without notice, clemency used to reward political allies while investigative power was aimed at critics, and personal financial ventures launched in direct proximity to regulatory rollbacks affecting those same ventures. These are not isolated missteps but a coordinated first-week pattern across multiple traits simultaneously.\n\nAt the same time, the week is not one of uncontested collapse. Courts intervened rapidly on the most constitutionally stark claim, birthright citizenship, and a handful of officials, including the National Archivist, held to procedural correctness under pressure. Civil society organizations and unions moved quickly to file legal challenges. This mix of aggressive executive action met with partial, targeted resistance sets the tone for what will need to be tracked in subsequent weeks: whether institutional pushback can scale to match the pace and breadth of executive assertion, or whether the sheer volume of first-week actions will normalize a lower ethical floor before checks can catch up.",
     "trend": "deteriorating",
     "stress_points": [
-      "normalization of emergency powers",
-      "disinformation as a governance tool",
-      "erosion of civil rights protections",
-      "politicization of the civil service"
+      "simultaneous emergency declarations without corresponding emergency conditions",
+      "mass purge of inspectors general without legal notice",
+      "clemency used to reward political allies and undermine deterrence",
+      "blending of personal financial ventures with regulatory policy",
+      "reclassification of civil service enabling political purges",
+      "use of investigative and security-clearance powers against perceived critics"
     ],
     "sources_of_resilience": [
-      "judicial pushback against executive orders",
-      "civil society mobilization against abuses",
-      "state-level legal challenges"
+      "rapid judicial intervention on birthright citizenship",
+      "state attorneys general activating federalism as a check",
+      "union and civil-society lawsuits challenging Schedule F and DOGE",
+      "independent officials (National Archivist) resisting procedural shortcuts",
+      "ongoing media fact-checking of executive claims"
     ]
   },
   "risk_assessment": {
     "level": "high",
-    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
+    "justification": "The breadth and coordination of first-week actions, spanning emergency powers, personnel purges, clemency, and personal financial entanglement, indicate a systemic rather than incidental approach to weakening the moral floor. Multiple traits were affected simultaneously rather than in isolation, and the removal of inspectors general in particular strikes directly at the state's capacity to detect future abuses, raising the stakes for any subsequent breach. While courts and some officials demonstrated meaningful resistance capacity, the sheer volume and speed of executive action this week outpaced the ability of checks to respond in real time, a pattern that, if sustained, could allow substantial erosion to become normalized before institutional correction mechanisms can operate at scale.",
     "forward_signals": [
-      "increased executive orders bypassing legislative input",
-      "escalation of disinformation campaigns",
-      "further attempts to undermine civil rights protections"
+      "whether courts sustain or narrow the birthright citizenship injunction",
+      "whether purged inspectors general are restored or replaced through irregular processes",
+      "further clemency actions extended to allies facing legal jeopardy",
+      "expansion or contraction of the DOGE entity's access and oversight exposure",
+      "additional conflicts of interest tied to Trump-branded financial ventures",
+      "congressional response, or lack thereof, to challenges against the Impoundment Control Act"
     ]
   }
 }

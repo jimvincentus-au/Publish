@@ -1,0 +1,444 @@
+{
+  "week_number": 83,
+  "period_label": "Week 83",
+  "window": {
+    "start": "2026-08-15",
+    "end": "2026-08-21"
+  },
+  "clock_time_public": "7:40 p.m.",
+  "clock_delta_minutes": -0.1,
+  "baseline_traits": [
+    {
+      "name": "character",
+      "definition": "Internal discipline to align words with deeds, to place public duty ahead of personal gain, and to honour the oath of office even when it conflicts with short-term advantage."
+    },
+    {
+      "name": "ethics",
+      "definition": "Commitment to keep a firm boundary between public power and private interest, avoiding conflicts of interest, self-dealing, and the use of office to enrich oneself, family, or allies."
+    },
+    {
+      "name": "restraint",
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+    },
+    {
+      "name": "truthfulness",
+      "definition": "Obligation to speak accurately on matters of public consequence, avoid deliberate disinformation, correct false statements, and ensure that citizens are not governed by manufactured unreality."
+    },
+    {
+      "name": "good_faith",
+      "definition": "Adherence to the spirit as well as the letter of democratic rules, keeping promises, respecting outcomes, and avoiding procedural manipulation that defeats the purpose of the law."
+    },
+    {
+      "name": "stewardship",
+      "definition": "Responsibility to maintain and strengthen institutions so they can serve future generations as well as the present, avoiding actions that permanently damage capacity, credibility, or public trust."
+    }
+  ],
+  "weekly_audit": {
+    "summary": "Week 83 opened with the Attorney General's public refusal to pledge Justice Department independence and closed with the Pentagon firing journalists for accurate reporting. Between those bookends, the administration converted a bank charter into a family enrichment vehicle, immigration courts into a deportation pipeline, and press regulation into a retaliation tool. Courts pushed back with real, though narrow, effect—vacating unlawful fund reprogramming, blocking ideological conditions on disaster aid, and halting a mass data transfer—while a Supreme Court stay on ballroom construction and continued prosecutions of past critics showed resistance was neither uniform nor guaranteed to hold.",
+    "norms_broken": [
+      {
+        "trait": "ethics",
+        "pattern": "A Trump-appointed banking regulator approved a charter for the president's family crypto venture, which has already funneled over $1.6 billion to Trump relatives, while a mining executive's stock purchase preceded a favorable land-use decision and a defense contractor retained hundreds of millions for a failed factory without consequence.",
+        "severity": "extreme",
+        "institutional_response": "Congress responded with proposed legislation to bar such self-dealing going forward, but the charter itself proceeded without regulatory or judicial reversal this week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk83_ethics_ex01",
+            "week": 83,
+            "event_ids": [
+              "wk83_ES_003"
+            ],
+            "developments": [
+              {
+                "development_id": "wk83_ES_003",
+                "development_label": "OCC approved a preliminary bank charter for World Liberty Financial, a Trump family crypto venture.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A federal regulator appointed by the president granted a banking charter to a venture that has already paid the president's family over $1.6 billion.",
+            "why_exemplary": "Verified, tier-one reporting documents direct regulatory self-dealing benefiting the president's family through an appointee's official action.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk83_ethics_ex02",
+            "week": 83,
+            "event_ids": [
+              "wk83_IG_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk83_IG_004",
+                "development_label": "Senator Warren and nine colleagues introduced legislation barring presidents and senior officials from owning or controlling a bank.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Congress responded to the World Liberty Financial charter by proposing a direct legal bar on presidential family banking self-dealing.",
+            "why_exemplary": "Shows the self-dealing had become blatant enough to provoke a concrete legislative countermeasure, though passage remains uncertain.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "The Attorney General declined to promise DOJ independence, after which the department pursued reinstatement of charges against a man already found to be a target of vindictive prosecution and continued to defend a prosecution of a former FBI director built on an ambiguous social media post.",
+        "severity": "extreme",
+        "institutional_response": "Courts continued to process the underlying cases without yet ruling on the merits; no institutional actor blocked the DOJ's course this week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk83_good_faith_ex01",
+            "week": 83,
+            "event_ids": [
+              "wk83_PA_001",
+              "wk83_IG_015"
+            ],
+            "developments": [
+              {
+                "development_id": "wk83_PA_001",
+                "development_label": "Attorney General Blanche refused to pledge DOJ independence from the White House.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk83_IG_015",
+                "development_label": "DOJ appealed to reinstate previously dismissed, judicially-flagged vindictive charges against Kilmar Ábrego García.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The Attorney General's refusal to pledge independence was followed within days by DOJ's pursuit of a case a judge had already called vindictive.",
+            "why_exemplary": "Tier-one corroborated reporting links an admission of non-independence directly to a subsequent prosecutorial action fitting the pattern of retaliation.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk83_good_faith_ex02",
+            "week": 83,
+            "event_ids": [
+              "wk83_IG_016"
+            ],
+            "developments": [
+              {
+                "development_id": "wk83_IG_016",
+                "development_label": "DOJ defended its prosecution of James Comey over an ambiguous social media post.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The Justice Department continued defending a criminal case against a prominent presidential critic built on a disputed social media image.",
+            "why_exemplary": "Verified reporting shows sustained institutional commitment to a prosecution widely viewed as retaliatory rather than merit-driven.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "The president posted AI-generated imagery falsely depicting the Strait of Hormuz as U.S. territory, repeated debunked vaccine-autism claims with RFK Jr., and made a pattern of false statistical claims on crime, jobs, and drug prices, while a senior defense official made escalating false claims about military progress against Iran.",
+        "severity": "serious",
+        "institutional_response": "Independent fact-checking outlets and news organizations documented the falsehoods; no correction or accountability mechanism was applied by the administration itself.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk83_truthfulness_ex01",
+            "week": 83,
+            "event_ids": [
+              "wk83_IM_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk83_IM_012",
+                "development_label": "Trump posted AI-generated images falsely declaring the Strait of Hormuz 'NEW U.S. Territory'.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The president used fabricated imagery to falsely assert a territorial claim over international waters amid an active crisis.",
+            "why_exemplary": "Multi-source corroborated reporting documents deliberate use of synthetic media to manufacture unreality about a live geopolitical dispute.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk83_truthfulness_ex02",
+            "week": 83,
+            "event_ids": [
+              "wk83_IM_002",
+              "wk83_IM_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk83_IM_002",
+                "development_label": "Trump made false public claims about inflation, Iran, and control of the Strait of Hormuz.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk83_IM_005",
+                "development_label": "Hegseth made escalating false claims about Iranian military destruction.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The president and defense secretary made verifiably false claims about an active military conflict's progress and domestic economic conditions.",
+            "why_exemplary": "Verified fact-checks from multiple tier-one outlets document a coordinated pattern of falsehood on matters of war and public welfare.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "Official White House channels attacked a CNN reporter and her children after a routine question, a senior aide posted vulgar insults at a sitting senator, and the president devoted press events to personal grievances, golden seals, and a street race rather than governance.",
+        "severity": "concerning",
+        "institutional_response": "Press organizations and some senators publicly objected; no formal disciplinary or corrective action followed within the executive branch.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk83_character_ex01",
+            "week": 83,
+            "event_ids": [
+              "wk83_PA_006"
+            ],
+            "developments": [
+              {
+                "development_id": "wk83_PA_006",
+                "development_label": "White House posted personal attacks on a CNN reporter, including references to her children.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Official government communication channels were used to intimidate a journalist and her family over a routine question.",
+            "why_exemplary": "Verified reporting shows state power turned toward personal intimidation of press rather than substantive engagement, chilling scrutiny.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk83_character_ex02",
+            "week": 83,
+            "event_ids": [
+              "wk83_PA_009",
+              "wk83_PA_003"
+            ],
+            "developments": [
+              {
+                "development_id": "wk83_PA_009",
+                "development_label": "Trump organized a high-speed car race on Washington streets requiring city infrastructure changes.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk83_PA_003",
+                "development_label": "Trump proposed adding golden seals to the White House grounds.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The president devoted significant public resources and attention to personal spectacle and self-glorifying White House alterations.",
+            "why_exemplary": "Corroborated reporting documents use of public office and infrastructure for personal entertainment and vanity rather than public duty.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "The president threatened to bomb an allied nation, claimed intent to annex the Strait of Hormuz, unilaterally cut military exercises with South Korea based on personal rapport with an adversary's leader, and threatened a $5 billion lawsuit against a nonpartisan think tank over a factual report.",
+        "severity": "serious",
+        "institutional_response": "Allied governments and bipartisan critics objected; no domestic institutional check constrained the rhetoric or the exercise cuts this week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk83_restraint_ex01",
+            "week": 83,
+            "event_ids": [
+              "wk83_PA_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk83_PA_004",
+                "development_label": "Trump threatened to bomb Oman and claimed intent to annex the Strait of Hormuz.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The president combined threats of military force against an ally with a territorial annexation claim, without institutional check.",
+            "why_exemplary": "Multi-source corroborated reporting documents unrestrained use of war-making rhetoric against a longstanding partner nation.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk83_restraint_ex02",
+            "week": 83,
+            "event_ids": [
+              "wk83_PA_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk83_PA_005",
+                "development_label": "Trump ordered reduced joint military exercises with South Korea citing personal rapport with Kim Jong Un.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A 73-year military alliance was scaled back unilaterally based on personal relationship rather than institutional strategic judgment.",
+            "why_exemplary": "Extensively corroborated tier-one reporting shows a major security decision made on personal rather than institutional grounds, drawing bipartisan concern over weakened deterrence.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Treasury's FinCEN destroyed the congressionally mandated beneficial-ownership registry and its data, the Pentagon fired independent military journalists for accurate reporting, and CDC scaled back foodborne illness surveillance from eight pathogens to two, degrading durable institutional capacity.",
+        "severity": "serious",
+        "institutional_response": "No reversal occurred within the week; the actions represent unilateral executive dismantling of oversight and public health infrastructure.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk83_stewardship_ex01",
+            "week": 83,
+            "event_ids": [
+              "wk83_IG_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk83_IG_001",
+                "development_label": "FinCEN terminated the beneficial-ownership registry and destroyed all collected data.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Treasury dismantled a bipartisan anti-money-laundering tool enacted over presidential veto and destroyed years of collected data.",
+            "why_exemplary": "Verified reporting documents an irreversible act eliminating oversight capacity that took years to build and cannot be easily restored.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk83_stewardship_ex02",
+            "week": 83,
+            "event_ids": [
+              "wk83_IM_018"
+            ],
+            "developments": [
+              {
+                "development_id": "wk83_IM_018",
+                "development_label": "Pentagon fired the publisher, editor, and a reporter of Stars and Stripes for insubordination after coverage of USS Abraham Lincoln conditions.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Military leadership terminated journalists at an independent publication for reporting accurately on troop conditions.",
+            "why_exemplary": "Extensively corroborated tier-one reporting shows direct retaliation against a press institution whose independence from command has long been valued.",
+            "exemplar_type": "primary"
+          }
+        ]
+      }
+    ],
+    "norms_strengthened": [
+      {
+        "trait": "good_faith",
+        "pattern": "Multiple federal courts issued rulings constraining executive overreach: vacating unlawful fund reprogramming for FBI headquarters relocation, blocking DEI-conditioned disaster grants, halting a mass driver's-license data transfer, and upholding limits on immigration enforcement at houses of worship.",
+        "scope": "institutional",
+        "why_it_matters": "Consistent judicial willingness to check executive action on separation-of-powers and statutory grounds preserves a functioning constraint even amid broader erosion elsewhere.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk83_good_faith_strength_ex01",
+            "week": 83,
+            "event_ids": [
+              "wk83_IG_007"
+            ],
+            "developments": [
+              {
+                "development_id": "wk83_IG_007",
+                "development_label": "Judge Chuang vacated FBI/GSA's reprogramming of $555 million for the Reagan Building relocation as unlawful.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A federal court found agencies exceeded appropriations authority in redirecting funds for FBI headquarters relocation.",
+            "why_exemplary": "Verified ruling reinforces congressional control over federal spending against unilateral executive reallocation.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk83_good_faith_strength_ex02",
+            "week": 83,
+            "event_ids": [
+              "wk83_IG_011",
+              "wk83_IG_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk83_IG_011",
+                "development_label": "Judge McShane blocked DHS/FEMA from imposing DEI-related conditions on disaster-relief grants to Salem.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk83_IG_012",
+                "development_label": "Judge Trenga blocked transfer of 17 million driver's license records to federal custody.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Two federal judges separately blocked executive conditioning of emergency funds and a mass state data transfer as likely unlawful.",
+            "why_exemplary": "Verified rulings from different courts on unrelated matters both reinforce statutory and constitutional limits on executive reach into state and local authority.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "Congress introduced legislation directly responding to a documented presidential family conflict of interest, seeking to bar future self-dealing in banking.",
+        "scope": "institutional",
+        "why_it_matters": "Legislative response to a specific, documented conflict signals that self-dealing has not become entirely normalized or unopposed within the formal process.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk83_ethics_strength_ex01",
+            "week": 83,
+            "event_ids": [
+              "wk83_IG_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk83_IG_004",
+                "development_label": "Senator Warren and colleagues introduced legislation barring presidents and senior officials from owning or controlling a bank.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A bipartisan-adjacent group of senators moved to legally prohibit the kind of self-dealing exposed by the World Liberty Financial charter.",
+            "why_exemplary": "Shows a direct legislative countermeasure to a specific documented conflict of interest, even though passage remains uncertain.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "DHS was forced to publicly retract a sweeping claim of nearly 16,000 noncitizen voters in Nevada down to a confirmed 185 after election officials demanded evidence.",
+        "scope": "public",
+        "why_it_matters": "Public pressure for evidence compelled correction of an inflated claim used to justify federal election intervention, demonstrating that unsupported assertions can still be challenged and rolled back.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk83_truthfulness_strength_ex01",
+            "week": 83,
+            "event_ids": [
+              "wk83_CR_007"
+            ],
+            "developments": [
+              {
+                "development_id": "wk83_CR_007",
+                "development_label": "DHS downgraded its claim of thousands of non-citizen voters in Nevada to 185 after officials pressed for evidence.",
+                "role": "primary"
+              }
+            ],
+            "summary": "DHS retreated from an inflated fraud claim after election officials demanded supporting evidence, exposing the claim's weak basis.",
+            "why_exemplary": "Demonstrates that sustained scrutiny from state officials can force correction of exaggerated federal claims underlying election-related interventions.",
+            "exemplar_type": "primary"
+          }
+        ]
+      }
+    ],
+    "direction_of_movement": "eroding"
+  },
+  "cumulative_condition": {
+    "narrative": "Week 83 continues and deepens the trajectory described in the prior summary. The Attorney General's public refusal to promise Justice Department independence functioned as this week's structural marker, playing the same role that the confirmation of a personally conflicted Attorney General played in Week 82: an admission that quickly manifested as operational conduct, this time through continued pursuit of cases against Ábrego García and Comey that carry strong indicia of retaliation. The self-dealing flagged in Week 82's $2.2 billion enrichment figure gained a fresh and especially stark instance in the OCC's approval of a bank charter for the president's own family crypto venture, showing that regulatory capture for personal benefit has become a recurring rather than singular event.\n\nThe press-freedom erosion visible in prior weeks escalated this week from pressure and threats to direct termination: the Pentagon's firing of Stars and Stripes' editorial leadership for accurate reporting represents a harder form of retaliation than the licensing threats and lawsuits seen previously, though those continued as well through the ABC/Disney suit and the think tank lawsuit threat. Treasury's destruction of the beneficial-ownership registry data marks a new category of harm: not merely resisting oversight but permanently destroying an oversight tool and its underlying data, a stewardship loss that cannot be undone by a future administration's policy reversal alone.\n\nCountervailing institutional resistance remained real and, in some respects, more active than in Week 82: multiple federal courts issued substantive rulings against executive overreach on funding, data transfers, and conditioned grants, and DHS's retraction of its inflated Nevada fraud claim shows that evidentiary pressure can still force correction. But as in prior weeks, none of this resistance reversed the underlying self-dealing, retaliatory prosecutions, or destruction of institutional capacity; it merely contained some of the collateral damage. The moral floor remains under severe, structural strain, with the pattern of harms becoming more permanent (data destruction, journalist firings) even as the volume of judicial pushback holds roughly steady.",
+    "trend": "deteriorating",
+    "stress_points": [
+      "attorney general's refusal to pledge independence followed by retaliatory-pattern prosecutions",
+      "regulatory approval of a bank charter benefiting the president's family",
+      "destruction of a congressionally mandated financial transparency registry and its data",
+      "termination of independent military journalists for accurate reporting",
+      "unrestrained presidential war-making and annexation rhetoric against an ally",
+      "mass due-process failures in immigration courts and third-country deportations"
+    ],
+    "sources_of_resilience": [
+      "federal courts blocking unlawful fund reprogramming and conditioned grants",
+      "federal courts halting mass state data transfers",
+      "congressional legislative response to presidential family self-dealing",
+      "state election officials forcing retraction of inflated fraud claims",
+      "a major broadcaster's lawsuit challenging licensing retaliation",
+      "continued congressional oversight pressure in the Epstein investigation"
+    ]
+  },
+  "risk_assessment": {
+    "level": "severe",
+    "justification": "The moral floor remains severely stressed, with this week adding harms that are structurally more difficult to reverse than prior weeks' violations: destroyed registry data, terminated journalists, and an operational bank charter for the president's family cannot simply be undone by subsequent policy change. The Attorney General's explicit refusal to pledge independence, followed within days by continued retaliatory-pattern prosecutions, confirms rather than merely suggests a compromised Justice Department. Countervailing judicial and legislative action remained substantively present—multiple courts blocked executive overreach, and Congress moved to legislate against banking self-dealing—but as in the prior week, this resistance was reactive and could not undo the underlying conduct it addressed.",
+    "forward_signals": [
+      "whether the World Liberty Financial bank charter proceeds to final approval",
+      "outcome of DOJ's appeal to reinstate charges against Ábrego García",
+      "whether the Supreme Court rules on the ballroom construction case and its separation-of-powers implications",
+      "progress of the ABC/Disney FCC lawsuit and any further retaliation against broadcasters",
+      "whether Warren's anti-self-dealing banking legislation advances in Congress",
+      "consequences, if any, for FinCEN's destruction of the beneficial-ownership registry data"
+    ]
+  }
+}

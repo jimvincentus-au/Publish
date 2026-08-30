@@ -1,11 +1,11 @@
 {
   "week_number": 38,
-  "period_label": "Week 38 – 2025-10-04–2025-10-10",
+  "period_label": "Week 38",
   "window": {
     "start": "2025-10-04",
     "end": "2025-10-10"
   },
-  "clock_time_public": "8:08 p.m.",
+  "clock_time_public": "7:42 p.m.",
   "clock_delta_minutes": 0.1,
   "baseline_traits": [
     {
@@ -34,159 +34,259 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week saw a continuation of serious breaches across multiple moral floor traits, reflecting a deepening normalization of authoritarian practices and the use of state power for partisan ends, despite some institutional pushback.",
+    "summary": "Week 38 shows consolidation and escalation of patterns already present in prior weeks rather than a discrete new breach. Verified events demonstrate coordinated use of unelected aides directing military and prosecutorial power, defiance of court orders through jurisdictional workarounds, prosecutorial retaliation against a political opponent, and a systematic information campaign labeling dissent as terrorism. Institutional resistance persisted through courts, a handful of prosecutors, and one cross-partisan governor, but each intervention was met with a search for an alternate route around it rather than acceptance of the limit imposed.",
     "norms_broken": [
       {
-        "trait": "character",
-        "pattern": "Executive actions prioritized political interests over public duty, particularly through punitive measures against dissent.",
-        "severity": "serious",
-        "institutional_response": "Limited pushback from courts and Congress, indicating a lack of effective oversight.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk38_character_ex01",
-            "week": 38,
-            "event_ids": [
-              "wk38_PA_003",
-              "wk38_PA_005"
-            ],
-            "developments": [
-              {
-                "development_id": "wk38_PA_003",
-                "development_label": "Called for the removal of New York Attorney General Letitia James on social media.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk38_PA_005",
-                "development_label": "Publicly supported continuing the federal government shutdown to force cuts to Democratic programs.",
-                "role": "secondary"
-              }
-            ],
-            "summary": "The administration's actions exemplified a shift towards using state power for personal political gain.",
-            "why_exemplary": "These actions illustrated a disregard for the integrity of public institutions, undermining democratic norms.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "ethics",
-        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the use of executive power to punish dissenting institutions and individuals.",
-        "severity": "serious",
-        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk38_ethics_ex01",
-            "week": 38,
-            "event_ids": [
-              "wk38_PA_006",
-              "wk38_IG_017"
-            ],
-            "developments": [
-              {
-                "development_id": "wk38_PA_006",
-                "development_label": "Called for the arrest of the Chicago mayor and Illinois governor over immigration enforcement disputes.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk38_IG_017",
-                "development_label": "Indicted New York Attorney General Letitia James on bank fraud and false-statement charges.",
-                "role": "secondary"
-              }
-            ],
-            "summary": "The administration's actions exemplified a disregard for ethical boundaries.",
-            "why_exemplary": "These actions demonstrated a willingness to use public resources as tools for political leverage and personal gain.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
         "trait": "restraint",
-        "pattern": "The administration's aggressive use of executive orders and punitive measures against dissenting voices showed a lack of self-limitation.",
-        "severity": "serious",
-        "institutional_response": "Limited checks from Congress or courts, indicating a weakening of institutional norms.",
+        "pattern": "Executive actors repeatedly tested and then circumvented judicial limits on domestic military deployment, substituting out-of-state Guard troops after courts blocked in-state deployment, and floating Insurrection Act invocation alongside claims of plenary presidential authority over the military at home.",
+        "severity": "extreme",
+        "institutional_response": "Federal judges in Oregon and Illinois issued and broadened injunctions; the administration responded by rerouting deployments through California and Texas Guard units rather than complying with the spirit of the rulings.",
         "exemplars": [
           {
             "exemplar_id": "wk38_restraint_ex01",
             "week": 38,
             "event_ids": [
               "wk38_PA_004",
-              "wk38_PA_007"
+              "wk38_PA_010"
             ],
             "developments": [
               {
                 "development_id": "wk38_PA_004",
-                "development_label": "Ordered deployment of Illinois National Guard troops to protect federal facilities.",
+                "development_label": "Authorized deployment of Illinois and Texas National Guard troops to Chicago over gubernatorial objection",
                 "role": "primary"
               },
               {
-                "development_id": "wk38_PA_007",
-                "development_label": "Discussed invoking the Insurrection Act to deploy troops domestically.",
+                "development_id": "wk38_PA_010",
+                "development_label": "Deployed California Guard troops to Portland after Oregon deployment was blocked by court order",
                 "role": "secondary"
               }
             ],
-            "summary": "The use of executive power to bypass legislative negotiations exemplified a lack of restraint.",
-            "why_exemplary": "These actions illustrated a disregard for the limits of executive authority and the need for checks on power.",
+            "summary": "After courts blocked in-state deployments, the administration substituted troops from other states to achieve the same result.",
+            "why_exemplary": "Directly illustrates refusal to accept judicial limits, treating court orders as obstacles to route around rather than binding constraints on executive force.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk38_restraint_ex02",
+            "week": 38,
+            "event_ids": [
+              "wk38_PA_016",
+              "wk38_PA_014"
+            ],
+            "developments": [
+              {
+                "development_id": "wk38_PA_016",
+                "development_label": "Senior aide claimed the president has plenary, unchecked authority to use the military domestically",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk38_PA_014",
+                "development_label": "Officials discussed invoking the Insurrection Act to deploy military domestically",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Senior officials asserted unlimited domestic military authority and discussed invoking extraordinary emergency powers against protest activity.",
+            "why_exemplary": "Represents an explicit rejection of the constitutional premise that domestic force is bounded and exceptional, not a routine executive tool.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
-        "trait": "truthfulness",
-        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding dissent and national security.",
-        "severity": "serious",
-        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
+        "trait": "ethics",
+        "pattern": "Regulatory and financial decisions continued to intersect with donor and personal benefit, including an Alaska mining approval paired with a federal equity stake benefiting a major donor and a currency intervention timed near foreign elections.",
+        "severity": "concerning",
+        "institutional_response": "No enforcement action is recorded in the digest; the pattern was reported but not checked.",
         "exemplars": [
           {
-            "exemplar_id": "wk38_truthfulness_ex01",
+            "exemplar_id": "wk38_ethics_ex01",
             "week": 38,
             "event_ids": [
-              "wk38_IM_010",
-              "wk38_IM_017"
+              "wk38_PA_012",
+              "wk38_ES_004"
             ],
             "developments": [
               {
-                "development_id": "wk38_IM_010",
-                "development_label": "Framed the planned 'No Kings' protest as pro-Hamas and anti-American.",
+                "development_id": "wk38_PA_012",
+                "development_label": "Approved Ambler Road mining project benefiting major donor John Paulson",
                 "role": "primary"
               },
               {
-                "development_id": "wk38_IM_017",
-                "development_label": "Used a cabinet meeting to repeat false claims about a rigged 2016 election.",
+                "development_id": "wk38_ES_004",
+                "development_label": "Purchased 10% equity stake in Trilogy Metals following the approval, enriching the same donor",
                 "role": "secondary"
               }
             ],
-            "summary": "The normalization of false claims about public health and migration exemplified a significant erosion of truthfulness.",
-            "why_exemplary": "These actions embedded disinformation at the center of governance, undermining trust in governmental processes.",
+            "summary": "A regulatory reversal and a subsequent federal equity purchase combined to enrich a major political donor without competitive process.",
+            "why_exemplary": "Illustrates the direct fusion of public regulatory power and donor enrichment that the ethics trait is meant to prevent.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
         "trait": "good_faith",
-        "pattern": "The administration's actions undermined the spirit of democratic rules, particularly in election processes and judicial independence.",
-        "severity": "serious",
-        "institutional_response": "Limited institutional resistance, with some courts attempting to uphold democratic norms.",
+        "pattern": "Prosecutorial power was redirected against a political rival after career prosecutors declined to proceed for lack of evidence, with loyalist replacements installed and an indictment personally secured against the same official who had earlier obtained a judgment against the president.",
+        "severity": "extreme",
+        "institutional_response": "One career prosecutor resisted and declined the case; she and colleagues were removed and replaced by a loyalist who then obtained the indictment. A 282-signatory former-DOJ letter warned of systemic politicization.",
         "exemplars": [
           {
             "exemplar_id": "wk38_good_faith_ex01",
             "week": 38,
             "event_ids": [
-              "wk38_IM_007",
-              "wk38_CR_018"
+              "wk38_IG_007",
+              "wk38_IG_019"
             ],
             "developments": [
               {
-                "development_id": "wk38_IM_007",
-                "development_label": "Called for jailing Illinois Governor Pritzker and Chicago Mayor Johnson on social media.",
+                "development_id": "wk38_IG_007",
+                "development_label": "Fired career prosecutors who declined to pursue Trump's rivals",
                 "role": "primary"
               },
               {
-                "development_id": "wk38_CR_018",
-                "development_label": "Labeled upcoming 'No Kings' protests as terrorism and anti-American.",
+                "development_id": "wk38_IG_019",
+                "development_label": "Trump-installed prosecutor personally secured an indictment of Letitia James after career staff declined",
+                "role": "primary"
+              }
+            ],
+            "summary": "Career prosecutors who found no probable cause were replaced by a loyalist who then personally obtained an indictment of a political adversary.",
+            "why_exemplary": "Directly defeats the purpose of prosecutorial independence, using formal charging power to punish a rival rather than to enforce law neutrally.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk38_good_faith_ex02",
+            "week": 38,
+            "event_ids": [
+              "wk38_IG_022",
+              "wk38_IG_021"
+            ],
+            "developments": [
+              {
+                "development_id": "wk38_IG_022",
+                "development_label": "Removed US Attorney Erik Siebert for declining to prosecute Trump's rivals",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk38_IG_021",
+                "development_label": "Coordinated criminal referrals made against multiple Trump rivals including James, Schiff, and Cook",
                 "role": "secondary"
               }
             ],
-            "summary": "Judicial decisions limiting executive overreach exemplified a breach of good faith in democratic processes.",
-            "why_exemplary": "These actions demonstrated a willingness to manipulate legal frameworks for partisan advantage, undermining the integrity of democratic institutions.",
+            "summary": "A second career prosecutor was removed for resisting political prosecution while coordinated referrals targeted several administration opponents at once.",
+            "why_exemplary": "Shows a systematic rather than isolated pattern of subordinating prosecutorial judgment to loyalty tests across multiple offices.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "Official communications sustained a coordinated narrative describing protests and dissent as domestic terrorism or insurrection, using misleading footage, fabricated imagery, and false claims of nightly combat to justify force and deployment.",
+        "severity": "serious",
+        "institutional_response": "Some outlets and courts pushed back on specific claims; no internal correction mechanism within the executive is recorded.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk38_truthfulness_ex01",
+            "week": 38,
+            "event_ids": [
+              "wk38_IM_018",
+              "wk38_IM_014"
+            ],
+            "developments": [
+              {
+                "development_id": "wk38_IM_018",
+                "development_label": "White House held an antifa roundtable and issued a release calling Portland 'Antifa-led hellfire' contradicted by agents' own assessments",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk38_IM_014",
+                "development_label": "Senior official made false claims of nightly combat the same day a judge's home was targeted by arson",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Government messaging portrayed peaceful-city unrest as organized terrorism, contradicted by internal threat assessments, on the day a judge's home was attacked.",
+            "why_exemplary": "Demonstrates manufactured unreality deployed at the exact moment when accurate information about threat levels was most necessary for public safety.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk38_truthfulness_ex02",
+            "week": 38,
+            "event_ids": [
+              "wk38_IM_021",
+              "wk38_IM_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk38_IM_021",
+                "development_label": "White House posted misleading video implying Florida footage depicted Chicago ICE arrests",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk38_IM_004",
+                "development_label": "Cabinet secretary posted misleading video of a Chicago ICE raid misrepresenting the actual event",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Official accounts circulated misattributed and misleading footage of enforcement operations to shape public perception.",
+            "why_exemplary": "Shows repeated, deliberate use of falsified visual evidence from government channels rather than isolated misstatement.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Congress was used as a choke point rather than a deliberative body: the Speaker canceled a fourth consecutive session week, delayed a duly elected member's swearing-in tied to a pending discharge petition, and the Attorney General stonewalled oversight questioning.",
+        "severity": "serious",
+        "institutional_response": "Democratic members and outside groups protested; no internal enforcement compelled compliance during the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk38_good_faith_ex03",
+            "week": 38,
+            "event_ids": [
+              "wk38_IG_024",
+              "wk38_IG_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk38_IG_024",
+                "development_label": "Canceled fourth consecutive week of House session, delaying budget action and Grijalva's swearing-in",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk38_IG_001",
+                "development_label": "Delayed swearing-in of newly elected Representative Adelita Grijalva tied to Epstein-files discharge petition",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Extended cancellation of House sessions withheld a duly elected member's seating and blocked a near-complete discharge petition.",
+            "why_exemplary": "Represents use of procedural control to defeat representation itself, the clearest form of good-faith failure in a legislative body.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Federal capacity was degraded through shutdown-driven layoffs, elimination of CDC oversight offices, and reassignment of nearly half of FBI field-office agents to immigration enforcement, weakening core institutional missions.",
+        "severity": "serious",
+        "institutional_response": "Unions filed for emergency restraining orders against the layoffs; no restoration of the eliminated oversight functions is recorded.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk38_stewardship_ex01",
+            "week": 38,
+            "event_ids": [
+              "wk38_ES_014",
+              "wk38_ES_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk38_ES_014",
+                "development_label": "Eliminated CDC ethics office, institutional review board, library, and policy office during shutdown layoffs",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk38_ES_011",
+                "development_label": "Reassigned nearly half of FBI agents in major field offices to immigration enforcement",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Shutdown-linked layoffs removed internal oversight bodies at a health agency while immigration enforcement absorbed FBI capacity from other missions.",
+            "why_exemplary": "Shows institutional capacity treated as expendable leverage in a political standoff rather than protected as a public trust for future use.",
             "exemplar_type": "primary"
           }
         ]
@@ -194,61 +294,119 @@
     ],
     "norms_strengthened": [
       {
-        "trait": "stewardship",
-        "pattern": "State-level actions aimed at protecting social welfare and civil rights showed some resilience against federal inaction.",
-        "scope": "institutional",
-        "why_it_matters": "These actions reflect a commitment to maintaining public goods and services despite federal neglect.",
+        "trait": "good_faith",
+        "pattern": "A career federal prosecutor declined to pursue a politically directed case against Letitia James for lack of probable cause despite direct presidential pressure, and courts continued to check contested prosecutions and deployments through active rulings.",
+        "scope": "individual",
+        "why_it_matters": "Individual acts of resistance inside the executive branch demonstrate that professional norms can still hold even under direct political pressure, which is essential if internal safeguards are to have any future credibility.",
         "exemplars": [
           {
-            "exemplar_id": "wk38_stewardship_ex01",
+            "exemplar_id": "wk38_good_faith_ex04",
             "week": 38,
             "event_ids": [
-              "wk38_IG_003",
-              "wk38_IG_004"
+              "wk38_IG_006"
             ],
             "developments": [
               {
-                "development_id": "wk38_IG_003",
-                "development_label": "Ordered state agencies to evaluate treatment of children during a federal immigration raid.",
+                "development_id": "wk38_IG_006",
+                "development_label": "Career prosecutor Elizabeth Yusi resisted pressure to file mortgage fraud charges against Letitia James, finding no probable cause",
+                "role": "primary"
+              }
+            ],
+            "summary": "A career federal prosecutor declined to bring politically directed charges despite presidential pressure, citing lack of probable cause.",
+            "why_exemplary": "Demonstrates that individual professional integrity can resist direct political pressure, even though she was subsequently sidelined.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "Federal courts in Oregon and Illinois blocked and broadened injunctions against domestic National Guard deployments, and a federal judge restricted use of force against journalists, reasserting limits on executive military and enforcement power.",
+        "scope": "institutional",
+        "why_it_matters": "Continued judicial willingness to check contested deployments preserves the principle that domestic force remains subject to legal limits even amid sustained pressure to expand it.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk38_restraint_ex03",
+            "week": 38,
+            "event_ids": [
+              "wk38_IG_002",
+              "wk38_IG_015"
+            ],
+            "developments": [
+              {
+                "development_id": "wk38_IG_002",
+                "development_label": "Judge Karin Immergut blocked federalized National Guard deployment to Portland, finding administration justification untethered to facts",
                 "role": "primary"
               },
               {
-                "development_id": "wk38_IG_004",
-                "development_label": "Issued a temporary restraining order blocking ICE from automatically detaining immigrant youths as adults at 18.",
+                "development_id": "wk38_IG_015",
+                "development_label": "Judge April Perry issued a temporary restraining order blocking federalized National Guard deployment in Chicago",
                 "role": "secondary"
               }
             ],
-            "summary": "State actions to protect democratic integrity reflect a commitment to stewardship.",
-            "why_exemplary": "These initiatives demonstrate a proactive approach to governance that prioritizes public welfare over political expediency.",
+            "summary": "Federal judges in two states blocked National Guard deployments after finding no credible factual basis for the claimed emergency.",
+            "why_exemplary": "Shows judicial review functioning as intended, directly rejecting executive factual claims used to justify domestic force.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "A Republican governor broke from partisan alignment to publicly criticize federal National Guard deployment to a Democratic-led state, warning of precedent that could be used against any state regardless of party.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Cross-partisan objection to expanding federal military power signals that some norm boundaries are still recognized independent of partisan advantage, a necessary condition for restoring shared limits.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk38_character_ex01",
+            "week": 38,
+            "event_ids": [
+              "wk38_IG_017"
+            ],
+            "developments": [
+              {
+                "development_id": "wk38_IG_017",
+                "development_label": "Kevin Stitt became the first Republican governor to publicly criticize federal National Guard deployment to Illinois",
+                "role": "primary"
+              }
+            ],
+            "summary": "A Republican governor publicly warned that unchecked federal deployment could be turned against any state regardless of party.",
+            "why_exemplary": "Represents rare cross-partisan acknowledgment that domestic force norms protect all states equally, not just the party out of power.",
             "exemplar_type": "primary"
           }
         ]
       }
     ],
-    "direction_of_movement": "collapsing"
+    "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "Week 38 continues the trend of significant erosion of the moral floor, with executive actions increasingly prioritizing political interests over adherence to democratic norms. The administration's consolidation of power and punitive measures against dissenting voices deepen concerns about the integrity of public institutions. While there are pockets of resistance, such as judicial interventions and state-level initiatives, they are insufficient to counterbalance the overall trend of deterioration. The trajectory indicates a worsening crisis in democratic accountability and civil rights protections, raising serious concerns about the future of governance in the current political climate.",
+    "narrative": "Week 38 confirms and deepens the trajectory described at the close of Week 37. The prior summary identified a republic where shutdown leverage, domestic force claims, and official disinformation were becoming integrated features of governance rather than isolated abuses, with resistance increasingly dependent on courts, states, and unions rather than internal restraint. This week shows that pattern maturing into an explicit method: court orders on troop deployment were met not with compliance but with jurisdictional substitution: California and Texas Guard units replacing blocked in-state forces. Prosecutorial independence, already strained, was directly overridden through the removal of two career prosecutors and the personal securing of an indictment against a sitting state official who had previously won a judgment against the president.\n\nThe information environment also hardened. Where Week 37 showed disinformation used to assign shutdown blame, Week 38 shows a fuller campaign labeling protest and dissent as terrorism and insurrection, sustained through fabricated imagery, misattributed footage, and rhetoric from senior aides that a judge's ruling constituted 'legal insurrection.' This rhetorical infrastructure did not merely follow enforcement actions; it appears to have been built to justify further ones, including serious internal discussion of invoking the Insurrection Act.\n\nSources of resilience persisted but remained narrower than the pressure against them: two courts blocked deployments on factual grounds, one career prosecutor held her line, and a single Republican governor broke ranks. Congress, however, moved further from a check into an instrument of obstruction, with a discharge petition on Epstein files left one signature short by a Speaker's fourth consecutive session cancellation. The overall trajectory remains one of erosion rather than collapse: written rulings still bind for now, but each is treated by the executive center as a problem to route around rather than a limit to respect.",
     "trend": "deteriorating",
     "stress_points": [
-      "centralization of executive power",
-      "disinformation as a governance tool",
-      "erosion of civil rights protections",
-      "politicization of the civil service"
+      "circumvention of court orders through jurisdictional workarounds in troop deployment",
+      "removal of career prosecutors who declined politically directed cases",
+      "coordinated disinformation campaign framing dissent as domestic terrorism",
+      "congressional session cancellations blocking representation and oversight",
+      "donor-benefiting regulatory and financial decisions",
+      "degradation of institutional oversight capacity through shutdown-linked layoffs"
     ],
     "sources_of_resilience": [
-      "judicial pushback against executive orders",
-      "civil society mobilization against abuses",
-      "state-level legal challenges"
+      "federal judges blocking deployments on factual grounds in Oregon and Illinois",
+      "individual prosecutorial integrity resisting political pressure",
+      "cross-partisan gubernatorial criticism of federal overreach",
+      "union litigation against shutdown-related layoffs",
+      "judicial protection of journalists from federal force",
+      "former DOJ officials publicly warning of systemic politicization"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
+    "level": "severe",
+    "justification": "Risk remains severe rather than critical because courts, a small number of individual officials, and cross-partisan actors continue to impose real friction on executive overreach, and none of this week's verified events shows a court order being outright defied rather than routed around. However, the pattern of substituting out-of-state troops after deployments are blocked, removing prosecutors who decline politically directed charges, and sustaining a coordinated narrative labeling dissent as terrorism together indicate that restraint, good faith, and truthfulness are being treated as negotiable rather than binding. The simultaneous discussion of Insurrection Act invocation and claims of plenary domestic military authority raise the stakes of any single further escalation.\n\nThe severity assessment reflects that resistance, while real, is narrow and reactive: it depends on individual prosecutors holding their ground, on specific judges finding facts unsupported, and on litigation filed after harm has already begun. None of these are self-sustaining without continued external pressure, and each has already been met with an attempted workaround this week.",
     "forward_signals": [
-      "increased executive orders bypassing legislative input",
-      "escalation of disinformation campaigns",
-      "further attempts to undermine civil rights protections"
+      "whether Insurrection Act invocation moves from discussion to formal action",
+      "whether additional career prosecutors are removed for declining politically directed cases",
+      "whether appellate courts uphold or reverse the Oregon and Illinois troop-deployment injunctions",
+      "whether the Grijalva swearing-in and Epstein-files discharge petition proceed or are further delayed",
+      "whether the antifa/terrorism narrative is used to justify expanded investigations of nonprofits or protest organizers",
+      "whether donor-benefiting regulatory decisions draw formal ethics scrutiny"
     ]
   }
 }

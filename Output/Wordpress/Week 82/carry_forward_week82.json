@@ -1,19 +1,19 @@
 {
-  "clock_after_minutes": 460.3,
-  "clock_before_minutes": 460.4,
+  "clock_after_minutes": 460.1,
+  "clock_before_minutes": 460.2,
   "clock_delta_minutes": -0.1,
-  "generated_at": "2026-08-16T06:15:51.626185+00:00",
+  "generated_at": "2026-08-23T10:04:48.809178+00:00",
   "provenance": {
     "mel": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Master Event Logs/master_index_week82_2026-08-08_2026-08-14.json",
     "mel_sha1": "0286575c5d7cd4f7872c614a89b1c971b66251d8",
     "prior": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Weeks/Week 81/carry_forward_week81.json",
-    "prior_sha1": "ee378d9d7661cfb90506ac4324fc4d913c3e18d9",
+    "prior_sha1": "d6bed9e2210e9d911f30d5bc39d0e13e263eb0b1",
     "trait_catalogue": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Programs/step3_trait_catalogue_v4.json",
     "trait_catalogue_sha1": "636ee63296eafb124942adf76cebfb6936d491e4"
   },
   "totals": {
     "difficulty_sum": 89.4,
-    "presence_sum": 370.9
+    "presence_sum": 370.7
   },
   "traits": [
     {
@@ -100,7 +100,7 @@
       },
       "difficulty": 1.6,
       "notes": "",
-      "presence": 6.8,
+      "presence": 6.6,
       "rationale": "Presence is 7.2 (elevated) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Money\u2011in\u2011politics, concentrated corporate power, and path\u2011dependent industrial policy remained. Antitrust revival and pro\u2011labor actions nudged risks down, but the fiscal\u2011regulatory chassis still advantaged capital. Difficulty 1.6 is highly sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "opposition_allowed_but_structurally_weakened",
       "trait_name": "Opposition parties are allowed but structurally weakened",
@@ -205,7 +205,7 @@
       },
       "difficulty": 1.7,
       "notes": "",
-      "presence": 5.3,
+      "presence": 5.4,
       "rationale": "Presence is 6.9 (elevated) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Civil liberties posture improved, with symmetrical enforcement and fewer retaliations. However, surveillance infrastructure and uneven state practices endured, keeping risks above pre\u20112017 levels. Difficulty 1.7 is highly sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement. Adjusted by decree and agreement to correct unrealistic baseline calibration.",
       "trait_id": "courts_rule_for_donors_and_elites",
       "trait_name": "Courts issue rulings aligned with donor or elite preference",
@@ -220,7 +220,7 @@
       },
       "difficulty": 1.7,
       "notes": "",
-      "presence": 7.0,
+      "presence": 7.1,
       "rationale": "Presence is 7.4 (elevated) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Money\u2011in\u2011politics, concentrated corporate power, and path\u2011dependent industrial policy remained. Antitrust revival and pro\u2011labor actions nudged risks down, but the fiscal\u2011regulatory chassis still advantaged capital. Difficulty 1.6 is highly sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "judicial_independence_eroded_by_politicized_appointments",
       "trait_name": "Judicial independence is eroded through politicized appointments",
@@ -265,7 +265,7 @@
       },
       "difficulty": 1.5,
       "notes": "",
-      "presence": 6.7,
+      "presence": 6.6,
       "rationale": "Presence is 6.8 (elevated) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Money\u2011in\u2011politics, concentrated corporate power, and path\u2011dependent industrial policy remained. Antitrust revival and pro\u2011labor actions nudged risks down, but the fiscal\u2011regulatory chassis still advantaged capital. Difficulty 1.5 is sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "anti_corruption_investigations_blocked_or_retaliated",
       "trait_name": "Investigations into corruption are blocked, buried, or retaliated against",
@@ -505,7 +505,7 @@
       },
       "difficulty": 1.0,
       "notes": "",
-      "presence": 5.0,
+      "presence": 4.9,
       "rationale": "Presence is 4.2 (low-to-moderate) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Institutional baselines improved (respect for oversight, apolitical DOJ posture), yet Court doctrine and structural incentives from the 2010s persisted. Week 0 weights these durable architectures over goodwill. Difficulty 1.0 is more reversible: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "financial_crimes_by_elites_unpunished_or_settled",
       "trait_name": "Financial crimes by elites are unpunished or quietly settled",
@@ -917,28 +917,29 @@
       "trait_number": 60
     }
   ],
-  "updated_at": "2026-08-16T06:15:51.626196+00:00",
+  "updated_at": "2026-08-23T10:04:48.809195+00:00",
   "week": 82,
   "weekly_analytic_brief": {
     "sensor": {
       "institutional_shifts": [
-        "The DOJ under newly confirmed AG Blanche shifted further toward serving presidential interests\u2014reviving dismissed prosecutions, deprioritizing sex-trafficking investigations in favor of immigration enforcement, and pursuing politically-charged arrests.",
-        "Courts provided mixed signals: the D.C. Circuit blocked unilateral ballroom construction and a federal judge dismissed the Harvard antisemitism suit, but the Kennedy Center board defied a court order on naming rights, testing judicial authority.",
-        "Congress remained largely sidelined on major issues (defense budget stalled, Pentagon excluded Democrats from briefings) while House Democrats began building minority-party oversight infrastructure for a possible 2027 majority.",
-        "State-level institutions showed divergent trajectories: North Carolina Republicans advanced a bill to let partisan justices remove elected judges, while California banned a toxic pesticide and Columbus restricted immigration-related surveillance data sharing."
+        "DOJ: Confirmation of Trump's former personal attorney as AG, combined with White House pressure to revive dropped prosecutions and a surveillance operation against left-leaning groups, marks a further erosion of prosecutorial independence.",
+        "Judiciary: Mixed record\u2014D.C. Circuit upheld a block on ballroom construction and a federal judge dismissed the Harvard antisemitism suit, while Trump petitioned the Supreme Court to override the ballroom ruling, testing judicial constraint on executive construction authority.",
+        "Executive branch: Vaccine policy, park funding diversions, and a Navy catapult-system directive show personal preference overriding scientific and technical expertise across agencies.",
+        "Congress: Bipartisan passage of a continuing resolution avoided a shutdown, but partisan exclusion of Democrats from classified defense briefings and a narrow AG confirmation vote reveal deepening dysfunction.",
+        "State/local level: North Carolina's judicial removal bill and Wisconsin/Minnesota primary results show competing pressures\u2014some states entrenching partisan judicial control while primary voters elsewhere rejected extremist candidates."
       ],
       "oddities_or_open_questions": [
-        "The bizarre 'catering truck' evacuation of Trump from Turkey, using press and Cabinet officials (including Secretary Rubio) as unwitting decoys while retaining indicted aide Walt Nauta, raises unresolved questions about chain-of-command priorities during a security incident.",
-        "Trump's executive order overriding Navy engineering judgment to revert aircraft carrier catapults to steam systems\u2014despite the EMALS contract being nearly 50% complete\u2014suggests personal fixation overriding institutional expertise at significant taxpayer cost.",
-        "The simultaneous rescission-yet-signing of a $1.776 billion 'anti-weaponization fund' by Acting AG Blanche, alongside demonstrably weaponized prosecutions, presents an unresolved contradiction meriting further investigation into DOJ's internal fiscal and legal machinery."
+        "The simultaneous existence of a 'anti-weaponization fund' at DOJ alongside documented DHS surveillance of left-wing groups ('Operation Puppet Master') presents a stark contradiction meriting further investigative follow-up.",
+        "Trump's decoy-plane departure from Turkey, prioritizing personal aides over the Secretary of State and press corps, raises unresolved questions about chain-of-command, security protocol integrity, and use of government assets for personal protection.",
+        "The CIA's 'low confidence' assessment of the Iran assassination threat, contrasted with the elaborate security operation undertaken, suggests possible manipulation of intelligence by an allied government (Israel) to influence U.S. decision-making\u2014worth tracking further."
       ],
-      "summary": "Week 82 marked a consolidation of executive control over law enforcement and public information alongside significant electoral pushback in midterm primaries. Todd Blanche's confirmation as Attorney General\u2014Trump's former personal lawyer\u2014cemented the politicization of DOJ leadership, immediately followed by White House pressure on prosecutors to revive dropped cases, a DHS surveillance operation targeting progressive organizations, and ICE's procurement of electric-shock gloves. Simultaneously, Trump monetized the presidency through a $100,000/month 'Truth API' subscription service, crypto ventures generating $1.4 billion in largely anonymous income, and a $927 million White House renovation funded by diverting park funds and bypassing Congress. Courts pushed back on some fronts (ballroom construction, Harvard lawsuit dismissal), while primary voters rejected several Trump-aligned or election-denying candidates (Lindell) but also delivered wins to progressive insurgents. Military dysfunction (weapons shortages, extended deployments, sailor mental health crises) and foreign policy incoherence (Iran negotiations, Netanyahu's rejection of Trump's peace plan) underscored declining institutional competence and credibility.",
+      "summary": "This week combined a major institutional consolidation with escalating security-state normalization and open self-dealing. The Senate's confirmation of Todd Blanche\u2014Trump's former personal lawyer\u2014as attorney general, followed swiftly by DOJ pressure to revive dropped prosecutions and reports of a $1.776 billion 'anti-weaponization fund,' signals accelerating capture of the Justice Department. Simultaneously, DHS/ICE announced procurement of electric-shock gloves and expanded surveillance operations (Operation Puppet Master) targeting progressive organizations, while the State Department revoked over 175,000 visas, including for political speech. Trump's monetization of the presidency reached new visibility: $2.2 billion in personal revenue, a $100,000/month 'Truth API' pay-for-access scheme (now facing lawsuits), a Qatar plane gift, and an IRS settlement granting personal tax immunity. Courts pushed back on some fronts (ballroom construction, Harvard lawsuit dismissal), and primary elections showed voter rejection of election deniers and Trump-endorsed candidates, offering a partial counterweight.",
       "top_themes": [
-        "Weaponization of federal law enforcement against critics and dissenters, exemplified by Blanche's DOJ leadership, SPLC-linked arrests, DHS's 'Operation Puppet Master' surveillance of progressive groups, and White House pressure to revive dismissed prosecutions.",
-        "Normalization of security-state tools against vulnerable populations, seen in ICE's shock-glove procurement, ankle monitoring of Haitian immigrants, and unsafe detention conditions, expanding coercive capacity with minimal oversight.",
-        "Systematic monetization of the presidency through crypto ventures, paid early access to official communications, foreign gifts, and diverted public funds for personal/vanity projects, blurring public office and private enrichment.",
-        "Erosion of factual governance through disinformation on economic data, military status, and vaccine science, paired with attacks on journalists, whistleblowers, and independent fact-checking institutions.",
-        "Electoral resilience amid authoritarian pressure: primary voters in multiple states rejected Trump-endorsed election deniers and produced competitive progressive challengers, showing continued vitality of democratic contestation despite executive overreach."
+        "Weaponization of the Justice Department: AG confirmation, prosecutorial pressure on dismissed cases, leak investigations, and surveillance of political dissidents converge into a coordinated pattern of law-as-tool rather than law-as-limit.",
+        "Monetization of the presidency: crypto income, a paid early-access API to presidential posts, foreign gifts, and a favorable IRS settlement show unprecedented conversion of executive office into personal profit streams.",
+        "Normalization of security-state tools against vulnerable populations: ICE shock gloves, ankle monitors for legally-present immigrants, and DHS's undercover infiltration of protest groups mark escalating coercive capacity with minimal oversight.",
+        "Erosion of factual governance: false claims about military control, employment data denial, vaccine misinformation via executive order, and AI-generated propaganda point to systemic detachment from verifiable reality in official communications.",
+        "Institutional friction and partial resistance: courts blocking the ballroom project, primary voters rejecting election deniers, and bipartisan Senate funding cooperation demonstrate that checks still function, though unevenly and under strain."
       ]
     }
   },

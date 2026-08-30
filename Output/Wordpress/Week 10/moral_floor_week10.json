@@ -1,12 +1,12 @@
 {
   "week_number": 10,
-  "period_label": "Week 10",
+  "period_label": "Week 10 – Mar 22–28 2025",
   "window": {
     "start": "2025-03-22",
     "end": "2025-03-28"
   },
-  "clock_time_public": "7:56 p.m.",
-  "clock_delta_minutes": 0.2,
+  "clock_time_public": "7:33 p.m.",
+  "clock_delta_minutes": 0.3,
   "baseline_traits": [
     {
       "name": "character",
@@ -18,7 +18,7 @@
     },
     {
       "name": "restraint",
-      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
     },
     {
       "name": "truthfulness",
@@ -34,78 +34,166 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week saw a continuation of authoritarian practices, with executive actions further undermining democratic norms and institutions, while courts and civil society made efforts to resist these trends, albeit with limited success.",
+    "summary": "Week 10 shows the moral floor under sustained, multi-front pressure rather than a single dramatic rupture. Executive orders punished law firms for representing disfavored clients, pardons were granted to a fraudster whose testimony served administration interests and to a major campaign donor, security clearances were stripped from named political opponents, and a new voting-restriction order was issued on a disputed factual premise. Judges, two law firms, fired FTC commissioners, and civil-society groups pushed back through litigation, and the Chief Justice's prior defense of judicial independence continued to resonate as Congress escalated threats against courts. The pattern is one of normalization: coercive tools used against law firms, universities, and states in Week 9 were refined and repeated this week, while new fronts opened in election administration, government record-keeping, and public health credibility.",
     "norms_broken": [
       {
-        "trait": "character",
-        "pattern": "Executive actions prioritized personal and political gain over public duty, particularly through mass deportations and attacks on judicial independence.",
-        "severity": "serious",
-        "institutional_response": "Courts issued some rulings to block actions, but overall institutional resistance was limited.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk10_character_ex01",
-            "week": 10,
-            "event_ids": [
-              "wk10_PA_002",
-              "wk10_PA_008"
-            ],
-            "developments": [
-              {
-                "development_id": "wk10_PA_002",
-                "development_label": "Withdrew an executive order targeting a law firm after concessions.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk10_PA_008",
-                "development_label": "Disavowed responsibility for invoking the Alien Enemies Act.",
-                "role": "primary"
-              }
-            ],
-            "summary": "The use of executive power to coerce private legal actors and avoid accountability illustrated a prioritization of personal interests.",
-            "why_exemplary": "These actions exemplified a shift towards personal rule, undermining the integrity of public institutions.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
         "trait": "ethics",
-        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the involvement of private actors in government functions.",
+        "pattern": "The president granted a pardon to a fraud convict who was a $2 million campaign donor and to Devon Archer, whose testimony had served administration political interests, while a company tied to a top adviser received expanded federal contracts and an SEC enforcement action against a crypto platform that had benefited the president's meme coin was dropped.",
         "severity": "serious",
-        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
+        "institutional_response": "Reported by multiple news outlets without formal ethics inquiry or disciplinary action within the week; no independent oversight body intervened.",
         "exemplars": [
           {
             "exemplar_id": "wk10_ethics_ex01",
             "week": 10,
             "event_ids": [
+              "wk10_PA_008"
+            ],
+            "developments": [
+              {
+                "development_id": "wk10_PA_008",
+                "development_label": "Clemency granted to fraud convicts including a $2 million campaign donor",
+                "role": "primary"
+              }
+            ],
+            "summary": "A major campaign donor convicted of fraud received clemency, raising questions about whether pardon power was exchanged for political money.",
+            "why_exemplary": "A multi-source-corroborated pardon directly tying personal financial benefit to the donor and raising a clear conflict-of-interest concern at the core of the ethics standard.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk10_ethics_ex02",
+            "week": 10,
+            "event_ids": [
+              "wk10_ES_004",
+              "wk10_ES_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk10_ES_004",
+                "development_label": "President promoted his personal meme coin ahead of a large token unlock",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk10_ES_005",
+                "development_label": "SEC dismissed a securities case against a platform that had promoted the coin",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The president promoted a personally owned financial asset while a federal regulator dropped an enforcement action against a platform benefiting that asset.",
+            "why_exemplary": "Illustrates the direct entanglement of presidential office with personal financial gain, compounded by an apparently favorable regulatory outcome for an aligned company.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "The administration issued punitive executive orders against four major law firms, stripped security clearances from sixteen named political opponents, moved to dismantle the Department of Education, FEMA, and USAID without congressional action, and stripped collective bargaining rights from federal workers across more than 30 agencies.",
+        "severity": "extreme",
+        "institutional_response": "Two law firms and fired commissioners sued; courts had not yet ruled definitively within the week, though litigation was underway.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk10_restraint_ex01",
+            "week": 10,
+            "event_ids": [
               "wk10_PA_001",
-              "wk10_PA_012"
+              "wk10_PA_003"
             ],
             "developments": [
               {
                 "development_id": "wk10_PA_001",
-                "development_label": "Abolished federal DEI programs.",
+                "development_label": "Executive orders targeted four major law firms for representing the president's opponents",
                 "role": "primary"
               },
               {
-                "development_id": "wk10_PA_012",
-                "development_label": "Targeted law firms for punitive actions based on political alignment.",
+                "development_id": "wk10_PA_003",
+                "development_label": "Security clearances revoked for sixteen named political opponents",
                 "role": "primary"
               }
             ],
-            "summary": "The elimination of DEI programs and targeting of law firms blurred the lines between public office and private interests.",
-            "why_exemplary": "These actions exemplified a disregard for ethical boundaries, prioritizing personal and political interests.",
+            "summary": "The presidency used executive orders and clearance revocations to punish law firms and named individuals for past opposition, without judicial process.",
+            "why_exemplary": "A tier1-verified, archive-grade use of executive power to retaliate against private actors and political opponents, directly testing self-limitation on the reach of presidential authority.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk10_restraint_ex02",
+            "week": 10,
+            "event_ids": [
+              "wk10_IG_010",
+              "wk10_IG_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk10_IG_010",
+                "development_label": "Executive order began dismantling the Department of Education",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk10_IG_012",
+                "development_label": "State Department notified Congress of full USAID shutdown by July 1",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Two congressionally created agencies were targeted for unilateral dissolution by executive action rather than legislation.",
+            "why_exemplary": "A tier1-verified structural move that tests whether the executive can eliminate agencies Congress created, without observing legislative process.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "DOGE conducted unauthorized Social Security data searches in apparent violation of a federal restraining order, and the agency appointed a former DOGE staffer as CIO one day after certifying compliance with a court order limiting DOGE access.",
+        "severity": "serious",
+        "institutional_response": "Courts continued to monitor compliance; a watchdog group sued separately over Signal record-keeping violations, but no contempt finding had yet occurred within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk10_good_faith_ex01",
+            "week": 10,
+            "event_ids": [
+              "wk10_IG_008",
+              "wk10_IG_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk10_IG_008",
+                "development_label": "DOGE conducted unauthorized data searches despite a federal restraining order",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk10_IG_009",
+                "development_label": "SSA appointed a former DOGE staffer as CIO the day after certifying court-order compliance",
+                "role": "primary"
+              }
+            ],
+            "summary": "A personnel move appeared designed to preserve DOGE's practical access to sensitive data despite a court order and a certification of compliance.",
+            "why_exemplary": "A tier1-verified sequence in which formal compliance with a court order was immediately followed by a structural workaround, defeating the order's evident purpose.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding immigration and judicial independence.",
-        "severity": "serious",
-        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
+        "pattern": "The president denied signing the Alien Enemies Act proclamation despite his own signature appearing in the Federal Register, and the Social Security Administration publicly denied field-office closures as \"fake news\" while quietly reversing the same closures it had announced.",
+        "severity": "concerning",
+        "institutional_response": "Media reporting documented the contradictions; no formal correction or retraction was issued by officials within the week.",
         "exemplars": [
           {
             "exemplar_id": "wk10_truthfulness_ex01",
+            "week": 10,
+            "event_ids": [
+              "wk10_PA_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk10_PA_004",
+                "development_label": "President denied signing the Alien Enemies Act proclamation despite his own signature in the Federal Register",
+                "role": "primary"
+              }
+            ],
+            "summary": "The president disclaimed authorship of a major deportation policy bearing his own documented signature.",
+            "why_exemplary": "A tier1-verified denial of a matter of public record, undermining accountability for who actually controls consequential executive action.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk10_truthfulness_ex02",
             "week": 10,
             "event_ids": [
               "wk10_IM_002",
@@ -114,79 +202,96 @@
             "developments": [
               {
                 "development_id": "wk10_IM_002",
-                "development_label": "Spread misleading information about vaccines.",
+                "development_label": "Officials denied classified information was shared on Signal, later contradicted by published transcripts",
                 "role": "primary"
               },
               {
                 "development_id": "wk10_IM_003",
-                "development_label": "Attacked major media outlets as corrupt.",
-                "role": "primary"
+                "development_label": "Officials attacked the journalist who exposed the breach rather than address it",
+                "role": "secondary"
               }
             ],
-            "summary": "The president's false claims about vaccines and media integrity spread disinformation and undermined trust.",
-            "why_exemplary": "These actions embedded disinformation at the center of governance, undermining trust in governmental processes.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "good_faith",
-        "pattern": "Executive orders undermined established legal frameworks and protections, particularly regarding immigration and civil rights.",
-        "severity": "serious",
-        "institutional_response": "Judicial challenges were initiated, but the executive's actions were largely unilateral.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk10_good_faith_ex01",
-            "week": 10,
-            "event_ids": [
-              "wk10_CR_017",
-              "wk10_CR_020"
-            ],
-            "developments": [
-              {
-                "development_id": "wk10_CR_017",
-                "development_label": "Attempted to deport protest participants.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk10_CR_020",
-                "development_label": "Threatened funding based on protest responses.",
-                "role": "primary"
-              }
-            ],
-            "summary": "The use of immigration tools against protesters politicized enforcement and undermined legal protections.",
-            "why_exemplary": "These actions disregarded established processes for justice, undermining the spirit of legal protections.",
-            "exemplar_type": "primary"
+            "summary": "Senior officials issued public denials about a security breach that were subsequently disproven, and redirected blame toward the journalist who exposed it.",
+            "why_exemplary": "A multi-source-corroborated case of official falsehood on a matter of significant public consequence, compounded by retaliatory deflection rather than correction.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "stewardship",
-        "pattern": "The dismantling of oversight mechanisms and the removal of independent media weakened institutional accountability.",
+        "pattern": "The administration moved to eliminate FEMA and USAID, cut 10,000-20,000 HHS jobs, terminated roughly 11,000 IRS employees with major projected revenue loss, canceled over $12 billion in public-health grants, and forced out the FDA's top vaccine regulator for refusing to endorse misinformation during an active measles outbreak.",
         "severity": "serious",
-        "institutional_response": "Limited pushback from existing oversight bodies, highlighting a lack of resilience.",
+        "institutional_response": "Largely proceeded without effective institutional check within the week; some actions drew public criticism but no reversal.",
         "exemplars": [
           {
             "exemplar_id": "wk10_stewardship_ex01",
             "week": 10,
             "event_ids": [
-              "wk10_IM_001",
-              "wk10_IM_018"
+              "wk10_IG_018",
+              "wk10_ES_009"
             ],
             "developments": [
               {
-                "development_id": "wk10_IM_001",
-                "development_label": "Removed references to marginalized histories.",
+                "development_id": "wk10_IG_018",
+                "development_label": "FDA's top vaccine regulator forced out for refusing to endorse misinformation",
                 "role": "primary"
               },
               {
-                "development_id": "wk10_IM_018",
-                "development_label": "Advanced censorship of terms related to race and gender.",
+                "development_id": "wk10_ES_009",
+                "development_label": "Over $12 billion in public health grants abruptly canceled",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A senior federal scientist was pushed out for resisting vaccine misinformation while billions in public health funding were suddenly withdrawn during an active outbreak.",
+            "why_exemplary": "A tier1-verified combination of personnel and funding actions that degrade institutional capacity to protect public health, harming future as well as present generations.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk10_stewardship_ex02",
+            "week": 10,
+            "event_ids": [
+              "wk10_ES_001",
+              "wk10_IG_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk10_ES_001",
+                "development_label": "Roughly 11,000 IRS employees terminated, threatening enforcement capacity and revenue",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk10_IG_011",
+                "development_label": "Homeland Security Secretary announced plans to eliminate FEMA",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Mass firings at the tax agency and plans to abolish the federal disaster-response agency threatened core government capacities relied on by future administrations and the public.",
+            "why_exemplary": "A tier1/multi-source-corroborated pair of structural cuts to institutions whose functions—revenue collection and disaster response—are difficult to rebuild once dismantled.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "The president called for 20-year sentences for Tesla vandals while having pardoned violent January 6 defendants, threatened a state governor's funding over a policy disagreement, and cabinet officials mocked and threatened judges and a sitting member of Congress over protected speech.",
+        "severity": "concerning",
+        "institutional_response": "No formal accountability mechanism addressed these statements within the week; some drew public criticism from advocacy groups and media.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk10_character_ex01",
+            "week": 10,
+            "event_ids": [
+              "wk10_PA_006"
+            ],
+            "developments": [
+              {
+                "development_id": "wk10_PA_006",
+                "development_label": "President threatened to cut federal funding to Maine colleges over the governor's noncompliance",
                 "role": "primary"
               }
             ],
-            "summary": "The removal of historical references and censorship efforts undermined institutional capacity and accountability.",
-            "why_exemplary": "These actions stripped internal watchdogs of their power, reducing institutional capacity to investigate executive misconduct.",
+            "summary": "The president used funding threats to coerce a state governor into policy compliance, straining federalism norms.",
+            "why_exemplary": "Illustrates use of official power to pursue personal or political disputes rather than neutral governance, consistent with a pattern of coercive federal leverage this week.",
             "exemplar_type": "primary"
           }
         ]
@@ -194,61 +299,123 @@
     ],
     "norms_strengthened": [
       {
-        "trait": "good_faith",
-        "pattern": "Judicial actions temporarily blocked some of the administration's most aggressive moves, demonstrating a commitment to uphold legal norms.",
+        "trait": "restraint",
+        "pattern": "Chief Justice Roberts's prior public rejection of impeachment as a response to adverse rulings continued to anchor institutional resistance, while federal judges opened contempt inquiries, blocked expanded DOGE data access via personnel workaround scrutiny, and required hearings before further Alien Enemies Act removals.",
         "scope": "institutional",
-        "why_it_matters": "These judicial interventions highlight the importance of checks and balances in resisting executive overreach.",
+        "why_it_matters": "Continued judicial willingness to scrutinize and constrain executive noncompliance, even amid direct threats to eliminate courts, demonstrates that institutional checks had not yet been fully neutralized.",
         "exemplars": [
           {
-            "exemplar_id": "wk10_good_faith_ex01",
+            "exemplar_id": "wk10_restraint_strength_ex01",
             "week": 10,
             "event_ids": [
-              "wk10_IG_019",
-              "wk10_IG_022"
+              "wk10_IG_001"
             ],
             "developments": [
               {
-                "development_id": "wk10_IG_019",
-                "development_label": "Issued orders requiring hearings before deportations.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk10_IG_022",
-                "development_label": "Maintained an injunction against a ban on transgender military service.",
+                "development_id": "wk10_IG_001",
+                "development_label": "Judge Boasberg opened an inquiry into apparent noncompliance with a deportation halt order",
                 "role": "primary"
               }
             ],
-            "summary": "Judicial rulings enforced prior restraining orders on deportations and agency functions, reaffirming judicial power to compel executive compliance.",
-            "why_exemplary": "These actions reinforced congressional control over appropriations and limited executive attempts to unilaterally suspend international commitments.",
+            "summary": "A federal judge pressed the administration on noncompliance with a deportation order and required hearings before further removals.",
+            "why_exemplary": "A multi-source-corroborated instance of active judicial oversight continuing despite political pressure and threats against the judge personally.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk10_restraint_strength_ex02",
+            "week": 10,
+            "event_ids": [
+              "wk10_IG_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk10_IG_002",
+                "development_label": "Chief Justice Roberts publicly rejected impeachment as a response to unfavorable rulings",
+                "role": "primary"
+              }
+            ],
+            "summary": "The head of the judiciary reiterated a public defense of judicial independence amid escalating congressional threats against courts.",
+            "why_exemplary": "A multi-source-corroborated statement from the nation's highest judicial officer reinforcing institutional norms against court-packing threats.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Two law firms and two fired FTC commissioners filed lawsuits challenging retaliatory executive orders and unlawful terminations rather than capitulating, and a state attorney general sued to block cash inducements in a judicial election.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Continued reliance on litigation rather than extralegal resistance preserves the legitimacy of institutional channels for contesting executive overreach.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk10_good_faith_strength_ex01",
+            "week": 10,
+            "event_ids": [
+              "wk10_IG_015"
+            ],
+            "developments": [
+              {
+                "development_id": "wk10_IG_015",
+                "development_label": "Jenner & Block and WilmerHale sued to block executive orders targeting their firms",
+                "role": "primary"
+              }
+            ],
+            "summary": "Two major law firms chose litigation over settlement, challenging orders they said unconstitutionally retaliated against protected legal representation.",
+            "why_exemplary": "A multi-source-corroborated example of institutional actors resisting coercion through lawful process rather than capitulating, unlike other firms that settled.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk10_good_faith_strength_ex02",
+            "week": 10,
+            "event_ids": [
+              "wk10_CR_027"
+            ],
+            "developments": [
+              {
+                "development_id": "wk10_CR_027",
+                "development_label": "Wisconsin Attorney General sued to stop cash payments to voters tied to a state supreme court election",
+                "role": "primary"
+              }
+            ],
+            "summary": "A state's top law enforcement official moved to block a billionaire's cash payments to voters, defending electoral integrity.",
+            "why_exemplary": "A tier1-verified state-level action defending electoral process integrity against a documented attempt to influence a judicial election with direct payments.",
+            "exemplar_type": "secondary"
           }
         ]
       }
     ],
-    "direction_of_movement": "collapsing"
+    "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "Week 10 continues the concerning trends established in previous weeks, with the consolidation of executive power and the aggressive use of executive actions to reshape governance. The administration's actions increasingly prioritize personal and political interests over public duty, exemplified by mass deportations and attacks on judicial independence. The erosion of accountability mechanisms, including the dismantling of oversight bodies and the politicization of the justice system, further exacerbates the risks to democratic integrity. However, judicial pushback indicates that some institutional resilience remains, albeit under significant threat.",
+    "narrative": "Week 10 continues the deteriorating trajectory documented since Week 8, but the character of the erosion has shifted from acute confrontation to structural entrenchment. Where Week 9 saw a direct campaign to remove a sitting judge and open defiance of a court order on deportations, Week 10 shows the same techniques—executive orders, funding threats, and coercive settlements—applied more broadly and durably across law firms, universities, agencies, and now the machinery of elections itself. The pattern of firms capitulating to avoid punitive orders, first visible with Paul Weiss, repeated with Skadden, establishing that coercion against the legal profession succeeds when firms lack the resources or resolve to litigate; firms that fought back, by contrast, filed lawsuits and won early rulings in some cases, showing the outcome is not preordained.\n\nEthics breaches this week took a more transactional cast, with pardons tied to campaign contributions and testimony favorable to the administration, alongside a dropped SEC enforcement action against a company connected to the president's personal financial interests. Stewardship losses were severe and compounding: mass personnel cuts at the IRS, HHS, and proposed eliminations of FEMA and USAID threaten institutional capacities that are difficult to rebuild once lost, while a scientist was forced out of the FDA specifically for resisting misinformation during an active disease outbreak. Truthfulness breaches included direct denial of a documented, signed presidential proclamation and false denials about a serious classified-information security breach, compounded by retaliation against the journalist who exposed it rather than correction of the underlying failure.\n\nAgainst this, institutional resilience persisted in familiar but strained forms: judges continued deportation-related oversight and record scrutiny, law firms and fired commissioners pursued litigation rather than acquiescence, and the Chief Justice's defense of judicial independence remained a reference point even as congressional Republicans escalated threats to eliminate courts entirely. This resistance did not reverse the week's structural moves but continued to slow and partially contest them, consistent with a pattern of reactive, partial institutional correction rather than proactive prevention.",
     "trend": "deteriorating",
     "stress_points": [
-      "centralization of executive power",
-      "disinformation as a governance tool",
-      "erosion of civil rights protections",
-      "politicization of the civil service"
+      "coercive settlements extracted from law firms under threat of executive punishment",
+      "pardons and clemency tied to campaign contributions and favorable testimony",
+      "structural dismantling of federal agencies without congressional action",
+      "workarounds to court orders restricting data access",
+      "denial of documented facts by senior officials, including the president",
+      "mass reductions in institutional capacity across tax, health, and disaster-response agencies",
+      "escalating congressional threats to eliminate or restructure the judiciary"
     ],
     "sources_of_resilience": [
-      "judicial pushback against executive orders",
-      "civil society mobilization against abuses",
-      "state-level legal challenges"
+      "law firms and fired commissioners choosing litigation over capitulation",
+      "continued judicial scrutiny of executive noncompliance with court orders",
+      "Chief Justice's sustained public defense of judicial independence",
+      "state attorneys general defending electoral integrity",
+      "civil society lawsuits challenging record-keeping and deportation policies",
+      "sustained public mobilization and protest activity"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
+    "level": "severe",
+    "justification": "The moral floor remained under sustained, multi-front pressure this week, with the administration extending coercive tactics from Week 9 into new domains, including elections, government record-keeping, and scientific institutions. The combination of a documented false denial of a signed proclamation, a false denial of a classified-information breach, transactional pardons tied to money and political utility, and a workaround appointment engineered to preserve data access despite a court certification of compliance together indicate that truthfulness and good-faith breaches are becoming routine operating practice rather than isolated incidents. At the same time, institutional resistance—litigation by law firms and fired commissioners, continued judicial oversight, and the Chief Justice's public defense of judicial independence—shows that checks have not collapsed, even as congressional threats to eliminate courts entirely raise the stakes for the coming weeks.",
     "forward_signals": [
-      "increased executive orders bypassing legislative input",
-      "escalation of disinformation campaigns",
-      "further attempts to undermine civil rights protections"
+      "outcome of law firm lawsuits challenging retaliatory executive orders",
+      "whether Congress advances legislation to ban nationwide injunctions or eliminate courts",
+      "judicial rulings on the voter registration and citizenship-documentation order",
+      "further contempt proceedings related to Alien Enemies Act deportations",
+      "whether DOGE's data access workarounds face judicial sanction",
+      "scope and pace of agency dismantling (FEMA, USAID, Department of Education) absent congressional authorization"
     ]
   }
 }

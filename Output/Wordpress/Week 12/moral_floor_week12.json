@@ -1,12 +1,12 @@
 {
   "week_number": 12,
-  "period_label": "Week 12",
+  "period_label": "Week 12 – Apr 5–11 2025",
   "window": {
     "start": "2025-04-05",
     "end": "2025-04-11"
   },
-  "clock_time_public": "7:56 p.m.",
-  "clock_delta_minutes": 0.4,
+  "clock_time_public": "7:33 p.m.",
+  "clock_delta_minutes": 0.1,
   "baseline_traits": [
     {
       "name": "character",
@@ -18,7 +18,7 @@
     },
     {
       "name": "restraint",
-      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
     },
     {
       "name": "truthfulness",
@@ -34,159 +34,253 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week saw a continuation of the erosion of democratic norms, with executive actions consolidating power and undermining accountability, while some judicial pushback provided limited resistance to these trends.",
+    "summary": "Week 12 shows continued, entrenched erosion across nearly every moral floor trait, executed through an increasingly routinized toolkit: emergency tariff powers used to reorder the economy unilaterally, executive orders punishing law firms and critics for lawful past conduct, funding freezes coercing universities and states into ideological compliance, and immigration enforcement proceeding despite explicit court findings of unlawfulness. Courts, the ABA, Harvard, and mass public protest pushed back with real effect in places, but the initiative and cumulative direction remained with the executive. Several breaches — punishing a DOJ attorney for candor, retaliating against a military commander for political neutrality, and defying a unanimous Supreme Court order — signal that loyalty and compliance are increasingly valued over honesty, neutrality, and legal obligation.",
     "norms_broken": [
       {
-        "trait": "character",
-        "pattern": "Executive actions prioritized personal and political gain over public duty, particularly through punitive measures against institutions and individuals.",
-        "severity": "serious",
-        "institutional_response": "Judicial rulings provided some pushback, but overall institutional resistance was limited.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk12_character_ex01",
-            "week": 12,
-            "event_ids": [
-              "wk12_PA_001",
-              "wk12_PA_027"
-            ],
-            "developments": [
-              {
-                "development_id": "wk12_PA_001",
-                "development_label": "Threatened and withdrew $400 million in federal funding from Columbia University over protest policies.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk12_PA_027",
-                "development_label": "Terminated funding for the US Global Change Research Program and the national climate assessment contract.",
-                "role": "primary"
-              }
-            ],
-            "summary": "The withdrawal of funding from Columbia and the termination of climate research funding exemplified prioritization of political narratives over public duty.",
-            "why_exemplary": "These actions illustrated a shift towards personal rule, undermining the integrity of public institutions.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "ethics",
-        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the use of executive power to extract concessions from institutions.",
-        "severity": "serious",
-        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk12_ethics_ex01",
-            "week": 12,
-            "event_ids": [
-              "wk12_PA_001",
-              "wk12_PA_022"
-            ],
-            "developments": [
-              {
-                "development_id": "wk12_PA_001",
-                "development_label": "Threatened and withdrew $400 million in federal funding from Columbia University over protest policies.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk12_PA_022",
-                "development_label": "Signed executive orders targeting multiple law firms over diversity and political work.",
-                "role": "primary"
-              }
-            ],
-            "summary": "The funding withdrawal and targeting of law firms blurred the lines between public office and private interests.",
-            "why_exemplary": "These actions exemplified a disregard for ethical boundaries, prioritizing personal and political interests.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "truthfulness",
-        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding immigration enforcement and economic policies.",
-        "severity": "serious",
-        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk12_truthfulness_ex01",
-            "week": 12,
-            "event_ids": [
-              "wk12_IM_002",
-              "wk12_PA_025"
-            ],
-            "developments": [
-              {
-                "development_id": "wk12_IM_002",
-                "development_label": "Shared a video falsely claiming Warren Buffett backed his plan to crash markets for profit.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk12_PA_025",
-                "development_label": "Publicly renewed baseless claims that the 2020 election was rigged and demanded restrictive voting rules.",
-                "role": "primary"
-              }
-            ],
-            "summary": "The false claims about Buffett and the election eroded trust in official communications.",
-            "why_exemplary": "These actions embedded disinformation at the center of governance, undermining trust in governmental processes.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
         "trait": "good_faith",
-        "pattern": "Executive orders undermined established legal frameworks and protections, particularly regarding immigration and civil rights.",
-        "severity": "serious",
-        "institutional_response": "Judicial challenges were initiated, but the executive's actions were largely unilateral.",
+        "pattern": "The administration used executive orders and coordinated pressure to strip law firms of security clearances and access for representing political adversaries, prompting nearly $1 billion in coerced pro bono settlements, while officials sought to disqualify a judge over an adverse ruling and the president called for a sitting judge's impeachment.",
+        "severity": "extreme",
+        "institutional_response": "The American Bar Association formally condemned the pattern; some firms and individual lawyers resisted or resigned in protest; the Chief Justice rebuked calls for impeachment; but most targeted firms capitulated rather than litigate.",
         "exemplars": [
           {
             "exemplar_id": "wk12_good_faith_ex01",
             "week": 12,
             "event_ids": [
-              "wk12_CR_003",
-              "wk12_CR_014"
+              "wk12_PA_002",
+              "wk12_IG_011",
+              "wk12_IG_012"
             ],
             "developments": [
               {
-                "development_id": "wk12_CR_003",
-                "development_label": "Arrested Venezuelan TPS holders despite legal protections against such detentions.",
+                "development_id": "wk12_PA_002",
+                "development_label": "Executive orders stripped law firms of security clearances and building access for representing political opponents",
                 "role": "primary"
               },
               {
-                "development_id": "wk12_CR_014",
-                "development_label": "Revoked legal status of migrants who entered via the CBP One app and ordered them to leave.",
+                "development_id": "wk12_IG_012",
+                "development_label": "Ten major law firms committed nearly $1 billion in coerced pro bono work to avoid punitive orders",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Executive orders punished firms for lawful representation of adversaries, driving coerced settlements worth close to a billion dollars in pro bono commitments.",
+            "why_exemplary": "A tier1-verified pattern of using state power to coerce an independent legal profession into political compliance, damaging the adversarial system central to due process.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk12_good_faith_ex02",
+            "week": 12,
+            "event_ids": [
+              "wk12_IG_005",
+              "wk12_IG_006"
+            ],
+            "developments": [
+              {
+                "development_id": "wk12_IG_006",
+                "development_label": "Trump called for impeachment and disbarment of Judge Boasberg after an adverse ruling",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk12_IG_005",
+                "development_label": "DOJ attempted to remove Judge Howell from a case after an adverse ruling",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Senior officials sought to delegitimize and remove judges for issuing unfavorable rulings rather than pursuing ordinary appeals.",
+            "why_exemplary": "A multi-source-corroborated escalation from criticism to concrete attempts at removal and impeachment, prompting a rare rebuke from the Chief Justice.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "Officials punished honesty and neutrality within their own ranks: a DOJ attorney was placed on indefinite leave for truthfully conceding a wrongful deportation in court, and a Space Force commander was fired for maintaining political neutrality after a vice-presidential visit.",
+        "severity": "serious",
+        "institutional_response": "No internal correction occurred; reporting exposed both incidents, but no reversal or accountability was documented within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk12_character_ex01",
+            "week": 12,
+            "event_ids": [
+              "wk12_PA_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk12_PA_004",
+                "development_label": "DOJ attorney Erez Reuveni placed on indefinite leave for conceding a wrongful deportation in court",
                 "role": "primary"
               }
             ],
-            "summary": "The arrests and revocations politicized enforcement and undermined legal protections.",
-            "why_exemplary": "These actions disregarded established processes for justice, undermining the spirit of legal protections.",
+            "summary": "A career attorney was punished for candor to a federal court about an unlawful deportation, signaling that loyalty outweighs honesty in DOJ practice.",
+            "why_exemplary": "A multi-source-corroborated case directly testing whether public servants are protected for truthful conduct before courts, with punishment as the outcome.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk12_character_ex02",
+            "week": 12,
+            "event_ids": [
+              "wk12_PA_006"
+            ],
+            "developments": [
+              {
+                "development_id": "wk12_PA_006",
+                "development_label": "Space Force base commander fired for distancing base from Vance's political comments",
+                "role": "primary"
+              }
+            ],
+            "summary": "A military commander was removed for maintaining traditional political neutrality, illustrating loyalty-based enforcement within the armed forces.",
+            "why_exemplary": "Though single-sourced, it fits a corroborated broader pattern this week of punishing institutional neutrality and honesty in favor of political loyalty.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "The administration escalated unilateral emergency powers on multiple fronts: sweeping tariffs up to 145% on China imposed and reversed within days without congressional approval, and a new military buffer zone at the border with review of invoking the Insurrection Act.",
+        "severity": "extreme",
+        "institutional_response": "Congressional Republicans introduced bills to claw back tariff authority but party leadership blocked floor votes; a conservative legal group sued over the tariff emergency; courts had not yet ruled by week's end.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk12_restraint_ex01",
+            "week": 12,
+            "event_ids": [
+              "wk12_ES_001",
+              "wk12_ES_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk12_ES_001",
+                "development_label": "Sweeping unilateral tariffs up to 145% on China triggered historic market losses",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk12_ES_002",
+                "development_label": "Abrupt 90-day tariff pause reversed policy hours after implementation",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Unilateral, volatile tariff policy reordered global trade and triggered massive market losses without congressional authorization or coordination.",
+            "why_exemplary": "A tier1-verified, archive-grade demonstration of unchecked executive economic power exercised with visible instability and enormous public cost.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk12_restraint_ex02",
+            "week": 12,
+            "event_ids": [
+              "wk12_PA_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk12_PA_005",
+                "development_label": "Military buffer zone created at border with review of invoking the Insurrection Act",
+                "role": "primary"
+              }
+            ],
+            "summary": "A new military mission authorized active-duty troops in domestic law enforcement roles, with consideration of invoking 18th-century emergency authority.",
+            "why_exemplary": "A tier1-verified expansion of military involvement in domestic policy, testing the boundary between civilian governance and military power.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "The president mixed personal financial interests with public office, hosting foreign dignitaries at his resorts and endorsing a Saudi-backed takeover of a major American sporting institution while in office.",
+        "severity": "concerning",
+        "institutional_response": "Reported by major outlets; no formal ethics inquiry occurred within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk12_ethics_ex01",
+            "week": 12,
+            "event_ids": [
+              "wk12_PA_007"
+            ],
+            "developments": [
+              {
+                "development_id": "wk12_PA_007",
+                "development_label": "Trump hosted Saudi officials at his resorts while endorsing Saudi-backed LIV Golf takeover of PGA Tour",
+                "role": "primary"
+              }
+            ],
+            "summary": "The president profited personally from foreign-linked hospitality while publicly endorsing a foreign acquisition of an American institution.",
+            "why_exemplary": "A tier1-verified blending of private financial gain with official endorsement of foreign investment, blurring the line between public duty and personal enrichment.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
         "trait": "stewardship",
-        "pattern": "The dismantling of oversight mechanisms and the removal of independent media weakened institutional accountability.",
+        "pattern": "The administration froze billions in federal research funding to major universities over ideological disputes, terminated the National Climate Assessment contract, and continued gutting federal agency capacity through DOGE-driven firings.",
         "severity": "serious",
-        "institutional_response": "Limited pushback from existing oversight bodies, highlighting a lack of resilience.",
+        "institutional_response": "Harvard refused federal demands for governance control despite the funding freeze; other universities faced funding losses without comparable resistance; courts had not yet intervened by week's end.",
         "exemplars": [
           {
             "exemplar_id": "wk12_stewardship_ex01",
             "week": 12,
             "event_ids": [
-              "wk12_IM_001",
-              "wk12_IM_017"
+              "wk12_IG_009",
+              "wk12_IG_010"
             ],
             "developments": [
               {
-                "development_id": "wk12_IM_001",
-                "development_label": "Restricted Associated Press access after it refused to use 'Gulf of America'.",
+                "development_id": "wk12_IG_009",
+                "development_label": "Federal funding frozen for Cornell, Northwestern, Harvard, Princeton, and Penn over ideological disputes",
                 "role": "primary"
               },
               {
-                "development_id": "wk12_IM_017",
-                "development_label": "Ended funding for the US Global Change Research Program’s national climate assessment work.",
+                "development_id": "wk12_IG_010",
+                "development_label": "Harvard rejected federal demands for governance control in exchange for restored funding",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Billions in research funding were withheld from major universities to coerce ideological and governance compliance; Harvard alone refused.",
+            "why_exemplary": "A tier1-verified case of federal funding leveraged to control independent academic institutions, testing the durability of institutional independence under financial coercion.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk12_stewardship_ex02",
+            "week": 12,
+            "event_ids": [
+              "wk12_ES_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk12_ES_009",
+                "development_label": "Contract supporting the National Climate Assessment terminated",
                 "role": "primary"
               }
             ],
-            "summary": "The restrictions on AP and the funding cuts undermined institutional capacity and accountability.",
-            "why_exemplary": "These actions stripped internal watchdogs of their power, reducing institutional capacity to investigate executive misconduct.",
+            "summary": "The administration eliminated funding for the government's principal climate-impact assessment tool ahead of its 2027 report.",
+            "why_exemplary": "Illustrates degradation of independent scientific infrastructure with long-term consequences for future policymaking capacity, despite single-source sourcing here reinforcing a broader corroborated pattern.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "Official communications erased prior public statements to avoid contradiction after the tariff reversal, and false market-moving rumors about a tariff pause circulated before being denied by the White House.",
+        "severity": "concerning",
+        "institutional_response": "Independent reporting documented the discrepancies and the deleted post; no administration correction or accountability was issued.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk12_truthfulness_ex01",
+            "week": 12,
+            "event_ids": [
+              "wk12_IM_006",
+              "wk12_IM_007"
+            ],
+            "developments": [
+              {
+                "development_id": "wk12_IM_007",
+                "development_label": "False rumor of 90-day tariff pause caused market swings before White House denial",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk12_IM_006",
+                "development_label": "White House deleted prior tariff messaging after policy reversal",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Unverified tariff rumors moved markets while official communications erased contradictory prior statements after the reversal.",
+            "why_exemplary": "A tier1-verified case showing how unreliable and shifting official messaging on a matter of major economic consequence destabilized public and market understanding.",
             "exemplar_type": "primary"
           }
         ]
@@ -194,61 +288,123 @@
     ],
     "norms_strengthened": [
       {
-        "trait": "good_faith",
-        "pattern": "Judicial actions temporarily blocked some of the administration's most aggressive moves, demonstrating a commitment to uphold legal norms.",
+        "trait": "restraint",
+        "pattern": "Federal courts actively checked executive overreach, including a unanimous Supreme Court order to facilitate the return of a wrongfully deported man, an appeals court reinstating fired independent agency board members, and a large volume of ongoing litigation testing executive actions.",
         "scope": "institutional",
-        "why_it_matters": "These judicial interventions highlight the importance of checks and balances in resisting executive overreach.",
+        "why_it_matters": "Continued judicial willingness to constrain the executive, even under direct political attack, preserves a critical structural check on unilateral power.",
         "exemplars": [
           {
-            "exemplar_id": "wk12_good_faith_ex01",
+            "exemplar_id": "wk12_restraint_strength_ex01",
             "week": 12,
             "event_ids": [
-              "wk12_IG_001",
-              "wk12_IG_021"
+              "wk12_IG_003"
+            ],
+            "developments": [
+              {
+                "development_id": "wk12_IG_003",
+                "development_label": "Supreme Court issued unanimous 9-0 ruling requiring government to facilitate Abrego Garcia's return",
+                "role": "primary"
+              }
+            ],
+            "summary": "A unanimous Supreme Court decision ordered the administration to facilitate the return of a wrongfully deported man.",
+            "why_exemplary": "A tier1-verified, unanimous high court ruling constraining executive immigration conduct, demonstrating that judicial consensus checks remain functional even under strain.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk12_restraint_strength_ex02",
+            "week": 12,
+            "event_ids": [
+              "wk12_IG_001"
             ],
             "developments": [
               {
                 "development_id": "wk12_IG_001",
-                "development_label": "Ordered the government to return wrongfully deported legal resident Kilmar Abrego Garcia.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk12_IG_021",
-                "development_label": "Blocked termination of a humanitarian parole program for over 500,000 migrants.",
+                "development_label": "DC Court of Appeals ordered reinstatement of fired independent agency board members",
                 "role": "primary"
               }
             ],
-            "summary": "Judicial rulings enforced prior restraining orders on deportations and agency functions, reaffirming judicial power to compel executive compliance.",
-            "why_exemplary": "These actions reinforced congressional control over appropriations and limited executive attempts to unilaterally suspend international commitments.",
+            "summary": "An appeals court restored fired heads of independent agencies, temporarily checking executive removal power.",
+            "why_exemplary": "A tier1-verified judicial check on executive control over nominally independent agencies, reinforcing separation of powers.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Harvard University publicly rejected federal demands to cede governance control in exchange for restored funding, and the American Bar Association formally condemned the pattern of intimidation against judges and lawyers.",
+        "scope": "institutional",
+        "why_it_matters": "Institutional refusal to capitulate to coercive federal pressure, and professional-body condemnation of intimidation tactics, help preserve the independence needed for a functioning check on executive power.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk12_good_faith_strength_ex01",
+            "week": 12,
+            "event_ids": [
+              "wk12_IG_010"
+            ],
+            "developments": [
+              {
+                "development_id": "wk12_IG_010",
+                "development_label": "Harvard rejected Trump administration demands for control over admissions, hiring, and academic programs",
+                "role": "primary"
+              }
+            ],
+            "summary": "Harvard refused to cede institutional governance in exchange for restored federal funding, resisting coercive pressure.",
+            "why_exemplary": "A tier1-verified act of institutional resistance demonstrating that not all targeted institutions capitulated to funding coercion.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk12_good_faith_strength_ex02",
+            "week": 12,
+            "event_ids": [
+              "wk12_IG_017"
+            ],
+            "developments": [
+              {
+                "development_id": "wk12_IG_017",
+                "development_label": "American Bar Association condemned pattern of targeting judges and lawyers",
+                "role": "primary"
+              }
+            ],
+            "summary": "The ABA formally rejected efforts to intimidate judges and attorneys as a 'clear and disconcerting pattern.'",
+            "why_exemplary": "A multi-source-corroborated professional-body rebuke that publicly names and resists a coordinated campaign against legal-system independence.",
+            "exemplar_type": "secondary"
           }
         ]
       }
     ],
-    "direction_of_movement": "collapsing"
+    "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "Week 12 marks a continuation of the concerning trends established in previous weeks, with the consolidation of executive power and the aggressive use of executive actions to reshape governance. The administration's actions increasingly prioritize personal and political interests over public duty, exemplified by punitive measures against institutions and individuals. The erosion of accountability mechanisms, including the dismantling of oversight bodies and the politicization of the justice system, further exacerbates the risks to democratic integrity. However, judicial pushback indicates that some institutional resilience remains, albeit under significant threat.",
+    "narrative": "Week 12 continues the deteriorating trajectory documented through Week 11, with the emphasis shifting from raw seizure of authority toward the consolidation and normalization of tools introduced in prior weeks. The volatile, unilateral tariff regime—first declared as an emergency in Week 11—was implemented and abruptly reversed within days, demonstrating that manufactured crisis governance had become an operating method rather than an exceptional measure. Coercion of law firms, begun as isolated punitive orders in earlier weeks, matured into a systematic extraction of nearly a billion dollars in pro bono commitments, while attacks on judicial legitimacy escalated from rhetoric to concrete attempts at disqualification and impeachment.\n\nNew this week is a sharper focus on punishing honesty and neutrality within government itself: a DOJ attorney disciplined for candor to a court, and a military officer removed for political neutrality. These are small in scale but significant in kind, since they test whether the civil service and armed forces can still function as neutral, truth-telling institutions rather than instruments of political loyalty. Universities emerged as a genuine site of contested resistance, with Harvard's refusal to cede governance control standing out against a broader pattern of capitulation by law firms and other institutions facing funding threats.\n\nInstitutional resilience persisted meaningfully this week: a unanimous Supreme Court ruling, an appeals court reinstatement of independent agency leaders, the ABA's formal condemnation, and continued high-volume litigation all indicate that courts and professional bodies have not been fully captured or intimidated into silence. Yet, as in prior weeks, this resistance remains largely reactive and partial — the administration's slow-walking of the Abrego Garcia return despite the unanimous order, and continued deportations under the Alien Enemies Act, show that even clear judicial mandates can be resisted or delayed by the executive without immediate consequence.",
     "trend": "deteriorating",
     "stress_points": [
-      "centralization of executive power",
-      "disinformation as a governance tool",
-      "erosion of civil rights protections",
-      "politicization of the civil service"
+      "volatile, unilateral tariff policy conducted without congressional authorization",
+      "systematic coercion of the legal profession through punitive executive orders",
+      "escalating attacks on judicial legitimacy, including impeachment and disqualification attempts",
+      "punishment of honesty and political neutrality within DOJ and military ranks",
+      "funding coercion against universities and states over ideological disputes",
+      "continued executive slow-walking of judicial orders on wrongful deportation",
+      "erosion of independent scientific and research infrastructure"
     ],
     "sources_of_resilience": [
-      "judicial pushback against executive orders",
-      "civil society mobilization against abuses",
-      "state-level legal challenges"
+      "unanimous Supreme Court order constraining executive immigration conduct",
+      "Harvard's public refusal to cede governance control despite funding freeze",
+      "American Bar Association's formal condemnation of intimidation campaign",
+      "continued high-volume judicial adjudication of executive actions across many courts",
+      "mass public protest mobilization ('Hands Off' demonstrations across 1,300+ cities)",
+      "public backlash forcing reversal of Social Security phone-service restrictions"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
+    "level": "severe",
+    "justification": "The moral floor remains under sustained, structural stress. Restraint continues to be tested by volatile emergency-powers governance, exemplified by tariff policy imposed and reversed within days without congressional input, alongside a new military buffer zone at the border and review of invoking the Insurrection Act. Good faith suffered serious damage through the systematic coercion of law firms and escalating attempts to disqualify or impeach judges over adverse rulings. New this week, character breaches within DOJ and the military — punishing honesty and neutrality — suggest that loyalty is displacing professional integrity even within institutions meant to operate above partisan politics. Countervailing this, a unanimous Supreme Court ruling, Harvard's refusal to capitulate, and the ABA's public condemnation demonstrate that key institutional and professional checks remain active and are not uniformly folding under pressure.",
     "forward_signals": [
-      "increased executive orders bypassing legislative input",
-      "escalation of disinformation campaigns",
-      "further attempts to undermine civil rights protections"
+      "whether the administration fully complies with the Supreme Court's order on Abrego Garcia's return",
+      "whether additional universities follow Harvard's example of resisting funding coercion",
+      "whether the Senate takes up the SAVE Act and its implications for voter eligibility rules",
+      "outcome of the tariff-authority lawsuit filed by the New Civil Liberties Alliance",
+      "whether attacks on judges escalate into formal impeachment proceedings",
+      "whether DOGE's attempted embedding within the Vera Institute expands to other civil society organizations"
     ]
   }
 }

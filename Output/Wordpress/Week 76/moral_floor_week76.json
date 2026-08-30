@@ -1,12 +1,12 @@
 {
   "week_number": 76,
-  "period_label": "Week 76 – 2026-06-27–2026-07-03",
+  "period_label": "Week 76",
   "window": {
     "start": "2026-06-27",
     "end": "2026-07-03"
   },
-  "clock_time_public": "7:44 p.m.",
-  "clock_delta_minutes": 0.0,
+  "clock_time_public": "7:41 p.m.",
+  "clock_delta_minutes": -0.2,
   "baseline_traits": [
     {
       "name": "character",
@@ -18,7 +18,7 @@
     },
     {
       "name": "restraint",
-      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
     },
     {
       "name": "truthfulness",
@@ -34,316 +34,202 @@
     }
   ],
   "weekly_audit": {
-    "summary": "The week showed a moral floor under sustained pressure from alignment rather than a single rupture. Executive actors repeatedly used office for leverage, personalization, selective secrecy, and conflict-prone gain, while Congress often appeared weak and reactive. At the same time, courts, some oversight efforts, and civil society still imposed meaningful limits. The result was a mixed but ethically deteriorating week: breaches looked increasingly normalized, yet resistance remained real enough to prevent outright collapse.",
+    "summary": "Week 76 was defined by fusion rather than singular rupture: personal branding, financial self-enrichment, and executive discretion converged across passport imagery, park renovations, crypto disclosures, and no-bid contracts, while the Supreme Court's removal of Humphrey's Executor protections handed the presidency a durable structural gain. Ethics and stewardship absorbed the heaviest damage, as documented family financial ties to federal contracts and a $2.2 billion personal disclosure made self-dealing impossible to characterize as coincidental. Good faith suffered from housing-bill hostage-taking and DOJ defiance of a court order, while truthfulness was strained by deleted crowd photos and inflammatory disinformation following the birthright citizenship ruling. Countervailing this, courts preserved birthright citizenship, mail-ballot access, geofence privacy protections, and Lisa Cook's tenure, and a Republican senator publicly rebuked the president's treatment of Congress as an 'appendage,' showing that resistance persisted even as the overall direction hardened.",
     "norms_broken": [
       {
-        "trait": "character",
-        "pattern": "Public duty was subordinated to political leverage and leader-centered display, with office used transactionally rather than as a trust.",
-        "severity": "serious",
-        "institutional_response": "Congress showed limited resistance and often appeared weakened; oversight criticism emerged, but the core conduct itself was not directly reversed this week.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk76_character_ex01",
-            "week": 76,
-            "event_ids": [
-              "wk76_PA_001"
-            ],
-            "developments": [
-              {
-                "development_id": "wk76_PA_001",
-                "development_label": "Canceled housing bill signing and tied approval to proof-of-citizenship voting bill",
-                "role": "primary"
-              }
-            ],
-            "summary": "A housing bill was withheld to force movement on unrelated election rules.",
-            "why_exemplary": "Character requires placing public duty above short-term advantage. Using signature power to hold unrelated legislation hostage shows transactional conduct rather than faithful execution.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk76_character_ex02",
-            "week": 76,
-            "event_ids": [
-              "wk76_PA_002"
-            ],
-            "developments": [
-              {
-                "development_id": "wk76_PA_002",
-                "development_label": "White House unveiled passport featuring President Trump's portrait",
-                "role": "primary"
-              }
-            ],
-            "summary": "A state identity document was used for leader branding.",
-            "why_exemplary": "Character includes honoring office as a public trust. Personalizing a national symbol around the sitting president blurs service to the republic with self-display.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
         "trait": "ethics",
-        "pattern": "The boundary between public power and private or family-linked gain weakened further across foreign gifts, financing decisions, and market regulation.",
-        "severity": "extreme",
-        "institutional_response": "Financial disclosure and congressional criticism increased visibility, but no decisive institutional correction to the underlying conflicts occurred during the week.",
+        "pattern": "Federal contracting and financial disclosures revealed extensive overlap between public office and Trump family financial interests, including $8.9 billion in funding tied to Trump and Lutnick family companies, a $2.2 billion personal income disclosure including $1.4 billion from crypto, and family-linked defense-contractor investments tied to $3.7 billion in federal funds.",
+        "severity": "serious",
+        "institutional_response": "A Senate committee voted along party lines against barring presidential crypto holdings; a House Democratic subcommittee documented the pattern in a report, but no binding enforcement action is recorded within the week.",
         "exemplars": [
           {
             "exemplar_id": "wk76_ethics_ex01",
             "week": 76,
             "event_ids": [
-              "wk76_PA_019",
-              "wk76_ES_003"
+              "wk76_ES_009",
+              "wk76_ES_013"
             ],
             "developments": [
               {
-                "development_id": "wk76_PA_019",
-                "development_label": "Advanced federal financing for Kazakhstan mining deal tied to family-linked interests",
+                "development_id": "wk76_ES_009",
+                "development_label": "Federal funding directed over $8.9 billion toward companies with ties to Trump and Lutnick families.",
                 "role": "primary"
               },
               {
-                "development_id": "wk76_ES_003",
-                "development_label": "Secured Kazakhstan tungsten deal with federal financing and family-linked interests",
+                "development_id": "wk76_ES_013",
+                "development_label": "Trump's financial disclosure revealed $2.2 billion in 2025 income, including $1.4 billion from crypto ventures.",
                 "role": "secondary"
               }
             ],
-            "summary": "Federal financing supported a foreign deal linked to family interests.",
-            "why_exemplary": "Ethics requires a firm boundary between office and private gain. Using state financing power where family-linked interests are implicated is a direct conflict-of-interest warning sign.",
+            "summary": "Federal disclosures and reporting documented billions in taxpayer-linked funding and personal earnings flowing through family and administration-connected ventures.",
+            "why_exemplary": "Tier-one corroborated disclosures make the scale of self-enrichment a matter of public record rather than allegation, illustrating systemic conflict of interest.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk76_ethics_ex02",
             "week": 76,
             "event_ids": [
-              "wk76_PA_018",
-              "wk76_PA_020"
+              "wk76_ES_011",
+              "wk76_ES_017"
             ],
             "developments": [
               {
-                "development_id": "wk76_PA_018",
-                "development_label": "Pentagon accepted Qatar's gifted Boeing 747 for presidential use",
+                "development_id": "wk76_ES_011",
+                "development_label": "Senate banking committee voted along party lines against barring presidential crypto ownership.",
                 "role": "primary"
               },
               {
-                "development_id": "wk76_PA_020",
-                "development_label": "President took first flight on Qatar's gifted Boeing 747",
+                "development_id": "wk76_ES_017",
+                "development_label": "Trump Jr. and Eric Trump linked to investments in defense contractors receiving $3.7 billion in federal funds.",
                 "role": "secondary"
               }
             ],
-            "summary": "A foreign government's aircraft was accepted and then used for presidential benefit.",
-            "why_exemplary": "Accepting and normalizing use of a foreign gift for presidential use raises acute ethics concerns about influence, dependency, and personal benefit while in office.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
-        "trait": "restraint",
-        "pattern": "Executive and aligned actors repeatedly pressed coercive, emergency, and centralizing powers to widen control over agencies, states, and vulnerable populations.",
-        "severity": "serious",
-        "institutional_response": "Courts imposed some limits on detention, agency removals, and election administration, but the initiating pattern remained expansive and assertive.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk76_restraint_ex01",
-            "week": 76,
-            "event_ids": [
-              "wk76_PA_011",
-              "wk76_PA_012",
-              "wk76_PA_013"
-            ],
-            "developments": [
-              {
-                "development_id": "wk76_PA_011",
-                "development_label": "Invoked emergency powers to restart California oil operation",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk76_PA_012",
-                "development_label": "Ordered federal evaluation of California Coastal Commission",
-                "role": "secondary"
-              },
-              {
-                "development_id": "wk76_PA_013",
-                "development_label": "Withdrew federal grant for California offshore wind project",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Emergency and funding powers were used aggressively against a disfavored state policy agenda.",
-            "why_exemplary": "Restraint fails when available executive tools are stacked to maximize pressure rather than used with self-limiting caution in a federal system.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk76_restraint_ex02",
-            "week": 76,
-            "event_ids": [
-              "wk76_PA_015",
-              "wk76_CRD_016"
-            ],
-            "developments": [
-              {
-                "development_id": "wk76_PA_015",
-                "development_label": "Claimed broad new power over independent agencies after Supreme Court ruling",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk76_CRD_016",
-                "development_label": "ICE arrested about 10,000 people in five days",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Broader claims of control coincided with intensified coercive enforcement on the ground.",
-            "why_exemplary": "The combination shows power being read at its maximum edge: legal openings are treated as permission for wider command and harder enforcement rather than bounded authority.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
-        "trait": "truthfulness",
-        "pattern": "The public information environment was degraded by delegitimizing rhetoric and selective control over what the public could know about safety, records, and public history.",
-        "severity": "concerning",
-        "institutional_response": "Some media corrections and investigative reporting improved visibility, but official and quasi-official distortions were only partially checked.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk76_truthfulness_ex01",
-            "week": 76,
-            "event_ids": [
-              "wk76_IMM_001"
-            ],
-            "developments": [
-              {
-                "development_id": "wk76_IMM_001",
-                "development_label": "President called political opponents hard-core, godless communists",
-                "role": "primary"
-              }
-            ],
-            "summary": "Opposition was framed as alien and illegitimate rather than normal democratic competition.",
-            "why_exemplary": "Truthfulness is not only factual accuracy but refusal to manufacture unreality. Casting ordinary opponents as fundamentally illegitimate distorts democratic contestation for the public.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk76_truthfulness_ex02",
-            "week": 76,
-            "event_ids": [
-              "wk76_IG_004",
-              "wk76_IMM_008"
-            ],
-            "developments": [
-              {
-                "development_id": "wk76_IG_004",
-                "development_label": "Interior restricted National Park Service staff from sharing deaths and injury information",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk76_IMM_008",
-                "development_label": "Fifth Circuit allowed administration to keep climate, slavery, and immigration material out of national parks",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Public access to safety and historical information was narrowed through centralized control.",
-            "why_exemplary": "Citizens cannot be governed truthfully when official channels selectively suppress consequential facts about public hazards and civic history.",
+            "summary": "A party-line vote blocked conflict-of-interest safeguards while family members profited from defense contracting tied to administration policy.",
+            "why_exemplary": "Combines legislative refusal to install safeguards with concrete reporting on family financial exposure to federal procurement decisions.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "good_faith",
-        "pattern": "Democratic procedures were repeatedly used as leverage or obstruction rather than for their intended purposes, especially around elections and ordinary lawmaking.",
+        "pattern": "The president conditioned a bipartisan housing bill on passage of a voter ID law, and the Department of Justice refused to comply with a federal judge's order to produce Epstein files documents.",
         "severity": "serious",
-        "institutional_response": "Courts defended election administration and ballot access in several cases, but Congress itself often appeared unable or unwilling to protect its own governing role.",
+        "institutional_response": "The housing bill became law automatically without his signature, showing legislative resilience; DOJ's noncompliance with the court order remained unresolved within the week.",
         "exemplars": [
           {
-            "exemplar_id": "wk76_good_faith_ex01",
+            "exemplar_id": "wk76_goodfaith_ex01",
             "week": 76,
             "event_ids": [
-              "wk76_PA_001",
-              "wk76_CRD_010"
+              "wk76_PA_010"
             ],
             "developments": [
               {
-                "development_id": "wk76_PA_001",
-                "development_label": "Housing bill signing tied to proof-of-citizenship voting bill",
+                "development_id": "wk76_PA_010",
+                "development_label": "Trump declined to commit to signing a bipartisan housing bill unless Congress passed a voter ID law he favored.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk76_CRD_010",
-                "development_label": "Supreme Court agreed to hear proof-of-citizenship voting case",
-                "role": "secondary"
               }
             ],
-            "summary": "Election rules were treated as bargaining leverage in unrelated legislative business.",
-            "why_exemplary": "Good faith requires respecting the purpose of both legislation and election law. Using one to coerce the other defeats the spirit of democratic procedure.",
+            "summary": "Presidential leverage conditioned approval of unrelated bipartisan legislation on passage of a partisan electoral measure.",
+            "why_exemplary": "Multi-source corroborated reporting documents legislative hostage-taking as a repeated tactic, defeating the purpose of bicameral deliberation on an unrelated matter.",
             "exemplar_type": "primary"
           },
           {
-            "exemplar_id": "wk76_good_faith_ex02",
+            "exemplar_id": "wk76_goodfaith_ex02",
             "week": 76,
             "event_ids": [
-              "wk76_IG_001",
-              "wk76_IG_005"
+              "wk76_IG_025"
             ],
             "developments": [
               {
-                "development_id": "wk76_IG_001",
-                "development_label": "House Freedom Caucus voted against procedural measures needed for House business",
+                "development_id": "wk76_IG_025",
+                "development_label": "DOJ refused to comply with a federal judge's order to produce Epstein files documents.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk76_IG_005",
-                "development_label": "House failed to advance NDAA after rules fight",
-                "role": "secondary"
               }
             ],
-            "summary": "Procedural tools were used in ways that stalled basic legislative functioning.",
-            "why_exemplary": "Good faith includes using procedure to govern, not to disable governance itself. Routine obstruction weakens the legislature’s constitutional purpose.",
+            "summary": "The executive branch declined to obey a judicial order for document production, testing the enforceability of court authority.",
+            "why_exemplary": "Multi-source corroborated reporting shows direct defiance of a court order, a foundational breach of adherence to judicial process.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "stewardship",
-        "pattern": "Institutional capacity, independence, and public trust were weakened through politicization, secrecy, and diversion of public resources toward prestige or control.",
+        "pattern": "The administration diverted National Park Service funding from over 900 projects toward White House and D.C. personal projects, dismantled USAID's disaster-response capacity, and routed $68 million through an allied contractor for July 4th celebrations without apparent competitive process.",
         "severity": "serious",
-        "institutional_response": "Judges, watchdogs, and some public disclosures preserved review and visibility, but the week’s main administrative moves still degraded long-term institutional credibility.",
+        "institutional_response": "Reporting exposed the diversions; no legislative or judicial correction is documented within the week beyond a separate no-bid contract lawsuit.",
         "exemplars": [
           {
             "exemplar_id": "wk76_stewardship_ex01",
             "week": 76,
             "event_ids": [
-              "wk76_PA_010",
-              "wk76_PA_015"
+              "wk76_ES_003",
+              "wk76_ES_005"
             ],
             "developments": [
               {
-                "development_id": "wk76_PA_010",
-                "development_label": "Proposed shifting research grant decisions from peer review to political appointees",
+                "development_id": "wk76_ES_003",
+                "development_label": "Trump administration diverted funding from over 900 National Park Service projects to White House and D.C. personal projects.",
                 "role": "primary"
               },
               {
-                "development_id": "wk76_PA_015",
-                "development_label": "Claimed broad new power over independent agencies",
+                "development_id": "wk76_ES_005",
+                "development_label": "Trump proposed a $10 billion Washington beautification project alongside a 31 percent cut to National Park Service staff.",
                 "role": "secondary"
               }
             ],
-            "summary": "Independent expertise and agency insulation were pushed toward direct political control.",
-            "why_exemplary": "Stewardship requires preserving institutions that outlast current officeholders. Replacing expert or independent judgment with political command damages future capacity and trust.",
+            "summary": "Congressionally appropriated maintenance and safety funds were redirected to capital-city vanity projects while park staffing was slashed.",
+            "why_exemplary": "Tier-one corroborated reporting documents a direct trade-off between public safety infrastructure and executive self-commemoration.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk76_stewardship_ex02",
             "week": 76,
             "event_ids": [
-              "wk76_ES_004",
-              "wk76_IMM_011"
+              "wk76_PA_005",
+              "wk76_ES_018"
             ],
             "developments": [
               {
-                "development_id": "wk76_ES_004",
-                "development_label": "Redirected National Park funds to White House remodeling projects",
+                "development_id": "wk76_PA_005",
+                "development_label": "Trump administration dismantled USAID and consolidated disaster assistance under the State Department.",
                 "role": "primary"
               },
               {
-                "development_id": "wk76_IMM_011",
-                "development_label": "Redirected anniversary funds from libraries and historical groups to symbolic projects",
+                "development_id": "wk76_ES_018",
+                "development_label": "The administration used $68 million in taxpayer funds through an allied contractor to produce the July 4 celebration.",
                 "role": "secondary"
               }
             ],
-            "summary": "Public funds were shifted from maintenance and civic history toward executive prestige projects.",
-            "why_exemplary": "Stewardship fails when durable public assets and civic institutions lose resources to leader-centered or symbolic spending with weaker public value.",
+            "summary": "Institutional capacity for humanitarian response was gutted even as taxpayer funds flowed to politically connected contractors for celebratory spectacle.",
+            "why_exemplary": "Shows a consistent pattern of weakening durable institutional capacity while directing resources toward symbolic and politically proximate ends.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "White House officials deleted aerial images showing sparse crowds at a presidential speech, and prominent commentators spread inflammatory or extreme rhetoric, including calls for sterilization of foreign visitors, following the birthright citizenship ruling.",
+        "severity": "concerning",
+        "institutional_response": "Media reporting exposed the photo deletion; no official correction or accountability measure is documented.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk76_truthfulness_ex01",
+            "week": 76,
+            "event_ids": [
+              "wk76_IM_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk76_IM_011",
+                "development_label": "White House officials deleted aerial images showing sparse crowds at Trump's National Mall speech.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Official documentation contradicting the administration's preferred narrative was deleted rather than corrected or acknowledged.",
+            "why_exemplary": "Multi-source corroborated reporting shows active suppression of factual public records to manage perception.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk76_truthfulness_ex02",
+            "week": 76,
+            "event_ids": [
+              "wk76_IM_008",
+              "wk76_IM_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk76_IM_008",
+                "development_label": "Sean Davis published extreme proposals including sterilization of foreign visitors in reaction to the birthright citizenship ruling.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk76_IM_009",
+                "development_label": "Stephen Miller made inflammatory statements framing birthright citizenship as enabling immigrants to 'seize' citizens' inheritance.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Prominent figures responded to a constitutional ruling with inflammatory, unsubstantiated rhetoric designed to delegitimize the outcome.",
+            "why_exemplary": "Multi-source corroborated reporting documents rhetoric that manufactures alarm and distorts a settled constitutional decision for political effect.",
             "exemplar_type": "secondary"
           }
         ]
@@ -351,145 +237,91 @@
     ],
     "norms_strengthened": [
       {
-        "trait": "restraint",
-        "pattern": "Courts continued to impose limits on executive control over independent offices, detention, and election administration.",
-        "scope": "institutional",
-        "why_it_matters": "Democratic restraint survives when other institutions insist that power remains reviewable and bounded even during periods of executive expansion.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk76_restraint_ex03",
-            "week": 76,
-            "event_ids": [
-              "wk76_CRD_008",
-              "wk76_IG_025"
-            ],
-            "developments": [
-              {
-                "development_id": "wk76_CRD_008",
-                "development_label": "Supreme Court kept Lisa Cook in Federal Reserve seat while challenge continued",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk76_IG_025",
-                "development_label": "Supreme Court refused to stay Shira Perlmutter's reinstatement",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Courts preserved interim checks on presidential removal power over independent officials.",
-            "why_exemplary": "These rulings reinforced the norm that executive authority does not automatically erase statutory protections or institutional independence.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk76_restraint_ex04",
-            "week": 76,
-            "event_ids": [
-              "wk76_CRD_018"
-            ],
-            "developments": [
-              {
-                "development_id": "wk76_CRD_018",
-                "development_label": "Fifth Circuit required bond hearings after 90 days of immigration detention",
-                "role": "primary"
-              }
-            ],
-            "summary": "A court imposed a due-process limit on prolonged immigration detention.",
-            "why_exemplary": "Limiting detention without hearing is a direct assertion that coercive state power must remain bounded by procedural safeguards.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
         "trait": "good_faith",
-        "pattern": "Judicial actions protected the intended functioning of election administration and ballot access against administrative manipulation.",
+        "pattern": "The Supreme Court struck down the administration's attempt to end birthright citizenship, upheld mail-ballot counting rules against an RNC challenge, and a federal judge blocked a USPS plan conditioning mail-ballot delivery on states sharing voter rolls.",
         "scope": "institutional",
-        "why_it_matters": "Good faith is reinforced when institutions preserve the real purpose of election rules: enabling lawful participation rather than engineering exclusion through procedure.",
+        "why_it_matters": "Preserving core constitutional guarantees and mail-voting access against sustained executive and partisan pressure demonstrates that judicial checks retain real force even amid broader structural erosion elsewhere.",
         "exemplars": [
           {
-            "exemplar_id": "wk76_good_faith_ex03",
+            "exemplar_id": "wk76_goodfaith_strength_ex01",
             "week": 76,
             "event_ids": [
-              "wk76_IG_034",
-              "wk76_CRD_014"
+              "wk76_IG_012"
             ],
             "developments": [
               {
-                "development_id": "wk76_IG_034",
-                "development_label": "Judge ordered USPS to comply with election-mail settlement and blocked verification changes",
+                "development_id": "wk76_IG_012",
+                "development_label": "SCOTUS struck down Trump's executive order attempting to end birthright citizenship in a narrow ruling.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk76_CRD_014",
-                "development_label": "Federal judge blocked Trump-backed effort to restrict mail-in voting through USPS rules",
-                "role": "secondary"
               }
             ],
-            "summary": "Courts protected mail-ballot delivery from administrative interference.",
-            "why_exemplary": "These rulings upheld the spirit of election law by preventing procedural changes from quietly undermining lawful voting access.",
+            "summary": "The Court preserved a foundational constitutional guarantee against executive redefinition of citizenship, despite a narrow margin.",
+            "why_exemplary": "Tier-one corroborated ruling shows the judiciary constraining an attempt to unilaterally rewrite a core constitutional right.",
             "exemplar_type": "primary"
           },
           {
-            "exemplar_id": "wk76_good_faith_ex04",
+            "exemplar_id": "wk76_goodfaith_strength_ex02",
             "week": 76,
             "event_ids": [
-              "wk76_CRD_009"
+              "wk76_IG_010",
+              "wk76_IG_016"
             ],
             "developments": [
               {
-                "development_id": "wk76_CRD_009",
-                "development_label": "Supreme Court upheld Mississippi's grace period for mail ballots",
+                "development_id": "wk76_IG_010",
+                "development_label": "SCOTUS rejected the RNC's challenge and upheld state laws counting mail ballots postmarked by Election Day.",
                 "role": "primary"
+              },
+              {
+                "development_id": "wk76_IG_016",
+                "development_label": "Judge Emmet Sullivan blocked a USPS plan conditioning mail-ballot delivery on states sharing voter rolls.",
+                "role": "secondary"
               }
             ],
-            "summary": "The Court preserved a ballot-counting rule relied on by many absentee voters.",
-            "why_exemplary": "Protecting a settled grace period respects the purpose of voting rules as mechanisms for counting lawful ballots, not narrowing participation through technicality.",
+            "summary": "Courts twice protected mail-voting access against partisan efforts to narrow ballot counting and delivery windows.",
+            "why_exemplary": "Tier-one corroborated rulings show consistent judicial defense of voting access against coordinated federal and partisan pressure.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
-        "trait": "stewardship",
-        "pattern": "Courts, disclosures, and oversight efforts preserved transparency and institutional review in several contested areas.",
-        "scope": "public",
-        "why_it_matters": "Stewardship depends on records, disclosures, and review channels that keep institutions legible and correctable over time.",
+        "trait": "restraint",
+        "pattern": "The Supreme Court blocked Trump's removal of Federal Reserve Governor Lisa Cook on procedural grounds, and a Republican senator publicly accused the president of treating Congress as 'merely an appendage.'",
+        "scope": "cross-partisan",
+        "why_it_matters": "Preserving procedural protection for an independent official and voicing intra-party objection to executive overreach shows that self-limitation, even if narrow, has not been entirely abandoned.",
         "exemplars": [
           {
-            "exemplar_id": "wk76_stewardship_ex03",
+            "exemplar_id": "wk76_restraint_strength_ex01",
             "week": 76,
             "event_ids": [
-              "wk76_IMM_007"
+              "wk76_IG_005"
             ],
             "developments": [
               {
-                "development_id": "wk76_IMM_007",
-                "development_label": "Office of Government Ethics released President Trump's financial disclosure",
+                "development_id": "wk76_IG_005",
+                "development_label": "SCOTUS blocked Trump's removal of Federal Reserve Governor Lisa Cook, ruling he failed to provide required procedural protections.",
                 "role": "primary"
               }
             ],
-            "summary": "A formal disclosure made the president's financial interests more visible to the public.",
-            "why_exemplary": "Even when conflicts remain unresolved, disclosure preserves the informational basis for oversight, scrutiny, and later accountability.",
+            "summary": "A narrow ruling preserved procedural safeguards protecting an independent agency official from unilateral removal.",
+            "why_exemplary": "Tier-one corroborated ruling demonstrates a concrete limit on executive removal power despite the same week's broader expansion of that power.",
             "exemplar_type": "primary"
           },
           {
-            "exemplar_id": "wk76_stewardship_ex04",
+            "exemplar_id": "wk76_restraint_strength_ex02",
             "week": 76,
             "event_ids": [
-              "wk76_IG_037",
-              "wk76_IG_035"
+              "wk76_IG_020"
             ],
             "developments": [
               {
-                "development_id": "wk76_IG_037",
-                "development_label": "Federal judge rejected justification for no-bid White House ballroom contract",
+                "development_id": "wk76_IG_020",
+                "development_label": "Bill Cassidy publicly accused Trump of treating Congress as 'merely an appendage' over an Iran war briefing dispute.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk76_IG_035",
-                "development_label": "House subcommittee report accused Trump of corrupting 250th anniversary celebration",
-                "role": "secondary"
               }
             ],
-            "summary": "Judicial and congressional scrutiny challenged opaque contracting and commemorative spending.",
-            "why_exemplary": "Oversight and judicial review help preserve institutional memory and deter normalization of opaque, prestige-driven uses of public resources.",
+            "summary": "A Republican senator publicly challenged presidential disregard for congressional consultation on military action.",
+            "why_exemplary": "Multi-source corroborated reporting shows cross-partisan pushback against executive overreach in matters of war powers.",
             "exemplar_type": "secondary"
           }
         ]
@@ -498,39 +330,35 @@
     "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "This week extends the prior trajectory and makes it more integrated. In the previous summary, the moral floor was already described as holding mainly because counter-institutions were still functioning, not because officeholders were practicing ethical self-limitation. Week 76 confirms that pattern. Character, ethics, restraint, good_faith, and stewardship were again strained across multiple domains at once, but now the same method appeared more clearly across agencies, elections, immigration, public ceremony, contracting, and information control.\n\nThe most important cumulative change is normalization. Conflicts of interest were not isolated disclosures; they appeared alongside state financing decisions, foreign gifts, and market-regulatory choices. Executive overreach was not confined to one policy fight; it appeared in emergency powers, agency control claims, funding leverage, and enforcement surges. Truthfulness and stewardship were weakened less by one dramatic lie than by a governing style in which public information, civic memory, and institutional transparency became more selective and leader-centered.\n\nThe floor has not collapsed because resistance remains substantial. Courts protected birthright citizenship, mail-ballot access, privacy, detention limits, and some agency independence. Oversight reports, financial disclosures, and civil society mobilization kept scrutiny alive. But the cumulative condition remains deteriorating because ethical correction is still mostly external and reactive. The republic is relying on litigation, judges, and public exposure to supply norms that should also be honored from within office.",
+    "narrative": "Week 76 continues the deteriorating trajectory documented through Week 75, but shifts in character from acute crisis episodes toward systemic normalization. Where prior weeks featured discrete breaches, such as a fabricated vandalism narrative or a collapsed war-powers vote, this week showed multiple ethical failures reinforcing one another across separate domains: personal branding merged with state symbols (the presidential passport, park renovations), family financial interests merged with federal contracting and defense procurement, and executive removal power over independent agencies was formally expanded by the Supreme Court's overturning of Humphrey's Executor. The financial disclosure revealing $2.2 billion in family income, set against the Senate's refusal to bar presidential crypto holdings, illustrates a legislature increasingly unwilling to check the executive even where the underlying facts are undisputed.\n\nAt the same time, the pattern of narrow but real judicial resistance identified in Week 75 persisted and, in some respects, strengthened. The Court preserved birthright citizenship, protected mail-ballot access on two separate fronts, expanded Fourth Amendment protection against geofence searches, and blocked Lisa Cook's removal on procedural grounds. These rulings function as bounded islands within a wider current running toward stronger unitary executive control, echoing the narrative digest's account of a week defined by alignment across institutions rather than singular rupture. The DOJ's defiance of a court order regarding Epstein files, however, suggests that even where courts rule, executive compliance cannot be assumed, a warning sign for the durability of judicial checks going forward.\n\nCongressional dysfunction, evident in the failure to pass the NDAA after a rules dispute and continued housing-bill hostage-taking, left courts and civil society to absorb responsibilities that the legislature was structurally positioned to handle. This dynamic, flagged in Week 75, appears to be hardening into a durable feature of the system rather than an episodic failure.",
     "trend": "deteriorating",
     "stress_points": [
-      "transactional use of executive power against ordinary lawmaking",
-      "conflicts of interest linking public authority to family or private gain",
-      "expansive claims of presidential control over independent agencies",
-      "coercive immigration enforcement and pressure on vulnerable noncitizens",
-      "procedural obstruction weakening Congress as a checking institution",
-      "selective secrecy around records, safety information, and public history",
-      "diversion of public funds toward prestige or leader-centered projects",
-      "continued pressure on election access through leverage and litigation"
+      "structural expansion of executive removal power over independent agencies",
+      "extensive documented overlap between family financial interests and federal funding decisions",
+      "legislative hostage-taking used repeatedly as a negotiating tactic",
+      "executive defiance of a federal court document-production order",
+      "suppression of unfavorable factual records (deleted crowd photos)",
+      "congressional paralysis on core appropriations functions (NDAA)"
     ],
     "sources_of_resilience": [
-      "lower federal courts checking executive overreach across multiple domains",
-      "Supreme Court and appellate rulings preserving some constitutional and due-process limits",
-      "formal financial disclosures enabling conflict-of-interest scrutiny",
-      "congressional oversight reports and public accountability efforts",
-      "civil society protest and alternative civic commemorations",
-      "continued availability of judicial review in election, press, funding, and agency disputes"
+      "Supreme Court preservation of birthright citizenship despite narrow margin",
+      "repeated judicial protection of mail-ballot access against partisan challenge",
+      "procedural limits preserved on removal of independent Federal Reserve governor",
+      "cross-partisan Republican criticism of executive disregard for Congress",
+      "continued congressional and civil society documentation of corruption patterns",
+      "sustained public assembly and counter-commemoration around the 250th anniversary"
     ]
   },
   "risk_assessment": {
     "level": "severe",
-    "justification": "Severe risk is warranted because the week showed repeated breaches across nearly every moral-floor trait at once. Ethics was especially stressed by foreign gifts, family-linked financing, and overlap between presidential business interests and public regulatory choices. Restraint and good_faith were weakened by emergency powers, broad claims over independent agencies, coercive leverage on election rules, and procedural obstruction inside Congress. Stewardship also deteriorated as public funds, public history, and expert institutions were redirected toward political control or prestige.\n\nThe risk is not best described as critical because the digest also shows meaningful resistance with real effect. Courts preserved birthright citizenship, mail-ballot protections, privacy rights, detention limits, and interim checks on removal power. Oversight reports and disclosures kept some transparency channels open. But those defenses were fragmented and largely reactive. If the current pattern continues, further erosion is likely because the burden of maintaining the moral floor is falling on institutions forced to contest each maneuver separately rather than on leaders observing democratic self-limitation.",
+    "justification": "The moral floor remains severely stressed and shows signs of consolidating erosion into durable structural change rather than episodic breach. The Supreme Court's removal of Humphrey's Executor protections, combined with the president's explicit public claim of 'greatly increased' power, converts a legal ruling into an operating principle for governance, a shift with lasting institutional consequence beyond any single week. This sits alongside extensively documented, multi-front self-enrichment (family-linked federal funding, a $2.2 billion disclosure, defense-contractor investments) that a Senate committee declined to address through available safeguards, indicating diminished legislative appetite for enforcing ethical boundaries even when the record is undisputed. DOJ's refusal to comply with a court order on document production adds a further concerning signal about the reliability of judicial enforcement going forward. These pressures are only partially offset by judicial wins on citizenship, voting access, and privacy, which, while real, function as bounded exceptions within a broader current of executive consolidation.",
     "forward_signals": [
-      "whether broad claims over independent agencies become concrete removals or politicized directives",
-      "further use of public financing or regulatory decisions in areas tied to family or private interests",
-      "additional leveraging of unrelated legislation to force election-rule changes",
-      "continued normalization of foreign gifts or prestige spending around the presidency",
-      "escalating secrecy around records, safety information, or politically sensitive files",
-      "whether courts continue to hold mail-ballot, detention, and agency-independence lines",
-      "further mass-enforcement surges or state-federal cooperation intensifying immigration pressure",
-      "more congressional paralysis that leaves courts as the primary check"
+      "whether executive agencies begin exercising expanded removal power against additional independent officials",
+      "whether DOJ's noncompliance with the Epstein files order escalates into a broader contempt or enforcement dispute",
+      "whether Congress takes any action on the documented family financial conflicts",
+      "whether the NDAA and other stalled appropriations measures advance or remain blocked",
+      "whether courts continue to check mail-voting and citizenship-related overreach as new cases arise",
+      "whether cross-partisan criticism of executive war-powers conduct translates into any binding legislative constraint"
     ]
   }
 }

@@ -1,12 +1,12 @@
 {
   "week_number": 77,
-  "period_label": "Week 77 – 2026-07-04–2026-07-10",
+  "period_label": "Week 77",
   "window": {
     "start": "2026-07-04",
     "end": "2026-07-10"
   },
-  "clock_time_public": "7:44 p.m.",
-  "clock_delta_minutes": -0.1,
+  "clock_time_public": "7:41 p.m.",
+  "clock_delta_minutes": 0.0,
   "baseline_traits": [
     {
       "name": "character",
@@ -18,7 +18,7 @@
     },
     {
       "name": "restraint",
-      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
     },
     {
       "name": "truthfulness",
@@ -34,451 +34,269 @@
     }
   ],
   "weekly_audit": {
-    "summary": "The week showed a moral floor under coordinated pressure rather than sudden rupture. Executive and allied actors used formal powers to intimidate election administrators, disable election infrastructure, intensify coercive immigration enforcement, narrow transparency, and politicize expertise. Courts, inspectors, public protest, and some routine administrative processes still supplied resistance, but the dominant pattern was normalization of hard-edged power inside recognizable legal forms.",
+    "summary": "Week 77 combined a symbolic, partisan Independence Day spectacle with a structural blow to nonpartisan election administration and continuing fatal consequences of aggressive immigration enforcement. The firing of the last Election Assistance Commission members removed independent oversight of election machinery ahead of midterms, while DOJ threats of prosecution against state election officials extended federal pressure over nominally neutral administrative functions. An ICE agent's killing of an unarmed bystander in Houston, followed by the detention of the only eyewitnesses, raised acute concerns about the state's willingness to control the very evidence needed to hold it accountable. Ethics concerns deepened with continued crypto profit-taking and use of a foreign-gifted aircraft for a domestic political event. Countervailing this, courts continued to enforce a civil judgment against the president, reject transparent circumvention of Kennedy Center branding disputes, and strike down a state speech-restriction law, while a bipartisan housing bill became law despite presidential noncooperation.",
     "norms_broken": [
       {
-        "trait": "character",
-        "pattern": "Public office was used in ways that favored personal or political advantage over impartial public duty, especially through selective clemency and leader-centered use of civic symbolism and state resources.",
+        "trait": "good_faith",
+        "pattern": "The president used a nonpartisan national commemoration to deliver campaign-style attacks and fraud claims, conditioned signature of a bipartisan housing bill on unrelated voter-restriction legislation, and legislative leadership pursued reconciliation to bypass the filibuster for the same purpose.",
         "severity": "serious",
-        "institutional_response": "Courts checked some related personalization efforts, such as blocking executive branding of a public institution, but the underlying conduct itself largely proceeded.",
+        "institutional_response": "Congress allowed the housing bill to become law without presidential signature, demonstrating institutional resilience; reconciliation maneuvering to pass voter-restriction legislation proceeded without documented resistance within the week.",
         "exemplars": [
           {
-            "exemplar_id": "wk77_character_ex01",
+            "exemplar_id": "wk77_goodfaith_ex01",
             "week": 77,
             "event_ids": [
-              "wk77_PA_001"
+              "wk77_PA_001",
+              "wk77_PA_003"
             ],
             "developments": [
               {
                 "development_id": "wk77_PA_001",
-                "development_label": "Issued pardons to 11 people including fraud defendants and Clean Air Act violators",
-                "role": "primary"
-              }
-            ],
-            "summary": "Executive clemency relieved selected offenders of legal consequences.",
-            "why_exemplary": "Character requires honoring office as a public trust. Using pardon power for allies or favored offenders weakens the expectation that duty outranks personal or political loyalty.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk77_character_ex02",
-            "week": 77,
-            "event_ids": [
-              "wk77_PA_002",
-              "wk77_IG_028"
-            ],
-            "developments": [
-              {
-                "development_id": "wk77_PA_002",
-                "development_label": "Ordered renovation of the Reflecting Pool for the 250th anniversary celebration",
+                "development_label": "Trump delivered a campaign-style speech at the 250th anniversary event, attacking opponents and repeating fraud claims.",
                 "role": "primary"
               },
               {
-                "development_id": "wk77_IG_028",
-                "development_label": "D.C. Circuit kept Donald Trump's name off the Kennedy Center during appeal",
+                "development_id": "wk77_PA_003",
+                "development_label": "Trump's Mt. Rushmore speech branded opponents as communists and demanded voter-suppression legislation.",
                 "role": "secondary"
               }
             ],
-            "summary": "Public symbols and resources were pushed toward leader-linked commemoration and branding.",
-            "why_exemplary": "Character is weakened when civic institutions and commemorations are treated as extensions of the leader rather than as shared public trusts.",
+            "summary": "Nonpartisan national commemorations were repurposed for partisan attacks and explicit calls for restrictive voting legislation.",
+            "why_exemplary": "Tier-one and multi-source corroborated events show deliberate blurring of office and campaign at events meant to unify rather than divide the public.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk77_goodfaith_ex02",
+            "week": 77,
+            "event_ids": [
+              "wk77_PA_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk77_PA_011",
+                "development_label": "Trump declined to sign a bipartisan housing bill, conditioning approval on unrelated voter-suppression legislation.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Executive leverage over popular, unrelated legislation was used to coerce passage of a separate voting-restriction measure.",
+            "why_exemplary": "Multi-source corroborated reporting documents a repeated tactic of hostage-taking that defeats the purpose of independent legislative deliberation.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
+        "trait": "stewardship",
+        "pattern": "The president fired all remaining commissioners of the bipartisan Election Assistance Commission ahead of midterms, eliminating independent federal oversight of election administration and voting-system certification.",
+        "severity": "extreme",
+        "institutional_response": "Media and former commissioners publicly criticized the move; no legislative or judicial reversal is documented within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk77_stewardship_ex01",
+            "week": 77,
+            "event_ids": [
+              "wk77_PA_012",
+              "wk77_IG_019"
+            ],
+            "developments": [
+              {
+                "development_id": "wk77_PA_012",
+                "development_label": "Trump removed all commissioners from the bipartisan Election Assistance Commission.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk77_IG_019",
+                "development_label": "Trump fired the last three members of the Election Assistance Commission.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Every remaining independent commissioner overseeing federal election standards and certification was removed just months before midterms.",
+            "why_exemplary": "Multi-source corroborated events document the complete dismantling of a nonpartisan institutional safeguard central to election integrity.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
         "trait": "ethics",
-        "pattern": "Boundaries between public authority and private or personal interest remained weak, with conflict-of-interest concerns appearing in financial gain, symbolic spending, and official relationships.",
-        "severity": "concerning",
-        "institutional_response": "Reporting and public scrutiny exposed these concerns, but the digest shows no decisive institutional correction to the underlying conflicts this week.",
+        "pattern": "The president continued to profit personally from cryptocurrency ventures, including a memecoin collapse that cost investors billions while he extracted hundreds of millions in fees, and used a foreign-gifted aircraft for a domestic political event.",
+        "severity": "serious",
+        "institutional_response": "Congressional Democrats and media documented the pattern; no regulatory or enforcement response is recorded within the week.",
         "exemplars": [
           {
             "exemplar_id": "wk77_ethics_ex01",
             "week": 77,
             "event_ids": [
-              "wk77_ES_017"
+              "wk77_ES_006",
+              "wk77_ES_007"
             ],
             "developments": [
               {
-                "development_id": "wk77_ES_017",
-                "development_label": "Report showed large investor losses while Trump profited from fees",
+                "development_id": "wk77_ES_006",
+                "development_label": "Trump profited from a memecoin collapse that cost nearly a million investors $3.81 billion.",
                 "role": "primary"
+              },
+              {
+                "development_id": "wk77_ES_007",
+                "development_label": "Trump disclosed $1.4 billion in family cryptocurrency profits and defended his children's use of insider information.",
+                "role": "secondary"
               }
             ],
-            "summary": "A political figure reportedly profited while followers absorbed steep losses.",
-            "why_exemplary": "Ethics requires a firm boundary between office-linked influence and private enrichment. Profit flowing to a political leader while supporters lose money raises direct self-dealing concerns.",
+            "summary": "The president personally extracted hundreds of millions in fees from a collapsed cryptocurrency venture while defending family profiteering from privileged access.",
+            "why_exemplary": "Tier-one and multi-source corroborated disclosures make continued self-enrichment through office-adjacent ventures a matter of public record.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk77_ethics_ex02",
             "week": 77,
             "event_ids": [
-              "wk77_IM_017"
+              "wk77_PA_006"
             ],
             "developments": [
               {
-                "development_id": "wk77_IM_017",
-                "development_label": "Robert F. Kennedy Jr. maintained financial ties to a Scientology-linked law firm while serving as HHS secretary",
+                "development_id": "wk77_PA_006",
+                "development_label": "Trump used a Qatari-gifted aircraft for a flyover at his July 4th event.",
                 "role": "primary"
               }
             ],
-            "summary": "A cabinet official kept financial ties that could affect public trust in policy.",
-            "why_exemplary": "Ongoing financial ties while exercising public health authority blur the line between official judgment and outside interest, undermining confidence in impartial governance.",
+            "summary": "A foreign-gifted jet was deployed for a domestic patriotic display, blending personal financial benefit with an official government event.",
+            "why_exemplary": "Tier-one corroborated reporting documents a recurring emoluments concern involving direct personal use of a foreign gift in a partisan-tinged setting.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "restraint",
-        "pattern": "Officials repeatedly pressed power to its outer edge by threatening election administrators, removing election commissioners, escalating coercive immigration enforcement, and using investigative authority in ways that could chill criticism.",
+        "pattern": "Federal agents killed an unarmed bystander during an immigration enforcement stop in Houston, and ICE subsequently detained the only eyewitnesses to the shooting.",
         "severity": "extreme",
-        "institutional_response": "Courts and inspectors imposed some limits and opened reviews, but these checks were reactive and did not prevent the initial expansion of coercive power.",
+        "institutional_response": "The FBI and DHS Office of Inspector General opened investigations, though the latter's independence was questioned; community protests and Mexico's announcement of intended criminal charges pressed for accountability.",
         "exemplars": [
           {
             "exemplar_id": "wk77_restraint_ex01",
             "week": 77,
             "event_ids": [
-              "wk77_PA_004",
-              "wk77_CR_016"
+              "wk77_CR_011",
+              "wk77_CR_012"
             ],
             "developments": [
               {
-                "development_id": "wk77_PA_004",
-                "development_label": "Fired remaining Election Assistance Commission commissioners leaving no quorum",
+                "development_id": "wk77_CR_011",
+                "development_label": "ICE shot and killed Lorenzo Salgado Araujo, a non-target civilian, during a Houston traffic stop.",
                 "role": "primary"
               },
               {
-                "development_id": "wk77_CR_016",
-                "development_label": "Justice Department threatened election officials with possible prosecution",
+                "development_id": "wk77_CR_012",
+                "development_label": "ICE detained the three eyewitnesses to the Salgado Araujo shooting at an undisclosed location.",
                 "role": "secondary"
               }
             ],
-            "summary": "Election administration was pressured through both institutional disablement and prosecutorial threat.",
-            "why_exemplary": "Restraint fails when available authority is used to maximize leverage over election machinery rather than preserve distance, stability, and confidence in neutral administration.",
+            "summary": "A fatal mistaken-identity shooting by federal agents was followed by detention of the only witnesses, raising due-process and accountability concerns.",
+            "why_exemplary": "Tier-one corroborated reporting shows lethal use of force followed by apparent control over the evidentiary record needed to assess it.",
             "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk77_restraint_ex02",
-            "week": 77,
-            "event_ids": [
-              "wk77_CR_010",
-              "wk77_CR_014"
-            ],
-            "developments": [
-              {
-                "development_id": "wk77_CR_010",
-                "development_label": "ICE agent fatally shot Lorenzo Salgado Araujo during enforcement stop",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk77_CR_014",
-                "development_label": "ICE detained eyewitnesses after the shooting",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Federal immigration force turned lethal, then extended control over potential witnesses.",
-            "why_exemplary": "Democratic restraint requires self-limitation in coercive power. Lethal enforcement followed by witness detention suggests power being used with too little regard for accountability boundaries.",
-            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "Public understanding was degraded by fraud-style rhetoric, disputed official health claims, and concealment or withholding of consequential information.",
-        "severity": "serious",
-        "institutional_response": "Courts, outside investigators, and public criticism sought disclosure, but the week’s main information pattern was obscurity, distortion, or insinuation rather than correction.",
+        "pattern": "The president made incoherent public statements confusing key foreign leaders and nations during active military conflict, falsely claimed credit for settling ongoing wars, and made an unsubstantiated claim of direct contact with a hostile foreign power.",
+        "severity": "concerning",
+        "institutional_response": "Journalists and fact-checkers documented the inaccuracies; a sitting governor publicly questioned the president's mental fitness, but no institutional corrective mechanism is recorded.",
         "exemplars": [
           {
             "exemplar_id": "wk77_truthfulness_ex01",
             "week": 77,
             "event_ids": [
-              "wk77_IM_014"
+              "wk77_PA_008",
+              "wk77_IM_016"
             ],
             "developments": [
               {
-                "development_id": "wk77_IM_014",
-                "development_label": "Suggested a World Cup loss would be due to rigging echoing election claims",
+                "development_id": "wk77_PA_008",
+                "development_label": "Trump made incoherent statements confusing Iran with Japan and Zelensky with Putin.",
                 "role": "primary"
+              },
+              {
+                "development_id": "wk77_IM_016",
+                "development_label": "Trump falsely claimed to have settled eight wars, including conflicts that remain ongoing.",
+                "role": "secondary"
               }
             ],
-            "summary": "A familiar rigging narrative was extended into another public arena.",
-            "why_exemplary": "Truthfulness is breached when leaders normalize baseless fraud framing, training the public to distrust outcomes before evidence exists.",
+            "summary": "Public confusion about basic foreign-policy facts during active conflict was paired with fabricated claims of diplomatic achievement.",
+            "why_exemplary": "Multi-source and tier-one corroborated reporting document substantive factual distortion on matters of urgent public consequence.",
             "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk77_truthfulness_ex02",
-            "week": 77,
-            "event_ids": [
-              "wk77_IM_015",
-              "wk77_IM_013"
-            ],
-            "developments": [
-              {
-                "development_id": "wk77_IM_015",
-                "development_label": "FDA panel discussion promoted disputed claims about SSRI risks during pregnancy",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk77_IM_013",
-                "development_label": "Satellite imagery companies withheld war-damage imagery under reported government pressure",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Official and quasi-official channels spread disputed claims and limited access to evidence.",
-            "why_exemplary": "Citizens cannot be governed truthfully when public-health forums circulate contested claims and evidence about war damage is kept from public view.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
-        "trait": "good_faith",
-        "pattern": "Democratic procedures were used to circumvent their intended purpose, especially through efforts to move restrictive election measures by exceptional procedure and through pressure on neutral election administration.",
-        "severity": "serious",
-        "institutional_response": "Judges preserved some election-related limits, and existing law still protected voters from last-minute roll removals, but procedural hardball remained the main governing impulse.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk77_good_faith_ex01",
-            "week": 77,
-            "event_ids": [
-              "wk77_IG_006",
-              "wk77_IG_014"
-            ],
-            "developments": [
-              {
-                "development_id": "wk77_IG_006",
-                "development_label": "Called for ending the Senate filibuster to pass the SAVE America Act",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk77_IG_014",
-                "development_label": "Planned to push the SAVE America Act through reconciliation",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Election restrictions were pursued through routes designed to reduce ordinary checks.",
-            "why_exemplary": "Good faith requires respecting the purpose of legislative procedure. Using exceptional pathways to force election restrictions defeats the spirit of deliberative rulemaking.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk77_good_faith_ex02",
-            "week": 77,
-            "event_ids": [
-              "wk77_CR_003",
-              "wk77_CR_016"
-            ],
-            "developments": [
-              {
-                "development_id": "wk77_CR_003",
-                "development_label": "July 4 speech tied national ritual to proof-of-citizenship and mail-ballot limits",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk77_CR_016",
-                "development_label": "Justice Department letters threatened election officials over compliance",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Election administration was framed as suspect and then pressured through federal threat.",
-            "why_exemplary": "Good faith is weakened when officials treat election rules as instruments for preemptive suspicion and intimidation rather than fair administration of lawful voting.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
-        "trait": "stewardship",
-        "pattern": "Institutional capacity and credibility were weakened by disabling election infrastructure, politicizing science, reducing transparency, and redirecting public systems toward ideological or symbolic ends.",
-        "severity": "extreme",
-        "institutional_response": "Some routine advisory, records, and comment processes continued, and courts preserved a few institutional boundaries, but the larger pattern damaged long-term capacity and trust.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk77_stewardship_ex01",
-            "week": 77,
-            "event_ids": [
-              "wk77_PA_004"
-            ],
-            "developments": [
-              {
-                "development_id": "wk77_PA_004",
-                "development_label": "Fired the remaining Election Assistance Commission commissioners leaving the agency without a quorum",
-                "role": "primary"
-              }
-            ],
-            "summary": "A federal election-support agency was left unable to act at commissioner level.",
-            "why_exemplary": "Stewardship fails when an institution central to election administration is deliberately incapacitated ahead of midterms, reducing future capacity and public confidence.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk77_stewardship_ex02",
-            "week": 77,
-            "event_ids": [
-              "wk77_PA_005",
-              "wk77_PA_006",
-              "wk77_ES_048"
-            ],
-            "developments": [
-              {
-                "development_id": "wk77_PA_005",
-                "development_label": "Appointed a climate skeptic to lead the U.S. Global Change Research Program",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk77_PA_006",
-                "development_label": "Cut scientific research funding and imposed ideological review pressure",
-                "role": "secondary"
-              },
-              {
-                "development_id": "wk77_ES_048",
-                "development_label": "Reduced protections for endangered species habitats",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Public expertise and environmental safeguards were redirected by ideology and control.",
-            "why_exemplary": "Stewardship requires preserving expert capacity and credible institutions. Politicizing science leadership while cutting research and weakening safeguards damages long-term governing competence.",
-            "exemplar_type": "secondary"
           }
         ]
       }
     ],
     "norms_strengthened": [
       {
-        "trait": "restraint",
-        "pattern": "Courts continued to impose boundaries on executive intrusion into privacy, election administration, and public institutions.",
+        "trait": "good_faith",
+        "pattern": "Courts continued to enforce compliance with the E. Jean Carroll civil judgment despite repeated delay tactics, and a federal appeals court rejected the administration's bid to pause removal of Trump's name from the Kennedy Center.",
         "scope": "institutional",
-        "why_it_matters": "Democratic restraint survives when independent courts insist that coercive or personalized power remains reviewable and limited.",
+        "why_it_matters": "Judicial insistence on compliance with final judgments and rejection of unsupported claims used to overturn adverse rulings demonstrates that legal accountability still binds powerful figures despite sustained resistance.",
         "exemplars": [
           {
-            "exemplar_id": "wk77_restraint_ex03",
+            "exemplar_id": "wk77_goodfaith_strength_ex01",
             "week": 77,
             "event_ids": [
-              "wk77_IG_012"
+              "wk77_IG_012",
+              "wk77_IG_013"
             ],
             "developments": [
               {
                 "development_id": "wk77_IG_012",
-                "development_label": "Granted preliminary injunction blocking DOJ access to sensitive gender-affirming-care records",
-                "role": "primary"
-              }
-            ],
-            "summary": "A court blocked federal access to highly sensitive personal records.",
-            "why_exemplary": "The injunction reinforced the principle that investigative power must stop at constitutional and privacy limits, even in politically charged disputes.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk77_restraint_ex04",
-            "week": 77,
-            "event_ids": [
-              "wk77_IG_023",
-              "wk77_IG_032"
-            ],
-            "developments": [
-              {
-                "development_id": "wk77_IG_023",
-                "development_label": "Refused to stay order blocking parts of Executive Order 14399 in state elections",
+                "development_label": "Judge Lewis Kaplan ordered release of $5.8 million in judgment funds to E. Jean Carroll.",
                 "role": "primary"
               },
               {
-                "development_id": "wk77_IG_032",
-                "development_label": "Denied stay of order setting aside modified SAVE system and related notices",
+                "development_id": "wk77_IG_013",
+                "development_label": "The Second Circuit rejected Trump's emergency bid to delay the Carroll payment.",
                 "role": "secondary"
               }
             ],
-            "summary": "Judges kept election-related checks in place despite government pressure.",
-            "why_exemplary": "These rulings preserved institutional brakes against executive acceleration in election administration, showing that power still meets enforceable limits.",
+            "summary": "Federal courts enforced a long-delayed civil judgment against the president after repeated attempts to postpone compliance.",
+            "why_exemplary": "Multi-source corroborated rulings show judicial capacity to compel compliance from a sitting president who sought to evade a final judgment.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk77_goodfaith_strength_ex02",
+            "week": 77,
+            "event_ids": [
+              "wk77_IG_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk77_IG_011",
+                "development_label": "A federal appeals court rejected the administration's bid to pause removal of Trump's name from the Kennedy Center.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A unanimous panel found no evidentiary support for the administration's claims, preserving a lower-court naming ruling against executive pressure.",
+            "why_exemplary": "Tier-one corroborated ruling shows judicial independence resisting an unsubstantiated attempt to overturn an institutional decision.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
-        "trait": "good_faith",
-        "pattern": "Some legal and institutional actions preserved the intended functioning of elections and lawful participation despite pressure for restriction.",
+        "trait": "character",
+        "pattern": "The 11th Circuit struck down the higher-education provision of Florida's Stop Woke Act, reaffirming academic freedom protections against state ideological control of classroom discourse.",
         "scope": "institutional",
-        "why_it_matters": "Good faith is reinforced when institutions protect election rules as tools for fair participation rather than partisan leverage.",
+        "why_it_matters": "Defending the boundary between public authority and permissible restriction on speech and inquiry preserves space for institutions to serve their intended public function rather than partisan messaging.",
         "exemplars": [
           {
-            "exemplar_id": "wk77_good_faith_ex03",
+            "exemplar_id": "wk77_character_ex01",
             "week": 77,
             "event_ids": [
-              "wk77_IG_002"
+              "wk77_IG_007"
             ],
             "developments": [
               {
-                "development_id": "wk77_IG_002",
-                "development_label": "Federal law protected voters from last-minute removal from registration rolls",
+                "development_id": "wk77_IG_007",
+                "development_label": "The 11th Circuit struck down the higher-education provision of Florida's Stop Woke Act.",
                 "role": "primary"
               }
             ],
-            "summary": "Existing law continued to block sudden voter-roll purges before elections.",
-            "why_exemplary": "Protecting voters from abrupt removal preserves the spirit of election law by prioritizing lawful participation over opportunistic exclusion.",
+            "summary": "A federal appeals panel found the law's restriction on professors' speech regarding race and gender unconstitutional.",
+            "why_exemplary": "A concrete judicial check on state overreach into academic discourse, reaffirming institutional purpose over ideological control.",
             "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk77_good_faith_ex04",
-            "week": 77,
-            "event_ids": [
-              "wk77_CR_011"
-            ],
-            "developments": [
-              {
-                "development_id": "wk77_CR_011",
-                "development_label": "Department of Justice announced plans to monitor upcoming elections",
-                "role": "primary"
-              }
-            ],
-            "summary": "Federal election monitoring remained available as a voting-rights safeguard.",
-            "why_exemplary": "Although politically sensitive, election monitoring can reinforce good faith when used to protect lawful participation and deter abuse at the polls.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
-        "trait": "stewardship",
-        "pattern": "Routine public processes for records, advisory review, and civic accountability continued to function despite broader pressure on institutions.",
-        "scope": "public",
-        "why_it_matters": "Stewardship depends on keeping review channels, records systems, and public accountability mechanisms alive even during periods of political strain.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk77_stewardship_ex03",
-            "week": 77,
-            "event_ids": [
-              "wk77_IG_042",
-              "wk77_PA_007"
-            ],
-            "developments": [
-              {
-                "development_id": "wk77_IG_042",
-                "development_label": "National Archives requested public comments on proposed federal records schedules",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk77_PA_007",
-                "development_label": "CDC announced advisory board meeting on radiation and worker health",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Records and advisory processes remained open to public participation.",
-            "why_exemplary": "These routine channels preserve institutional memory and public input, both essential to keeping government correctable over time.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk77_stewardship_ex04",
-            "week": 77,
-            "event_ids": [
-              "wk77_CR_013",
-              "wk77_CR_015"
-            ],
-            "developments": [
-              {
-                "development_id": "wk77_CR_013",
-                "development_label": "FBI and DHS inspector general opened investigations into the Houston ICE shooting",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk77_CR_015",
-                "development_label": "Neighbors activists and elected officials protested after the shooting",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Formal investigation and public protest demanded accountability after a fatal federal action.",
-            "why_exemplary": "Stewardship is strengthened when institutions and the public insist that abuses be investigated rather than absorbed into routine impunity.",
-            "exemplar_type": "secondary"
           }
         ]
       }
@@ -486,39 +304,35 @@
     "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "This week fits the prior trajectory closely but makes the ethical pattern more operational. In the previous summary, the moral floor was deteriorating because correction came mainly from outside the executive rather than from self-limitation within office. Week 77 confirms that diagnosis. The same traits were strained again, but now through more settled methods: threatening letters, commissioner firings, procedural workarounds, selective opacity, and coercive enforcement that remained formally recognizable while becoming harder in effect.\n\nThe most important cumulative development is the growing convergence of election pressure, immigration coercion, and information control. Restraint, good_faith, and stewardship were not weakened in separate silos. They reinforced one another. Election administration was pressured psychologically and institutionally; immigration power widened while review narrowed; records and evidence were delayed, withheld, or obscured; expertise was redirected by ideology. Courts still mattered and sometimes acted effectively, but the republic is relying ever more heavily on reactive resistance to preserve norms that officeholders themselves are not reliably honoring.",
+    "narrative": "Week 77 extends the trajectory documented through Week 76, in which discrete breaches have increasingly given way to structural, mutually reinforcing pressure across multiple domains. The elimination of the Election Assistance Commission's remaining commissioners is not merely one more removal; combined with DOJ threats of prosecution against state election officials and targeted deployment of federal monitors, it represents the near-complete disassembly of independent federal oversight of election administration ahead of a midterm cycle. This follows directly from the prior week's expansion of executive removal power over independent agencies, suggesting the pattern identified then is now being operationalized against a specific and consequential target.\n\nThe Houston shooting and subsequent detention of witnesses mark an escalation in the human cost and epistemic danger of aggressive immigration enforcement. Where prior weeks documented mass arrests and detention buildout as a widening of state reach, this week showed the lethal endpoint of that reach and a troubling willingness to control the evidence needed to assess accountability for it, echoing the DOJ's noncompliance with court-ordered document production noted in Week 76. Financial self-dealing continued in familiar form, with cryptocurrency profits and use of a foreign-gifted aircraft sustaining the ethics concerns flagged previously, again without any documented regulatory or legislative response.\n\nCountervailing this, the judiciary continued to supply the most consistent resistance: enforcement of the Carroll judgment despite repeated delay, rejection of unsupported claims in the Kennedy Center dispute, and a strong appellate defense of academic speech against state ideological control. Congress also demonstrated some residual capacity, allowing the housing bill to become law despite presidential noncooperation. These are real but narrow checks operating within a system where the executive increasingly acts first and explains later, if at all. The overall trend remains one of deterioration, with the moral floor sustained mainly by judicial and, to a lesser extent, legislative resistance rather than by any renewed executive self-restraint.",
     "trend": "deteriorating",
     "stress_points": [
-      "federal intimidation of election administrators",
-      "incapacitation of election-support institutions",
-      "coercive immigration enforcement with weakened accountability",
-      "procedural hardball around restrictive election legislation",
-      "selective secrecy and delayed records in sensitive matters",
-      "politicization of science and public expertise",
-      "leader-centered use of civic symbolism and public resources",
-      "normalization of fraud-style rhetoric and disputed official claims"
+      "elimination of independent federal election oversight ahead of midterms",
+      "federal prosecutorial threats against state election officials",
+      "lethal immigration enforcement paired with detention of eyewitnesses",
+      "continued personal financial self-dealing via cryptocurrency and foreign gifts",
+      "legislative hostage-taking to force voter-restriction legislation",
+      "erosion of factual public discourse through incoherent and false presidential statements"
     ],
     "sources_of_resilience": [
-      "lower-court rulings preserving election and privacy limits",
-      "appellate enforcement of judgments against powerful figures",
-      "inspector-general and FBI review channels",
-      "public protest and community organizing against coercive enforcement",
-      "routine advisory, records, and comment processes still functioning",
-      "existing legal protections for voter registration stability"
+      "judicial enforcement of civil judgments against the president",
+      "appellate rejection of unsupported claims in institutional naming disputes",
+      "circuit court defense of academic freedom against state speech restrictions",
+      "congressional enactment of legislation despite presidential noncooperation",
+      "sustained community protest and demand for accountability after fatal enforcement incident",
+      "foreign government pressure (Mexico) for accountability over enforcement deaths"
     ]
   },
   "risk_assessment": {
     "level": "severe",
-    "justification": "Severe risk is warranted because the week showed simultaneous breaches across restraint, good_faith, stewardship, truthfulness, and character, with ethics concerns still present. The most serious developments were structural: threatening election officials, firing the remaining Election Assistance Commission commissioners, intensifying immigration coercion, detaining eyewitnesses after a fatal shooting, and politicizing science and environmental governance. These are not isolated lapses. They show power being used in ways that can outlast the week by weakening institutions, chilling neutral administration, and narrowing the space for truthful accountability.\n\nThe risk is not best described as critical because the digest also shows real resistance with practical effect. Judges kept election-related checks in place, blocked access to sensitive records, enforced judgments, and limited executive branding of public institutions. Investigations opened after the Houston shooting, and public protest remained active. But those defenses were fragmented and reactive. If the current pattern continues, further erosion is likely because the burden of maintaining the moral floor is falling on courts, watchdogs, and civil society rather than on officeholders practicing democratic self-limitation.",
+    "justification": "The moral floor remains severely stressed, with this week's dismantling of the Election Assistance Commission converting a structural vulnerability flagged previously into a concrete, midterm-relevant loss of oversight capacity. Combined with DOJ prosecutorial threats against election officials and targeted federal monitor deployment, the machinery of nonpartisan election administration has been substantially weakened at a moment when its independence matters most. The Houston shooting and subsequent witness detention raise the additional concern that state power is being used not only to act with lethal force but to control the record of that action, undermining the truth-finding processes on which accountability depends. These developments are only partially offset by continued judicial enforcement of civil judgments and defense of institutional boundaries, which, while real, remain bounded exceptions within a broader pattern of executive assertion outpacing institutional check.",
     "forward_signals": [
-      "whether election officials face further prosecutorial threats or removals",
-      "whether the Election Assistance Commission remains disabled before midterms",
-      "additional use of reconciliation or rule changes for restrictive election measures",
-      "further detention or intimidation of witnesses and critics in immigration cases",
-      "continued narrowing of judicial review over immigration status decisions",
-      "more withholding or delay of politically sensitive records or evidence",
-      "additional ideological appointments or funding cuts affecting public expertise",
-      "whether courts continue to preserve practical limits on executive election and surveillance powers"
+      "whether DOJ prosecutorial threats against election officials escalate into actual charges or chilling effects on administration",
+      "whether independent investigations into the Houston shooting proceed without further obstruction",
+      "whether Congress or courts respond to the Election Assistance Commission's effective dissolution",
+      "whether reconciliation maneuvering to pass voter-restriction legislation advances",
+      "whether further legislative hostage-taking tactics recur on unrelated bipartisan legislation",
+      "whether cryptocurrency self-dealing draws any regulatory or congressional response"
     ]
   }
 }

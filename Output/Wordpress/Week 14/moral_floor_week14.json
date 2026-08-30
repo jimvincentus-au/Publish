@@ -1,12 +1,12 @@
 {
   "week_number": 14,
-  "period_label": "Week 14 – 2025-04-19–2025-04-25",
+  "period_label": "Week 14",
   "window": {
     "start": "2025-04-19",
     "end": "2025-04-25"
   },
-  "clock_time_public": "7:57 p.m.",
-  "clock_delta_minutes": 0.2,
+  "clock_time_public": "7:33 p.m.",
+  "clock_delta_minutes": -0.1,
   "baseline_traits": [
     {
       "name": "character",
@@ -34,159 +34,218 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week saw a continuation of the erosion of democratic norms, with the executive branch increasingly disregarding judicial authority and civil rights, while courts and civil society made notable efforts to resist these trends.",
+    "summary": "Week 14 shows the executive branch continuing to press against nearly every moral floor trait simultaneously, but through diffuse, cumulative pressure rather than a single dramatic rupture. The administration escalated coercive funding threats against universities and cities, narrowed civil-rights enforcement by executive fiat, arrested a sitting judge over a courtroom decision, and continued defying deportation-related court orders. Disinformation and loyalty-testing (anti-Christian bias task forces, fabricated evidence, denial of verified reporting) proliferated across agencies. Judicial and civil-society resistance remained vigorous and, in several instances, effective, with courts issuing at least eleven rulings against the administration in a single week and universities coordinating public refusal. The pattern is one of normalized, multi-front erosion met by persistent but reactive institutional pushback.",
     "norms_broken": [
       {
-        "trait": "character",
-        "pattern": "Executive actions prioritized political gain over public duty, particularly through punitive measures against institutions and individuals.",
+        "trait": "restraint",
+        "pattern": "The administration used financial coercion against Harvard, other universities, law firms, and New York City/state transit funding to compel ideological and governance concessions, while considering invocation of the Insurrection Act for domestic deployment.",
         "severity": "serious",
-        "institutional_response": "Judicial rulings provided some pushback, but overall institutional resistance was limited.",
+        "institutional_response": "Harvard and over 150 university presidents refused and sued; courts later blocked several funding-coercion actions, but no external check yet existed on the Insurrection Act consideration.",
         "exemplars": [
           {
-            "exemplar_id": "wk14_character_ex01",
+            "exemplar_id": "wk14_restraint_ex01",
             "week": 14,
             "event_ids": [
-              "wk14_PA_001",
-              "wk14_PA_006"
+              "wk14_PA_005",
+              "wk14_IG_010"
             ],
             "developments": [
               {
-                "development_id": "wk14_PA_001",
-                "development_label": "Cut and froze over $2 billion in federal grants to Harvard University.",
+                "development_id": "wk14_PA_005",
+                "development_label": "Administration cut Harvard funding and threatened tax-exempt status over refused governance demands",
                 "role": "primary"
               },
               {
-                "development_id": "wk14_PA_006",
-                "development_label": "Threatened New York with loss of federal transportation funding.",
-                "role": "primary"
+                "development_id": "wk14_IG_010",
+                "development_label": "Harvard sued the administration over the funding freeze and tax-status threat",
+                "role": "secondary"
               }
             ],
-            "summary": "The use of federal funding as leverage against institutions exemplified prioritization of political objectives over adherence to public duty.",
-            "why_exemplary": "These actions illustrated a shift towards personal rule, undermining the integrity of public institutions.",
+            "summary": "The government withheld billions in research funding to coerce a university into ceding control over admissions, hiring, and curriculum.",
+            "why_exemplary": "A tier1-verified, sustained use of fiscal power to override institutional self-governance, testing whether coercion can substitute for law.",
             "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "ethics",
-        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the use of executive power to extract concessions from institutions.",
-        "severity": "serious",
-        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
-        "exemplars": [
+          },
           {
-            "exemplar_id": "wk14_ethics_ex01",
+            "exemplar_id": "wk14_restraint_ex02",
             "week": 14,
             "event_ids": [
-              "wk14_PA_001",
-              "wk14_PA_010"
+              "wk14_PA_007"
             ],
             "developments": [
               {
-                "development_id": "wk14_PA_001",
-                "development_label": "Cut and froze over $2 billion in federal grants to Harvard University.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk14_PA_010",
-                "development_label": "Ordered a probe into ActBlue, a major opposition fundraising platform.",
+                "development_id": "wk14_PA_007",
+                "development_label": "Trump ordered defense and homeland security secretaries to report on invoking the Insurrection Act",
                 "role": "primary"
               }
             ],
-            "summary": "The freezing of grants and the investigation into ActBlue blurred the lines between public office and private interests.",
-            "why_exemplary": "These actions exemplified a disregard for ethical boundaries, prioritizing personal and political interests.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "truthfulness",
-        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding immigration enforcement and funding.",
-        "severity": "serious",
-        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk14_truthfulness_ex01",
-            "week": 14,
-            "event_ids": [
-              "wk14_PA_034",
-              "wk14_IM_011"
-            ],
-            "developments": [
-              {
-                "development_id": "wk14_PA_034",
-                "development_label": "Misrepresented the status of tariff negotiations with China.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk14_IM_011",
-                "development_label": "Framed ActBlue as a conduit for foreign donations without evidence.",
-                "role": "primary"
-              }
-            ],
-            "summary": "The misrepresentation of negotiations and framing of ActBlue contributed to a narrative that undermined trust in official communications.",
-            "why_exemplary": "These actions embedded disinformation at the center of governance, undermining trust in governmental processes.",
-            "exemplar_type": "primary"
+            "summary": "The president directed preparation for possible domestic military deployment for immigration enforcement under an 1807 law.",
+            "why_exemplary": "A tier1-verified step toward an extraordinary and rarely-used expansion of executive military authority over civilian affairs.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "good_faith",
-        "pattern": "Executive orders undermined established legal frameworks and protections, particularly regarding immigration and civil rights.",
-        "severity": "serious",
-        "institutional_response": "Judicial challenges were initiated, but the executive's actions were largely unilateral.",
+        "pattern": "The administration continued to resist judicial orders on deportations, filed unreliable evidence in immigration proceedings, and publicly rejected due process as a requirement for removal, deepening the standoff documented in prior weeks.",
+        "severity": "extreme",
+        "institutional_response": "Multiple federal judges, including a Trump appointee, found probable cause of contempt or unconstitutional conduct; the Fourth Circuit warned of grave damage to constitutional government if defiance continued.",
         "exemplars": [
           {
             "exemplar_id": "wk14_good_faith_ex01",
             "week": 14,
             "event_ids": [
-              "wk14_IG_006",
-              "wk14_IG_007"
+              "wk14_PA_015",
+              "wk14_IG_005"
             ],
             "developments": [
               {
-                "development_id": "wk14_IG_006",
-                "development_label": "Blocked the Trump administration from withholding federal funds from sanctuary jurisdictions.",
+                "development_id": "wk14_PA_015",
+                "development_label": "Trump publicly stated judges could not require trials before deportation",
                 "role": "primary"
               },
               {
-                "development_id": "wk14_IG_007",
-                "development_label": "Blocked an executive order adding proof-of-citizenship requirements to federal voter registration.",
+                "development_id": "wk14_IG_005",
+                "development_label": "Multiple federal judges found the administration likely defying court orders on deportations",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The president denied a constitutional due-process requirement while courts separately found probable evidence of direct order violations.",
+            "why_exemplary": "A tier1/multi-source-corroborated combination showing rhetorical rejection of due process paired with documented non-compliance with judicial mandates.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk14_good_faith_ex02",
+            "week": 14,
+            "event_ids": [
+              "wk14_IG_013"
+            ],
+            "developments": [
+              {
+                "development_id": "wk14_IG_013",
+                "development_label": "Fourth Circuit denied the administration's appeal and warned of damage to constitutional government",
                 "role": "primary"
               }
             ],
-            "summary": "Judicial rulings enforced prior restraining orders on funding and voter registration, reaffirming judicial power to compel executive compliance.",
-            "why_exemplary": "These actions reinforced congressional control over appropriations and limited executive attempts to unilaterally suspend international commitments.",
+            "summary": "An appellate panel cautioned that continued executive defiance of courts risked serious harm to separation of powers.",
+            "why_exemplary": "A tier1-verified judicial warning underscores how far institutional patience with executive non-compliance had already worn thin.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "A sitting judge was arrested for a discretionary courtroom decision, and the Attorney General publicly attacked her before trial while warning of prosecuting other officials who resist immigration enforcement.",
+        "severity": "extreme",
+        "institutional_response": "Legal commentators and some lawmakers condemned the arrest as an attack on judicial independence; no institutional reversal occurred within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk14_character_ex01",
+            "week": 14,
+            "event_ids": [
+              "wk14_CR_018",
+              "wk14_CR_021"
+            ],
+            "developments": [
+              {
+                "development_id": "wk14_CR_018",
+                "development_label": "FBI arrested Wisconsin Judge Hannah Dugan for allegedly obstructing an ICE arrest in her courtroom",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk14_CR_021",
+                "development_label": "Attorney General Bondi publicly attacked Judge Dugan and warned of prosecuting officials who obstruct enforcement",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The unprecedented arrest of a sitting judge, paired with public prosecutorial attacks before trial, threatened judicial independence directly.",
+            "why_exemplary": "A multi-source-corroborated escalation from rhetorical attacks on courts to direct law-enforcement action against a judicial officer.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
         "trait": "stewardship",
-        "pattern": "The dismantling of oversight mechanisms and the removal of independent media weakened institutional accountability.",
+        "pattern": "The administration eliminated disparate-impact civil rights enforcement, dismissed a settlement protecting a Black community from sewage exposure, closed detention oversight offices, and gutted mine-safety and food-safety agencies while expanding extraction activity.",
         "severity": "serious",
-        "institutional_response": "Limited pushback from existing oversight bodies, highlighting a lack of resilience.",
+        "institutional_response": "Federal courts blocked several related actions (sanctuary funding, citizenship voting rule); no reversal occurred on civil-rights or oversight-office closures within the week.",
         "exemplars": [
           {
             "exemplar_id": "wk14_stewardship_ex01",
             "week": 14,
             "event_ids": [
-              "wk14_CR_008",
-              "wk14_IM_009"
+              "wk14_PA_017",
+              "wk14_CR_016"
             ],
             "developments": [
               {
-                "development_id": "wk14_CR_008",
-                "development_label": "Closed CRCL and the Immigration Detention Ombudsman offices overseeing detention conditions.",
+                "development_id": "wk14_PA_017",
+                "development_label": "DOJ dismissed a civil rights settlement on sewage pollution in a majority-Black Alabama county",
                 "role": "primary"
               },
               {
-                "development_id": "wk14_IM_009",
-                "development_label": "Shut down Voice of America until ordered by a court to restore it.",
+                "development_id": "wk14_CR_016",
+                "development_label": "ICE closed federal oversight offices for immigration detention",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The government abandoned a remedy for documented environmental harm and dismantled internal watchdogs monitoring detention conditions.",
+            "why_exemplary": "These actions permanently reduce institutional capacity to protect vulnerable populations, illustrating durable rather than episodic erosion.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "Officials made or defended demonstrably false public statements, including fabricated evidence against a wrongly deported man, denial of verified reporting on a security breach, and unsubstantiated claims about active China trade talks that Beijing explicitly denied.",
+        "severity": "serious",
+        "institutional_response": "Independent media documented the falsehoods; no corrections were issued by the administration.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk14_truthfulness_ex01",
+            "week": 14,
+            "event_ids": [
+              "wk14_IM_002",
+              "wk14_IM_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk14_IM_002",
+                "development_label": "White House posted a digitally altered image falsely depicting gang tattoos on a wrongly deported man",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk14_IM_012",
+                "development_label": "Trump made unsubstantiated claims about active trade negotiations with China that Beijing explicitly denied",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The administration distributed fabricated visual evidence and asserted diplomatic claims contradicted by the foreign government involved.",
+            "why_exemplary": "A tier1-verified fabrication used to justify a contested deportation, paired with a pattern of unverifiable public claims on major policy matters.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "The administration advanced a plan to shift a $700 billion federal payment system to a private company tied to Trump and Musk-aligned investors, while Neuralink falsely claimed disadvantaged-business status and DOGE inflated its savings figures for fundraising purposes.",
+        "severity": "concerning",
+        "institutional_response": "Reported by independent outlets; no formal ethics review occurred within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk14_ethics_ex01",
+            "week": 14,
+            "event_ids": [
+              "wk14_ES_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk14_ES_005",
+                "development_label": "Administration sought to replace federal SmartPay program with a politically-connected private company",
                 "role": "primary"
               }
             ],
-            "summary": "The closure of oversight offices and attempts to disband public media undermined institutional capacity and accountability.",
-            "why_exemplary": "These actions stripped internal watchdogs of their power, reducing institutional capacity to investigate executive misconduct.",
+            "summary": "A plan to hand a $700 billion government payments contract to a startup tied to administration-connected investors raised self-dealing concerns.",
+            "why_exemplary": "A tier1-verified proposal blending private financial interest with public infrastructure decisions at an unprecedented scale.",
             "exemplar_type": "primary"
           }
         ]
@@ -194,61 +253,126 @@
     ],
     "norms_strengthened": [
       {
-        "trait": "good_faith",
-        "pattern": "Judicial actions temporarily blocked some of the administration's most aggressive moves, demonstrating a commitment to uphold legal norms.",
+        "trait": "restraint",
+        "pattern": "Federal courts, including the Supreme Court, repeatedly intervened to halt deportations, block funding coercion against sanctuary cities, and strike down a unilateral proof-of-citizenship voting rule, issuing at least eleven rulings against the administration in one week.",
         "scope": "institutional",
-        "why_it_matters": "These judicial interventions highlight the importance of checks and balances in resisting executive overreach.",
+        "why_it_matters": "Sustained, high-volume judicial intervention across multiple domains demonstrates that courts continue to function as an effective check despite executive pressure and defiance.",
         "exemplars": [
           {
-            "exemplar_id": "wk14_good_faith_ex01",
+            "exemplar_id": "wk14_restraint_strength_ex01",
             "week": 14,
             "event_ids": [
-              "wk14_IG_001",
-              "wk14_IG_002"
+              "wk14_IG_015",
+              "wk14_IG_001"
             ],
             "developments": [
               {
-                "development_id": "wk14_IG_001",
-                "development_label": "Supreme Court temporarily halted deportations of Venezuelan detainees.",
+                "development_id": "wk14_IG_015",
+                "development_label": "Federal courts issued at least eleven rulings blocking Trump administration actions in one week",
                 "role": "primary"
               },
               {
-                "development_id": "wk14_IG_002",
-                "development_label": "Unanimously upheld a lower court order requiring the government to facilitate Kilmar García's return.",
+                "development_id": "wk14_IG_001",
+                "development_label": "SCOTUS issued emergency order halting deportations of Venezuelan men under the Alien Enemies Act",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Courts blocked funding impoundment, VOA dismantling, anti-DEI education rules, and Alien Enemies Act removals in a single week.",
+            "why_exemplary": "A tier1-verified surge of judicial rulings across diverse policy areas shows the judiciary's continued capacity for broad-based restraint on executive overreach.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Universities, led by Harvard, publicly refused federal demands to cede governance control, and over 150 university presidents signed a joint statement condemning government overreach into academic independence.",
+        "scope": "institutional",
+        "why_it_matters": "Coordinated, public refusal by a broad cross-section of institutions demonstrates that civil-society actors can sustain resistance to coercive federal pressure even at significant financial cost.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk14_good_faith_strength_ex01",
+            "week": 14,
+            "event_ids": [
+              "wk14_CR_004",
+              "wk14_CR_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk14_CR_004",
+                "development_label": "Harvard University refused Trump administration demands for control over admissions, hiring, and curriculum",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk14_CR_012",
+                "development_label": "Over 150 university presidents signed a joint statement opposing administration overreach",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A university's public refusal to comply, joined by broad institutional solidarity, defended academic freedom against government coercion.",
+            "why_exemplary": "A tier1/multi-source-corroborated instance of sustained, coordinated institutional resistance to executive pressure on independent governance.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "A federal jury again found the New York Times not liable in Sarah Palin's defamation retrial, reaffirming the actual-malice standard protecting accurate reporting on public figures from punitive litigation.",
+        "scope": "institutional",
+        "why_it_matters": "Upholding strong press-freedom protections against defamation claims preserves the ability of journalism to report accurately on public figures without fear of punitive litigation.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk14_truthfulness_strength_ex01",
+            "week": 14,
+            "event_ids": [
+              "wk14_IG_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk14_IG_012",
+                "development_label": "Federal jury found the New York Times not liable in Sarah Palin's defamation retrial",
                 "role": "primary"
               }
             ],
-            "summary": "Judicial rulings reinforced due process and accountability, demonstrating the judiciary's role in checking executive power.",
-            "why_exemplary": "These actions reaffirmed the judiciary's commitment to uphold legal norms against executive overreach.",
+            "summary": "The verdict upheld the actual-malice standard protecting press freedom against defamation suits from public figures.",
+            "why_exemplary": "A tier1-verified reaffirmation of a foundational press-freedom precedent amid broader administration hostility toward independent media.",
             "exemplar_type": "primary"
           }
         ]
       }
     ],
-    "direction_of_movement": "collapsing"
+    "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "Week 14 continues the concerning trends established in previous weeks, with the executive branch increasingly disregarding judicial authority and civil rights. The administration's actions prioritize political objectives over adherence to established legal frameworks, exemplified by punitive measures against individuals and institutions. While courts have provided some resistance, the overall trajectory indicates a deepening crisis in democratic norms and accountability mechanisms. The erosion of institutional checks and balances raises serious concerns about the future of governance and civil rights in the current political climate.",
+    "narrative": "Week 14 continues the deterioration documented in Week 13, though the character of the erosion shifted from a small number of extreme, headline-defining breaches toward a wider, more diffuse pattern of pressure across nearly every domain of government. Where Week 13 was marked by open defiance of a unanimous Supreme Court order and proposals to deport citizens, Week 14 shows that same defiance persisting in the courts while new fronts opened: coordinated financial coercion against universities and cities, the arrest of a sitting judge, elimination of disparate-impact civil-rights enforcement by fiat, and closure of internal detention oversight offices. No single event this week matches the acute severity of Week 13's citizen-deportation proposals, but the cumulative breadth of simultaneous pressure against courts, universities, civil servants, and vulnerable communities suggests the erosion is becoming structural rather than episodic.\n\nInstitutional resistance remained substantial and, in several respects, intensified. Courts issued at least eleven rulings against the administration in a single week, the Fourth Circuit escalated its warnings about damage to constitutional government, and over 150 university presidents joined a coordinated public stand. These responses show that the moral floor's institutional supports, courts, universities, and civil society, continue to function under strain. However, the arrest of a judge for a courtroom decision, and continued rhetorical and practical defiance of court orders even after adverse rulings, indicate that the executive is increasingly willing to treat institutional pushback as an obstacle to route around rather than a legitimate check to respect.\n\nThe net effect this week is consistent with the trajectory described in the prior summary: an executive branch persistently testing limits across multiple fronts simultaneously, met by courts and civil society that continue to hold the line in individual cases but have not altered the underlying direction of travel. The moral floor did not collapse further in a single dramatic episode, but it also did not stabilize; the breadth of simultaneous pressure points suggests increasing systemic strain.",
     "trend": "deteriorating",
     "stress_points": [
-      "centralization of executive power",
-      "disinformation as a governance tool",
-      "erosion of civil rights protections",
-      "politicization of the civil service"
+      "coercive funding pressure against universities, law firms, and cities",
+      "continued defiance and slow-walking of judicial orders on deportations",
+      "arrest and public prosecutorial attacks on a sitting judge",
+      "elimination of disparate-impact civil-rights enforcement by executive order",
+      "closure of internal detention and civil-rights oversight offices",
+      "fabricated evidence and denial of verified reporting by senior officials",
+      "blending of private financial interest with public infrastructure and data systems"
     ],
     "sources_of_resilience": [
-      "judicial pushback against executive orders",
-      "civil society mobilization against abuses",
-      "state-level legal challenges"
+      "high-volume, multi-domain judicial rulings against executive overreach",
+      "coordinated public refusal by universities and higher-education associations",
+      "continued jury and court reaffirmation of press-freedom and due-process standards",
+      "sustained nationwide protest mobilization",
+      "internal whistleblowing and objections from career civil servants",
+      "congressional and watchdog inquiries into records preservation and data practices"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
+    "level": "critical",
+    "justification": "The moral floor remains under severe and multi-directional stress. This week's arrest of a sitting judge over a discretionary courtroom decision, combined with an Attorney General's public attacks on that judge before trial, represents a direct assault on judicial independence that goes beyond rhetorical friction into concrete law-enforcement action against the judiciary itself. This occurs alongside continued documented non-compliance with court orders on deportations, elimination of civil-rights enforcement tools by fiat, and closure of internal oversight offices meant to check detention abuses. While courts and civil society continue to mount effective, high-volume resistance, including eleven rulings against the administration in a single week, the breadth of simultaneous pressure across judicial, academic, civil-service, and civil-rights domains indicates that erosion is becoming systemic rather than confined to isolated incidents.",
     "forward_signals": [
-      "increased executive orders bypassing legislative input",
-      "escalation of disinformation campaigns",
-      "further attempts to undermine civil rights protections"
+      "whether the Judge Dugan arrest leads to broader intimidation of judges or triggers stronger bipartisan pushback",
+      "whether contempt proceedings against the administration over deportation defiance resume and produce consequences",
+      "whether Harvard's lawsuit and university solidarity produce a durable check on funding-based coercion",
+      "whether the SmartPay/Ramp payments proposal advances despite conflict-of-interest concerns",
+      "whether closed detention oversight offices are restored or further watchdog functions are eliminated",
+      "whether the Insurrection Act consideration advances toward actual domestic deployment"
     ]
   }
 }

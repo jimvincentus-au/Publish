@@ -1,12 +1,12 @@
 {
   "week_number": 66,
-  "period_label": "Week 66 – 2026-04-18–2026-04-24",
+  "period_label": "Week 66",
   "window": {
     "start": "2026-04-18",
     "end": "2026-04-24"
   },
-  "clock_time_public": "8:13 p.m.",
-  "clock_delta_minutes": -0.1,
+  "clock_time_public": "7:42 p.m.",
+  "clock_delta_minutes": -0.7,
   "baseline_traits": [
     {
       "name": "character",
@@ -34,268 +34,220 @@
     }
   ],
   "weekly_audit": {
-    "summary": "The week showed a broadening rather than a singular collapse of the moral floor. Ethical strain spread across immigration enforcement, oversight, information control, and conflicts of interest. The most serious pattern was the use of lawful powers in ways that weakened accountability, blurred public and private interests, and made status, scrutiny, and records more contingent. At the same time, courts, watchdog groups, civil society, and some lawmakers still imposed friction through injunctions, disclosures, subpoenas, and investigations. The result was continued erosion, but not yet total institutional surrender.",
+    "summary": "Week 66 was defined by lateral spread of executive pressure rather than a single dramatic rupture. War-making authority over Iran was exercised unilaterally and unpredictably, with ceasefire deadlines set and abandoned without congressional consultation and an explicit assertion that the War Powers Act does not bind the president. Ethics boundaries blurred further as a senior negotiator conducted Iran diplomacy while receiving over $110 million from Saudi Arabia, a presidential family member profited from a wartime Pentagon contract, and the administration considered using public funds to bail out a foreign government tied to Trump-linked investments. Good faith eroded through a collusive-seeming lawsuit against the president's own IRS, a large settlement benefiting a guilty ally, a partisan investigator installed atop a probe of the president's critics, and a legally weak indictment of a civil rights organization. Truthfulness was strained by fabricated imagery used in diplomacy, false claims about a Strait of Hormuz reopening that Iran denied, and CDC suppression of a vaccine-efficacy study. Restraint gave way to sweeping purges of military leadership, denaturalization campaigns against hundreds of citizens, and litigation used as a tool against journalists and civil society. Institutional resistance persisted — courts blocked voter-roll lawsuits and a healthcare ban, an inspector general opened an Epstein Files compliance audit, and lawmakers pressed oversight of the FBI director — but these were narrower and reactive rather than structural.",
     "norms_broken": [
       {
-        "trait": "ethics",
-        "pattern": "Public decisions repeatedly appeared entangled with family, donor, or private financial interests, especially around war, contracting, and regulatory outcomes.",
-        "severity": "serious",
-        "institutional_response": "Congressional Democrats opened inquiries and planned subpoenas, but the underlying conflicts remained active during the week.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk66_ethics_ex01",
-            "week": 66,
-            "event_ids": [
-              "wk66_ES_015",
-              "wk66_IG_012"
-            ],
-            "developments": [
-              {
-                "development_id": "wk66_ES_015",
-                "development_label": "Jared Kushner continued Iran diplomacy while holding major Saudi financial ties",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk66_IG_012",
-                "development_label": "Representative Jamie Raskin opened an inquiry into Kushner's diplomatic and business ties",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Diplomatic leadership and major foreign-linked financial ties overlapped in Iran-related policy.",
-            "why_exemplary": "This directly tests the boundary between public power and private interest, because sensitive statecraft proceeded alongside unresolved personal financial entanglements.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk66_ethics_ex02",
-            "week": 66,
-            "event_ids": [
-              "wk66_ES_025",
-              "wk66_ES_028"
-            ],
-            "developments": [
-              {
-                "development_id": "wk66_ES_025",
-                "development_label": "Eric Trump announced a Pentagon robotics contract",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk66_ES_028",
-                "development_label": "A donor gave $2 million to Trump's Super PAC while seeking favorable casino-related outcomes",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Family-linked contracting and donor money seeking favorable outcomes appeared in the same week.",
-            "why_exemplary": "Together these developments show how office-adjacent networks can convert political proximity into material advantage, weakening confidence that public decisions are made on public terms.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
         "trait": "restraint",
-        "pattern": "Officials used coercive and discretionary powers aggressively rather than sparingly, especially in immigration, clemency, and protest-related contexts.",
-        "severity": "serious",
-        "institutional_response": "Some courts and litigants challenged executive actions, but many of the week's power expansions took effect before review.",
+        "pattern": "The president issued an improvised ultimatum threatening mass casualties against Iran, then repeatedly extended and abandoned ceasefire deadlines unilaterally, while declining to seek congressional authorization and asserting the War Powers Act does not constrain him.",
+        "severity": "extreme",
+        "institutional_response": "Congress did not force a binding check this week; the administration's legal theory proceeded largely unchallenged in practice, though prior votes and later resolutions are noted as forthcoming pressure points.",
         "exemplars": [
           {
             "exemplar_id": "wk66_restraint_ex01",
             "week": 66,
             "event_ids": [
-              "wk66_PA_003"
+              "wk66_PA_006",
+              "wk66_PA_007"
             ],
             "developments": [
               {
-                "development_id": "wk66_PA_003",
-                "development_label": "President Trump granted mass clemency to January 6 participants",
+                "development_id": "wk66_PA_006",
+                "development_label": "Issued unplanned military ultimatum to Iran and threatened bombing campaign.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk66_PA_007",
+                "development_label": "Extended and then abandoned ceasefire deadlines with Iran unilaterally.",
                 "role": "primary"
               }
             ],
-            "summary": "Pardon power was used to erase consequences for an attack on democratic institutions.",
-            "why_exemplary": "This is a failure of self-limitation: a lawful power was used in a way that weakened accountability for political violence against the constitutional order.",
+            "summary": "An improvised threat of mass casualties was followed by repeated unilateral extensions and reversals of ceasefire terms, bypassing structured national-security process.",
+            "why_exemplary": "Multi-source corroborated pattern shows war-making authority exercised erratically and without institutional deliberation, concentrating catastrophic decisions in one person's shifting judgment.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk66_restraint_ex02",
             "week": 66,
             "event_ids": [
-              "wk66_CRD_014",
-              "wk66_CRD_016"
+              "wk66_PA_011"
             ],
             "developments": [
               {
-                "development_id": "wk66_CRD_014",
-                "development_label": "The administration deployed large numbers of federal officers into Democratic-led cities for immigration raids",
+                "development_id": "wk66_PA_011",
+                "development_label": "Declined to seek congressional authorization for military operations against Iran.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk66_CRD_016",
-                "development_label": "The administration pushed denaturalization cases against hundreds of people",
-                "role": "secondary"
               }
             ],
-            "summary": "Immigration authority expanded from raids into broader insecurity of legal status and belonging.",
-            "why_exemplary": "The pattern shows power being pressed to its outer edge rather than bounded by caution, especially where state coercion can permanently alter civic membership.",
-            "exemplar_type": "secondary"
+            "summary": "The president continued military action while asserting the War Powers Act does not bind him, directly challenging Congress's constitutional war authority.",
+            "why_exemplary": "A corroborated, explicit legal claim of unbounded war power represents a direct rejection of constitutional restraint rather than an isolated overreach.",
+            "exemplar_type": "primary"
           }
         ]
       },
       {
-        "trait": "truthfulness",
-        "pattern": "Public communication on matters of war, public opinion, and health was marked by contradiction, delegitimization of independent facts, and withholding of consequential information.",
+        "trait": "ethics",
+        "pattern": "A senior negotiator led Iran diplomacy while receiving over $110 million from Saudi Arabia; the administration considered a bailout benefiting a foreign government tied to Trump family investments; and a presidential family member profited from a wartime Pentagon contract.",
         "severity": "serious",
-        "institutional_response": "Media, courts, and watchdog litigation continued to press for disclosure, but misleading or withheld information still shaped the public environment first.",
+        "institutional_response": "No enforcement action was recorded this week; media coverage of the Kushner conflict was notably sparse, and congressional oversight had not yet produced consequences.",
         "exemplars": [
           {
-            "exemplar_id": "wk66_truthfulness_ex01",
+            "exemplar_id": "wk66_ethics_ex01",
             "week": 66,
             "event_ids": [
-              "wk66_IG_007",
-              "wk66_IMM_005"
+              "wk66_ES_009"
             ],
             "developments": [
               {
-                "development_id": "wk66_IG_007",
-                "development_label": "The White House issued conflicting statements about JD Vance's role in negotiations",
+                "development_id": "wk66_ES_009",
+                "development_label": "Led Iran diplomacy while receiving over $110 million from Saudi government.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk66_IMM_005",
-                "development_label": "Administration officials said Trump's commentary had harmed Iran negotiations",
-                "role": "secondary"
               }
             ],
-            "summary": "War-related messaging was internally inconsistent and publicly destabilizing.",
-            "why_exemplary": "On a matter of major public consequence, citizens were given conflicting signals about who was negotiating and whether official messaging itself was undermining policy.",
+            "summary": "A senior negotiator's undisclosed multi-billion-dollar financial relationship with a foreign government persisted during active regional diplomacy.",
+            "why_exemplary": "This is a textbook conflict of interest at the center of national security decision-making, compounded by the near-total media silence documented in the same week.",
             "exemplar_type": "primary"
           },
           {
-            "exemplar_id": "wk66_truthfulness_ex02",
+            "exemplar_id": "wk66_ethics_ex02",
             "week": 66,
             "event_ids": [
-              "wk66_IMM_008",
-              "wk66_IMM_014"
+              "wk66_ES_011"
             ],
             "developments": [
               {
-                "development_id": "wk66_IMM_008",
-                "development_label": "President Trump dismissed negative poll results as rigged",
+                "development_id": "wk66_ES_011",
+                "development_label": "Promoted $24 million Pentagon contract awarded to his company.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk66_IMM_014",
-                "development_label": "The CDC blocked publication of a report on COVID-19 vaccine effectiveness",
-                "role": "secondary"
               }
             ],
-            "summary": "Independent measures were discredited while scientific findings were withheld from public view.",
-            "why_exemplary": "Truthfulness fails not only through false claims but through manufacturing distrust and suppressing relevant evidence citizens need for self-government.",
+            "summary": "A president's family member publicized personal profit from a military contract tied to the war he initiated, blending private enrichment with wartime policy.",
+            "why_exemplary": "Family enrichment tied directly to an active conflict illustrates the collapse of the boundary between public office and private gain central to the ethics trait.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "good_faith",
-        "pattern": "Formal procedures were used in ways that frustrated oversight, chilled scrutiny, or turned administration into adversarial leverage rather than fair governance.",
-        "severity": "concerning",
-        "institutional_response": "Congress issued subpoenas, courts kept cases moving, and plaintiffs sued, indicating resistance rather than full acceptance.",
+        "pattern": "The DOJ settled with a guilty ally for $1.2 million, the president sued an agency he controls in litigation called collusive, a partisan election denier was installed atop a probe of the president's critics, and a civil rights organization faced a legally weak federal indictment.",
+        "severity": "serious",
+        "institutional_response": "Courts and outside observers criticized the maneuvers, but no formal reversal occurred this week; the pattern proceeded largely unimpeded.",
         "exemplars": [
           {
-            "exemplar_id": "wk66_good_faith_ex01",
+            "exemplar_id": "wk66_goodfaith_ex01",
             "week": 66,
             "event_ids": [
-              "wk66_IG_009",
-              "wk66_IG_039"
+              "wk66_PA_004"
             ],
             "developments": [
               {
-                "development_id": "wk66_IG_009",
-                "development_label": "Pam Bondi did not appear for a congressional subpoena",
+                "development_id": "wk66_PA_004",
+                "development_label": "Filed $10 billion lawsuit against IRS over tax information leak.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk66_IG_039",
-                "development_label": "The House Oversight Committee subpoenaed Pam Bondi",
-                "role": "secondary"
               }
             ],
-            "summary": "Congressional oversight was frustrated by nonappearance in a politically sensitive inquiry.",
-            "why_exemplary": "Democratic rules depend on engagement with oversight in substance, not merely forcing Congress to escalate each step to obtain basic cooperation.",
+            "summary": "A sitting president sued an agency he controls in litigation watchdogs called collusive, blurring the line between adversarial process and self-dealing.",
+            "why_exemplary": "Using litigation against one's own executive branch subverts the adversarial legal system's basic premise and signals procedural manipulation for personal or political benefit.",
             "exemplar_type": "primary"
           },
           {
-            "exemplar_id": "wk66_good_faith_ex02",
+            "exemplar_id": "wk66_goodfaith_ex02",
             "week": 66,
             "event_ids": [
-              "wk66_IG_024",
-              "wk66_IG_042"
+              "wk66_PA_008"
             ],
             "developments": [
               {
-                "development_id": "wk66_IG_024",
-                "development_label": "Senate Republicans prepared ICE and Border Patrol funding through reconciliation",
+                "development_id": "wk66_PA_008",
+                "development_label": "Announced 11-count indictment of Southern Poverty Law Center.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk66_IG_042",
-                "development_label": "Senate Republicans advanced a budget resolution for immigration enforcement funding",
-                "role": "secondary"
               }
             ],
-            "summary": "Major enforcement expansion was pursued through procedures designed to reduce debate and blocking power.",
-            "why_exemplary": "This suggests use of lawful procedure to avoid the deliberative purpose of ordinary legislative contestation, weakening the spirit of democratic decision-making.",
+            "summary": "A civil rights organization faced federal fraud charges widely viewed as legally weak, seen as retaliation for its work against Trump-aligned extremist groups.",
+            "why_exemplary": "A corroborated indictment against a long-standing advocacy group under contested legal theory reflects use of prosecutorial power to punish disfavored civil society actors.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "The president made false public claims that Iran had agreed to reopen the Strait of Hormuz, posted fabricated AI-generated imagery in the context of diplomacy, and the CDC blocked publication of a peer-reviewed vaccine-efficacy report.",
+        "severity": "serious",
+        "institutional_response": "Iranian officials publicly denied the claims; the CDC study was later published independently, showing eventual correction but only through external channels.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk66_truthfulness_ex01",
+            "week": 66,
+            "event_ids": [
+              "wk66_IM_006"
+            ],
+            "developments": [
+              {
+                "development_id": "wk66_IM_006",
+                "development_label": "Made false public claims that Iran had agreed to reopen Strait of Hormuz permanently.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Public declarations of a diplomatic breakthrough that Iran denied ever occurring undermined the credibility of official statements during an active crisis.",
+            "why_exemplary": "A corroborated, repeated false claim about a major international negotiation manufactures a public reality disconnected from verified fact.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk66_truthfulness_ex02",
+            "week": 66,
+            "event_ids": [
+              "wk66_IM_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk66_IM_011",
+                "development_label": "Blocked publication of scientific report showing COVID-19 vaccine efficacy.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A federal health agency suppressed peer-reviewed public health findings before their eventual publication elsewhere, delaying accurate information reaching the public.",
+            "why_exemplary": "Corroborated suppression of scientific findings by a public health agency directly damages the obligation to keep citizens informed on matters of public consequence.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
-        "trait": "stewardship",
-        "pattern": "Institutional capacity and public trust were weakened through downsizing, redirection, recordkeeping disputes, and pressure on independent or protective bodies.",
+        "trait": "character",
+        "pattern": "A sweeping purge of senior military leadership across service branches, including a cabinet-level Navy Secretary, consolidated loyalty-based control over the armed forces, while an FBI director sued a news outlet over reporting on his own conduct.",
         "severity": "serious",
-        "institutional_response": "Courts ordered disclosures and outside groups sued to preserve records and agency accountability, but much of the institutional damage remained prospective or ongoing.",
+        "institutional_response": "Congressional Democrats demanded accountability measures (alcohol screening for the FBI director), but no binding check on the military purges was recorded this week.",
         "exemplars": [
           {
-            "exemplar_id": "wk66_stewardship_ex01",
+            "exemplar_id": "wk66_character_ex01",
             "week": 66,
             "event_ids": [
-              "wk66_ES_016",
-              "wk66_IG_040"
+              "wk66_IG_019"
             ],
             "developments": [
               {
-                "development_id": "wk66_ES_016",
-                "development_label": "The administration ended the CFPB headquarters lease and sought to shrink the agency's workforce",
+                "development_id": "wk66_IG_019",
+                "development_label": "Purged senior military leadership across nearly all service branches and fired Navy Secretary.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk66_IG_040",
-                "development_label": "Democratic senators released a report on cuts to the Social Security Administration",
-                "role": "secondary"
               }
             ],
-            "summary": "Core public-serving institutions faced capacity loss in consumer protection and Social Security administration.",
-            "why_exemplary": "Stewardship fails when governing choices reduce the long-term ability of institutions to serve the public reliably and credibly.",
+            "summary": "A sweeping removal of top generals, admirals, and a cabinet-level Navy secretary consolidated loyalty-based control over the armed forces' command structure.",
+            "why_exemplary": "Corroborated mass removal of senior officers on an apparent loyalty basis, rather than performance or conduct, undermines the professional, apolitical character expected of military leadership.",
             "exemplar_type": "primary"
           },
           {
-            "exemplar_id": "wk66_stewardship_ex02",
+            "exemplar_id": "wk66_character_ex02",
             "week": 66,
             "event_ids": [
-              "wk66_IG_055",
-              "wk66_CRD_008"
+              "wk66_IG_011"
             ],
             "developments": [
               {
-                "development_id": "wk66_IG_055",
-                "development_label": "Freedom of the Press Foundation and CREW sued over White House recordkeeping practices",
+                "development_id": "wk66_IG_011",
+                "development_label": "Filed $250 million defamation lawsuit against The Atlantic.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk66_CRD_008",
-                "development_label": "The administration fired six more immigration judges",
-                "role": "secondary"
               }
             ],
-            "summary": "The week's disputes reached both the future archive of the presidency and adjudicative capacity in immigration court.",
-            "why_exemplary": "Democracy depends on preserved records and functioning adjudication; weakening either damages correction, memory, and future accountability.",
+            "summary": "A sitting FBI director sued a news outlet over critical reporting on his own conduct, using office-adjacent leverage rather than accepting scrutiny.",
+            "why_exemplary": "Corroborated use of personal litigation by a senior law enforcement official against press coverage of himself reflects placing personal reputation ahead of the transparency duties of high office.",
             "exemplar_type": "secondary"
           }
         ]
@@ -303,157 +255,85 @@
     ],
     "norms_strengthened": [
       {
-        "trait": "stewardship",
-        "pattern": "Courts and watchdog litigants acted to preserve records, maintain review, and protect institutional capacity against executive opacity or overreach.",
-        "scope": "institutional",
-        "why_it_matters": "These actions keep democratic correction possible by preserving evidence, slowing unilateral action, and maintaining the operating integrity of public institutions.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk66_stewardship_ex01",
-            "week": 66,
-            "event_ids": [
-              "wk66_IG_053",
-              "wk66_IG_014"
-            ],
-            "developments": [
-              {
-                "development_id": "wk66_IG_053",
-                "development_label": "Judge Howell authorized release of government records in Jackson v. Kennedy",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk66_IG_014",
-                "development_label": "Democracy Forward amended its complaint over Justice Department FOIA processing",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Courts and litigants pressed for disclosure of government records despite executive resistance.",
-            "why_exemplary": "Stewardship is reinforced when institutions preserve the documentary basis for accountability rather than allowing secrecy to harden into loss.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk66_stewardship_ex02",
-            "week": 66,
-            "event_ids": [
-              "wk66_IG_031",
-              "wk66_IG_047"
-            ],
-            "developments": [
-              {
-                "development_id": "wk66_IG_031",
-                "development_label": "Judge Casper granted a preliminary injunction against most challenged Interior actions",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk66_IG_047",
-                "development_label": "Judge Lin denied the administration's request to stay proceedings in Anthropic v. Department of War",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Judges kept review active and prevented contested executive actions from escaping timely scrutiny.",
-            "why_exemplary": "Institutional durability depends on courts remaining able to pause, examine, and not simply defer to executive momentum.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
         "trait": "good_faith",
-        "pattern": "Some legislative and civic actors used formal channels to investigate conflicts, compel testimony, and defend access to protest and participation.",
+        "pattern": "Federal judges in multiple states dismissed and opposed DOJ lawsuits demanding sensitive state voter rolls, and a federal judge overturned the administration's ban on gender-affirming care for minors, finding the government's legal defense dishonest.",
         "scope": "institutional",
-        "why_it_matters": "Good-faith democratic practice survives when actors respond to abuse through oversight and lawful challenge rather than reciprocal norm-breaking.",
+        "why_it_matters": "Judicial willingness to repeatedly reject federal overreach into state election administration and to call out dishonest legal argumentation preserves the rule-of-law check against manufactured legal pretexts.",
         "exemplars": [
           {
-            "exemplar_id": "wk66_good_faith_ex01",
+            "exemplar_id": "wk66_goodfaith_strength_ex01",
             "week": 66,
             "event_ids": [
-              "wk66_IG_032",
-              "wk66_IG_039"
+              "wk66_IG_006"
             ],
             "developments": [
               {
-                "development_id": "wk66_IG_032",
-                "development_label": "House Judiciary Democrats opened an inquiry into Kash Patel's conduct",
+                "development_id": "wk66_IG_006",
+                "development_label": "Dismissed and opposed DOJ lawsuits demanding state voter rolls.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk66_IG_039",
-                "development_label": "The House Oversight Committee subpoenaed Pam Bondi",
-                "role": "secondary"
               }
             ],
-            "summary": "Congress used inquiry and subpoena power to answer possible misconduct and resistance.",
-            "why_exemplary": "These steps show adherence to oversight norms through established procedures rather than abandonment of accountability when cooperation fails.",
+            "summary": "Courts in Rhode Island, California, and Oregon repeatedly rejected federal attempts to compel states to hand over sensitive voter data.",
+            "why_exemplary": "Repeated judicial rebuffs across multiple jurisdictions in the same week demonstrate a durable check against a coordinated federal overreach campaign.",
             "exemplar_type": "primary"
           },
           {
-            "exemplar_id": "wk66_good_faith_ex02",
+            "exemplar_id": "wk66_goodfaith_strength_ex02",
             "week": 66,
             "event_ids": [
-              "wk66_IG_045",
-              "wk66_CRD_005"
+              "wk66_IG_015"
             ],
             "developments": [
               {
-                "development_id": "wk66_IG_045",
-                "development_label": "Accountability NOW USA sued over threats to revoke a protest permit",
+                "development_id": "wk66_IG_015",
+                "development_label": "Overturned Trump administration ban on gender-affirming care for minors.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk66_CRD_005",
-                "development_label": "No Kings, Indivisible, and the ACLU held immigrants' rights trainings and webinars",
-                "role": "secondary"
               }
             ],
-            "summary": "Civil society defended protest access and legal literacy through lawful, participatory means.",
-            "why_exemplary": "Good faith is strengthened when citizens meet pressure with transparent legal challenge and civic education rather than intimidation or withdrawal.",
+            "summary": "A court found the administration's healthcare restriction unlawful and its legal defense dishonest, reasserting oversight of executive health policy.",
+            "why_exemplary": "A court explicitly naming government dishonesty in litigation reinforces the principle that legal defenses must be made in good faith, not as pretext.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
-        "trait": "truthfulness",
-        "pattern": "Some institutions acted to reduce synthetic manipulation and force disclosure of official information.",
-        "scope": "institutional",
-        "why_it_matters": "Democracy needs active defenses against both fabricated online personas and government secrecy if citizens are to deliberate on a shared factual basis.",
+        "trait": "stewardship",
+        "pattern": "A federal judge blocked a $6.2 billion media merger on antitrust grounds, an inspector general opened an audit of DOJ compliance with the Epstein Files Transparency Act, and the House passed bipartisan legislation restoring Haitian Temporary Protected Status.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Continued antitrust enforcement, watchdog audits of transparency-law compliance, and bipartisan protection of a vulnerable population show institutions still working to preserve capacity, accountability, and public trust for the future.",
         "exemplars": [
           {
-            "exemplar_id": "wk66_truthfulness_ex01",
+            "exemplar_id": "wk66_stewardship_strength_ex01",
             "week": 66,
             "event_ids": [
-              "wk66_IMM_006"
+              "wk66_IG_020"
             ],
             "developments": [
               {
-                "development_id": "wk66_IMM_006",
-                "development_label": "Facebook and Instagram removed AI-generated pro-MAGA influencer accounts",
+                "development_id": "wk66_IG_020",
+                "development_label": "Launched audit of DOJ compliance with Epstein Files Transparency Act.",
                 "role": "primary"
               }
             ],
-            "summary": "Platforms removed synthetic political personas that could mislead users about authentic support.",
-            "why_exemplary": "This is a concrete defense against manufactured unreality in political discourse, even if partial and platform-dependent.",
+            "summary": "An internal watchdog opened review of whether the department met legal deadlines and safeguards for releasing files under a congressionally mandated law.",
+            "why_exemplary": "Corroborated internal audit activity shows continued enforcement infrastructure for transparency obligations even amid broader pressure on oversight bodies.",
             "exemplar_type": "primary"
           },
           {
-            "exemplar_id": "wk66_truthfulness_ex02",
+            "exemplar_id": "wk66_stewardship_strength_ex02",
             "week": 66,
             "event_ids": [
-              "wk66_IG_030",
-              "wk66_IG_048"
+              "wk66_IG_013"
             ],
             "developments": [
               {
-                "development_id": "wk66_IG_030",
-                "development_label": "Judge Failla ordered disclosure of a USCIS decision memo",
+                "development_id": "wk66_IG_013",
+                "development_label": "Passed discharge petition and bill restoring Haitian Temporary Protected Status.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk66_IG_048",
-                "development_label": "Judge Moss entered partial final judgments for NPR and PBS against Trump",
-                "role": "secondary"
               }
             ],
-            "summary": "Courts reinforced access to agency reasoning and protected media institutions from executive pressure.",
-            "why_exemplary": "Truthfulness depends not only on speech but on preserving channels through which facts, reasoning, and independent reporting can reach the public.",
+            "summary": "Bipartisan lawmakers overrode leadership resistance to protect roughly 350,000 Haitian immigrants from removal.",
+            "why_exemplary": "A cross-partisan legislative override demonstrates that Congress retains some capacity to act in the public interest against executive immigration policy.",
             "exemplar_type": "secondary"
           }
         ]
@@ -462,35 +342,34 @@
     "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "Relative to the prior summary, this week did not reverse the longer deterioration of the moral floor. It refined it. The earlier pattern of executive overreach, conflict-of-interest concern, and narrative manipulation continued, but the week's evidence showed those habits spreading across more domains at once: immigration status, war-related finance, press scrutiny, voter data, public records, and institutional capacity. The ethical problem is no longer confined to headline abuses. It is becoming a governing style in which pressure, opacity, and selective advantage recur across systems.\n\nAt the same time, the prior week's picture of near-collapse is moderated slightly by the persistence of institutional friction. Courts still ordered disclosure, denied delay, entered judgments against executive action, and enjoined contested agency moves. Congress and watchdog groups still opened inquiries, issued subpoenas, and sued for records. That means the moral floor is not absent everywhere. But it is holding less through internal self-restraint than through external resistance. The cumulative trajectory is therefore deteriorating and unstable: breaches are increasingly normalized, while correction depends on actors outside the immediate centers of power forcing accountability after the fact.",
+    "narrative": "Week 66 extends the steady-state dysfunction identified in Week 65, but the erosion has widened in scope rather than deepened in any single domain. Where the prior week concentrated on war-making, pardon promises, and retaliation against whistleblowers, this week's pattern shows the same loyalty-over-law logic diffusing outward: into military command structure through a sweeping purge, into citizenship itself through mass denaturalization proceedings, into journalism through litigation and FBI scrutiny of a reporter, and into diplomacy through undisclosed financial entanglements. The through-line remains consistent — proximity to power, whether via family ties, donor relationships, or loyalty appointments, continues to substitute for the restraint, transparency, and even-handedness that democratic legitimacy requires.\n\nAt the same time, the resilience observed in prior weeks persists in narrower but real form. Courts in multiple states continued to rebuff federal overreach into election administration, a healthcare ban was overturned with judicial criticism of the government's dishonesty, an inspector general opened a compliance audit tied to a transparency statute, and Congress achieved a rare bipartisan legislative override to protect a vulnerable population. These are not structural reversals; they are case-by-case frictions that slow, without stopping, an executive branch acting with increasing unilateral confidence in war powers, personnel control, and information management.\n\nThe trajectory across Weeks 65 and 66 is best described as a widening plateau of dysfunction rather than acceleration toward collapse. The moral floor has not fallen through a new threshold this week, but the geographic and institutional footprint of norm violations has expanded, drawing military command, citizenship law, science communication, and financial conflicts of interest more fully into the same pattern of impunity and self-dealing already visible in war-making and clemency practices.",
     "trend": "deteriorating",
     "stress_points": [
-      "conflicts of interest around war, contracting, and donor access",
-      "aggressive use of immigration power reaching into settled status",
-      "retaliatory or chilling pressure on press and advocacy groups",
-      "delegitimization of independent facts and withholding of public information",
-      "procedural maneuvers that reduce oversight and debate",
-      "institutional thinning of watchdog and service agencies"
+      "unchecked assertion of unilateral war powers",
+      "undisclosed financial conflicts of interest in senior diplomacy and family enrichment",
+      "litigation and prosecutorial power used to punish critics, journalists, and advocacy groups",
+      "purge of senior military leadership on apparent loyalty grounds",
+      "denaturalization campaign threatening settled citizenship status",
+      "suppression or manipulation of scientific and diplomatic information"
     ],
     "sources_of_resilience": [
-      "judicial review still producing injunctions, disclosures, and adverse rulings",
-      "congressional oversight inquiries and subpoenas",
-      "watchdog litigation over records, FOIA, and executive process",
-      "civil society legal trainings and protest defense",
-      "platform action against synthetic political manipulation",
-      "media and public-interest scrutiny of conflicts and coercive power"
+      "judicial rejection of federal overreach into state election data",
+      "courts naming and rejecting dishonest government legal defenses",
+      "internal watchdog audits of transparency-law compliance",
+      "bipartisan congressional action protecting vulnerable populations",
+      "continued (if reactive) congressional oversight demands on official conduct",
+      "independent investigative journalism exposing conflicts of interest despite retaliation"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "High risk is warranted because the week's breaches were not isolated mistakes. They formed a connected pattern across several core traits: ethics was strained by repeated overlap between public authority and private benefit; restraint was weakened by expansive use of clemency, immigration force, and denaturalization pressure; truthfulness suffered through contradictory war messaging, attacks on independent measures, and blocked scientific publication; stewardship was damaged by agency weakening and recordkeeping disputes. These are precisely the kinds of failures that make democratic correction harder over time.\n\nThe risk is not yet rated severe or critical because the supplied digests also show meaningful resistance. Courts remained active, records suits advanced, oversight inquiries opened, and some accountability mechanisms still functioned. But the balance remains unfavorable: executive action generally moved first and broadly, while corrective institutions responded later and case by case. If that pattern persists, norm breaches are likely to become more routine and less reversible.",
+    "level": "severe",
+    "justification": "The moral floor remains severely stressed and shows signs of further diffusion rather than containment. War powers were exercised with explicit rejection of congressional authority; senior military leadership was purged on an apparent loyalty basis; family and allied financial interests intersected repeatedly with active war policy and diplomacy; and legal and investigative tools were turned against journalists, civil rights organizations, and critics. These patterns compound rather than replace the entrenched abuses documented in the prior week. Countervailing institutional action — judicial rejections of federal overreach, a compliance audit, bipartisan legislative protections — demonstrates that resistance capacity has not been extinguished, but it remains narrow, reactive, and insufficient to reverse the broader trajectory.",
     "forward_signals": [
-      "further expansion of denaturalization or deportation-focused enforcement",
-      "continued use of oversight-resistant tactics by executive or former executive officials",
-      "new evidence linking donor money or family networks to public decisions",
-      "additional attacks on journalists, broadcasters, or records access",
-      "procedural pushes to fund coercive capacity while limiting debate",
-      "court willingness or unwillingness to keep disclosure and review moving"
+      "whether Congress moves beyond oversight demands to binding consequences for the FBI director or military purges",
+      "developments in the denaturalization campaign and any judicial intervention",
+      "outcome of scrutiny into Kushner's Saudi financial ties and the broader war-profiteering pattern",
+      "further escalation or de-escalation in Iran policy and any renewed war-powers votes",
+      "whether the Epstein Files compliance audit produces enforceable findings"
     ]
   }
 }

@@ -276,3 +276,195 @@ Information, Memory and Manipulation
 23. Drug Enforcement Administration announced multiple controlled substance manufacturing and import applications: DEA published notices on applications to manufacture or import controlled substances, including psilocybin and cocaine, inviting public comment and signaling how drug research and production are regulated. — 2026-03-13
 
 24. Democracy Docket continued tracking litigation and actions affecting election rules: Democracy Docket maintained analysis of court cases and policies shaping voting access, serving as an information hub on democracy-related legal developments. — 2026-03-13
+
+<!-- BEGIN GENERATED APPENDIX -->
+Power and Authority
+
+1. President Trump launched a military campaign against Iran without congressional authorization: Unilateral initiation of major military conflict without congressional approval marked a sharp departure from precedent and raised separation-of-powers concerns. — 2026-03-07
+
+2. Trump gave shifting definitions of unconditional surrender for Iran: The president's vague, subjective war-ending criteria showed the absence of defined military objectives or accountability for the conflict's scope. — 2026-03-07
+
+3. Trump demanded unconditional surrender from Iran and later reversed course on the war's status: The president made escalatory public demands then repeatedly contradicted himself about whether the war was ending, undermining coherent civilian control of military policy. — 2026-03-07
+
+4. Trump characterized soldier deaths and economic harm as acceptable costs of war: Dismissing casualties and economic pain from unauthorized military action reflects a casual approach to the human and financial costs of executive war-making. — 2026-03-08
+
+5. Trump wore campaign merchandise at a dignified transfer ceremony for fallen soldiers: Wearing campaign gear at a solemn military ceremony blurred the line between official duty and political promotion, drawing criticism for disrespecting fallen troops. — 2026-03-08
+
+6. Trump threatened to veto all legislation unless Congress passed the SAVE America Act: The president used his signing power as leverage to coerce Congress into passing legislation that restricts voting access, testing the separation of powers. — 2026-03-08
+
+7. Trump acknowledged expected American casualties and threatened Iran with total destruction: Public threats of disproportionate retaliation against a foreign nation, absent a defined endgame, reflected unchecked escalatory rhetoric in an undeclared war. — 2026-03-09
+
+8. Trump declined to rule out a military draft and ordered additional troops to the Middle East: The White House's refusal to rule out conscription during active escalation signaled a possible expansion of executive war powers over the volunteer force. — 2026-03-08
+
+9. Trump made contradictory public statements about the war's status while pressuring the Senate on voting legislation: The president's shifting war narratives alongside a parallel demand to override Senate rules for restrictive voting legislation showed simultaneous erosion of institutional checks. — 2026-03-09
+
+10. Trump convened a regional military coalition summit and discussed regime change in Cuba: The president's discussion of military coercion against additional sovereign nations at a summit held at his private resort signaled expanding unilateral war ambitions. — 2026-03-07
+
+11. Trump signed a proclamation and executive order creating new sanctions authority over foreign states: New unilateral power to designate and sanction foreign governments over detention practices expanded executive control of foreign policy without congressional input. — 2026-03-09
+
+12. Trump signed an executive order adjusting Defense Production Act delegations to the Secretary of Energy: Redistributing emergency economic powers across agencies expanded the machinery available for unilateral executive control of national resources. — 2026-03-13
+
+13. Trump posted inflammatory rhetoric claiming personal responsibility for killing Iranian forces: The president's personalized, dehumanizing language about war casualties reflected an unchecked, entertainment-like approach to lethal military action. — 2026-03-13
+
+14. Trump downplayed rising gas prices caused by the Iran war as beneficial to the United States: Dismissing consumer economic harm from a war he initiated shows disregard for the domestic costs of unchecked executive military action. — 2026-03-13
+
+
+Institutions and Governance
+
+1. Judge Royce C. Lamberth ruled that Kari Lake unlawfully served as acting CEO of Voice of America's parent agency and voided her actions: A federal court invalidated an unconfirmed official's mass layoffs and restructuring of a public media agency, reasserting Appointments Clause and Vacancies Act limits on executive personnel power. — 2026-03-08
+
+2. Democratic senators filed War Powers Act resolutions demanding congressional authorization for the Iran conflict: Senators used a core congressional check on military authority to force debate over undeclared hostilities, though Republican leaders largely sidelined the effort. — 2026-03-07
+
+3. Judge Emily Richardson approved an Alford plea for Cop City protester John Mazurek and imposed a decade-long ban on protest participation: The plea resolved a lengthy prosecution but imposed probation terms restricting political expression and association for ten years, raising First Amendment concerns. — 2026-03-07
+
+4. Judge Lamberth granted partial summary judgment finding Kari Lake's appointment violated the Vacancies Act: A federal ruling voided actions taken under an unlawful appointment, reinforcing statutory limits on acting-official authority at a federal media agency. — 2026-03-07
+
+5. Democratic senators and Trump clashed over Senate filibuster rules and passage of the Save America Act: Presidential pressure to eliminate filibuster protections for a voting-restriction bill met resistance from Senate leadership, testing institutional guardrails on legislative process. — 2026-03-08
+
+6. Environmental groups and states sued the EPA over repeal of the greenhouse gas endangerment finding: Multiple lawsuits challenged EPA's rollback of a foundational climate authority, testing judicial checks on agency deregulation. — 2026-03-08
+
+7. Judge Matthew Brann ruled that three New Jersey prosecutors appointed by Pam Bondi were installed illegally without Senate confirmation: A second court ruling this period found the administration circumvented Senate confirmation requirements for principal prosecutorial officers. — 2026-03-10
+
+8. Utah legislature and Governor Spencer Cox expanded the state supreme court and restricted signature withdrawals from an anti-gerrymandering repeal petition: Court-packing legislation and last-minute rule changes aimed at blunting a voter-approved redistricting law reflect attacks on judicial independence and electoral processes. — 2026-03-08
+
+9. Federal three-judge panel rejected a Republican effort to block Utah's court-ordered congressional map: A judicial panel preserved a voter-approved anti-gerrymandering map against a partisan effort to reinstate a prior district plan. — 2026-03-10
+
+10. Senate Armed Services Committee members criticized the administration's lack of transparency in classified Iran war briefings: Senators from both parties expressed frustration at withheld information on war costs, troop risks, and strategy, exercising oversight over unauthorized military action. — 2026-03-10
+
+11. US Supreme Court struck down Trump's tariffs, opening the door to $175 billion in refunds: A major judicial check invalidated executive tariff policy, though practical hurdles limited immediate business relief. — 2026-03-09
+
+12. Ohio legislature proposed bills mandating local police cooperation with ICE and statewide childcare surveillance: State legislation compelling immigration enforcement cooperation and mandating surveillance following ethnically targeted rumors undermines local self-governance and privacy norms. — 2026-03-09
+
+13. House of Representatives and Senate advanced the Save America Act despite lacking a filibuster-proof Senate majority: The House passed sweeping voting restrictions while Senate leadership scheduled a vote expected to fail, using the legislative process to advance a contested election narrative. — 2026-03-12
+
+14. Federal judge Mustafa Kasubhai ruled that ICE's warrantless arrests in Oregon were unconstitutional and quota-driven: A court found ICE conducted racially targeted, warrantless detentions to meet enforcement quotas, establishing a Fourth Amendment check on immigration enforcement. — 2026-03-13
+
+15. Judge James Boasberg quashed a grand jury subpoena targeting Federal Reserve Chair Jerome Powell: A federal judge found the subpoena's dominant purpose was to pressure or remove an independent official who displeased the president, protecting institutional independence. — 2026-03-13
+
+16. Ohio State University board of trustees accepted the resignation of university president Walter Carter Jr. over an inappropriate relationship: The resignation of a public university president amid governance concerns highlights institutional accountability questions at a major research institution. — 2026-03-09
+
+17. Federal grand jury and Trump subpoenaed Arizona legislature records related to the 2020 election review: Federal investigative power was deployed to revisit a settled 2020 election outcome, raising concerns about weaponized law enforcement against election integrity. — 2026-03-10
+
+18. Senator Kevin Kiley left the Republican Party to become an Independent: A House Republican's departure from the party further narrowed the GOP's already thin majority, illustrating fragility in the president's legislative support. — 2026-03-09
+
+19. House Speaker Mike Johnson declined to condemn Republican lawmakers' anti-Muslim comments: The Speaker's refusal to discipline members for explicit anti-Muslim rhetoric signals institutional tolerance for religious discrimination within Congress. — 2026-03-11
+
+20. Ed Martin faced a DC Bar ethics complaint for coercing Georgetown Law over DEI policies: A federal official allegedly weaponized his hiring authority to pressure a private law school into abandoning protected educational content, prompting a bar ethics complaint. — 2026-03-10
+
+21. FCC and Chairman Brendan Carr threatened to revoke broadcast licenses over Iran war coverage: A federal regulator threatened broadcasters' licenses based on disapproval of war reporting, a direct governmental mechanism for press censorship. — 2026-03-13
+
+22. Trump removed Ric Grenell as Kennedy Center head and replaced him with Matt Floca: A personnel change at a major cultural institution followed public controversy over politicization of the Kennedy Center's leadership and branding. — 2026-03-13
+
+23. Trump signed executive orders on housing deregulation and 'Made in America' advertising enforcement: New executive orders directed agencies to weaken environmental permitting rules for housing and expanded FTC enforcement authority over commercial claims. — 2026-03-13
+
+24. Various federal courts issued rulings and orders in ongoing litigation challenging administration immigration, funding, and agency actions: Dozens of federal court rulings this period tested administration actions on immigration enforcement, funding freezes, and agency authority, reflecting active judicial checks across many fronts. — 2026-03-08
+
+
+Economic Structure
+
+1. Trump administration implemented tariff policies contributing to reported job losses: Widely reported job losses tied to tariff policy signaled economic contraction affecting employment during an already turbulent period. — 2026-03-07
+
+2. Trump administration bypassed Congress to expedite a $650 million bomb sale to Israel: Use of emergency authority to skip congressional review of a major arms sale weakened legislative oversight of military exports. — 2026-03-08
+
+3. Global oil markets and Iran drove oil prices to their highest level since 2022 amid the war: Military conflict disrupted global energy markets, spiking prices and threatening broader economic stability tied to the Strait of Hormuz closure. — 2026-03-09
+
+4. Pentagon reported escalating war costs reaching over $11 billion in the first six days: Rapidly disclosed and revised war-cost figures raised concerns about fiscal oversight and sustainability of the unauthorized military campaign. — 2026-03-12
+
+5. Trump administration eased sanctions on Russian oil during the Iran conflict: Sanctions relief benefiting an adversary at war with a US ally revealed contradictions in stated foreign policy priorities amid the Iran crisis. — 2026-03-08
+
+6. California gas market and Trump administration saw gas prices exceed $5 per gallon amid the Iran conflict: Rapid fuel price increases directly harmed consumers as a byproduct of unplanned military escalation abroad. — 2026-03-09
+
+7. Senate Democrats introduced legislation to exempt small businesses from Trump's new tariffs: A Democratic bill sought to shield small businesses from tariff-driven cost increases, though it faced steep odds in the Republican Senate. — 2026-03-10
+
+8. Consumers and companies filed lawsuits over corporate retention of tariff surcharges after Supreme Court's ruling: Consumer litigation sought to recover tariff costs passed on by retailers, testing corporate accountability following the Supreme Court's invalidation of the tariffs. — 2026-03-11
+
+9. Republican Congress proposed a farm bill with pesticide industry liability shields and EPA veto provisions: The bill would grant USDA veto power over EPA health protections and shield pesticide makers from lawsuits, weakening regulatory and legal accountability for industry. — 2026-03-12
+
+10. Pentagon reported rapid depletion of munitions stockpiles from the Iran war: Rapid consumption of advanced munitions strained defense budgets and readiness, underscoring the unplanned scale of military expenditure. — 2026-03-13
+
+11. Commerce Department reported slower economic growth and rising inflation: Weakening GDP growth combined with rising inflation reflected broader economic strain linked partly to the war's disruption of energy markets. — 2026-03-13
+
+12. FDA acknowledged failing to perform safety reviews on over 100 food ingredients under the GRAS loophole: A regulatory gap allowed companies to self-certify ingredient safety without FDA review, exposing consumers to unvetted health risks. — 2026-03-07
+
+13. EPA repealed the endangerment finding underpinning federal greenhouse gas regulation: Removing a foundational climate authority while defending federal preemption elsewhere created legal contradictions exploited by state litigants. — 2026-03-08
+
+14. ICE targeted immigrant truck drivers with English proficiency enforcement and school closures: Enforcement actions removed thousands of truck drivers from roads, disrupting freight operations and harming an immigrant-dependent economic sector. — 2026-03-10
+
+15. Middle East oil producers halted refinery and gas production amid regional conflict escalation: Cascading shutdowns of allied nations' energy infrastructure amplified global economic disruption stemming from the U.S.-Iran conflict. — 2026-03-12
+
+
+Civil Rights and Dissent
+
+1. Fulton County authorities imposed pretrial detention, house arrest, and covert surveillance on protester John Mazurek without conviction: Years of pretrial detention and hidden surveillance used against a protester before any conviction raise due process and Fourth Amendment concerns. — 2026-03-07
+
+2. Trump administration ended Temporary Protected Status for Somali nationals amid a humanitarian crisis in Somalia: Terminating protections for a long-settled population facing famine and terrorism risk contradicts stated security rationale and endangers vulnerable people. — 2026-03-09
+
+3. ICE launched 'Operation Buckeye' targeting Somali Americans in Ohio following inflammatory rhetoric: Coordinated federal enforcement and intimidation targeting a specific ethnic community chilled economic and civic participation. — 2026-03-09
+
+4. 50501 Movement investigation documented at least 15 deaths in ICE custody and drastic cuts to DHS oversight offices: Rising detention deaths coincided with near-elimination of internal watchdog offices meant to investigate abuse, undermining accountability for vulnerable detainees. — 2026-03-09
+
+5. ICE detained a Spanish-language journalist critical of the agency without displaying a warrant: Detention of a journalist covering immigration enforcement without shown legal authority raises press freedom and due process concerns. — 2026-03-08
+
+6. DOJ pressured federal prosecutors to prioritize immigration-related assault charges over corruption cases: Redirecting prosecutorial resources toward politically charged immigration cases, with no convictions secured, suggests weaponized law enforcement priorities. — 2026-03-07
+
+7. Two teenagers threw improvised explosive devices at an anti-Islam protest outside the NYC mayor's residence: Political violence targeting a mayor's residence during dueling protests reflects escalating extremism and threats to democratic officials' safety. — 2026-03-08
+
+8. ICE released two teenage mariachi musicians from detention after bipartisan backlash: Public pressure secured release of asylum-seeking teens detained despite lawful status, illustrating both enforcement overreach and responsiveness to accountability. — 2026-03-10
+
+9. Trump and House Republicans advanced the Save America Act with sweeping voter ID and citizenship documentation requirements: The bill's proof-of-citizenship and ID mandates could disenfranchise tens of millions of eligible voters, particularly women whose names differ from birth records. — 2026-03-13
+
+10. Americans nationwide organized tax resistance campaigns protesting war and immigration policies: A surge in coordinated tax non-payment reflects mass civil disobedience against government war spending and enforcement priorities. — 2026-03-11
+
+11. No Kings Coalition announced a March 28 nationwide day of action with over 3,000 planned events: A large coordinated protest mobilization, including ACLU-led rights trainings, represents significant civil society organizing against administration policies. — 2026-03-11
+
+12. Senator Tim Sheehy physically confronted and injured a protester at a Senate hearing: A sitting senator's physical altercation with a constituent exercising protest rights, resulting in injury, raises accountability questions about treatment of dissent. — 2026-03-12
+
+13. Ayman Mohamad Ghazali drove a vehicle into a Michigan synagogue and was killed by security: A targeted attack on a synagogue and its school endangered children and reflected escalating political violence tied to Middle East conflict. — 2026-03-12
+
+14. Mohamed Jalloh opened fire on ROTC students at Old Dominion University, killing one: A terrorism-motivated shooting on a university campus raises questions about threat assessment and prior release decisions for extremist offenders. — 2026-03-13
+
+15. Utah Republican legislature passed a rule blocking voters from withdrawing signatures from an anti-gerrymandering repeal petition: A rushed rule change prevented voters who said they were misled from withdrawing petition signatures, undermining direct democratic participation. — 2026-03-08
+
+
+Information, Memory and Manipulation
+
+1. Trump dismissed a question about Russian support for Iran and posted false claims that Iran had surrendered: Avoiding accountability questions and spreading false claims about an active conflict undermined public understanding of the war's true status. — 2026-03-07
+
+2. HHS cancelled the first public meeting of the Interagency Autism Coordinating Committee indefinitely: An unexplained cancellation of a federal advisory committee meeting undermined transparency over nearly $2 billion in autism research spending. — 2026-03-07
+
+3. Trump falsely denied U.S. responsibility for a strike on an Iranian girls' school: The president denied U.S. involvement in a strike that killed roughly 175 people, mostly children, contradicting subsequent military investigation findings. — 2026-03-08
+
+4. White House wore campaign merchandise at a military ceremony and blocked coverage while distributing war propaganda videos: Coordinated media management, including blocked footage and gamified war videos, blurred lines between entertainment and accountability for military casualties. — 2026-03-08
+
+5. White House blocked an intelligence bulletin warning of domestic threats tied to the Iran war: Suppressing a joint FBI-DHS threat warning prioritized political messaging over public safety information during an active security crisis. — 2026-03-08
+
+6. Kari Lake announced a Voice of America partnership with pro-Trump outlet One America News: Merging an independent government broadcaster with a partisan outlet threatened the institution's foundational mission of fact-based reporting. — 2026-03-09
+
+7. White House posted QAnon-aligned messaging and gamified military strikes on social media: Official government channels used conspiracy-linked language and entertainment framing for military operations, normalizing fringe narratives. — 2026-03-09
+
+8. New York Times published an investigation on billionaire influence over federal election contributions: The report documented 300 billionaire families supplying 19% of federal election contributions, skewed heavily toward one party. — 2026-03-09
+
+9. Karoline Leavitt defended Trump's false Tomahawk missile claim as protected opinion and attacked press coverage: A senior spokesperson reframed a demonstrable falsehood as opinion while attacking press scrutiny of a mass-casualty strike. — 2026-03-10
+
+10. Energy Secretary Chris Wright falsely claimed the Navy had escorted a tanker through the Strait of Hormuz, then deleted the post: A cabinet official's false claim about military operations, later retracted, spread inaccurate information before correction. — 2026-03-10
+
+11. Fox host Lawrence Jones accused Democrats of aiding Iran through political messaging: Conflating policy criticism with foreign enemy support on a national platform delegitimized domestic political opposition. — 2026-03-09
+
+12. Pentagon revised upward its estimate of wounded U.S. troops from fewer than a dozen to about 140: Delayed and inaccurate casualty disclosure undermined congressional oversight and public understanding of the war's human costs. — 2026-03-10
+
+13. Trump claimed ignorance of a military investigation confirming U.S. responsibility for the school strike: The president's claimed lack of awareness of his own military's findings suggested evasion of accountability for civilian casualties. — 2026-03-11
+
+14. Pentagon banned press photographers from Iran war briefings after unflattering photos of Hegseth appeared: Excluding photographers to control public image restricted independent visual documentation of military briefings and war conduct. — 2026-03-11
+
+15. White House dismissed critical reporting on Strait of Hormuz planning failures as 'fake news': Officials denied factual reporting about military planning failures, contradicting a senator's own account from a classified briefing. — 2026-03-12
+
+16. Pete Hegseth attacked media outlets and called for a network takeover while refusing to confirm the school strike: A cabinet secretary publicly pressured for changes in a news network's ownership while stonewalling questions about civilian casualties. — 2026-03-13
+
+17. FCC Chairman Brendan Carr threatened broadcast license revocations over Iran war coverage deemed 'fake news': A federal regulator's threat to revoke licenses based on disapproved war coverage represents a direct government tool for press suppression. — 2026-03-13
+
+18. Harvard-led researchers published a study warning Trump policies will increase lung disease and premature death: Public health experts documented that healthcare cuts, environmental rollbacks, and reduced vaccine uptake will materially worsen mortality outcomes. — 2026-03-13
+
+19. Trump claimed Iran possesses Tomahawk missiles despite limited global distribution: A demonstrably false claim about weapons proliferation served to deflect responsibility for a strike that killed civilians. — 2026-03-09
+
+20. Jared Kushner sought $5 billion or more from Middle East governments while advising on Iran war strategy: A presidential adviser's undisclosed financial dealings with foreign governments while shaping military decisions represent a significant conflict of interest. — 2026-03-10
+<!-- END GENERATED APPENDIX -->

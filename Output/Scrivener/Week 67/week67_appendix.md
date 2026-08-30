@@ -274,235 +274,205 @@ Information, Memory and Manipulation
 <!-- BEGIN GENERATED APPENDIX -->
 Power and Authority
 
-1. President Trump pushed for a new White House ballroom after the White House Correspondents' dinner shooting: The push tied a presidential construction project to security claims, concentrating discretion over public space, spending, and symbolism around the presidency. — 2026-04-25
+1. Trump held press conference after a shooting incident and cited it to justify enhanced White House security and ballroom construction: The president used a security scare at a press event to argue for expanded executive fortification, blending genuine safety concerns with a preexisting personal construction project. — 2026-04-25
 
-2. The Trump administration issued green card guidance that could penalize applicants for anti-Israel speech or pro-Palestinian protest activity: The guidance linked immigration status to political expression, expanding executive leverage over speech and lawful protest by noncitizens. — 2026-04-25
+2. Todd Blanche and DOJ officials demanded the National Trust for Historic Preservation drop its ballroom lawsuit, citing the shooting incident: The Justice Department pressured a private nonprofit to abandon litigation challenging a presidential construction project, using a security incident as leverage against judicial review. — 2026-04-25
 
-3. The Trump administration planned a family detention facility on a contaminated site in Louisiana: The plan used detention power against migrant families despite known health risks, showing coercive state control over a vulnerable population. — 2026-04-25
+3. DOJ (Todd Blanche) filed a motion to dissolve the court injunction blocking White House ballroom construction: The executive branch sought to overturn a judicial order restraining a presidential project, attacking the plaintiff's legitimacy rather than addressing the underlying legal merits. — 2026-04-28
 
-4. President Trump justified military action against Iran without congressional approval: The claim tested war-powers limits by asserting unilateral executive authority over armed conflict despite legislative checks. — 2026-04-27
+4. DOJ filed an emergency motion citing the assassination attempt to argue the ballroom injunction must be lifted: Within 72 hours of an attempted assassination, the administration used the incident to demand a federal court dissolve an injunction on a presidential construction project. — 2026-05-01
 
-5. The Trump administration issued an executive order treating glyphosate production as a national security matter: The order used national security framing to shield a major product line from ordinary regulatory and legal scrutiny. — 2026-04-27
+5. Trump endorsed renaming Immigration and Customs Enforcement to 'NICE': The president endorsed a rebranding proposal for the immigration enforcement agency amid record detention deaths, raising concerns about obscuring accountability through image management. — 2026-04-27
 
-6. The Trump administration blocked permitted wind projects and steered compensation toward oil and gas reinvestment: The move used executive power to redirect energy policy toward favored industries, narrowing policy choice through direct state intervention. — 2026-04-28
+6. Trump administration declared glyphosate production a national security issue via executive order: The administration invoked national security authority to shield a pesticide manufacturer from liability, prioritizing corporate protection over consumer and public health safeguards. — 2026-04-27
 
-7. The State Department announced America250 passports featuring Donald Trump's image: Putting the president's image into a national identity document personalized state symbolism and blurred public identity with one leader. — 2026-04-28
+7. Trump called for the Senate to eliminate the filibuster to pass legislation without bipartisan input: The president publicly urged removal of a key procedural check on majority power, stating it would let Republicans govern without electoral loss for decades. — 2026-04-30
 
-8. The Pentagon asked Congress to rename the Defense Department as the Department of War: The request signaled a more openly martial posture and sought to formalize a broader conception of executive military power. — 2026-04-29
+8. Trump claimed no prior president sought War Powers Act congressional approval and asserted Iran hostilities had 'terminated' to avoid authorization deadline: The president made a false historical claim and sent Congress notice that military hostilities had ended in order to sidestep a constitutionally mandated authorization deadline for continued war. — 2026-05-01
 
-9. President Trump issued an executive order creating TrumpIRA.gov: The order created a new federal platform by presidential directive, expanding executive control over a public-facing retirement initiative. — 2026-04-30
+9. Trump expressed public frustration at not being on the ballot and asserted he would win in a landslide: The president publicly lamented the constitutional two-term limit barring his name from the ballot, raising concerns about his relationship to succession norms. — 2026-04-30
 
-10. President Trump issued an executive order favoring fixed-price federal contracts: The order changed procurement rules from the White House, showing direct presidential influence over how agencies spend public money. — 2026-04-30
+10. State Department prepared limited-edition commemorative passports featuring Trump's portrait: A federal agency planned to place the sitting president's image on official identity documents, a departure from historical practice separating presidential branding from state instruments. — 2026-04-28
 
-11. The Trump administration told Congress that hostilities with Iran had ended while U.S. forces remained engaged in the region: The claim sought to avoid war-powers limits by redefining an ongoing conflict through executive interpretation rather than congressional approval. — 2026-04-30
+11. White House posted a social media image of Trump and King Charles captioned 'TWO KINGS' [single source]: An official government account described the elected president using monarchical language, symbolically blurring the distinction between constitutional office and hereditary rule. — 2026-04-28
+
+12. Trump directed Tennessee's governor to redraw congressional maps to gain an additional Republican seat [single source]: A former president publicly pressured a sitting governor to alter federal congressional districts for explicit partisan gain, framing the action as correcting an unconstitutional flaw. — 2026-04-30
 
 
 Institutions and Governance
 
-1. Faith groups sued the Trump administration over ending immigration enforcement protections for places of worship: The suit asked courts to review executive immigration policy where it collided with religious liberty and sanctuary practices. — 2026-04-25
+1. Lori Chavez-DeRemer resigned as Labor Secretary amid misconduct investigation, blaming 'deep state actors': A cabinet secretary's resignation amid documented workforce purges and rollback of labor protections signals institutional instability at a federal agency. — 2026-04-25
 
-2. Do No Harm sued to block the Native Hawaiian Health Scholarship Program: The case put a congressionally created race-conscious program under constitutional review, testing how courts treat remedial public policy. — 2026-04-25
+2. House Rules Committee took up a Farm Bill with provisions shielding chemical manufacturers from lawsuits [single source]: Legislation advanced that would preempt state consumer-protection laws, reducing citizens' ability to hold manufacturers accountable for product harm. — 2026-04-27
 
-3. Judge Kendrick Guidry recused himself from a Catholic church abuse case after a conflict was disclosed: The recusal underscored the need for judicial impartiality and disclosure when judges have ties to parties before them. — 2026-04-25
+3. Pingree and Massie announced a bipartisan amendment to remove liability-shield provisions from the Farm Bill [single source]: A bipartisan pair of lawmakers moved to restore consumer-protection provisions being stripped from pending farm legislation, offering a check on corporate liability shields. — 2026-04-27
 
-4. The U.S. Attorney's Office closed its criminal investigation into Federal Reserve Chair Jerome Powell: Ending the case reduced immediate legal pressure on the Fed and affected the institutional independence of a key economic body. — 2026-04-25
+4. Democratic senators demanded Defense Secretary Hegseth explain lack of drone protection at a Kuwait post that resulted in troop deaths: Senators pressed the Pentagon for accountability after service members died in an unprotected position, exercising oversight of military readiness failures. — 2026-04-27
 
-5. Labor Secretary Lori Chavez-DeRemer resigned amid allegations involving travel funds, grants, and internal misconduct: The resignation raised accountability questions inside a cabinet agency responsible for labor standards and workplace oversight. — 2026-04-25
+5. Randy Fine introduced the 'Build the Ballroom Act' to override judicial constraints on the project: A House member introduced legislation explicitly designed to circumvent judicial authority over a presidential construction dispute, undermining separation of powers. — 2026-04-27
 
-6. Republican lawmakers proposed legislation to fund President Trump's ballroom with public money and customs fees: The bills moved a presidential vanity and security project into the appropriations process, testing legislative stewardship of public funds. — 2026-04-26
+6. Lindsey Graham, Rand Paul, Tim Sheehy introduced competing bills to authorize $400 million in federal funding for the White House ballroom: Multiple senators rushed near-identical legislation to commit federal funds to a contested presidential project, raising questions about appropriate use of public money. — 2026-04-27
 
-7. The Department of Justice pressed the National Trust for Historic Preservation to drop its lawsuit over the White House ballroom and later moved to dissolve the injunction: The department used legal pressure to protect a presidential project, raising concerns about executive interference with judicial review. — 2026-04-25
+7. House Rules Committee advanced FISA extension, farm bill, and DHS funding measures after prolonged Republican infighting: Key legislation on surveillance authority, agriculture policy, and homeland security funding advanced after extended delay, reflecting legislative dysfunction. — 2026-04-28
 
-8. Congress enacted a resolution disapproving a Bureau of Land Management land-withdrawal rule in Minnesota: The law showed Congress using its formal review power to reverse an agency land-management decision. — 2026-04-27
+8. Republican senators expressed loss of confidence in Defense Secretary Hegseth over removal of senior military officers: Members of the president's own party voiced concern about the defense secretary's personnel decisions and the hollowing out of experienced military leadership. — 2026-04-28
 
-9. A California tax initiative qualified for the November ballot after gathering enough signatures: The measure advanced through direct democracy, showing voters and organizers using ballot access to shape fiscal policy outside the legislature. — 2026-04-27
+9. House Democrats filed a civil contempt resolution against Pam Bondi for defying a subpoena [single source]: Lawmakers moved to enforce congressional subpoena power after a former attorney general failed to appear for testimony on Epstein files handling. — 2026-04-29
 
-10. Governor Ron DeSantis unveiled a new Florida congressional map and called a special session to pass it: The move used state institutional power to reshape representation through a fast-track redistricting process. — 2026-04-27
+10. House of Representatives passed a budget resolution enabling reconciliation for immigration enforcement funding [single source]: The House advanced a fast-track budget process that would let immigration enforcement funding pass with a simple majority, reducing normal bipartisan scrutiny. — 2026-04-29
 
-11. House and Senate committees requested Secret Service briefings and proposed inquiries after the White House Correspondents' dinner shooting: The requests showed legislative oversight responding to a major security failure at an event involving top officials and the press. — 2026-04-27
+11. Louisiana, Mississippi, Tennessee, Florida legislatures and officials moved rapidly to redraw congressional and judicial maps following the Supreme Court's voting rights ruling: Multiple state legislatures initiated special sessions to eliminate majority-Black districts within days of a Supreme Court ruling weakening voting rights protections. — 2026-04-29
 
-12. The New York State Assembly considered the New York for All Act to limit local cooperation with federal immigration enforcement: The proposal would redraw state-local boundaries in immigration enforcement and strengthen institutional protections for residents. — 2026-04-27
+12. Senate Armed Services Committee held hearing where Hegseth denied targeting Black and female officers for dismissal: Congressional testimony examined whether military personnel purges were racially or politically motivated, with the defense secretary offering evasive responses. — 2026-04-26
 
-13. The House of Representatives considered a Farm Bill amendment to remove liability protections for chemical manufacturers: The amendment tested whether Congress would preserve consumer lawsuits and state warning laws against federal preemption. — 2026-04-27
+13. House Rules Committee took up new Farm Bill provisions and reviewed pesticide industry liability shields [single source]: Legislative committee action on liability protections for chemical manufacturers proceeded alongside a related Supreme Court case on the same issue. — 2026-04-27
 
-14. House Democrats called on President Trump to seek congressional approval for military action against Iran: The demand defended Congress's constitutional role in authorizing war and checking unilateral executive force. — 2026-04-27
+14. House Republicans passed bipartisan legislation ending the 76-day Department of Homeland Security shutdown while excluding ICE/CBP funding: Congress ended the longest agency shutdown in history but deliberately withheld funding from immigration enforcement operations, reflecting partisan negotiation over deportation policy. — 2026-04-30
 
-15. Katie Phang sued the Department of Justice over alleged noncompliance with the Epstein Files Transparency Act: The case sought judicial enforcement of statutory disclosure duties and tested whether transparency laws still constrain executive secrecy. — 2026-04-27
+15. Senate Majority Leader John Thune declined to challenge Trump's interpretation of the War Powers Act: The Senate's top Republican refused to exercise congressional authority over war powers, allowing the executive branch to continue military action without legislative check. — 2026-05-01
 
-16. The D.C. Circuit held the AFSCME challenge to Trump administration action in abeyance pending related cases: The order changed the pace of a federal labor case and showed appellate courts managing a cluster of related institutional disputes. — 2026-04-28
+16. Senate Armed Services Committee held hearing where Senator Reed accused Hegseth of giving Trump exaggerated assessments of the Iran war: Congressional oversight of the Pentagon budget and Iran war strategy directly challenged whether military leadership was providing accurate information to the president. — 2026-04-30
 
-17. A Nigerian medical student sued USCIS over an indefinite hold on her work authorization application: The complaint challenged agency delay and asked courts to police administrative limits in immigration processing. — 2026-04-28
+17. House Democrats opened investigation into DOJ pressure on Southern Poverty Law Center indictment: Lawmakers launched an inquiry into whether the Justice Department rushed charges against a civil rights organization for political reasons based on whistleblower accounts. — 2026-05-01
 
-18. A federal judge in Connecticut refused to dismiss or transfer the prison-locals case against the Bureau of Prisons: The ruling kept a labor and retaliation challenge alive, preserving judicial review of executive action affecting federal workers. — 2026-04-28
+18. House Ethics Committee investigated sexual harassment allegations against Rep. Chuck Edwards: An internal congressional body opened an ethics inquiry into a sitting House member following witness allegations of improper conduct. — 2026-05-01
 
-19. Judge Furman denied the government's motion to dismiss Maurene Comey's wrongful-removal case: The ruling kept a civil service dispute in federal court and limited the government's effort to reroute review. — 2026-04-28
-
-20. The Second Circuit affirmed habeas relief for Ricardo da Cunha and held that his detention allowed bond release: The decision narrowed mandatory detention and reinforced judicial oversight of immigration custody rules. — 2026-04-28
-
-21. The Senate advanced a budget resolution tied to major new ICE and Border Patrol funding without added accountability measures: The vote moved enforcement expansion through budget procedure while rejecting oversight conditions on coercive agencies. — 2026-04-28
-
-22. The Senate Banking Committee prepared to vote on Kevin Warsh's nomination to chair the Federal Reserve: The nomination fight centered on whether a core economic institution could remain independent from presidential pressure. — 2026-04-28
-
-23. The House Oversight Committee filed a civil contempt resolution against Pam Bondi after she missed a deposition: The move showed Congress using formal enforcement tools to compel testimony in an executive-branch accountability dispute. — 2026-04-29
-
-24. The Senate Banking Committee advanced Kevin Warsh's nomination for Federal Reserve chair: The party-line vote moved a contested nominee closer to leading the Fed, sharpening concerns about central-bank independence. — 2026-04-29
-
-25. The House Armed Services Committee held a hearing with Pete Hegseth on military matters: The hearing reflected Congress's oversight role over defense leadership and military decision-making. — 2026-04-29
-
-26. Protect Democracy Project sued the IRS under FOIA for records about directives labeling Antifa a domestic terrorist organization: The suit sought records about politically charged executive directives and tested agency compliance with disclosure law. — 2026-04-29
-
-27. The EEOC announced a closed meeting to consider participation in civil litigation: The notice showed an enforcement agency making litigation decisions behind closed doors under a statutory exemption. — 2026-04-30
-
-28. Congress enacted the Homeland Security and Further Additional Continuing Appropriations Act: The law restored funding continuity for a major department and showed appropriations as a core governance tool. — 2026-04-30
-
-29. The Senate Armed Services Committee questioned Pete Hegseth about the Iran war and his conduct at the Pentagon: The hearing pressed for truthful military reporting and legislative oversight over an undeclared conflict. — 2026-04-30
-
-30. President Trump and Congress ended the Department of Homeland Security shutdown with a bipartisan funding bill: The deal restored agency operations after a long impasse, showing both the fragility and repair capacity of budget governance. — 2026-04-30
-
-31. Congress extended and then moved to reauthorize FISA Section 702 surveillance powers: The votes preserved broad intelligence authority with limited new safeguards, affecting the balance between oversight and surveillance. — 2026-04-30
-
-32. The House Ethics Committee opened an investigation into Representative Chuck Edwards: The inquiry showed internal legislative ethics mechanisms responding to misconduct allegations against a sitting member. — 2026-04-30
-
-33. The Supreme Court heard challenges to the Trump administration's effort to end TPS for Haitians and Syrians: The arguments tested whether courts can review executive decisions that would strip lawful temporary status from large immigrant groups. — 2026-04-29
-
-34. The Oregon Supreme Court required dismissal of charges when defendants waited too long for counsel: The ruling enforced the right to counsel and exposed institutional failure in the state's public defense system. — 2026-04-28
-
-35. The Supreme Court weakened Section 2 of the Voting Rights Act in Louisiana v. Callais: The ruling narrowed a central legal tool against racial vote dilution and shifted power toward mapmakers and away from minority voters. — 2026-04-29
-
-36. A federal judge in Arizona dismissed the DOJ lawsuit seeking access to Arizona voter rolls: The ruling blocked federal access to sensitive voter data and reinforced legal limits on executive demands for election records. — 2026-04-29
-
-37. Federal prosecutors moved to detain Cole Tomas Allen pending trial: The filing advanced the court process in a major political-violence case and tested pretrial detention standards. — 2026-04-29
-
-38. The Second Circuit refused to rehear Donald Trump's appeal in the E. Jean Carroll defamation case: The decision left a major civil judgment in place and affirmed that former presidents remain answerable to ordinary court process. — 2026-04-30
-
-39. A federal court in New York dismissed a detention-conditions case after the government agreed to improve hold-room conditions: The dismissal showed litigation producing institutional changes in detention practices before final judgment. — 2026-04-30
-
-40. Senate Republicans blocked a measure to require President Trump to end military action in Iran: The vote weakened Congress's effort to enforce its war-authorizing role and left executive military action less constrained. — 2026-05-01
-
-41. A federal judge postponed the effective date of ending Yemen's TPS designation in two cases: The orders checked executive immigration action by requiring lawful agency process before protections could be withdrawn. — 2026-05-01
-
-42. The FDA announced advisory meetings, renewals, dockets, and rulemaking steps across vaccines, compounding, AI trials, drug safety, and patient input: These notices showed agencies using formal advisory and comment processes that keep technical policymaking visible and reviewable. — 2026-04-27
-
-43. The FCC announced open meetings and public comment processes on telecom and emergency-access matters: The notices reflected routine regulatory procedure that allows public participation in communications governance. — 2026-04-28
-
-44. The FBI and OSHA announced advisory board and committee meetings open to public input: The meetings preserved formal channels for outside participation in law-enforcement data policy and workplace safety rulemaking. — 2026-04-28
+19. Georgia Governor Brian Kemp announced state will not redistrict before the 2026 midterms: One governor declined to immediately exploit a weakened voting rights standard for mid-cycle redistricting, delaying map changes until required before 2028. — 2026-05-01
 
 
 Economic Structure
 
-1. Utah's Military Installation Development Authority approved reduced tax rates for Kevin O'Leary's data center project: The incentive package showed public authorities using tax policy to favor a large private project with broad infrastructure effects. — 2026-04-25
+1. Trump administration awarded a no-bid $17.4 million contract to the White House ballroom builder for unrelated fountain repairs: The administration bypassed competitive bidding rules to steer a lucrative contract to a company already building the president's ballroom, raising procurement integrity concerns. — 2026-04-25
 
-2. OSHA clarified that federal OSHA would enforce safety rules for private-sector work on federal property in Maryland: The notice set the line between state and federal enforcement, shaping how worker protections are applied in a mixed jurisdiction. — 2026-04-27
+2. Utah Military Installation Development Authority approved a sharp tax reduction for a massive data-center project [single source]: State officials cut energy taxes dramatically to attract a data-center project that would consume more than double the state's current electricity capacity, raising sustainability and equity concerns. — 2026-04-26
 
-3. The Trump administration awarded a no-bid contract for Lafayette Park fountain repairs under an urgency exception: The contract used emergency-style procurement for a nonemergency project, weakening transparency and competition in public spending. — 2026-04-27
+3. Congress enacted disapproval of a BLM land-withdrawal rule for Minnesota federal lands: Congress used the Congressional Review Act to reverse a federal land conservation decision, restoring land to potential development. — 2026-04-27
 
-4. EPA Administrator Lee Zeldin defended EPA deregulation and denied meetings with Bayer before being contradicted at a House hearing: The episode raised concerns about regulatory capture, truthfulness in oversight, and whether industry influence was shaping public safeguards. — 2026-04-27
+4. Chip Roy and Ron Johnson advocated for taxpayer funding of the White House ballroom: Republican lawmakers pushed to use public funds for a presidential project after earlier claims it would be privately financed. — 2026-04-27
 
-5. Gasoline markets pushed U.S. gas prices to a four-year high amid the Strait of Hormuz crisis: The spike showed how conflict and executive foreign policy can quickly impose broad economic costs on households. — 2026-04-27
+5. EPA rolled back drinking water, air pollutant, and pesticide protections while inviting corporate exemption requests [single source]: The agency's deregulatory agenda systematically weakened public health protections, coinciding with benefits to a major donor company facing litigation exposure. — 2026-04-28
 
-6. Kalshi and Polymarket made disputed claims about how insider trading on prediction markets was detected or prevented: The episode exposed weak self-policing in a growing financial market and raised questions about regulatory accountability. — 2026-04-27
+6. California SEIU-UHW submitted 1.5 million signatures to place a billionaire wealth tax on the November ballot: A labor union qualified a direct-democracy initiative to tax billionaire wealth in order to offset federal healthcare funding cuts, testing citizens' ability to counter concentrated wealth through ballot measures. — 2026-04-28
 
-7. The House Appropriations Interior and Environment Subcommittee heard an administration proposal to cut EPA programs by about 52%: The proposed cuts threatened enforcement and monitoring capacity, shifting the balance between public protection and deregulation. — 2026-04-28
+7. Department of the Interior canceled two permitted wind projects and paid companies to reinvest in fossil fuels: The administration used taxpayer funds to dismantle renewable energy infrastructure and redirect capital toward oil and gas, reversing court-approved clean energy projects. — 2026-04-29
 
-8. The CDC submitted or proposed public-health data collections on overdoses, miners' x-rays, Fragile X syndrome, and ME/CFS: The notices maintained data systems that support evidence-based public health and regulatory decision-making. — 2026-04-28
+8. Energy and Policy Institute published analysis showing utility CEO pay rose 16% amid customer disconnections and rate hikes [single source]: A watchdog report documented executive compensation growth at major utilities even as companies disconnected millions of customers and raised bills sharply, highlighting weak regulatory oversight. — 2026-04-29
 
-9. The DEA rescheduled FDA-approved marijuana products from Schedule I to Schedule III: The rule changed the federal legal framework for approved cannabis medicines, affecting research, prescribing, and market access. — 2026-04-28
+9. Senate Banking Committee approved Kevin Warsh's nomination for Federal Reserve chair after DOJ ended a criminal probe into Powell: A party-line committee vote advanced a Fed chair nominee viewed by critics as likely to follow presidential preference, after the administration closed an investigation into the sitting chair as a condition of support. — 2026-04-29
 
-10. The EPA released interim PFAS destruction and disposal guidance for public comment: The guidance shaped how governments and firms handle persistent toxic chemicals, affecting environmental accountability and public safety. — 2026-04-28
+10. Louisiana governor and legislature suspended active congressional primary elections to enable redistricting after the Supreme Court ruling: A governor used emergency authority to halt an election already underway, nullifying cast ballots to allow partisan and racial redistricting before the midterms. — 2026-04-30
 
-11. OSHA revoked the Open Fires in Marine Terminals Standard and sought comments on Voluntary Protection Programs paperwork: The actions reduced or reviewed workplace rules in the name of efficiency, affecting the balance between compliance costs and safety oversight. — 2026-04-28
+11. Congress enacted FISA Amendments Act extension and homeland security appropriations: Congress renewed surveillance authorities and continuing appropriations for homeland security operations, sustaining existing federal fiscal and intelligence frameworks. — 2026-04-30
 
-12. The Trump administration loosened export controls on advanced AI chips to China: The policy shifted the line between trade and national-security controls, affecting industrial competition and strategic technology policy. — 2026-04-28
+12. Trump signed executive orders establishing TrumpIRA.gov and mandating fixed-price federal contracts: The president signed orders restructuring federal procurement practices and creating a retirement-savings platform named after himself, raising questions about presidential branding of government programs. — 2026-04-30
 
-13. Maryland lawmakers passed legislation to limit utility CEO pay: The bill used state regulation to respond to rising utility costs and rebalance corporate incentives against consumer burdens. — 2026-04-29
+13. Fuel and energy markets gas and jet fuel prices surged to multi-year highs amid the Iran conflict [single source]: Sustained military conflict drove fuel costs sharply higher, straining household budgets and airline operations, with direct economic consequences for consumers nationwide. — 2026-04-30
 
-14. The EPA approved Missouri's partial delegation of a Clean Air Act risk-management program and published TSCA findings on new chemicals: The actions adjusted how environmental regulation is shared and how new substances enter commerce under federal review. — 2026-04-29
+14. Trump removed tariffs on Scottish whiskey and Kentucky bourbon following a royal visit: The president lifted trade tariffs as a personal favor tied to diplomatic hospitality, illustrating ad hoc use of tariff authority rather than systematic trade policy. — 2026-05-01
 
-15. The FCC opened multiple paperwork and information-collection reviews affecting carriers, broadcasters, and broadband providers: The notices shaped compliance burdens and reporting rules across communications markets through routine regulatory process. — 2026-04-29
+15. Trump family members promoted personal business interests, memecoin, and branded products from the presidency: Investigative reporting documented systematic use of the presidency and Truth Social to promote Trump-owned businesses, crypto assets, and consumer products for personal financial gain. — 2026-04-29
 
-16. President Trump used the presidency to promote family business interests across official channels and events: The pattern blurred public office and private gain, weakening norms that separate state power from personal enrichment. — 2026-04-29
+16. Trump family acquired stakes in and received contracts from federally-backed ventures: Trump's sons obtained a position in a mining venture receiving $1.6 billion in federal support, while the Pentagon and Air Force separately awarded contracts to Trump-linked companies, raising conflict-of-interest concerns. — 2026-05-01
 
-17. The EPA released a draft FY 2027 evidence plan for public comment: The plan set priorities for evidence-building inside a major regulator, affecting how future policy choices are justified and reviewed. — 2026-04-30
+17. Pentagon officials reported Iran war costs of $25 billion to Congress despite independent estimates near $72 billion [single source]: Defense officials significantly understated war spending in congressional testimony, undermining legislative fiscal oversight of an ongoing military conflict. — 2026-05-01
 
-18. Donald Trump Jr. and Eric Trump took a stake in a mining venture backed by Trump administration financing: The investment raised conflict-of-interest concerns by linking family business gains to government-backed industrial support. — 2026-04-30
-
-19. President Trump removed tariffs on Scottish whiskey after the British state visit: The tariff change showed trade policy being adjusted through high-level political relationships rather than a broader legislative process. — 2026-04-30
-
-20. The Trump administration prepared a Qatari jet for Donald Trump with taxpayer-funded upgrades: Using public funds to upgrade a luxury aircraft for the president raised questions about public spending and private benefit. — 2026-04-30
-
-21. The DEA placed four synthetic cannabinoids into Schedule I: The rule expanded federal drug controls over substances deemed highly dangerous, affecting criminal exposure and public-health regulation. — 2026-05-01
-
-22. The EPA published environmental review notices and a proposed asbestos-site settlement: The notices kept environmental review and cleanup liability in public view, supporting procedural accountability in land and pollution decisions. — 2026-05-01
-
-23. OSHA extended information-collection approvals for anhydrous ammonia and fire brigade standards: The extensions preserved reporting systems that underpin workplace safety enforcement while also shaping compliance burdens. — 2026-04-30
-
-24. The TSA extended the Reimbursable Screening Services Program information collection: The extension supported a model in which public security services can be requested and funded by outside entities. — 2026-05-01
-
-25. President Trump announced new 25% tariffs on European vehicles: The tariffs used executive trade power to reshape market conditions and risk retaliation in a major transatlantic sector. — 2026-05-01
-
-26. The EPA dismantled most of its research arm and required remaining work to align with administration priorities: The cuts weakened independent scientific capacity inside a regulator, making future environmental policy more vulnerable to political control. — 2026-05-01
-
-27. The Trump administration issued guidance that deemphasized contraceptives and favored natural family planning: The guidance shifted federal health policy in ways that could reduce practical access to effective contraception. — 2026-05-01
-
-28. The FDA issued multiple device classifications and drug-status determinations affecting market entry and generic approvals: These actions shaped which medical products could reach market and under what regulatory burdens, affecting competition and access. — 2026-04-30
-
-29. The FCC amended Utah FM allotments and corrected a broadband-band rule: The actions adjusted communications infrastructure rules that affect local service and market compliance. — 2026-04-30
-
-30. Noah Smith reported on California housing reforms, school phone-ban laws, AI effects on coding jobs, and rising national debt: These developments reflected how legislation, technology, and fiscal policy were reshaping long-term economic capacity and public goods. — 2026-05-01
-
-31. Popular Information and other outlets reported taxpayer burdens tied to the FIFA World Cup: The reporting highlighted how public subsidies can be shifted toward private mega-events with uncertain public return. — 2026-05-01
+18. Ron DeSantis and Florida legislature passed and signed a gerrymandered congressional map favoring Republicans [single source]: Florida's governor and legislature enacted new congressional districts explicitly designed to shift multiple seats toward Republicans ahead of the midterms. — 2026-04-27
 
 
 Civil Rights and Dissent
 
-1. ICE took an Egyptian family back into custody before a judge blocked the deportation: The case showed how immigration enforcement can threaten family unity and due process even after release from detention. — 2026-04-25
+1. ICE deployed masked agents in unmarked vehicles, causing confusion with local police [single source]: An aggressive immigration enforcement tactic eroded public trust in law enforcement broadly and endangered officers and civilians through mistaken identity. — 2026-04-25
 
-2. Faith leaders were arrested while protesting ICE operations at the Minneapolis airport: The arrests showed protest and religious advocacy colliding with immigration enforcement in a way that burdened dissent. — 2026-04-25
+2. ICE planned a detention facility for migrant children on a PFAS-contaminated former military site [single source]: Federal immigration authorities moved forward with housing children at one of the nation's most chemically contaminated sites, disregarding documented health risks to minors. — 2026-04-25
 
-3. ICE resumed family detention at the Dilley center in Texas: The policy expanded confinement of parents and children, increasing state control over migrants' bodily security and daily life. — 2026-04-27
+3. ICE re-arrested the El Gamal family hours after a federal judge ordered their release: Immigration authorities appeared to defy a federal court order by re-detaining a family shortly after their court-mandated release, prompting allegations of separation-of-powers violations. — 2026-04-25
 
-4. Protest coalitions held more than 200 demonstrations against ICE detention facilities: The protests showed broad civic resistance to detention expansion and defended public space for organized dissent. — 2026-04-27
+4. Trump administration ended immigration enforcement protections for places of worship [single source]: The administration removed a longstanding safeguard shielding religious institutions from immigration raids, prompting a multi-faith lawsuit and reducing safe spaces for immigrants. — 2026-04-25
 
-5. Wizards of the Coast employees filed for a union election: The filing used labor law to build collective worker voice inside a private employer, strengthening associational rights. — 2026-04-27
+5. Trump administration issued guidance disqualifying pro-Palestine immigrants from green cards over protest activity [single source]: New immigration guidance conflated protected political speech and protest with disloyalty, using immigration status to chill dissent. — 2026-04-25
 
-6. The Florida legislature passed a new congressional map after the Supreme Court's voting-rights ruling: The map change threatened minority representation by using redistricting power to reshape who can elect candidates of choice. — 2026-04-29
+6. Civil society coalitions held over 200 nationwide demonstrations against ICE detention expansion [single source]: Coordinated protests across dozens of states challenged the growth of warehouse-style immigration detention facilities, exercising First Amendment assembly rights. — 2026-04-26
 
-7. Senator Marsha Blackburn urged Tennessee lawmakers to redraw the state's congressional map: The call sought to use redistricting to erase a Democratic and historically Black district, putting minority representation at risk. — 2026-04-29
+7. Wizards of the Coast game developers announced a unionization drive with the Communications Workers of America [single source]: Tech and gaming workers moved to organize collectively over remote-work mandates and AI safeguards, exercising labor rights amid corporate return-to-office policies. — 2026-04-28
 
-8. The Georgia attorney general brought new charges against Cop City protesters: The prosecution raised concerns that criminal law was being used to deter protest activity and raise the cost of dissent. — 2026-04-29
+8. State of Arizona filed a lawsuit challenging a new mass immigration detention facility for lack of environmental review: A state government sued the federal government over a large detention facility purchase, alleging failure to conduct required environmental and statutory review. — 2026-04-27
 
-9. Alabama officials moved to apply the Supreme Court's voting-rights ruling to new redistricting efforts: The response showed states using the weakened federal standard to revisit maps in ways that could dilute Black voting power. — 2026-04-30
+9. Trump blamed the 'No Kings' protest movement for an assassination attempt against him: The president attributed a violent attack to a peaceful protest movement without evidence, conflating lawful dissent with political violence. — 2026-04-27
 
-10. Louisiana officials postponed congressional primaries and moved toward redistricting after the Supreme Court ruling: The delay disrupted an active election and risked disenfranchising voters while maps were reopened under weaker federal protections. — 2026-04-30
+10. Trump, Melania Trump, Brendan Carr pressured ABC to fire Jimmy Kimmel over a joke about Melania Trump: The president, First Lady, and a federal regulator jointly pressured a broadcaster to remove a comedian for protected speech, using both personal rhetoric and regulatory threats. — 2026-04-27
 
-11. Mississippi Governor Tate Reeves called a special session on redistricting after the Supreme Court ruling: The special session opened a path to redraw districts in a state where Black voting strength is especially vulnerable. — 2026-04-30
+11. Trump administration and Republican Congress blamed Democrats broadly for political violence following the assassination attempt: Administration officials and lawmakers made sweeping accusations that an entire political party incited violence, escalating partisan rhetoric after a security incident. — 2026-04-27
 
-12. The House of Representatives advanced a budget resolution paving the way for about $70 billion in new immigration enforcement funding: The vote expanded the capacity of coercive immigration agencies, with likely effects on detention, raids, and migrant rights. — 2026-05-01
+12. Trump administration resumed family detention operations at the Dilley, Texas immigration processing center [single source]: The administration restarted housing migrant families, including children, at a facility documented to cause psychological and medical harm to minors in detention. — 2026-04-27
 
-13. The Fifth Circuit restricted access to mifepristone by blocking mail distribution and restoring in-person dispensing rules: The ruling narrowed practical access to abortion and miscarriage care, especially for rural and low-income patients. — 2026-05-01
+13. Tennessee Attorney General Jonathan Skrmetti filed a last-minute appeal halting a trial challenging the state's abortion ban [single source]: A state's appeal prevented women from testifying about denial of medically necessary abortion care, impairing judicial review of a restrictive law. — 2026-04-28
 
-14. The ACLU, voting-rights groups, and candidates filed state and federal suits to restore Louisiana's suspended congressional primaries: The lawsuits sought to protect ballots already cast and stop executive disruption of an ongoing election. — 2026-05-01
+14. State of Oregon operated a public defense system leaving thousands of defendants without legal representation [single source]: Systemic shortages of public defenders denied thousands of Oregon defendants their constitutional right to counsel, despite modest improvement over the prior year. — 2026-04-28
 
-15. ICE reported the death of a Cuban immigrant in detention after he had been placed in solitary confinement: The death highlighted the human-rights stakes of detention conditions and the state's duty to protect people in custody. — 2026-05-01
+15. FCC accelerated review of ABC's broadcast licenses following the Kimmel controversy: A federal regulator fast-tracked scrutiny of a broadcaster's licenses in apparent retaliation for airing content critical of the First Lady, raising press freedom concerns. — 2026-04-28
 
-16. The Department of Justice replaced many immigration judges with less experienced appointees: The staffing shift threatened due process in immigration court by weakening expertise in a system that decides liberty and removal. — 2026-05-01
+16. Cuban immigrant Denny Adán González died by suspected suicide in ICE detention in Georgia: A detainee's death in a privately operated facility, the 18th ICE custody death of the year, raises renewed questions about detention conditions and oversight. — 2026-05-01
 
-17. May Day organizers planned nationwide labor and community protests across thousands of locations: The mobilization showed large-scale civic participation around labor rights, inequality, and immigrant protections. — 2026-05-01
+17. Trump administration closed the San Francisco immigration court, leaving a 120,000-case backlog: Reduced judicial staffing led to closure of a major immigration court, denying timely due process to over 100,000 pending cases. — 2026-05-01
+
+18. May Day Strong coalition organized nationwide 'Workers Over Billionaires' day of action across thousands of locations: A broad labor and civil-society coalition mobilized rallies, walkouts, and community actions nationwide, exercising rights to assembly and collective economic protest. — 2026-05-01
+
+19. Rutgers University rescinded a graduation speaker invitation over the speaker's pro-Palestinian social media posts [single source]: A public university withdrew a commencement speech invitation based on protected political expression, raising concerns about institutional suppression of viewpoint diversity. — 2026-05-01
+
+20. Texas State University terminated a tenured professor's contract following a social media campaign over an off-campus Palestine talk [single source]: A university dismissed a tenured faculty member in response to political pressure over constitutionally protected speech delivered off-campus, raising academic freedom concerns. — 2026-05-01
+
+21. Fifth Circuit Court of Appeals ordered nationwide restrictions on mifepristone, blocking mail distribution: A federal appeals court overrode FDA scientific judgment to restrict access to a medication used in abortion and miscarriage care nationwide, disrupting care even in protective states. — 2026-05-01
+
+22. Georgia Attorney General Chris Carr announced new felony charges against Cop City protesters ahead of his own primary election [single source]: A gubernatorial candidate brought new charges against environmental protesters years after the alleged conduct, raising concerns about prosecutorial power being used for political gain. — 2026-04-29
+
+23. ICE re-arrested the Egyptian family of six on a deportation flight despite a federal judge's release order [single source]: Immigration enforcement again defied a court order by detaining and attempting to deport a family shortly after judicial release, prompting an emergency court intervention. — 2026-04-26
 
 
 Information, Memory and Manipulation
 
-1. Major media outlets misreported key facts about the White House Correspondents' dinner shooter in early coverage: The errors showed how false information can spread quickly during a crisis and distort public understanding of a politically sensitive event. — 2026-04-25
+1. NBC News reported that Iran's military damage to U.S. bases was far worse than the administration disclosed: Independent reporting revealed a significant gap between administration statements and actual battlefield damage, raising accountability concerns about government transparency during an active conflict. — 2026-04-25
 
-2. President Trump attacked Norah O'Donnell during an edited television interview: The attack added presidential pressure on a journalist and fed a climate in which media criticism is treated as a target for retaliation. — 2026-04-26
+2. CNN, TMZ, CBS and other outlets reported inaccurate information about the shooter's status during the dinner shooting coverage [single source]: Multiple major outlets falsely reported a shooting suspect was dead during breaking coverage, illustrating a rush to be first over accuracy during a national security event. — 2026-04-25
 
-3. The FCC accelerated license scrutiny of ABC after criticism of President Trump and Jimmy Kimmel: Using broadcast licensing against a network after political criticism raised concerns about regulatory retaliation against the press. — 2026-04-27
+3. Karoline Leavitt made a cryptic on-air statement about 'shots fired' minutes before an actual shooting occurred [single source]: The White House press secretary's timing and phrasing raised questions about inflammatory rhetoric preceding a violent incident at a press event. — 2026-04-25
 
-4. President Trump commented publicly on the Polymarket insider-trading case in a way that downplayed the misconduct: The remarks risked normalizing misuse of classified information and blurring public standards about official corruption. — 2026-04-27
+4. Dana Bash suggested Democratic rhetoric bore responsibility for the shooting during a CNN interview [single source]: A major network's framing implied that legitimate political criticism of the president contributed to violence, risking a chilling effect on free political speech. — 2026-04-26
 
-5. President Trump delivered a speech that recast American identity around ancestry and heritage: The speech used presidential rhetoric to redefine national belonging and reshape civic memory away from egalitarian principles. — 2026-04-29
+5. Rep. Nancy Mace suggested actor Ben Stiller may be involved in the WHCA shooting without evidence: A sitting member of Congress publicly floated an unfounded conspiracy theory implicating a private citizen in a shooting, which was quickly fact-checked and corrected. — 2026-04-26
 
-6. Objection AI launched an AI system to judge media claims, publish rulings, and demand source disclosures from journalists: The project sought to insert opaque algorithmic authority into journalism disputes, threatening source protection and public trust in reporting. — 2026-04-30
+6. Trump posted an altered historical photograph to falsely blame Obama for conditions at the White House Reflecting Pool: The president shared a digitally manipulated image misattributed to a predecessor, undermining public trust in official communications through fabricated historical comparison. — 2026-04-26
 
-7. Satellite imagery and reporting contradicted President Trump's claims that Iran's oil infrastructure was collapsing: The gap between official claims and observable evidence raised concerns about wartime misinformation from political leaders. — 2026-05-01
+7. Trump attacked CBS journalist Norah O'Donnell on air, calling her 'a disgrace' [single source]: The president publicly criticized a journalist for reading an alleged shooter's manifesto excerpt, exemplifying continued pressure on media covering the administration. — 2026-04-26
+
+8. Trump administration and Republican Congress conducted a coordinated media campaign framing Democratic rhetoric as violent incitement to justify the ballroom project [single source]: A coordinated messaging effort across officials, lawmakers, and allied media mischaracterized ordinary political speech to advance a construction agenda, manipulating public perception of a crisis. — 2026-04-27
+
+9. FCC Chair Brendan Carr threatened ABC affiliates with enforcement action over the Kimmel joke [single source]: A federal regulator used explicit threats of licensing consequences to pressure a broadcaster, weaponizing regulatory authority in apparent coordination with the president's demands. — 2026-04-27
+
+10. Trump administration coordinated false reports about a canceled Iran delegation meeting amid an oil price drop [single source]: Multiple outlets reported a diplomatic meeting that Iranian officials denied, coinciding suspiciously with market movement, raising concerns about information manipulation for economic or political effect. — 2026-04-25
+
+11. Todd Blanche acknowledged uncertainty about whether the shooter fired the shot that struck an agent's vest: An administration official admitted the government's account of a key security incident detail remained unverified even as the incident was used to justify major policy actions. — 2026-04-27
+
+12. Todd Blanche and DOJ indicted former FBI Director James Comey over an Instagram post of seashells spelling '86 47': The Justice Department charged a former senior law enforcement official over an ambiguous social media post widely used as a political meme, raising concerns about weaponized prosecution and chilled speech. — 2026-04-28
+
+13. Karoline Leavitt blamed 'the entire Democrat party' for the shooting incident in an official statement: A White House spokesperson attributed a security breach to an entire political party without evidence, spreading partisan blame through official government communications. — 2026-04-28
+
+14. Trump delivered a state-visit speech redefining American founding principles around blood-and-soil nationalism [single source]: The president publicly reframed the nation's founding narrative away from universal equality toward ethnic and cultural nationalism, challenging the constitutional basis of American democratic identity. — 2026-04-28
+
+15. Polymarket misrepresented its role in detecting an insider-trading scheme involving classified information: A prediction-market platform claimed its internal systems caught financial misconduct, though the government's own indictment credited press reporting instead, undermining public trust in the platform's oversight claims. — 2026-04-27
+
+16. Trump made unsubstantiated claims that Comey's seashell post was mob code meaning 'kill President Trump': The president spread an inflammatory, factually unsupported accusation against a former official, amplifying misinformation to justify an ongoing prosecution. — 2026-04-30
+
+17. Republican officials made disputed claims about falling gas prices and a strong economy on national television [single source]: Senior party officials made economic claims contradicted by independent data on inflation and fuel prices, presenting a misleading picture ahead of midterm elections. — 2026-04-30
+
+18. Aron D'Souza (Objection.ai) proposed requiring journalists to disclose confidential sources to an AI system as a condition of interviews [single source]: A privately funded venture proposed a scheme that would compel reporters to reveal anonymous sources to a private AI platform, threatening core protections for investigative journalism. — 2026-04-30
+
+19. Louisiana v. Callais (Supreme Court) issued a 6-3 ruling gutting Section 2 of the Voting Rights Act: The Supreme Court rewrote the legal standard for challenging discriminatory voting maps, eliminating a primary federal safeguard against racial vote dilution used for six decades. — 2026-04-29
+
+20. Alabama, Mississippi, Tennessee officials publicly signaled intent to rapidly redraw maps to eliminate majority-Black districts: State officials explicitly stated intent to exploit the weakened Voting Rights Act ruling to dilute Black voting power ahead of the midterms, converting a legal decision into immediate political action. — 2026-04-30
+
+21. Popular Information reported that ICE had not resumed detainee medical reimbursement payments after a missed deadline [single source]: A contractor quietly extended a payment deadline for detainee medical care reimbursements, extending a seven-month freeze affecting healthcare access for people in federal custody. — 2026-04-30
+
+22. Objection.ai investigated New York Times reporting on a White House official's alleged personal investment gains: A privately funded tribunal targeted journalism examining potential conflicts of interest by a federal official, raising concerns about efforts to discredit accountability reporting. — 2026-04-30
+
+23. German Chancellor Friedrich Merz publicly stated the U.S. had no coherent Iran strategy and was being 'humiliated' by Iran: A key NATO ally publicly criticized U.S. military and diplomatic strategy, signaling erosion of allied confidence in American leadership during an active conflict. — 2026-04-27
 <!-- END GENERATED APPENDIX -->

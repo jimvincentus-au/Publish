@@ -1,19 +1,19 @@
 {
-  "clock_after_minutes": 493.2,
-  "clock_before_minutes": 493.2,
-  "clock_delta_minutes": 0.0,
-  "generated_at": "2026-04-05T07:41:57.610660+00:00",
+  "clock_after_minutes": 463.0,
+  "clock_before_minutes": 463.2,
+  "clock_delta_minutes": -0.2,
+  "generated_at": "2026-08-24T08:27:35.912941+00:00",
   "provenance": {
-    "mel": "/Volumes/T3BlueJVI2026/Democracy Clock Automation/Step 3/Master Event Logs/master_index_week63_2026-03-28_2026-04-03.json",
-    "mel_sha1": "490c7dac90fe1b402a61d9d0d503e02784b98613",
-    "prior": "/Volumes/T3BlueJVI2026/Democracy Clock Automation/Step 3/Weeks/Week 62/carry_forward_week62.json",
-    "prior_sha1": "65023687295ea1c20960c5111714e75a3faf1ce0",
-    "trait_catalogue": "/Volumes/T3BlueJVI2026/Democracy Clock Automation/Step 3/Programs/step3_trait_catalogue_v4.json",
+    "mel": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Master Event Logs/master_index_week63_2026-03-28_2026-04-03.json",
+    "mel_sha1": "d1ffe7c015932516b8c5892ba00e6f881a5b4842",
+    "prior": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Weeks/Week 62/carry_forward_week62.json",
+    "prior_sha1": "dcc877c26eb32b3f4910103693b40e51c28fd25b",
+    "trait_catalogue": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Programs/step3_trait_catalogue_v4.json",
     "trait_catalogue_sha1": "636ee63296eafb124942adf76cebfb6936d491e4"
   },
   "totals": {
-    "difficulty_sum": 117.0,
-    "presence_sum": 376.2
+    "difficulty_sum": 89.6,
+    "presence_sum": 373.4
   },
   "traits": [
     {
@@ -23,7 +23,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.3,
       "notes": "",
       "presence": 7.2,
       "rationale": "Presence is 7.2 (elevated) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. IG protections and routine disclosures returned, but practical leverage over appropriations and emergency carve\u2011outs left meaningful unilateral room. Difficulty 1.3 is partly reversible: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -38,7 +38,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.6,
       "notes": "",
       "presence": 7.6,
       "rationale": "Presence is 7.6 (high) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Money\u2011in\u2011politics, concentrated corporate power, and path\u2011dependent industrial policy remained. Antitrust revival and pro\u2011labor actions nudged risks down, but the fiscal\u2011regulatory chassis still advantaged capital. Difficulty 1.6 is highly sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -53,7 +53,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.9,
       "notes": "",
       "presence": 4.6,
       "rationale": "Presence is 8.8 (very high) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Institutional baselines improved (respect for oversight, apolitical DOJ posture), yet Court doctrine and structural incentives from the 2010s persisted. Week 0 weights these durable architectures over goodwill. Difficulty 1.9 is deeply entrenched: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement. Adjusted by decree and agreement to correct unrealistic baseline calibration.",
@@ -68,9 +68,9 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.6,
       "notes": "",
-      "presence": 6.4,
+      "presence": 6.0,
       "rationale": "Presence is 6.6 (elevated) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Institutional baselines improved (respect for oversight, apolitical DOJ posture), yet Court doctrine and structural incentives from the 2010s persisted. Week 0 weights these durable architectures over goodwill. Difficulty 1.6 is highly sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement. Adjusted by decree and agreement to correct unrealistic baseline calibration.",
       "trait_id": "law_is_weapon_not_limit",
       "trait_name": "Law is a weapon of the state, not a limit on its power",
@@ -83,7 +83,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.4,
       "notes": "",
       "presence": 6.8,
       "rationale": "Presence is 6.8 (elevated) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Biden restored process norms and inspector\u2011general independence after Trump I, but systemic tools (EOs, impoundment risks, and central coordination) remained available. Week 0 reflects improved practice, not a rebuilt structure. Difficulty 1.4 is sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -98,9 +98,9 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.6,
       "notes": "",
-      "presence": 7.2,
+      "presence": 7.1,
       "rationale": "Presence is 7.2 (elevated) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Money\u2011in\u2011politics, concentrated corporate power, and path\u2011dependent industrial policy remained. Antitrust revival and pro\u2011labor actions nudged risks down, but the fiscal\u2011regulatory chassis still advantaged capital. Difficulty 1.6 is highly sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "opposition_allowed_but_structurally_weakened",
       "trait_name": "Opposition parties are allowed but structurally weakened",
@@ -113,7 +113,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.5,
       "notes": "",
       "presence": 6.4,
       "rationale": "Presence is 6.4 (moderate) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Institutional baselines improved (respect for oversight, apolitical DOJ posture), yet Court doctrine and structural incentives from the 2010s persisted. Week 0 weights these durable architectures over goodwill. Difficulty 1.5 is sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -128,7 +128,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.5,
       "notes": "",
       "presence": 7.0,
       "rationale": "Presence is 7.0 (elevated) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Biden restored process norms and inspector\u2011general independence after Trump I, but systemic tools (EOs, impoundment risks, and central coordination) remained available. Week 0 reflects improved practice, not a rebuilt structure. Difficulty 1.5 is sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -143,7 +143,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.6,
       "notes": "",
       "presence": 7.2,
       "rationale": "Presence is 7.2 (elevated) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Open\u2011gov initiatives and scientific\u2011integrity rules helped, but platform dynamics, disinformation, and culture\u2011war curricula fights sustained information risks beyond a healthy democracy\u2019s floor. Difficulty 1.6 is highly sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -158,7 +158,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.5,
       "notes": "",
       "presence": 6.0,
       "rationale": "Presence is 6.0 (moderate) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Open\u2011gov initiatives and scientific\u2011integrity rules helped, but platform dynamics, disinformation, and culture\u2011war curricula fights sustained information risks beyond a healthy democracy\u2019s floor. Difficulty 1.5 is sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -173,9 +173,9 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.4,
       "notes": "",
-      "presence": 6.0,
+      "presence": 6.1,
       "rationale": "Presence is 3.2 (low) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Institutional baselines improved (respect for oversight, apolitical DOJ posture), yet Court doctrine and structural incentives from the 2010s persisted. Week 0 weights these durable architectures over goodwill. Difficulty 1.4 is sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "federal_power_weaponized_against_disfavored_regions",
       "trait_name": "Federal power is weaponized against disfavored states or localities",
@@ -188,7 +188,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.4,
       "notes": "",
       "presence": 5.8,
       "rationale": "Presence is 5.8 (moderate) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Biden restored process norms and inspector\u2011general independence after Trump I, but systemic tools (EOs, impoundment risks, and central coordination) remained available. Week 0 reflects improved practice, not a rebuilt structure. Difficulty 1.4 is sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -203,9 +203,9 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.7,
       "notes": "",
-      "presence": 6.4,
+      "presence": 6.2,
       "rationale": "Presence is 6.9 (elevated) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Civil liberties posture improved, with symmetrical enforcement and fewer retaliations. However, surveillance infrastructure and uneven state practices endured, keeping risks above pre\u20112017 levels. Difficulty 1.7 is highly sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement. Adjusted by decree and agreement to correct unrealistic baseline calibration.",
       "trait_id": "courts_rule_for_donors_and_elites",
       "trait_name": "Courts issue rulings aligned with donor or elite preference",
@@ -218,9 +218,9 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.7,
       "notes": "",
-      "presence": 7.4,
+      "presence": 7.3,
       "rationale": "Presence is 7.4 (elevated) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Money\u2011in\u2011politics, concentrated corporate power, and path\u2011dependent industrial policy remained. Antitrust revival and pro\u2011labor actions nudged risks down, but the fiscal\u2011regulatory chassis still advantaged capital. Difficulty 1.6 is highly sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "judicial_independence_eroded_by_politicized_appointments",
       "trait_name": "Judicial independence is eroded through politicized appointments",
@@ -233,9 +233,9 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 0.9,
       "notes": "",
-      "presence": 5.3,
+      "presence": 5.0,
       "rationale": "Presence is 4.8 (notable) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Institutional baselines improved (respect for oversight, apolitical DOJ posture), yet Court doctrine and structural incentives from the 2010s persisted. Week 0 weights these durable architectures over goodwill. Difficulty 0.9 is readily reversible: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "legislatures_as_performance_not_deliberation",
       "trait_name": "Legislatures function as performance, not deliberation",
@@ -248,9 +248,9 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.4,
       "notes": "",
-      "presence": 6.0,
+      "presence": 5.8,
       "rationale": "Presence is 5.6 (moderate) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Civil liberties posture improved, with symmetrical enforcement and fewer retaliations. However, surveillance infrastructure and uneven state practices endured, keeping risks above pre\u20112017 levels. Difficulty 1.4 is sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "agencies_deregulated_or_captured_by_private_interests",
       "trait_name": "Administrative agencies are deregulated or captured by private interests",
@@ -263,7 +263,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.5,
       "notes": "",
       "presence": 6.8,
       "rationale": "Presence is 6.8 (elevated) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Money\u2011in\u2011politics, concentrated corporate power, and path\u2011dependent industrial policy remained. Antitrust revival and pro\u2011labor actions nudged risks down, but the fiscal\u2011regulatory chassis still advantaged capital. Difficulty 1.5 is sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -278,7 +278,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.3,
       "notes": "",
       "presence": 6.5,
       "rationale": "Presence is 6.5 (elevated) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Biden restored process norms and inspector\u2011general independence after Trump I, but systemic tools (EOs, impoundment risks, and central coordination) remained available. Week 0 reflects improved practice, not a rebuilt structure. Difficulty 1.3 is partly reversible: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -295,7 +295,7 @@
       },
       "difficulty": 2.0,
       "notes": "",
-      "presence": 5.7,
+      "presence": 6.1,
       "rationale": "Presence is 5.4 (notable) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Money\u2011in\u2011politics, concentrated corporate power, and path\u2011dependent industrial policy remained. Antitrust revival and pro\u2011labor actions nudged risks down, but the fiscal\u2011regulatory chassis still advantaged capital. Difficulty 1.2 is partly reversible: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "inspectors_general_fired_or_ignored",
       "trait_name": "Inspectors general are fired or ignored",
@@ -308,7 +308,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.4,
       "notes": "",
       "presence": 5.6,
       "rationale": "Presence is 5.6 (moderate) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Civil liberties posture improved, with symmetrical enforcement and fewer retaliations. However, surveillance infrastructure and uneven state practices endured, keeping risks above pre\u20112017 levels. Difficulty 1.4 is sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -323,9 +323,9 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.4,
       "notes": "",
-      "presence": 5.6,
+      "presence": 5.4,
       "rationale": "Presence is 5.2 (notable) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Open\u2011gov initiatives and scientific\u2011integrity rules helped, but platform dynamics, disinformation, and culture\u2011war curricula fights sustained information risks beyond a healthy democracy\u2019s floor. Difficulty 1.4 is sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "transparency_laws_weakened_or_unenforced",
       "trait_name": "Transparency laws are weakened or unenforced",
@@ -340,7 +340,7 @@
       },
       "difficulty": 2.0,
       "notes": "",
-      "presence": 6.4,
+      "presence": 6.3,
       "rationale": "Presence is 5.8 (moderate) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Money\u2011in\u2011politics, concentrated corporate power, and path\u2011dependent industrial policy remained. Antitrust revival and pro\u2011labor actions nudged risks down, but the fiscal\u2011regulatory chassis still advantaged capital. Difficulty 1.3 is partly reversible: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "civil_service_politicized_or_privatized",
       "trait_name": "Civil service roles are politicized or privatized",
@@ -353,7 +353,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.6,
       "notes": "",
       "presence": 6.6,
       "rationale": "Presence is 6.6 (elevated) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Open\u2011gov initiatives and scientific\u2011integrity rules helped, but platform dynamics, disinformation, and culture\u2011war curricula fights sustained information risks beyond a healthy democracy\u2019s floor. Difficulty 1.6 is highly sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -368,9 +368,9 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.5,
       "notes": "",
-      "presence": 5.5,
+      "presence": 5.3,
       "rationale": "Presence is 5.2 (notable) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Institutional baselines improved (respect for oversight, apolitical DOJ posture), yet Court doctrine and structural incentives from the 2010s persisted. Week 0 weights these durable architectures over goodwill. Difficulty 1.5 is sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "public_funds_for_glorification_and_symbolic_dominance",
       "trait_name": "Public funds are used for personal glorification and symbolic dominance",
@@ -398,7 +398,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.6,
       "notes": "",
       "presence": 6.9,
       "rationale": "Presence is 6.9 (elevated) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Money\u2011in\u2011politics, concentrated corporate power, and path\u2011dependent industrial policy remained. Antitrust revival and pro\u2011labor actions nudged risks down, but the fiscal\u2011regulatory chassis still advantaged capital. Difficulty 1.6 is highly sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -428,7 +428,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 1.6,
+      "difficulty": 1.3,
       "notes": "",
       "presence": 6.0,
       "rationale": "Presence is 6.0 (moderate) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Biden restored process norms and inspector\u2011general independence after Trump I, but systemic tools (EOs, impoundment risks, and central coordination) remained available. Week 0 reflects improved practice, not a rebuilt structure. Difficulty 1.3 is partly reversible: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -443,7 +443,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.8,
       "notes": "",
       "presence": 8.0,
       "rationale": "Presence is 8.0 (high) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Biden restored process norms and inspector\u2011general independence after Trump I, but systemic tools (EOs, impoundment risks, and central coordination) remained available. Week 0 reflects improved practice, not a rebuilt structure. Difficulty 1.8 is deeply entrenched: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -458,7 +458,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.5,
       "notes": "",
       "presence": 6.8,
       "rationale": "Presence is 6.8 (elevated) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Money\u2011in\u2011politics, concentrated corporate power, and path\u2011dependent industrial policy remained. Antitrust revival and pro\u2011labor actions nudged risks down, but the fiscal\u2011regulatory chassis still advantaged capital. Difficulty 1.5 is sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -473,7 +473,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.5,
       "notes": "",
       "presence": 6.2,
       "rationale": "Presence is 6.2 (moderate) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Money\u2011in\u2011politics, concentrated corporate power, and path\u2011dependent industrial policy remained. Antitrust revival and pro\u2011labor actions nudged risks down, but the fiscal\u2011regulatory chassis still advantaged capital. Difficulty 1.5 is sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -488,7 +488,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 1.6,
+      "difficulty": 1.4,
       "notes": "",
       "presence": 6.5,
       "rationale": "Presence is 6.5 (elevated) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Money\u2011in\u2011politics, concentrated corporate power, and path\u2011dependent industrial policy remained. Antitrust revival and pro\u2011labor actions nudged risks down, but the fiscal\u2011regulatory chassis still advantaged capital. Difficulty 1.4 is sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -503,9 +503,9 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 1.1,
+      "difficulty": 1.0,
       "notes": "",
-      "presence": 5.1,
+      "presence": 5.0,
       "rationale": "Presence is 4.2 (low-to-moderate) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Institutional baselines improved (respect for oversight, apolitical DOJ posture), yet Court doctrine and structural incentives from the 2010s persisted. Week 0 weights these durable architectures over goodwill. Difficulty 1.0 is more reversible: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "financial_crimes_by_elites_unpunished_or_settled",
       "trait_name": "Financial crimes by elites are unpunished or quietly settled",
@@ -518,7 +518,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 1.7,
+      "difficulty": 1.6,
       "notes": "",
       "presence": 5.8,
       "rationale": "Presence is 5.8 (moderate) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Civil liberties posture improved, with symmetrical enforcement and fewer retaliations. However, surveillance infrastructure and uneven state practices endured, keeping risks above pre\u20112017 levels. Difficulty 1.6 is highly sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -533,9 +533,9 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.4,
       "notes": "",
-      "presence": 5.4,
+      "presence": 5.3,
       "rationale": "Presence is 4.9 (notable) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Institutional baselines improved (respect for oversight, apolitical DOJ posture), yet Court doctrine and structural incentives from the 2010s persisted. Week 0 weights these durable architectures over goodwill. Difficulty 1.4 is sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "labor_protections_eroded_to_atomize_workers",
       "trait_name": "Labor protections are eroded to keep workers atomized and dependent",
@@ -548,7 +548,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.4,
       "notes": "",
       "presence": 6.2,
       "rationale": "Presence is 6.2 (moderate) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Biden restored process norms and inspector\u2011general independence after Trump I, but systemic tools (EOs, impoundment risks, and central coordination) remained available. Week 0 reflects improved practice, not a rebuilt structure. Difficulty 1.4 is sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -563,7 +563,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 1.9,
+      "difficulty": 1.4,
       "notes": "",
       "presence": 5.1,
       "rationale": "Presence is 5.1 (notable) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Biden restored process norms and inspector\u2011general independence after Trump I, but systemic tools (EOs, impoundment risks, and central coordination) remained available. Week 0 reflects improved practice, not a rebuilt structure. Difficulty 1.4 is sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -578,7 +578,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.7,
       "notes": "",
       "presence": 6.9,
       "rationale": "Presence is 7.4 (elevated) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Money\u2011in\u2011politics, concentrated corporate power, and path\u2011dependent industrial policy remained. Antitrust revival and pro\u2011labor actions nudged risks down, but the fiscal\u2011regulatory chassis still advantaged capital. Difficulty 1.7 is highly sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement. Adjusted by decree and agreement to correct unrealistic baseline calibration.",
@@ -593,7 +593,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.7,
       "notes": "",
       "presence": 7.6,
       "rationale": "Presence is 7.6 (high) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Institutional baselines improved (respect for oversight, apolitical DOJ posture), yet Court doctrine and structural incentives from the 2010s persisted. Week 0 weights these durable architectures over goodwill. Difficulty 1.7 is highly sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -608,9 +608,9 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.2,
       "notes": "",
-      "presence": 5.0,
+      "presence": 4.9,
       "rationale": "Presence is 4.8 (notable) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Civil liberties posture improved, with symmetrical enforcement and fewer retaliations. However, surveillance infrastructure and uneven state practices endured, keeping risks above pre\u20112017 levels. Difficulty 1.2 is partly reversible: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "crisis_as_profit_opportunity_for_insiders",
       "trait_name": "Crisis becomes a profit opportunity for those closest to power",
@@ -623,9 +623,9 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.3,
       "notes": "",
-      "presence": 5.6,
+      "presence": 5.5,
       "rationale": "Presence is 5.4 (notable) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Civil liberties posture improved, with symmetrical enforcement and fewer retaliations. However, surveillance infrastructure and uneven state practices endured, keeping risks above pre\u20112017 levels. Difficulty 1.3 is partly reversible: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "protest_rights_abridged_by_zoning_permits_security",
       "trait_name": "Protest rights are abridged through zoning, permits, or security claims",
@@ -638,7 +638,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.5,
       "notes": "",
       "presence": 7.0,
       "rationale": "Presence is 7.0 (elevated) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Money\u2011in\u2011politics, concentrated corporate power, and path\u2011dependent industrial policy remained. Antitrust revival and pro\u2011labor actions nudged risks down, but the fiscal\u2011regulatory chassis still advantaged capital. Difficulty 1.5 is sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -653,7 +653,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.5,
       "notes": "",
       "presence": 6.0,
       "rationale": "Presence is 6.0 (moderate) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Civil liberties posture improved, with symmetrical enforcement and fewer retaliations. However, surveillance infrastructure and uneven state practices endured, keeping risks above pre\u20112017 levels. Difficulty 1.5 is sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -668,9 +668,9 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.5,
       "notes": "",
-      "presence": 6.1,
+      "presence": 6.0,
       "rationale": "Presence is 5.6 (moderate) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Institutional baselines improved (respect for oversight, apolitical DOJ posture), yet Court doctrine and structural incentives from the 2010s persisted. Week 0 weights these durable architectures over goodwill. Difficulty 1.5 is sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "universities_pressured_to_suppress_dissent",
       "trait_name": "Universities are pressured to suppress dissent or lose funding",
@@ -683,7 +683,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.6,
       "notes": "",
       "presence": 6.8,
       "rationale": "Presence is 6.8 (elevated) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Civil liberties posture improved, with symmetrical enforcement and fewer retaliations. However, surveillance infrastructure and uneven state practices endured, keeping risks above pre\u20112017 levels. Difficulty 1.6 is highly sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -698,7 +698,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.8,
       "notes": "",
       "presence": 7.8,
       "rationale": "Presence is 7.8 (high) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Civil liberties posture improved, with symmetrical enforcement and fewer retaliations. However, surveillance infrastructure and uneven state practices endured, keeping risks above pre\u20112017 levels. Difficulty 1.8 is deeply entrenched: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -713,7 +713,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.6,
       "notes": "",
       "presence": 6.4,
       "rationale": "Presence is 6.2 (moderate) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Civil liberties posture improved, with symmetrical enforcement and fewer retaliations. However, surveillance infrastructure and uneven state practices endured, keeping risks above pre\u20112017 levels. Difficulty 1.5 is sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -728,9 +728,9 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.3,
       "notes": "",
-      "presence": 5.5,
+      "presence": 5.3,
       "rationale": "Presence is 5.2 (notable) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Civil liberties posture improved, with symmetrical enforcement and fewer retaliations. However, surveillance infrastructure and uneven state practices endured, keeping risks above pre\u20112017 levels. Difficulty 1.3 is partly reversible: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "religion_co_opted_for_legitimacy_and_control",
       "trait_name": "Religion is co-opted as a tool of legitimacy and control",
@@ -743,9 +743,9 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.2,
       "notes": "",
-      "presence": 5.3,
+      "presence": 5.0,
       "rationale": "Presence is 5.0 (notable) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Biden restored process norms and inspector\u2011general independence after Trump I, but systemic tools (EOs, impoundment risks, and central coordination) remained available. Week 0 reflects improved practice, not a rebuilt structure. Difficulty 1.2 is partly reversible: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement. Adjusted by decree and agreement to correct unrealistic baseline calibration.",
       "trait_id": "dissenters_labeled_unpatriotic_subversive_or_corrupt",
       "trait_name": "Dissenters are labeled unpatriotic, subversive, or corrupt",
@@ -758,9 +758,9 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.4,
       "notes": "",
-      "presence": 5.0,
+      "presence": 4.4,
       "rationale": "Presence is 4.3 (low-to-moderate) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Biden restored process norms and inspector\u2011general independence after Trump I, but systemic tools (EOs, impoundment risks, and central coordination) remained available. Week 0 reflects improved practice, not a rebuilt structure. Difficulty 1.4 is sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "paramilitary_violence_tolerated_when_it_protects_elites",
       "trait_name": "Paramilitary violence is tolerated when it protects elite interests",
@@ -773,9 +773,9 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.2,
       "notes": "",
-      "presence": 5.7,
+      "presence": 5.8,
       "rationale": "Presence is 5.5 (moderate) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Biden restored process norms and inspector\u2011general independence after Trump I, but systemic tools (EOs, impoundment risks, and central coordination) remained available. Week 0 reflects improved practice, not a rebuilt structure. Difficulty 1.2 is partly reversible: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "elite_donor_crimes_concealed_not_prosecuted",
       "trait_name": "Crimes committed by elite donors or allies are concealed, not prosecuted",
@@ -788,7 +788,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.9,
       "notes": "",
       "presence": 8.2,
       "rationale": "Presence is 8.2 (high) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Institutional baselines improved (respect for oversight, apolitical DOJ posture), yet Court doctrine and structural incentives from the 2010s persisted. Week 0 weights these durable architectures over goodwill. Difficulty 1.9 is deeply entrenched: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -803,7 +803,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.5,
       "notes": "",
       "presence": 6.4,
       "rationale": "Presence is 6.4 (moderate) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Open\u2011gov initiatives and scientific\u2011integrity rules helped, but platform dynamics, disinformation, and culture\u2011war curricula fights sustained information risks beyond a healthy democracy\u2019s floor. Difficulty 1.5 is sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -818,7 +818,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.6,
       "notes": "",
       "presence": 7.2,
       "rationale": "Presence is 7.2 (elevated) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Money\u2011in\u2011politics, concentrated corporate power, and path\u2011dependent industrial policy remained. Antitrust revival and pro\u2011labor actions nudged risks down, but the fiscal\u2011regulatory chassis still advantaged capital. Difficulty 1.6 is highly sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -833,9 +833,9 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.3,
       "notes": "",
-      "presence": 5.7,
+      "presence": 5.6,
       "rationale": "Presence is 5.6 (moderate) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Open\u2011gov initiatives and scientific\u2011integrity rules helped, but platform dynamics, disinformation, and culture\u2011war curricula fights sustained information risks beyond a healthy democracy\u2019s floor. Difficulty 1.3 is partly reversible: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "civic_education_hollowed_out_replaced_with_market_ideology",
       "trait_name": "Civic education is hollowed out and replaced with market ideology",
@@ -848,7 +848,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 1.8,
+      "difficulty": 1.3,
       "notes": "",
       "presence": 5.5,
       "rationale": "Presence is 5.4 (notable) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Open\u2011gov initiatives and scientific\u2011integrity rules helped, but platform dynamics, disinformation, and culture\u2011war curricula fights sustained information risks beyond a healthy democracy\u2019s floor. Difficulty 1.3 is partly reversible: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -863,9 +863,9 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.3,
       "notes": "",
-      "presence": 5.1,
+      "presence": 5.5,
       "rationale": "Presence is 5.0 (notable) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Open\u2011gov initiatives and scientific\u2011integrity rules helped, but platform dynamics, disinformation, and culture\u2011war curricula fights sustained information risks beyond a healthy democracy\u2019s floor. Difficulty 1.3 is partly reversible: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "textbooks_and_museums_altered_to_erase_dissent",
       "trait_name": "Textbooks and museums are altered to erase dissent and accountability",
@@ -878,9 +878,9 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.3,
       "notes": "",
-      "presence": 5.7,
+      "presence": 5.6,
       "rationale": "Presence is 5.6 (moderate) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Institutional baselines improved (respect for oversight, apolitical DOJ posture), yet Court doctrine and structural incentives from the 2010s persisted. Week 0 weights these durable architectures over goodwill. Difficulty 1.3 is partly reversible: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "government_archives_sealed_sanitized_or_destroyed",
       "trait_name": "Government archives are sealed, sanitized, or destroyed",
@@ -893,9 +893,9 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.4,
       "notes": "",
-      "presence": 5.9,
+      "presence": 5.7,
       "rationale": "Presence is 6.2 (moderate) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Institutional baselines improved (respect for oversight, apolitical DOJ posture), yet Court doctrine and structural incentives from the 2010s persisted. Week 0 weights these durable architectures over goodwill. Difficulty 1.4 is sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement. Adjusted by decree and agreement to correct unrealistic baseline calibration.",
       "trait_id": "removal_of_disfavored_history_without_process",
       "trait_name": "Statues, portraits, and records of disfavored leaders are removed without process",
@@ -908,7 +908,7 @@
         "difficulty": false,
         "presence": false
       },
-      "difficulty": 2.0,
+      "difficulty": 1.6,
       "notes": "",
       "presence": 7.6,
       "rationale": "Presence is 7.6 (high) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Money\u2011in\u2011politics, concentrated corporate power, and path\u2011dependent industrial policy remained. Antitrust revival and pro\u2011labor actions nudged risks down, but the fiscal\u2011regulatory chassis still advantaged capital. Difficulty 1.6 is highly sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
@@ -917,29 +917,29 @@
       "trait_number": 60
     }
   ],
-  "updated_at": "2026-04-05T07:41:57.610679+00:00",
+  "updated_at": "2026-08-24T08:27:35.912951+00:00",
   "week": 63,
   "weekly_analytic_brief": {
     "sensor": {
       "institutional_shifts": [
-        "Executive branch: Trump\u2019s election, immigration, and trade orders, plus the DOJ PRA opinion, expand de facto presidential control over elections, records, and economic levers, often in open tension with statutory limits and court rulings.",
-        "Judiciary: Federal courts both check and enable power\u2014blocking the White House ballroom and NPR/PBS defunding, restoring historical exhibits, and narrowing DHS protest crackdowns, while the Supreme Court weakens conversion-therapy bans and entertains radical citizenship theories.",
-        "Congress and states: GOP leadership uses shutdown brinkmanship and reconciliation threats to force ICE funding, while Democratic AGs and legislatures in some states counter with wealth taxes, regulatory pushback, and multi-state suits against election orders.",
-        "Security and military apparatus: ICE and DHS special units are redeployed into civilian spaces, while Pentagon leadership is reshaped by Hegseth\u2019s firings and religious framing, blurring civil-military boundaries and weakening internal checks.",
-        "Civil service and public health agencies: Politicized restructuring at CDC, NIH, USFS, and ACIP, plus deep budget and staffing cuts, erode scientific capacity and neutral administration in favor of ideologically driven decision-making."
+        "Judiciary: Federal courts issued mixed but consequential rulings\u2014blocking the ballroom project, restoring detainee legal access, and striking down NPR/PBS funding cuts\u2014while the administration appealed rulings and Trump publicly attacked justices ahead of oral arguments.",
+        "Executive branch: Cabinet turnover accelerated with the firing of AG Bondi (amid Epstein-file pressure) and purges of senior military leadership (Army Chief of Staff George) for resisting politicized personnel decisions, signaling loyalty tests displacing institutional norms.",
+        "Congress: Continued dysfunction over DHS/ICE appropriations extended the longest shutdown in U.S. history; House and Senate Republicans publicly blamed each other while reconciliation was floated to bypass Democratic votes on immigration enforcement funding.",
+        "States and civil society: State and local governments (Washington's surveillance-data law, Social Circle's water shutoff to an ICE facility, California/Illinois AI and prediction-market disputes) increasingly acted as counterweights to federal overreach.",
+        "International relations: Traditional NATO allies (Spain, Italy, France, Austria, Poland) denied military cooperation and publicly criticized U.S. war strategy, while Macron floated a non-U.S.-aligned coalition\u2014an unusual and consequential rupture in alliance solidarity."
       ],
       "oddities_or_open_questions": [
-        "The National Capital Planning Commission\u2019s approval of the East Wing ballroom days after a federal injunction raises questions about intra-executive coordination and whether planning bodies are being used to launder legally dubious projects.",
-        "The firing of Pam Bondi\u2014nominally for insufficient aggression against Trump\u2019s enemies\u2014followed immediately by a full Epstein files release suggests internal factional struggles over which scandals to weaponize versus neutralize.",
-        "Suspicious trading around Trump policy moves, combined with chaotic war messaging and fabricated ceasefire claims, warrants deeper scrutiny of whether market manipulation is being systematically integrated into policy and communications strategy."
+        "Trump's attendance at Supreme Court oral arguments\u2014an unprecedented breach of executive-judicial separation\u2014produced no clear strategic payoff, as he left before opposing arguments concluded; its purpose and effect remain unclear.",
+        "The administration simultaneously escalated war rhetoric (threats to 'obliterate' civilian infrastructure) while claiming imminent Iranian capitulation, a pattern later contradicted by Iran's official denials and a U.S. aircraft loss\u2014raising questions about internal decision-making coherence.",
+        "Despite a cascade of adverse indicators (falling approval, market instability, foreign policy setbacks), the administration pursued further escalations (NATO withdrawal threats, oil seizure rhetoric); whether this reflects strategic calculation or improvisation warrants further reporting."
       ],
-      "summary": "This week combines an extraordinary authoritarian push on elections, immigration, war-making, and historical memory with unusually strong, but still reactive, institutional and civic resistance. The most structurally significant development is Trump\u2019s suite of executive orders on mail-in voting and citizenship verification, reinforced by aligned state laws in Florida and Mississippi and DOJ lawsuits for voter data. Together they exert major pressure on voter access and federalize control over election infrastructure (Trait 45, 1, 11, 47). Parallel moves in immigration\u2014birthright citizenship litigation, aggressive ICE tactics, third\u2011country deportations, and lethal neglect of refugees\u2014deepen stratified citizenship (Trait 47) and normalize rights violations. Abroad, the Iran war escalates, with explicit threats against civilian infrastructure, a downed U.S. jet, \u2018double tap\u2019 strikes, and fraying alliances, entrenching emergency-style governance and militarized priorities (Traits 5, 9, 37, 53). Domestically, the firing of Attorney General Pam Bondi and Army Chief of Staff Randy George, the DOJ opinion attacking the Presidential Records Act, and the White House ballroom fight all underscore a presidency straining against legal and institutional constraints (Traits 1, 4, 7, 22, 24). Massive \u201cNo Kings\u201d protests and a dense wave of litigation show democracy\u2019s antibodies are active but under severe stress.",
+      "summary": "This week was defined by simultaneous crises that overwhelmed institutional capacity for oversight: an unauthorized war with Iran entering its fifth week without congressional authorization, the longest DHS shutdown in U.S. history, a presidential executive order attempting to seize federal control over mail-in voting, the firing of the Attorney General amid Epstein-file pressure, and a record-breaking 8-million-person nationwide protest (\"No Kings 3\"). Executive overreach was pervasive\u2014unilateral funding maneuvers, attacks on judicial independence (Trump's Supreme Court insults, ballroom construction defying a federal injunction), purges of military leadership for refusing politicized orders, and use of DHS/ICE force against protesters and journalists. Simultaneously, allied nations publicly rebuked and materially constrained U.S. military operations (Spain, Italy, France, Poland denying access), signaling serious erosion of alliance cohesion. Civil society responded with historic mobilization, and courts intermittently checked executive action, though enforcement and compliance remained contested.",
       "top_themes": [
-        "Coordinated federal and state assault on voting access: Trump\u2019s mail-voting orders, DOJ suits for voter rolls, and new proof-of-citizenship laws in Florida and Mississippi collectively harden structural voter suppression under the banner of \u201cintegrity.\u201d",
-        "Militarization and emergency logic as default governance: Escalation in Iran, threats to civilian infrastructure, expanded troop deployments, and a record defense budget normalize war footing while domestic social programs face cuts.",
-        "Politicization and purging of legal and military hierarchies: The removal of AG Bondi and Army Chief George, plus pressure on promotions and DOJ watchdogs, signal loyalty tests displacing professional norms in justice and defense institutions.",
-        "State capture of history and memory: Executive directives reshaping museums, park narratives, and portraits, alongside judicial pushback, reveal an aggressive project to sanitize U.S. history and marginalize accounts of oppression.",
-        "Civic and judicial resistance under strain: Record-breaking \u201cNo Kings\u201d protests and a flurry of lawsuits against voting orders, ICE practices, and censorship show robust counter-mobilization, but largely in defensive posture against rapid executive overreach."
+        "Executive overreach via unilateral action: Trump repeatedly bypassed Congress on shutdown funding, election administration, and construction projects, testing separation-of-powers limits through executive orders and social-media directives.",
+        "War without accountability: An undeclared Iran conflict entered its fifth week with no congressional authorization, civilian casualties, allied refusals to participate, and a downed aircraft, alongside contradictory presidential claims about negotiations and military status.",
+        "Weaponization of federal law enforcement: DOJ leadership changes, targeted investigations of political critics (Swalwell), terrorism prosecutions of leftist activists, and a partisan 'fraud czar' initiative aimed at Democratic states reflect institutionalized retaliation.",
+        "Mass civic mobilization against perceived authoritarian drift: The largest single-day protest in U.S. history (8+ million participants) reflected sustained, geographically diverse resistance, alongside expanding labor/economic justice organizing (May Day Strong).",
+        "Alliance fracture and diplomatic isolation: Multiple NATO allies denied U.S. military access, publicly rejected war strategy, and began exploring post-American security arrangements, undermining decades of alliance architecture."
       ]
     }
   },

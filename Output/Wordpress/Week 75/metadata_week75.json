@@ -1,73 +1,75 @@
 {
   "actionable_outcomes": [
-    "Track and support active election-administration litigation through state election offices, court dockets, and nonpartisan voting-rights groups.",
-    "Attend or monitor local and state public meetings on election rules, school curriculum, and public-space access where these policies are being advanced.",
-    "Support lawful protest-rights, immigrant-defense, and legal-aid organizations providing representation in protest and deportation cases.",
-    "Press members of Congress and state officials in writing or at town halls to defend war-powers oversight, confirmation norms, and transparent procurement.",
-    "Request public records and follow oversight inquiries related to federal contracting, election administration, and public-space restrictions."
+    "Contact senators to ask their position on reintroducing a binding war-powers resolution on Iran",
+    "Support organizations tracking ICE enforcement patterns and filing civil rights litigation over racial profiling",
+    "Follow the House Oversight Committee's subpoena proceedings against Leon Black for Epstein-related records",
+    "Monitor state-level legislation, like New York's new civil liability law, that allows suits against federal agents for constitutional violations",
+    "Track the federal judge's compliance deadline for Epstein-related disclosure obligations",
+    "Support local journalism and press-freedom organizations facing legal threats over critical reporting"
   ],
   "category_flags": [
-    "election administration",
     "executive overreach",
-    "judicial resistance",
+    "judicial deference on immigration",
+    "judicial resistance on elections",
     "criminalization of dissent",
-    "immigration enforcement",
-    "intelligence politicization",
-    "war powers conflict",
-    "memory politics"
+    "legislative capitulation",
+    "loyalty-based appointments",
+    "donor favoritism",
+    "surveillance expansion"
   ],
-  "clock_after_minutes": 493.5,
-  "clock_before_minutes": 493.5,
+  "clock_after_minutes": 461.0,
+  "clock_before_minutes": 461.0,
   "clock_delta_minutes": 0.0,
-  "clock_time_reference": "The Democracy Clock remained at 8:14 p.m. this week, with no net change in minutes. That flat reading reflected offsetting forces: broad executive pressure met enough judicial and institutional resistance to prevent a measurable shift.",
+  "clock_time_reference": "The Democracy Clock remained at 7:41 p.m. this week, with a net movement of zero minutes. Beneath that flat reading, roughly a dozen and a half traits moved sharply in both directions, with executive gains offset almost exactly by a sustained run of judicial rulings defending election administration.",
   "delta_summary": {
     "grand_total_points": {
-      "note": "Despite many trait-level deteriorations, countervailing institutional resistance left the weekly clock unchanged.",
-      "value": 0
+      "note": "Net clock movement was zero minutes; sharp trait-level losses in executive oversight, dissent criminalization, and surveillance were offset by a comprehensive run of court rulings protecting election administration.",
+      "value": 0.0
     },
-    "moral_floor": "The week did not show democratic repair so much as institutions absorbing repeated strain without fully yielding.",
-    "net_interpretation": "No net clock movement masked a high-pressure week in which executive aggrandizement and institutional resistance arrived almost point for point.",
+    "moral_floor": "Severe stress, with truthfulness and good-faith norms broken through fabricated official narratives and legislative hostage-taking, though judicial enforcement of election-related and disclosure obligations preserved meaningful resistance capacity.",
+    "net_interpretation": "The week's flat clock reading masks a period of unusually high institutional volatility, where executive consolidation of power over agencies, immigration, and Congress was substantially, though not fully, offset by sustained judicial defense of election administration and state-level accountability efforts.",
     "traits_moved": {
-      "note": "Thirty-five tracked traits registered movement, showing broad pressure across elections, dissent, immigration, intelligence, corruption, and memory politics.",
-      "value": 35
+      "note": "Fifteen traits registered measurable movement this week, with values ranging from significant executive-power gains to a small offsetting improvement in legislative resistance.",
+      "value": 15
     }
   },
   "end_date": "2026-06-26",
   "image_prompts": {
-    "square": "A painterly, realistic 1:1 symbolic still life showing a judge's gavel, a sealed intelligence folder, a mail ballot, barbed wire, and a small section of broken reflecting pool stone on a dark wooden table under stark light; solemn, detailed, no text.",
-    "wide": "A painterly, realistic 16:9 scene of a federal courthouse at dusk facing a fenced civic plaza with scattered protest signs, National Guard silhouettes, election files and mail ballots carried by wind, and the Capitol dimly visible in the distance; tense atmosphere, muted colors, no text."
+    "square": "A realistic 1:1 painterly still life of an ornate brass scale balanced on a judge's bench, one side holding a gavel and the other a tangle of barbed wire, lit by a single shaft of window light, symbolizing contested justice.",
+    "wide": "A wide painterly, realistic 16:9 scene of a grand marble courthouse at dusk, its columns lit gold against a darkening sky, with a faint reflecting pool in the foreground surrounded by temporary fencing, evoking institutional grandeur under quiet siege."
   },
   "internal_tags": [
-    "week-75",
-    "clock-hold",
-    "election-control",
-    "mail-voting",
-    "proof-of-citizenship",
-    "voter-rolls",
-    "judicial-checks",
-    "executive-hardball",
-    "housing-bill-hostage",
-    "antifa-designation",
-    "protest-crackdown",
-    "reflecting-pool",
-    "national-guard",
-    "immigration-courts",
+    "humphreys-executor",
+    "trump-v-slaughter",
+    "war-powers-reversal",
+    "reflecting-pool-scandal",
+    "ice-racial-profiling",
+    "voter-roll-litigation",
     "tps-termination",
-    "asylum-metering",
-    "acting-dni",
-    "intelligence-purge",
-    "iran-war-powers",
-    "dark-money-primaries",
-    "texas-curriculum"
+    "asylum-turnback",
+    "surveillance-spending",
+    "loyalty-appointments",
+    "dissent-criminalization",
+    "no-bid-contract",
+    "press-freedom-threats",
+    "senate-capitulation",
+    "housing-bill-hostage",
+    "judicial-election-resistance",
+    "week-75",
+    "democracy-clock"
   ],
   "key_traits": [
     {
-      "name": "Executive power operates without effective oversight",
-      "trait_number": 1
+      "name": "Judicial independence is eroded through politicized appointments",
+      "trait_number": 14
     },
     {
-      "name": "Law is a weapon of the state, not a limit on its power",
-      "trait_number": 4
+      "name": "Police and military are aligned with elite preservation, not public defense",
+      "trait_number": 9
+    },
+    {
+      "name": "Crimes committed by elite donors or allies are concealed, not prosecuted",
+      "trait_number": 51
     },
     {
       "name": "Political appointments are awarded based on loyalty and wealth",
@@ -78,91 +80,78 @@
       "trait_number": 8
     },
     {
-      "name": "Police and military are aligned with elite preservation, not public defense",
-      "trait_number": 9
+      "name": "Surveillance of ordinary citizens increases; elite crimes remain opaque",
+      "trait_number": 46
     },
     {
-      "name": "Federal power is weaponized against disfavored states or localities",
-      "trait_number": 11
+      "name": "Administrative agencies are deregulated or captured by private interests",
+      "trait_number": 16
     },
     {
-      "name": "Legislatures function as performance, not deliberation",
-      "trait_number": 15
-    },
-    {
-      "name": "Investigations into corruption are blocked, buried, or retaliated against",
-      "trait_number": 17
-    },
-    {
-      "name": "Transparency laws are weakened or unenforced",
-      "trait_number": 21
-    },
-    {
-      "name": "Civil service roles are politicized or privatized",
-      "trait_number": 22
-    },
-    {
-      "name": "State power is outsourced to unaccountable private contractors",
-      "trait_number": 25
-    },
-    {
-      "name": "Policy outcomes are driven by elite lobbying and financial contributions",
-      "trait_number": 26
-    },
-    {
-      "name": "Crony capitalism becomes indistinguishable from governance",
-      "trait_number": 38
-    },
-    {
-      "name": "Protest rights are abridged through zoning, permits, or security claims",
-      "trait_number": 41
+      "name": "Executive power operates without effective oversight",
+      "trait_number": 1
     },
     {
       "name": "Voter suppression is rationalized as election integrity",
       "trait_number": 45
     },
     {
-      "name": "Citizenship is stratified by wealth, ideology, and heritage",
-      "trait_number": 47
+      "name": "Journalists investigating the elite are surveilled or smeared",
+      "trait_number": 42
     },
     {
-      "name": "Dissenters are labeled unpatriotic, subversive, or corrupt",
-      "trait_number": 49
+      "name": "Emergency powers are normalized and permanent",
+      "trait_number": 5
     },
     {
-      "name": "Textbooks and museums are altered to erase dissent and accountability",
-      "trait_number": 57
+      "name": "Courts issue rulings aligned with donor or elite preference",
+      "trait_number": 13
+    },
+    {
+      "name": "Inspectors general are fired or ignored",
+      "trait_number": 19
+    },
+    {
+      "name": "Foreign influence is welcomed if it supports regime interests",
+      "trait_number": 10
+    },
+    {
+      "name": "Opposition parties are allowed but structurally weakened",
+      "trait_number": 6
     }
   ],
-  "long_synopsis": "Week 75 held the Democracy Clock at 8:14 p.m., but the stillness reflected collision, not calm. The administration broadened its push for control over election rules through funding threats, voter-roll access demands, proof-of-citizenship requirements, and mail-voting restrictions. Federal courts repeatedly blocked or slowed those efforts, preserving state authority and legal limits. At the same time, dissent was more openly cast as a security threat: antifa was designated a domestic terrorist organization, anti-ICE protesters faced terrorism-framed prosecutions, and public space around the Lincoln Memorial became fenced and policed. Immigration showed the sharpest institutional split, with lower courts protecting speech and due process even as the Supreme Court widened executive discretion over TPS, asylum, and deportation. Congress asserted itself on housing and war powers, then faltered under executive leverage. The week measured strain without net movement.",
+  "long_synopsis": "Week 75 held the Democracy Clock steady at 7:41 p.m., but the flat number concealed intense motion. The Supreme Court overturned Humphrey's Executor, ending ninety years of protection for independent agency leaders, while separately stripping due-process protections from immigrants. Enforcement data showed racially skewed ICE arrests alongside record surveillance spending. Congress folded under pressure: the Senate reversed a war-powers vote days after passing it, and the president held a housing bill hostage to force a voter-restriction measure. A fabricated vandalism story at the Lincoln Memorial reflecting pool led to arrests, fencing, and a no-bid contract for a donor. Yet courts blocked multiple federal attempts to control voter rolls and mail balloting, and states pushed back with lawsuits and prosecutions. Damage and resistance arrived in near-equal measure, leaving the clock unmoved but the system visibly strained.",
   "mode": "weekly",
-  "new_time_public": "8:14 p.m.",
+  "new_time_public": "7:41 p.m.",
   "period_label": "Week 75 \u2013 2026-06-20\u20132026-06-26",
-  "previous_time_public": "8:14 p.m.",
+  "previous_time_public": "7:41 p.m.",
   "publishing_status": "publication-ready",
   "quote_sources": [
-    "The Guardian",
-    "Heather Cox Richardson",
+    "Guardian",
+    "Heather Cox Richardson newsletter",
+    "Meidas",
+    "50501",
     "Just Security",
-    "MeidasTouch",
     "Zeteo",
-    "Human Rights Watch",
-    "Democracy Docket",
-    "Federal Register",
-    "Popular Information",
-    "Out Loud"
+    "SCOTUSblog",
+    "Associated Press",
+    "NPR",
+    "PBS NewsHour",
+    "NBC News",
+    "The Hill",
+    "Courthouse News Service"
   ],
-  "short_synopsis": "The clock did not move, but pressure intensified. The administration pushed harder on elections, protest, intelligence, immigration, and Iran, while courts blocked several key moves and Congress resisted only unevenly.",
+  "short_synopsis": "The clock stayed at 7:41 p.m. as the Supreme Court expanded executive power over agencies and immigration, Congress capitulated on war powers, and a fabricated vandalism story justified arrests and donor favoritism\u2014while courts held firm on election protections.",
   "start_date": "2026-06-20",
   "substack_metadata": {
-    "meta_description": "Week 75: executive pressure widened across elections, dissent, immigration, intelligence, and war powers, while courts and Congress resisted unevenly.",
-    "seo_description": "Executive pressure widened across elections, dissent, immigration, intelligence, and war powers, while courts and Congress resisted unevenly.",
-    "seo_title": "Week 75: Pressure Without Breakthrough",
-    "title": "Pressure Without Breakthrough"
+    "meta_description": "The Democracy Clock held at 7:41 p.m. as courts expanded executive power on immigration, Congress capitulated, and judges defended elections.",
+    "seo_description": "SCOTUS expanded executive power, Congress folded on war powers, but courts defended elections. Week 75's clock held still amid high motion.",
+    "seo_title": "Democracy Clock Week 75: Power Shifts Behind a Frozen Clock",
+    "title": "Week 75: A Frozen Clock, A Dozen Fractures"
   },
-  "subtitle": "Executive pressure widened across elections, dissent, intelligence, immigration, and war powers, while courts and Congress resisted unevenly enough to hold the line.",
-  "tagline": "A week of democratic strain in which executive pressure spread across institutions, and resistance arrived often enough to prevent a measurable break.",
-  "title": "Pressure Without Breakthrough",
+  "subtitle": "The Democracy Clock held still this week, but beneath that stillness a presidency tested courts, Congress, and truth itself at once.",
+  "tagline": "Eighteen traits moved beneath a motionless clock, as courts defended elections even while conceding immigration, and Congress folded twice in one week.",
+  "title": "A Frozen Clock, A Dozen Fractures",
   "week_label": "Week 75",
   "week_number": 75,
   "window": {

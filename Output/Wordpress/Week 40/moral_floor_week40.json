@@ -1,12 +1,12 @@
 {
   "week_number": 40,
-  "period_label": "Week 40 – 2025-10-18–2025-10-24",
+  "period_label": "Week 40",
   "window": {
     "start": "2025-10-18",
     "end": "2025-10-24"
   },
-  "clock_time_public": "8:11 p.m.",
-  "clock_delta_minutes": 2.5,
+  "clock_time_public": "7:42 p.m.",
+  "clock_delta_minutes": 0.1,
   "baseline_traits": [
     {
       "name": "character",
@@ -34,221 +34,517 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week saw significant breaches across multiple moral floor traits, reflecting a deepening normalization of authoritarian practices and the use of state power for partisan ends, despite some institutional pushback.",
+    "summary": "The week showed continued erosion of the moral floor through open use of office for personal, allied, and coercive ends. Verified events point to a governing pattern in which executive and legislative actors treated public power as a tool for favoritism, procedural blockage, force, and narrative control, while weakening civil-service independence and institutional transparency. The floor did not collapse outright because courts, some state officials, and civic actors still imposed friction, but the dominant pattern was normalization of conduct that a functioning democracy should treat as exceptional.",
     "norms_broken": [
       {
         "trait": "character",
-        "pattern": "Executive actions prioritized political interests over public duty, particularly through punitive measures against dissent.",
+        "pattern": "Public office was used in ways that favored personal prestige, allied protection, and executive will over oath-bound public duty.",
         "severity": "serious",
-        "institutional_response": "Limited pushback from courts and Congress, indicating a lack of effective oversight.",
+        "institutional_response": "Courts and outside critics challenged some related actions, but the digest shows little internal correction and continued willingness to fuse office with personal aims.",
         "exemplars": [
           {
             "exemplar_id": "wk40_character_ex01",
             "week": 40,
             "event_ids": [
-              "wk40_PA_001",
-              "wk40_PA_002"
+              "wk40_PA_004",
+              "wk40_IM_010"
             ],
             "developments": [
               {
-                "development_id": "wk40_PA_001",
-                "development_label": "Commuted former congressman George Santos’s federal fraud sentence after only a few months served.",
+                "development_id": "wk40_PA_004",
+                "development_label": "Began demolishing the White House East Wing for a ballroom project",
                 "role": "primary"
               },
               {
-                "development_id": "wk40_PA_002",
-                "development_label": "Pardoned Binance founder Changpeng Zhao for sanctions and money-laundering offenses.",
+                "development_id": "wk40_IM_010",
+                "development_label": "Restricted employees from sharing photos of White House demolition work",
                 "role": "secondary"
               }
             ],
-            "summary": "The president's clemency actions exemplified a shift towards using state power for personal political gain.",
-            "why_exemplary": "These actions illustrated a disregard for the integrity of public institutions, undermining democratic norms.",
+            "summary": "A historic public building was remade for a presidential prestige project while visibility into the work was restricted.",
+            "why_exemplary": "This shows public duty yielding to personal aggrandizement, with transparency reduced rather than embraced when the use of office became controversial.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk40_character_ex02",
+            "week": 40,
+            "event_ids": [
+              "wk40_PA_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk40_PA_012",
+                "development_label": "Demanded that the Justice Department pay him compensation for prior investigations",
+                "role": "primary"
+              }
+            ],
+            "summary": "The president sought personal payment from an agency he controls.",
+            "why_exemplary": "Character fails when the oath-bound role of chief executive is treated as a vehicle for personal redress and gain from the state itself.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "ethics",
-        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the use of executive power to punish dissenting institutions and individuals.",
-        "severity": "serious",
-        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
+        "pattern": "The line between public authority and private or allied benefit weakened further through clemency, fundraising, and financial decisions tied to connected figures and projects.",
+        "severity": "extreme",
+        "institutional_response": "Media scrutiny and outside criticism were evident, but the digest shows no strong internal enforcement restoring a clear boundary between office and private advantage.",
         "exemplars": [
           {
             "exemplar_id": "wk40_ethics_ex01",
             "week": 40,
             "event_ids": [
-              "wk40_PA_003",
-              "wk40_PA_011"
+              "wk40_PA_007"
             ],
             "developments": [
               {
-                "development_id": "wk40_PA_003",
-                "development_label": "Demanded $230 million in compensation from the Department of Justice for past investigations into him.",
+                "development_id": "wk40_PA_007",
+                "development_label": "Solicited corporate donations for the White House ballroom project",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk40_PA_011",
-                "development_label": "Used Department of Justice funds to pay himself a $230 million settlement over prior investigations.",
-                "role": "secondary"
               }
             ],
-            "summary": "The president's financial demands and actions exemplified a disregard for ethical boundaries.",
-            "why_exemplary": "These actions demonstrated a willingness to use public resources as tools for political leverage and personal gain.",
+            "summary": "Corporate money was solicited for a presidential project on federal property.",
+            "why_exemplary": "This directly entangles donor access, presidential prestige, and public property, blurring the boundary ethics rules are meant to keep firm.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk40_ethics_ex02",
+            "week": 40,
+            "event_ids": [
+              "wk40_PA_013"
+            ],
+            "developments": [
+              {
+                "development_id": "wk40_PA_013",
+                "development_label": "Pardoned Binance founder Changpeng Zhao",
+                "role": "primary"
+              }
+            ],
+            "summary": "A convicted financial-crime defendant with Trump-linked crypto ties received clemency.",
+            "why_exemplary": "Clemency becomes ethically corrosive when it appears to relieve connected actors rather than serve a public principle of justice or mercy.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "restraint",
-        "pattern": "The administration's aggressive use of executive orders and punitive measures against dissenting voices showed a lack of self-limitation.",
-        "severity": "serious",
-        "institutional_response": "Limited checks from Congress or courts, indicating a weakening of institutional norms.",
+        "pattern": "Executive actors continued to choose maximal power claims in domestic force, war powers, and personnel control rather than self-limiting uses of authority.",
+        "severity": "extreme",
+        "institutional_response": "Courts repeatedly checked some deployment claims and kept review active, but the administration continued pressing broad authority across multiple domains.",
         "exemplars": [
           {
             "exemplar_id": "wk40_restraint_ex01",
             "week": 40,
             "event_ids": [
-              "wk40_PA_004",
-              "wk40_PA_005"
+              "wk40_PA_003",
+              "wk40_IG_011",
+              "wk40_IG_031",
+              "wk40_IG_064"
             ],
             "developments": [
               {
-                "development_id": "wk40_PA_004",
-                "development_label": "Ordered demolition of the White House East Wing to build a privately funded ballroom without required approvals.",
+                "development_id": "wk40_PA_003",
+                "development_label": "Threatened to invoke the Insurrection Act against American cities",
                 "role": "primary"
               },
               {
-                "development_id": "wk40_PA_005",
-                "development_label": "Assembled an interagency task force to purge perceived 'Deep State' opponents from the federal government.",
+                "development_id": "wk40_IG_011",
+                "development_label": "Blocked National Guard deployment to Portland",
+                "role": "secondary"
+              },
+              {
+                "development_id": "wk40_IG_031",
+                "development_label": "Blocked National Guard deployment to Chicago",
+                "role": "secondary"
+              },
+              {
+                "development_id": "wk40_IG_064",
+                "development_label": "Rejected request to lift the Portland deployment block",
                 "role": "secondary"
               }
             ],
-            "summary": "The use of executive power to bypass legislative negotiations exemplified a lack of restraint.",
-            "why_exemplary": "These actions illustrated a disregard for the limits of executive authority and the need for checks on power.",
+            "summary": "Threats of domestic military force persisted even as courts demanded factual and legal limits.",
+            "why_exemplary": "Restraint is broken when emergency and military powers are treated as ready instruments of domestic politics rather than exceptional last resorts.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk40_restraint_ex02",
+            "week": 40,
+            "event_ids": [
+              "wk40_PA_016",
+              "wk40_PA_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk40_PA_016",
+                "development_label": "Stated he would kill drug traffickers without seeking a declaration of war",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk40_PA_002",
+                "development_label": "Reclassified federal jobs as at-will positions and targeted agencies for dismantling",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The week paired open rejection of war-making limits with deeper politicization of the civil service.",
+            "why_exemplary": "The pattern shows a governing style that treats formal power ceilings as obstacles to be bypassed rather than norms to be honored.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding dissent and national security.",
+        "pattern": "Officials and allied actors continued to spread unsupported claims about protest, courts, and public threats, while government dishonesty in litigation further damaged shared reality.",
         "severity": "serious",
-        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
+        "institutional_response": "Journalists, courts, and some public critics challenged parts of the false narrative, but the digest shows continued use of official channels for distortion and incomplete correction.",
         "exemplars": [
           {
             "exemplar_id": "wk40_truthfulness_ex01",
             "week": 40,
             "event_ids": [
-              "wk40_PA_006",
-              "wk40_PA_009"
+              "wk40_IG_034"
             ],
             "developments": [
               {
-                "development_id": "wk40_PA_006",
-                "development_label": "Publicly claimed he could invoke the Insurrection Act and deploy troops domestically to address unrest.",
+                "development_id": "wk40_IG_034",
+                "development_label": "Made false statements to federal courts in multiple cases",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk40_PA_009",
-                "development_label": "Warned that the 2020 election outcome must never be repeated and suggested ongoing efforts to prevent it.",
-                "role": "secondary"
               }
             ],
-            "summary": "The normalization of false claims about public safety and election integrity exemplified a significant erosion of truthfulness.",
-            "why_exemplary": "These actions embedded disinformation at the center of governance, undermining trust in governmental processes.",
+            "summary": "Courts were told falsehoods by the administration in multiple matters.",
+            "why_exemplary": "Truthfulness is a core democratic floor trait; dishonesty to courts directly corrupts oversight and makes lawful correction harder.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk40_truthfulness_ex02",
+            "week": 40,
+            "event_ids": [
+              "wk40_IM_003"
+            ],
+            "developments": [
+              {
+                "development_id": "wk40_IM_003",
+                "development_label": "Dismissed the No Kings protests and spread claims they were funded and unrepresentative",
+                "role": "primary"
+              }
+            ],
+            "summary": "Mass protest was delegitimized through unsupported claims from the president.",
+            "why_exemplary": "This manufactures unreality around civic participation, encouraging citizens to distrust authentic dissent rather than evaluate it on the facts.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "good_faith",
-        "pattern": "The administration's actions undermined the spirit of democratic rules, particularly in election processes and judicial independence.",
+        "pattern": "Procedural powers were used to block representation, oversight, and bargaining rather than to carry out the democratic purposes those procedures exist to serve.",
         "severity": "serious",
-        "institutional_response": "Limited institutional resistance, with some courts attempting to uphold democratic norms.",
+        "institutional_response": "Litigation, public protest, and some legislative resistance pushed back, but Congress itself often appeared to enable or absorb the manipulation rather than correct it.",
         "exemplars": [
           {
             "exemplar_id": "wk40_good_faith_ex01",
             "week": 40,
             "event_ids": [
-              "wk40_IG_001",
-              "wk40_IG_002"
+              "wk40_IG_008",
+              "wk40_IG_029"
             ],
             "developments": [
               {
-                "development_id": "wk40_IG_001",
-                "development_label": "Kept the House adjourned and refused to seat Representative-elect Adelita Grijalva during the shutdown.",
+                "development_id": "wk40_IG_008",
+                "development_label": "Refused to seat Representative-elect Adelita Grijalva",
                 "role": "primary"
               },
               {
-                "development_id": "wk40_IG_002",
-                "development_label": "Sued the U.S. House and Speaker Mike Johnson to compel Adelita Grijalva’s swearing-in.",
+                "development_id": "wk40_IG_029",
+                "development_label": "Sued to compel Adelita Grijalva's swearing-in",
                 "role": "secondary"
               }
             ],
-            "summary": "The procedural manipulation to deny representation exemplified a breach of good faith in democratic processes.",
-            "why_exemplary": "These actions demonstrated a willingness to manipulate legal frameworks for partisan advantage, undermining the integrity of democratic institutions.",
+            "summary": "A duly elected member was kept from office until outside litigation sought to enforce representation rights.",
+            "why_exemplary": "This defeats the purpose of democratic procedure by preserving formal control while denying constituents the representation the rules are meant to secure.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk40_good_faith_ex02",
+            "week": 40,
+            "event_ids": [
+              "wk40_IG_010"
+            ],
+            "developments": [
+              {
+                "development_id": "wk40_IG_010",
+                "development_label": "Kept the House adjourned to block an Epstein files vote",
+                "role": "primary"
+              }
+            ],
+            "summary": "House procedure was used to suppress a vote on a matter of public accountability.",
+            "why_exemplary": "Good faith weakens when chamber rules are used not to manage deliberation but to prevent scrutiny from occurring at all.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Institutional capacity, transparency, and long-term credibility were weakened through civil-service politicization, secrecy, and actions that damaged administrative continuity during shutdown conditions.",
+        "severity": "extreme",
+        "institutional_response": "Courts, states, and civil plaintiffs preserved some review and documentation, but the week still imposed broad strain on the state’s ability to function impartially and durably.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk40_stewardship_ex01",
+            "week": 40,
+            "event_ids": [
+              "wk40_PA_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk40_PA_002",
+                "development_label": "Reclassified federal jobs as at-will positions and targeted agencies for dismantling",
+                "role": "primary"
+              }
+            ],
+            "summary": "Civil-service protections were weakened while agencies were marked for dismantling.",
+            "why_exemplary": "Stewardship fails when neutral administrative capacity is treated as disposable and replaced with politically vulnerable staffing structures.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk40_stewardship_ex02",
+            "week": 40,
+            "event_ids": [
+              "wk40_IM_018",
+              "wk40_IM_010"
+            ],
+            "developments": [
+              {
+                "development_id": "wk40_IM_018",
+                "development_label": "Used auto-delete Signal messages while discussing a prosecution with a journalist",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk40_IM_010",
+                "development_label": "Restricted employees from sharing photos of White House demolition work",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Official conduct reduced the public record through disappearing messages and restricted visibility.",
+            "why_exemplary": "Institutions cannot be responsibly handed to the future when records are thinned, oversight is frustrated, and controversial action is made harder to reconstruct.",
+            "exemplar_type": "secondary"
           }
         ]
       }
     ],
     "norms_strengthened": [
       {
-        "trait": "stewardship",
-        "pattern": "State-level actions aimed at protecting social welfare and civil rights showed some resilience against federal inaction.",
+        "trait": "restraint",
+        "pattern": "Courts continued to impose external limits on domestic force and enforcement conduct where executive actors would not self-limit.",
         "scope": "institutional",
-        "why_it_matters": "These actions reflect a commitment to maintaining public goods and services despite federal neglect.",
+        "why_it_matters": "When internal restraint fails, democratic safety depends on other institutions still being able to slow coercive power before it becomes routine.",
         "exemplars": [
           {
-            "exemplar_id": "wk40_stewardship_ex01",
+            "exemplar_id": "wk40_restraint_ex03",
             "week": 40,
             "event_ids": [
-              "wk40_CR_013",
-              "wk40_CR_015"
+              "wk40_IG_031",
+              "wk40_IG_064"
             ],
             "developments": [
               {
-                "development_id": "wk40_CR_013",
-                "development_label": "Deployed the California National Guard and volunteers to support food banks during the shutdown.",
+                "development_id": "wk40_IG_031",
+                "development_label": "Blocked National Guard deployment to Chicago",
                 "role": "primary"
               },
               {
-                "development_id": "wk40_CR_015",
-                "development_label": "Urged the Education Department to help stop ICE raids near Chicago schools.",
+                "development_id": "wk40_IG_064",
+                "development_label": "Rejected request to lift the Portland deployment block",
                 "role": "secondary"
               }
             ],
-            "summary": "State actions to protect democratic integrity reflect a commitment to stewardship.",
-            "why_exemplary": "These initiatives demonstrate a proactive approach to governance that prioritizes public welfare over political expediency.",
+            "summary": "Judges kept barriers in place against contested domestic troop deployment.",
+            "why_exemplary": "These rulings preserved the principle that asserted emergency deployment authority remains subject to factual and legal limits.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk40_restraint_ex04",
+            "week": 40,
+            "event_ids": [
+              "wk40_IG_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk40_IG_004",
+                "development_label": "Ordered federal immigration officers in Chicago to use body cameras",
+                "role": "primary"
+              }
+            ],
+            "summary": "A court imposed an accountability mechanism on federal immigration enforcement.",
+            "why_exemplary": "Practical monitoring requirements help reintroduce limits where coercive enforcement risks outrunning lawful safeguards.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "States, litigants, and civic actors continued to use lawful channels to contest executive shortcuts and preserve the intended operation of democratic rules.",
+        "scope": "institutional",
+        "why_it_matters": "Good faith survives under stress when correction is still sought through courts, legislation, and peaceful protest rather than abandonment of process.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk40_good_faith_ex03",
+            "week": 40,
+            "event_ids": [
+              "wk40_IG_029"
+            ],
+            "developments": [
+              {
+                "development_id": "wk40_IG_029",
+                "development_label": "Sued to compel Adelita Grijalva's swearing-in",
+                "role": "primary"
+              }
+            ],
+            "summary": "A state attorney general used the courts to enforce representation rights.",
+            "why_exemplary": "This reflects commitment to the democratic purpose of procedure even when chamber leadership used procedure to defeat that purpose.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk40_good_faith_ex04",
+            "week": 40,
+            "event_ids": [
+              "wk40_CR_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk40_CR_004",
+                "development_label": "Organized and expanded the nationwide No Kings protest mobilization",
+                "role": "primary"
+              }
+            ],
+            "summary": "Mass civic resistance was organized through broad, peaceful assembly.",
+            "why_exemplary": "Large-scale nonviolent protest keeps democratic conflict inside legitimate channels even when officials stigmatize dissent.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Some institutions acted to preserve records, oversight, and service continuity where federal conduct threatened long-term damage.",
+        "scope": "institutional",
+        "why_it_matters": "Stewardship is reinforced when subnational actors and courts keep institutions documentable, reviewable, and repairable after central strain.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk40_stewardship_ex03",
+            "week": 40,
+            "event_ids": [
+              "wk40_IM_019",
+              "wk40_IM_017"
+            ],
+            "developments": [
+              {
+                "development_id": "wk40_IM_019",
+                "development_label": "Established the Illinois Accountability Commission to document federal agent misconduct",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk40_IM_017",
+                "development_label": "Launched a public portal for residents to submit ICE raid footage",
+                "role": "secondary"
+              }
+            ],
+            "summary": "States created new channels to preserve evidence of federal enforcement conduct.",
+            "why_exemplary": "Building records where trust in federal oversight is weak helps protect future accountability and institutional memory.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk40_stewardship_ex04",
+            "week": 40,
+            "event_ids": [
+              "wk40_CR_018"
+            ],
+            "developments": [
+              {
+                "development_id": "wk40_CR_018",
+                "development_label": "Deployed the California National Guard to support food distribution",
+                "role": "primary"
+              }
+            ],
+            "summary": "State capacity was used to cushion residents from shutdown-related hardship.",
+            "why_exemplary": "This is a repair-oriented use of public power that preserves social functioning when federal breakdown threatens basic needs.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "Some actors strengthened the factual record by creating channels for documentation and by maintaining adversarial scrutiny of official conduct.",
+        "scope": "public",
+        "why_it_matters": "Truthfulness depends not only on honest officials but on institutions and citizens still able to gather evidence and contest false narratives.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk40_truthfulness_ex03",
+            "week": 40,
+            "event_ids": [
+              "wk40_IM_017"
+            ],
+            "developments": [
+              {
+                "development_id": "wk40_IM_017",
+                "development_label": "Launched a public portal for residents to submit ICE raid footage",
+                "role": "primary"
+              }
+            ],
+            "summary": "A public evidence portal was created to document federal raids.",
+            "why_exemplary": "Citizen documentation helps resist manufactured unreality by preserving verifiable records of contested state action.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk40_truthfulness_ex04",
+            "week": 40,
+            "event_ids": [
+              "wk40_IM_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk40_IM_005",
+                "development_label": "Shot a pepper ball at a CBS News Chicago reporter's vehicle",
+                "role": "primary"
+              }
+            ],
+            "summary": "Press coverage persisted around an incident that threatened journalists documenting enforcement.",
+            "why_exemplary": "The fact that the incident was surfaced and scrutinized shows independent reporting still functioning as a check on official narratives.",
+            "exemplar_type": "secondary"
           }
         ]
       }
     ],
-    "direction_of_movement": "collapsing"
+    "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "Week 40 continues the trend of significant erosion of the moral floor, with executive actions increasingly prioritizing political interests over adherence to democratic norms. The administration's consolidation of power and punitive measures against dissenting voices deepen concerns about the integrity of public institutions. While there are pockets of resistance, such as judicial interventions and state-level initiatives, they are insufficient to counterbalance the overall trend of deterioration. The trajectory indicates a worsening crisis in democratic accountability and civil rights protections, raising serious concerns about the future of governance in the current political climate.",
+    "narrative": "Week 40 fits the prior trajectory of deterioration through normalization rather than sudden rupture. The prior summary described a republic increasingly dependent on courts, states, journalists, and civil plaintiffs to supply ethical discipline missing from the governing center. This week confirms that pattern. Verified events again show public office being used as a personal and partisan instrument, while civil-service neutrality, representation, and transparency are treated as obstacles rather than obligations.\n\nWhat changed this week was consolidation. The same lines from prior weeks—selective law, coercive domestic power, procedural manipulation, donor-linked self-glorification, and pressure on dissent—were not merely repeated; they were made more ordinary. Ethics and character weakened through clemency for connected figures, solicitation of corporate money for a White House prestige project, and demands for personal compensation from an agency under presidential control. Restraint weakened through threats of domestic military force and open rejection of normal war-making limits. Good faith weakened as House procedure was used to block both representation and oversight. Stewardship weakened as civil-service protections, records, and institutional memory came under further strain.\n\nThe moral floor still holds in partial form because resistance remains real. Courts continued to block or narrow troop deployments and impose accountability measures on enforcement agencies. States and civic actors built documentation channels and used litigation to preserve representation and oversight. Mass protest remained broad and organized. But the cumulative condition is increasingly unstable because correction is still mostly external and reactive. The governing center is not showing self-correction; it is testing how much ethical degradation can be folded into ordinary administration.",
     "trend": "deteriorating",
     "stress_points": [
-      "centralization of executive power",
-      "disinformation as a governance tool",
-      "erosion of civil rights protections",
-      "politicization of the civil service"
+      "routine use of office for personal or allied benefit",
+      "normalization of domestic force and emergency-style power claims",
+      "procedural blockage of representation and oversight",
+      "civil-service politicization and agency hollowing",
+      "official disinformation about protest and public threats",
+      "erosion of records, transparency, and public visibility"
     ],
     "sources_of_resilience": [
-      "judicial pushback against executive orders",
-      "civil society mobilization against abuses",
-      "state-level legal challenges"
+      "federal judges checking troop deployment and enforcement conduct",
+      "state litigation to enforce representation rights",
+      "public documentation efforts around federal raids and misconduct",
+      "mass peaceful civic protest",
+      "independent press scrutiny despite intimidation",
+      "subnational efforts to preserve services during shutdown strain"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
+    "level": "severe",
+    "justification": "The risk is severe because multiple moral-floor traits weakened together in mutually reinforcing ways. Verified events show ethics breaches tied to clemency and donor solicitation, character failures in the use of office for personal benefit and prestige, maximal power claims in domestic force and war powers, procedural bad faith in blocking representation and oversight, and stewardship damage through civil-service politicization and weakened records. Truthfulness also remained under strain through unsupported claims about protest and documented false statements to courts. When these traits erode in parallel, democratic correction becomes slower, more expensive, and more dependent on emergency intervention from outside the executive center.\n\nThe risk is not rated critical because the week also contains meaningful resistance. Courts still imposed real limits, states and litigants continued to use lawful channels, and public protest remained large and organized. Those counterforces show that the moral floor has not fully collapsed. But they are mostly downstream defenses. If the current pattern continues, further erosion is likely to come through normalization: more routine favoritism, more accepted use of coercive power against dissent and vulnerable groups, more procedural sabotage inside Congress, and more damage to the administrative and documentary capacity needed for future repair.",
     "forward_signals": [
-      "increased executive orders bypassing legislative input",
-      "escalation of disinformation campaigns",
-      "further attempts to undermine civil rights protections"
+      "whether courts continue to harden limits on domestic troop deployment",
+      "further use of clemency or contracting to benefit connected figures",
+      "additional moves to reclassify, purge, or weaken career civil servants",
+      "new efforts to block representation or oversight through chamber procedure",
+      "continued use of official channels to delegitimize protest or spread unsupported threat claims",
+      "further restrictions on records, visibility, or documentation of controversial executive action"
     ]
   }
 }

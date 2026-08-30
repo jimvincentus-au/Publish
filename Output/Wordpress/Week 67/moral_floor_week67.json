@@ -1,12 +1,12 @@
 {
   "week_number": 67,
-  "period_label": "Week 67 – 2026-04-25–2026-05-01",
+  "period_label": "Week 67",
   "window": {
     "start": "2026-04-25",
     "end": "2026-05-01"
   },
-  "clock_time_public": "8:13 p.m.",
-  "clock_delta_minutes": 0.0,
+  "clock_time_public": "7:42 p.m.",
+  "clock_delta_minutes": -0.2,
   "baseline_traits": [
     {
       "name": "character",
@@ -34,13 +34,61 @@
     }
   ],
   "weekly_audit": {
-    "summary": "The week showed the moral floor under pressure from several directions at once rather than through one singular breach. Executive power was used aggressively in war, immigration, regulation, and public symbolism; public office and family or personal benefit were repeatedly drawn closer together; and factual claims on matters of war and regulation were contested or contradicted. At the same time, courts, some committees, ethics processes, and civil society still imposed friction. The result was not ethical recovery but a more settled pattern in which breaches are increasingly normalised and resistance is mostly reactive.",
+    "summary": "Week 67 was defined by convergence: a Supreme Court ruling weakening voting-rights protections was converted almost instantly into state-level redistricting action, a security incident at a White House event was repeatedly invoked to justify a presidential construction project and to pressure courts and litigants, and the executive continued blending personal branding, family enrichment, and public authority. Congress showed a genuinely mixed posture, opening ethics and contempt proceedings while simultaneously advancing funding and surveillance measures with little added constraint. Regulatory agencies moved further to shield favored industries. Detention deaths, court defiance in immigration cases, and press-freedom pressure on a broadcaster and a former FBI director rounded out a week in which coercive capacity spread across law, money, and symbolism while institutional resistance remained real but largely reactive.",
     "norms_broken": [
       {
-        "trait": "ethics",
-        "pattern": "Public authority was repeatedly blurred with personal, family, or leader-centered benefit, including use of official channels, public funds, and government-backed opportunities in ways that weakened the boundary between office and private gain.",
+        "trait": "good_faith",
+        "pattern": "The Justice Department and allied lawmakers repeatedly invoked a security incident to pressure a private litigant into dropping a lawsuit, to move for dissolution of a court injunction, and to introduce legislation explicitly designed to override judicial review of a presidential construction project.",
         "severity": "serious",
-        "institutional_response": "Some ethics and oversight mechanisms remained active, but the digest shows no decisive institutional check that stopped the underlying overlap of public power and private benefit during the week.",
+        "institutional_response": "The targeted nonprofit publicly refused to drop its suit and courts had not yet ruled by week's end; Congress produced competing funding bills rather than resisting the underlying pressure.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk67_goodfaith_ex01",
+            "week": 67,
+            "event_ids": [
+              "wk67_PA_002",
+              "wk67_PA_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk67_PA_002",
+                "development_label": "DOJ pressured National Trust to drop ballroom lawsuit citing shooting.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk67_PA_004",
+                "development_label": "DOJ filed emergency motion citing assassination attempt to lift ballroom injunction.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The Justice Department used a security crisis as leverage to demand withdrawal of litigation and to seek dissolution of a judicial injunction on a presidential project.",
+            "why_exemplary": "A verified, multi-source pattern shows the executive converting a public-safety emergency into a legal cudgel against judicial review, defeating the purpose of an existing court order rather than contesting it on the merits.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk67_goodfaith_ex02",
+            "week": 67,
+            "event_ids": [
+              "wk67_IG_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk67_IG_005",
+                "development_label": "Introduced 'Build the Ballroom Act' to override judicial constraints.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A House member introduced legislation explicitly aimed at nullifying a court's ruling on a specific presidential project.",
+            "why_exemplary": "Corroborated legislative action targeting one pending case to override an unfavorable judicial outcome is a clear procedural manipulation of the separation of powers.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "Family members of the president acquired stakes in federally-backed ventures, the administration steered a no-bid contract to the president's ballroom contractor, and officials continued promoting Trump-branded products, passports, and crypto assets through official channels.",
+        "severity": "serious",
+        "institutional_response": "No enforcement action was recorded; congressional oversight of these entanglements remained largely absent this week, aside from unrelated ethics inquiries into other members.",
         "exemplars": [
           {
             "exemplar_id": "wk67_ethics_ex01",
@@ -51,227 +99,215 @@
             "developments": [
               {
                 "development_id": "wk67_ES_016",
-                "development_label": "President Trump used the presidency to promote family business interests across official channels and events",
+                "development_label": "Trump sons acquired stake in mining venture backed by $1.6B in federal support; Pentagon and Air Force awarded contracts to Trump-linked companies.",
                 "role": "primary"
               }
             ],
-            "summary": "Official channels were used to promote family business interests.",
-            "why_exemplary": "This directly breaches the boundary between public office and private enrichment by converting presidential visibility and state access into family advantage.",
+            "summary": "Presidential family members obtained financial stakes in ventures receiving large federal backing while separate federal contracts flowed to Trump-linked firms.",
+            "why_exemplary": "A verified, tier-one-sourced convergence of family equity and federal subsidy in the same week illustrates a direct and serious conflict-of-interest pattern rather than an isolated incident.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk67_ethics_ex02",
             "week": 67,
             "event_ids": [
-              "wk67_ES_018"
+              "wk67_ES_001"
             ],
             "developments": [
               {
-                "development_id": "wk67_ES_018",
-                "development_label": "Donald Trump Jr. and Eric Trump took a stake in a mining venture backed by Trump administration financing",
+                "development_id": "wk67_ES_001",
+                "development_label": "Awarded no-bid $17.4M contract to White House ballroom builder for unrelated fountain repairs.",
                 "role": "primary"
               }
             ],
-            "summary": "Family investment overlapped with government-backed industrial financing.",
-            "why_exemplary": "This is exemplary because it links family gain to state-supported economic action, creating a conflict-of-interest appearance that democratic ethics is meant to prevent.",
+            "summary": "The administration bypassed competitive bidding to route additional public funds to the contractor already building the president's personal project.",
+            "why_exemplary": "A verified no-bid award to a favored contractor tied to the president's private construction interest exemplifies erosion of procurement integrity for personal benefit.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "restraint",
-        "pattern": "Officials and aligned institutions pressed lawful powers to their outer edge rather than limiting themselves, especially in war powers, immigration enforcement, surveillance, and coercive funding.",
+        "pattern": "The president urged elimination of the Senate filibuster to govern without bipartisan input, asserted the War Powers Act does not require congressional authorization by claiming hostilities had 'terminated,' and pressed a governor to redraw congressional maps for explicit partisan gain.",
         "severity": "serious",
-        "institutional_response": "Some lawmakers objected and some courts slowed executive action, but Congress also supplied funding and failed to impose key limits, leaving the broader expansion of power largely intact.",
+        "institutional_response": "Senate Majority Leader Thune declined to challenge the War Powers interpretation; the filibuster proposal did not advance this week but met no institutional pushback recorded in the digest.",
         "exemplars": [
           {
             "exemplar_id": "wk67_restraint_ex01",
             "week": 67,
             "event_ids": [
-              "wk67_PA_004",
-              "wk67_IG_040"
+              "wk67_PA_008",
+              "wk67_IG_015"
             ],
             "developments": [
               {
-                "development_id": "wk67_PA_004",
-                "development_label": "President Trump justified military action against Iran without congressional approval",
+                "development_id": "wk67_PA_008",
+                "development_label": "Claimed Iran hostilities had 'terminated' to avoid War Powers authorization deadline.",
                 "role": "primary"
               },
               {
-                "development_id": "wk67_IG_040",
-                "development_label": "Senate Republicans blocked a measure requiring an end to military action in Iran",
+                "development_id": "wk67_IG_015",
+                "development_label": "Senate Majority Leader declined to challenge the War Powers interpretation.",
                 "role": "secondary"
               }
             ],
-            "summary": "War power was asserted unilaterally and then left insufficiently checked.",
-            "why_exemplary": "Restraint fails when executive force is claimed without prior authorization and the legislature declines to reassert its constitutional limiting role.",
+            "summary": "The president reframed an ongoing conflict's legal status to sidestep a constitutional authorization deadline, and the Senate's leadership did not contest the maneuver.",
+            "why_exemplary": "A verified attempt to redefine facts to escape a specific constitutional check, met with acquiescence from the chamber meant to enforce it, shows restraint failing at both the executive and legislative level simultaneously.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk67_restraint_ex02",
             "week": 67,
             "event_ids": [
-              "wk67_CRD_012",
-              "wk67_IG_021"
+              "wk67_PA_007"
             ],
             "developments": [
               {
-                "development_id": "wk67_CRD_012",
-                "development_label": "House advanced a budget path for about $70 billion in new immigration enforcement funding",
+                "development_id": "wk67_PA_007",
+                "development_label": "Called for Senate to eliminate the filibuster to pass legislation without bipartisan input.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk67_IG_021",
-                "development_label": "Senate advanced major new ICE and Border Patrol funding without added accountability measures",
-                "role": "secondary"
               }
             ],
-            "summary": "Coercive immigration capacity expanded through funding without matching oversight.",
-            "why_exemplary": "This shows state power being enlarged in a domain of detention and raids without the self-limiting safeguards democratic restraint requires.",
+            "summary": "The president publicly urged removal of a core procedural check that requires cross-partisan agreement for major legislation.",
+            "why_exemplary": "A verified, repeated public call to dismantle a structural restraint on majority power reflects an explicit rejection of self-limiting norms central to the restraint trait.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "On matters of war and regulatory accountability, public claims were contradicted by evidence or by oversight, leaving citizens to navigate consequential disputes on an unstable factual basis.",
+        "pattern": "The Justice Department indicted a former FBI director over an ambiguous social media post while the president publicly asserted, without evidence, that it was mob code meaning to kill him; officials also made disputed claims about gas prices and the economy.",
         "severity": "serious",
-        "institutional_response": "Reporting, hearings, and outside evidence challenged misleading claims, but correction came after official narratives had already shaped the public environment.",
+        "institutional_response": "No corrective institutional action recorded this week beyond critical press coverage; the indictment proceeded on the administration's preferred narrative.",
         "exemplars": [
           {
             "exemplar_id": "wk67_truthfulness_ex01",
             "week": 67,
             "event_ids": [
-              "wk67_PA_011",
-              "wk67_IMM_007"
+              "wk67_IM_012",
+              "wk67_IM_016"
             ],
             "developments": [
               {
-                "development_id": "wk67_PA_011",
-                "development_label": "Administration told Congress hostilities with Iran had ended while U.S. forces remained engaged",
+                "development_id": "wk67_IM_012",
+                "development_label": "Indicted James Comey over Instagram post of seashells spelling '86 47'.",
                 "role": "primary"
               },
               {
-                "development_id": "wk67_IMM_007",
-                "development_label": "Satellite imagery and reporting contradicted Trump's claims about collapsing Iranian oil infrastructure",
-                "role": "secondary"
+                "development_id": "wk67_IM_016",
+                "development_label": "Claimed the seashell post was mob code meaning 'kill President Trump'.",
+                "role": "primary"
               }
             ],
-            "summary": "War-related official claims diverged from ongoing facts and observable evidence.",
-            "why_exemplary": "Truthfulness is especially strained when executive descriptions of conflict appear tailored to legal or political advantage rather than accurate public understanding.",
+            "summary": "A federal prosecution was built around an ambiguous social media post, which the president then publicly mischaracterized as a coded assassination threat.",
+            "why_exemplary": "A verified indictment paired with an unsubstantiated presidential claim used to justify it illustrates manufactured unreality directly shaping the exercise of prosecutorial power.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk67_truthfulness_ex02",
             "week": 67,
             "event_ids": [
-              "wk67_ES_004"
+              "wk67_IM_001"
             ],
             "developments": [
               {
-                "development_id": "wk67_ES_004",
-                "development_label": "EPA Administrator Lee Zeldin denied meetings with Bayer before being contradicted at a House hearing",
+                "development_id": "wk67_IM_001",
+                "development_label": "Reporting revealed Iran's damage to U.S. bases was far worse than administration disclosed.",
                 "role": "primary"
               }
             ],
-            "summary": "An agency head's account of industry contact was contradicted in oversight.",
-            "why_exemplary": "This is exemplary because truthful oversight depends on accurate disclosure of regulated-industry access, especially where capture concerns are already present.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
-        "trait": "good_faith",
-        "pattern": "Formal procedures were used in ways that frustrated the purpose of democratic checks, including pressure against litigation, fast-track redistricting, and disruption of election timing after legal protections were weakened.",
-        "severity": "serious",
-        "institutional_response": "Courts, voting-rights groups, and some legislators resisted, but the week’s pattern shows procedural advantage being pursued first and corrective action arriving later.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk67_good_faith_ex01",
-            "week": 67,
-            "event_ids": [
-              "wk67_IG_007"
-            ],
-            "developments": [
-              {
-                "development_id": "wk67_IG_007",
-                "development_label": "DOJ pressed the National Trust to drop its lawsuit over the White House ballroom and moved to dissolve the injunction",
-                "role": "primary"
-              }
-            ],
-            "summary": "DOJ used pressure to protect a presidential project from challenge.",
-            "why_exemplary": "Good faith is breached when legal process is used not to resolve disputes fairly but to shield a leader's preferred project from ordinary review.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk67_good_faith_ex02",
-            "week": 67,
-            "event_ids": [
-              "wk67_CRD_010",
-              "wk67_IG_035"
-            ],
-            "developments": [
-              {
-                "development_id": "wk67_CRD_010",
-                "development_label": "Louisiana postponed congressional primaries and moved toward redistricting after the Supreme Court ruling",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk67_IG_035",
-                "development_label": "Supreme Court weakened Section 2 of the Voting Rights Act in Louisiana v. Callais",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Election timing was disrupted after voting-rights protections were narrowed.",
-            "why_exemplary": "This illustrates procedural manipulation that exploits a new legal opening to unsettle an active election rather than honor the stabilizing purpose of election rules.",
+            "summary": "Independent, corroborated reporting showed a substantial gap between the administration's public statements and actual battlefield damage from Iranian strikes.",
+            "why_exemplary": "A multi-source-verified disclosure gap on matters of active military conflict directly undermines the public's ability to assess wartime decisions accurately.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "stewardship",
-        "pattern": "Institutional capacity and credibility were weakened through cuts to scientific infrastructure, politicization of agency work, and legal changes that reduced durable protections for fair representation.",
-        "severity": "serious",
-        "institutional_response": "Some agencies continued ordinary public processes and some courts preserved review, but the week’s major structural moves still pointed toward long-term institutional thinning.",
+        "pattern": "The Supreme Court's weakening of Section 2 of the Voting Rights Act was immediately exploited by multiple states to redraw maps and, in Louisiana, to suspend an active primary election; agencies continued rolling back environmental and consumer protections.",
+        "severity": "extreme",
+        "institutional_response": "Voting-rights groups and the ACLU filed suits to restore Louisiana's suspended primaries; one governor (Georgia) declined to exploit the ruling before 2026, showing partial restraint, but the broader trend proceeded largely unchecked.",
         "exemplars": [
           {
             "exemplar_id": "wk67_stewardship_ex01",
             "week": 67,
             "event_ids": [
-              "wk67_ES_026"
+              "wk67_IM_019",
+              "wk67_ES_010"
             ],
             "developments": [
               {
-                "development_id": "wk67_ES_026",
-                "development_label": "EPA dismantled most of its research arm and required remaining work to align with administration priorities",
+                "development_id": "wk67_IM_019",
+                "development_label": "Supreme Court ruling gutted Section 2 of the Voting Rights Act.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk67_ES_010",
+                "development_label": "Louisiana suspended active congressional primaries to enable redistricting after the ruling.",
                 "role": "primary"
               }
             ],
-            "summary": "Independent scientific capacity inside EPA was cut and politically redirected.",
-            "why_exemplary": "Stewardship fails when a regulator loses the internal knowledge base needed to govern credibly and independently over time.",
+            "summary": "A verified Supreme Court decision narrowing a six-decade-old voting protection was converted within days into a state's suspension of an election already underway.",
+            "why_exemplary": "This tier-one-corroborated sequence shows judicial doctrine change immediately translated into disruption of an active democratic process, a direct and lasting institutional harm.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk67_stewardship_ex02",
             "week": 67,
             "event_ids": [
-              "wk67_IG_035",
-              "wk67_CRD_009"
+              "wk67_IG_011"
             ],
             "developments": [
               {
-                "development_id": "wk67_IG_035",
-                "development_label": "Supreme Court weakened Section 2 of the Voting Rights Act",
+                "development_id": "wk67_IG_011",
+                "development_label": "Multiple state legislatures moved rapidly to redraw maps eliminating majority-Black districts.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk67_CRD_009",
-                "development_label": "Alabama officials moved to apply the ruling to new redistricting efforts",
-                "role": "secondary"
               }
             ],
-            "summary": "A weakened voting-rights safeguard was quickly converted into new mapmaking leverage.",
-            "why_exemplary": "This is a stewardship failure because it reduces the long-term institutional protection of equal representation and invites durable damage to electoral legitimacy.",
+            "summary": "Several states initiated special sessions to eliminate majority-Black districts within days of the Supreme Court ruling.",
+            "why_exemplary": "A verified, coordinated multi-state response demonstrates how a single doctrinal shift can be rapidly leveraged to durably reshape representation before institutional safeguards can respond.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "The president publicly lamented the two-term limit barring him from the ballot and asserted he would win a landslide, while state media and symbolism (commemorative passports, 'Two Kings' post) blurred the line between elected office and personal rule.",
+        "severity": "concerning",
+        "institutional_response": "No formal institutional response recorded; the pattern proceeded through official channels without internal correction.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk67_character_ex01",
+            "week": 67,
+            "event_ids": [
+              "wk67_PA_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk67_PA_009",
+                "development_label": "Expressed frustration at not being on the ballot and asserted he would win in a landslide.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The president publicly lamented the constitutional two-term limit and claimed he would win a future election he is barred from entering.",
+            "why_exemplary": "A verified public statement questioning acceptance of a core constitutional succession limit reflects strain on the internal discipline to honor the oath of office's boundaries.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk67_character_ex02",
+            "week": 67,
+            "event_ids": [
+              "wk67_PA_010"
+            ],
+            "developments": [
+              {
+                "development_id": "wk67_PA_010",
+                "development_label": "State Department prepared commemorative passports featuring Trump's portrait.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A federal agency planned to place the sitting president's image on official identity documents.",
+            "why_exemplary": "A verified departure from the historical separation between presidential branding and state instruments reflects a personalization of office inconsistent with disciplined public duty.",
             "exemplar_type": "secondary"
           }
         ]
@@ -279,13 +315,72 @@
     ],
     "norms_strengthened": [
       {
-        "trait": "ethics",
-        "pattern": "At least one judicial actor reinforced conflict-of-interest norms by stepping aside after disclosure rather than proceeding under a cloud of partiality.",
-        "scope": "individual",
-        "why_it_matters": "Democratic ethics depends on officials recognizing when formal authority should yield to impartiality, especially in courts.",
+        "trait": "good_faith",
+        "pattern": "Voting-rights groups and litigants moved quickly to challenge Louisiana's suspension of primaries, a nonprofit publicly refused DOJ pressure to abandon its lawsuit, and a governor declined to exploit the weakened voting-rights standard for immediate partisan gain.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Continued willingness of civil society, litigants, and at least one state executive to resist procedural manipulation shows that respect for electoral outcomes and legal process has not been fully abandoned even under acute pressure.",
         "exemplars": [
           {
-            "exemplar_id": "wk67_ethics_ex01",
+            "exemplar_id": "wk67_goodfaith_strength_ex01",
+            "week": 67,
+            "event_ids": [
+              "wk67_PA_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk67_PA_002",
+                "development_label": "National Trust publicly refused to drop its ballroom lawsuit despite DOJ pressure.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A private nonprofit publicly rejected Justice Department pressure to abandon litigation challenging a presidential construction project.",
+            "why_exemplary": "A verified, multi-source-corroborated refusal to yield to executive pressure demonstrates that legal resistance to procedural coercion remains functional.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk67_goodfaith_strength_ex02",
+            "week": 67,
+            "event_ids": [
+              "wk67_IG_019"
+            ],
+            "developments": [
+              {
+                "development_id": "wk67_IG_019",
+                "development_label": "Georgia governor announced state will not redistrict before 2026 midterms.",
+                "role": "primary"
+              }
+            ],
+            "summary": "One governor declined to immediately exploit the weakened voting-rights ruling for mid-cycle redistricting ahead of the midterms.",
+            "why_exemplary": "A verified instance of self-restraint by a state executive, even amid a wave of contrary action elsewhere, shows the norm of respecting settled electoral maps still has some purchase.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Congressional committees opened investigations into DOJ pressure on a civil rights organization's indictment and into sexual harassment allegations against a sitting House member, while a bipartisan amendment sought to restore consumer-protection provisions stripped from farm legislation.",
+        "scope": "institutional",
+        "why_it_matters": "Active oversight of prosecutorial conduct, internal ethics enforcement, and bipartisan legislative correction of industry-favoring provisions indicate that institutional self-correcting capacity has not been fully hollowed out.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk67_stewardship_strength_ex01",
+            "week": 67,
+            "event_ids": [
+              "wk67_IG_017"
+            ],
+            "developments": [
+              {
+                "development_id": "wk67_IG_017",
+                "development_label": "House Democrats opened investigation into DOJ pressure on SPLC indictment.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Lawmakers launched an inquiry into whether the Justice Department rushed politically motivated charges against a civil rights organization.",
+            "why_exemplary": "A verified congressional inquiry into potential prosecutorial abuse demonstrates continued institutional capacity to investigate executive overreach even without power to immediately reverse it.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk67_stewardship_strength_ex02",
             "week": 67,
             "event_ids": [
               "wk67_IG_003"
@@ -293,108 +388,12 @@
             "developments": [
               {
                 "development_id": "wk67_IG_003",
-                "development_label": "Judge Kendrick Guidry recused himself from a Catholic church abuse case after a conflict was disclosed",
+                "development_label": "Pingree and Massie announced bipartisan amendment removing liability-shield provisions from Farm Bill.",
                 "role": "primary"
               }
             ],
-            "summary": "A judge recused himself after a conflict was disclosed.",
-            "why_exemplary": "This is a direct reinforcement of ethical boundaries because it places institutional integrity above personal participation in a case.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "good_faith",
-        "pattern": "Some oversight bodies and civic litigants used lawful channels to defend accountability, election continuity, and transparency rather than abandoning formal process.",
-        "scope": "institutional",
-        "why_it_matters": "Good-faith democratic practice survives when actors answer abuse through oversight, litigation, and procedural defense instead of reciprocal norm-breaking.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk67_good_faith_ex01",
-            "week": 67,
-            "event_ids": [
-              "wk67_IG_023"
-            ],
-            "developments": [
-              {
-                "development_id": "wk67_IG_023",
-                "development_label": "House Oversight filed a civil contempt resolution against Pam Bondi after she missed a deposition",
-                "role": "primary"
-              }
-            ],
-            "summary": "Congress escalated through formal contempt tools after noncompliance.",
-            "why_exemplary": "This reinforces good faith by insisting that oversight disputes be handled through established constitutional mechanisms rather than ignored.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk67_good_faith_ex02",
-            "week": 67,
-            "event_ids": [
-              "wk67_CRD_014"
-            ],
-            "developments": [
-              {
-                "development_id": "wk67_CRD_014",
-                "development_label": "ACLU, voting-rights groups, and candidates sued to restore Louisiana's suspended primaries",
-                "role": "primary"
-              }
-            ],
-            "summary": "Voting-rights litigants sought to restore an interrupted election through court action.",
-            "why_exemplary": "This is exemplary because it uses lawful process to defend the integrity and continuity of an ongoing election after procedural disruption.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
-        "trait": "stewardship",
-        "pattern": "Courts and routine administrative processes continued to preserve review, records, and participatory rulemaking even as other institutions were being weakened.",
-        "scope": "institutional",
-        "why_it_matters": "These practices keep correction possible by maintaining institutional memory, public input, and judicial supervision.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk67_stewardship_ex01",
-            "week": 67,
-            "event_ids": [
-              "wk67_IG_041",
-              "wk67_IG_020"
-            ],
-            "developments": [
-              {
-                "development_id": "wk67_IG_041",
-                "development_label": "Federal judge postponed the effective date of ending Yemen TPS in two cases",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk67_IG_020",
-                "development_label": "Second Circuit affirmed habeas relief allowing bond release in an immigration detention case",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Courts preserved lawful process and review in immigration status and detention cases.",
-            "why_exemplary": "Stewardship is strengthened when courts keep adjudicative safeguards functioning in systems that decide liberty, status, and removal.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk67_stewardship_ex02",
-            "week": 67,
-            "event_ids": [
-              "wk67_IG_042",
-              "wk67_IG_043"
-            ],
-            "developments": [
-              {
-                "development_id": "wk67_IG_042",
-                "development_label": "FDA announced advisory meetings, dockets, and rulemaking steps open to review",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk67_IG_043",
-                "development_label": "FCC announced open meetings and public comment processes",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Agencies maintained open meetings and public comment channels.",
-            "why_exemplary": "Routine procedural openness matters because it preserves institutional habits of transparency and review even during broader ethical erosion.",
+            "summary": "A bipartisan pair of lawmakers moved to restore consumer-protection provisions being stripped from pending farm legislation.",
+            "why_exemplary": "Cross-partisan legislative pushback against corporate liability shields shows continued capacity for institutions to defend public-interest regulation against capture.",
             "exemplar_type": "secondary"
           }
         ]
@@ -403,35 +402,34 @@
     "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "This week fits the prior trajectory by confirming that the moral floor is being worn down less by isolated scandal than by convergence across domains. The previous summary described a governing style built on pressure, opacity, selective advantage, and externalized correction. Week 67 deepened that pattern. Voting-rights protections were weakened and then rapidly operationalized by state actors; immigration power expanded through speech-linked status rules, detention, staffing, and funding; and executive authority in war and regulation was asserted in ways that depended on weak self-limitation rather than strong constitutional discipline.\n\nThe cumulative ethical problem is therefore not merely that breaches continue. It is that they are becoming coordinated and normalized. Ethics, restraint, truthfulness, good faith, and stewardship all showed strain in the same week, while the main sources of resilience remained courts, oversight committees, civil society, and routine administrative procedure. That means the moral floor is still partially standing, but increasingly because outside actors force accountability after the fact rather than because officeholders reliably internalize democratic obligations.",
+    "narrative": "Week 67 continues the widening pattern identified in Week 66, but the primary vector shifted from war-making and personnel purges toward judicial doctrine and its immediate political exploitation. The Supreme Court's narrowing of Section 2 of the Voting Rights Act functioned as an accelerant: within days, multiple states moved to redraw maps, and one state suspended an election already in progress. This is a more structurally consequential form of erosion than prior weeks' pattern of personalized abuses, because it touches the machinery of representation itself rather than a single office-holder's conduct. At the same time, the ballroom saga extended the personal-state fusion documented previously, with the Justice Department now explicitly using a security crisis as leverage against judicial review — a good-faith violation that recurred across multiple exemplars this week.\n\nEthics violations persisted in familiar form: family enrichment through federally-backed ventures, no-bid contracts to favored builders, and continued personal branding of state functions (passports, monarchical imagery). Restraint failed on two fronts simultaneously — war-powers redefinition and renewed calls to eliminate the filibuster — while the Senate's own leadership declined to contest the former. Truthfulness was strained by a prosecution seemingly built on a manufactured narrative about a former FBI director, echoing the weaponized-prosecution pattern already flagged in Week 66's Southern Poverty Law Center indictment, and now under formal congressional investigation.\n\nResilience persisted in recognizable but narrow forms: a nonprofit's public refusal to yield to DOJ pressure, one governor's restraint from immediate redistricting, congressional inquiries into prosecutorial conduct and member misconduct, and a bipartisan legislative amendment against industry liability shields. These are meaningful frictions, but as in prior weeks, they slow rather than reverse a trajectory in which judicial, executive, and legislative levers increasingly move in the same direction. The cumulative trend remains one of deteriorating conditions with a widening institutional footprint, now extending clearly into electoral machinery itself.",
     "trend": "deteriorating",
     "stress_points": [
-      "personalization of state symbols and spending around the presidency",
-      "conflicts of interest involving family business and government-backed advantage",
-      "executive expansion in war and immigration with weak self-limitation",
-      "procedural manipulation of elections and redistricting after voting-rights rollback",
-      "contested or misleading public claims on war and regulatory matters",
-      "institutional thinning of scientific and adjudicative capacity"
+      "immediate political exploitation of weakened voting-rights doctrine",
+      "use of security crises to pressure courts and litigants",
+      "recurring family and executive financial entanglement with federally-backed ventures",
+      "prosecutions built on ambiguous or manufactured narratives",
+      "war-powers redefinition met with legislative acquiescence",
+      "renewed pressure to eliminate procedural checks (filibuster)"
     ],
     "sources_of_resilience": [
-      "judicial review slowing or checking immigration and detention actions",
-      "congressional oversight hearings, contempt efforts, and ethics inquiries",
-      "civil society litigation defending transparency and election continuity",
-      "routine agency notice-and-comment and open-meeting processes",
-      "independent reporting and observable evidence contradicting official claims",
-      "public protest and organized civic resistance to detention expansion"
+      "litigant refusal to yield to executive pressure",
+      "state-level restraint from immediate redistricting exploitation",
+      "congressional inquiries into prosecutorial and member conduct",
+      "bipartisan legislative pushback against corporate liability shields",
+      "continued voting-rights litigation to salvage disrupted elections",
+      "independent press reporting on disclosure gaps despite regulatory pressure"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "High risk is warranted because the week’s breaches were broad, mutually reinforcing, and tied to core democratic safeguards. The supplied digests show repeated failures of ethics through overlap between office and family gain; failures of restraint in war powers, surveillance, and immigration expansion; failures of truthfulness in war-related claims and oversight testimony; failures of good faith in shielding presidential projects and manipulating election procedure; and failures of stewardship through damage to scientific and voting-rights infrastructure. These are not symbolic concerns alone. They affect who can speak, who can vote, who can be detained, and whether institutions retain the capacity to correct abuse.\n\nThe risk is not rated severe or critical because meaningful resistance still appears throughout the record. Courts kept review alive, some committees pursued oversight, ethics mechanisms functioned in part, and civil society continued to litigate and mobilize. But the balance remains unfavorable. The dominant pattern is that power expands first, while correction arrives later and piecemeal. If that continues, norm breaches are likely to harden into ordinary practice.",
+    "level": "severe",
+    "justification": "The moral floor remains severely stressed, with this week's central development — the near-instantaneous conversion of a Supreme Court ruling into state suspension of an active election and multi-state redistricting to dilute minority representation — representing a structurally serious threat to democratic machinery rather than an isolated abuse of office. This compounds an already entrenched pattern of family enrichment, security-crisis exploitation for legal advantage, and prosecutions built on contested narratives. Countervailing forces, including litigant resistance, one state's restraint, and congressional inquiries, remain real but reactive and insufficient to reverse the broader direction, consistent with the severe risk level carried forward from the prior week.",
     "forward_signals": [
-      "further state use of the weakened Voting Rights Act standard to redraw maps or disrupt election calendars",
-      "additional funding or staffing moves that expand immigration detention and reduce due-process capacity",
-      "continued use of national-security framing to shield favored industries or policies from scrutiny",
-      "new instances of official claims on war or regulation being contradicted by evidence or oversight",
-      "escalation of regulatory or rhetorical pressure on journalists and media outlets",
-      "whether courts and oversight bodies can convert reactive resistance into durable limits"
+      "whether courts restore or further disrupt Louisiana's suspended primaries",
+      "extent and speed of additional state redistricting exploiting the weakened VRA standard",
+      "developments in the Comey prosecution and whether courts push back on its factual basis",
+      "outcome of the SPLC indictment investigation and any consequences for DOJ conduct",
+      "whether Congress takes any binding action on war-powers reassertion or the filibuster proposal"
     ]
   }
 }

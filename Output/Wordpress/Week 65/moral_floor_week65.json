@@ -1,12 +1,12 @@
 {
   "week_number": 65,
-  "period_label": "Week 65",
+  "period_label": "Week 65 – Apr 11–17 2026",
   "window": {
     "start": "2026-04-11",
     "end": "2026-04-17"
   },
-  "clock_time_public": "8:13 p.m.",
-  "clock_delta_minutes": 0.0,
+  "clock_time_public": "7:43 p.m.",
+  "clock_delta_minutes": -0.2,
   "baseline_traits": [
     {
       "name": "character",
@@ -34,82 +34,155 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week continued the troubling trend of erosion in democratic norms, particularly in character, ethics, and truthfulness. The executive branch's actions increasingly blurred the lines between public duty and personal gain, while Congress struggled to assert its authority, reflecting a concerning pattern of diminished checks on executive power.",
+    "summary": "Week 65 showed consolidation of previously established patterns rather than sharp new breaches. Executive war powers were exercised unilaterally through a naval blockade and threats against Iranian infrastructure, followed by unverified victory claims. Pre-emptive pardon promises to insiders and impoundment of appropriated funds continued to erode boundaries between loyalty and law. Retaliation against a whistleblower and inspector general, defiance of a congressional subpoena, and firing of judges after adverse rulings deepened pressure on independent oversight. Against this, courts disbarred a key 2020 election subversion architect, blocked above-ground White House construction, and multiple states rebuffed efforts to impeach judges over disfavored rulings; Congress passed bipartisan TPS protections and opened new investigations into self-dealing. The pattern is one of entrenched, near-routine abuse of discretion met by scattered but persistent institutional and civic resistance.",
     "norms_broken": [
       {
-        "trait": "character",
-        "pattern": "Executive actions prioritized political objectives over public duty, exemplified by Trump's clemency for political allies and threats of military action.",
-        "severity": "serious",
-        "institutional_response": "Congressional leaders largely acquiesced to executive demands, failing to resist the erosion of legislative authority.",
+        "trait": "restraint",
+        "pattern": "The president ordered a unilateral naval blockade of the Strait of Hormuz and threatened to destroy Iranian infrastructure without congressional authorization, while the House narrowly failed to pass a war powers resolution and a Senate effort to block arms sales to Israel also failed.",
+        "severity": "extreme",
+        "institutional_response": "Congress attempted to reassert war-powers authority through resolutions and impeachment articles against the Defense Secretary, but each effort fell short, leaving the blockade and threats unconstrained.",
         "exemplars": [
           {
-            "exemplar_id": "wk65_character_ex1",
+            "exemplar_id": "wk65_restraint_ex01",
             "week": 65,
             "event_ids": [
-              "wk65_PA_001",
-              "wk65_PA_010"
-            ],
-            "developments": [
-              {
-                "development_id": "wk65_PA_001",
-                "development_label": "Trump commuted George Santos's prison sentence.",
-                "role": "primary"
-              }
-            ],
-            "summary": "Trump's commutation of Santos's sentence exemplified prioritization of personal political goals over public duty.",
-            "why_exemplary": "This action illustrates a significant breach of character, undermining the principle of public duty in favor of personal political objectives.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "ethics",
-        "pattern": "The administration's actions blurred lines between public authority and private interests, particularly in clemency decisions for political allies.",
-        "severity": "serious",
-        "institutional_response": "Congress failed to effectively challenge the administration's use of clemency for political gain.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk65_ethics_ex1",
-            "week": 65,
-            "event_ids": [
-              "wk65_PA_002",
-              "wk65_PA_010"
+              "wk65_PA_002"
             ],
             "developments": [
               {
                 "development_id": "wk65_PA_002",
-                "development_label": "Trump pardoned Binance founder Changpeng Zhao.",
+                "development_label": "Ordered a naval blockade of the Strait of Hormuz and threatened to destroy Iranian infrastructure.",
                 "role": "primary"
               }
             ],
-            "summary": "The pardoning of Zhao for anti-money laundering failures raised significant ethical concerns about intertwining public authority and private interests.",
-            "why_exemplary": "This event highlights a troubling intertwining of public authority and private interests, undermining ethical governance.",
+            "summary": "A unilateral executive order blockaded a critical global waterway and threatened civilian infrastructure destruction without congressional war-powers authorization.",
+            "why_exemplary": "This action, corroborated across multiple major outlets, exemplifies concentrated executive war-making bypassing constitutional checks, with direct global economic consequences.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk65_restraint_ex02",
+            "week": 65,
+            "event_ids": [
+              "wk65_IG_019"
+            ],
+            "developments": [
+              {
+                "development_id": "wk65_IG_019",
+                "development_label": "House narrowly rejected a War Powers Resolution seeking to constrain military action against Iran, failing by one vote.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A one-vote failure to invoke war powers oversight left unilateral military escalation against Iran without a binding legislative check.",
+            "why_exemplary": "The near-miss vote illustrates both the fragility of congressional restraint mechanisms and how close, yet ultimately insufficient, institutional pushback has become.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "The administration issued criminal referrals against the 2019 Ukraine whistleblower and the inspector general who lawfully processed his complaint, while a former Attorney General defied a congressional subpoena on Epstein files handling, with DOJ arguing the subpoena lapsed with her departure.",
+        "severity": "serious",
+        "institutional_response": "Congress publicized both episodes and moved toward contempt proceedings, but neither compliance nor referral withdrawal was achieved this week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk65_goodfaith_ex01",
+            "week": 65,
+            "event_ids": [
+              "wk65_IG_003"
+            ],
+            "developments": [
+              {
+                "development_id": "wk65_IG_003",
+                "development_label": "Issued criminal referrals against the 2019 Ukraine whistleblower and former Inspector General Michael Atkinson.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Criminal referrals targeted the whistleblower and inspector general central to the first impeachment, years after their lawful, protected disclosures.",
+            "why_exemplary": "Multi-source corroborated retaliation against protected oversight actors threatens the core function of whistleblower and inspector-general systems designed to check executive misconduct.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk65_goodfaith_ex02",
+            "week": 65,
+            "event_ids": [
+              "wk65_IG_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk65_IG_004",
+                "development_label": "Defied a congressional subpoena and failed to appear for testimony on Epstein files handling.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A former attorney general skipped a subpoenaed deposition, with DOJ claiming the subpoena lapsed upon her departure from office.",
+            "why_exemplary": "Using a personnel technicality to evade a lawful subpoena defeats the spirit of congressional oversight, echoing a recurring pattern of procedural evasion rather than direct compliance or contestation.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "The president promised blanket, pre-emptive pardons to loyal advisers and officials, and separately moved to dismiss seditious conspiracy convictions against January 6 organizers, prioritizing loyalty over legal accountability for those closest to power.",
+        "severity": "serious",
+        "institutional_response": "DOJ carried out the dismissal motions; a federal judge criticized the Justice Department while dismissing the case, but no broader accountability mechanism intervened.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk65_character_ex01",
+            "week": 65,
+            "event_ids": [
+              "wk65_PA_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk65_PA_001",
+                "development_label": "Promised mass pardons to advisers and officials near the Oval Office.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Blanket pre-emptive pardon promises to loyal officials would strip accountability from those closest to power, rewarding loyalty over lawfulness.",
+            "why_exemplary": "A tier-1 corroborated pledge to shield insiders from future prosecution regardless of conduct signals that loyalty, not law, governs consequences for the administration's inner circle.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk65_character_ex02",
+            "week": 65,
+            "event_ids": [
+              "wk65_IG_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk65_IG_002",
+                "development_label": "DOJ moved to dismiss seditious conspiracy convictions of Proud Boys and Oath Keepers members from January 6.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The Justice Department sought to erase convictions for organized violent conspiracy against the Capitol, reversing years of prosecutorial and judicial work.",
+            "why_exemplary": "Multi-source corroborated reversal of accountability for an attack on the constitutional transfer of power exemplifies a double standard rewarding political violence committed in the president's service.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "The administration's public statements often contradicted internal findings and realities, particularly regarding military actions and their consequences.",
-        "severity": "serious",
-        "institutional_response": "Media scrutiny increased, but the administration continued to manipulate narratives without accountability.",
+        "pattern": "The president repeatedly declared the Iran war over and claimed sweeping Iranian concessions on social media, claims directly contradicted by Iranian officials, misrepresenting the state of an active national security negotiation to the public.",
+        "severity": "concerning",
+        "institutional_response": "Independent reporting and foreign officials contradicted the claims; no administration correction was recorded.",
         "exemplars": [
           {
-            "exemplar_id": "wk65_truthfulness_ex1",
+            "exemplar_id": "wk65_truthfulness_ex01",
             "week": 65,
             "event_ids": [
-              "wk65_PA_006",
-              "wk65_PA_008"
+              "wk65_PA_003"
             ],
             "developments": [
               {
-                "development_id": "wk65_PA_006",
-                "development_label": "Trump threatened Iran with annihilation.",
+                "development_id": "wk65_PA_003",
+                "development_label": "Declared the Iran war over and claimed sweeping Iranian concessions on social media.",
                 "role": "primary"
               }
             ],
-            "summary": "Trump's threats against Iran exemplified a breach of truthfulness in public discourse.",
-            "why_exemplary": "This reflects a broader pattern of disinformation that undermines public trust and accountability.",
+            "summary": "Repeated unverified victory claims, directly contradicted by Iranian officials, misrepresented a major ongoing negotiation to the public.",
+            "why_exemplary": "This tier-1 corroborated pattern of premature and disputed victory declarations obscures the true state of an active, high-stakes conflict from citizens and Congress alike.",
             "exemplar_type": "primary"
           }
         ]
@@ -117,57 +190,152 @@
     ],
     "norms_strengthened": [
       {
-        "trait": "stewardship",
-        "pattern": "Judicial actions provided some checks on executive overreach, reinforcing the importance of institutional integrity.",
+        "trait": "good_faith",
+        "pattern": "The California Supreme Court upheld the disbarment of John Eastman for his role in the 2020 election subversion effort, and a federal judge halted above-ground construction of a White House ballroom project after finding national-security justifications insufficient to bypass legal review.",
         "scope": "institutional",
-        "why_it_matters": "Judicial interventions are crucial for maintaining accountability and protecting democratic norms.",
+        "why_it_matters": "Continued willingness of courts and professional bodies to impose real consequences on architects of election subversion and to check executive self-aggrandizement preserves rule-of-law accountability even amid broader erosion.",
         "exemplars": [
           {
-            "exemplar_id": "wk65_stewardship_ex1",
+            "exemplar_id": "wk65_goodfaith_strength_ex01",
             "week": 65,
             "event_ids": [
-              "wk65_IG_011",
+              "wk65_IG_014"
+            ],
+            "developments": [
+              {
+                "development_id": "wk65_IG_014",
+                "development_label": "Upheld the disbarment of Trump attorney John Eastman for his role in overturning the 2020 election.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Professional discipline of a key architect of the fake-elector scheme established rare accountability for efforts to subvert a presidential election.",
+            "why_exemplary": "A tier-1 corroborated final disbarment ruling shows that some institutions still enforce truthfulness and legal ethics as conditions of professional power, even years after the underlying conduct.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk65_goodfaith_strength_ex02",
+            "week": 65,
+            "event_ids": [
+              "wk65_IG_015"
+            ],
+            "developments": [
+              {
+                "development_id": "wk65_IG_015",
+                "development_label": "Halted above-ground construction of a White House ballroom project after finding national-security justifications did not exempt it from legal review.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A federal court limited an executive construction project after finding national-security claims did not exempt it from ordinary legal review, prompting public presidential attacks on the judge.",
+            "why_exemplary": "A tier-1 corroborated judicial check on executive self-dealing in the use of public space and funds demonstrates courts remain willing to enforce limits despite direct presidential retaliation.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "Kentucky's Supreme Court and West Virginia judges blocked legislative attempts to impeach judges over unfavorable rulings, reinforcing separation of powers against a broader wave of state-level retaliation against judicial independence.",
+        "scope": "institutional",
+        "why_it_matters": "Judicial resistance to politically motivated impeachment threats protects the independence necessary for courts to check other branches, particularly on voting rights and redistricting matters.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk65_restraint_strength_ex01",
+            "week": 65,
+            "event_ids": [
+              "wk65_IG_016"
+            ],
+            "developments": [
+              {
+                "development_id": "wk65_IG_016",
+                "development_label": "Blocked legislative attempts to impeach judges over unfavorable rulings.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Courts affirmed judicial independence by halting legislative impeachment efforts targeting judges for their decisions.",
+            "why_exemplary": "Successful resistance to a spreading pattern of judicial intimidation across several states demonstrates that separation-of-powers norms retain some institutional defenders.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "The House passed bipartisan legislation extending Temporary Protected Status for approximately 350,000 Haitians, and House Democrats created a task force and launched an investigation into Trump family and Kushner self-dealing, exercising oversight function despite executive resistance.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Bipartisan legislative protection for a vulnerable population and sustained investigative oversight of potential self-dealing demonstrate that Congress retains some capacity to check executive corruption and protect constituents even under strain.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk65_stewardship_strength_ex01",
+            "week": 65,
+            "event_ids": [
+              "wk65_IG_021"
+            ],
+            "developments": [
+              {
+                "development_id": "wk65_IG_021",
+                "development_label": "Passed bipartisan legislation extending Temporary Protected Status for Haitians.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A rare bipartisan legislative rebuke of the administration's deportation agenda protected hundreds of thousands from removal, pending Senate action.",
+            "why_exemplary": "Tier-1 corroborated bipartisan action shielding a vulnerable population from executive deportation policy reflects legislative stewardship of protections for the governed even amid broader institutional strain.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk65_stewardship_strength_ex02",
+            "week": 65,
+            "event_ids": [
+              "wk65_IG_010",
               "wk65_IG_012"
             ],
             "developments": [
               {
-                "development_id": "wk65_IG_011",
-                "development_label": "Judicial dismissals of Trump's defamation suits against major media.",
+                "development_id": "wk65_IG_010",
+                "development_label": "Created a task force to investigate Trump family self-dealing and corruption.",
                 "role": "primary"
+              },
+              {
+                "development_id": "wk65_IG_012",
+                "development_label": "Launched a House Judiciary Committee investigation into Jared Kushner's conflicts of interest.",
+                "role": "secondary"
               }
             ],
-            "summary": "Judicial rulings against executive overreach exemplified a commitment to institutional integrity and accountability.",
-            "why_exemplary": "This demonstrates the judiciary's role in resisting executive overreach and protecting democratic processes.",
-            "exemplar_type": "primary"
+            "summary": "House Democrats formalized investigations into presidential family and senior-official self-dealing, including Kushner's dual role during Iran negotiations.",
+            "why_exemplary": "Multi-source corroborated formal oversight initiatives targeting potential conflicts of interest at the highest levels reflect an active, if constrained, congressional check on executive corruption.",
+            "exemplar_type": "secondary"
           }
         ]
       }
     ],
-    "direction_of_movement": "collapsing"
+    "direction_of_movement": "mixed_but_stable"
   },
   "cumulative_condition": {
-    "narrative": "The trajectory of ethical conditions continues to deteriorate, with Week 65 marking a further consolidation of previously established patterns of erosion. The previous week indicated a concerning trend, and this week has further entrenched the normalization of executive overreach, manipulation of democratic processes, and erosion of public trust. The cumulative effect is a democracy increasingly governed by unilateral decisions and diminished accountability, despite some judicial pushback.",
+    "narrative": "Week 65 continues the trajectory established in Week 64, but with a subtle shift in texture: rather than introducing new categories of abuse, the administration deepened and normalized practices already visible in prior weeks. The blockade of the Strait of Hormuz and threats against Iranian infrastructure extended the pattern of personalized, unchecked war-making seen in the Iran crisis, while the pivot to declaring victory despite contested facts on the ground echoes the truthfulness collapses of the previous week. Pardon promises to insiders, dismissal of January 6 seditious-conspiracy convictions, and retaliation against a whistleblower and inspector general together indicate that loyalty continues to substitute for legal accountability as the operative currency of this administration.\n\nAt the same time, several genuine, verified counterweights persisted. The Eastman disbarment stands as one of the term's clearest instances of durable accountability for 2020 election subversion. Judicial intervention halting above-ground construction of a White House vanity project, judicial refusals to entertain politically motivated judge-impeachment efforts, and a bipartisan legislative extension of protections for Haitian residents all demonstrate that institutional and legal mechanisms have not been fully neutralized. Congress's new investigations into Trump family and Kushner self-dealing, though unlikely to yield swift results, indicate that oversight capacity, while diminished, has not disappeared.\n\nTaken together, the moral floor did not shift dramatically this week. Rather than accelerating erosion, the pattern shows a form of steady-state dysfunction: entrenched abuses of discretion in war-making, clemency, and retaliation against oversight actors, met by scattered institutional resistance that holds some lines but cannot reverse the underlying trend. This continuity with mild stabilization — reflected in the flat Democracy Clock reading — suggests the republic has settled into a higher-risk equilibrium rather than a rapidly worsening free fall.",
     "trend": "deteriorating",
     "stress_points": [
-      "consolidation of executive power",
-      "manipulation of voting rights",
-      "erosion of ethical oversight",
-      "disinformation and narrative control"
+      "unilateral war-making without congressional authorization",
+      "pre-emptive pardon promises shielding insiders from accountability",
+      "retaliation against whistleblowers and inspectors general",
+      "erasure of accountability for January 6 seditious conspiracy convictions",
+      "evasion of congressional subpoenas via procedural technicalities",
+      "impoundment of congressionally appropriated funds"
     ],
     "sources_of_resilience": [
-      "judicial pushback in some cases",
-      "public advocacy and dissent",
-      "media scrutiny of government actions"
+      "judicial enforcement of legal limits on executive construction and war-adjacent claims",
+      "professional discipline for 2020 election subversion (Eastman disbarment)",
+      "state courts rebuffing politically motivated judicial impeachment efforts",
+      "bipartisan legislative protections for vulnerable populations (TPS extension)",
+      "new congressional investigations into self-dealing and conflicts of interest",
+      "continued civil society mobilization (marches, campus actions, labor organizing)"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "The ongoing patterns of erosion, particularly in character, ethics, and truthfulness, indicate a high risk of further deterioration. The lack of effective institutional resistance to executive overreach and the manipulation of democratic processes suggest that the foundations of self-government are increasingly at risk.",
+    "level": "severe",
+    "justification": "The moral floor remains severely stressed, consistent with the prior week's assessment. Executive war-making continued without meaningful congressional constraint, narrowly surviving a war-powers vote by a single margin, while truthfulness on the state of the Iran conflict was repeatedly compromised. Retaliation against a protected whistleblower and inspector general, combined with continued efforts to erase accountability for January 6 organizers and evasion of a lawful subpoena, indicate that oversight mechanisms remain under sustained pressure. Genuine counterweights — the Eastman disbarment, judicial limits on executive construction, and bipartisan TPS legislation — demonstrate that the system has not collapsed, but these remain case-by-case victories rather than structural reversals of the broader pattern of concentrated, loyalty-driven executive power.",
     "forward_signals": [
-      "escalating military actions without congressional approval",
-      "continued push for restrictive voting laws",
-      "increased disinformation campaigns surrounding elections",
-      "further erosion of civil rights protections"
+      "further escalation or de-escalation dynamics in the Iran conflict and their effect on war-powers debates",
+      "outcome of the Kushner and Trump family self-dealing investigations",
+      "DOJ handling of the Atkinson/whistleblower criminal referrals",
+      "whether Bondi's subpoena defiance triggers contempt proceedings or further evasion",
+      "continued judicial resistance to state-level judge-impeachment campaigns"
     ]
   }
 }

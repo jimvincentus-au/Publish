@@ -1,12 +1,12 @@
 {
   "week_number": 37,
-  "period_label": "Week 37 – 2025-09-27–2025-10-03",
+  "period_label": "Week 37",
   "window": {
     "start": "2025-09-27",
     "end": "2025-10-03"
   },
-  "clock_time_public": "8:08 p.m.",
-  "clock_delta_minutes": 0.1,
+  "clock_time_public": "7:42 p.m.",
+  "clock_delta_minutes": 0.0,
   "baseline_traits": [
     {
       "name": "character",
@@ -34,221 +34,526 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week saw a significant erosion of the moral floor, with multiple breaches across several traits reflecting a deepening normalization of authoritarian practices and the use of state power for partisan ends.",
+    "summary": "The week showed a hardened pattern rather than a fresh ethical break. Verified events indicate repeated use of shutdown conditions, domestic force claims, immigration machinery, and official communications for partisan leverage, coercion, or narrative control. The moral floor did not collapse in a single act, but several core traits were weakened at once, while resistance came mainly from courts, states, unions, and outside litigants rather than from self-limitation inside the executive center.",
     "norms_broken": [
       {
         "trait": "character",
-        "pattern": "Executive actions prioritized political interests over public duty, particularly through punitive measures against dissent.",
+        "pattern": "Senior officials treated public office as a tool for partisan punishment and unilateral advantage, especially by using the shutdown to threaten firings, cancel projects, and impose policy outcomes outside ordinary bargaining.",
         "severity": "serious",
-        "institutional_response": "Limited pushback from courts and Congress, indicating a lack of effective oversight.",
+        "institutional_response": "Congress failed to prevent the shutdown, while unions, courts, and some states mounted reactive challenges to specific actions rather than stopping the governing pattern at its source.",
         "exemplars": [
           {
             "exemplar_id": "wk37_character_ex01",
             "week": 37,
             "event_ids": [
-              "wk37_PA_001",
-              "wk37_PA_007"
+              "wk37_PA_010",
+              "wk37_PA_012"
             ],
             "developments": [
               {
-                "development_id": "wk37_PA_001",
-                "development_label": "Ordered federal agencies to prepare for large-scale firings tied to a possible shutdown.",
+                "development_id": "wk37_PA_010",
+                "development_label": "Threatened to use the shutdown to make irreversible cuts to programs and benefits",
                 "role": "primary"
               },
               {
-                "development_id": "wk37_PA_007",
-                "development_label": "Threatened to use the shutdown to implement irreversible cuts to benefit programs.",
+                "development_id": "wk37_PA_012",
+                "development_label": "Announced he would use the shutdown to cancel projects and fire federal employees",
                 "role": "secondary"
               }
             ],
-            "summary": "The administration's actions exemplified a shift towards using state power for personal political gain.",
-            "why_exemplary": "These actions illustrated a disregard for the integrity of public institutions, undermining democratic norms.",
+            "summary": "Shutdown conditions were openly framed as leverage for cuts, cancellations, and firings.",
+            "why_exemplary": "This shows office used for coercive advantage rather than faithful execution of public duty during a constitutional funding crisis.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk37_character_ex02",
+            "week": 37,
+            "event_ids": [
+              "wk37_PA_013",
+              "wk37_PA_014"
+            ],
+            "developments": [
+              {
+                "development_id": "wk37_PA_013",
+                "development_label": "Slashed climate funding and froze major construction projects during the shutdown",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk37_PA_014",
+                "development_label": "Impounded climate and infrastructure funding and vowed further cuts to approved projects",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Approved spending was halted and repurposed as executive leverage during the shutdown.",
+            "why_exemplary": "The conduct reflects public power used to override enacted priorities and reward or punish jurisdictions, not to carry out neutral obligations.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "ethics",
-        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the use of executive power to punish dissenting institutions and individuals.",
-        "severity": "serious",
-        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
+        "pattern": "Public decisions and legal settlements continued to blur the line between state power, presidential benefit, and insider advantage.",
+        "severity": "concerning",
+        "institutional_response": "Reporting exposed the overlaps, but the digest shows little direct enforcement restoring a firm boundary between office and private gain.",
         "exemplars": [
           {
             "exemplar_id": "wk37_ethics_ex01",
             "week": 37,
             "event_ids": [
-              "wk37_PA_010",
-              "wk37_PA_016"
+              "wk37_ES_019"
             ],
             "developments": [
               {
-                "development_id": "wk37_PA_010",
-                "development_label": "Announced new tariffs on furniture and movies to promote domestic production.",
+                "development_id": "wk37_ES_019",
+                "development_label": "Settled Trump's lawsuit by directing funds to a White House ballroom and Trump-aligned groups",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk37_PA_016",
-                "development_label": "Declared he would withhold federal funds from New York City if Zohran Mamdani is elected mayor.",
-                "role": "secondary"
               }
             ],
-            "summary": "The administration's actions exemplified a disregard for ethical boundaries.",
-            "why_exemplary": "These actions demonstrated a willingness to use public resources as tools for political leverage and personal gain.",
+            "summary": "A corporate settlement directed money toward presidential benefit and aligned groups.",
+            "why_exemplary": "This is a clear boundary problem: private payment, political patronage, and presidential benefit were fused in one arrangement.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk37_ethics_ex02",
+            "week": 37,
+            "event_ids": [
+              "wk37_ES_039"
+            ],
+            "developments": [
+              {
+                "development_id": "wk37_ES_039",
+                "development_label": "Awarded a more than $200 million ad campaign by bypassing competitive bidding",
+                "role": "primary"
+              }
+            ],
+            "summary": "A major DHS contract was steered through emergency authority to connected firms.",
+            "why_exemplary": "Bypassing normal procurement safeguards for politically connected beneficiaries weakens the ethical separation between public spending and insider access.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "restraint",
-        "pattern": "The administration's aggressive use of executive orders and punitive measures against dissenting voices showed a lack of self-limitation.",
-        "severity": "serious",
-        "institutional_response": "Limited checks from Congress or courts, indicating a weakening of institutional norms.",
+        "pattern": "Executive actors chose maximal domestic power claims, including troop deployment, standing civil-disturbance capacity, and wartime framing, instead of narrower or more constitutionally modest approaches.",
+        "severity": "extreme",
+        "institutional_response": "States sued, courts heard challenges, and some judicial review moved quickly, but the administration continued to widen the claimed scope of force and emergency authority.",
         "exemplars": [
           {
             "exemplar_id": "wk37_restraint_ex01",
             "week": 37,
             "event_ids": [
-              "wk37_PA_005",
-              "wk37_PA_002"
+              "wk37_PA_001",
+              "wk37_IG_009"
             ],
             "developments": [
               {
-                "development_id": "wk37_PA_005",
-                "development_label": "Announced he would send federal troops to Portland to confront alleged domestic terrorists.",
+                "development_id": "wk37_PA_001",
+                "development_label": "Directed troops to deploy to Portland and authorized force if needed",
                 "role": "primary"
               },
               {
-                "development_id": "wk37_PA_002",
-                "development_label": "Signed an executive order designating Antifa as a major terrorist organization.",
+                "development_id": "wk37_IG_009",
+                "development_label": "Sued to block the Portland troop deployment",
                 "role": "secondary"
               }
             ],
-            "summary": "The use of executive power to bypass legislative negotiations exemplified a lack of restraint.",
-            "why_exemplary": "These actions illustrated a disregard for the limits of executive authority and the need for checks on power.",
+            "summary": "Troops were ordered into Portland, prompting immediate state litigation.",
+            "why_exemplary": "The deployment tested domestic military limits and showed willingness to use extraordinary force first, leaving constitutional checking to after-the-fact resistance.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk37_restraint_ex02",
+            "week": 37,
+            "event_ids": [
+              "wk37_PA_008",
+              "wk37_PA_015"
+            ],
+            "developments": [
+              {
+                "development_id": "wk37_PA_008",
+                "development_label": "Signed an executive order creating a quick-reaction force for civil disturbances",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk37_PA_015",
+                "development_label": "Declared the United States to be in armed conflict with drug cartels",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Domestic disturbance response and wartime authority were both expanded by presidential action.",
+            "why_exemplary": "Together these acts show refusal to self-limit, normalizing emergency and military logic in areas where democratic restraint is especially vital.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding dissent and national security.",
-        "severity": "serious",
-        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
+        "pattern": "Official communications and presidential messaging repeatedly spread false or misleading claims on elections, public health, and the shutdown, while manipulated media were used from the center of government.",
+        "severity": "extreme",
+        "institutional_response": "Some corrections came from courts, journalists, and even conflicting official statements, but false narratives remained active in presidential and agency channels.",
         "exemplars": [
           {
             "exemplar_id": "wk37_truthfulness_ex01",
             "week": 37,
             "event_ids": [
-              "wk37_IM_001",
-              "wk37_IM_002"
+              "wk37_IM_016",
+              "wk37_IM_029"
             ],
             "developments": [
               {
-                "development_id": "wk37_IM_001",
-                "development_label": "Posted and then deleted an AI-generated MedBed healthcare video falsely promising miraculous cures.",
+                "development_id": "wk37_IM_016",
+                "development_label": "Issued partisan shutdown blame statements through federal agencies",
                 "role": "primary"
               },
               {
-                "development_id": "wk37_IM_002",
-                "development_label": "Spread false claims that hundreds of FBI agents acted as agitators on January 6.",
+                "development_id": "wk37_IM_029",
+                "development_label": "Altered furloughed employees' out-of-office messages to blame Democrats",
                 "role": "secondary"
               }
             ],
-            "summary": "The normalization of false claims about public health and migration exemplified a significant erosion of truthfulness.",
-            "why_exemplary": "These actions embedded disinformation at the center of governance, undermining trust in governmental processes.",
+            "summary": "Government communication systems were turned into channels for false partisan shutdown messaging.",
+            "why_exemplary": "This is more than spin: official state communications were used to manufacture a misleading account of a constitutional crisis.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk37_truthfulness_ex02",
+            "week": 37,
+            "event_ids": [
+              "wk37_IM_020",
+              "wk37_IG_007"
+            ],
+            "developments": [
+              {
+                "development_id": "wk37_IM_020",
+                "development_label": "Repeated the false claim that he won the 2020 election",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk37_IG_007",
+                "development_label": "Settled Dominion Voting Systems' defamation lawsuit",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Election falsehoods persisted even as legal accountability for related lies continued elsewhere.",
+            "why_exemplary": "Repeating a known false claim about electoral legitimacy keeps citizens inside manufactured unreality on a foundational democratic question.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "good_faith",
-        "pattern": "The administration's actions undermined the spirit of democratic rules, particularly in election processes and judicial independence.",
+        "pattern": "Formal powers and procedures were used to defeat the purpose of appropriations, representation, and neutral legal process rather than to carry them out honestly.",
         "severity": "serious",
-        "institutional_response": "Limited institutional resistance, with some courts attempting to uphold democratic norms.",
+        "institutional_response": "Courts, unions, and some state actors challenged specific abuses, but Congress itself remained partly paralyzed and some procedural manipulation succeeded in the short term.",
         "exemplars": [
           {
             "exemplar_id": "wk37_good_faith_ex01",
             "week": 37,
             "event_ids": [
-              "wk37_IM_004",
-              "wk37_CR_006"
+              "wk37_IG_016",
+              "wk37_PA_010"
             ],
             "developments": [
               {
-                "development_id": "wk37_IM_004",
-                "development_label": "Posted a website banner blaming the 'radical left' for the shutdown.",
+                "development_id": "wk37_IG_016",
+                "development_label": "Failed to pass a continuing resolution before the deadline",
                 "role": "primary"
               },
               {
-                "development_id": "wk37_CR_006",
-                "development_label": "Sued Minnesota over its sanctuary city policies.",
+                "development_id": "wk37_PA_010",
+                "development_label": "Threatened to use the shutdown to make irreversible cuts to programs and benefits",
                 "role": "secondary"
               }
             ],
-            "summary": "Judicial decisions limiting executive overreach exemplified a breach of good faith in democratic processes.",
-            "why_exemplary": "These actions demonstrated a willingness to manipulate legal frameworks for partisan advantage, undermining the integrity of democratic institutions.",
+            "summary": "A funding lapse was converted from bargaining failure into leverage for unilateral policy change.",
+            "why_exemplary": "Good-faith governance requires containing shutdown harm, not exploiting it to defeat Congress's role in setting policy and spending.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk37_good_faith_ex02",
+            "week": 37,
+            "event_ids": [
+              "wk37_IG_019"
+            ],
+            "developments": [
+              {
+                "development_id": "wk37_IG_019",
+                "development_label": "Submitted an indictment that had not been approved by the full grand jury",
+                "role": "primary"
+              }
+            ],
+            "summary": "A federal indictment was filed without full grand jury approval.",
+            "why_exemplary": "This directly undermines the spirit of lawful prosecution by bypassing a core procedural safeguard meant to legitimate criminal charging.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Institutional capacity, oversight credibility, and the public information base were weakened through workforce purges, data interruptions, politicized communications, and pressure on independent or quasi-independent bodies.",
+        "severity": "extreme",
+        "institutional_response": "Courts preserved some review, forced some funds to be released, and blocked some removals, but the week still imposed broad wear on administrative capacity and public trust.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk37_stewardship_ex01",
+            "week": 37,
+            "event_ids": [
+              "wk37_IG_011",
+              "wk37_IG_022"
+            ],
+            "developments": [
+              {
+                "development_id": "wk37_IG_011",
+                "development_label": "Implemented a mass deferred resignation program for federal workers",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk37_IG_022",
+                "development_label": "Sued to block mass firings during the shutdown",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The federal workforce was pressured toward large-scale exit and threatened with further purge.",
+            "why_exemplary": "Stewardship fails when state capacity is treated as expendable, forcing courts and unions to defend the government's basic ability to function.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk37_stewardship_ex02",
+            "week": 37,
+            "event_ids": [
+              "wk37_IM_036",
+              "wk37_IM_026"
+            ],
+            "developments": [
+              {
+                "development_id": "wk37_IM_036",
+                "development_label": "Halted release of key economic data during the shutdown",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk37_IM_026",
+                "development_label": "Canceled three scheduled open meetings",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Public data and open deliberation were reduced during a period of high political stress.",
+            "why_exemplary": "Democratic institutions cannot be responsibly maintained when citizens lose access to the records and visibility needed for accountability.",
+            "exemplar_type": "secondary"
           }
         ]
       }
     ],
     "norms_strengthened": [
       {
-        "trait": "stewardship",
-        "pattern": "State-level actions aimed at protecting social welfare and civil rights showed some resilience against federal inaction.",
+        "trait": "restraint",
+        "pattern": "Courts and states continued to impose legal friction on expansive executive claims, especially where domestic force and removal power were at issue.",
         "scope": "institutional",
-        "why_it_matters": "These actions reflect a commitment to maintaining public goods and services despite federal neglect.",
+        "why_it_matters": "Restraint can survive even when leaders lack it, if other institutions still enforce limits and preserve the status quo against rapid power grabs.",
         "exemplars": [
           {
-            "exemplar_id": "wk37_stewardship_ex01",
+            "exemplar_id": "wk37_restraint_ex03",
             "week": 37,
             "event_ids": [
-              "wk37_IG_003",
-              "wk37_IG_011"
+              "wk37_IG_023",
+              "wk37_IG_033"
             ],
             "developments": [
               {
-                "development_id": "wk37_IG_003",
-                "development_label": "Released a third batch of documents from the Jeffrey Epstein estate.",
+                "development_id": "wk37_IG_023",
+                "development_label": "Deferred Trump's request to remove Federal Reserve Governor Lisa Cook and kept her in office for now",
                 "role": "primary"
               },
               {
-                "development_id": "wk37_IG_011",
-                "development_label": "Indicted former FBI Director James Comey for allegedly lying to Congress.",
+                "development_id": "wk37_IG_033",
+                "development_label": "Left in place a preliminary injunction protecting Governor Cook pending January arguments",
                 "role": "secondary"
               }
             ],
-            "summary": "State actions to protect democratic integrity reflect a commitment to stewardship.",
-            "why_exemplary": "These initiatives demonstrate a proactive approach to governance that prioritizes public welfare over political expediency.",
+            "summary": "The Supreme Court preserved limits on immediate presidential removal power.",
+            "why_exemplary": "Keeping an independent official in place reinforced the principle that executive power is not automatically self-justifying or unlimited.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk37_restraint_ex04",
+            "week": 37,
+            "event_ids": [
+              "wk37_IG_050"
+            ],
+            "developments": [
+              {
+                "development_id": "wk37_IG_050",
+                "development_label": "Rejected the administration's attempt to end birthright citizenship",
+                "role": "primary"
+              }
+            ],
+            "summary": "A federal court blocked executive overreach on citizenship.",
+            "why_exemplary": "The ruling reaffirmed that even forceful executive agendas remain bounded by constitutional limits.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "Some institutions and actors preserved factual accountability by exposing falsehoods, forcing disclosure fights into court, or imposing consequences for election lies.",
+        "scope": "institutional",
+        "why_it_matters": "A democracy can still correct itself only if false official narratives meet countervailing institutions that preserve evidence and consequences.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk37_truthfulness_ex03",
+            "week": 37,
+            "event_ids": [
+              "wk37_IG_007"
+            ],
+            "developments": [
+              {
+                "development_id": "wk37_IG_007",
+                "development_label": "Settled Dominion Voting Systems' defamation lawsuit",
+                "role": "primary"
+              }
+            ],
+            "summary": "Legal accountability continued for election-related falsehoods.",
+            "why_exemplary": "The settlement reinforces that lies about voting systems are not cost-free and remain answerable to law and evidence.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk37_truthfulness_ex04",
+            "week": 37,
+            "event_ids": [
+              "wk37_IM_021"
+            ],
+            "developments": [
+              {
+                "development_id": "wk37_IM_021",
+                "development_label": "Expanded its FOIA lawsuit over DOJ delays and withholding on Epstein-related records",
+                "role": "primary"
+              }
+            ],
+            "summary": "A records lawsuit pressed for disclosure against senior DOJ delay and withholding.",
+            "why_exemplary": "Forcing contested information into legal review helps defend the norm that public claims and secrecy decisions must face scrutiny.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "States, unions, and courts continued to use lawful process to challenge executive shortcuts and restore the intended operation of constitutional and statutory rules.",
+        "scope": "institutional",
+        "why_it_matters": "These actions preserve the idea that democratic rules are for checking power, not merely for being manipulated by whoever holds office.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk37_good_faith_ex03",
+            "week": 37,
+            "event_ids": [
+              "wk37_IG_042"
+            ],
+            "developments": [
+              {
+                "development_id": "wk37_IG_042",
+                "development_label": "Released $184 million in AmeriCorps funding after litigation pressure",
+                "role": "primary"
+              }
+            ],
+            "summary": "Litigation pressure forced restoration of appropriated program funds.",
+            "why_exemplary": "This matters because it reasserted the lawful purpose of appropriations against executive delay and discretionary withholding.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk37_good_faith_ex04",
+            "week": 37,
+            "event_ids": [
+              "wk37_IG_052"
+            ],
+            "developments": [
+              {
+                "development_id": "wk37_IG_052",
+                "development_label": "Backed away from new immigration-related conditions on Victims of Crime Act grants after a multistate suit",
+                "role": "primary"
+              }
+            ],
+            "summary": "The Justice Department retreated from contested grant conditions after suit.",
+            "why_exemplary": "Retreat under challenge shows that legal pressure can still restore closer adherence to the intended limits of federal grant authority.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Some courts preserved institutional independence and oversight channels against efforts to remove protected officials or weaken review.",
+        "scope": "institutional",
+        "why_it_matters": "Stewardship depends on keeping institutions repairable; preserving independent offices and review mechanisms prevents deeper hollowing-out.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk37_stewardship_ex03",
+            "week": 37,
+            "event_ids": [
+              "wk37_IG_056"
+            ],
+            "developments": [
+              {
+                "development_id": "wk37_IG_056",
+                "development_label": "Granted a preliminary injunction blocking the removal of Puerto Rico oversight board members",
+                "role": "primary"
+              }
+            ],
+            "summary": "A court protected an independent board from immediate presidential removal.",
+            "why_exemplary": "The injunction preserved continuity and statutory design in an institution that could otherwise be destabilized by unilateral executive action.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk37_stewardship_ex04",
+            "week": 37,
+            "event_ids": [
+              "wk37_IG_031"
+            ],
+            "developments": [
+              {
+                "development_id": "wk37_IG_031",
+                "development_label": "Granted a preliminary injunction in AFL-CIO v. Trump",
+                "role": "primary"
+              }
+            ],
+            "summary": "A court blocked executive labor restrictions for covered bargaining units.",
+            "why_exemplary": "Preserving worker protections and bargaining structures helps maintain the long-term integrity of the civil service and its governing rules.",
+            "exemplar_type": "secondary"
           }
         ]
       }
     ],
-    "direction_of_movement": "collapsing"
+    "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "Week 37 continues the trend of significant erosion of the moral floor, with executive actions increasingly prioritizing political interests over adherence to democratic norms. The administration's consolidation of power and punitive measures against dissenting voices deepen concerns about the integrity of public institutions. While there are pockets of resistance, such as judicial interventions and state-level initiatives, they are insufficient to counterbalance the overall trend of deterioration. The trajectory indicates a worsening crisis in democratic accountability and civil rights protections, raising serious concerns about the future of governance in the current political climate.",
+    "narrative": "Week 37 fits the prior trajectory as consolidation rather than sudden descent. The previous summary already described a republic operating with a thinner ethical buffer, where retaliation, disinformation, and pressure on neutral institutions were becoming integrated. This week confirmed that pattern by showing the same governing style applied across appropriations, domestic force, immigration enforcement, prosecution, and official communications. The moral floor is not failing through isolated misconduct; it is being worn down by repeated use of lawful forms for partisan, coercive, or self-protective ends.\n\nWhat changed this week was the openness of the conduct. Shutdown conditions were used as declared leverage for cuts, firings, and project cancellations. Domestic force claims were widened from one deployment dispute into standing capacity and wartime framing. Official communications were used not only to mislead but to conscript agency systems and employee messages into partisan blame. At the same time, courts, states, unions, and litigants still imposed friction, and some rulings preserved constitutional limits and institutional independence. That means the moral floor is deteriorating, not yet fully collapsing, but it now depends increasingly on external resistance rather than internal ethical discipline.",
     "trend": "deteriorating",
     "stress_points": [
-      "centralization of executive power",
-      "disinformation as a governance tool",
-      "erosion of civil rights protections",
-      "politicization of the civil service"
+      "shutdown used as leverage for unilateral executive policy",
+      "routine official disinformation through presidential and agency channels",
+      "expansion of domestic force and emergency-style authority",
+      "procedural manipulation of appropriations and prosecution",
+      "erosion of civil-service capacity and adjudicative independence",
+      "blurring of public office with private or allied benefit",
+      "pressure on dissent, protest, and civil society through enforcement and threat framing"
     ],
     "sources_of_resilience": [
-      "judicial pushback against executive orders",
-      "civil society mobilization against abuses",
-      "state-level legal challenges"
+      "state litigation against domestic troop deployment",
+      "courts preserving limits on removal power and citizenship authority",
+      "union lawsuits and injunctions against workforce purges",
+      "litigation forcing release of appropriated funds",
+      "legal accountability for election falsehoods",
+      "continued FOIA and disclosure litigation",
+      "multistate challenges that forced retreat from contested grant conditions"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
+    "level": "severe",
+    "justification": "The risk is severe because verified events show simultaneous weakening of character, restraint, truthfulness, good faith, and stewardship in ways that reinforce one another. The most dangerous feature is not any single abuse but the combination: a shutdown used as executive leverage, domestic force normalized through deployment and standing capacity, official falsehoods pushed through state channels, and institutional capacity weakened through firings, impoundment, and data interruption. When these traits fail together, democratic correction becomes slower, more costly, and more dependent on litigation after the fact.\n\nThe risk is not rated critical because the week also contains meaningful resistance. Courts blocked or slowed some removals, preserved constitutional limits, forced some funds to be released, and kept challenges moving. States and unions also acted. But these defenses were fragmented and reactive. If the current pattern continues, further erosion is likely to come through normalization: more routine use of crisis for unilateral action, more acceptance of manipulated official narratives, and more institutional weakening presented as ordinary administration.",
     "forward_signals": [
-      "increased executive orders bypassing legislative input",
-      "escalation of disinformation campaigns",
-      "further attempts to undermine civil rights protections"
+      "whether shutdown leverage expands into further impoundment or targeted cancellations",
+      "whether Portland-style domestic force claims spread to additional cities",
+      "further use of agency communications for partisan or false messaging",
+      "additional attempts to bypass ordinary prosecutorial or appointment procedures",
+      "continued workforce purges or replacement of independent adjudicators",
+      "more court orders preserving limits on removal, funding, or enforcement power",
+      "escalation of security or terrorism framing against nonprofits, activists, or opposition figures"
     ]
   }
 }

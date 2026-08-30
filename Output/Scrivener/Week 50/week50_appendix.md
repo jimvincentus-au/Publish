@@ -246,235 +246,199 @@ Information, Memory and Manipulation
 <!-- BEGIN GENERATED APPENDIX -->
 Power and Authority
 
-1. President Donald Trump urged Republican senators to eliminate the Senate filibuster: Trump’s push to scrap the filibuster would weaken minority-party leverage in the Senate, making it easier for a simple majority to pass sweeping laws and concentrate legislative power. — 2025-12-27
+1. Donald Trump urged Senate Republicans to eliminate the filibuster: The push targeted a key minority check in the Senate and would have made it easier for a governing majority to pass laws without cross-party restraint. — 2025-12-27
 
-2. Indivisible mobilized the public to press the Senate to block unauthorized attacks on Venezuela: The call for Senate action sought to reassert Congress’s war powers and prevent unilateral executive military action, reinforcing checks on presidential use of force. — 2025-12-27
+2. Federal agents deployed in military fatigues in major cities [single source]: The use of heavily armed federal personnel in civilian spaces signaled a more coercive federal posture toward protest and local unrest. — 2025-12-27
 
-3. President Donald Trump vetoed a bipartisan clean water bill for Colorado: By vetoing unanimously passed drinking water legislation apparently tied to political grievances, Trump used veto power in a retaliatory way that jeopardized public health and undercut bipartisan governance. — 2025-12-31
+3. The U.S. military conducted strikes in Nigeria and Syria: The strikes extended executive use of force abroad and raised oversight questions about how military action was framed and authorized. — 2025-12-28
 
-4. President Donald Trump vetoed a bill funding an Everglades project benefiting the Miccosukee Tribe: The veto blocked environmental protection and tribal interests on stated ideological grounds, signaling willingness to wield executive power against disfavored communities and court rulings. — 2026-01-01
+4. USCIS issued guidance seeking 100 to 200 denaturalization case referrals per month: The guidance expanded the state's capacity to strip citizenship, increasing insecurity for naturalized Americans and widening executive leverage over legal status. — 2025-12-30
 
-5. President Donald Trump asserted personal control over immigration, criminal law, and forcible renditions: Claims that the president personally directs immigration and criminal enforcement, including renditions, point to erosion of institutional checks and concentration of coercive power in the executive. — 2026-01-02
+5. USCIS paused immigration proceedings for nationals of 19 countries [single source]: The pause blocked paths to citizenship and residency for targeted nationalities, concentrating executive control over who could complete lawful status processes. — 2025-12-30
 
-6. President Donald Trump threatened military action against Iran over protest repression: Trump’s public threat of intervention in Iran, made outside formal processes, risked escalating conflict and showcased personalized use of military signaling in foreign policy. — 2026-01-01
+6. ICE announced a $100 million recruitment campaign for new agents: The campaign aimed to rapidly expand deportation capacity, deepening the federal government's coercive reach in immigration enforcement. — 2025-12-31
+
+7. The Kennedy Center board changed its bylaws to limit voting to Trump-appointed trustees: The bylaw change narrowed outside oversight and concentrated control of a public cultural institution in a politically aligned bloc. — 2025-12-31
+
+8. Donald Trump ended efforts to deploy National Guard troops in Democratic-led cities [single source]: The reversal followed court setbacks and highlighted how federal troop deployment had been used as leverage against disfavored local governments. — 2025-12-31
+
+9. Donald Trump vetoed an Everglades project bill affecting the Miccosukee Tribe [single source]: The veto withheld federal support from a tribal and environmental project, showing executive power used in a way that burdened a disfavored community. — 2026-01-01
+
+10. Donald Trump vetoed a bipartisan Colorado drinking water bill: The veto blocked a unanimously passed public works measure and raised concerns that federal power was being used to punish political opponents. — 2026-01-01
+
+11. President Trump issued an executive order blocking HieFo Corporation from acquiring Emcore assets: The order showed direct presidential intervention in a private transaction on national security grounds, reinforcing broad executive control over strategic assets. — 2026-01-02
+
+12. The White House asserted personal control over immigration policy, criminal law, and renditions [single source]: The reported posture blurred legal and institutional limits by concentrating coercive state functions in the presidency. — 2026-01-02
 
 
 Institutions and Governance
 
-1. U.S. House of Representatives censured Representative Al Green for interrupting Trump during a joint session: The censure punished a member’s floor speech against the president, illustrating how disciplinary tools can be used to chill outspoken legislative dissent without removing formal voting rights. — 2025-12-27
+1. The House of Representatives passed a censure resolution against Al Green: The censure used formal House discipline against a member's protest during a joint session, testing how dissent is handled inside Congress. — 2025-12-27
 
-2. U.S. House of Representatives passed a resolution disapproving Representative Chuy Garcia’s retirement timing: The resolution condemned Garcia’s alleged maneuvering to aid a successor, signaling congressional willingness to police perceived election manipulation within its own ranks. — 2025-12-27
+2. The House of Representatives passed a resolution condemning Chuy Garcia's alleged election manipulation: The resolution addressed a lawmaker's conduct tied to succession and electoral fairness, using House procedure to police representation norms. — 2025-12-27
 
-3. Tennessee House of Representatives expelled Justin Pearson and Justin Jones for leading a gun policy protest: The expulsions of lawmakers for floor protest over gun violence showed a state legislature using its removal power against dissenting members, raising concerns about representation and protest rights. — 2026-01-02
+3. Indivisible urged the Senate to block unauthorized attacks on Venezuela: The appeal centered on Congress's role in checking unilateral military action and preserving legislative oversight of war powers. — 2025-12-27
 
-4. U.S. House Judiciary Committee held testimony and released a transcript from former special counsel Jack Smith: Smith’s testimony and deposition detailed evidence against Trump and affirmed prosecutorial independence, providing congressional oversight of high-level criminal investigations involving a former president. — 2025-12-31
+4. FBI Director Kash Patel announced that the FBI would close the J. Edgar Hoover Building and relocate headquarters functions: The move affected a major federal law enforcement institution's structure and spending after years of failed relocation efforts and legal dispute. — 2025-12-27
 
-5. Federal district court granted Imran Ahmed a temporary restraining order against detention: The TRO protected an anti-disinformation advocate from government detention while his suit proceeds, underscoring judicial capacity to check executive actions affecting critics. — 2025-12-29
+5. The Centers for Disease Control and Prevention announced a meeting of the Advisory Board on Radiation and Worker Health subcommittee: The notice maintained an advisory process that lets outside experts and the public weigh in on worker compensation and safety policy. — 2025-12-29
 
-6. Federal district court dismissed with prejudice an indictment against TikTok streamer Carlitos Ricardo Parias: The court threw out charges over alleged assault on federal agents after finding due process violations, reinforcing constitutional protections in immigration-related prosecutions. — 2025-12-29
+6. A federal judge dismissed the indictment against Carlitos Ricardo Parias with prejudice: The ruling enforced due process limits on immigration-related prosecution and barred the government from refiling the same charges. — 2025-12-29
 
-7. Judge Amy Berman Jackson ordered the administration to continue funding the Consumer Financial Protection Bureau: By compelling continued CFPB funding despite executive resistance, the ruling defended Congress’s creation of an independent consumer watchdog against de facto defunding. — 2025-12-30
+7. A federal magistrate judge held a detention hearing for Brian Cole Jr. in the D.C. pipe bomb case: The hearing showed the courts continuing to process major January 6-related criminal allegations through ordinary judicial procedures. — 2025-12-30
 
-8. U.S. Court of Appeals allowed the administration to end Medicaid funding for Planned Parenthood in 22 states and DC: The appellate decision enabled a statutory provision cutting Medicaid reimbursements to Planned Parenthood, curbing access to reproductive care and reflecting ideological influence on health funding. — 2025-12-31
+8. Judge Amy Berman Jackson ordered the Trump administration to continue funding the CFPB: The order checked an executive effort to starve a congressionally created agency and reaffirmed judicial enforcement of statutory design. — 2025-12-30
 
-9. U.S. Department of Justice undertook a large-scale review of over 5 million Jeffrey Epstein documents: DOJ’s massive, delayed review of Epstein records, far exceeding earlier estimates, raised questions about transparency, resource allocation, and potential shielding of powerful figures. — 2025-12-31
+9. The House Judiciary Committee heard Jack Smith's testimony and released his deposition transcript: The testimony and transcript added oversight transparency around the prosecution of a former president and the evidence behind those cases. — 2025-12-31
 
-10. U.S. Department of Justice acknowledged millions of additional undisclosed Epstein-related documents: The late acknowledgment of roughly five million more Epstein documents fueled congressional accusations of unlawful withholding and deepened mistrust in DOJ’s handling of elite-linked crimes. — 2026-01-01
+10. The U.S. Court of Appeals allowed the administration to end Medicaid funding for Planned Parenthood in 22 states and Washington, D.C.: The ruling let a major funding cutoff take effect, showing how appellate courts can reshape access to services through institutional review. — 2025-12-31
 
-11. National Links Trust had its lease to manage Washington DC public golf courses terminated by the administration: Ending the public–private lease without a clear successor plan disrupted public amenities and raised concerns about contractual stability and potential self-dealing in federal property decisions. — 2026-01-01
+11. Vermont and New York enacted climate superfund laws requiring polluters to help pay for climate costs [single source]: The laws used state legislative power to impose accountability on major emitters and shift some climate costs away from the public. — 2026-01-01
 
-12. Kennedy Center Board of Trustees changed bylaws to restrict voting to Trump-appointed trustees and approved renaming to include Trump: Concentrating voting power in Trump appointees and renaming a congressionally chartered arts institution around the sitting president blurred lines between public governance and personal glorification. — 2025-12-31
+12. Zohran Mamdani was sworn in as mayor of New York City: The inauguration marked a lawful transfer of local executive authority through electoral succession. — 2026-01-01
 
-13. EPA Local Government Advisory Committee had its charter renewed and sought new local government members: Renewing the LGAC and recruiting members preserved a formal channel for local input into federal environmental policy, supporting multi-level governance and representation. — 2026-01-02
+13. The Environmental Protection Agency renewed the Local Government Advisory Committee charter and sought nominations for its small communities subcommittee: The renewal preserved a formal channel for local governments to advise a federal agency, supporting representation in administrative policymaking. — 2026-01-02
 
-14. EPA and Oklahoma Department of Environmental Quality finalized delegation of certain hazardous air pollutant standards to Oklahoma: Delegating NESHAP enforcement to Oklahoma expanded state control over air quality regulation, with implications for local accountability and consistency of federal protections. — 2026-01-02
+14. Tennessee House Republicans expelled Justin Pearson and Justin Jones after their gun policy protest: The expulsions showed legislative discipline being used against floor protest, raising questions about representation and internal democratic tolerance. — 2026-01-02
 
-15. EPA revoked a 2024 rule on reclassification of major pollution sources under the Clean Air Act: By restoring a more flexible 2020 standard after congressional disapproval of the 2024 rule, EPA shifted hazardous air pollutant regulation in a direction favored by industry, affecting environmental safeguards. — 2026-01-02
+15. A federal judge ruled that Brian Cole Jr. must remain in jail before trial [single source]: The detention ruling reflected the judiciary's role in balancing due process with public safety in a high-profile political violence case. — 2026-01-02
 
-16. EPA published a notice of availability for recent Environmental Impact Statements: Making EIS documents and EPA comments publicly available, including for a major solar project, supported transparency and public participation in federal environmental decisions. — 2026-01-02
+16. The court in American Federation of Government Employees v. Office of Management and Budget granted the government's motion to dismiss the appeal: The order marked a concrete litigation step in a challenge involving federal administrative action and judicial review. — 2026-01-02
 
-17. EPA approved revisions to Colorado’s air plan procedural rules: Approving Colorado’s administrative updates to its air plan ensured state procedures remained aligned with federal Clean Air Act requirements, maintaining regulatory clarity. — 2026-01-02
+17. The parties in American Oversight v. U.S. Department of Homeland Security filed a joint status report on progress responding to FOIA requests: The filing documented court-supervised agency compliance efforts in a records dispute, reinforcing procedural accountability. — 2026-01-02
 
-18. EPA finalized revisions to the Taconite Federal Implementation Plan for Michigan and Minnesota: New NOx and SO2 limits and reporting rules for taconite plants tightened industrial emission controls, reinforcing federal authority to enforce air quality standards. — 2026-01-02
+18. The parties in Kettlewell v. Noem voluntarily dismissed the appeal of preliminary injunction orders: The dismissal changed the posture of an ongoing legal challenge and left the lower court's injunction-related rulings in place. — 2026-01-02
 
-19. EPA approved South Carolina’s regional haze plan: Endorsing South Carolina’s haze plan locked in state commitments to reduce emissions affecting visibility in protected areas, illustrating cooperative federalism in environmental governance. — 2025-12-30
+19. The plaintiffs in Shapiro v. Department of Agriculture appealed the district court's December 3 order to the Third Circuit: The appeal moved an administrative dispute into a higher court, continuing institutional review of federal action. — 2026-01-02
 
-20. EPA granted a no-migration variance for hazardous waste disposal at Clean Harbors Lone Mountain: Allowing an exception to land disposal restrictions conditioned on no waste migration adjusted enforcement of hazardous waste rules, balancing industry flexibility with environmental risk. — 2025-12-30
-
-21. EPA corrected an editorial error in federal fuel regulations: Technical corrections to fuel regulation text improved legal clarity, which is important for consistent enforcement and regulated entities’ compliance. — 2025-12-31
-
-22. National Institute for Occupational Safety and Health began evaluating a petition for Special Exposure Cohort status for United Nuclear workers: NIOSH’s review could extend compensation to a class of nuclear workers, reflecting institutional mechanisms for redressing historic occupational harms. — 2025-12-30
-
-23. Centers for Disease Control and Prevention announced a meeting of the Advisory Board on Radiation and Worker Health subcommittee: The open advisory meeting on radiation and worker health procedures maintained expert and public input into compensation and safety standards for exposed workers. — 2025-12-29
-
-24. Occupational Safety and Health Administration granted permanent variances for compressed-air tunneling projects in DC and Ohio: OSHA’s variances for two tunneling projects modified standard safety rules, illustrating how regulators adjust protections in response to specialized industrial practices. — 2025-12-29
-
-25. Occupational Safety and Health Administration expanded recognition of DEKRA Certification Inc. and UL LLC as testing laboratories: By broadening NRTL scopes for DEKRA and UL, OSHA increased third-party capacity to certify product safety, supporting enforcement of workplace and consumer standards. — 2025-12-31
-
-26. Occupational Safety and Health Administration sought comment on extending information collections for rigging equipment and training grants: Extending data collection for rigging safety and the Susan Harwood Training Grant Program preserved oversight of workplace hazards and grant performance. — 2025-12-31
-
-27. Nemko North America, Inc. applied for expansion of OSHA Nationally Recognized Testing Laboratory status: Nemko’s bid to test additional standards, subject to public comment, reflected procedural checks on private entities’ roles in federal safety certification. — 2025-12-31
-
-28. Federal Communications Commission requested public comment on several information collection practices: FCC notices on discrimination complaint data and tariff review plans invited scrutiny of how regulatory data are gathered, affecting transparency and administrative burden. — 2025-12-29
-
-29. U.S. Census Bureau sought OMB clearance for continued questionnaire pretesting research: Renewing authority for survey pretesting supported the quality of federal statistics, which underpin fair representation and policy design. — 2025-12-30
-
-30. Transportation Security Administration revised its pipeline security information collection and sought public comment: Updating data requirements for pipeline security and cybersecurity oversight affected how critical infrastructure operators are monitored and held accountable. — 2026-01-02
-
-31. General Services Administration updated federal mileage reimbursement rates and minimal value for foreign gifts: Adjusting travel reimbursements and the threshold for reportable foreign gifts maintained statutory compliance and transparency in federal employee benefits and ethics rules. — 2026-01-02
-
-32. North Carolina General Assembly planned new tax cuts for wealthy individuals and corporations despite budget delays: The planned cuts, expected to worsen budget shortfalls and strain childcare and healthcare, illustrated how fiscal choices can weaken public services and social infrastructure. — 2026-01-02
-
-33. New York and Vermont legislatures enacted climate superfund laws requiring polluters to fund resilience and emissions cuts: These state laws shifted climate costs onto major emitters, demonstrating subnational innovation in environmental accountability despite federal opposition. — 2026-01-01
-
-34. North Carolina Select Committee on Oversight and Reform attacked the Chapel Hill School District in an oversight campaign: The committee’s actions, seen as part of a broader effort to undermine public education, highlighted how legislative oversight can be used to pressure school systems. — 2026-01-02
+20. The defendants in State of California v. United States Department of Transportation appealed to the First Circuit: The appeal extended a federal-state legal conflict into the appellate system, showing continued judicial contest over agency authority. — 2026-01-02
 
 
 Economic Structure
 
-1. U.S. Department of Homeland Security adjusted civil monetary penalties for inflation: Updating DHS civil penalties preserved their deterrent value, supporting enforcement of safety and security regulations without new legislation. — 2025-12-29
+1. ICE deported Oregon vineyard manager Moises Sotelo to Mexico [single source]: The deportation disrupted a family business and local labor stability, showing how enforcement decisions can reshape economic security in a community. — 2025-12-27
 
-2. Food and Drug Administration set OTC monograph order request fees for fiscal year 2026: New user fee levels for OTC drug monograph changes shifted some regulatory costs to industry, funding FDA oversight that protects public health. — 2025-12-29
+2. The United States recorded declining murder rates through 2025 [single source]: Lower violent crime can strengthen public confidence and civic life by reducing fear and improving everyday security in communities. — 2025-12-27
 
-3. Food and Drug Administration announced a roundtable on premarket tobacco applications for ENDS products: The ENDS roundtable aimed to clarify regulatory expectations for small manufacturers, affecting how e-cigarette products enter the market and are scrutinized for safety. — 2025-12-29
+3. The Trump administration implemented major cuts to healthcare, science, and anti-hunger programs [single source]: The cuts reduced support for core public goods, weakening the material conditions that help people participate in civic and political life. — 2025-12-27
 
-4. Food and Drug Administration authorized emergency use of two animal drugs for New World screwworm infestations: Emergency authorizations for animal drugs responded to a declared public health emergency, illustrating flexible regulatory tools to protect animal and indirectly human health. — 2025-12-29
+4. The United States recorded an increase in life expectancy [single source]: Improved life expectancy reflected stronger social conditions that support public well-being and the capacity for stable civic participation. — 2025-12-27
 
-5. Food and Drug Administration determined regulatory review periods for several biologic and drug products for patent extension: FDA’s review-period determinations for ADZYNMA, ALHEMO, LEQEMBI, OJEMDA, ROMVIMZA, and ZELSUVMI shaped potential patent extensions, influencing drug market exclusivity and pricing. — 2025-12-29
+5. The Department of Homeland Security adjusted civil monetary penalties for inflation: The rule maintained the real value of federal penalties, preserving the state's enforcement capacity in regulated sectors. — 2025-12-29
 
-6. Food and Drug Administration proposed exempting certain radiology devices from premarket notification: Easing premarket requirements for some computer-aided radiology devices could speed innovation and market entry while relying more on post-market controls. — 2025-12-29
+6. The Federal Communications Commission sought comments on a workplace discrimination complaint information collection: The notice affected how a federal regulator gathers data needed to process discrimination complaints and oversee compliance. — 2025-12-29
 
-7. Food and Drug Administration proposed withdrawing approval of three generic drugs for reporting failures: Threatening to pull ANDA approvals for firms that failed to file annual reports enforced compliance obligations but risked reducing availability of some generics. — 2025-12-29
+7. The Food and Drug Administration announced fiscal year 2026 OTC monograph order request fee rates: The fee notice shaped the cost of market access for drug makers and funded federal oversight of over-the-counter products. — 2025-12-29
 
-8. Food and Drug Administration submitted information collection on PET drug manufacturing practices to OMB: Maintaining data collection on PET drug manufacturing supported quality standards for specialized pharmaceuticals used in diagnostics. — 2025-12-29
+8. The Food and Drug Administration announced a roundtable on premarket tobacco applications for electronic nicotine products: The roundtable opened a regulatory channel for industry input on product approval rules that affect public health and market entry. — 2025-12-29
 
-9. Food and Drug Administration revoked EUAs for two Lucira by Pfizer COVID-19 and flu tests: Ending emergency authorizations for unavailable COVID-19 tests adjusted the diagnostic market and signaled a shift in pandemic-era regulatory flexibilities. — 2026-01-02
+9. The Food and Drug Administration authorized emergency use of two animal drugs for New World screwworm treatment: The authorizations expanded emergency regulatory power to address an animal health threat with economic and public health effects. — 2025-12-29
 
-10. Food and Drug Administration determined that MYSOLINE suspension was withdrawn from sale for safety reasons: Finding that a primidone suspension left the market due to contamination concerns barred generic copies, prioritizing safety over expanded competition. — 2026-01-02
+10. The Food and Drug Administration determined regulatory review periods for ADZYNMA, ALHEMO, LEQEMBI, OJEMDA, ROMVIMZA, and ZELSUVMI: The determinations affected possible patent extensions, shaping drug exclusivity, competition, and future pricing power. — 2025-12-29
 
-11. Occupational Safety and Health Administration extended OMB approval for rigging equipment information collection: Continuing paperwork requirements for rigging equipment standards preserved OSHA’s ability to monitor compliance and workplace safety in material handling. — 2025-12-31
+11. The Food and Drug Administration proposed exempting certain radiology devices from premarket notification requirements: The proposal would ease market entry for some devices while relying more on post-market controls than preclearance. — 2025-12-29
 
-12. Occupational Safety and Health Administration extended OMB approval for the Susan Harwood Training Grant Program information collection: Maintaining data collection for safety training grants supported oversight of federally funded worker-protection programs. — 2025-12-31
+12. The Food and Drug Administration proposed withdrawing approval of three abbreviated new drug applications: The proposal enforced reporting compliance by threatening removal of products from the legal market. — 2025-12-29
 
-13. Environmental Protection Agency submitted multiple environmental information collection renewals to OMB: EPA’s renewals for airbags, grain elevators, kraft pulp mills, nonroad engines, TSCA reviews, and pesticide data call-ins sustained reporting frameworks that underpin environmental enforcement. — 2025-12-30
+13. The Food and Drug Administration submitted an information collection on PET drug manufacturing practices for OMB review: The submission sustained federal oversight of manufacturing standards that govern safety and quality in a specialized drug sector. — 2025-12-29
 
-14. Drug Enforcement Administration and Department of Health and Human Services extended COVID-19 telemedicine flexibilities for prescribing controlled substances: The fourth temporary extension allowed remote prescribing of controlled drugs through 2026, preserving access to care while prolonging emergency-style regulatory conditions. — 2025-12-31
+14. OSHA granted permanent compressed-air variances for two tunnel projects: The variances altered baseline worker safety rules for major construction projects, balancing regulatory flexibility against uniform protections. — 2025-12-29
 
-15. General Services Administration updated 2026 mileage reimbursement rates for privately owned vehicles: Aligning federal mileage rates with IRS standards affected travel reimbursements and operating costs for federal employees and contractors. — 2026-01-02
+15. The FBI deployed additional resources to Minnesota to investigate large fraud schemes: The move expanded federal enforcement around misuse of public funds, with implications for trust in government programs and equal treatment. — 2025-12-29
 
-16. Transportation Security Administration revised pipeline security data collection requirements: The updated information collection for pipeline security and cybersecurity imposed significant reporting burdens on operators, shaping the cost and rigor of critical infrastructure protection. — 2026-01-02
+16. Corporate bankruptcies and household finances showed rising stress [single source]: Growing insolvency and household strain pointed to weaker economic security, which can narrow citizens' room to engage in public life. — 2025-12-30
 
-17. Social Security Administration experienced severe caseload backlogs after budget cuts: Backlogs exceeding six million cases, attributed to funding cuts, undermined timely access to benefits for vulnerable Americans and eroded trust in a key social insurance institution. — 2025-12-30
+17. The Census Bureau submitted a questionnaire pretesting information collection request to OMB: The request supported federal survey design capacity that underpins reliable public data for representation and policy decisions. — 2025-12-30
 
-18. Trump administration implemented large budget cuts to healthcare, science, and anti-hunger programs: Reductions in health, research, and food assistance funding weakened public goods and disproportionately harmed low-income and vulnerable populations. — 2025-12-27
+18. The Environmental Protection Agency approved South Carolina's regional haze plan: The approval enforced a state air quality strategy, showing continued federal-state regulation of pollution affecting shared public resources. — 2025-12-30
 
-19. Trump administration allowed enhanced Affordable Care Act tax credits to expire after a prolonged shutdown: Letting expanded ACA subsidies lapse raised health insurance costs for millions, worsening inequality in access to care after a 43-day budget standoff. — 2026-01-01
+19. The Environmental Protection Agency granted Clean Harbors Lone Mountain a no-migration variance from land disposal restrictions: The variance relaxed standard hazardous waste limits for one facility, illustrating how regulators can tailor compliance burdens for industry. — 2025-12-30
 
-20. Trump administration delayed tariff increases on furniture and cabinets and reduced antidumping duties on Italian pasta: Last-minute delays and reductions in planned tariffs, following exporter and foreign lobbying, softened economic impacts while revealing how trade policy responds to organized interests. — 2026-01-01
+20. The Environmental Protection Agency submitted five information collection requests to OMB on airbags, grain elevators, kraft pulp mills, nonroad engines, and TSCA review: The submissions preserved reporting systems that let regulators monitor compliance across transportation, manufacturing, and chemical sectors. — 2025-12-30
 
-21. China imposed a 55% tariff on U.S. beef and cut soybean purchases: China’s steep tariffs and reduced agricultural imports intensified pressure on U.S. farmers, illustrating how trade conflicts can economically punish domestic constituencies. — 2025-12-31
+21. The Environmental Protection Agency submitted a pesticide data call-in information collection request to OMB: The request sustained the data pipeline regulators use to assess pesticide safety and enforce federal standards. — 2025-12-30
 
-22. Trump administration implemented tariff carve-outs that reduced effective rates on some imports: Extensive exemptions, such as lower real tariffs on semiconductors, mitigated headline trade measures’ impact and showed selective relief for influential sectors. — 2025-12-30
+22. NIOSH began evaluating a petition for Special Exposure Cohort designation for former United Nuclear Corporation workers: The review could expand compensation for workers harmed by past exposure, linking administrative process to state accountability for labor risk. — 2025-12-30
 
-23. U.S. economy experienced rising corporate bankruptcies and household financial stress: Increased bankruptcies and household strain signaled underlying economic fragility, with potential to heighten public discontent and vulnerability to populist appeals. — 2025-12-30
+23. The Federal Communications Commission sought comments on tariff review plan information collection: The notice affected how telecom rate data is gathered and reviewed, shaping oversight of incumbent carriers. — 2025-12-30
 
-24. China advanced rapidly in electric and autonomous vehicle technologies: China’s regulatory support and investment in EVs and autonomy bolstered its technological and industrial position, challenging other democracies’ economic competitiveness. — 2025-12-30
+24. The Social Security Administration faced backlogs exceeding 6 million cases [single source]: Large delays in a core benefits agency weakened access to public services that many people need for basic economic stability. — 2025-12-30
 
-25. Trump administration terminated the National Links Trust lease for DC public golf courses without a successor plan: Ending the lease mid-renovation disrupted public recreation services and raised suspicions of paving the way for politically connected control of public land. — 2026-01-01
+25. Japan's government and firms advanced a broad set of investment, labor, governance, semiconductor, and immigration changes [single source]: The developments showed how state policy can reshape labor markets, foreign investment, and industrial capacity through coordinated economic governance. — 2025-12-30
 
-26. China reduced purchases of U.S. soybeans in favor of other suppliers: Diversifying away from U.S. soybeans further squeezed American farmers, illustrating long-term costs of trade tensions for rural economies. — 2025-12-31
+26. Local politicians embraced reducing regulatory costs for small businesses [single source]: The push aimed to lower barriers to entry, affecting who can participate in local economic life and benefit from city policy. — 2025-12-30
 
-27. U.S. housing developers and city governments increased housing construction leading to rent drops in several cities: Expanded market-rate housing supply contributed to lower rents, supporting the idea that building more units can improve affordability and economic stability. — 2025-12-30
+27. U.S. cities saw rents fall as housing supply increased [single source]: Lower rents from added housing suggested that land-use and building policy can materially widen economic access in urban areas. — 2025-12-30
 
-28. Biden administration uncovered a large welfare fraud scheme in Minnesota: Exposing a $250 million Medicaid fraud case highlighted vulnerabilities in social programs but also demonstrated federal oversight capacity to protect public funds. — 2025-12-30
+28. The U.S. government used tariff carve-outs that reduced the impact of announced tariff rates [single source]: The carve-outs showed executive trade policy being adjusted through exemptions that changed who bore the costs of tariffs. — 2025-12-30
 
-29. Local politicians in U.S. cities promoted reducing regulatory costs to support small businesses: Efforts to streamline permits and lower compliance costs aimed to boost small business formation, with implications for local economic dynamism and opportunity. — 2025-12-30
+29. OSHA expanded or proposed expanding Nationally Recognized Testing Laboratory authority and extended two information collections: The actions updated the private testing and paperwork framework through which workplace and product safety rules are administered. — 2025-12-31
 
-30. Japan’s government pursued multiple reforms to attract foreign direct investment and modernize its economy: Japan’s push for greenfield FDI, semiconductor subsidies, eased immigration, and ambitious FDI targets sought to revitalize growth and technological capacity in a democratic ally. — 2025-12-30
+30. The Environmental Protection Agency corrected fuel regulations and extended compliance deadlines for steam electric power plants: The actions adjusted the timing and clarity of environmental compliance duties for major energy and fuel sectors. — 2025-12-31
 
-31. Trump administration delayed higher tariffs on various consumer goods after exporter warnings: Postponing tariff hikes on items like furniture and cabinets, while touting tariffs as a success, revealed tensions between protectionist rhetoric and economic risk management. — 2026-01-02
+31. The DEA and HHS extended COVID-era telemedicine flexibilities for prescribing controlled substances through 2026: The extension preserved remote access to care while delaying a stricter in-person regulatory model for controlled medications. — 2025-12-31
+
+32. China imposed a 55 percent tariff on U.S. beef and reduced soybean purchases [single source]: The trade move increased pressure on U.S. farmers and showed how foreign tariff policy can reshape domestic economic constituencies. — 2025-12-31
+
+33. Enhanced Affordable Care Act tax credits expired and raised health insurance costs for millions: The expiration made coverage less affordable, weakening a public support structure that affects equal access to health and economic security. — 2026-01-01
+
+34. The Trump administration terminated the National Links Trust lease for public golf courses in Washington, D.C.: The termination disrupted management of a public asset and raised concerns about arbitrary control over public land and contracts. — 2026-01-01
+
+35. The Trump administration delayed higher tariffs on furniture and cabinets and reduced planned duties on Italian pasta [single source]: The tariff changes showed discretionary trade policymaking that can quickly shift costs for firms, consumers, and foreign partners. — 2026-01-01
+
+36. The Environmental Protection Agency approved Colorado air plan revisions, delegated NESHAP authority to Oklahoma, revised the taconite plan, and revoked a 2024 source reclassification rule: The package changed how air pollution rules are allocated and enforced across states and industries, affecting both local control and compliance burdens. — 2026-01-02
+
+37. The Food and Drug Administration revoked two COVID-19 test authorizations and barred generic approval for MYSOLINE suspension after finding it was withdrawn for safety reasons: The actions removed products from the regulatory pathway in the name of safety, shaping access to diagnostics and medicines. — 2026-01-02
+
+38. The General Services Administration updated mileage reimbursement rates and raised the minimal value threshold for foreign gifts: The updates changed routine federal compensation and ethics administration rules that structure everyday government operations. — 2026-01-02
+
+39. The Transportation Security Administration revised its pipeline security information collection: The revision strengthened the reporting framework used to oversee cybersecurity and security practices in critical energy infrastructure. — 2026-01-02
+
+40. The North Carolina General Assembly planned another round of tax cuts while delaying a full state budget [single source]: The plan shifted fiscal priorities toward tax reduction while putting pressure on child care, health costs, and other public services. — 2026-01-02
 
 
 Civil Rights and Dissent
 
-1. Immigration and Customs Enforcement detained and deported Oregon vineyard manager Moises Sotelo: Sotelo’s deportation disrupted his family and local business, illustrating how aggressive immigration enforcement can destabilize communities and livelihoods. — 2025-12-27
+1. Immigration enforcement officers dragged immigrants from cars and courthouse hallways: The tactics raised due process concerns by using force in spaces where people seek transit or legal process, increasing fear around basic civic access. — 2025-12-27
 
-2. Immigration enforcement officers forcibly removed immigrants from cars and courthouse hallways: Reports of immigrants being seized in public and judicial spaces highlighted due process concerns and the chilling effect on accessing courts and services. — 2025-12-27
+2. Indivisible urged the public to oppose administration policies targeting trans youth [single source]: The call reflected organized resistance to policies seen as narrowing equal treatment and bodily autonomy for a vulnerable group. — 2025-12-27
 
-3. Indivisible organized public comments opposing administration policies targeting trans youth: The campaign mobilized civic participation to resist policies seen as undermining transgender rights, reflecting civil society’s role in defending vulnerable groups. — 2025-12-27
+3. An Oklahoma prosecutor charged Cody Wayne Adams with first-degree manslaughter after a fatal stray-bullet shooting: The charge showed ordinary criminal accountability being applied after negligent gun use caused a civilian death. — 2025-12-28
 
-4. Department of Justice and USCIS prioritized and dramatically expanded denaturalization case referrals: Guidance to generate 100–200 denaturalization cases per month signaled a shift toward systematically challenging naturalized citizens’ status, heightening insecurity for immigrant communities. — 2025-12-30
+4. Artists canceled performances at the Kennedy Center in protest: The cancellations used cultural withdrawal as dissent against political control of a public institution. — 2025-12-30
 
-5. USCIS paused immigration proceedings for nationals of 19 travel-ban countries: Halting naturalization ceremonies and green-card interviews for listed nationalities, justified on security grounds, effectively froze many immigrants’ paths to status based on origin. — 2025-12-30
+5. Mar-a-Lago staff and former employees described allegations that young spa workers were sent to Jeffrey Epstein for house calls: The allegations pointed to possible exploitation of young women within an elite social setting, raising questions about protection and accountability. — 2025-12-31
 
-6. Federal magistrate judge ordered DC pipe bomb suspect Brian Cole Jr. held in pretrial detention: Detaining a January 5 pipe bomb suspect pending trial underscored the judiciary’s role in addressing threats tied to the Capitol attack while balancing public safety and rights. — 2026-01-02
+6. An off-duty ICE agent killed Keith Porter Jr.: The killing intensified scrutiny of immigration enforcement personnel and became a focal point for protest over state violence and accountability. — 2026-01-01
 
-7. Federal court held a detention hearing for DC pipe bomb suspect Brian Cole Jr.: The hearing weighed Cole’s mental health and risk factors, reflecting procedural safeguards even in politically charged domestic terrorism cases. — 2025-12-30
+7. The FBI announced it had thwarted a planned New Year's Eve attack in North Carolina: The case involved a plot targeting Jews, Christians, and LGBTQ+ people, underscoring the state's role in protecting vulnerable groups from political violence. — 2026-01-02
 
-8. Immigration and Customs Enforcement planned to expand detention capacity using warehouse-style facilities near logistics hubs: ICE’s move toward large warehouse detention centers, backed by long-term funding, industrialized immigration detention and raised concerns about due process and humane treatment. — 2025-12-29
-
-9. FBI deployed additional resources to Minnesota to investigate large-scale fraud schemes: Targeting fraud linked to Somali communities, including referrals for denaturalization, risked stigmatizing an immigrant group while pursuing legitimate financial crimes. — 2025-12-29
-
-10. Immigration and Customs Enforcement launched a $100 million media recruitment campaign for new agents: ICE’s ideologically targeted “wartime” recruitment drive, funded by a massive enforcement budget, expanded the state’s capacity to detain and deport, especially affecting immigrant communities. — 2025-12-31
-
-11. Trump administration expanded National Guard and militarized federal deployments to cities and later withdrew them after court rulings: Attempts to deploy, then withdraw, National Guard troops in Democratic-led cities over protests highlighted tensions between federal authority, state control, and the use of military force in civil contexts. — 2025-12-31
-
-12. Federal agents were deployed in military fatigues with assault rifles in major U.S. cities: The visible militarization of federal agents responding to protests raised fears of intimidation and suppression of lawful dissent. — 2025-12-27
-
-13. CIA conducted a drone strike on a Venezuelan port facility: The reported CIA strike, part of regime-change efforts, extended U.S. coercive power abroad and risked escalation without transparent authorization. — 2025-12-30
-
-14. U.S. military carried out strikes in Nigeria and Syria against Islamic State-linked militants: Framing the strikes as a “Christmas present” for IS militants and tied to protecting Christians, officials used religious rhetoric to justify ongoing overseas military operations. — 2025-12-28
-
-15. U.S. military attempted and failed to seize the oil tanker Bella 1 en route to Venezuela: The failed seizure, followed by Russian protection of the tanker, escalated tensions and illustrated risks of using military tools in economic and sanctions enforcement. — 2026-01-01
-
-16. President Donald Trump and Iranian officials exchanged threats amid protests and prior U.S. strikes on Iranian nuclear sites: Mutual threats between Trump and Iran’s leadership during deadly protests heightened the risk of broader conflict and framed foreign dissent within great-power confrontation. — 2026-01-01
-
-17. Kentucky State Police and prosecutors arrested Melinda S Spencer and charged her with fetal homicide after a self-managed abortion: Charging a woman for inducing her own abortion, despite state law not banning self-managed abortions, exposed how criminal law can be stretched to police reproductive autonomy. — 2026-01-02
-
-18. U.S. appeals court and Trump administration enabled defunding of Planned Parenthood Medicaid reimbursements in many states: Ending Medicaid funding for Planned Parenthood in 22 states and DC threatened access to reproductive and basic health services, especially for low-income women. — 2025-12-31
-
-19. Indivisible and allied activists organized a planned Long March against racial gerrymandering in North Carolina: The multi-day march aimed to spotlight Black voter disenfranchisement under the state’s maps, using protest to demand fair representation. — 2026-01-02
-
-20. Indivisible and other advocates urged support for the Block The Bombs Act to end U.S. funding for Israeli military actions: The campaign sought to leverage congressional power over foreign military financing to address humanitarian concerns in Palestine. — 2026-01-02
-
-21. Artists and performers canceled shows at the newly renamed Trump Kennedy Center in protest: Artist boycotts of the renamed cultural institution signaled resistance to perceived politicization and personal branding of a public arts venue. — 2025-12-30
-
-22. Public School Strong and allied groups organized to defend North Carolina public schools from legislative attacks: Grassroots organizing against state-level efforts to undermine public education highlighted civil society’s role in protecting civic institutions. — 2026-01-02
-
-23. U.S. law enforcement thwarted a planned New Year’s Eve terrorist attack in North Carolina: The arrest of a radicalized teenager planning attacks on Jews, Christians, and LGBTQ+ people showed counterterrorism efforts protecting targeted minorities and public safety. — 2026-01-02
-
-24. Cody Wayne Adams and Oklahoma authorities saw Adams charged with manslaughter after a negligent shooting killed a neighbor: The prosecution for a fatal stray bullet during target practice underscored legal accountability for unsafe gun use and broader debates over firearm regulation. — 2025-12-28
-
-25. U.S. criminal justice system recorded declining murder and violent crime rates since 2021–2022: Falling murder and violence rates improved public safety conditions, potentially easing pressure for punitive policies that can erode civil liberties. — 2025-12-27
-
-26. U.S. public health system and society achieved significant increases in life expectancy after prior declines: Rising life expectancy, driven by fewer overdoses, suicides, murders, and accidents, reflected improved health and safety outcomes that support social stability. — 2025-12-27
-
-27. Zohran Mamdani was sworn in as Mayor of New York City: The inauguration of a new NYC mayor marked a democratic transfer of local executive power and potential policy shifts in a major city. — 2026-01-01
-
-28. National Links Trust workers and DC residents faced job and service uncertainty after lease termination of public golf courses: The abrupt end of the golf course lease left workers and users in limbo, illustrating how governance decisions can quickly affect livelihoods and access to public space. — 2026-01-01
-
-29. Jeffrey Epstein and Mar-a-Lago staff were implicated in allegations of trafficking and exploitation involving spa workers: Reports that young spa workers were sent from Mar-a-Lago to Epstein’s home for sexual exploitation raised serious concerns about complicity and protection of vulnerable women and minors. — 2025-12-31
+8. North Carolina voting rights activists planned a Long March against gerrymandering [single source]: The planned march challenged racial disenfranchisement and used public protest to demand fair representation. — 2026-01-02
 
 
 Information, Memory and Manipulation
 
-1. CBS and 60 Minutes censored and removed an investigative report on CICOT from official channels: Pulling the CICOT investigation from broadcast and archives, despite viral bootlegs, highlighted how powerful media outlets can suppress reporting that may be politically sensitive. — 2025-12-27
+1. CBS removed an investigative report on CICOT from official channels: The removal limited access to reporting on a matter of public concern and highlighted pressure points in media gatekeeping. — 2025-12-27
 
-2. U.S. Department of Justice was accused of unlawfully limiting release of Jeffrey Epstein files through redactions and delays: Advocates charged that DOJ’s handling of Epstein records violated transparency laws, suggesting institutional reluctance to fully expose elite-linked wrongdoing. — 2025-12-27
+2. The Department of Justice was accused of redacting and limiting the release of Epstein files: The dispute raised concerns that politically sensitive records were being managed in ways that weakened transparency and public trust. — 2025-12-27
 
-3. Trump administration imposed visa bans on European anti-disinformation figures, labeling their work as censorship: Targeting foreign anti-disinformation advocates with visa bans sought to delegitimize and deter efforts to enforce platform rules and counter propaganda. — 2025-12-29
+3. Donald Trump claimed Israel's president had said a pardon for Benjamin Netanyahu was on its way: The disputed claim inserted an unverified statement into a sensitive rule-of-law matter involving a foreign leader facing criminal charges. — 2025-12-30
 
-4. Donald Trump and allies used deceptive fundraising emails disguised as surveys and threats about tariff rebate checks: Misleading supporters into donation funnels under the guise of surveys and false economic claims eroded trust and weaponized disinformation for political finance. — 2025-12-30
+4. Donald Trump amplified false Kremlin claims about Volodymyr Zelenskyy and Vladimir Putin [single source]: Repeating a fabricated foreign narrative distorted public understanding of an international conflict and weakened information integrity. — 2025-12-30
 
-5. President Donald Trump and the White House shared misleading images claiming wind turbines killed a bald eagle in the U.S.: Posting old foreign images as evidence of domestic wind turbine harms spread falsehoods about renewable energy from official channels, distorting environmental policy debates. — 2025-12-31
+5. Trump allies and campaign-linked senders used deceptive fundraising emails and surveys [single source]: The tactics blurred political communication and fraud-like solicitation, undermining trust in campaign messaging and informed consent. — 2025-12-30
 
-6. U.S. Department of Homeland Security used Japanese artist Hiroshi Nagai’s work without permission in a deportation-themed post: DHS’s unauthorized use of artwork to depict a tranquil post-deportation America raised ethical and legal concerns about state propaganda and intellectual property. — 2026-01-02
+6. The Department of Justice reviewed more than 5 million pages of Epstein-related documents and acknowledged additional undisclosed records: The scale and delay of the review raised accountability concerns about whether politically sensitive records were being fully and promptly disclosed. — 2025-12-31
 
-7. Trump administration was accused of underreporting and delaying disclosure of millions of Epstein documents: Shifting estimates and extended timelines for Epstein file releases suggested selective control over sensitive historical records involving powerful individuals. — 2025-12-31
+7. Donald Trump and an official White House account shared false imagery about wind turbines killing bald eagles [single source]: The posts spread false visual claims from high-level political channels, distorting public debate on energy policy. — 2025-12-31
 
-8. Trump administration amplified Kremlin narratives by falsely accusing Ukraine of attacking Putin’s residence: Trump’s repetition of debunked Russian claims about a Ukrainian attack undermined U.S. credibility and aligned domestic discourse with an authoritarian adversary’s propaganda. — 2025-12-30
+8. The Department of Homeland Security used a Japanese artist's work without permission in deportation messaging: The use of appropriated art in official propaganda-style messaging showed the state shaping public sentiment through unauthorized cultural imagery. — 2026-01-02
 
-9. Trump administration celebrated tariffs publicly while quietly implementing carve-outs and delays: The gap between tariff rhetoric and practice, including reduced effective rates and postponements, reflected manipulation of economic narratives for political gain. — 2025-12-30
+9. Republican leaders of the North Carolina Select Committee on Oversight and Reform attacked the Chapel Hill school district [single source]: The attack targeted a public education institution in a way that could chill local control over curriculum and school governance. — 2026-01-02
 
-10. Republican leaders of the NC Select Committee on Oversight and Reform framed oversight attacks on Chapel Hill schools as reform: Portraying aggressive scrutiny of a school district as necessary oversight contributed to a narrative that delegitimizes public education under the guise of accountability. — 2026-01-02
+10. The Environmental Protection Agency published a notice of availability for environmental impact statements: The notice preserved public access to environmental review records, supporting informed participation in federal decision-making. — 2026-01-02
+
+11. Donald Trump shopped for luxury stone for a White House ballroom: The episode drew attention to symbolic use of the presidency and how official space can be shaped around personal image and display. — 2026-01-02
+
+12. The House Oversight and Judiciary ecosystem around Jack Smith and Epstein records generated competing disclosures and accusations over politically sensitive documents [single source]: The week's document fights showed how control of records can become a central arena for shaping public memory and accountability. — 2025-12-31
 <!-- END GENERATED APPENDIX -->

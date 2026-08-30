@@ -5,8 +5,8 @@
     "start": "2025-03-29",
     "end": "2025-04-04"
   },
-  "clock_time_public": "7:56 p.m.",
-  "clock_delta_minutes": 0.4,
+  "clock_time_public": "7:33 p.m.",
+  "clock_delta_minutes": -0.2,
   "baseline_traits": [
     {
       "name": "character",
@@ -18,7 +18,7 @@
     },
     {
       "name": "restraint",
-      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
     },
     {
       "name": "truthfulness",
@@ -34,159 +34,227 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week saw a further erosion of democratic norms, with executive actions consolidating power and undermining accountability, while some judicial pushback provided limited resistance to these trends.",
+    "summary": "Week 11 shows the moral floor sagging under a combination of rhetorical, structural, and economic pressure. The president's repeated, public entertaining of a third term moved from norm violation into legislative proposal, while a unilaterally declared 'national emergency' was used to seize tariff and taxing authority historically reserved to Congress, triggering the largest two-day market collapse in modern history. Federal funds and agency services were wielded as retaliatory weapons against a noncompliant governor, law firms were coerced into settlements to avoid punitive orders, and senior officials attacked judges' legitimacy after adverse rulings. Truthfulness collapsed repeatedly and casually — from a fabricated Buffett endorsement to false claims about a wrongfully deported man's criminal history to contradictory tariff messaging. Courts, a bipartisan Senate majority, state attorneys general, and citizens pushed back with real, sometimes successful, resistance, but the initiative remained with the executive throughout.",
     "norms_broken": [
       {
-        "trait": "character",
-        "pattern": "Executive actions prioritized personal and political gain over public duty, particularly through punitive measures against institutions and individuals.",
-        "severity": "serious",
-        "institutional_response": "Judicial rulings provided some pushback, but overall institutional resistance was limited.",
+        "trait": "restraint",
+        "pattern": "The president declared a dubious national emergency to seize tariff authority from Congress, while displaying open contempt for the two-term constitutional limit through repeated public statements and a formal House resolution to enable a third term.",
+        "severity": "extreme",
+        "institutional_response": "A bipartisan Senate majority voted to rescind the Canada tariffs and senators introduced legislation to claw back tariff authority, but the House did not act and the tariffs stood; the Attorney General expressed private skepticism about the third-term push but no formal check was applied.",
         "exemplars": [
           {
-            "exemplar_id": "wk11_character_ex01",
+            "exemplar_id": "wk11_restraint_ex01",
+            "week": 11,
+            "event_ids": [
+              "wk11_PA_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk11_PA_004",
+                "development_label": "National emergency declared to impose sweeping global tariffs unilaterally",
+                "role": "primary"
+              }
+            ],
+            "summary": "The president invoked emergency powers to seize congressional taxing and trade authority, triggering historic market losses and bipartisan objection.",
+            "why_exemplary": "A tier1-verified, archive-grade use of manufactured emergency powers to bypass the legislature on a matter with sweeping economic consequence, directly testing self-limitation on executive reach.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk11_restraint_ex02",
             "week": 11,
             "event_ids": [
               "wk11_PA_001",
-              "wk11_CR_004"
+              "wk11_PA_002"
             ],
             "developments": [
               {
                 "development_id": "wk11_PA_001",
-                "development_label": "Canceled $400 million in federal funding to Columbia University to pressure changes in campus policies.",
+                "development_label": "President repeatedly declared intent to pursue a third term and claimed 'methods' exist",
                 "role": "primary"
               },
               {
-                "development_id": "wk11_CR_004",
-                "development_label": "Pursued deportation of Mahmoud Khalil, a pro-Palestinian activist, under rarely used immigration provisions.",
-                "role": "primary"
+                "development_id": "wk11_PA_002",
+                "development_label": "House Republican introduced formal constitutional amendment resolution for a third term",
+                "role": "secondary"
               }
             ],
-            "summary": "The cancellation of funding to Columbia and the deportation pursuit of Khalil exemplified prioritization of political narratives over public duty.",
-            "why_exemplary": "These actions illustrated a shift towards personal rule, undermining the integrity of public institutions.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "ethics",
-        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the use of executive power to extract concessions from institutions.",
-        "severity": "serious",
-        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk11_ethics_ex01",
-            "week": 11,
-            "event_ids": [
-              "wk11_PA_003",
-              "wk11_ES_007"
-            ],
-            "developments": [
-              {
-                "development_id": "wk11_PA_003",
-                "development_label": "Implemented budget cuts that weakened Native American institutions and tribal funding.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk11_ES_007",
-                "development_label": "Withdrew and reviewed massive federal grants for Columbia and Harvard over campus antisemitism claims.",
-                "role": "primary"
-              }
-            ],
-            "summary": "The cuts to tribal funding and the review of grants to elite universities blurred the lines between public office and private interests.",
-            "why_exemplary": "These actions exemplified a disregard for ethical boundaries, prioritizing personal and political interests.",
+            "summary": "Repeated presidential third-term rhetoric was followed by a formal legislative proposal to amend the two-term limit.",
+            "why_exemplary": "A tier1-verified progression from rhetoric to legislative process directly targeting the constitutional limit that underpins peaceful succession.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding immigration enforcement and economic policies.",
+        "pattern": "Senior officials, including the vice president and press secretary, made false public claims to justify a wrongful deportation; the president amplified a fabricated Warren Buffett endorsement of his tariff policy; and economic officials gave contradictory or false statements about tariff effects and price impacts.",
         "severity": "serious",
-        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
+        "institutional_response": "Berkshire Hathaway immediately and publicly denied the fabricated endorsement; media fact-checked the false gang-membership claims; no internal correction or accountability mechanism was applied by the administration itself.",
         "exemplars": [
           {
             "exemplar_id": "wk11_truthfulness_ex01",
             "week": 11,
             "event_ids": [
-              "wk11_IM_014",
-              "wk11_CR_005"
+              "wk11_IM_011"
             ],
             "developments": [
               {
-                "development_id": "wk11_IM_014",
-                "development_label": "Advanced narratives about noncitizen voting while reshaping election rules.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk11_CR_005",
-                "development_label": "Revoked residency statuses of international students without clear notice.",
+                "development_id": "wk11_IM_011",
+                "development_label": "President reposted a fabricated video claiming Warren Buffett endorsed his tariff policy",
                 "role": "primary"
               }
             ],
-            "summary": "The narratives around noncitizen voting and the revocation of residency statuses spread disinformation and undermined trust.",
-            "why_exemplary": "These actions embedded disinformation at the center of governance, undermining trust in governmental processes.",
+            "summary": "The president amplified a fabricated endorsement to bolster confidence in his economic policy during a market crash, immediately denied by the purported source.",
+            "why_exemplary": "A clear instance of spreading manufactured unreality on a matter of major public and financial consequence, promptly disproven by the named party.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk11_truthfulness_ex02",
+            "week": 11,
+            "event_ids": [
+              "wk11_CR_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk11_CR_012",
+                "development_label": "Vice President falsely claimed Abrego Garcia was a 'convicted' MS-13 member",
+                "role": "primary"
+              }
+            ],
+            "summary": "A sitting vice president spread a demonstrably false claim to justify an admitted wrongful deportation.",
+            "why_exemplary": "A multi-source-corroborated instance of senior officials substituting fabrication for accountability after admitting an administrative error.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "good_faith",
-        "pattern": "Executive orders undermined established legal frameworks and protections, particularly regarding immigration and civil rights.",
+        "pattern": "The administration coerced major law firms into settlements to avoid punitive executive orders, briefly weaponized federal funding and vital-records contracts against Maine in retaliation for a governor's noncompliance, and senior officials publicly attacked a federal judge as a 'Marxist' after an adverse ruling.",
         "severity": "serious",
-        "institutional_response": "Judicial challenges were initiated, but the executive's actions were largely unilateral.",
+        "institutional_response": "Twenty-one state attorneys general warned law firms against capitulation; a court later ordered the Maine funds unfrozen; public backlash forced reversal of the Social Security contract cancellations, but the underlying coercive pattern continued elsewhere.",
         "exemplars": [
           {
             "exemplar_id": "wk11_good_faith_ex01",
             "week": 11,
             "event_ids": [
-              "wk11_CR_009",
-              "wk11_CR_015"
+              "wk11_PA_008",
+              "wk11_PA_009"
             ],
             "developments": [
               {
-                "development_id": "wk11_CR_009",
-                "development_label": "Deported migrants to El Salvador under controversial legal authority.",
+                "development_id": "wk11_PA_008",
+                "development_label": "Agriculture Secretary froze federal education funding to Maine in retaliation",
                 "role": "primary"
               },
               {
-                "development_id": "wk11_CR_015",
-                "development_label": "Used subjective criteria to deport Venezuelans to El Salvador.",
+                "development_id": "wk11_PA_009",
+                "development_label": "SSA briefly canceled Maine vital-records contracts in retaliation, reversed after backlash",
                 "role": "primary"
               }
             ],
-            "summary": "The deportations based on arbitrary criteria politicized enforcement and undermined legal protections.",
-            "why_exemplary": "These actions disregarded established processes for justice, undermining the spirit of legal protections.",
+            "summary": "Two federal agencies briefly weaponized funding and essential services against a state as punishment for a governor's political defiance.",
+            "why_exemplary": "A multi-source-corroborated case of federal appropriations and services being turned into partisan retaliation tools, only partially reversed under public pressure.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk11_good_faith_ex02",
+            "week": 11,
+            "event_ids": [
+              "wk11_IG_008",
+              "wk11_IG_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk11_IG_008",
+                "development_label": "Stephen Miller and White House attacked Judge Xinis as a 'Marxist judge'",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk11_IG_009",
+                "development_label": "House Republicans displayed 'Wanted' posters of federal judges outside congressional offices",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Senior officials and members of Congress attacked judges' legitimacy and personal safety after adverse rulings on deportation cases.",
+            "why_exemplary": "A multi-source-corroborated pattern of delegitimizing judicial rulings through personal attack rather than appeal, undermining the spirit of an independent judiciary.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "stewardship",
-        "pattern": "The dismantling of oversight mechanisms and the removal of independent media weakened institutional accountability.",
+        "pattern": "Mass, hastily executed layoffs at HHS, EPA, and other agencies degraded public-health, environmental, and scientific capacity, with officials later admitting significant portions of the cuts were made in error; historical and cultural memory infrastructure was also defunded.",
         "severity": "serious",
-        "institutional_response": "Limited pushback from existing oversight bodies, highlighting a lack of resilience.",
+        "institutional_response": "Public health and labor groups sued NIH over the grant cancellations; courts blocked some firings; no broad administrative reversal occurred within the week.",
         "exemplars": [
           {
             "exemplar_id": "wk11_stewardship_ex01",
             "week": 11,
             "event_ids": [
-              "wk11_IM_002",
-              "wk11_IM_011"
+              "wk11_ES_008"
             ],
             "developments": [
               {
-                "development_id": "wk11_IM_002",
-                "development_label": "Opened investigations into NBC News, NPR, and PBS.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk11_IM_011",
-                "development_label": "Used funding leverage to reshape narratives on race and protest.",
+                "development_id": "wk11_ES_008",
+                "development_label": "Mass HHS layoffs across CDC, FDA, NIH, later admitted to be 20% erroneous",
                 "role": "primary"
               }
             ],
-            "summary": "The investigations into media outlets and directives to alter narratives undermined institutional capacity and accountability.",
-            "why_exemplary": "These actions stripped internal watchdogs of their power, reducing institutional capacity to investigate executive misconduct.",
+            "summary": "A sweeping, hastily executed purge of public health agencies degraded regulatory and scientific capacity, with the administration conceding significant errors.",
+            "why_exemplary": "A tier1-verified case of institutional capacity being damaged through careless mass action, harming future as well as present public-health protection.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk11_stewardship_ex02",
+            "week": 11,
+            "event_ids": [
+              "wk11_IM_016",
+              "wk11_IM_017"
+            ],
+            "developments": [
+              {
+                "development_id": "wk11_IM_016",
+                "development_label": "Funding terminated for library, museum, archive, and National History Day programs",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk11_IM_017",
+                "development_label": "400 volunteer experts dismissed from the congressionally mandated national climate assessment",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Cultural memory infrastructure and a legally required scientific assessment both lost federal support and expert staffing in the same week.",
+            "why_exemplary": "A multi-source-corroborated combination of cuts that damage both civic memory institutions and congressionally mandated scientific reporting capacity.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "The president held a $1 million-per-person fundraising dinner during a self-inflicted market crash, skipped a dignified transfer ceremony for fallen troops to attend a golf fundraiser, and exempted fossil fuel products from tariffs after receiving major oil-industry campaign contributions.",
+        "severity": "concerning",
+        "institutional_response": "Reported by multiple outlets; no formal ethics inquiry occurred within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk11_ethics_ex01",
+            "week": 11,
+            "event_ids": [
+              "wk11_PA_010",
+              "wk11_PA_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk11_PA_010",
+                "development_label": "$1 million-per-person super PAC fundraiser held at Mar-a-Lago during market crash",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk11_PA_011",
+                "development_label": "President skipped dignified transfer ceremony for fallen troops to attend golf fundraiser",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The president monetized personal access through a high-dollar fundraiser and prioritized a private golf event over honoring fallen service members.",
+            "why_exemplary": "A tier1-verified pairing of personal financial and leisure interests placed visibly ahead of public duty during a national economic crisis.",
             "exemplar_type": "primary"
           }
         ]
@@ -195,60 +263,122 @@
     "norms_strengthened": [
       {
         "trait": "good_faith",
-        "pattern": "Judicial actions temporarily blocked some of the administration's most aggressive moves, demonstrating a commitment to uphold legal norms.",
-        "scope": "institutional",
-        "why_it_matters": "These judicial interventions highlight the importance of checks and balances in resisting executive overreach.",
+        "pattern": "Twenty-one state attorneys general organized to warn law firms against capitulating to executive coercion, nineteen Democratic attorneys general sued over the election executive order, and a bipartisan Senate majority voted to rescind the Canada tariffs.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Coordinated legal and legislative pushback across party lines demonstrates that institutional channels for contesting executive overreach remained active and, in the Senate case, briefly bipartisan.",
         "exemplars": [
           {
-            "exemplar_id": "wk11_good_faith_ex01",
+            "exemplar_id": "wk11_good_faith_strength_ex01",
             "week": 11,
             "event_ids": [
-              "wk11_CR_001",
-              "wk11_CR_012"
+              "wk11_IG_016"
             ],
             "developments": [
               {
-                "development_id": "wk11_CR_001",
-                "development_label": "Ruled that Tufts student could not be deported without a court order.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk11_CR_012",
-                "development_label": "Temporarily blocked cuts to legal services for unaccompanied children.",
+                "development_id": "wk11_IG_016",
+                "development_label": "Senate passed 51-48 bipartisan resolution to rescind Canada tariffs",
                 "role": "primary"
               }
             ],
-            "summary": "Judicial rulings enforced prior restraining orders on deportations and agency functions, reaffirming judicial power to compel executive compliance.",
-            "why_exemplary": "These actions reinforced congressional control over appropriations and limited executive attempts to unilaterally suspend international commitments.",
+            "summary": "A rare bipartisan Senate vote pushed back against unilateral presidential tariff authority, with four Republicans joining Democrats.",
+            "why_exemplary": "Illustrates that cross-partisan legislative resistance to executive overreach remained possible, even if the measure ultimately faced defeat in the House.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk11_good_faith_strength_ex02",
+            "week": 11,
+            "event_ids": [
+              "wk11_IG_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk11_IG_011",
+                "development_label": "21 state attorneys general warned law firms against capitulating to executive pressure",
+                "role": "primary"
+              }
+            ],
+            "summary": "A bipartisan coalition of state AGs organized to defend the legal profession's independence from executive coercion.",
+            "why_exemplary": "A tier1-verified collective action defending rule-of-law norms threatened by coercive settlements extracted from major law firms.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "Federal courts continued to check executive overreach: blocking deportation actions, halting termination of TPS for Venezuelans on grounds of discriminatory stereotyping, ordering the return of a wrongfully deported legal resident, and staying illegal mass firings of probationary employees.",
+        "scope": "institutional",
+        "why_it_matters": "Sustained judicial willingness to constrain executive action despite direct attacks on judges' legitimacy shows that formal checks had not been fully neutralized.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk11_restraint_strength_ex01",
+            "week": 11,
+            "event_ids": [
+              "wk11_IG_007"
+            ],
+            "developments": [
+              {
+                "development_id": "wk11_IG_007",
+                "development_label": "Judge Xinis ordered the government to return Kilmar Abrego Garcia, ruling the deportation 'wholly lawless'",
+                "role": "primary"
+              }
+            ],
+            "summary": "A federal judge found the administration's deportation of a legal resident unconstitutional and ordered a remedy, directly testing executive compliance.",
+            "why_exemplary": "A tier1-verified ruling that squarely confronted an admitted administrative error with a concrete judicial remedy, despite subsequent executive attacks on the judge.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk11_restraint_strength_ex02",
+            "week": 11,
+            "event_ids": [
+              "wk11_IG_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk11_IG_005",
+                "development_label": "Judge Chen postponed termination of TPS for Venezuelan nationals, citing discriminatory stereotypes",
+                "role": "primary"
+              }
+            ],
+            "summary": "A court blocked mass revocation of protected status for a vulnerable population, calling the government's justification discriminatory.",
+            "why_exemplary": "A tier1-verified judicial check against a sweeping immigration policy shift grounded in unsubstantiated stereotyping.",
+            "exemplar_type": "secondary"
           }
         ]
       }
     ],
-    "direction_of_movement": "collapsing"
+    "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "Week 11 marks a continuation of the concerning trends established in previous weeks, with the consolidation of executive power and the aggressive use of executive actions to reshape governance. The administration's actions increasingly prioritize personal and political interests over public duty, exemplified by punitive measures against institutions and individuals. The erosion of accountability mechanisms, including the dismantling of oversight bodies and the politicization of the justice system, further exacerbates the risks to democratic integrity. However, judicial pushback indicates that some institutional resilience remains, albeit under significant threat.",
+    "narrative": "Week 11 extends and deepens the deteriorating trajectory documented through Week 10, shifting the primary axis of erosion from coercion against specific individuals and firms toward structural seizure of economic and constitutional authority. The declared trade 'emergency' and accompanying tariffs represent the most consequential single act of the period under review: a manufactured crisis used to claim powers the Constitution assigns to Congress, executed through a methodology widely criticized as incoherent, and producing immediate, severe economic harm. This sits alongside the most explicit presidential third-term talk yet, now backed by a formal legislative vehicle, testing the outer boundary of restraint on executive tenure.\n\nThe week's ethics and good-faith breaches continued the pattern of Week 10's transactional governance, but broadened its geographic and institutional reach: retaliation against a noncompliant state, coercion of the legal profession, and attacks on judicial legitimacy all recurred in sharper form. Truthfulness breaches grew more casual and public-facing — a fabricated market-moving endorsement, false gang-membership claims used to justify an admitted wrongful deportation, and contradictory tariff messaging — suggesting that manufactured unreality is becoming a routine tool of crisis management rather than an occasional lapse. Stewardship losses compounded prior damage to health, environmental, and now cultural-memory institutions, with the administration itself conceding a significant error rate in its own personnel purges.\n\nInstitutional resilience persisted and, in the case of the bipartisan Senate tariff vote and the multistate legal coalition defending law firms, briefly took a cross-partisan form not seen as clearly in prior weeks. Courts continued to constrain executive action on deportations, TPS, and probationary firings. But as in Week 10, this resistance remained reactive: it slowed or partially reversed specific actions without altering the overall direction, and the House's failure to act on the Senate's tariff resolution illustrates the limits of legislative pushback when one chamber will not follow through.",
     "trend": "deteriorating",
     "stress_points": [
-      "centralization of executive power",
-      "disinformation as a governance tool",
-      "erosion of civil rights protections",
-      "politicization of the civil service"
+      "unilateral seizure of congressional trade and taxing authority via manufactured emergency",
+      "explicit, escalating third-term rhetoric backed by formal legislative proposal",
+      "retaliatory withholding of federal funds and services against noncompliant states",
+      "coercion of law firms and delegitimization attacks on federal judges",
+      "routine dissemination of fabricated or false claims by senior officials",
+      "careless, error-prone mass reductions in public health and scientific capacity",
+      "defunding of cultural memory and climate-assessment institutions"
     ],
     "sources_of_resilience": [
-      "judicial pushback against executive orders",
-      "civil society mobilization against abuses",
-      "state-level legal challenges"
+      "bipartisan Senate vote to rescind unilateral tariffs",
+      "multistate coalition of attorneys general defending law firms and challenging federal overreach",
+      "continued judicial willingness to constrain deportations, TPS terminations, and unlawful firings",
+      "immediate public/corporate correction of fabricated claims (e.g., Berkshire Hathaway denial)",
+      "public backlash forcing reversal of retaliatory funding cuts against Maine",
+      "sustained civil-society and legal-profession resistance to coercion"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
+    "level": "severe",
+    "justification": "The moral floor faced its most structurally consequential test to date this week: a manufactured national emergency used to seize core congressional authority over trade and taxation, paired with the most explicit and legislatively backed third-term rhetoric of the term. Combined with routine fabrication by senior officials on matters of significant public and financial consequence, retaliatory use of federal funds against a dissenting state, and open delegitimization attacks on federal judges, these patterns indicate that restraint, truthfulness, and good faith are being breached as standard operating procedure rather than isolated incidents. Institutional resistance — a bipartisan Senate vote, a multistate legal coalition, and continued judicial intervention — remains real and at times cross-partisan, preventing full collapse, but it has not altered the overall direction of travel, and the House's refusal to act on the Senate's tariff rebuke illustrates the fragility of legislative checks.",
     "forward_signals": [
-      "increased executive orders bypassing legislative input",
-      "escalation of disinformation campaigns",
-      "further attempts to undermine civil rights protections"
+      "whether the House takes up the Trade Review Act or other tariff-authority clawback legislation",
+      "judicial rulings on the small-business lawsuit challenging the tariff emergency declaration",
+      "further developments in the third-term amendment resolution and any institutional response to it",
+      "outcome of the NIH and HHS grant-cancellation lawsuits",
+      "whether attacks on judges (Xinis, Boasberg) escalate into concrete retaliatory or impeachment action",
+      "whether retaliatory funding freezes against noncompliant states recur or expand beyond Maine"
     ]
   }
 }

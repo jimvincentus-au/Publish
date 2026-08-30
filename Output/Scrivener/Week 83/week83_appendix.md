@@ -1,0 +1,180 @@
+Week 83 Appendix: The Attorney General's Refusal
+This week showed accelerating consolidation of executive power alongside sustained institutional resistance. The Attorney General's explicit refusal to pledge DOJ independence, combined with continued weaponization of immigration courts, mass in-absentia deportations, and DOJ pursuit of previously dismissed charges against Kilmar Ábrego García, reveal deepening politicization of law enforcement. Financial self-dealing intensified with OCC approval of the Trump family's crypto banking charter and Treasury's elimination of anti-money-laundering shell company disclosure requirements. The administration escalated attacks on press freedom (ABC/Disney FCC lawsuit, Pentagon firing of Stars and Stripes journalists, White House assault on a CNN reporter and her children) while foreign policy grew erratic—threatening to bomb an ally (Oman), unilaterally reducing South Korea exercises, and claiming intent to annex the Strait of Hormuz. Courts, an emerging Democratic primary cycle, and falling approval ratings provided meaningful counterpressure, but the cumulative trajectory points toward entrenched executive impunity and eroding institutional guardrails.
+Week 83 Events
+Power and Authority
+
+1. Attorney General Todd Blanche refused to pledge that the Justice Department would act independently of the White House [single source]: The nation's top law enforcement officer publicly declined to promise independence from presidential direction, raising doubts about impartial application of federal law. — 2026-08-15
+
+2. Trump issued a memorandum ordering the Navy to revert to older steam-powered aircraft carrier catapults based on personal preference: A presidential directive overrode military engineering judgment on advanced warship technology, diverting resources based on personal taste rather than defense need. — 2026-08-16
+
+3. Trump proposed adding golden seals and other personal adornments to the White House grounds [single source]: Plans to alter the White House with ostentatious personal touches reflect the use of public property for individual self-glorification. — 2026-08-16
+
+4. Trump held a press conference threatening to bomb Oman, declaring intent to claim the Strait of Hormuz as U.S. territory, and dismissing reports of poor conditions aboard the USS Abraham Lincoln: The president combined threats of force against an allied nation with a claim to annex foreign waters, exercising war-making rhetoric without institutional check. — 2026-08-17
+
+5. Trump ordered a substantial reduction in joint U.S.-South Korea military exercises citing his personal relationship with Kim Jong Un: A unilateral scaling-back of a 73-year military alliance, driven by personal rapport with an adversary's leader rather than institutional strategy, drew bipartisan criticism for weakening deterrence. — 2026-08-17
+
+6. White House posted personal attacks on a CNN reporter, including references to her children, after she asked Trump a question: Official White House accounts used state communication channels to intimidate a journalist and her family for asking a routine question, chilling press scrutiny of the president. — 2026-08-17
+
+7. Pentagon threatened to cut federal funding to 30 universities unless they severed foreign academic partnerships within two weeks [single source]: Executive coercion of academic institutions over international research ties constrains institutional autonomy and chills lawful scientific exchange under a national-security pretext. — 2026-08-18
+
+8. Trump toured White House grounds showcasing personally overseen renovations, including materials donated by a campaign contributor [single source]: A presidential display of self-directed property changes, funded partly by a political donor, illustrates blending of private favor and public office. — 2026-08-20
+
+9. Trump organized a high-speed car race on Washington, D.C. streets requiring city infrastructure modifications: A presidential entertainment event disrupted the nation's capital and consumed public resources for personal spectacle rather than governance. — 2026-08-20
+
+10. Steven Cheung posted vulgar, personal attacks against Senator Jon Ossoff on social media [single source]: A senior White House official used official channels to demean a sitting senator with crude insults rather than substantive rebuttal, degrading political discourse. — 2026-08-19
+
+11. Trump misidentified a question about failed bond market intervention and responded with a threat of military action regarding Iran [single source]: The president's conflation of domestic economic policy with military threats against Iran raised concerns about basic competence and the risk of impulsive escalation. — 2026-08-21
+
+12. Trump refused to disclose which countries were party to a beef trade deal [single source]: Withholding basic terms of an international trade agreement from the public and press blocks scrutiny of whether the deal serves national or personal interests. — 2026-08-21
+
+
+Institutions and Governance
+
+1. Financial Crimes Enforcement Network terminated the congressionally mandated beneficial-ownership registry and destroyed all collected data: Treasury unilaterally dismantled a bipartisan anti-money-laundering tool enacted over presidential veto, obstructing law enforcement's ability to trace shell-company crime. — 2026-08-16
+
+2. EOIR (Executive Office for Immigration Review) scheduled mass immigration hearings with inadequate notice and issued tens of thousands of removal orders in absentia [single source]: Systemic denial of notice and hearing opportunity in immigration courts undermines due process and enables mass deportation without individualized review. — 2026-08-15
+
+3. Trump administration replaced over 100 immigration judges, many with higher relief-grant rates, with recruits marketed as "deportation judges" [single source]: Mass replacement of independent adjudicators with ideologically aligned appointees converts immigration courts into an enforcement arm rather than a neutral body. — 2026-08-15
+
+4. Senator Elizabeth Warren and nine colleagues introduced legislation to bar presidents, vice presidents, and senior officials from owning or controlling a bank [single source]: Congress responded to a regulator's approval of a presidential family banking charter by moving to legally bar future self-dealing of this kind. — 2026-08-18
+
+5. Representative James Comer threatened Leon Black with contempt of Congress for non-cooperation in the Epstein investigation: A House oversight chair's contempt threat against a reluctant witness tests the limits of legislative power to compel disclosure in a high-profile investigation. — 2026-08-20
+
+6. SCOTUS denied Trump's petition for rehearing in the E. Jean Carroll civil case for a second time: The Supreme Court's refusal to disturb a jury verdict against the president affirms that executive petition cannot overturn independent judicial findings. — 2026-08-17
+
+7. Judge Theodore D. Chuang vacated the FBI and GSA's reprogramming of $555 million for the Reagan Building relocation as unlawful: A federal court found agencies exceeded appropriations authority in relocating FBI headquarters, reinforcing congressional control over federal spending. — 2026-08-17
+
+8. Nashville, Columbus, El Paso, and Harris Counties filed a complaint challenging FEMA conditions tying grant funds to specific election administration mandates: Local governments sued to block federal conditioning of emergency funds on election procedures, challenging executive overreach into local election authority. — 2026-08-17
+
+9. Sunita Doddamani filed a federal complaint alleging she was fired as a federal prosecutor in retaliation for perceived political affiliation: A career prosecutor's lawsuit tests whether the executive branch may remove civil servants based on political beliefs rather than performance. — 2026-08-17
+
+10. Fourth Circuit Court of Appeals upheld an order limiting federal immigration enforcement at houses of worship: An appeals court affirmed judicial limits on executive immigration enforcement, protecting religious freedom against government overreach. — 2026-08-19
+
+11. Judge Michael McShane blocked DHS and FEMA from imposing DEI-related conditions on disaster-relief grants to the City of Salem: A federal court found executive conditions on emergency grant funding likely violated separation of powers and spending authority, limiting agency overreach. — 2026-08-20
+
+12. Judge Anthony J. Trenga blocked transfer of 17 million commercial driver's license records to federal custody and barred retaliation against non-complying states: A court halted a mass federal data grab from state driver's license systems, finding likely violations of privacy law and spending-clause limits. — 2026-08-20
+
+13. Democratic National Committee filed a FOIA lawsuit alleging DOJ failed to disclose records on plans to seize voting machines and ballots: A political party's lawsuit seeks transparency on executive branch conduct toward election infrastructure amid presidential statements about seizing voting machines. — 2026-08-20
+
+14. Chief Justice John Roberts stayed a lower court injunction, allowing White House ballroom construction to continue pending Supreme Court review: The Supreme Court temporarily overrode an appellate finding that congressional approval was required for a major presidential construction project, raising separation-of-powers questions. — 2026-08-21
+
+15. DOJ filed an appeal seeking to reinstate previously dismissed criminal charges against Kilmar Ábrego García [single source]: Pursuit of charges a judge called vindictive against a man who won a wrongful-deportation challenge raises concerns of prosecutorial retaliation against a former target of executive error. — 2026-08-18
+
+16. DOJ defended its prosecution of former FBI Director James Comey over an ambiguous social media post: The Justice Department's continued pursuit of a criminal case over a seashell social media image raises concerns about using prosecutorial power against a prominent critic. — 2026-08-20
+
+17. Minnesota Attorney General Keith Ellison sued Texas Governor Greg Abbott to compel extradition of an ICE agent charged with shooting and perjury: An interstate legal dispute over extraditing a federal immigration agent accused of lying about a shooting tests accountability mechanisms for law enforcement misconduct. — 2026-08-18
+
+18. Various courts issued multiple procedural rulings in ongoing litigation over immigration detention, data transfers, and TPS terminations: Several pending federal cases advanced through amended complaints, injunctions, and appeals, reflecting sustained legal challenges to administration immigration and data policies. — 2026-08-17
+
+19. James Comer led House Oversight Committee questioning of Epstein-related witness under threat of formal sanction: Ongoing congressional oversight into Epstein-related financial dealings continued to test the limits of legislative subpoena power against uncooperative witnesses. — 2026-08-20
+
+
+Economic Structure
+
+1. General Dynamics received $533 million in taxpayer funds for an artillery factory that never produced a usable shell, without repayment or public accountability [single source]: A major defense contractor kept hundreds of millions in public funds for a failed project with no consequence, illustrating weak oversight of military spending. — 2026-08-15
+
+2. Energy Fuels CEO purchased 74,000 shares of his company one week before the administration shrank Bears Ears National Monument to benefit uranium mining [single source]: The timing of an executive's stock purchase relative to a favorable regulatory decision raises questions of insider knowledge and conflicts of interest in environmental policy. — 2026-08-15
+
+3. Office of the Comptroller of the Currency approved a preliminary bank charter for World Liberty Financial, a crypto venture controlled by the Trump family: A Trump-appointed regulator granted a banking charter to a venture that has funneled over $1.6 billion to the president's family, a stark instance of regulatory self-dealing. — 2026-08-16
+
+4. Department of Energy depleted the Strategic Petroleum Reserve to a four-decade low in response to Iran-war-driven supply disruption: Rapid drawdown of the nation's emergency oil reserve risks permanent infrastructure damage and weakens future capacity to respond to energy crises. — 2026-08-16
+
+5. Trump offered paid subscriptions granting early access to presidential announcements on war, peace, and economic policy: Monetizing advance notice of consequential government decisions creates a pay-to-play system benefiting wealthy subscribers over the general public. — 2026-08-16
+
+6. Trump purchased millions in stock during a market crash he caused with tariffs, then canceled the tariffs hours after urging the public to buy [single source]: A documented pattern of using presidential authority over tariffs to profit personally from resulting market swings constitutes a clear conflict of interest. — 2026-08-16
+
+7. U.S. Forest Service filed a proposal to rescind the 25-year-old Roadless Area Conservation Rule protecting 45 million acres of national forest: Rolling back a longstanding conservation rule would open protected forests to logging and drilling, reducing long-term environmental stewardship of public lands. — 2026-08-18
+
+8. National debt passed $40 trillion, with over $1 trillion spent annually on interest payments: Record national debt and interest costs exceeding defense spending reflect a fiscal trajectory that constrains future governance and economic stability. — 2026-08-19
+
+9. Judge Stephen Wilson ruled that a California offshore oil pipeline could continue operating under a federal Defense Production Act order, overriding state opposition: A federal court subordinated state environmental authority to an emergency executive order, setting precedent for federal override of state energy and environmental control. — 2026-08-21
+
+10. Market conditions pushed gasoline to $4.11 per gallon and diesel to $5.57 per gallon, near record highs [single source]: Elevated fuel prices linked to ongoing conflict directly burden household budgets and signal broader economic strain on the public. — 2026-08-21
+
+11. Market conditions drove school lunch costs up 11 percent, with staple items rising 15 to 22 percent [single source]: Rising food costs for basic school meals disproportionately burden low-income families, deepening food insecurity for children. — 2026-08-21
+
+12. California assembly passed legislation requiring diaper manufacturers to disclose toxic chemicals [single source]: State-level consumer protection legislation forces disclosure of hazardous chemicals in products used by infants, expanding transparency and market accountability. — 2026-08-16
+
+13. California Energy Commission unanimously approved efficiency standards for replacement tires: A state regulatory body advanced independent environmental standards despite federal opposition to California's climate policies, demonstrating state capacity to act on public goods. — 2026-08-20
+
+14. Philip Pilkington reported that a U.S. Treasury intervention to prop up the yen had failed, risking Japanese liquidation of U.S. Treasuries [single source]: A failed currency intervention and anticipated foreign sell-off of U.S. debt point to weakening confidence in American financial management. — 2026-08-18
+
+15. Various federal agencies conducted routine regulatory actions including pesticide tolerances, food additive approvals, medical device reclassification, and information collection reviews: A large volume of ordinary administrative rulemaking continued across agencies, reflecting the baseline machinery of federal regulatory governance. — 2026-08-17
+
+
+Civil Rights and Dissent
+
+1. ICE (Immigration and Customs Enforcement) conducted arrests inside immigration courthouses despite a recognized chilling effect on due process: Using courthouses as enforcement zones discourages immigrants from appearing to defend their cases, effectively denying access to justice for a vulnerable population. — 2026-08-15
+
+2. Trump administration detained at least 60 immigrant children beyond the legal 20-day limit at a Texas detention center [single source]: Prolonged detention of children well past statutory limits raises serious concerns about compliance with child-protection law and humanitarian standards. — 2026-08-15
+
+3. San Francisco District Attorney / jury convicted and imprisoned an anti-AI protester for a 2025 sit-in at OpenAI headquarters [single source]: The first criminal imprisonment of an AI-safety protester in the U.S. tests the boundaries of permissible nonviolent dissent against corporate technology development. — 2026-08-16
+
+4. GEO Group operated a detention facility with inadequate sanitation, scarce water, and delayed medical care for detained women [single source]: Documented inhumane conditions in a privately run immigration detention center reveal systemic failures in oversight of detainee welfare. — 2026-08-16
+
+5. Immigration and Customs Enforcement arrested a Russian national with a pending green card application and no criminal history at an airport [single source]: Detention of an immigrant with active legal status and no criminal record illustrates expanding enforcement that separates families with pending cases. — 2026-08-16
+
+6. DOJ announced deployment of 1,000 election monitors to polling places, citing unproven voter fraud concerns [single source]: A large-scale federal monitor deployment justified by later-debunked fraud claims raises concerns about voter intimidation during a critical midterm election. — 2026-08-18
+
+7. DHS downgraded its claim of thousands of non-citizen voters in Nevada to just 185 after election officials pressed for evidence: A dramatic retreat from sweeping public claims of non-citizen voting exposes weak evidentiary basis behind election-integrity rhetoric used to justify federal intervention. — 2026-08-21
+
+8. ICE detained a boat captain facing criminal charges and announced intent to deport him before trial concluded: Using immigration status as a tool alongside active criminal prosecution raises questions about separating criminal justice from immigration enforcement. — 2026-08-20
+
+9. Trump administration sent the first group of deportees to Liberia under a third-country agreement, including people who are not Liberian citizens: Expanding third-country deportations to send non-nationals to unrelated countries raises due-process and treatment concerns for deportees. — 2026-08-21
+
+10. Christian nationalists in Trump administration proposed repealing women's constitutional right to vote in favor of household voting [single source]: A reported proposal to reverse the Nineteenth Amendment strikes directly at the foundation of equal citizenship and voting rights for women. — 2026-08-19
+
+11. Larry Montes charged with hate crimes after assaulting a woman and security guard at a Manhattan synagogue [single source]: A hate crime attack on worshippers at a religious institution represents a direct assault on the safety of a religious minority community. — 2026-08-15
+
+12. Local communities rejected or canceled at least 56 Flock automated license plate reader contracts in 2026: Widespread municipal rejection of mass vehicle surveillance contracts reflects organized public pressure against expanding surveillance infrastructure. — 2026-08-21
+
+13. Wynd Kaufmyn (via San Francisco proceedings) and related civil-society actors activists and communities continued organizing against surveillance and AI expansion [single source]: Civil-society resistance to AI development and surveillance technology continued despite criminal consequences for protest participants. — 2026-08-16
+
+
+Information, Memory and Manipulation
+
+1. Trump staged a photo-op showing a drug price headline while omitting that the article credited Biden's policy for the price drop [single source]: The president misrepresented a news article to falsely claim personal credit for a policy outcome driven by his predecessor's law, distorting public understanding of governance. — 2026-08-15
+
+2. President Trump made false public claims about inflation, Iran, and control of the Strait of Hormuz: Demonstrably false presidential statements about economic conditions and geopolitical control undermine informed public discourse and accountability. — 2026-08-15
+
+3. Polymarket spread a false claim that U.S. babies receive 72 vaccine injections [single source]: A platform marketed as a truth-verification tool instead disseminated false health information that could undermine public confidence in vaccines. — 2026-08-15
+
+4. Trump administration canceled Alzheimer's research grants studying how racism and discrimination affect brain health [single source]: Cancellation of federally funded research into racism's health effects suppresses disfavored scientific inquiry and narrows permissible public knowledge. — 2026-08-17
+
+5. Pete Hegseth made escalating false public claims about Iranian military destruction and war objectives being achieved [single source]: A senior defense official's repeated false claims about military progress undermine public trust and informed consent for continued war operations. — 2026-08-16
+
+6. Trump posted numerous false or misleading statistical claims about crime, jobs, and drug prices [single source]: A pattern of inflated and false statistics from the president distorts public understanding of the nation's economic and safety conditions. — 2026-08-16
+
+7. Trump attacked Fox News host Shannon Bream for insufficiently favorable coverage: Presidential pressure on a friendly network's host for airing critical guests illustrates efforts to shape even sympathetic media coverage. — 2026-08-16
+
+8. Trump made false claims with RFK Jr. that childhood vaccines cause autism and that the MMR vaccine is lethal: Presidential and cabinet-level dissemination of vaccine misinformation threatens public health authority and risks endangering children. — 2026-08-16
+
+9. ABC, The Walt Disney Company, and eight ABC-owned stations sued the FCC alleging First Amendment retaliation over broadcast license renewal demands: A major broadcaster's lawsuit alleges the government weaponized licensing authority to punish disfavored editorial coverage, testing press-freedom protections. — 2026-08-18
+
+10. Scott Jennings posted a heavily edited, misleading video misrepresenting a political commentator's sarcastic remarks as calls for violence [single source]: Deliberate selective editing to misrepresent a political opponent's statements spreads disinformation and inflames political discourse. — 2026-08-17
+
+11. Republican newspapers published inflammatory warnings framing tariff reduction as a necessary hardship lesson for workers [single source]: Partisan media outlets used alarmist rhetoric to shape public perception of economic policy, prioritizing political messaging over balanced reporting. — 2026-08-17
+
+12. Trump posted AI-generated images falsely declaring the Strait of Hormuz "NEW U.S. Territory" while claiming it was already open and operating: Presidential dissemination of fabricated imagery about a geopolitical crisis undermines factual governance and public understanding of a critical international dispute. — 2026-08-18
+
+13. Ryan Zinke attributed domestic criticism of AI data centers to foreign adversaries without evidence [single source]: Blaming legitimate public criticism on foreign interference without proof works to delegitimize domestic dissent over technology policy. — 2026-08-18
+
+14. Trump insulted Senator Jon Ossoff with derisive nicknames after Ossoff criticized his conduct [single source]: Presidential resort to juvenile insults instead of substantive rebuttal exemplifies degraded discourse in response to legitimate political criticism. — 2026-08-19
+
+15. Trump and allies launched a coordinated, disproportionate media response to a senator's passing rally remark about a presidential aide [single source]: An orchestrated pressure campaign to suppress a minor political remark inadvertently drew wider attention to the underlying story, illustrating attempted narrative control. — 2026-08-21
+
+16. Centers for Disease Control and Prevention scaled back foodborne illness surveillance from eight pathogens to two: Reduced federal disease-tracking capacity degraded the nation's ability to detect and respond to public health threats, contributing to a documented outbreak. — 2026-08-21
+
+17. Robert F. Kennedy Jr. promoted alternative health remedies over vaccines and dismissed CDC data as outdated [single source]: The health secretary's rejection of evidence-based public health guidance threatens disease prevention infrastructure and risks preventable outbreaks. — 2026-08-21
+
+18. Pentagon fired the publisher, editor, and a reporter of Stars and Stripes for insubordination after coverage of USS Abraham Lincoln conditions: Terminating journalists at a military news outlet for defending editorial independence represents direct retaliation against a free press within the armed forces. — 2026-08-21
+
+19. Trump threatened a $5 billion lawsuit against a think tank unless it retracted a factual report on National Guard deployment costs: A legal threat against an independent research organization for publishing critical policy analysis aims to suppress factual scrutiny of government spending. — 2026-08-21
+
+20. Brendan Carr coordinated with the White House and right-wing media on broadcast license matters [single source]: Documented coordination between the FCC chair and the White House on license decisions undermines regulatory independence and suggests political retaliation against disfavored broadcasters. — 2026-08-20
+
+21. Texas third court of appeals reduced a $50 million Sandy Hook defamation judgment against Alex Jones to $1.5 million: A sharply reduced damages award against a prominent conspiracy theorist weakens the deterrent effect of civil liability for spreading false claims about mass tragedy. — 2026-08-21
+
+22. Natalie Harp worked at the White House for over a year without required security clearance while filtering the president's information access [single source]: An unvetted aide's extensive control over the flow of information to the president raises national security concerns and questions about manipulation of presidential decision-making. — 2026-08-20
+
+23. Marco Rubio announced sanctions against the International Criminal Court's president and a senior prosecutor over Gaza investigations: Sanctioning international court officials investigating alleged war crimes undermines the independence of global accountability institutions. — 2026-08-18

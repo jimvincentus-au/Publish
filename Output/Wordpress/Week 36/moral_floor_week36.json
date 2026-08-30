@@ -1,12 +1,12 @@
 {
   "week_number": 36,
-  "period_label": "Week 36 – 2025-09-20–2025-09-26",
+  "period_label": "Week 36",
   "window": {
     "start": "2025-09-20",
     "end": "2025-09-26"
   },
-  "clock_time_public": "8:08 p.m.",
-  "clock_delta_minutes": 0.0,
+  "clock_time_public": "7:42 p.m.",
+  "clock_delta_minutes": 0.2,
   "baseline_traits": [
     {
       "name": "character",
@@ -34,221 +34,501 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week saw a significant erosion of the moral floor, with multiple breaches across several traits reflecting a deepening normalization of authoritarian practices and the use of state power for partisan ends.",
+    "summary": "The week showed a further lowering of the moral floor through direct attempts to use public power for retaliation, broad security framing against dissent, repeated official falsehoods, and damage to oversight and institutional credibility. The pattern was not a single rupture but a coordinated style of conduct: law enforcement, media regulation, immigration machinery, and public information were all pressed toward personal, partisan, or coercive ends. Resistance remained visible in courts, some lawmakers, local officials, journalists, and public backlash, but it was mostly reactive and did not restore a shared ethic of self-limitation.",
     "norms_broken": [
       {
         "trait": "character",
-        "pattern": "Executive actions prioritized political interests over public duty, particularly through punitive measures against dissent.",
+        "pattern": "Senior officials repeatedly treated office as an instrument for punishing rivals and rewarding loyalty rather than honoring the duty to use state power impartially.",
         "severity": "serious",
-        "institutional_response": "Limited pushback from courts and Congress, indicating a lack of effective oversight.",
+        "institutional_response": "Some lawmakers criticized the conduct and some affected officials sued or resisted, but the executive pattern was publicly defended and operationalized rather than checked at the source.",
         "exemplars": [
           {
             "exemplar_id": "wk36_character_ex01",
             "week": 36,
             "event_ids": [
               "wk36_PA_001",
-              "wk36_PA_006"
+              "wk36_PA_017"
             ],
             "developments": [
               {
                 "development_id": "wk36_PA_001",
-                "development_label": "Signed an executive order designating Antifa as a domestic terrorist organization.",
+                "development_label": "Demanded that the Justice Department prosecute political opponents",
                 "role": "primary"
               },
               {
-                "development_id": "wk36_PA_006",
-                "development_label": "Publicly pressured the Justice Department to prosecute named political opponents.",
+                "development_id": "wk36_PA_017",
+                "development_label": "Announced that he expected more political adversaries to face criminal charges",
                 "role": "secondary"
               }
             ],
-            "summary": "The administration's actions exemplified a shift towards using state power for personal political gain.",
-            "why_exemplary": "These actions illustrated a disregard for the integrity of public institutions, undermining democratic norms.",
+            "summary": "The president publicly demanded prosecutions of rivals and forecast more charges to come.",
+            "why_exemplary": "This is a direct failure of oath-bound discipline: criminal process was framed as a tool of political combat rather than neutral public duty.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk36_character_ex02",
+            "week": 36,
+            "event_ids": [
+              "wk36_PA_004",
+              "wk36_PA_018"
+            ],
+            "developments": [
+              {
+                "development_id": "wk36_PA_004",
+                "development_label": "Directed appointment of Lindsey Halligan to pursue charges against rivals",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk36_PA_018",
+                "development_label": "Demanded that Microsoft fire Lisa Monaco",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Appointment and pressure powers were used to pursue retaliation inside and outside government.",
+            "why_exemplary": "The conduct shows office used to enforce personal loyalty and punish disfavored figures, not to serve an impartial constitutional role.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "ethics",
-        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the use of executive power to punish dissenting institutions and individuals.",
-        "severity": "serious",
-        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
+        "pattern": "Public decisions and discretionary powers continued to overlap with private benefit and insider advantage, blurring the line between state action and personal or allied gain.",
+        "severity": "concerning",
+        "institutional_response": "The digest shows reporting and some oversight interest, but no strong enforcement response restoring a clear ethical boundary.",
         "exemplars": [
           {
             "exemplar_id": "wk36_ethics_ex01",
             "week": 36,
             "event_ids": [
-              "wk36_PA_003",
-              "wk36_PA_019"
+              "wk36_ES_006",
+              "wk36_PA_015"
             ],
             "developments": [
               {
-                "development_id": "wk36_PA_003",
-                "development_label": "Ordered a lethal strike on a Venezuelan vessel without providing supporting evidence.",
+                "development_id": "wk36_ES_006",
+                "development_label": "Announced politically connected preferred buyers for TikTok's U.S. operations",
                 "role": "primary"
               },
               {
-                "development_id": "wk36_PA_019",
-                "development_label": "Redirected and prepared large foreign aid packages outside normal appropriations channels.",
+                "development_id": "wk36_PA_015",
+                "development_label": "Suspended enforcement of the TikTok divestiture law for 120 days",
                 "role": "secondary"
               }
             ],
-            "summary": "The administration's actions exemplified a disregard for ethical boundaries.",
-            "why_exemplary": "These actions demonstrated a willingness to use public resources as tools for political leverage and personal gain.",
+            "summary": "A major platform sale was steered toward connected buyers while statutory enforcement was paused.",
+            "why_exemplary": "This pairing raises a classic conflict-of-interest concern: presidential discretion shaped a valuable market outcome benefiting favored insiders.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk36_ethics_ex02",
+            "week": 36,
+            "event_ids": [
+              "wk36_ES_055"
+            ],
+            "developments": [
+              {
+                "development_id": "wk36_ES_055",
+                "development_label": "Expedited FEMA aid after contact from a political donor",
+                "role": "primary"
+              }
+            ],
+            "summary": "Disaster funds were reportedly fast-tracked after donor intervention.",
+            "why_exemplary": "Allocating public resources in a donor-responsive way undermines the boundary between public need and political access.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "restraint",
-        "pattern": "The administration's aggressive use of executive orders and punitive measures against dissenting voices showed a lack of self-limitation.",
-        "severity": "serious",
-        "institutional_response": "Limited checks from Congress or courts, indicating a weakening of institutional norms.",
+        "pattern": "Executive actors repeatedly chose expansive, coercive, or retaliatory uses of power where democratic self-limitation would have required narrower conduct.",
+        "severity": "extreme",
+        "institutional_response": "Courts, local officials, and some public criticism resisted at the margins, but the dominant pattern was aggressive power-testing across multiple domains.",
         "exemplars": [
           {
             "exemplar_id": "wk36_restraint_ex01",
             "week": 36,
             "event_ids": [
-              "wk36_PA_002",
+              "wk36_PA_009",
+              "wk36_PA_014"
+            ],
+            "developments": [
+              {
+                "development_id": "wk36_PA_009",
+                "development_label": "Designated antifa as a domestic terrorist organization by executive order",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk36_PA_014",
+                "development_label": "Issued memorandum targeting alleged domestic terrorism and organized political violence",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Broad terrorism authorities were extended toward a decentralized protest tendency and associated civil society.",
+            "why_exemplary": "This shows refusal to self-limit: security powers were widened against loosely defined political opposition, increasing surveillance and punishment risks.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk36_restraint_ex02",
+            "week": 36,
+            "event_ids": [
+              "wk36_PA_003",
               "wk36_PA_008"
             ],
             "developments": [
               {
-                "development_id": "wk36_PA_002",
-                "development_label": "Issued a presidential memorandum targeting alleged leftwing domestic terror networks.",
+                "development_id": "wk36_PA_003",
+                "development_label": "Threatened to federalize law enforcement in Washington, DC",
                 "role": "primary"
               },
               {
                 "development_id": "wk36_PA_008",
-                "development_label": "Canceled meetings with Democratic leaders on government funding negotiations.",
+                "development_label": "Deployed National Guard troops to Memphis",
                 "role": "secondary"
               }
             ],
-            "summary": "The use of executive power to bypass legislative negotiations exemplified a lack of restraint.",
-            "why_exemplary": "These actions illustrated a disregard for the limits of executive authority and the need for checks on power.",
-            "exemplar_type": "primary"
+            "summary": "Federal and military-style power was pushed deeper into local domestic policing contexts.",
+            "why_exemplary": "The pattern reflects maximalist executive reach into civilian governance rather than respect for federal-local boundaries and norm-based restraint.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding dissent and national security.",
-        "severity": "serious",
-        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
+        "pattern": "High-level officials repeatedly spread false, unsupported, or conspiratorial claims on matters of public consequence, while some agencies also reduced access to factual public records.",
+        "severity": "extreme",
+        "institutional_response": "Fact-checkers, experts, some lawmakers, and outside institutions corrected parts of the record, but official misinformation remained frequent and consequential.",
         "exemplars": [
           {
             "exemplar_id": "wk36_truthfulness_ex01",
             "week": 36,
             "event_ids": [
-              "wk36_IM_005",
-              "wk36_IM_013"
+              "wk36_IM_031",
+              "wk36_IM_033"
             ],
             "developments": [
               {
-                "development_id": "wk36_IM_005",
-                "development_label": "Promoted unproven claims linking acetaminophen use in pregnancy to autism.",
+                "development_id": "wk36_IM_031",
+                "development_label": "Delivered a UN speech containing multiple false claims",
                 "role": "primary"
               },
               {
-                "development_id": "wk36_IM_013",
-                "development_label": "Used UN and domestic speeches to spread misinformation about migration and climate.",
+                "development_id": "wk36_IM_033",
+                "development_label": "Fact-checked Trump's false claims about investment, China, Congo-Rwanda, electricity, and grocery prices",
                 "role": "secondary"
               }
             ],
-            "summary": "The normalization of false claims about public health and migration exemplified a significant erosion of truthfulness.",
-            "why_exemplary": "These actions embedded disinformation at the center of governance, undermining trust in governmental processes.",
+            "summary": "A major presidential speech carried multiple false claims later rebutted by independent fact-checking.",
+            "why_exemplary": "Falsehoods delivered from a premier international platform degrade the public's factual baseline and the credibility of official national representation.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk36_truthfulness_ex02",
+            "week": 36,
+            "event_ids": [
+              "wk36_IM_019",
+              "wk36_IM_045"
+            ],
+            "developments": [
+              {
+                "development_id": "wk36_IM_019",
+                "development_label": "Announced acetaminophen restrictions and FDA warning based on unsupported autism claims",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk36_IM_045",
+                "development_label": "Posted medical misinformation advising against Tylenol and routine vaccine schedules",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Unsupported medical claims were amplified through presidential and federal health messaging.",
+            "why_exemplary": "This is a direct breach of truthfulness on high-stakes public health matters, risking governance by manufactured unreality rather than evidence.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
         "trait": "good_faith",
-        "pattern": "The administration's actions undermined the spirit of democratic rules, particularly in election processes and judicial independence.",
+        "pattern": "Formal powers and procedures were used in ways that defeated the spirit of neutral law, fair representation, and ordinary interbranch bargaining.",
         "severity": "serious",
-        "institutional_response": "Limited institutional resistance, with some courts attempting to uphold democratic norms.",
+        "institutional_response": "Some oversight inquiries and public criticism emerged, but several procedural distortions were enabled or left in place by allied institutions.",
         "exemplars": [
           {
             "exemplar_id": "wk36_good_faith_ex01",
             "week": 36,
             "event_ids": [
-              "wk36_IG_004",
-              "wk36_CR_006"
+              "wk36_IG_023"
             ],
             "developments": [
               {
-                "development_id": "wk36_IG_004",
-                "development_label": "Dismissed President Trump’s $15 billion defamation lawsuit against the New York Times.",
+                "development_id": "wk36_IG_023",
+                "development_label": "Delayed swearing in Adelita Grijalva after her special-election win",
+                "role": "primary"
+              }
+            ],
+            "summary": "An elected member's seating was delayed, denying constituents timely representation.",
+            "why_exemplary": "Even if procedurally defensible, withholding a duly won seat defeats the democratic purpose of representation and fair legislative process.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk36_good_faith_ex02",
+            "week": 36,
+            "event_ids": [
+              "wk36_IG_025"
+            ],
+            "developments": [
+              {
+                "development_id": "wk36_IG_025",
+                "development_label": "Canceled meetings with Democratic leaders on preventing a government shutdown",
+                "role": "primary"
+              }
+            ],
+            "summary": "Ordinary funding negotiations were called off as shutdown risk grew.",
+            "why_exemplary": "Good-faith governance requires real bargaining over basic state continuity; using breakdown risk as leverage violates that spirit.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "The week brought further damage to institutional independence, oversight capacity, public records, and the long-term credibility of neutral administration.",
+        "severity": "extreme",
+        "institutional_response": "Courts, local officials, and some legislative actors preserved records and challenged abuses, but the cumulative institutional wear remained substantial.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk36_stewardship_ex01",
+            "week": 36,
+            "event_ids": [
+              "wk36_CR_032",
+              "wk36_CR_026"
+            ],
+            "developments": [
+              {
+                "development_id": "wk36_CR_032",
+                "development_label": "Dismantled the Office for Civil Rights and Civil Liberties and the Immigration Detention Ombudsman",
                 "role": "primary"
               },
               {
-                "development_id": "wk36_CR_006",
-                "development_label": "Filed lawsuits to seize extensive voter information from resistant states.",
+                "development_id": "wk36_CR_026",
+                "development_label": "Held Ismael Ayala-Uribe in custody until he died after reported illness and surgery",
                 "role": "secondary"
               }
             ],
-            "summary": "Judicial decisions limiting executive overreach exemplified a breach of good faith in democratic processes.",
-            "why_exemplary": "These actions demonstrated a willingness to manipulate legal frameworks for partisan advantage, undermining the integrity of democratic institutions.",
+            "summary": "Detention oversight channels were removed amid evidence of grave harms inside custody.",
+            "why_exemplary": "Eliminating watchdog capacity while confinement expands weakens the state's ability to correct abuse and protect people it holds.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk36_stewardship_ex02",
+            "week": 36,
+            "event_ids": [
+              "wk36_IM_030",
+              "wk36_IM_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk36_IM_030",
+                "development_label": "Ended the annual household food security report",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk36_IM_004",
+                "development_label": "Restricted journalist access and required a pledge not to report unauthorized information",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Public knowledge systems were weakened through data withdrawal and tighter press controls.",
+            "why_exemplary": "Stewardship fails when government reduces the information infrastructure citizens need to evaluate policy and hold power accountable.",
+            "exemplar_type": "secondary"
           }
         ]
       }
     ],
     "norms_strengthened": [
       {
-        "trait": "stewardship",
-        "pattern": "State-level actions aimed at protecting social welfare and civil rights showed some resilience against federal inaction.",
+        "trait": "truthfulness",
+        "pattern": "Independent actors continued to document falsehoods and restore factual context despite official pressure and narrative manipulation.",
         "scope": "institutional",
-        "why_it_matters": "These actions reflect a commitment to maintaining public goods and services despite federal neglect.",
+        "why_it_matters": "Democratic correction remains possible only if journalists, experts, and outside institutions keep preserving a shared factual record.",
         "exemplars": [
           {
-            "exemplar_id": "wk36_stewardship_ex01",
+            "exemplar_id": "wk36_truthfulness_ex03",
             "week": 36,
             "event_ids": [
-              "wk36_IG_002",
-              "wk36_IG_006"
+              "wk36_IM_033"
             ],
             "developments": [
               {
-                "development_id": "wk36_IG_002",
-                "development_label": "Introduced a reform package including a constitutional amendment to overturn Citizens United.",
+                "development_id": "wk36_IM_033",
+                "development_label": "Fact-checked Trump's false claims about investment, China, Congo-Rwanda, electricity, and grocery prices",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk36_IG_006",
-                "development_label": "Signed a law banning most law enforcement officers from covering their faces on duty.",
-                "role": "secondary"
               }
             ],
-            "summary": "State actions to protect democratic integrity reflect a commitment to stewardship.",
-            "why_exemplary": "These initiatives demonstrate a proactive approach to governance that prioritizes public welfare over political expediency.",
+            "summary": "Independent fact-checking publicly documented multiple presidential falsehoods.",
+            "why_exemplary": "This directly reinforces the norm that official claims remain answerable to evidence rather than loyalty.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk36_truthfulness_ex04",
+            "week": 36,
+            "event_ids": [
+              "wk36_IM_038"
+            ],
+            "developments": [
+              {
+                "development_id": "wk36_IM_038",
+                "development_label": "UN official contradicted sabotage claims about the escalator and teleprompter",
+                "role": "primary"
+              }
+            ],
+            "summary": "An outside institutional source restored factual context to a politicized incident.",
+            "why_exemplary": "Correcting an official conspiracy narrative helps prevent false grievance from hardening into accepted public reality.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Some oversight actors continued to use lawful inquiry and public challenge to test executive claims and preserve accountability.",
+        "scope": "institutional",
+        "why_it_matters": "Even limited oversight helps keep democratic rules oriented toward checking power rather than merely ratifying it.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk36_good_faith_ex03",
+            "week": 36,
+            "event_ids": [
+              "wk36_IG_020"
+            ],
+            "developments": [
+              {
+                "development_id": "wk36_IG_020",
+                "development_label": "Launched oversight inquiries into the Tom Homan bribery matter",
+                "role": "primary"
+              }
+            ],
+            "summary": "Congressional committees reopened scrutiny after executive investigators closed a corruption matter.",
+            "why_exemplary": "This reflects adherence to the checking purpose of oversight rather than acceptance of convenient closure.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk36_good_faith_ex04",
+            "week": 36,
+            "event_ids": [
+              "wk36_IG_026"
+            ],
+            "developments": [
+              {
+                "development_id": "wk36_IG_026",
+                "development_label": "Launched an investigation into law firms' agreements with Trump",
+                "role": "primary"
+              }
+            ],
+            "summary": "Lawmakers opened inquiry into possible quid pro quo arrangements involving executive pressure.",
+            "why_exemplary": "The investigation seeks to test whether formal legality masked arrangements that violated the spirit of fair public accountability.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "Some state and local actors reinforced limits on coercive power and visibility rules around enforcement.",
+        "scope": "institutional",
+        "why_it_matters": "Restraint survives when governments impose practical limits on how force is exercised and how hidden it may become.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk36_restraint_ex03",
+            "week": 36,
+            "event_ids": [
+              "wk36_CR_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk36_CR_011",
+                "development_label": "Signed a law banning most law-enforcement face coverings during official business",
+                "role": "primary"
+              }
+            ],
+            "summary": "California imposed visibility rules on law enforcement during official operations.",
+            "why_exemplary": "Making officers identifiable reinforces the norm that coercive state power should remain accountable and not operate behind anonymity.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Some institutions and publics acted to preserve accountability channels, service capacity, and independent scrutiny despite broader erosion.",
+        "scope": "public",
+        "why_it_matters": "These actions help keep repair possible by preventing total hollowing-out of oversight, expertise, and media independence.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk36_stewardship_ex03",
+            "week": 36,
+            "event_ids": [
+              "wk36_IM_022"
+            ],
+            "developments": [
+              {
+                "development_id": "wk36_IM_022",
+                "development_label": "Reinstated Jimmy Kimmel Live after suspending it",
+                "role": "primary"
+              }
+            ],
+            "summary": "A broadcaster reversed a suspension after public and institutional pressure.",
+            "why_exemplary": "Partial reversal matters because it shows intimidation is not yet irreversible and that public backlash can still defend scrutiny.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk36_stewardship_ex04",
+            "week": 36,
+            "event_ids": [
+              "wk36_IG_021"
+            ],
+            "developments": [
+              {
+                "development_id": "wk36_IG_021",
+                "development_label": "Asked HHS to release supporting data for Trump's Tylenol claims",
+                "role": "primary"
+              }
+            ],
+            "summary": "A senator demanded evidence behind presidential health claims.",
+            "why_exemplary": "Requesting data helps preserve the expectation that public-health authority must remain tied to documented evidence.",
+            "exemplar_type": "secondary"
           }
         ]
       }
     ],
-    "direction_of_movement": "collapsing"
+    "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "Week 36 continues the trend of significant erosion of the moral floor, with executive actions increasingly prioritizing political interests over adherence to democratic norms. The administration's consolidation of power and punitive measures against dissenting voices deepen concerns about the integrity of public institutions. While there are pockets of resistance, such as judicial interventions and state-level initiatives, they are insufficient to counterbalance the overall trend of deterioration. The trajectory indicates a worsening crisis in democratic accountability and civil rights protections, raising serious concerns about the future of governance in the current political climate.",
+    "narrative": "Relative to the prior summary, Week 36 confirms that the moral floor is still deteriorating and that the breaches are becoming more integrated. Last week already showed disinformation, coercive expansion, and pressure on neutral institutions. This week made those tendencies more direct: the president publicly demanded prosecutions of rivals, widened terrorism language toward dissent, and used official platforms to spread falsehoods on both political violence and public health. The ethical problem is no longer episodic excess alone; it is the repeated use of formal state machinery for retaliation, intimidation, and narrative control.\n\nWhat deepened this week was the combination of traits failing together. Truthfulness failures fed restraint failures by casting opponents, protesters, and loosely defined networks as threats. Good-faith failures appeared in bargaining, representation, and oversight, while stewardship weakened through the dismantling of detention watchdogs, reduced public reporting, and pressure on press independence. Ethics concerns also remained active where executive discretion intersected with insider advantage and donor access. The moral floor has not fully collapsed because courts, some legislators, local officials, journalists, and public backlash still impose friction. But the republic is operating with a thinner ethical buffer, and correction depends increasingly on resistance from outside the executive center rather than on self-restraint within it.",
     "trend": "deteriorating",
     "stress_points": [
-      "centralization of executive power",
-      "disinformation as a governance tool",
-      "erosion of civil rights protections",
-      "politicization of the civil service"
+      "personalization of prosecutorial power",
+      "security framing used against dissent and civil society",
+      "routine official disinformation on public-health and political matters",
+      "procedural manipulation of representation and bargaining",
+      "erosion of detention oversight and civil-liberties safeguards",
+      "conflict-of-interest risks in major economic and regulatory decisions",
+      "pressure on media through regulatory leverage and litigation threats"
     ],
     "sources_of_resilience": [
-      "judicial pushback against executive orders",
-      "civil society mobilization against abuses",
-      "state-level legal challenges"
+      "independent fact-checking and outside factual correction",
+      "congressional oversight inquiries and record-building",
+      "state and local limits on coercive enforcement practices",
+      "public backlash against media intimidation",
+      "some lawmakers demanding evidentiary support for official claims",
+      "continued litigation by affected officials, workers, students, and detainees"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
+    "level": "severe",
+    "justification": "The risk remains severe because verified events show simultaneous weakening of character, restraint, truthfulness, good faith, and stewardship, with ethics concerns continuing in the background. The most dangerous feature is reinforcement across domains: retaliatory uses of law enforcement, broad security designations, media pressure, and official falsehoods all support one another. When leaders can define opponents as threats, spread unsupported claims, and then mobilize institutions against those targets, ordinary democratic correction becomes harder and more costly.\n\nThe risk is not rated critical because the week still contains meaningful resistance. Oversight inquiries were launched, some factual corrections broke through, a broadcaster reversed one act of capitulation, and state or local actors imposed some accountability measures. But these defenses were fragmented and mostly reactive. If the current pattern continues, further erosion is likely to come not only through spectacular abuses but through normalization: more retaliation framed as law, more coercion framed as security, and more institutional weakening framed as routine administration.",
     "forward_signals": [
-      "increased executive orders bypassing legislative input",
-      "escalation of disinformation campaigns",
-      "further attempts to undermine civil rights protections"
+      "whether demands for prosecutions of political opponents turn into concrete charging actions",
+      "further expansion of terrorism or conspiracy framing toward activists, nonprofits, or funders",
+      "additional use of regulatory or litigation threats against broadcasters and journalists",
+      "continued dismantling of oversight offices or public reporting systems",
+      "more evidence of donor or insider influence over public funds and market-shaping decisions",
+      "whether courts and legislatures convert reactive resistance into firmer structural limits"
     ]
   }
 }

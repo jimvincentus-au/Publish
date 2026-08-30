@@ -1,12 +1,12 @@
 {
   "week_number": 35,
-  "period_label": "Week 35 – 2025-09-13–2025-09-19",
+  "period_label": "Week 35",
   "window": {
     "start": "2025-09-13",
     "end": "2025-09-19"
   },
-  "clock_time_public": "8:08 p.m.",
-  "clock_delta_minutes": 0.1,
+  "clock_time_public": "7:42 p.m.",
+  "clock_delta_minutes": -0.1,
   "baseline_traits": [
     {
       "name": "character",
@@ -18,7 +18,7 @@
     },
     {
       "name": "restraint",
-      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
     },
     {
       "name": "truthfulness",
@@ -34,221 +34,324 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week saw a further erosion of the moral floor, with significant breaches across multiple traits, reflecting a deepening normalization of authoritarian practices and a widening gap between formal democratic structures and actual governance.",
+    "summary": "Week 35 showed a political assassination converted into an organizing rationale for expanded state and private coercion across nearly every domain: emergency threats against city police, military deployments without consent, regulatory pressure to suppress a late-night comedian, criminal referrals used as political leverage, and pressure on a prosecutor to indict named critics. Courts, a handful of legislators, and some career officials pushed back, producing real but partial checks. The moral floor held only through active resistance, not through executive self-limitation.",
     "norms_broken": [
       {
-        "trait": "character",
-        "pattern": "Executive actions prioritized political interests over public duty, particularly through punitive measures against dissent.",
-        "severity": "serious",
-        "institutional_response": "Limited pushback from courts and Congress, indicating a lack of effective oversight.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk35_character_ex01",
-            "week": 35,
-            "event_ids": [
-              "wk35_PA_002",
-              "wk35_PA_006"
-            ],
-            "developments": [
-              {
-                "development_id": "wk35_PA_002",
-                "development_label": "Ordered flags at half-mast and awarded a posthumous Medal of Freedom for Charlie Kirk.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk35_PA_006",
-                "development_label": "Publicly questioned First Amendment protection for hate speech.",
-                "role": "secondary"
-              }
-            ],
-            "summary": "The administration's actions exemplified a shift towards using state power for personal political gain.",
-            "why_exemplary": "These actions illustrated a disregard for the integrity of public institutions, undermining democratic norms.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "ethics",
-        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the use of executive power to punish dissenting institutions and individuals.",
-        "severity": "serious",
-        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk35_ethics_ex01",
-            "week": 35,
-            "event_ids": [
-              "wk35_PA_003",
-              "wk35_PA_009"
-            ],
-            "developments": [
-              {
-                "development_id": "wk35_PA_003",
-                "development_label": "Requested an additional $58 million from Congress for executive and judicial security after Charlie Kirk’s killing.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk35_PA_009",
-                "development_label": "Pledged to revoke visas of people who celebrated Charlie Kirk’s killing.",
-                "role": "secondary"
-              }
-            ],
-            "summary": "The administration's actions exemplified a disregard for ethical boundaries.",
-            "why_exemplary": "These actions demonstrated a willingness to use public resources as tools for political leverage and personal gain.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
         "trait": "restraint",
-        "pattern": "The administration's aggressive use of executive orders and punitive measures against dissenting voices showed a lack of self-limitation.",
-        "severity": "serious",
-        "institutional_response": "Limited checks from Congress or courts, indicating a weakening of institutional norms.",
+        "pattern": "The president threatened a national emergency to force DC police cooperation with ICE, ordered or threatened National Guard deployments to Chicago, Baltimore, New Orleans, St. Louis, and Memphis without gubernatorial consent, and directed a lethal strike on a vessel off Venezuela without disclosed legal authorization.",
+        "severity": "extreme",
+        "institutional_response": "DC's mayor issued a countervailing order excluding ICE from local police cooperation; state and local officials objected publicly; Congress took no binding action to check the deployments or the strike.",
         "exemplars": [
           {
             "exemplar_id": "wk35_restraint_ex01",
             "week": 35,
             "event_ids": [
-              "wk35_PA_004",
-              "wk35_PA_014"
+              "wk35_PA_001",
+              "wk35_PA_003"
             ],
             "developments": [
               {
-                "development_id": "wk35_PA_004",
-                "development_label": "Threatened to declare a national emergency to seize control of Washington DC’s police over immigration enforcement.",
+                "development_id": "wk35_PA_001",
+                "development_label": "Threatened national emergency to force DC police cooperation with ICE.",
                 "role": "primary"
               },
               {
-                "development_id": "wk35_PA_014",
-                "development_label": "Ordered a temporary federal takeover of the Washington DC police department using National Guard and federal agents.",
-                "role": "secondary"
+                "development_id": "wk35_PA_003",
+                "development_label": "Announced National Guard deployments to Chicago, St. Louis, New Orleans, and Baltimore regardless of governors' consent.",
+                "role": "primary"
               }
             ],
-            "summary": "The use of National Guard troops to assume control of policing exemplified a lack of restraint.",
-            "why_exemplary": "These actions illustrated a disregard for the limits of executive authority and the need for checks on power.",
+            "summary": "The president threatened emergency powers and unilateral troop deployments against multiple Democratic-led jurisdictions absent local consent or declared emergency.",
+            "why_exemplary": "Multi-source corroborated pattern showing self-limitation abandoned across several cities simultaneously, testing federalism as an operating template rather than an isolated incident.",
             "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "truthfulness",
-        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding immigration and public safety.",
-        "severity": "serious",
-        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
-        "exemplars": [
+          },
           {
-            "exemplar_id": "wk35_truthfulness_ex01",
+            "exemplar_id": "wk35_restraint_ex02",
             "week": 35,
             "event_ids": [
-              "wk35_IM_001",
-              "wk35_IM_024"
+              "wk35_PA_005"
             ],
             "developments": [
               {
-                "development_id": "wk35_IM_001",
-                "development_label": "Responded to Charlie Kirk’s killing by blaming Democrats and signaling a crackdown on critics.",
+                "development_id": "wk35_PA_005",
+                "development_label": "Launched a missile strike on a boat off Venezuela, killing three, without disclosed legal authorization.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk35_IM_024",
-                "development_label": "Repeated the false claim that he won the 2020 election during a joint press conference.",
-                "role": "secondary"
               }
             ],
-            "summary": "The normalization of false claims about immigration and crime exemplified a significant erosion of truthfulness.",
-            "why_exemplary": "These actions embedded disinformation at the center of governance, undermining trust in governmental processes.",
-            "exemplar_type": "primary"
+            "summary": "A lethal military strike against a foreign vessel proceeded without clear congressional authorization or public legal justification.",
+            "why_exemplary": "Corroborated by multiple news desks; represents unilateral use of lethal force abroad without the deliberative process democratic war powers require.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "good_faith",
-        "pattern": "The administration's actions undermined the spirit of democratic rules, particularly in election processes and judicial independence.",
+        "pattern": "A federal regulator used explicit threats of license revocation to pressure broadcasters into suspending Jimmy Kimmel's show, while the president publicly called for the removal of critical hosts and suggested broadcast licenses be revoked over negative coverage; the president also filed a $15 billion defamation suit against the New York Times.",
         "severity": "serious",
-        "institutional_response": "Limited institutional resistance, with some courts attempting to uphold democratic norms.",
+        "institutional_response": "A federal judge dismissed the defamation suit as legally improper; House Democrats demanded the FCC chair's resignation and opened scrutiny; ABC reinstated Kimmel after public backlash, but only after Nexstar and Sinclair had already altered programming under pressure.",
         "exemplars": [
           {
             "exemplar_id": "wk35_good_faith_ex01",
             "week": 35,
             "event_ids": [
-              "wk35_IG_011",
-              "wk35_IM_015"
+              "wk35_IM_021",
+              "wk35_IM_033"
             ],
             "developments": [
               {
-                "development_id": "wk35_IG_011",
-                "development_label": "Filed a resolution to censure Rep. Ilhan Omar and remove her from committees based on false claims.",
+                "development_id": "wk35_IM_021",
+                "development_label": "FCC Chair Carr threatened ABC with license revocation over Kimmel's commentary, prompting suspension.",
                 "role": "primary"
               },
               {
-                "development_id": "wk35_IM_015",
-                "development_label": "Threatened broadcasters over Jimmy Kimmel’s comments and launched investigations into media companies.",
+                "development_id": "wk35_IM_033",
+                "development_label": "Trump called for firing of late-night hosts and suggested broadcast licenses be revoked over negative coverage.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A regulator and the president combined licensing threats and public pressure to compel a broadcaster to remove critical political commentary.",
+            "why_exemplary": "Multi-source corroborated evidence of regulatory authority deployed to reward praise and punish criticism, defeating the purpose of content-neutral licensing.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk35_good_faith_ex02",
+            "week": 35,
+            "event_ids": [
+              "wk35_IG_025",
+              "wk35_IG_036"
+            ],
+            "developments": [
+              {
+                "development_id": "wk35_IG_025",
+                "development_label": "Trump filed a $15 billion defamation suit against the New York Times and reporters.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk35_IG_036",
+                "development_label": "Federal judge dismissed the suit as an improper forum for invective.",
                 "role": "secondary"
               }
             ],
-            "summary": "Judicial decisions limiting executive overreach exemplified a breach of good faith in democratic processes.",
-            "why_exemplary": "These actions demonstrated a willingness to manipulate legal frameworks for partisan advantage, undermining the integrity of democratic institutions.",
+            "summary": "The sitting president used litigation against a major newspaper as leverage against press scrutiny, later dismissed by a federal judge.",
+            "why_exemplary": "Tier1-corroborated example of procedural manipulation of the courts to impose cost and chill reporting, even where the suit ultimately failed.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "The president blamed the 'radical left' for Charlie Kirk's killing before any suspect was identified, pressured Attorney General Bondi to pursue RICO cases against protesters at his dinner, and pressed for a criminal indictment of named political critics, prompting a career prosecutor's resignation rather than compliance.",
+        "severity": "serious",
+        "institutional_response": "U.S. Attorney Erik Siebert resigned rather than indict Comey and James under pressure; Speaker Johnson publicly stated leaders should not call opponents enemies of the state, a notable rebuke from within the president's own party.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk35_character_ex01",
+            "week": 35,
+            "event_ids": [
+              "wk35_CR_026"
+            ],
+            "developments": [
+              {
+                "development_id": "wk35_CR_026",
+                "development_label": "Erik Siebert resigned as U.S. Attorney after refusing to indict James Comey and Letitia James under presidential pressure.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A career prosecutor chose resignation over political weaponization of the justice system against named critics.",
+            "why_exemplary": "Multi-source corroborated instance illustrating both the pressure applied and an individual's refusal to subordinate professional duty to personal loyalty.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk35_character_ex02",
+            "week": 35,
+            "event_ids": [
+              "wk35_PA_007"
+            ],
+            "developments": [
+              {
+                "development_id": "wk35_PA_007",
+                "development_label": "Trump blamed the 'radical left' for Kirk's killing before any suspect was identified.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The president assigned blame for a political killing to opponents before facts were established, escalating partisan tension from the office of the presidency.",
+            "why_exemplary": "Tier1-corroborated example of placing rhetorical advantage over the duty of careful, accurate public statement in a moment of crisis.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "Senior officials and allied figures spread inflammatory, unsubstantiated claims tying political opponents to violence (Musk's 'party of murder,' Miller's domestic terrorism rhetoric), while the DOJ removed a report documenting that far-right extremists committed more ideologically motivated homicides than far-left extremists.",
+        "severity": "serious",
+        "institutional_response": "No retraction or correction from DOJ or the officials involved; independent journalism (e.g., UK Channel 4 fact-check) and some Senate Republicans (Cassidy) pushed back, but no formal accountability followed.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk35_truthfulness_ex01",
+            "week": 35,
+            "event_ids": [
+              "wk35_IM_029"
+            ],
+            "developments": [
+              {
+                "development_id": "wk35_IM_029",
+                "development_label": "DOJ removed a 2024 report documenting that far-right extremists committed more ideologically motivated homicides than far-left extremists.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The removal of factual government research on political violence patterns suppressed evidence-based information contradicting the administration's preferred narrative.",
+            "why_exemplary": "Multi-source corroborated suppression of an inconvenient factual record during a week when that record was directly relevant to public debate.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk35_truthfulness_ex02",
+            "week": 35,
+            "event_ids": [
+              "wk35_IM_010"
+            ],
+            "developments": [
+              {
+                "development_id": "wk35_IM_010",
+                "development_label": "Elon Musk posted that 'the left is the party of murder and celebrating murder' without evidence.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A prominent platform owner amplified an unsubstantiated, inflammatory accusation against half the political spectrum.",
+            "why_exemplary": "Multi-source corroborated example of manufactured unreality spreading rapidly through a platform with outsized influence over public discourse.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Federal agencies continued dismantling scientific and regulatory capacity: EPA ended mandatory greenhouse gas emissions reporting and declined to defend PFAS drinking water protections in court; a former CDC director testified she was fired for refusing to approve vaccine changes without evidence.",
+        "severity": "concerning",
+        "institutional_response": "A Republican senator (Cassidy) publicly warned against politicized appointments to the vaccine panel; Senate committee opened an investigation into oil lobbying behind the EPA rollback, showing partial institutional pushback.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk35_stewardship_ex01",
+            "week": 35,
+            "event_ids": [
+              "wk35_IG_032"
+            ],
+            "developments": [
+              {
+                "development_id": "wk35_IG_032",
+                "development_label": "Susan Monarez testified she was fired as CDC director for refusing to approve vaccine changes without evidence.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A former CDC director's testimony revealed that scientific integrity was subordinated to political directives inside a core public health agency.",
+            "why_exemplary": "Multi-source corroborated testimony showing institutional capacity for evidence-based decision-making being deliberately degraded from within.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk35_stewardship_ex02",
+            "week": 35,
+            "event_ids": [
+              "wk35_ES_007"
+            ],
+            "developments": [
+              {
+                "development_id": "wk35_ES_007",
+                "development_label": "EPA ended the Greenhouse Gas Reporting Program, eliminating mandatory carbon emissions disclosure for roughly 8,000 businesses.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The agency removed a transparency requirement that underpinned public and regulatory accountability for major polluters.",
+            "why_exemplary": "Illustrates a structural, not merely rhetorical, reduction in the state's future capacity to monitor and correct environmental harm.",
+            "exemplar_type": "secondary"
           }
         ]
       }
     ],
     "norms_strengthened": [
       {
-        "trait": "stewardship",
-        "pattern": "State-level actions aimed at protecting social welfare and environmental stewardship showed some resilience against federal inaction.",
+        "trait": "good_faith",
+        "pattern": "Multiple courts continued to check executive overreach: the DC Circuit upheld the block on removing Fed Governor Lisa Cook, the Ninth Circuit protected Venezuelan TPS holders, a judge dismissed the president's defamation suit against the New York Times, and a Georgia judge dismissed RICO charges against Cop City protesters for lack of prosecutorial authority.",
         "scope": "institutional",
-        "why_it_matters": "These actions reflect a commitment to maintaining public goods and services despite federal neglect.",
+        "why_it_matters": "Continued judicial willingness to rule against the executive, even amid mounting pressure, preserves the courts as a functioning check and signals that procedural manipulation still faces real limits.",
         "exemplars": [
           {
-            "exemplar_id": "wk35_stewardship_ex01",
+            "exemplar_id": "wk35_good_faith_str_ex01",
             "week": 35,
             "event_ids": [
-              "wk35_IG_007",
-              "wk35_IG_008"
+              "wk35_IG_026",
+              "wk35_IG_036"
             ],
             "developments": [
               {
-                "development_id": "wk35_IG_007",
-                "development_label": "Introduced legislation to ban employer credit checks in hiring.",
+                "development_id": "wk35_IG_026",
+                "development_label": "DC Circuit rejected Trump's bid to oust Fed Governor Lisa Cook.",
                 "role": "primary"
               },
               {
-                "development_id": "wk35_IG_008",
-                "development_label": "Enacted Senate Bill 17 restricting real estate purchases by certain foreign nationals.",
+                "development_id": "wk35_IG_036",
+                "development_label": "Federal judge dismissed Trump's $15 billion defamation suit against the New York Times.",
                 "role": "secondary"
               }
             ],
-            "summary": "State actions to protect environmental and social welfare reflect a commitment to stewardship.",
-            "why_exemplary": "These initiatives demonstrate a proactive approach to governance that prioritizes public welfare over political expediency.",
+            "summary": "Courts preserved institutional independence for the Federal Reserve and rejected the use of litigation to punish press criticism.",
+            "why_exemplary": "Tier1-corroborated rulings show courts continuing to impose real constraints on executive attempts to bend independent institutions and the press.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "Speaker Mike Johnson publicly stated that leaders cannot call political opponents 'enemies of the state' over policy disagreements, and the House narrowly rejected a partisan censure of Representative Ilhan Omar.",
+        "scope": "cross-partisan",
+        "why_it_matters": "A rebuke from within the president's own party against dehumanizing political rhetoric, and a narrow but real defense against politically motivated disciplinary action, both signal that some restraint on escalation persists inside majority institutions.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk35_character_str_ex01",
+            "week": 35,
+            "event_ids": [
+              "wk35_IG_020"
+            ],
+            "developments": [
+              {
+                "development_id": "wk35_IG_020",
+                "development_label": "Speaker Mike Johnson stated leaders cannot call political opponents enemies of the state over policy disagreements.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The Speaker of the House publicly rejected rhetoric branding political opponents as enemies amid escalating administration language.",
+            "why_exemplary": "Multi-source corroborated example of a senior figure within the governing party pushing back against the week's dominant rhetorical trend.",
             "exemplar_type": "primary"
           }
         ]
       }
     ],
-    "direction_of_movement": "collapsing"
+    "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "Week 35 continues the trend of significant erosion of the moral floor, with executive actions increasingly prioritizing political interests over adherence to democratic norms. The administration's consolidation of power and punitive measures against dissenting voices deepen concerns about the integrity of public institutions. While there are pockets of resistance, such as judicial interventions and state-level initiatives, they are insufficient to counterbalance the overall trend of deterioration. The trajectory indicates a worsening crisis in democratic accountability and civil rights protections, raising serious concerns about the future of governance in the current political climate.",
+    "narrative": "Week 35 continues the trajectory established in Week 34, in which the erosion of restraint, good faith, and character has become an operating pattern rather than a series of isolated incidents. The killing of Charlie Kirk, much like the events of the prior week, was again converted rapidly into a organizing rationale for expanded coercive authority: a domestic terrorism memo, an Antifa terrorism designation, threatened RICO prosecutions of protesters, and license threats against broadcasters all flowed from the same initial act within days. What distinguishes this week is the visible coordination across previously separate levers of power — regulatory threat, prosecutorial pressure, and military deployment threats moved almost simultaneously against overlapping targets, suggesting a maturing rather than a novel practice of pressure.\n\nThe resignation of U.S. Attorney Erik Siebert, rather than indict named critics under presidential pressure, stands alongside similar acts of individual restraint from Week 34 (Governor Cox) as evidence that the character trait, while broadly failing at the top of government, still finds occasional expression among career officials willing to bear personal cost rather than comply. Judicial resistance also persisted: the DC Circuit again blocked the removal of Fed Governor Cook, a Georgia court threw out politically motivated RICO charges, and a federal judge dismissed the president's defamation suit against the Times. These rulings mirror the pattern from the prior week of courts imposing real costs on executive overreach even as other rulings (the Supreme Court's FTC removal decision from Week 34, and this week's Supreme Court clearance of broader immigration profiling) moved in the opposite direction.\n\nThe Kimmel suspension and subsequent reinstatement crystallizes the week's central dynamic: coercion succeeded in altering behavior before any formal legal proceeding concluded, and public backlash reversed only the most visible instance while leaving the underlying leverage — license threats, merger dependency, defamation suits — intact for future use. Taken together with continuing stewardship failures in public health and environmental oversight, the week represents neither a decisive break from nor meaningful recovery from the deteriorating trend identified previously; it is a further consolidation of practices first visible as improvisation in Week 34 into a more confident, multi-front operating method.",
     "trend": "deteriorating",
     "stress_points": [
-      "centralization of executive power",
-      "disinformation as a governance tool",
-      "erosion of civil rights protections",
-      "politicization of the civil service"
+      "assassination rhetoric converted into expanded law enforcement and regulatory authority",
+      "regulatory license threats used to compel media compliance",
+      "prosecutorial independence tested by direct presidential pressure to indict named critics",
+      "unilateral military deployment threats against non-consenting state and local governments",
+      "suppression of inconvenient government research and scientific findings"
     ],
     "sources_of_resilience": [
-      "judicial pushback against executive orders",
-      "civil society mobilization against abuses",
-      "state-level legal challenges"
+      "continued judicial willingness to check executive overreach across multiple courts",
+      "individual acts of professional integrity under pressure (Siebert resignation)",
+      "cross-partisan rebuke of dehumanizing political rhetoric (Speaker Johnson)",
+      "public backlash reversing at least one visible instance of media coercion (Kimmel reinstatement)",
+      "congressional oversight efforts, including hearings and investigations into politicized agency actions"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
+    "level": "severe",
+    "justification": "The simultaneous deployment of regulatory, prosecutorial, and military pressure against overlapping sets of political targets within a single week indicates that the erosion documented in prior weeks has moved from improvisation toward a repeatable method. The moral floor traits most implicated — restraint, good faith, and character — remain foundational to preventing concentrated and unaccountable power; their continued simultaneous strain, even where courts and individual officials still provide meaningful resistance, keeps the republic close to the threshold beyond which formal rules alone cannot reliably contain further erosion. The fact that resistance is real but consistently reactive, arriving after harm has already been inflicted (Kimmel's suspension, Siebert's resignation, the dismissed lawsuit), rather than preventive, is the central risk driver.",
     "forward_signals": [
-      "increased executive orders bypassing legislative input",
-      "escalation of disinformation campaigns",
-      "further attempts to undermine civil rights protections"
+      "further use of license or merger leverage against media companies",
+      "additional pressure on career prosecutors to indict named political figures",
+      "expansion of National Guard or emergency-power threats to new jurisdictions",
+      "continued removal or suppression of government data and research contradicting administration narratives",
+      "whether Speaker Johnson's rebuke translates into any institutional consequence for inflammatory rhetoric"
     ]
   }
 }

@@ -1,12 +1,12 @@
 {
   "week_number": 79,
-  "period_label": "Week 79 – 2026-07-18–2026-07-24",
+  "period_label": "Week 79",
   "window": {
     "start": "2026-07-18",
     "end": "2026-07-24"
   },
-  "clock_time_public": "7:44 p.m.",
-  "clock_delta_minutes": 0.0,
+  "clock_time_public": "7:40 p.m.",
+  "clock_delta_minutes": -0.2,
   "baseline_traits": [
     {
       "name": "character",
@@ -34,488 +34,241 @@
     }
   ],
   "weekly_audit": {
-    "summary": "The week showed the moral floor under continued pressure through convergence rather than a single rupture. Executive actors, congressional allies, and some judicial developments all pushed in the same direction on elections, immigration, war powers, and scrutiny of power. The dominant ethical pattern was normalization of coercive leverage, procedural hardball, and selective unreality, while resistance from courts, states, and civil society remained real but mostly reactive.",
+    "summary": "Week 79 showed a moral floor under continued, multi-front strain rather than sudden collapse. The executive escalated threats of major military action against Iran and the Houthis outside any new congressional authorization, while the Pentagon revised casualty figures downward in a manner that raised credibility concerns. Congress split between packaging voting restrictions into must-pass war-funding and defense bills, and passing (twice) a war powers resolution the Senate then declined to enforce. Conflicts of interest around Kushner's Saudi dealings, crypto donors, and Pentagon-linked investment vehicles persisted largely unchallenged by major media. Courts continued to supply the most consistent check, ruling against arbitrary agency actions, upholding due process, and blocking some funding coercion, even as a federal panel let a vote-diluting map stand and single-source claims of shielding a foreign leader from an ICC warrant went largely unaddressed.",
     "norms_broken": [
       {
-        "trait": "character",
-        "pattern": "Public authority was used in ways that suggested political advantage and personalized branding were being placed ahead of impartial public duty.",
-        "severity": "concerning",
-        "institutional_response": "Courts and reporting created some transparency, but the digest shows little direct correction of the underlying use of office for leader-centered or politically convenient ends.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk79_character_ex01",
-            "week": 79,
-            "event_ids": [
-              "wk79_ES_019"
-            ],
-            "developments": [
-              {
-                "development_id": "wk79_ES_019",
-                "development_label": "Announced tax-free Trump accounts with a federal contribution for children born through 2028",
-                "role": "primary"
-              }
-            ],
-            "summary": "A federal savings benefit was publicly branded with the president's name.",
-            "why_exemplary": "Character is weakened when public policy is presented through leader branding, blurring service to the public with personal political identity.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk79_character_ex02",
-            "week": 79,
-            "event_ids": [
-              "wk79_IG_062"
-            ],
-            "developments": [
-              {
-                "development_id": "wk79_IG_062",
-                "development_label": "CREW analysis said Donald Trump had sought more than $70 billion in lawsuits and claims since late 2022",
-                "role": "primary"
-              }
-            ],
-            "summary": "Large-scale litigation was described as a recurring pressure tool.",
-            "why_exemplary": "A pattern of using legal power or resources as pressure rather than public duty suggests weak internal discipline and a willingness to subordinate civic responsibility to personal or political combat.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
-        "trait": "ethics",
-        "pattern": "Boundaries between public decision-making and private influence remained porous, especially where regulated actors, donor money, and politically controlled spending channels overlapped.",
-        "severity": "serious",
-        "institutional_response": "Investigations and scrutiny existed, but the digest shows no decisive ethics enforcement resolving the conflicts or appearance of purchasable access.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk79_ethics_ex01",
-            "week": 79,
-            "event_ids": [
-              "wk79_ES_024",
-              "wk79_ES_020"
-            ],
-            "developments": [
-              {
-                "development_id": "wk79_ES_024",
-                "development_label": "Frederick Cooper gave another $1 million to MAGA Inc. while QOL Medical faced FDA allegations",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk79_ES_020",
-                "development_label": "FDA accused QOL Medical of misleading advertising and scrutiny revived over a prior DOJ fraud settlement",
-                "role": "secondary"
-              }
-            ],
-            "summary": "A regulated executive donated heavily while his company faced active scrutiny.",
-            "why_exemplary": "Ethics requires a firm boundary between enforcement and political money. Large donations during active regulatory pressure create a strong appearance that access and influence may shape public action.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk79_ethics_ex02",
-            "week": 79,
-            "event_ids": [
-              "wk79_PA_005",
-              "wk79_ES_021"
-            ],
-            "developments": [
-              {
-                "development_id": "wk79_PA_005",
-                "development_label": "OMB proposed shifting broad federal grant-making control to political appointees",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk79_ES_021",
-                "development_label": "Pentagon established an Economic Defense Unit to invest public funds in defense industries",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Political control over grants and defense investment channels expanded.",
-            "why_exemplary": "These moves increase the risk that public funds will be steered through politically connected hands rather than neutral criteria, weakening the boundary between state power and favored private interests.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
         "trait": "restraint",
-        "pattern": "Officials repeatedly chose maximal coercive or emergency-adjacent power over self-limitation in elections, immigration, and war.",
+        "pattern": "The president issued a rapid succession of public threats of major military escalation against Iran, including bombing civilian infrastructure and a 'massive attack' larger than any prior operation, made via social media and interviews rather than through deliberative channels, while Pentagon officials could not substantiate emergency funding requests to Congress.",
         "severity": "extreme",
-        "institutional_response": "States and courts pushed back in several cases, and the House asserted war powers once, but the main pattern remained executive and allied pressure toward expanded authority.",
+        "institutional_response": "The House passed two war powers resolutions directing withdrawal; the Senate rejected a companion measure by two votes, leaving the executive free to continue escalating without new authorization.",
         "exemplars": [
           {
             "exemplar_id": "wk79_restraint_ex01",
             "week": 79,
             "event_ids": [
-              "wk79_PA_003",
-              "wk79_PA_004",
-              "wk79_IG_030"
+              "wk79_PA_006",
+              "wk79_PA_008"
             ],
             "developments": [
               {
-                "development_id": "wk79_PA_003",
-                "development_label": "President ordered DHS to notify states about alleged noncitizens on voter rolls and deem them ineligible",
+                "development_id": "wk79_PA_006",
+                "development_label": "Trump threatened to bomb Iranian bridges or power plants for every Houthi/Iranian strike on shipping.",
                 "role": "primary"
               },
               {
-                "development_id": "wk79_PA_004",
-                "development_label": "DHS secretary demanded states use a federal noncitizen-check tool and threatened prosecution",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk79_IG_030",
-                "development_label": "States and D.C. sued over grant conditions tied to voting and immigration policy changes",
+                "development_id": "wk79_PA_008",
+                "development_label": "Trump told Israeli media he was close to deciding on a massive attack larger than any prior operation.",
                 "role": "secondary"
               }
             ],
-            "summary": "Federal election pressure escalated through directives, threats, and funding leverage.",
-            "why_exemplary": "Restraint fails when executive power is used to stand over state election administration rather than preserving neutral distance from ballot access and voter eligibility decisions.",
+            "summary": "Public threats to bomb civilian infrastructure and launch a historic new offensive were issued through media rather than formal deliberation or congressional consultation.",
+            "why_exemplary": "Well-corroborated statements show unilateral escalation of war aims and methods, bypassing constitutional war powers and risking violations of humanitarian law through executive threat alone.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk79_restraint_ex02",
             "week": 79,
             "event_ids": [
-              "wk79_PA_002",
-              "wk79_PA_010",
-              "wk79_IG_021"
+              "wk79_IG_006"
             ],
             "developments": [
               {
-                "development_id": "wk79_PA_002",
-                "development_label": "Bannon said a communist-threat narrative could justify a national security emergency order tied to the SAVE America agenda",
-                "role": "secondary"
-              },
-              {
-                "development_id": "wk79_PA_010",
-                "development_label": "President threatened to target civilian infrastructure in Iran",
+                "development_id": "wk79_IG_006",
+                "development_label": "The Senate rejected a companion war powers resolution to end hostilities with Iran, 47-49.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk79_IG_021",
-                "development_label": "Defense secretary sought nearly $88 billion in supplemental Iran-war funding",
-                "role": "secondary"
               }
             ],
-            "summary": "War and emergency rhetoric favored concentrated executive action over limits.",
-            "why_exemplary": "Threats against civilian infrastructure and public advocacy for emergency rule show a willingness to press beyond democratic self-limitation when urgency can be invoked.",
+            "summary": "A binding measure to check ongoing military escalation narrowly failed in the Senate despite having passed a similar resolution weeks earlier.",
+            "why_exemplary": "The near-miss vote demonstrates institutional will to restrain the executive existed but fell short, leaving war-making concentrated in presidential hands.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "False election claims and politically convenient manipulation or withholding of war information weakened the public's ability to judge power on shared facts.",
-        "severity": "extreme",
-        "institutional_response": "Criticism, reporting, and congressional complaint forced some disclosure, but the digest shows no meaningful official correction sufficient to restore trust.",
+        "pattern": "The Pentagon revised its Iran war casualty count downward from 18 to 14 by excluding recently killed service members attributed to a declared ceasefire period, following earlier nondisclosure of prior strikes, undermining confidence in official war reporting.",
+        "severity": "serious",
+        "institutional_response": "Journalists and military sources raised questions and outrage; no independent verification body corrected the record within the week.",
         "exemplars": [
           {
             "exemplar_id": "wk79_truthfulness_ex01",
             "week": 79,
             "event_ids": [
-              "wk79_IM_002",
-              "wk79_IM_001"
+              "wk79_CR_015",
+              "wk79_IM_014"
             ],
             "developments": [
               {
-                "development_id": "wk79_IM_002",
-                "development_label": "President falsely claimed China had compromised 220 million U.S. voter files",
+                "development_id": "wk79_CR_015",
+                "development_label": "Pentagon altered its casualty database to remove four recently killed service members.",
                 "role": "primary"
               },
               {
-                "development_id": "wk79_IM_001",
-                "development_label": "President accused journalists of hiding election fraud and called for revoking broadcasters' licenses",
+                "development_id": "wk79_IM_014",
+                "development_label": "Pentagon reported casualties rising to 18 killed, then reduced the count to 14 the next day.",
                 "role": "secondary"
               }
             ],
-            "summary": "A false election-security claim was paired with attacks on the press.",
-            "why_exemplary": "Truthfulness is breached when unsupported claims about election integrity are amplified from the presidency and used to discredit independent scrutiny.",
+            "summary": "Official war casualty figures were revised downward without clear justification, following a pattern of earlier nondisclosure of prior strikes and injuries.",
+            "why_exemplary": "Tier-one corroborated reporting shows a politically convenient recalculation of a core democratic fact—the human cost of war—eroding the basis for informed public and congressional oversight.",
             "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk79_truthfulness_ex02",
-            "week": 79,
-            "event_ids": [
-              "wk79_IM_007",
-              "wk79_IM_015",
-              "wk79_IM_016"
-            ],
-            "developments": [
-              {
-                "development_id": "wk79_IM_007",
-                "development_label": "Pentagon disclosed Iran conflict casualties only after criticism over earlier silence",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk79_IM_015",
-                "development_label": "Pentagon revised the official death toll downward by excluding four service members killed after a declared cease-fire",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk79_IM_016",
-                "development_label": "Representative Morelle said the administration had not provided an accounting for military funding requests",
-                "role": "secondary"
-              }
-            ],
-            "summary": "War casualty and funding records shifted under political pressure and incomplete accounting.",
-            "why_exemplary": "Democratic truthfulness requires stable, accurate public facts about war costs. Delayed disclosure and politically sensitive revisions corrode trust even before formal falsity is adjudicated.",
-            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "good_faith",
-        "pattern": "Procedures and must-pass vehicles were used to force unrelated democratic changes, and oversight tools were used in ways that looked retaliatory rather than truth-seeking.",
+        "pattern": "House Republicans bundled a nationwide mail-ballot ban and voter ID rules into a $95bn war-funding reconciliation package and a separate defense authorization bill, using must-pass vehicles to advance election restrictions that might not survive standalone debate.",
         "severity": "serious",
-        "institutional_response": "Some judges allowed challenges to proceed and states sued, but the week still showed repeated use of legal form to defeat the spirit of fair process.",
+        "institutional_response": "The measures passed the House on largely party-line votes; no Senate action is documented within the week to block the packaging strategy.",
         "exemplars": [
           {
-            "exemplar_id": "wk79_good_faith_ex01",
+            "exemplar_id": "wk79_goodfaith_ex01",
             "week": 79,
             "event_ids": [
-              "wk79_IG_031",
-              "wk79_IG_033"
+              "wk79_IG_002",
+              "wk79_IG_003"
             ],
             "developments": [
               {
-                "development_id": "wk79_IG_031",
-                "development_label": "House passed the NDAA with war funding, voting restrictions, and a Pentagon renaming provision",
+                "development_id": "wk79_IG_002",
+                "development_label": "House Republicans passed a budget resolution authorizing a $95bn reconciliation bill covering Iran war funding, farm aid, and nationwide voting restrictions.",
                 "role": "primary"
               },
               {
-                "development_id": "wk79_IG_033",
-                "development_label": "House Republicans approved a war budget plan and budget resolution tied to voting changes",
+                "development_id": "wk79_IG_003",
+                "development_label": "House passed a $1.15tn defense authorization bill embedding voting-restriction language and a Pentagon renaming provision.",
                 "role": "secondary"
               }
             ],
-            "summary": "Voting restrictions were advanced through defense and budget vehicles.",
-            "why_exemplary": "Good faith is weakened when election-law changes are attached to must-pass or high-pressure fiscal measures rather than debated on their own democratic merits.",
+            "summary": "Voting restrictions were attached to war funding and defense authorization bills, using budget procedure to sidestep the Senate filibuster on election law.",
+            "why_exemplary": "Multi-source corroborated events show deliberate use of unrelated must-pass legislation to defeat the purpose of open, stand-alone deliberation on voting rights.",
             "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk79_good_faith_ex02",
-            "week": 79,
-            "event_ids": [
-              "wk79_IG_036"
-            ],
-            "developments": [
-              {
-                "development_id": "wk79_IG_036",
-                "development_label": "Representative Jim Jordan pressed DOJ to prosecute Jack Smith over his congressional testimony",
-                "role": "primary"
-              }
-            ],
-            "summary": "Committee power was used to seek prosecution of a former investigator.",
-            "why_exemplary": "Oversight departs from good faith when it appears aimed at retaliation against scrutiny rather than neutral enforcement of law or institutional accountability.",
-            "exemplar_type": "secondary"
           }
         ]
       },
       {
-        "trait": "stewardship",
-        "pattern": "Institutional capacity and public trust were weakened through attacks on voting protections, due-process safeguards, public-health capacity, and accountability systems around coercive agencies.",
-        "severity": "extreme",
-        "institutional_response": "Courts, states, and civil society preserved some corrective channels, but the week's dominant effect was cumulative damage to long-term institutional credibility and competence.",
+        "trait": "ethics",
+        "pattern": "Jared Kushner's investment firm continued receiving billions in Saudi sovereign wealth fund capital while he negotiated a nuclear deal with Saudi Arabia, a conflict largely unreported by major outlets; the Pentagon's new Economic Defense Unit was staffed by officials with documented financial ties to Trump-connected ventures.",
+        "severity": "serious",
+        "institutional_response": "No congressional or regulatory corrective action is documented within the week; media coverage of the underlying conflict was itself limited.",
         "exemplars": [
           {
-            "exemplar_id": "wk79_stewardship_ex01",
+            "exemplar_id": "wk79_ethics_ex01",
             "week": 79,
             "event_ids": [
-              "wk79_IG_005",
-              "wk79_IG_049",
-              "wk79_IG_029"
+              "wk79_ES_015",
+              "wk79_ES_013"
             ],
             "developments": [
-              {
-                "development_id": "wk79_IG_005",
-                "development_label": "Supreme Court ruling weakened the Voting Rights Act",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk79_IG_049",
-                "development_label": "Federal judges declined to block Tennessee's map splitting Memphis",
-                "role": "secondary"
-              },
-              {
-                "development_id": "wk79_IG_029",
-                "development_label": "Arizona Republicans nominated election deniers for governor and top election official",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Voting safeguards and confidence in fair representation were weakened from several directions.",
-            "why_exemplary": "Stewardship fails when institutions that protect fair representation and trust in election administration are weakened at once by courts and political actors.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk79_stewardship_ex02",
-            "week": 79,
-            "event_ids": [
-              "wk79_PA_006",
-              "wk79_IM_010",
-              "wk79_ES_015"
-            ],
-            "developments": [
-              {
-                "development_id": "wk79_PA_006",
-                "development_label": "Administration cut legal aid for unaccompanied immigrant children and pressed providers for sensitive data",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk79_IM_010",
-                "development_label": "CDC operated with major funding cuts and staff losses that weakened outbreak response capacity",
-                "role": "secondary"
-              },
               {
                 "development_id": "wk79_ES_015",
-                "development_label": "ICE delayed buying body cameras despite having funding",
+                "development_label": "Saudi Public Investment Fund invested $2 billion in Jared Kushner's private equity fund while he negotiated a nuclear deal with Saudi Arabia.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk79_ES_013",
+                "development_label": "Pentagon established an Economic Defense Unit investing tens of billions under officials with private-equity-linked conflicts.",
                 "role": "secondary"
               }
             ],
-            "summary": "Due-process, public-health, and accountability capacity all thinned further.",
-            "why_exemplary": "Stewardship concerns long-term state competence. Cutting counsel, weakening disease response, and delaying accountability tools all reduce the republic's future ability to govern fairly and credibly.",
-            "exemplar_type": "secondary"
+            "summary": "A senior presidential adviser continued profiting from a foreign government while shaping national security policy toward that government, alongside new defense investment vehicles run by conflicted officials.",
+            "why_exemplary": "Tier-one and multi-source corroborated events document ongoing blending of public defense and diplomatic power with private family and allied financial gain.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "The president used a solemn Dover Air Force Base dignified transfer ceremony to attribute political views to deceased service members and later posted a chart touting the war death toll as an achievement near the same period.",
+        "severity": "concerning",
+        "institutional_response": "Media reporting documented and criticized the statements; no formal institutional response is recorded within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk79_character_ex01",
+            "week": 79,
+            "event_ids": [
+              "wk79_PA_007",
+              "wk79_IM_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk79_PA_007",
+                "development_label": "Trump attributed political views to deceased service members at a Dover dignified transfer ceremony.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk79_IM_009",
+                "development_label": "Trump posted a chart touting Iran war death toll around the time fallen troops were honored.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A president used a solemn military ceremony and its aftermath to make political claims on behalf of the war dead who cannot verify them.",
+            "why_exemplary": "Multi-source corroborated reporting shows repeated politicization of fallen service members' memory for messaging purposes, contrary to norms of dignified nonpartisan commemoration.",
+            "exemplar_type": "primary"
           }
         ]
       }
     ],
     "norms_strengthened": [
       {
-        "trait": "restraint",
-        "pattern": "Courts and some legislative action continued to impose practical limits on executive overreach in immigration, trade, and war.",
-        "scope": "institutional",
-        "why_it_matters": "Democratic restraint survives when independent institutions can still slow or block coercive action and insist that major policy changes pass through lawful channels.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk79_restraint_ex03",
-            "week": 79,
-            "event_ids": [
-              "wk79_IG_043",
-              "wk79_IG_010"
-            ],
-            "developments": [
-              {
-                "development_id": "wk79_IG_043",
-                "development_label": "Supreme Court ruled major immigration policy changes could not be imposed unilaterally without congressional approval",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk79_IG_010",
-                "development_label": "Judge blocked revocation of work permits for asylum seekers and TPS holders",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Courts required legislative authorization and paused coercive immigration changes.",
-            "why_exemplary": "These rulings reinforced that executive power remains bounded by separation of powers and judicial review even in politically charged immigration policy.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk79_restraint_ex04",
-            "week": 79,
-            "event_ids": [
-              "wk79_IG_048",
-              "wk79_IG_037"
-            ],
-            "developments": [
-              {
-                "development_id": "wk79_IG_048",
-                "development_label": "House passed a war powers resolution directing withdrawal from the Iran conflict",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk79_IG_037",
-                "development_label": "Supreme Court left in place a ruling that many Trump tariffs were illegal",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Congress and courts asserted limits on war and trade authority.",
-            "why_exemplary": "Restraint is strengthened when other branches refuse to treat executive claims of urgency as self-justifying in war or economic policy.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
         "trait": "good_faith",
-        "pattern": "Some institutions continued to use ordinary constitutional and legal process for its intended purpose rather than surrendering to coercive leverage.",
+        "pattern": "Federal courts rejected an RNC bid for sensitive voter data, restored due process protections for a fired civil servant, upheld habeas rights for a detained scholar, and found FDA drug restrictions arbitrary and capricious, reasserting procedural limits on executive and partisan overreach.",
         "scope": "institutional",
-        "why_it_matters": "Good faith is reinforced when institutions preserve fair process, independent lawmaking, and judicial review even under pressure.",
+        "why_it_matters": "Consistent judicial willingness to check agency and partisan overreach, even amid broader erosion elsewhere, preserves a functioning mechanism for correcting unlawful exercises of power.",
         "exemplars": [
           {
-            "exemplar_id": "wk79_good_faith_ex03",
+            "exemplar_id": "wk79_goodfaith_strength_ex01",
             "week": 79,
             "event_ids": [
-              "wk79_IG_003"
+              "wk79_IG_021",
+              "wk79_IG_026"
             ],
             "developments": [
               {
-                "development_id": "wk79_IG_003",
-                "development_label": "Congress enacted the 21st Century ROAD to Housing Act into law without Trump's signature",
+                "development_id": "wk79_IG_021",
+                "development_label": "Fourth Circuit rejected the administration's attempt to redetain Georgetown scholar Badar Khan Suri.",
                 "role": "primary"
+              },
+              {
+                "development_id": "wk79_IG_026",
+                "development_label": "A federal judge dismissed an RNC lawsuit demanding sensitive New Jersey voter data.",
+                "role": "secondary"
               }
             ],
-            "summary": "Congress completed lawmaking without yielding to presidential refusal.",
-            "why_exemplary": "This preserved the constitutional design that legislation can proceed through ordinary process rather than being wholly captive to executive bargaining.",
+            "summary": "Courts rebuffed executive attempts to redetain a released scholar and a partisan attempt to access sensitive voter records, reaffirming due process and privacy limits.",
+            "why_exemplary": "Tier-one corroborated rulings show courts continuing to check both immigration enforcement overreach and partisan efforts to obtain electoral leverage through litigation.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
         "trait": "stewardship",
-        "pattern": "Courts, agencies, and civil society kept some review, transparency, and accountability channels functioning despite broader erosion.",
-        "scope": "public",
-        "why_it_matters": "Stewardship depends on preserving institutions that can document abuse, maintain expertise, and keep future correction possible.",
+        "pattern": "Twenty-five state attorneys general sued over FEMA/DHS conditions tying disaster and security grants to election and immigration policy compliance, and small businesses challenged sweeping tariffs as exceeding presidential trade authority.",
+        "scope": "cross-partisan",
+        "why_it_matters": "These suits defend the principle that appropriated public funds and trade authority cannot be converted into coercive leverage over states or businesses outside ordinary lawmaking, protecting institutional capacity for future governance.",
         "exemplars": [
           {
-            "exemplar_id": "wk79_stewardship_ex03",
+            "exemplar_id": "wk79_stewardship_strength_ex01",
             "week": 79,
             "event_ids": [
-              "wk79_IG_044",
-              "wk79_IG_055",
-              "wk79_IG_020"
+              "wk79_IG_028",
+              "wk79_IG_029"
             ],
             "developments": [
               {
-                "development_id": "wk79_IG_044",
-                "development_label": "FDA reestablished its Peripheral and Central Nervous System Drugs Advisory Committee",
+                "development_id": "wk79_IG_028",
+                "development_label": "Twenty-five state attorneys general sued over FEMA and DHS conditions tying disaster grants to election and immigration compliance.",
                 "role": "primary"
               },
               {
-                "development_id": "wk79_IG_055",
-                "development_label": "FDA announced public advisory meetings",
-                "role": "secondary"
-              },
-              {
-                "development_id": "wk79_IG_020",
-                "development_label": "CDC announced a public advisory-board meeting on radiation and worker health",
+                "development_id": "wk79_IG_029",
+                "development_label": "Liberty Justice Center filed lawsuits challenging new tariffs as exceeding presidential authority.",
                 "role": "secondary"
               }
             ],
-            "summary": "Expert advisory and public-input processes remained active in health governance.",
-            "why_exemplary": "Routine expert review matters because democratic stewardship requires institutions that outlast political cycles and preserve competent, transparent decision-making.",
+            "summary": "States and private litigants challenged the conversion of federal disaster funding and trade authority into political leverage over states and businesses.",
+            "why_exemplary": "Native tier-one corroborated filings show sustained institutional pushback defending the boundary between legitimate federal power and coercive conditioning.",
             "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk79_stewardship_ex04",
-            "week": 79,
-            "event_ids": [
-              "wk79_IG_030",
-              "wk79_CR_012",
-              "wk79_CR_013"
-            ],
-            "developments": [
-              {
-                "development_id": "wk79_IG_030",
-                "development_label": "Twenty-five states and D.C. sued over grant conditions tied to voting and immigration policy changes",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk79_CR_012",
-                "development_label": "Activists and local organizations mobilized to counter voter suppression and election subversion",
-                "role": "secondary"
-              },
-              {
-                "development_id": "wk79_CR_013",
-                "development_label": "Indivisible issued guidance and training on responding to aggressive federal law-enforcement practices",
-                "role": "secondary"
-              }
-            ],
-            "summary": "States and civil society worked to preserve corrective capacity against coercive governance.",
-            "why_exemplary": "Institutional repair remains possible when federalism and civic organization keep channels of challenge, documentation, and public defense alive.",
-            "exemplar_type": "secondary"
           }
         ]
       }
@@ -523,40 +276,35 @@
     "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "This week fits the prior trajectory closely and makes it more integrated. The previous summary described a democracy whose moral floor was being maintained less by internal duty than by outside resistance. Week 79 confirms that diagnosis. The same traits remained under pressure, but the pattern became more coordinated: election pressure from the executive, voting restrictions advanced through Congress, judicial weakening of voting-rights protections, harsher immigration enforcement with thinning checks, and war governance accompanied by unstable public facts.\n\nThe cumulative ethical problem is no longer best understood as scattered breaches. Restraint, truthfulness, good_faith, and stewardship are reinforcing one another in the wrong direction. False election claims are paired with administrative coercion of states. Immigration expansion is paired with reduced due process, weak accountability, and secrecy-prone infrastructure. War powers are paired with incomplete or shifting casualty and funding records. Ethics concerns persist where donor money, regulated firms, and politically controlled spending channels meet. Resistance still exists in courts, states, and civil society, but it remains fragmented and largely defensive.\n\nCompared with the prior week, the moral floor did not collapse, but it hardened into a more normalized pattern of pressure. The republic still has functioning correctives. What is weakening is the expectation that officeholders will practice self-limitation, candor, and institutional care without being forced to do so.",
+    "narrative": "Week 79 extends the pattern documented through Week 78 rather than marking a sharp new break. The unilateral and volatile exercise of war powers flagged last week as extreme continues and intensifies: threats to bomb civilian infrastructure, a prospective 'massive attack' announced through media before Congress was briefed, and a downward revision of casualty figures that raises the same truthfulness concerns first evident in earlier weeks' incomplete disclosures. Congress remains split in the same way it was last week — capable of real action (two war powers resolutions, a Senate near-miss) but also complicit in bundling unrelated voting restrictions into must-pass war funding and defense bills, echoing the housing-bill hostage tactic of Week 78.\n\nThe ethics stress points persist with remarkable continuity. Kushner's Saudi financial ties, now directly connected to an active nuclear negotiation, extend the family-enrichment pattern flagged in Week 78's defense-contractor investments, compounded this week by a new Pentagon investment unit staffed with conflicted officials and a documented pattern of donations following favorable regulatory or enforcement outcomes. Retaliation against scrutiny also continues: subpoenas of journalists' family members (though withdrawn), a criminal referral against the special counsel who investigated the president, and a lawsuit by a summarily fired U.S. attorney all extend last week's demonstrated willingness to use state power against those who examine it.\n\nAgainst this, judicial resistance remains the most reliable counterweight, as it was in Week 78. Courts rejected partisan data-mining, restored due process for a fired employee, protected a detained scholar's habeas rights, and found agency drug restrictions arbitrary. States sued successfully to block coercive conditioning of disaster funds and are testing tariff overreach. These checks are real but narrow, arriving after the political act rather than preventing it — the same reactive pattern noted previously. The moral floor has not ruptured further in dramatic terms this week, but the accumulation of unchecked war-powers assertions, unresolved conflicts of interest, and procedural bundling of voting restrictions continues to deepen an equilibrium in which coercion and self-dealing are treated as ordinary governance.",
     "trend": "deteriorating",
     "stress_points": [
-      "federal pressure on state election administration",
-      "normalization of false or destabilizing election claims",
-      "procedural packaging of voting restrictions into must-pass legislation",
-      "aggressive immigration enforcement with weak accountability and reduced due process",
-      "war-making expansion paired with unstable casualty and funding records",
-      "retaliatory pressure against journalists and investigators",
-      "porous boundary between political money and regulatory or spending power",
-      "erosion of public-health and oversight capacity"
+      "unilateral and escalating war-powers assertions without congressional authorization",
+      "manipulation of official war casualty figures undermining public trust",
+      "procedural bundling of voting restrictions into must-pass war and defense legislation",
+      "persistent family and allied financial entanglement with national security decisions",
+      "retaliation against journalists, former prosecutors, and fired officials who scrutinize the administration",
+      "weak internal accountability for lethal immigration enforcement incidents"
     ],
     "sources_of_resilience": [
-      "state litigation against coercive federal grant conditions",
-      "lower-court and appellate intervention in immigration and voting cases",
-      "congressional assertion of war powers in at least one vote",
-      "continued independent legislative capacity outside presidential leverage",
-      "routine expert advisory and public-notice processes still functioning",
-      "civil society voter-protection and accountability organizing",
-      "judicial limits on partisan access to voter data"
+      "judicial protection of due process, habeas rights, and agency rationality requirements",
+      "state-led litigation against coercive conditioning of federal disaster and security funding",
+      "House votes asserting constitutional war powers, even without Senate concurrence",
+      "sustained civil society mobilization and organizing ahead of midterms",
+      "independent reporting exposing casualty-count discrepancies and conflicts of interest",
+      "corporate and financial actors (e.g., bank divestment from private prisons) responding to public pressure"
     ]
   },
   "risk_assessment": {
     "level": "severe",
-    "justification": "Severe risk is warranted because the week showed simultaneous breaches across most moral-floor traits, with the strongest damage concentrated in restraint, truthfulness, good_faith, and stewardship. The most serious developments were structural: executive coercion aimed at voter-roll administration, congressional use of defense and budget vehicles to carry voting restrictions, judicial weakening of voting-rights protections, expansion of immigration enforcement alongside reduced due process and weak accountability, and politically sensitive manipulation or withholding of war information. These are not isolated misstatements or one-off abuses. They affect the systems by which citizens vote, know, and challenge power.\n\nThe risk is not best described as critical because the digest still shows meaningful resistance with practical effect. States sued, judges blocked or narrowed several executive actions, the House asserted war powers, Congress still enacted legislation through ordinary constitutional means, and civil society remained active. But those defenses were mostly reactive and piecemeal. If the current pattern continues, further erosion is likely because coercive leverage, procedural manipulation, and selective unreality are becoming more routine than exceptional.",
+    "justification": "The moral floor remains severely stressed, consistent with the prior week's assessment, with no clear improvement. Verified events show the executive threatening major, potentially unlawful military escalation via public statement rather than deliberation, the Pentagon revising war casualty figures in a manner that erodes public trust in official war reporting, and Congress packaging voting restrictions into unrelated must-pass legislation. Documented conflicts of interest around Kushner's Saudi dealings and new defense investment vehicles remain unresolved and under-scrutinized by major media. Judicial and state-level resistance continues to supply meaningful but narrow correction, arriving after political acts occur rather than preventing them. The density and mutual reinforcement of these pressures across war powers, election administration, and financial conflicts of interest sustains a severe risk of further erosion absent a stronger external check.",
     "forward_signals": [
-      "whether federal threats or grant conditions further pressure state election officials",
-      "additional use of must-pass bills to advance voting restrictions",
-      "continued repetition of false election-security claims by senior officials",
-      "further weakening of voting-rights protections or permissive rulings on disputed maps",
-      "escalation of immigration enforcement without matching accountability safeguards",
-      "new retaliation against journalists, investigators, or watchdog institutions",
-      "whether casualty and war-funding records continue to shift or remain incomplete",
-      "additional signs that donor access or political appointees are steering public funds or enforcement outcomes"
+      "whether the threatened 'massive attack' on Iran materializes without new congressional authorization",
+      "whether the Pentagon casualty count discrepancy receives independent verification or congressional inquiry",
+      "whether the Jack Smith criminal referral advances to actual DOJ action",
+      "whether the reconciliation package's voting restrictions survive Senate consideration",
+      "whether Kushner's Saudi financial ties draw congressional or media scrutiny commensurate with the nuclear negotiation stakes",
+      "whether further ICE-related fatalities prompt binding accountability measures beyond body-camera mandates"
     ]
   }
 }

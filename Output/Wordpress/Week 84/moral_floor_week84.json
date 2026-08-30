@@ -1,0 +1,427 @@
+{
+  "week_number": 84,
+  "period_label": "Week 84",
+  "window": {
+    "start": "2026-08-22",
+    "end": "2026-08-28"
+  },
+  "clock_time_public": "7:40 p.m.",
+  "clock_delta_minutes": 0.0,
+  "baseline_traits": [
+    {
+      "name": "character",
+      "definition": "Internal discipline to align words with deeds, to place public duty ahead of personal gain, and to honour the oath of office even when it conflicts with short-term advantage."
+    },
+    {
+      "name": "ethics",
+      "definition": "Commitment to keep a firm boundary between public power and private interest, avoiding conflicts of interest, self-dealing, and the use of office to enrich oneself, family, or allies."
+    },
+    {
+      "name": "restraint",
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+    },
+    {
+      "name": "truthfulness",
+      "definition": "Obligation to speak accurately on matters of public consequence, avoid deliberate disinformation, correct false statements, and ensure that citizens are not governed by manufactured unreality."
+    },
+    {
+      "name": "good_faith",
+      "definition": "Adherence to the spirit as well as the letter of democratic rules, keeping promises, respecting outcomes, and avoiding procedural manipulation that defeats the purpose of the law."
+    },
+    {
+      "name": "stewardship",
+      "definition": "Responsibility to maintain and strengthen institutions so they can serve future generations as well as the present, avoiding actions that permanently damage capacity, credibility, or public trust."
+    }
+  ],
+  "weekly_audit": {
+    "summary": "Week 84 registered as consolidation rather than rupture: no single event broke categorically new ground, but existing patterns of self-dealing, loyalty-based appointment, disinformation, and voter-suppression machinery intensified and interlocked. A Supreme Court ruling permitted mail-ballot restrictions to proceed on procedural grounds weeks before midterms, while USCIS redirected fraud-detection staff toward voter-data screening. Concurrently, reporting confirmed roughly $2.3 billion in personal and family enrichment flowing to the president through crypto ventures, oil and gas trading, and a diverted clean-energy settlement, alongside continued loyalty-test appointments and retaliation against journalists and internal critics. Courts, some state officials including a Republican governor, and local governments still pushed back, producing a mixed but structurally strained picture.",
+    "norms_broken": [
+      {
+        "trait": "ethics",
+        "pattern": "The president's investment accounts profited from oil, gas, and cryptocurrency volatility tied to conflicts and policies his own administration directed, while a foreign official invested $500 million in his family's crypto venture amid concurrent technology-export negotiations, and a canceled clean-energy settlement diverted $900 million to a major donor's private equity fund.",
+        "severity": "extreme",
+        "institutional_response": "A ranking committee Democrat expanded a congressional investigation into the RWE settlement; no regulatory or prosecutorial action addressed the crypto profits, stock trading, or foreign investment this week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk84_ethics_ex01",
+            "week": 84,
+            "event_ids": [
+              "wk84_ES_008",
+              "wk84_ES_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk84_ES_008",
+                "development_label": "Trump profited an estimated $1.4 billion from cryptocurrency ventures while investors lost $4.7 billion.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk84_ES_009",
+                "development_label": "A UAE national security adviser invested $500 million in the Trump family's crypto venture amid AI chip negotiations.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A sitting president's crypto ventures generated massive personal profit, funded partly by a foreign official negotiating technology access with his administration.",
+            "why_exemplary": "Multi-source and native tier-one reporting document direct, quantifiable presidential enrichment intertwined with active foreign-policy negotiations, a stark emoluments concern.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk84_ethics_ex02",
+            "week": 84,
+            "event_ids": [
+              "wk84_ES_006"
+            ],
+            "developments": [
+              {
+                "development_id": "wk84_ES_006",
+                "development_label": "Canceled offshore wind leases redirected $1.2 billion to RWE, with $900 million flowing to a Trump donor's private equity fund.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A federal settlement diverted public funds into a liquefied natural gas stake owned by a major inaugural donor.",
+            "why_exemplary": "Verified reporting shows public regulatory action converted into a direct financial benefit for a politically connected donor, prompting expanded congressional inquiry.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "The USPS implemented ballot-delivery rules conditioned on federal citizenship lists immediately after a procedural Supreme Court stay, while USCIS reassigned anti-fraud staff to voter-data screening and DOJ conducted unannounced, aggressive polling-site visits in a Republican-led state, all in the weeks before midterm balloting.",
+        "severity": "serious",
+        "institutional_response": "Twenty-four states and DC sued; a federal judge issued a new temporary block and an expedited briefing schedule; a Republican governor publicly objected to DOJ monitoring conduct.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk84_good_faith_ex01",
+            "week": 84,
+            "event_ids": [
+              "wk84_IG_001",
+              "wk84_IG_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk84_IG_001",
+                "development_label": "Supreme Court lifted an injunction blocking Trump's mail-in voting executive order on procedural grounds.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk84_IG_002",
+                "development_label": "USCIS reassigned anti-fraud officers to voter-data screening ahead of midterms.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A procedural court ruling enabled implementation of ballot restrictions while immigration agency capacity was redirected toward hunting alleged noncitizen voters.",
+            "why_exemplary": "Verified, tier-one corroborated events show coordinated use of judicial procedure and administrative reassignment to reshape election mechanics without new legislation.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk84_good_faith_ex02",
+            "week": 84,
+            "event_ids": [
+              "wk84_IG_034"
+            ],
+            "developments": [
+              {
+                "development_id": "wk84_IG_034",
+                "development_label": "DOJ election monitors conducted unannounced, aggressive visits to Wyoming primary polling sites.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Federal election monitors' conduct drew formal objection from a Republican state governor as exceeding statutory monitoring authority.",
+            "why_exemplary": "Tier-one corroborated reporting shows even co-partisan officials perceiving federal overreach into election administration, evidencing spirit-of-the-law violation.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "The president posted fabricated imagery claiming an Iran war victory, the health secretary denied verified measles deaths and gave testimony contradicted by documents, and multiple political actors, including a super PAC and a major newspaper, circulated demonstrably false claims during the midterm cycle.",
+        "severity": "serious",
+        "institutional_response": "State officials publicly disputed RFK Jr.'s claims; independent reporting documented and corrected several falsehoods; no administration correction or accountability followed.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk84_truthfulness_ex01",
+            "week": 84,
+            "event_ids": [
+              "wk84_IM_002",
+              "wk84_IM_003"
+            ],
+            "developments": [
+              {
+                "development_id": "wk84_IM_002",
+                "development_label": "RFK Jr. suggested Pennsylvania's documented measles deaths were fabricated by state staffers.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk84_IM_003",
+                "development_label": "Newly disclosed documents contradict RFK Jr.'s 2025 Senate confirmation testimony about a 2019 Samoa trip.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The health secretary denied verified public health data and faced documentary evidence contradicting his sworn confirmation testimony.",
+            "why_exemplary": "Tier-one corroborated reporting ties a cabinet official's pattern of falsehood directly to an active outbreak and to the integrity of his own confirmation process.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk84_truthfulness_ex02",
+            "week": 84,
+            "event_ids": [
+              "wk84_IM_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk84_IM_001",
+                "development_label": "Trump posted an AI-generated image falsely claiming victory in the Iran war.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The president used fabricated imagery to misrepresent an unpopular, costly military conflict as a decisive success.",
+            "why_exemplary": "Corroborated reporting documents deliberate synthetic-media disinformation about an active war's outcome, distorting public understanding of ongoing policy consequences.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "The president unilaterally renamed a binational lake by executive order amid an active trade war, escalated tariffs on an ally to fifty percent, and used federal grounds and a nonpartisan NASA ceremony for personal spectacle and campaign-style messaging.",
+        "severity": "concerning",
+        "institutional_response": "No domestic institutional check constrained these actions this week; Canada retaliated diplomatically and economically rather than through U.S. institutional processes.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk84_restraint_ex01",
+            "week": 84,
+            "event_ids": [
+              "wk84_PA_003",
+              "wk84_ES_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk84_PA_003",
+                "development_label": "Trump signed an executive order renaming Lake Ontario to 'Lake America'.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk84_ES_001",
+                "development_label": "Trump escalated tariffs to 50% on Canadian automobiles, trucks, and steel.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The president unilaterally asserted symbolic and economic dominance over a shared binational resource and relationship amid deteriorating relations with an ally.",
+            "why_exemplary": "Native tier-one corroborated events show unrestrained unilateral action against an allied nation without consultation, straining a decades-long partnership.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk84_restraint_ex02",
+            "week": 84,
+            "event_ids": [
+              "wk84_PA_001",
+              "wk84_PA_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk84_PA_001",
+                "development_label": "Trump organized and personally opened an IndyCar race circling the National Mall.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk84_PA_002",
+                "development_label": "Trump threatened to demolish the Kennedy Center unless naming and renovation plans proceeded.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Federal infrastructure and a national cultural institution were used respectively for personal spectacle and as leverage for personal branding demands.",
+            "why_exemplary": "Tier-one, multi-source corroborated events document a recurring pattern of subordinating governance and public institutions to presidential self-promotion.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "DHS approved electric-shock gloves for ICE despite documented abuse and bipartisan objection, expanded deputized local immigration enforcement through 287(g), and reached a record monthly arrest total overwhelmingly composed of people without criminal convictions, including a military spouse and parents detained at school-bus stops.",
+        "severity": "serious",
+        "institutional_response": "Senators called for cancellation of the glove program without success; no reversal of arrest policy or 287(g) expansion occurred this week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk84_stewardship_ex01",
+            "week": 84,
+            "event_ids": [
+              "wk84_CR_004",
+              "wk84_CR_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk84_CR_004",
+                "development_label": "ICE arrested a record 49,571 immigrants in July, most without criminal convictions.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk84_CR_005",
+                "development_label": "ICE deported the wife of an active-duty Army sergeant despite her having no criminal record.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Enforcement capacity expanded to record levels, sweeping in categories of residents, including military families, previously subject to protective policy.",
+            "why_exemplary": "Tier-one corroborated reporting documents institutional capacity growth directed at populations far removed from its stated public-safety rationale, degrading public trust in enforcement proportionality.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk84_stewardship_ex02",
+            "week": 84,
+            "event_ids": [
+              "wk84_CR_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk84_CR_001",
+                "development_label": "DHS approved a $20 million plan to equip ICE officers with electric-shock gloves despite documented abuse cases.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Federal immigration enforcement expanded potentially injurious force technology over bipartisan senators' objections and documented abuse history.",
+            "why_exemplary": "Multi-source corroborated reporting shows institutional capacity for harm expanding despite known risk and cross-partisan concern, without meaningful check.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "Federal officials, including a DHS account posting an explicit loyalty-test message and a cabinet secretary tolerating a presidential vaccine falsehood without repudiation, subordinated institutional duty to displays of personal or political fealty.",
+        "severity": "concerning",
+        "institutional_response": "Public backlash followed the DHS post; Dr. Oz privately disputed but did not clearly repudiate the president's claim publicly.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk84_character_ex01",
+            "week": 84,
+            "event_ids": [
+              "wk84_CR_016"
+            ],
+            "developments": [
+              {
+                "development_id": "wk84_CR_016",
+                "development_label": "A DHS official account posted a loyalty-test message featuring Trump's portrait, asking 'Did you remain loyal?'",
+                "role": "primary"
+              }
+            ],
+            "summary": "An official federal agency account used government communications channels for an explicit loyalty-test gesture toward the public.",
+            "why_exemplary": "This single-source but widely reported event illustrates a stark blending of personal fealty with official government messaging, drawing immediate public objection.",
+            "exemplar_type": "primary"
+          }
+        ]
+      }
+    ],
+    "norms_strengthened": [
+      {
+        "trait": "good_faith",
+        "pattern": "Twenty-four states and DC sued over the USPS mail-ballot rule, a federal judge issued a new temporary block and expedited briefing schedule, and a federal appeals court and other courts continued to process challenges to executive and state overreach on their merits.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Sustained multistate and judicial engagement, including objection from a Republican governor to DOJ conduct, demonstrates that procedural checks on election administration remain active even under significant time pressure.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk84_good_faith_strength_ex01",
+            "week": 84,
+            "event_ids": [
+              "wk84_IG_003",
+              "wk84_IG_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk84_IG_003",
+                "development_label": "Judge Talwani issued a new 14-day temporary block on the USPS mail-ballot rule.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk84_IG_004",
+                "development_label": "Twenty-four states, DC, and 23 Democratic attorneys general sued to block the USPS rule and executive order.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A federal judge and a large multistate coalition acted in the same week to contest and constrain a federal rule threatening ballot access.",
+            "why_exemplary": "Tier-one corroborated events show functioning judicial and state-level resistance operating on an accelerated timeline against a significant voting-rights threat.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Multiple local governments terminated license-plate surveillance contracts over data-misuse concerns, and Meta agreed to a $17.1 billion settlement over child-harm allegations, showing continued institutional and market accountability mechanisms functioning independent of federal action.",
+        "scope": "institutional",
+        "why_it_matters": "Local government and corporate accountability actions demonstrate that oversight capacity persists and can act even as federal-level stewardship weakens.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk84_stewardship_strength_ex01",
+            "week": 84,
+            "event_ids": [
+              "wk84_ES_017"
+            ],
+            "developments": [
+              {
+                "development_id": "wk84_ES_017",
+                "development_label": "Meta agreed to pay up to $17.1 billion to settle claims it endangered children with addictive platforms.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A major corporate settlement held a technology platform financially accountable for design practices alleged to harm children.",
+            "why_exemplary": "Tier-one corroborated reporting documents a substantial accountability outcome achieved through litigation independent of federal executive action.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk84_stewardship_strength_ex02",
+            "week": 84,
+            "event_ids": [
+              "wk84_IG_035"
+            ],
+            "developments": [
+              {
+                "development_id": "wk84_IG_035",
+                "development_label": "Multiple local governments terminated Flock license-plate surveillance contracts over privacy concerns.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Several municipalities across multiple states ended surveillance contracts after discovering unauthorized data searches.",
+            "why_exemplary": "Local governmental action independently curtailed a surveillance capacity being misused, demonstrating functioning accountability below the federal level.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "A cabinet official's failure to clearly repudiate a presidential vaccine falsehood nonetheless included a private/partial dispute, and independent media and state officials consistently documented and contested administration misinformation on health and economic claims throughout the week.",
+        "scope": "public",
+        "why_it_matters": "Persistent public correction of false claims, even when incomplete, sustains a baseline capacity for fact-based public discourse against sustained pressure.",
+        "exemplars": []
+      }
+    ],
+    "direction_of_movement": "eroding"
+  },
+  "cumulative_condition": {
+    "narrative": "Week 84 extends rather than redirects the trajectory described in the Week 83 summary. The severe stress identified previously, self-dealing through regulatory capture, retaliation against journalists, and destruction of oversight capacity, persists and in some respects sharpens: this week's roughly $2.3 billion in documented presidential enrichment through crypto ventures, oil and gas trading, and a diverted clean-energy settlement extends the pattern of the World Liberty Financial charter into a broader, multi-stream picture of personal profit intertwined with official conduct and foreign investment. The mail-ballot litigation cycle, procedural Supreme Court action, USPS implementation, judicial countermeasure, multistate lawsuit, all within a single week, shows the electoral-administration fight from Week 83 has become an active, accelerating cycle rather than a static threat, compounded by USCIS's redirection of fraud-detection capacity toward voter-data screening.\n\nAt the same time, this week did not cross a new structural threshold the way Week 83's registry destruction or journalist firings did. Instead it demonstrated how already-established tools, loyalty-based appointments, tariff escalation, enforcement expansion, disinformation, continue to be applied with increasing confidence and coordination. The retaliation thread from Week 83 (Stars and Stripes firings) continued directly into this week's lawsuit by the fired journalists, joined by new claims of retaliation from a former Border Patrol commander and a Secret Service leak investigation, suggesting an environment where internal criticism carries sustained and possibly escalating personal risk.\n\nResistance remained real and, notably, included a Republican governor's public objection to DOJ election-monitoring conduct, an unusual instance of cross-partisan institutional pushback. Courts, multistate coalitions, and local governments continued to constrain executive action at the margins. But none of this resistance reversed the underlying self-enrichment, voter-suppression machinery, or enforcement expansion; it contained rather than corrected. The moral floor remains under severe and now more entrenched strain, with financial conflicts of interest reaching a scale and diversity of sourcing, domestic and foreign, that make them harder to characterize as isolated incidents.",
+    "trend": "deteriorating",
+    "stress_points": [
+      "escalating scale and diversity of presidential financial conflicts of interest, including foreign investment",
+      "accelerating cycle of mail-ballot rule implementation and litigation weeks before midterms",
+      "redirection of immigration fraud-detection capacity toward voter-data screening",
+      "expansion of enforcement into previously protected categories, including military families",
+      "sustained retaliation against journalists and internal critics",
+      "health misinformation from a cabinet official amid an active measles outbreak"
+    ],
+    "sources_of_resilience": [
+      "multistate litigation and expedited judicial review of ballot rules",
+      "a Republican governor's public objection to federal election-monitoring conduct",
+      "local government termination of surveillance contracts",
+      "corporate accountability litigation resulting in a major settlement",
+      "continued congressional investigation into diverted settlement funds",
+      "grassroots mobilization including a large voting-rights march"
+    ]
+  },
+  "risk_assessment": {
+    "level": "severe",
+    "justification": "The moral floor remains severely stressed. This week's documented presidential enrichment across crypto, energy trading, and a diverted settlement, combined with a foreign official's direct investment in the president's family venture during active negotiations, represents a conflict-of-interest picture broader and more diversified in sourcing than previously documented, making it structurally harder to characterize as anomalous. The mail-ballot cycle's compression into a single week, ruling, implementation, injunction, lawsuit, occurring this close to midterms elevates the risk that procedural resolution will lag actual balloting, potentially disenfranchising voters regardless of the eventual legal outcome. Countervailing resistance, including a rare cross-partisan objection to DOJ monitoring conduct, remains meaningful but has not reversed the underlying trajectory of enrichment, enforcement expansion, or electoral-administration pressure.",
+    "forward_signals": [
+      "whether ballots can be mailed and delivered without disruption before litigation resolves",
+      "further disclosures on the scale or sourcing of presidential financial conflicts",
+      "outcome of Huffman's expanded investigation into the RWE settlement",
+      "whether additional Republican officials join objections to DOJ election-monitoring conduct",
+      "further retaliation claims from military, law enforcement, or intelligence personnel",
+      "developments in the Stars and Stripes journalists' lawsuit against the Pentagon"
+    ]
+  }
+}

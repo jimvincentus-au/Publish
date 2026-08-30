@@ -6,7 +6,7 @@
     "end": "2025-03-14"
   },
   "clock_time_public": "7:52 p.m.",
-  "clock_delta_minutes": 0.2,
+  "clock_delta_minutes": 0.1,
   "baseline_traits": [
     {
       "name": "character",
@@ -18,7 +18,7 @@
     },
     {
       "name": "restraint",
-      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
     },
     {
       "name": "truthfulness",
@@ -34,159 +34,233 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week saw a deepening of authoritarian practices, with executive actions undermining democratic norms and institutions, while courts and civil society struggled to maintain accountability and resist these trends.",
+    "summary": "Week 8 continued the pattern of executive power used to punish adversaries, bypass due process, and reward allies, while civil servants, courts, and civil society mounted sustained but reactive resistance. The administration used punitive executive orders against law firms and a wartime statute against immigrants and activists, dismantled anti-corruption enforcement, and used pardons and prosecutorial discretion for political allies. At the same time, two federal judges found the government had lied to justify mass firings and ordered reinstatements, and a court blocked a retaliatory order against a law firm as an unconstitutional bill of attainder. Truthfulness was strained by a steady stream of self-promotional government messaging and unsubstantiated efficiency claims later shown to be inflated. The pattern is one of escalating, coordinated breaches of restraint and good faith, met by resistance that is real but consistently a step behind.",
     "norms_broken": [
       {
-        "trait": "character",
-        "pattern": "Executive actions prioritized personal and political gain over public duty, particularly through mass layoffs and consolidation of power within federal agencies.",
+        "trait": "restraint",
+        "pattern": "The administration issued executive orders punishing specific law firms (Paul Weiss, Perkins Coie) over their legal representation choices, invoked the Alien Enemies Act to authorize summary detention and removal of migrants without ordinary due process, and issued a memorandum designed to raise the financial cost of suing the government.",
         "severity": "serious",
-        "institutional_response": "Courts issued some rulings to block actions, but overall institutional resistance was limited.",
+        "institutional_response": "A federal judge blocked enforcement of the Perkins Coie order as an unconstitutional bill of attainder; other orders proceeded largely unchecked within the week.",
         "exemplars": [
           {
-            "exemplar_id": "wk08_character_ex01",
+            "exemplar_id": "wk08_restraint_ex01",
             "week": 8,
             "event_ids": [
-              "wk08_PA_004",
-              "wk08_PA_005"
+              "wk08_IG_059",
+              "wk08_IG_036"
             ],
             "developments": [
               {
-                "development_id": "wk08_PA_004",
-                "development_label": "Pardoned individuals convicted for the January 6 Capitol attack.",
+                "development_id": "wk08_IG_059",
+                "development_label": "Executive order targeted law firm Paul Weiss with security-clearance suspensions and contract terminations",
                 "role": "primary"
               },
               {
-                "development_id": "wk08_PA_005",
-                "development_label": "Eliminated union protections for TSA employees.",
-                "role": "primary"
+                "development_id": "wk08_IG_036",
+                "development_label": "Federal judge blocked enforcement of a similar punitive order against Perkins Coie",
+                "role": "secondary"
               }
             ],
-            "summary": "Pardoning Capitol attackers and stripping union protections exemplified prioritization of loyalty and expediency over public duty.",
-            "why_exemplary": "These actions illustrated a shift towards personal rule, undermining the integrity of public institutions.",
+            "summary": "Punitive executive orders targeted law firms over legal representation choices, prompting a judicial finding that a similar order resembled an unconstitutional bill of attainder.",
+            "why_exemplary": "A verified, tier1-documented pattern of using executive power to retaliate against private legal advocacy, directly implicating self-limitation on power against critics.",
             "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "ethics",
-        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the involvement of private actors in government functions.",
-        "severity": "serious",
-        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
-        "exemplars": [
+          },
           {
-            "exemplar_id": "wk08_ethics_ex01",
+            "exemplar_id": "wk08_restraint_ex02",
             "week": 8,
             "event_ids": [
-              "wk08_PA_003",
-              "wk08_PA_012"
+              "wk08_CR_034"
             ],
             "developments": [
               {
-                "development_id": "wk08_PA_003",
-                "development_label": "Signed an executive order creating a taxpayer-backed US Crypto Reserve.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk08_PA_012",
-                "development_label": "Terminated federal diversity programs across the government.",
+                "development_id": "wk08_CR_034",
+                "development_label": "Invoked the Alien Enemies Act to authorize summary detention and removal of alleged gang members",
                 "role": "primary"
               }
             ],
-            "summary": "The crypto reserve and termination of diversity programs blurred the lines between public office and private interests.",
-            "why_exemplary": "These actions exemplified a disregard for ethical boundaries, prioritizing personal and political interests.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "truthfulness",
-        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding immigration and national security.",
-        "severity": "serious",
-        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk08_truthfulness_ex01",
-            "week": 8,
-            "event_ids": [
-              "wk08_IM_008",
-              "wk08_CR_023"
-            ],
-            "developments": [
-              {
-                "development_id": "wk08_IM_008",
-                "development_label": "Repeated baseless claims that the 2020 election was rigged.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk08_CR_023",
-                "development_label": "Ended birthright citizenship and sought Supreme Court approval to enforce the change.",
-                "role": "primary"
-              }
-            ],
-            "summary": "The president's false claims and actions to end birthright citizenship spread disinformation and undermined trust.",
-            "why_exemplary": "These actions embedded disinformation at the center of governance, undermining trust in governmental processes.",
+            "summary": "A rarely used wartime statute was invoked to bypass standard immigration due process for a broad category of noncitizens.",
+            "why_exemplary": "Represents a significant, tier1-documented expansion of executive detention authority beyond ordinary legal constraint, echoing and escalating a prior-week pattern.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
         "trait": "good_faith",
-        "pattern": "Executive orders undermined established legal frameworks and protections, particularly regarding immigration and civil rights.",
-        "severity": "serious",
-        "institutional_response": "Judicial challenges were initiated, but the executive's actions were largely unilateral.",
+        "pattern": "Continued reliance on pardons for January 6 defendants including violent offenders, presidential praise for dismissal of a corruption case against a political ally, and a DOJ official's directive to disregard court orders blocking deportations undermined the spirit of accountability and judicial process.",
+        "severity": "extreme",
+        "institutional_response": "Courts pushed back in specific cases (limiting pardon scope, ordering reinstatements), but no institutional remedy addressed the directive to defy court orders within the week.",
         "exemplars": [
           {
             "exemplar_id": "wk08_good_faith_ex01",
             "week": 8,
             "event_ids": [
-              "wk08_CR_004",
-              "wk08_CR_006"
+              "wk08_IM_014"
             ],
             "developments": [
               {
-                "development_id": "wk08_CR_004",
-                "development_label": "Used a foreign policy provision to detain and attempt to deport Palestinian activist Mahmoud Khalil.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk08_CR_006",
-                "development_label": "Announced plans to revoke visas for those deemed to support Hamas.",
+                "development_id": "wk08_IM_014",
+                "development_label": "Senior DOJ official directed lawyers to disregard potential court orders blocking migrant deportations",
                 "role": "primary"
               }
             ],
-            "summary": "The detainment of Khalil and threats to revoke visas politicized enforcement and undermined legal protections.",
-            "why_exemplary": "These actions disregarded established processes for justice, undermining the spirit of legal protections.",
+            "summary": "A senior Justice Department official reportedly instructed government lawyers to proceed with deportations regardless of judicial orders.",
+            "why_exemplary": "A verified, tier1-documented instruction to defy judicial authority strikes directly at the premise that executive action remains bound by court rulings.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk08_good_faith_ex02",
+            "week": 8,
+            "event_ids": [
+              "wk08_PA_018",
+              "wk08_IG_024"
+            ],
+            "developments": [
+              {
+                "development_id": "wk08_PA_018",
+                "development_label": "Trump praised his lawyer for securing dismissal of a corruption case against New York's mayor",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk08_IG_024",
+                "development_label": "Federal judge ruled a presidential pardon did not cover a separate plot to kill FBI agents",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Presidential involvement in dismissing a corruption case against a political ally contrasted with a judge's insistence on limits to pardon power in another case.",
+            "why_exemplary": "Illustrates selective application of leniency toward allies alongside judicial efforts to preserve accountability limits on clemency.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "The administration disbanded anti-kleptocracy and foreign-influence enforcement units, paused Foreign Corrupt Practices Act enforcement, and continued crypto-related policymaking that raised conflict-of-interest concerns following the prior week's crypto reserve order.",
+        "severity": "serious",
+        "institutional_response": "No independent ethics body intervened within the week; the dismantling proceeded without formal challenge.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk08_ethics_ex01",
+            "week": 8,
+            "event_ids": [
+              "wk08_PA_010",
+              "wk08_PA_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk08_PA_010",
+                "development_label": "Disbanded Task Force KleptoCapture and paused FCPA enforcement",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk08_PA_011",
+                "development_label": "Disbanded the FBI's foreign influence taskforce",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Two units responsible for policing elite corruption and foreign influence in domestic politics were eliminated in the same week.",
+            "why_exemplary": "Removes durable anti-corruption enforcement capacity, benefiting sanctioned actors and reducing scrutiny of illicit foreign and elite financial influence.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
+        "trait": "truthfulness",
+        "pattern": "The White House published a stream of self-promotional 'fact sheets' and achievement compilations through official channels, while independent analysis found DOGE's claimed savings were overstated by roughly 92 percent, and officials deflected blame for market and price problems onto vague external actors.",
+        "severity": "concerning",
+        "institutional_response": "Independent trackers and media corrected the record; no retraction was issued by the administration.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk08_truthfulness_ex01",
+            "week": 8,
+            "event_ids": [
+              "wk08_ES_033"
+            ],
+            "developments": [
+              {
+                "development_id": "wk08_ES_033",
+                "development_label": "Independent tracker found Musk's claimed $105 billion in DOGE savings was overstated by 92%",
+                "role": "primary"
+              }
+            ],
+            "summary": "An independent analysis found only a fraction of claimed government savings could be verified, exposing significant inflation of official efficiency figures.",
+            "why_exemplary": "Documents a concrete, quantifiable gap between official claims and verifiable fact regarding a signature policy initiative.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk08_truthfulness_ex02",
+            "week": 8,
+            "event_ids": [
+              "wk08_PA_007",
+              "wk08_PA_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk08_PA_007",
+                "development_label": "White House published a promotional release listing claimed administration achievements",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk08_PA_012",
+                "development_label": "White House published a fact sheet claiming 50 executive achievements in the first 50 days",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Repeated official communications framed unverified statistics and partisan claims as government fact sheets without independent scrutiny.",
+            "why_exemplary": "A recurring, tier1-documented pattern of blending governance and promotion, blurring the line between official record and campaign messaging.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
         "trait": "stewardship",
-        "pattern": "The dismantling of oversight mechanisms and the removal of inspectors general weakened institutional accountability.",
+        "pattern": "Mass layoffs at the Department of Education (roughly half its workforce, including over half its Civil Rights Division), HHS buyout offers to 80,000 employees, and termination of nearly 800 federal leases collectively degraded institutional capacity to deliver statutory functions.",
         "severity": "serious",
-        "institutional_response": "Limited pushback from existing oversight bodies, highlighting a lack of resilience.",
+        "institutional_response": "Courts intervened forcefully, ordering reinstatement of thousands of fired workers and blocking further firings at numerous agencies; states sued over Education Department cuts.",
         "exemplars": [
           {
             "exemplar_id": "wk08_stewardship_ex01",
             "week": 8,
             "event_ids": [
-              "wk08_PA_010",
-              "wk08_IM_010"
+              "wk08_IG_056",
+              "wk08_IG_060"
             ],
             "developments": [
               {
-                "development_id": "wk08_PA_010",
-                "development_label": "Declared a national emergency at the southern US border.",
+                "development_id": "wk08_IG_056",
+                "development_label": "Department of Education laid off 1,300 employees, cutting its workforce roughly in half",
                 "role": "primary"
               },
               {
-                "development_id": "wk08_IM_010",
-                "development_label": "Ordered staff to shred or burn agency records.",
-                "role": "primary"
+                "development_id": "wk08_IG_060",
+                "development_label": "Department abolished more than half of its Civil Rights Division offices",
+                "role": "secondary"
               }
             ],
-            "summary": "The national emergency declaration and destruction of records undermined institutional capacity and accountability.",
-            "why_exemplary": "These actions stripped internal watchdogs of their power, reducing institutional capacity to investigate executive misconduct.",
+            "summary": "Mass layoffs sharply reduced federal capacity to administer aid programs and enforce civil-rights protections in schools nationwide.",
+            "why_exemplary": "A verified, multi-source-corroborated reduction in durable institutional capacity for a congressionally mandated function, with no clear plan to preserve statutory obligations.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk08_stewardship_ex02",
+            "week": 8,
+            "event_ids": [
+              "wk08_IG_034",
+              "wk08_IG_035"
+            ],
+            "developments": [
+              {
+                "development_id": "wk08_IG_034",
+                "development_label": "Federal judge found justifications for mass firings false and ordered reinstatement of probationary workers",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk08_IG_035",
+                "development_label": "Second judge issued a restraining order blocking further firings at 18 agencies",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Two federal judges found the government's stated reasons for mass firings were false, ordering reinstatement across multiple departments.",
+            "why_exemplary": "Judicial fact-finding that official justifications were fabricated documents a direct breach of institutional good faith with concrete remedial consequence.",
             "exemplar_type": "primary"
           }
         ]
@@ -194,61 +268,105 @@
     ],
     "norms_strengthened": [
       {
-        "trait": "good_faith",
-        "pattern": "Judicial actions temporarily blocked some of the administration's most aggressive moves, demonstrating a commitment to uphold legal norms.",
+        "trait": "restraint",
+        "pattern": "Federal courts issued a dense sequence of rulings this week limiting executive action: reinstating fired probationary workers at scale, blocking a punitive order against a law firm, compelling disclosure from DOGE, and restricting Treasury data access pending review.",
         "scope": "institutional",
-        "why_it_matters": "These judicial interventions highlight the importance of checks and balances in resisting executive overreach.",
+        "why_it_matters": "Sustained judicial intervention across multiple simultaneous fronts demonstrates that courts retain the practical capacity to check executive overreach even as the volume and scope of contested actions grow.",
         "exemplars": [
           {
-            "exemplar_id": "wk08_good_faith_ex01",
+            "exemplar_id": "wk08_restraint_strength_ex01",
             "week": 8,
             "event_ids": [
-              "wk08_IG_012",
-              "wk08_IG_017"
+              "wk08_IG_003"
             ],
             "developments": [
               {
-                "development_id": "wk08_IG_012",
-                "development_label": "Canceled an open meeting under the Government in the Sunshine Act.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk08_IG_017",
-                "development_label": "Ordered reinstatement of purged probationary federal employees.",
+                "development_id": "wk08_IG_003",
+                "development_label": "Supreme Court rejected Trump's attempt to freeze nearly $2 billion in congressionally approved foreign aid",
                 "role": "primary"
               }
             ],
-            "summary": "Judicial rulings enforced prior restraining orders on funding freezes, reaffirming judicial power to compel executive compliance.",
-            "why_exemplary": "These actions reinforced congressional control over appropriations and limited executive attempts to unilaterally suspend international commitments.",
+            "summary": "The Supreme Court upheld a lower court order forcing release of appropriated foreign aid funds, reinforcing congressional control over spending.",
+            "why_exemplary": "A verified, tier1-documented reaffirmation of the separation-of-powers principle that the executive cannot unilaterally withhold appropriated funds.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk08_restraint_strength_ex02",
+            "week": 8,
+            "event_ids": [
+              "wk08_IG_038"
+            ],
+            "developments": [
+              {
+                "development_id": "wk08_IG_038",
+                "development_label": "Court ordered Musk and DOGE to produce records on cost-cutting operations",
+                "role": "primary"
+              }
+            ],
+            "summary": "A federal court compelled disclosure from an informal but powerful office operating without Senate-confirmed leadership.",
+            "why_exemplary": "Reinforces that even novel, informally structured executive offices remain subject to judicial transparency and accountability requirements.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Bipartisan Senate Armed Services Committee members demanded an inspector general investigation into a classified-information Signal chat breach, and courts across multiple jurisdictions treated fired workers, law firms, and detainees as entitled to due process regardless of political convenience.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Cross-partisan demand for accountability on a national security failure, alongside consistent judicial insistence on due process, shows that some norms of institutional accountability still command support beyond party lines.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk08_good_faith_strength_ex01",
+            "week": 8,
+            "event_ids": [
+              "wk08_IG_062"
+            ],
+            "developments": [
+              {
+                "development_id": "wk08_IG_062",
+                "development_label": "Senate Armed Services Committee demanded a Pentagon inspector general investigation into a Signal chat security breach",
+                "role": "primary"
+              }
+            ],
+            "summary": "Bipartisan senators sought accountability after classified military planning was exposed to an unauthorized journalist via an insecure messaging app.",
+            "why_exemplary": "A verified, multi-source-corroborated instance of cross-partisan legislative oversight functioning despite the administration's tendency to downplay the breach.",
             "exemplar_type": "primary"
           }
         ]
       }
     ],
-    "direction_of_movement": "collapsing"
+    "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "Week 8 continues the concerning trends established in previous weeks, with the consolidation of executive power and the aggressive use of executive actions to reshape governance. The administration's actions increasingly prioritize personal and political interests over public duty, exemplified by mass firings and the centralization of authority within federal agencies. The erosion of accountability mechanisms, including the dismantling of oversight bodies and the politicization of the justice system, further exacerbates the risks to democratic integrity. However, judicial pushback indicates that some institutional resilience remains, albeit under significant threat.",
+    "narrative": "Week 8 extends the trajectory identified in Week 7, in which formal grants of concentrated power were converted into direct instruments of retaliation, self-interest, and institutional hollowing. The targeting of law firms through executive order, the disbanding of anti-kleptocracy and foreign-influence units, and the DOJ directive to disregard court orders together represent an escalation beyond the crypto-reserve conflicts of interest documented previously: personal and political retaliation is now embedded in formal executive process rather than incidental to it. The invocation of the Alien Enemies Act to bypass immigration due process echoes and intensifies the wartime-statute pattern first seen in Week 7, now applied at greater scale and explicitly against a broad category of noncitizens rather than an individual case.\n\nGood-faith violations sharpened further: a senior DOJ official's instruction to disregard prospective court orders is a more direct challenge to judicial authority than the prior week's defiance of an existing order, since it anticipates and preempts judicial constraint rather than merely violating it after the fact. Truthfulness continued to be strained less by singular dramatic falsehoods than by a steady, institutionalized stream of self-promotional government communications and inflated efficiency claims, a pattern now documented with hard numbers (92 percent overstatement) rather than general concern. Stewardship suffered further from Education Department layoffs cutting the civil-rights enforcement capacity in half, extending the disruptive institutional damage pattern from prior weeks into a core function tied to protecting vulnerable populations.\n\nAgainst this, the resilience pattern persisted and in some respects strengthened: two federal judges made explicit factual findings that government justifications for mass firings were false, a stronger and more consequential form of judicial pushback than procedural holds alone. A court's bill-of-attainder finding against a law-firm punishment order, compelled disclosure from DOGE, and bipartisan Senate demands for accountability on a security breach show that courts and some legislators continue to supply real friction. The overall trajectory remains one of continuing, compounding deterioration, with judicial fact-finding now beginning to explicitly document bad faith on the government's part, even as new fronts of executive overreach open faster than existing ones can be resolved.",
     "trend": "deteriorating",
     "stress_points": [
-      "centralization of executive power",
-      "disinformation as a governance tool",
-      "erosion of civil rights protections",
-      "politicization of the civil service"
+      "executive retaliation against law firms and legal advocacy",
+      "wartime and emergency statutes repurposed for routine immigration enforcement",
+      "explicit instruction to disregard prospective court orders",
+      "dismantling of anti-corruption and foreign-influence enforcement capacity",
+      "institutionalized self-promotional government messaging blurring fact and propaganda",
+      "hollowing of civil-rights enforcement capacity through mass layoffs"
     ],
     "sources_of_resilience": [
-      "judicial pushback against executive orders",
-      "civil society mobilization against abuses",
-      "state-level legal challenges"
+      "federal judges making explicit findings that government justifications for firings were false",
+      "court blocking of a punitive order against a law firm as an unconstitutional bill of attainder",
+      "Supreme Court and lower courts reaffirming congressional control over appropriated funds",
+      "bipartisan Senate demand for investigation into a classified-information security breach",
+      "independent trackers exposing inflated government efficiency claims",
+      "sustained civil-society protest and legal challenges from state attorneys general"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
+    "level": "severe",
+    "justification": "Week 8 shows the executive branch combining retaliation against legal and political adversaries with a preemptive instruction to disregard judicial authority, a qualitatively more serious challenge to good faith than after-the-fact defiance of specific orders. The dismantling of anti-kleptocracy and foreign-influence enforcement removes durable safeguards against elite and foreign corruption at the same time crypto-related conflicts of interest persist from the prior week. Judicial findings that the government lied to justify mass firings, and a court's bill-of-attainder ruling against a law-firm punishment order, show that institutional checks remain functional and increasingly willing to make explicit findings of bad faith, but the volume and coordination of executive actions—spanning law firms, immigration, civil-rights enforcement, and anti-corruption units—suggest the moral floor is being tested on multiple fronts simultaneously, with resistance still structurally reactive.",
     "forward_signals": [
-      "increased executive orders bypassing legislative input",
-      "escalation of disinformation campaigns",
-      "further attempts to undermine civil rights protections"
+      "whether DOJ lawyers actually disregard court orders in deportation cases as reportedly instructed",
+      "scope and pace of further retaliation against law firms following the Perkins Coie ruling",
+      "whether Alien Enemies Act deportations proceed despite judicial review",
+      "compliance with reinstatement orders for probationary federal workers",
+      "further revelations about the accuracy of DOGE savings claims",
+      "whether anti-corruption enforcement capacity is rebuilt or further eroded"
     ]
   }
 }

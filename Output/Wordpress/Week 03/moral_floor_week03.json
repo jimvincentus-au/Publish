@@ -1,12 +1,12 @@
 {
   "week_number": 3,
-  "period_label": "Week 3 – 2025-02-01–2025-02-07",
+  "period_label": "Week 3 – Feb 1–7 2025",
   "window": {
     "start": "2025-02-01",
     "end": "2025-02-07"
   },
-  "clock_time_public": "7:46 p.m.",
-  "clock_delta_minutes": 1.0,
+  "clock_time_public": "7:32 p.m.",
+  "clock_delta_minutes": 0.0,
   "baseline_traits": [
     {
       "name": "character",
@@ -18,7 +18,7 @@
     },
     {
       "name": "restraint",
-      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
     },
     {
       "name": "truthfulness",
@@ -34,16 +34,70 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week saw a further consolidation of executive power, marked by aggressive actions that blurred the lines between governance and personal interests, alongside significant erosion of accountability mechanisms and civil rights protections.",
+    "summary": "Week 3 deepened the fusion of executive and private power seen in prior weeks. A private citizen's team gained operational access to Treasury payment systems, additional inspectors general and independent board members were purged, prosecutors tied to January 6 cases were fired, and the DOJ scaled back foreign-corruption enforcement even as a major financial backer's SEC case was dropped. Executive orders pushed past constitutional and statutory limits on citizenship, spending, and international engagement. Courts intervened repeatedly and effectively, blocking the funding freeze, the birthright-citizenship order, the transgender-prisoner transfer policy, DOGE's Treasury access, and the buyout deadline, while unions, state attorneys general, and career officials filed a dense wave of litigation. The pattern is one of continued acceleration met by increasingly organized, though still reactive, institutional resistance.",
     "norms_broken": [
       {
-        "trait": "character",
-        "pattern": "Executive actions prioritized personal and political gain over public duty, exemplified by mass pardons for January 6 participants.",
-        "severity": "serious",
-        "institutional_response": "Courts and civil society initiated legal challenges, but these responses were largely reactive.",
+        "trait": "stewardship",
+        "pattern": "Additional inspectors general and independent board members (NLRB, EEOC, FEC) were removed without required notice, the Archivist of the United States was fired following the agency's role in the Mar-a-Lago documents matter, and DOJ dismantled its foreign bribery and kleptocracy enforcement units, collectively degrading oversight capacity built to outlast any single administration.",
+        "severity": "extreme",
+        "institutional_response": "A fired FEC commissioner refused to vacate her seat and a fired NLRB member sued, testing statutory removal protections; courts had not yet resolved these disputes by week's end.",
         "exemplars": [
           {
-            "exemplar_id": "wk03_character_ex01",
+            "exemplar_id": "wk03_stewardship_ex01",
+            "week": 3,
+            "event_ids": [
+              "wk03_PA_003",
+              "wk03_PA_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk03_PA_003",
+                "development_label": "Executive order dismissing anti-corruption inspectors across agencies",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk03_PA_004",
+                "development_label": "Firing of NLRB and EEOC members before terms expired",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Further removal of inspectors general and independent labor/civil-rights board members stripped away oversight bodies designed to be insulated from partisan control.",
+            "why_exemplary": "A verified, continued pattern of dismantling independent watchdogs and quasi-judicial boards central to institutional checks on executive misconduct.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk03_stewardship_ex02",
+            "week": 3,
+            "event_ids": [
+              "wk03_IG_015",
+              "wk03_IG_017"
+            ],
+            "developments": [
+              {
+                "development_id": "wk03_IG_015",
+                "development_label": "Firing of the Archivist of the United States",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk03_IG_017",
+                "development_label": "Dismantling of DOJ's foreign bribery and kleptocracy units",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Removal of the nation's chief recordkeeper and the gutting of anti-corruption enforcement units reduced institutional capacity to detect and deter abuse of power.",
+            "why_exemplary": "Directly weakens the government's long-term capacity to hold officials accountable for corruption and to preserve records essential to future oversight.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "A private citizen's team gained operational control over Treasury payment systems handling trillions of dollars, and the administration pursued sweeping unilateral actions—tariffs under emergency authority, a proposed US takeover of Gaza, sanctions on ICC officials—that extend executive power far beyond ordinary bounds.",
+        "severity": "extreme",
+        "institutional_response": "A federal judge issued an emergency order restricting DOGE's Treasury access, though administration allies publicly urged defiance of the ruling; unions and state attorneys general sued in parallel.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk03_restraint_ex01",
             "week": 3,
             "event_ids": [
               "wk03_PA_007"
@@ -51,168 +105,316 @@
             "developments": [
               {
                 "development_id": "wk03_PA_007",
-                "development_label": "Issued executive pardons for over 1,500 January 6 participants",
+                "development_label": "Musk and DOGE team gaining control of Treasury payment systems",
                 "role": "primary"
               }
             ],
-            "summary": "Trump issued blanket pardons for January 6 participants, signaling impunity for political violence.",
-            "why_exemplary": "This act exemplified a prioritization of political loyalty over accountability, undermining the integrity of the legal system.",
+            "summary": "An unelected private citizen and associates seized operational access to the federal payment pipeline disbursing Social Security and other public funds.",
+            "why_exemplary": "A verified, unprecedented extension of executive-adjacent power into core fiscal infrastructure with minimal statutory basis or accountability.",
             "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "ethics",
-        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the involvement of private actors in government functions.",
-        "severity": "serious",
-        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
-        "exemplars": [
+          },
           {
-            "exemplar_id": "wk03_ethics_ex01",
+            "exemplar_id": "wk03_restraint_ex02",
             "week": 3,
             "event_ids": [
-              "wk03_PA_003"
+              "wk03_PA_012"
             ],
             "developments": [
               {
-                "development_id": "wk03_PA_003",
-                "development_label": "Gained control over U.S. Treasury payment systems by DOGE team",
+                "development_id": "wk03_PA_012",
+                "development_label": "Declaration that the US would take over the Gaza Strip",
                 "role": "primary"
               }
             ],
-            "summary": "The administration granted Musk's associates access to Treasury systems, raising ethical concerns.",
-            "why_exemplary": "This action raised ethical concerns about self-dealing and the potential for corruption.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "truthfulness",
-        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding immigration and national security.",
-        "severity": "serious",
-        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk03_truthfulness_ex01",
-            "week": 3,
-            "event_ids": [
-              "wk03_IM_013"
-            ],
-            "developments": [
-              {
-                "development_id": "wk03_IM_013",
-                "development_label": "Used misleading narratives to justify immigration crackdowns",
-                "role": "primary"
-              }
-            ],
-            "summary": "The administration exaggerated threats to justify punitive immigration policies.",
-            "why_exemplary": "These statements embedded disinformation at the center of presidential communication, undermining trust in electoral processes.",
-            "exemplar_type": "primary"
+            "summary": "A unilateral proposal to seize foreign territory represents an extraordinary assertion of executive power in foreign affairs, bypassing legislative or international deliberation.",
+            "why_exemplary": "Illustrates a willingness to use presidential rhetoric and authority toward outcomes with no domestic legal or international basis, drawing bipartisan criticism and an impeachment filing.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "good_faith",
-        "pattern": "Executive orders undermined established legal frameworks and protections, particularly regarding immigration and civil rights.",
+        "pattern": "Prosecutors and FBI personnel tied to January 6 and Trump-related investigations were purged or compelled to disclose personnel data despite internal objections, while mass pardons for January 6 defendants extended impunity for political violence.",
         "severity": "serious",
-        "institutional_response": "Judicial challenges were initiated, but the executive's actions were largely unilateral.",
+        "institutional_response": "FBI agents filed lawsuits to block release of their names, and a court temporarily restrained disclosure, but DOJ ultimately compelled the FBI to submit the data after a weeklong standoff.",
         "exemplars": [
           {
             "exemplar_id": "wk03_good_faith_ex01",
             "week": 3,
             "event_ids": [
-              "wk03_CR_002"
+              "wk03_PA_013",
+              "wk03_IG_019"
             ],
             "developments": [
               {
-                "development_id": "wk03_CR_002",
-                "development_label": "Pursued policies to end birthright citizenship",
+                "development_id": "wk03_PA_013",
+                "development_label": "Firing of DOJ prosecutors tied to January 6 and Trump investigations",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk03_IG_019",
+                "development_label": "Compelled FBI submission of agent lists after standoff",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Dozens of prosecutors were purged and thousands of FBI agents' identities were compelled into DOJ hands despite internal resistance and litigation.",
+            "why_exemplary": "Demonstrates procedural manipulation of personnel systems to punish or chill investigators, defeating the purpose of independent law enforcement.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk03_good_faith_ex02",
+            "week": 3,
+            "event_ids": [
+              "wk03_PA_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk03_PA_005",
+                "development_label": "Mass pardons of roughly 1,600 January 6 defendants",
                 "role": "primary"
               }
             ],
-            "summary": "An executive order sought to deny citizenship to U.S.-born children of undocumented parents.",
-            "why_exemplary": "This action disregarded established processes for citizenship, undermining the spirit of legal protections.",
-            "exemplar_type": "primary"
+            "summary": "Sweeping pardons, including for individuals with serious unrelated criminal records, extended blanket impunity for an attack on the peaceful transfer of power.",
+            "why_exemplary": "A verified act that undermines accountability for political violence against democratic processes, rewarding loyalty over adherence to law.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
-        "trait": "stewardship",
-        "pattern": "The dismantling of oversight mechanisms and the removal of inspectors general weakened institutional accountability.",
+        "trait": "ethics",
+        "pattern": "The SEC halted a fraud case against a crypto entrepreneur shortly before he invested tens of millions benefiting the president financially, while Jared Kushner continued raising foreign sovereign-wealth funding despite no formal administration role.",
         "severity": "serious",
-        "institutional_response": "Limited pushback from existing oversight bodies, highlighting a lack of resilience.",
+        "institutional_response": "No agency or court intervened during the week; scrutiny came only from investigative journalism.",
         "exemplars": [
           {
-            "exemplar_id": "wk03_stewardship_ex01",
+            "exemplar_id": "wk03_ethics_ex01",
             "week": 3,
             "event_ids": [
-              "wk03_IG_004"
+              "wk03_ES_004"
             ],
             "developments": [
               {
-                "development_id": "wk03_IG_004",
-                "development_label": "Removed independent inspectors general from multiple agencies",
+                "development_id": "wk03_ES_004",
+                "development_label": "SEC halting fraud case against Justin Sun before his investment benefiting Trump",
                 "role": "primary"
               }
             ],
-            "summary": "Firing inspectors general stripped agencies of key internal watchdogs.",
-            "why_exemplary": "This action stripped internal watchdogs of their power, reducing institutional capacity to investigate executive misconduct.",
+            "summary": "Regulatory enforcement against a major financial backer of the president's crypto ventures was suspended shortly before a large investment benefiting him personally.",
+            "why_exemplary": "A verified, direct instance of regulatory decision-making appearing to align with the president's personal financial interests rather than independent enforcement judgment.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk03_ethics_ex02",
+            "week": 3,
+            "event_ids": [
+              "wk03_ES_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk03_ES_011",
+                "development_label": "Kushner raising $2 billion from Saudi sovereign wealth fund",
+                "role": "primary"
+              }
+            ],
+            "summary": "A presidential family member continued large foreign financial dealings while his father-in-law held office, raising unresolved conflict-of-interest concerns.",
+            "why_exemplary": "Illustrates the continuing entanglement of family financial interests with the administration's foreign-policy posture.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "ICE altered timestamps on old press releases to make them appear as current enforcement, and Oklahoma's education board mandated instruction on debunked 2020 election fraud claims, both embedding manufactured or misleading narratives into official information channels.",
+        "severity": "concerning",
+        "institutional_response": "Media reporting exposed the timestamp manipulation, prompting some quiet reversals; the Oklahoma curriculum change proceeded through the state board despite objections.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk03_truthfulness_ex01",
+            "week": 3,
+            "event_ids": [
+              "wk03_IM_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk03_IM_009",
+                "development_label": "ICE altering timestamps on old press releases",
+                "role": "primary"
+              }
+            ],
+            "summary": "ICE updated dates on years-old enforcement press releases so they appeared as current actions in search results, amplifying fear in immigrant communities.",
+            "why_exemplary": "A verifiable act of manufacturing a false impression of ongoing enforcement activity through manipulation of official records.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk03_truthfulness_ex02",
+            "week": 3,
+            "event_ids": [
+              "wk03_IG_026"
+            ],
+            "developments": [
+              {
+                "development_id": "wk03_IG_026",
+                "development_label": "Oklahoma standards requiring study of debunked election fraud claims",
+                "role": "primary"
+              }
+            ],
+            "summary": "State education standards were approved requiring students to study discredited 2020 election fraud narratives as legitimate points of debate.",
+            "why_exemplary": "Institutionalizes manufactured unreality about election integrity into public civic education for large numbers of students.",
+            "exemplar_type": "secondary"
           }
         ]
       }
     ],
     "norms_strengthened": [
       {
-        "trait": "good_faith",
-        "pattern": "Judicial actions temporarily blocked some of the administration's most aggressive moves, demonstrating a commitment to uphold legal norms.",
+        "trait": "restraint",
+        "pattern": "Federal courts issued a rapid succession of injunctions blocking the funding freeze, the birthright-citizenship order, the transgender-prisoner transfer policy, the coercive buyout deadline, and DOGE's Treasury access, reasserting judicial limits on executive overreach across multiple fronts simultaneously.",
         "scope": "institutional",
-        "why_it_matters": "These judicial interventions highlight the importance of checks and balances in resisting executive overreach.",
+        "why_it_matters": "Demonstrates that the judiciary retains substantial practical capacity to check a wide range of unilateral executive actions even amid an unusually high volume of simultaneous initiatives.",
         "exemplars": [
           {
-            "exemplar_id": "wk03_good_faith_ex02",
+            "exemplar_id": "wk03_restraint_strength_ex01",
             "week": 3,
             "event_ids": [
-              "wk03_IG_005"
+              "wk03_IG_001",
+              "wk03_IG_007"
             ],
             "developments": [
               {
-                "development_id": "wk03_IG_005",
-                "development_label": "Federal courts blocked Trump's federal funding freeze",
+                "development_id": "wk03_IG_001",
+                "development_label": "Restraining order blocking the federal spending freeze",
                 "role": "primary"
+              },
+              {
+                "development_id": "wk03_IG_007",
+                "development_label": "Emergency order restricting DOGE's Treasury access",
+                "role": "secondary"
               }
             ],
-            "summary": "Judges halted the federal fund freeze, asserting judicial checks on executive overreach.",
-            "why_exemplary": "This action reinforced congressional spending authority and checked executive overreach.",
+            "summary": "Federal judges quickly blocked both the attempted seizure of congressional spending power and private access to the Treasury payment system.",
+            "why_exemplary": "Two verified, rapid judicial interventions against distinct but related assertions of unlawful executive and private control over public funds.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk03_restraint_strength_ex02",
+            "week": 3,
+            "event_ids": [
+              "wk03_IG_003",
+              "wk03_IG_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk03_IG_003",
+                "development_label": "Injunction blocking the birthright citizenship order",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk03_IG_004",
+                "development_label": "Second injunction against the same order",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Two separate federal judges blocked enforcement of the order attempting to override the Fourteenth Amendment's citizenship guarantee.",
+            "why_exemplary": "Sustained, multi-judge judicial resistance to an unprecedented attempt to rewrite constitutional rights by executive fiat.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Federal employee unions, FBI agents, academic organizations, and fired officials filed a dense wave of coordinated litigation to enforce statutory protections and challenge procedural shortcuts, while a Senate overnight filibuster protest highlighted substantive policy concerns despite an ultimately unsuccessful outcome.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Widespread, organized use of lawful procedural tools to contest executive action demonstrates that institutional actors are still working within the system rather than abandoning it, a necessary condition for eventual correction.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk03_good_faith_strength_ex01",
+            "week": 3,
+            "event_ids": [
+              "wk03_IG_008",
+              "wk03_IG_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk03_IG_008",
+                "development_label": "FBI agents suing to block release of their identities",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk03_IG_009",
+                "development_label": "Federal employee unions suing over DOGE's Treasury access",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Agents and unions used lawful litigation to contest data collection and unauthorized system access, resulting in a court-ordered restriction.",
+            "why_exemplary": "A verified example of civil servants and organized labor using procedural, lawful means to defend statutory protections rather than acquiescing or escalating outside legal channels.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "A fired FEC commissioner refused to vacate her seat absent lawful removal procedure, and a dismissed NLRB member sued to enforce statutory independence protections, both defending the institutional design meant to insulate agencies from partisan control.",
+        "scope": "individual",
+        "why_it_matters": "Individual resistance to improper removal helps preserve the statutory independence of agencies that outlast any single administration, even when the immediate outcome remains contested.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk03_stewardship_strength_ex01",
+            "week": 3,
+            "event_ids": [
+              "wk03_IG_016",
+              "wk03_IG_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk03_IG_016",
+                "development_label": "FEC commissioner refusing to vacate her seat after being fired",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk03_IG_012",
+                "development_label": "Fired NLRB member suing over her removal",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Two independently removed officials contested their dismissals through lawful means, asserting statutory protections against politically motivated removal.",
+            "why_exemplary": "Demonstrates individual-level defense of institutional independence, testing whether statutory removal protections can survive executive pressure.",
             "exemplar_type": "primary"
           }
         ]
       }
     ],
-    "direction_of_movement": "collapsing"
+    "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "Week 3 represents a continuation and deepening of the concerning trends established in Week 2, with executive power increasingly operating without effective oversight. The aggressive use of executive actions to prioritize personal and political interests over public duty has become more pronounced, as seen in the mass pardons for January 6 participants and the involvement of private actors in government functions. The erosion of accountability mechanisms, including the removal of inspectors general, further exacerbates the risks to democratic integrity. However, judicial pushback indicates that some institutional resilience remains, albeit under significant threat.",
+    "narrative": "Week 3 continues and intensifies the trajectory established over the first two weeks: rapid, layered executive action designed to outpace institutional response, paired with an unprecedented fusion of private and executive power in the form of DOGE's access to Treasury systems. Where Week 2 focused on purging watchdogs and prosecutors, Week 3 extended this into independent boards (NLRB, EEOC, FEC), the National Archives, and DOJ's anti-corruption units, while also advancing sweeping unilateral claims abroad—tariffs as leverage, sanctions on the ICC, withdrawal from the UN Human Rights Council, and a proposed takeover of Gaza. Ethics concerns deepened with the SEC's suspension of a fraud case against a financial backer of the president and continued reporting on Kushner's foreign financial dealings.\n\nAt the same time, the judiciary's response this week was unusually forceful and multi-pronged: courts blocked the funding freeze, the birthright-citizenship order (twice), the transgender-prisoner transfer policy, the buyout deadline, and DOGE's Treasury access within a single week. This represents a meaningful, if still reactive, strengthening of institutional resilience relative to Week 2, where judicial intervention was real but more isolated. Federal employee unions, FBI agents, and academic and civil-society organizations mounted a dense, coordinated wave of litigation, suggesting growing organizational capacity to contest executive overreach through lawful channels even as individual officials like the fired FEC commissioner tested removal protections directly.\n\nThe cumulative picture across three weeks is of an executive branch moving with sustained speed and coordination to concentrate power, evade oversight, and blur public and private interest, met by a judiciary that remains the most consistently effective check, supplemented by increasingly organized civil-society and labor resistance. The moral floor has not collapsed, but the layering of structural changes—especially the extension of DOGE's reach and the removal of inspectors general, board members, and the Archivist—makes any future reversal progressively harder, even where individual actions are stayed or blocked in court.",
     "trend": "deteriorating",
     "stress_points": [
-      "normalization of emergency powers",
-      "disinformation as a governance tool",
-      "erosion of civil rights protections",
-      "politicization of the civil service"
+      "private, unaccountable access to core federal payment and personnel systems",
+      "continued removal of independent board members and watchdogs across agencies",
+      "dismantling of anti-corruption and foreign-bribery enforcement capacity",
+      "impunity for January 6 defendants alongside retaliation against investigators",
+      "regulatory decisions appearing to track the president's personal financial interests",
+      "manipulation of official records and curricula to embed false narratives"
     ],
     "sources_of_resilience": [
-      "judicial pushback against executive orders",
-      "civil society mobilization against abuses",
-      "state-level legal challenges"
+      "sustained, multi-front judicial intervention across funding, citizenship, and Treasury access",
+      "coordinated litigation by unions, agents, and civil-society organizations",
+      "individual officials contesting improper removal through lawful means",
+      "state attorneys general pursuing coordinated multi-state litigation",
+      "sustained public protest and civic mobilization",
+      "cross-partisan legislative concern, including an impeachment filing over foreign-policy overreach"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
+    "level": "severe",
+    "justification": "The week combined an unprecedented extension of private-sector access into core government fiscal and personnel systems with continued removal of independent oversight bodies (inspectors general, NLRB, EEOC, FEC, the Archivist) and a scaling-back of anti-corruption enforcement. These actions compound one another: reduced oversight capacity means abuses in areas like Treasury access or contracting are less likely to be detected or reported, while the SEC's suspension of enforcement against a financial backer suggests regulatory decisions may already be tracking personal interests rather than independent judgment. Judicial intervention was extensive and largely effective this week, distinguishing it somewhat from Week 2, but the pattern of testing legal limits simultaneously across many fronts, and the public suggestion by administration allies that a court order should be defied, indicates continued pressure on the baseline assumption that executive power operates within enforceable limits.",
     "forward_signals": [
-      "increased executive orders bypassing legislative input",
-      "escalation of disinformation campaigns",
-      "further attempts to undermine civil rights protections"
+      "whether the administration complies with or defies the injunction restricting DOGE's Treasury access",
+      "outcome of union and agent litigation over personnel data collection and possible retaliation",
+      "whether fired FEC and NLRB officials succeed in enforcing statutory removal protections",
+      "further reporting on financial ties between administration decisions and personal or family interests",
+      "whether Congress or courts respond to the dismantling of DOJ's anti-corruption units",
+      "escalation or de-escalation of the Gaza takeover proposal and related international reactions"
     ]
   }
 }

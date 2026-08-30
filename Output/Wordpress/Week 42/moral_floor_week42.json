@@ -1,12 +1,12 @@
 {
   "week_number": 42,
-  "period_label": "Week 42 – 2025-11-01–2025-11-07",
+  "period_label": "Week 42",
   "window": {
     "start": "2025-11-01",
     "end": "2025-11-07"
   },
-  "clock_time_public": "8:11 p.m.",
-  "clock_delta_minutes": 0.1,
+  "clock_time_public": "7:42 p.m.",
+  "clock_delta_minutes": -0.3,
   "baseline_traits": [
     {
       "name": "character",
@@ -18,7 +18,7 @@
     },
     {
       "name": "restraint",
-      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
     },
     {
       "name": "truthfulness",
@@ -34,221 +34,424 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week saw a continuation of significant breaches across multiple moral floor traits, reflecting a deepening normalization of authoritarian practices and the use of state power for partisan ends, despite some institutional pushback.",
+    "summary": "The week concentrated breaches of nearly every moral floor trait around a single flashpoint: the executive branch's use of a lapsed SNAP program, war powers, and prosecutorial authority as instruments of coercion, met by an unusually forceful institutional response. Courts blocked National Guard deployments outright, held officials in contempt-adjacent postures over food aid, and one federal judge resigned in open protest of politicized prosecutions. Voters delivered decisive rebukes in three major races and a redistricting referendum. Yet the administration answered these outcomes with fraud allegations, election monitors, an insurrection-clause gambit against a lawfully elected mayor, and continued unilateral war-making with no congressional check. The pattern is neither purely escalating nor purely resisted; it is openly contested, with real costs already inflicted on vulnerable populations before relief arrived.",
     "norms_broken": [
       {
-        "trait": "character",
-        "pattern": "Executive actions prioritized political interests over public duty, particularly through punitive measures against dissent.",
-        "severity": "serious",
-        "institutional_response": "Limited pushback from courts and Congress, indicating a lack of effective oversight.",
+        "trait": "restraint",
+        "pattern": "The executive asserted unilateral authority over lethal military action (Caribbean strikes, Nigeria threats, Mexico ground-operation planning), over food assistance funding as shutdown leverage, and over Insurrection Act invocation without judicial review, while ignoring statutory deadlines for congressional notification.",
+        "severity": "extreme",
+        "institutional_response": "Courts blocked domestic deployments in five cities and issued a permanent injunction in Portland; the Senate declined to constrain war-making abroad, leaving that domain largely unchecked.",
         "exemplars": [
           {
-            "exemplar_id": "wk42_character_ex01",
+            "exemplar_id": "wk42_restraint_ex01",
             "week": 42,
             "event_ids": [
-              "wk42_PA_008",
-              "wk42_PA_014"
+              "wk42_PA_002",
+              "wk42_PA_004"
             ],
             "developments": [
               {
-                "development_id": "wk42_PA_008",
-                "development_label": "Publicly vowed to defy a court order on distributing SNAP benefits.",
+                "development_id": "wk42_PA_002",
+                "development_label": "War Powers Resolution deadline ignored for Caribbean strikes",
                 "role": "primary"
               },
               {
-                "development_id": "wk42_PA_014",
-                "development_label": "Continued the longest federal government shutdown while threatening federal workers.",
+                "development_id": "wk42_PA_004",
+                "development_label": "Lethal strike on a Caribbean boat killing three people",
+                "role": "primary"
+              }
+            ],
+            "summary": "The executive continued lethal military action past a statutory reporting deadline without congressional authorization, killing three people in the process.",
+            "why_exemplary": "Continued use of lethal force abroad without congressional check, sustained across multiple weeks, exemplifies treating emergency war powers as a standing rather than exceptional authority.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk42_restraint_ex02",
+            "week": 42,
+            "event_ids": [
+              "wk42_PA_012",
+              "wk42_PA_016"
+            ],
+            "developments": [
+              {
+                "development_id": "wk42_PA_012",
+                "development_label": "Trump declared refusal to fully fund SNAP despite a court order",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk42_PA_016",
+                "development_label": "Vice President called the SNAP compliance order 'absurd'",
                 "role": "secondary"
               }
             ],
-            "summary": "The president's actions exemplified a shift towards using state power for personal political gain.",
-            "why_exemplary": "These actions illustrated a disregard for the integrity of public institutions, undermining democratic norms.",
+            "summary": "The administration openly defied a judicial order to fund food assistance for 42 million people, with the vice president dismissing judicial authority outright.",
+            "why_exemplary": "Using a vulnerable population's food security as shutdown leverage against a direct court order reflects an unwillingness to accept any self-limitation on executive power.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
         "trait": "ethics",
-        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the use of executive power to punish dissenting institutions and individuals.",
-        "severity": "serious",
-        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
+        "pattern": "Presidential clemency and trade concessions repeatedly aligned with direct or apparent personal financial benefit, including a pardon tied to a crypto figure connected to the president's own venture and a tariff concession following receipt of gold gifts from foreign billionaires.",
+        "severity": "extreme",
+        "institutional_response": "Media and watchdog groups (Public Citizen) documented the patterns; no internal executive check intervened.",
         "exemplars": [
           {
             "exemplar_id": "wk42_ethics_ex01",
             "week": 42,
             "event_ids": [
-              "wk42_PA_009",
-              "wk42_PA_015"
+              "wk42_PA_008"
             ],
             "developments": [
               {
-                "development_id": "wk42_PA_009",
-                "development_label": "Pardoned Binance CEO Changpeng Zhao after his money-laundering conviction.",
+                "development_id": "wk42_PA_008",
+                "development_label": "Pardon of crypto executive Changpeng Zhao while claiming ignorance of who he was",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk42_PA_015",
-                "development_label": "Signed pardons for 77 individuals involved in efforts to overturn the 2020 election.",
-                "role": "secondary"
               }
             ],
-            "summary": "The president's actions exemplified a disregard for ethical boundaries.",
-            "why_exemplary": "These actions demonstrated a willingness to use public resources as tools for political leverage and personal gain.",
+            "summary": "A pardon was granted to a businessman whose exchange had facilitated a large purchase tied to the president's own crypto venture, despite a professed lack of knowledge of the recipient.",
+            "why_exemplary": "The transactional proximity between clemency and personal financial benefit is a direct illustration of the office being used to blur the line between public power and private gain.",
             "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "restraint",
-        "pattern": "The administration's aggressive use of executive orders and punitive measures against dissenting voices showed a lack of self-limitation.",
-        "severity": "serious",
-        "institutional_response": "Limited checks from Congress or courts, indicating a weakening of institutional norms.",
-        "exemplars": [
+          },
           {
-            "exemplar_id": "wk42_restraint_ex01",
+            "exemplar_id": "wk42_ethics_ex02",
             "week": 42,
             "event_ids": [
-              "wk42_PA_003",
-              "wk42_PA_010"
+              "wk42_ES_021"
             ],
             "developments": [
               {
-                "development_id": "wk42_PA_003",
-                "development_label": "Threatened military action against Nigeria over violence against Christians.",
+                "development_id": "wk42_ES_021",
+                "development_label": "Tariff reduction for Switzerland following gold gifts from Swiss billionaires",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk42_PA_010",
-                "development_label": "Announced plans for potential U.S. military operations inside Mexico against cartels.",
-                "role": "secondary"
               }
             ],
-            "summary": "The use of military threats to address foreign issues exemplified a lack of restraint.",
-            "why_exemplary": "These actions illustrated a disregard for the limits of executive authority and the need for checks on power.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "truthfulness",
-        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding dissent and national security.",
-        "severity": "serious",
-        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk42_truthfulness_ex01",
-            "week": 42,
-            "event_ids": [
-              "wk42_IM_003",
-              "wk42_IM_004"
-            ],
-            "developments": [
-              {
-                "development_id": "wk42_IM_003",
-                "development_label": "Used SNAP funding narratives and shutdown messaging to pressure opponents.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk42_IM_004",
-                "development_label": "Claimed inflation and grocery prices were falling despite contrary evidence.",
-                "role": "secondary"
-              }
-            ],
-            "summary": "The normalization of false claims about public safety and economic conditions exemplified a significant erosion of truthfulness.",
-            "why_exemplary": "These actions embedded disinformation at the center of governance, undermining trust in governmental processes.",
-            "exemplar_type": "primary"
+            "summary": "A major trade concession followed receipt of valuable personal gifts from foreign business leaders, raising direct corruption concerns.",
+            "why_exemplary": "A policy outcome closely trailing a personal gift from a foreign national is a textbook case of the conflation of office and self-interest the ethics floor exists to prevent.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "good_faith",
-        "pattern": "The administration's actions undermined the spirit of democratic rules, particularly in election processes and judicial independence.",
+        "pattern": "The administration and allies responded to lawful, decisive election outcomes with fraud allegations, election monitors, an attempted use of the Fourteenth Amendment's insurrection clause to bar a duly elected mayor, and DOJ investigation of a state ballot measure the president opposed.",
         "severity": "serious",
-        "institutional_response": "Limited institutional resistance, with some courts attempting to uphold democratic norms.",
+        "institutional_response": "No formal removal or nullification occurred; courts and election administrators proceeded with certification, but the rhetoric and legal threats persisted through week's end.",
         "exemplars": [
           {
             "exemplar_id": "wk42_good_faith_ex01",
             "week": 42,
             "event_ids": [
-              "wk42_IG_009",
-              "wk42_IG_010"
+              "wk42_CR_008",
+              "wk42_IM_011"
             ],
             "developments": [
               {
-                "development_id": "wk42_IG_009",
-                "development_label": "Blocked a Democratic resolution to fully fund SNAP during the shutdown.",
+                "development_id": "wk42_CR_008",
+                "development_label": "House Republicans explored using the insurrection clause to bar Mamdani from office",
                 "role": "primary"
               },
               {
-                "development_id": "wk42_IG_010",
-                "development_label": "Rejected a government funding package for the 14th time, prolonging the shutdown.",
+                "development_id": "wk42_IM_011",
+                "development_label": "White House press secretary made unsubstantiated fraud claims about California's election",
                 "role": "secondary"
               }
             ],
-            "summary": "The procedural manipulation to deny representation exemplified a breach of good faith in democratic processes.",
-            "why_exemplary": "These actions demonstrated a willingness to manipulate legal frameworks for partisan advantage, undermining the integrity of democratic institutions.",
+            "summary": "Following decisive Democratic wins, officials pursued procedural and rhetorical avenues to delegitimize the outcomes rather than accept them.",
+            "why_exemplary": "Seeking to bar a lawfully elected official through constitutional misuse, paired with baseless fraud claims, defeats the purpose of electoral processes rather than merely contesting them within legitimate bounds.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk42_good_faith_ex02",
+            "week": 42,
+            "event_ids": [
+              "wk42_PA_013"
+            ],
+            "developments": [
+              {
+                "development_id": "wk42_PA_013",
+                "development_label": "DOJ directed to investigate California's Proposition 50 based on unsubstantiated fraud claims",
+                "role": "primary"
+              }
+            ],
+            "summary": "Federal law enforcement was directed to probe a state ballot measure the president opposed, based on baseless allegations, shortly after voters approved it.",
+            "why_exemplary": "Weaponizing investigative power against a legitimate election outcome the president dislikes represents procedural manipulation aimed at undoing a result rather than accepting it.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "Officials made repeated false public claims regarding SNAP recipients, election fraud during active voting, consumer identification requirements, and fabricated victory documents, while attacking accurate satire and reporting as illegitimate or criminal.",
+        "severity": "serious",
+        "institutional_response": "Fact-checkers and journalists documented the falsehoods; no correction was issued by the officials involved.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk42_truthfulness_ex01",
+            "week": 42,
+            "event_ids": [
+              "wk42_IM_011",
+              "wk42_IM_024"
+            ],
+            "developments": [
+              {
+                "development_id": "wk42_IM_011",
+                "development_label": "Unsubstantiated fraud claims about California's election from the White House podium",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk42_IM_024",
+                "development_label": "Trump claimed elections nationwide were 'rigged' while voting was underway",
+                "role": "primary"
+              }
+            ],
+            "summary": "Senior officials asserted baseless fraud claims about active elections from official platforms, undermining confidence in results before they were even finalized.",
+            "why_exemplary": "Claiming fraud during active voting, from the White House podium, exemplifies government-sourced disinformation aimed at shaping public perception of legitimate outcomes.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk42_truthfulness_ex02",
+            "week": 42,
+            "event_ids": [
+              "wk42_IM_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk42_IM_002",
+                "development_label": "Demanded criminalization of Seth Meyers's comedic criticism",
+                "role": "primary"
+              }
+            ],
+            "summary": "The president called for satire and political criticism of him to be treated as illegal conduct.",
+            "why_exemplary": "Treating accurate commentary and satire as criminal directly punishes truthful speech and chills the correction of false statements by others.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "The president publicly demanded prosecution of named political rivals and pressed senators to abandon a core legislative safeguard through personal threats, treating institutional design as an obstacle to be personally overcome rather than honored.",
+        "severity": "serious",
+        "institutional_response": "DOJ complied by indicting Comey and James; some Senate Republicans resisted the filibuster pressure, at least through week's end.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk42_character_ex01",
+            "week": 42,
+            "event_ids": [
+              "wk42_PA_010",
+              "wk42_IG_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk42_PA_010",
+                "development_label": "Public demand that the Attorney General prosecute Comey, Schiff, and James",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk42_IG_011",
+                "development_label": "DOJ indicted James Comey following the public demand",
+                "role": "primary"
+              }
+            ],
+            "summary": "The president openly directed prosecutors to pursue named critics, and the Justice Department followed through with an indictment widely described as thinly evidenced.",
+            "why_exemplary": "Publicly commanding prosecution of specific rivals and having that command executed exemplifies placing personal grievance above the disciplined, impartial exercise of office.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk42_character_ex02",
+            "week": 42,
+            "event_ids": [
+              "wk42_PA_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk42_PA_011",
+                "development_label": "Threatened Senate Republicans with personal retaliation over the filibuster",
+                "role": "primary"
+              }
+            ],
+            "summary": "The president threatened members of his own party with harassment if they did not eliminate a core legislative safeguard.",
+            "why_exemplary": "Coercing fellow officeholders through personal threats rather than persuasion or argument reflects a failure of internal discipline expected of the office.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Career prosecutorial staff were purged, Pentagon-congressional communication was centralized to limit oversight, and 77 pardons were issued to individuals connected to the 2020 election subversion effort, permanently weakening deterrence against future attempts.",
+        "severity": "serious",
+        "institutional_response": "A Reagan-appointed federal judge resigned in protest; civil society and legal commentators condemned the pardons, but no institutional reversal occurred.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk42_stewardship_ex01",
+            "week": 42,
+            "event_ids": [
+              "wk42_PA_017"
+            ],
+            "developments": [
+              {
+                "development_id": "wk42_PA_017",
+                "development_label": "Pardons issued to 77 people connected to 2020 election subversion efforts",
+                "role": "primary"
+              }
+            ],
+            "summary": "Broad clemency was granted to conspirators in a scheme to overturn a legitimate election, removing federal deterrence against future subversion attempts.",
+            "why_exemplary": "Eliminating accountability for a coordinated attack on electoral legitimacy permanently damages the institutional capacity to deter similar future conduct.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk42_stewardship_ex02",
+            "week": 42,
+            "event_ids": [
+              "wk42_IG_004",
+              "wk42_IG_020"
+            ],
+            "developments": [
+              {
+                "development_id": "wk42_IG_004",
+                "development_label": "Mass removal of career prosecutors from the DC US Attorney's Office",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk42_IG_020",
+                "development_label": "FBI agents fired and rehired in apparent retaliation",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Experienced career prosecutorial and law-enforcement staff were removed in patterns widely characterized as retaliatory, weakening institutional capacity and independence.",
+            "why_exemplary": "Purging professional staff for reasons tied to political loyalty rather than performance erodes long-term institutional competence and credibility.",
+            "exemplar_type": "secondary"
           }
         ]
       }
     ],
     "norms_strengthened": [
       {
-        "trait": "stewardship",
-        "pattern": "Judicial actions aimed at preserving SNAP benefits and blocking voter suppression measures showed resilience against executive overreach.",
+        "trait": "restraint",
+        "pattern": "Federal courts issued repeated, in some cases permanent, injunctions against domestic National Guard deployments after finding no credible factual basis for the administration's justifications.",
         "scope": "institutional",
-        "why_it_matters": "These actions reflect a commitment to maintaining public goods and services despite federal neglect.",
+        "why_it_matters": "Consistent judicial rejection of unsupported factual claims for domestic military deployment preserves a critical check on the use of force against civilians absent genuine necessity.",
         "exemplars": [
           {
-            "exemplar_id": "wk42_stewardship_ex01",
+            "exemplar_id": "wk42_restraint_ex03",
             "week": 42,
             "event_ids": [
-              "wk42_CR_004",
-              "wk42_CR_006"
+              "wk42_IG_001",
+              "wk42_IG_029"
             ],
             "developments": [
               {
-                "development_id": "wk42_CR_004",
-                "development_label": "Issued stays blocking deportation of Subramanyam Vedam after his wrongful conviction was overturned.",
+                "development_id": "wk42_IG_001",
+                "development_label": "Courts blocked National Guard deployments in five cities",
                 "role": "primary"
               },
               {
-                "development_id": "wk42_CR_006",
-                "development_label": "Pressured prosecutors to pursue political adversaries like James Comey and Letitia James.",
+                "development_id": "wk42_IG_029",
+                "development_label": "Permanent order barring deployment to Portland",
+                "role": "primary"
+              }
+            ],
+            "summary": "Multiple federal courts found deployments unlawful and one issued a final, permanent injunction after finding no evidence of disorder justifying troops.",
+            "why_exemplary": "Sustained, escalating judicial rejection across multiple cities, culminating in a permanent order, demonstrates a durable check against unsubstantiated claims of necessity for domestic force.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Federal judges continued to compel compliance with statutory SNAP funding obligations and rebuked prosecutorial conduct in politically sensitive cases, insisting on process over expedience.",
+        "scope": "institutional",
+        "why_it_matters": "Judicial insistence on procedural regularity, even under political pressure and against active executive resistance, preserves the principle that law governs outcomes rather than leverage.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk42_good_faith_ex03",
+            "week": 42,
+            "event_ids": [
+              "wk42_IG_003",
+              "wk42_IG_022"
+            ],
+            "developments": [
+              {
+                "development_id": "wk42_IG_003",
+                "development_label": "Judge McConnell enforced and found the administration in violation of SNAP funding orders",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk42_IG_022",
+                "development_label": "Magistrate Judge Fitzpatrick criticized DOJ for indicting before investigating in the Comey case",
                 "role": "secondary"
               }
             ],
-            "summary": "Judicial actions to protect democratic integrity reflect a commitment to stewardship.",
-            "why_exemplary": "These initiatives demonstrate a proactive approach to governance that prioritizes public welfare over political expediency.",
+            "summary": "Judges repeatedly held the executive to statutory obligations on food aid and publicly criticized prosecutorial shortcuts in a high-profile indictment.",
+            "why_exemplary": "Sustained judicial enforcement against active resistance, combined with public rebuke of prosecutorial conduct, shows courts defending the spirit as well as the letter of legal process.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "A sitting federal judge resigned in explicit protest of the weaponization of law against political opponents, and voters preserved judicial independence by retaining state supreme court justices.",
+        "scope": "individual",
+        "why_it_matters": "Individual acts of conscience within the judiciary, paired with public support for judicial independence at the ballot box, help sustain institutional legitimacy under sustained political pressure.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk42_stewardship_ex03",
+            "week": 42,
+            "event_ids": [
+              "wk42_IG_034",
+              "wk42_IG_019"
+            ],
+            "developments": [
+              {
+                "development_id": "wk42_IG_034",
+                "development_label": "Judge Mark Wolf resigned citing weaponization of law against political opponents",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk42_IG_019",
+                "development_label": "Pennsylvania voters retained three Democratic-aligned state supreme court justices",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A Reagan-appointed federal judge resigned in public protest of politicized prosecutions, while voters separately preserved a state court's independence.",
+            "why_exemplary": "A judge's decision to sacrifice his position rather than continue serving inside a compromised system, alongside a direct voter mandate for judicial independence, exemplifies active defense of institutional integrity.",
             "exemplar_type": "primary"
           }
         ]
       }
     ],
-    "direction_of_movement": "collapsing"
+    "direction_of_movement": "mixed_but_stable"
   },
   "cumulative_condition": {
-    "narrative": "Week 42 continues the trend of significant erosion of the moral floor, with executive actions increasingly prioritizing political interests over adherence to democratic norms. The administration's consolidation of power and punitive measures against dissenting voices deepen concerns about the integrity of public institutions. While there are pockets of resistance, such as judicial interventions and state-level initiatives, they are insufficient to counterbalance the overall trend of deterioration. The trajectory indicates a worsening crisis in democratic accountability and civil rights protections, raising serious concerns about the future of governance in the current political climate.",
+    "narrative": "Week 42 continues the trajectory documented in the prior summary without meaningful improvement, but with a notably sharper and more visible contest between erosion and resistance than in recent weeks. The pattern of clemency entangled with personal benefit persisted, most visibly in the Zhao pardon and the Swiss tariff concession following gold gifts. The prosecutorial campaign against named critics, foreshadowed the prior week, was executed in full: Comey, James, and Bolton were all charged in the same week the president publicly demanded it, while a federal magistrate rebuked the process and a federal judge resigned rather than continue serving under what he called weaponized law. Unilateral claims over war powers, food assistance, and the Insurrection Act extended the restraint failures of Week 41 into new domains, largely unconstrained by Congress.\n\nWhat distinguishes this week is the scale and decisiveness of the response. Voters delivered unambiguous results in Virginia, New Jersey, New York City, California's redistricting referendum, and Pennsylvania's judicial retention races. Courts matched that resistance with a permanent injunction against domestic troop deployment, sustained enforcement of SNAP funding obligations despite active administration defiance, and public judicial rebuke of prosecutorial shortcuts. The administration's response to electoral defeat, however, was not acceptance but procedural aggression: fraud allegations, election monitors, an insurrection-clause gambit against a lawfully elected mayor, and a DOJ probe of a ballot measure. This response pattern is itself a significant erosion of good faith, since it treats adverse democratic outcomes as illegitimate by default rather than as results to be honored.\n\nThe cumulative condition remains one of chronic multi-trait erosion running in close parallel with an unusually assertive, though still largely reactive, institutional core. The floor has not fallen further this week, but it has not been repaired either; it has been fought over in full public view, with real costs — food insecurity, family separations, retaliatory prosecutions — landing on real people while the contest played out.",
     "trend": "deteriorating",
     "stress_points": [
-      "centralization of executive power",
-      "disinformation as a governance tool",
-      "erosion of civil rights protections",
-      "politicization of the civil service"
+      "unilateral war-making without congressional check",
+      "coercive use of SNAP funding as shutdown leverage",
+      "prosecutorial targeting of named political critics",
+      "clemency and trade decisions entangled with personal financial benefit",
+      "refusal to accept adverse electoral outcomes without procedural retaliation",
+      "purges of career prosecutorial and law-enforcement staff"
     ],
     "sources_of_resilience": [
-      "judicial pushback against executive orders",
-      "civil society mobilization against abuses",
-      "state-level legal challenges"
+      "sustained judicial rejection of unsupported domestic deployment claims",
+      "judicial enforcement of statutory SNAP obligations despite active resistance",
+      "decisive voter outcomes across multiple states and a judicial retention race",
+      "individual judicial conscience, including a sitting judge's resignation in protest",
+      "professional and magistrate-level rebuke of politicized prosecutions",
+      "continued independent press documentation of falsehoods and coercive conduct"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
+    "level": "severe",
+    "justification": "Risk remains severe because this week's breaches spanned all six moral floor traits and reinforced one another in a coordinated fashion: unilateral war powers claims, coercive withholding of food assistance from a court-ordered population, a prosecutorial campaign against named critics executed within days of a public demand, and clemency and trade decisions entangled with personal benefit. The response to decisive electoral defeats — fraud allegations, election monitors, and an attempt to invoke the insurrection clause against a lawfully elected official — indicates that adverse democratic outcomes are being treated as illegitimate rather than binding, which is a particularly corrosive signal for future contested elections.\n\nThe assessment stops short of critical because institutional resistance this week was substantial and, in some respects, more forceful than in prior weeks: courts issued a permanent injunction against domestic deployment, sustained enforcement against food-aid defiance, a magistrate publicly rebuked prosecutorial conduct, a sitting federal judge resigned in protest, and voters delivered decisive results that the administration could not reverse. This is a genuine, if fragile, equilibrium rather than uncontested decline.",
     "forward_signals": [
-      "increased executive orders bypassing legislative input",
-      "escalation of disinformation campaigns",
-      "further attempts to undermine civil rights protections"
+      "whether the SNAP funding dispute resolves through compliance or continued executive resistance at the Supreme Court",
+      "further escalation or congressional constraint of military action in Venezuela, Nigeria, or Mexico",
+      "outcomes of the Comey, James, and Bolton prosecutions and any further judicial rebuke of DOJ conduct",
+      "whether the insurrection-clause effort against Mamdani advances beyond rhetoric",
+      "additional financial benefits flowing to Trump-linked ventures following pardons or trade decisions",
+      "whether Senate Republicans continue resisting filibuster elimination under sustained presidential pressure"
     ]
   }
 }

@@ -5,8 +5,8 @@
     "start": "2025-11-22",
     "end": "2025-11-28"
   },
-  "clock_time_public": "8:11 p.m.",
-  "clock_delta_minutes": null,
+  "clock_time_public": "7:42 p.m.",
+  "clock_delta_minutes": -0.2,
   "baseline_traits": [
     {
       "name": "character",
@@ -18,7 +18,7 @@
     },
     {
       "name": "restraint",
-      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
     },
     {
       "name": "truthfulness",
@@ -34,221 +34,366 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week saw significant breaches of ethical norms, particularly through the aggressive use of executive power, disinformation, and threats against dissent, while some institutional pushback was evident.",
+    "summary": "The week sustained and escalated the prior week's most severe breach: a president's public call for the arrest and execution of six lawmakers was followed by concrete institutional machinery — Pentagon investigation of Senator Kelly and an FBI counterterrorism inquiry — turning rhetoric into apparatus. Foreign-authored policy was passed off as domestic work, refugee and immigrant communities faced collective suspension of protections after a single incident, and press intimidation gained a durable institutional form via a government-run 'Media Bias Tracker.' Courts, in parallel, dismissed politically motivated indictments, blocked gerrymanders, and constrained deportation authority, producing real but partial friction against an executive current running in the opposite direction.",
     "norms_broken": [
       {
-        "trait": "character",
-        "pattern": "Executive actions prioritized political interests over public duty, particularly through aggressive rhetoric and enforcement actions.",
-        "severity": "serious",
-        "institutional_response": "Limited resistance from institutions, highlighting a weakening of checks on executive power.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk45_character_ex01",
-            "week": 45,
-            "event_ids": [
-              "wk45_PA_001",
-              "wk45_CR_004"
-            ],
-            "developments": [
-              {
-                "development_id": "wk45_PA_001",
-                "development_label": "Called for the arrest of Democratic lawmakers over a video.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk45_CR_004",
-                "development_label": "Called for the release of convicted election official Tina Peters.",
-                "role": "secondary"
-              }
-            ],
-            "summary": "The president's actions exemplified a shift towards using state power for personal political gain.",
-            "why_exemplary": "These actions illustrated a disregard for the integrity of public institutions, undermining democratic norms.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "ethics",
-        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the use of executive power to reward allies and punish critics.",
-        "severity": "serious",
-        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk45_ethics_ex01",
-            "week": 45,
-            "event_ids": [
-              "wk45_PA_006",
-              "wk45_CR_019"
-            ],
-            "developments": [
-              {
-                "development_id": "wk45_PA_006",
-                "development_label": "Issued a broad pardon potentially covering 2020 election-related voter fraud.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk45_CR_019",
-                "development_label": "Sued FHFA Director for alleged abuse of access to mortgage records.",
-                "role": "secondary"
-              }
-            ],
-            "summary": "The president's actions exemplified a disregard for ethical boundaries.",
-            "why_exemplary": "These actions demonstrated a willingness to use public resources as tools for political leverage and personal gain.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
         "trait": "restraint",
-        "pattern": "The administration's aggressive use of executive orders and immigration enforcement showed a lack of self-limitation.",
-        "severity": "serious",
-        "institutional_response": "Limited checks from Congress or courts, indicating a weakening of institutional norms.",
+        "pattern": "Following the prior week's call for execution of lawmakers, the Pentagon opened a formal investigation threatening court-martial of Senator Mark Kelly, and the FBI opened a counterterrorism inquiry into the same six Democratic lawmakers, converting presidential rhetoric into institutional action against sitting members of Congress.",
+        "severity": "extreme",
+        "institutional_response": "The Pentagon and FBI proceeded with investigations; congressional and press criticism followed but no restraint was exercised by the executive agencies themselves.",
         "exemplars": [
           {
             "exemplar_id": "wk45_restraint_ex01",
             "week": 45,
             "event_ids": [
-              "wk45_PA_003",
-              "wk45_CR_006"
+              "wk45_PA_004",
+              "wk45_IG_015"
             ],
             "developments": [
               {
-                "development_id": "wk45_PA_003",
-                "development_label": "Ordered a review and potential termination of TPS and refugee protections.",
+                "development_id": "wk45_PA_004",
+                "development_label": "Hegseth ordered Navy investigation and threatened court-martial of Senator Kelly",
                 "role": "primary"
               },
               {
-                "development_id": "wk45_CR_006",
-                "development_label": "Increased detention of immigrant children separated from families.",
-                "role": "secondary"
+                "development_id": "wk45_IG_015",
+                "development_label": "Pentagon formal investigation of Kelly over protected speech",
+                "role": "primary"
               }
             ],
-            "summary": "The use of executive power to manipulate legislative processes exemplified a lack of restraint.",
-            "why_exemplary": "These actions illustrated a disregard for the limits of executive authority and the need for checks on power.",
+            "summary": "The Defense Secretary threatened recall to active duty and court-martial of a sitting senator over a video affirming settled military law.",
+            "why_exemplary": "Use of military disciplinary authority against a legislator's protected speech converts presidential threat into institutional machinery, a severe and unprecedented breach of inter-branch restraint.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk45_restraint_ex02",
+            "week": 45,
+            "event_ids": [
+              "wk45_PA_005",
+              "wk45_IG_024"
+            ],
+            "developments": [
+              {
+                "development_id": "wk45_PA_005",
+                "development_label": "FBI opened counterterrorism investigation into six Democratic lawmakers",
+                "role": "primary"
+              }
+            ],
+            "summary": "The FBI contacted congressional sergeants at arms to arrange interviews with lawmakers over a video restating military law.",
+            "why_exemplary": "Federal law enforcement investigating members of Congress for stating settled legal doctrine demonstrates institutional willingness to weaponize investigative power against political speech.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding immigration and economic conditions.",
+        "pattern": "Officials misrepresented the origin of the Ukraine peace plan as American work despite it being substantially Russian-drafted, with the special envoy reportedly coaching Russian officials on how to present it, while the administration also cancelled a GDP report following favorable growth claims.",
         "severity": "serious",
-        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
+        "institutional_response": "Senators publicly contradicted Rubio's account after private briefings; media reporting surfaced the discrepancy, but no official correction or accountability followed within the administration.",
         "exemplars": [
           {
             "exemplar_id": "wk45_truthfulness_ex01",
             "week": 45,
             "event_ids": [
               "wk45_IM_004",
-              "wk45_IM_013"
+              "wk45_IM_016"
             ],
             "developments": [
               {
                 "development_id": "wk45_IM_004",
-                "development_label": "Leaked false claims of a Ukraine peace deal to media outlets.",
+                "development_label": "Rubio insisted US authored the Ukraine peace plan despite senators' contrary account",
                 "role": "primary"
               },
               {
-                "development_id": "wk45_IM_013",
-                "development_label": "Promoted disinformation about elections and Ukraine policy.",
-                "role": "secondary"
+                "development_id": "wk45_IM_016",
+                "development_label": "Witkoff reportedly coached Russian officials on presenting the plan to Trump",
+                "role": "primary"
               }
             ],
-            "summary": "The normalization of false claims about public safety and economic integrity exemplified a significant erosion of truthfulness.",
-            "why_exemplary": "These actions embedded disinformation at the center of governance, undermining trust in governmental processes.",
+            "summary": "The Secretary of State publicly claimed US authorship of a peace plan that bipartisan senators said he had privately described as Russian-drafted.",
+            "why_exemplary": "Direct, documented contradiction between private and public statements about the true origin of a major foreign-policy document exemplifies deliberate obscuring of fact from the public.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk45_truthfulness_ex02",
+            "week": 45,
+            "event_ids": [
+              "wk45_IM_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk45_IM_011",
+                "development_label": "Cancellation of Q3 GDP advance estimate amid AI-growth claims",
+                "role": "primary"
+              }
+            ],
+            "summary": "The administration cancelled a scheduled economic data release shortly after officials had credited AI investment with driving growth.",
+            "why_exemplary": "Withdrawing an independent economic measure at the moment it might contradict official claims deprives the public of a neutral check on government assertions.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "The president used dehumanizing language and false ethnic claims against a governor and a member of Congress on a national holiday, and repeatedly attacked female reporters with personal insults rather than substantive responses.",
+        "severity": "serious",
+        "institutional_response": "Widely reported by multiple outlets; targeted officials publicly responded but no institutional consequence followed.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk45_character_ex01",
+            "week": 45,
+            "event_ids": [
+              "wk45_PA_010",
+              "wk45_IM_018"
+            ],
+            "developments": [
+              {
+                "development_id": "wk45_PA_010",
+                "development_label": "Thanksgiving slur against Governor Walz and false claims about Somali refugees and Rep. Omar",
+                "role": "primary"
+              }
+            ],
+            "summary": "A president's holiday social media post used a slur against a sitting governor and spread false ethnic claims about a member of Congress.",
+            "why_exemplary": "Using the highest office to degrade a governor and spread falsehoods about a legislator's heritage reflects a sustained failure of basic discipline expected of the office.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk45_character_ex02",
+            "week": 45,
+            "event_ids": [
+              "wk45_IM_014",
+              "wk45_IM_019"
+            ],
+            "developments": [
+              {
+                "development_id": "wk45_IM_014",
+                "development_label": "Repeated gendered attacks on female reporters over health and record-keeping coverage",
+                "role": "primary"
+              }
+            ],
+            "summary": "The president repeatedly insulted the appearance and intelligence of female journalists covering his health and public statements.",
+            "why_exemplary": "A pattern of personal, gendered attacks on reporters performing ordinary journalistic functions demonstrates a habitual, not isolated, failure of presidential discipline.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "good_faith",
-        "pattern": "The administration's actions undermined the spirit of democratic rules, particularly in election processes and judicial independence.",
+        "pattern": "The administration terminated protected status for Haitian and Myanmar nationals amid active humanitarian crises, halted Afghan immigration processing after a single shooting, and stripped churches and schools of longstanding sanctuary protections, collectively punishing broad populations for isolated events or unrelated political dynamics.",
         "severity": "serious",
-        "institutional_response": "Limited institutional resistance, with some courts attempting to uphold democratic norms.",
+        "institutional_response": "Advocacy groups and some courts pushed back; enforcement proceeded regardless within the week.",
         "exemplars": [
           {
-            "exemplar_id": "wk45_good_faith_ex01",
+            "exemplar_id": "wk45_goodfaith_ex01",
             "week": 45,
             "event_ids": [
-              "wk45_IG_004",
-              "wk45_IG_013"
+              "wk45_CR_018",
+              "wk45_PA_010"
             ],
             "developments": [
               {
-                "development_id": "wk45_IG_004",
-                "development_label": "Dismissed indictments against James Comey and Letitia James.",
+                "development_id": "wk45_CR_018",
+                "development_label": "Halted Afghan immigration processing after DC shooting",
+                "role": "primary"
+              }
+            ],
+            "summary": "A single criminal act by one Afghan asylee triggered blanket suspension of an entire nationality's immigration processing and a review of prior asylum approvals.",
+            "why_exemplary": "Imposing collective consequences on a whole population for one individual's alleged conduct defeats the individualized, case-by-case spirit of immigration and asylum law.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk45_goodfaith_ex02",
+            "week": 45,
+            "event_ids": [
+              "wk45_CR_020",
+              "wk45_CR_021"
+            ],
+            "developments": [
+              {
+                "development_id": "wk45_CR_020",
+                "development_label": "Overturned sanctuary policy allowing ICE arrests inside churches",
                 "role": "primary"
               },
               {
-                "development_id": "wk45_IG_013",
-                "development_label": "Dismissed the 2020 election racketeering case against Trump and allies.",
+                "development_id": "wk45_CR_021",
+                "development_label": "Violent mass arrests and suppression of faith-leader protests in Chicago",
                 "role": "secondary"
               }
             ],
-            "summary": "The procedural manipulation to deny representation exemplified a breach of good faith in democratic processes.",
-            "why_exemplary": "These actions demonstrated a willingness to manipulate legal frameworks for partisan advantage, undermining the integrity of democratic institutions.",
+            "summary": "Longstanding protections against enforcement in places of worship were eliminated, followed by forcible suppression of clergy protesting the change.",
+            "why_exemplary": "Removing a settled norm of restraint around sacred and educational spaces, then meeting peaceful religious objection with force, undermines the spirit of both religious liberty and proportionate enforcement.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "The DOJ's mass reassignment of career attorneys away from civil rights and corruption enforcement toward prosecution of political opponents, alongside a government-run 'Media Bias Tracker' naming specific journalists, institutionalizes tools that outlast any single administration's tenure and damage durable institutional capacity.",
+        "severity": "serious",
+        "institutional_response": "Reported by multiple outlets; no reversal or oversight remedy occurred within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk45_stewardship_ex01",
+            "week": 45,
+            "event_ids": [
+              "wk45_IG_016"
+            ],
+            "developments": [
+              {
+                "development_id": "wk45_IG_016",
+                "development_label": "Mass departures and redirection of DOJ staff away from civil rights and corruption cases",
+                "role": "primary"
+              }
+            ],
+            "summary": "Roughly 5,500 DOJ lawyers departed or were reassigned as investigative priorities shifted toward political opponents and away from civil rights enforcement.",
+            "why_exemplary": "Systemic hollowing of career enforcement capacity in favor of politically directed prosecution damages institutional function beyond any single term in office.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk45_stewardship_ex02",
+            "week": 45,
+            "event_ids": [
+              "wk45_IM_020"
+            ],
+            "developments": [
+              {
+                "development_id": "wk45_IM_020",
+                "development_label": "White House launched official 'Media Bias Tracker' naming journalists and outlets",
+                "role": "primary"
+              }
+            ],
+            "summary": "The White House launched a formal government website identifying and criticizing specific journalists and news outlets as biased.",
+            "why_exemplary": "A durable, institutionalized government mechanism for pressuring the press differs from transient presidential complaint, building lasting infrastructure for intimidation.",
+            "exemplar_type": "secondary"
           }
         ]
       }
     ],
     "norms_strengthened": [
       {
-        "trait": "stewardship",
-        "pattern": "Judicial actions aimed at preserving civil rights and transparency showed resilience against executive overreach.",
+        "trait": "restraint",
+        "pattern": "A federal judge dismissed the indictments against Comey and James after finding the prosecutor Trump installed was unlawfully appointed, and courts blocked gerrymandered maps in Texas and Utah while an appeals court upheld sanctions against Trump and his attorney for frivolous litigation.",
         "scope": "institutional",
-        "why_it_matters": "These actions reflect a commitment to maintaining public goods and services despite federal neglect.",
+        "why_it_matters": "Judicial willingness to invalidate politically motivated prosecutions and enforce electoral map integrity demonstrates that constitutional checks on executive overreach remain operative, even under sustained pressure.",
         "exemplars": [
           {
-            "exemplar_id": "wk45_stewardship_ex01",
+            "exemplar_id": "wk45_restraint_strength_ex01",
             "week": 45,
             "event_ids": [
-              "wk45_IG_002",
-              "wk45_IG_017"
+              "wk45_IG_009",
+              "wk45_IG_002"
             ],
             "developments": [
               {
-                "development_id": "wk45_IG_002",
-                "development_label": "Blocked expansion of rapid deportation policy lacking due process.",
+                "development_id": "wk45_IG_009",
+                "development_label": "Dismissal of Comey and James indictments over unlawful prosecutor appointment",
+                "role": "primary"
+              }
+            ],
+            "summary": "A federal court invalidated politically targeted prosecutions after finding the appointed prosecutor bypassed Senate confirmation requirements.",
+            "why_exemplary": "A clean, law-grounded ruling unmoved by political pressure reinforces constitutional limits on executive appointment power used to target critics.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk45_restraint_strength_ex02",
+            "week": 45,
+            "event_ids": [
+              "wk45_IG_029",
+              "wk45_IG_030"
+            ],
+            "developments": [
+              {
+                "development_id": "wk45_IG_029",
+                "development_label": "Federal panel blocked Texas gerrymandered map",
                 "role": "primary"
               },
               {
-                "development_id": "wk45_IG_017",
-                "development_label": "Blocked Texas's mid-decade congressional redistricting plan.",
-                "role": "secondary"
+                "development_id": "wk45_IG_030",
+                "development_label": "Utah judge invalidated map violating voter-approved anti-gerrymandering amendment",
+                "role": "primary"
               }
             ],
-            "summary": "Judicial actions to protect democratic integrity reflect a commitment to stewardship.",
-            "why_exemplary": "These initiatives demonstrate a proactive approach to governance that prioritizes public welfare over political expediency.",
+            "summary": "Courts in two states rejected mid-decade partisan gerrymanders, constraining a nationwide executive-driven redistricting push.",
+            "why_exemplary": "Judicial enforcement of anti-gerrymandering limits against a coordinated national pressure campaign preserves electoral map integrity ahead of the midterms.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "A bipartisan Senate Armed Services Committee announced a formal oversight inquiry into alleged unlawful follow-on military strikes, and grassroots litigation and referendum efforts in Missouri challenged mid-decade redistricting as unconstitutional.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Bipartisan congressional oversight of potentially unlawful military conduct, alongside citizen-driven legal and referendum challenges to gerrymandering, shows that both institutional and grassroots checks on executive overreach remain active.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk45_goodfaith_strength_ex01",
+            "week": 45,
+            "event_ids": [
+              "wk45_IG_035"
+            ],
+            "developments": [
+              {
+                "development_id": "wk45_IG_035",
+                "development_label": "Bipartisan Senate Armed Services Committee inquiry into unlawful military strikes",
+                "role": "primary"
+              }
+            ],
+            "summary": "A bipartisan Senate committee opened a formal inquiry into potentially unlawful follow-on military strikes.",
+            "why_exemplary": "Cross-partisan congressional willingness to investigate potential unlawful military conduct demonstrates continued institutional commitment to accountability over party loyalty.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk45_goodfaith_strength_ex02",
+            "week": 45,
+            "event_ids": [
+              "wk45_IG_031"
+            ],
+            "developments": [
+              {
+                "development_id": "wk45_IG_031",
+                "development_label": "Missouri voters filed lawsuits and organized referendum against redistricting",
+                "role": "primary"
+              }
+            ],
+            "summary": "Missouri residents pursued both litigation and a referendum to challenge a mid-decade partisan redistricting scheme.",
+            "why_exemplary": "Combining legal and direct-democracy tools to resist gerrymandering exemplifies grassroots good-faith engagement with democratic processes.",
+            "exemplar_type": "secondary"
           }
         ]
       }
     ],
-    "direction_of_movement": "collapsing"
+    "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "Week 45 continues the trend of significant erosion of the moral floor, with executive actions increasingly prioritizing political interests over adherence to democratic norms. The administration's consolidation of power and punitive measures against dissenting voices deepen concerns about the integrity of public institutions. While there are pockets of resistance, such as judicial interventions and state-level initiatives, they are insufficient to counterbalance the overall trend of deterioration. The trajectory indicates a worsening crisis in democratic accountability and civil rights protections, raising serious concerns about the future of governance in the current political climate.",
+    "narrative": "Week 45 confirms rather than reverses the deteriorating trajectory identified in Week 44. The prior week's unprecedented presidential call for the arrest and execution of lawmakers did not remain rhetorical: it produced concrete institutional follow-through, with the Pentagon threatening court-martial of a sitting senator and the FBI opening a counterterrorism inquiry into six members of Congress. This represents the clearest evidence yet that executive rhetoric against legislative dissent is being operationalized through federal law enforcement and military disciplinary machinery, rather than remaining an isolated outburst.\n\nParallel currents reinforced the pattern. A foreign-drafted peace plan was misrepresented as domestic work, with a senior envoy reportedly coaching the foreign party on how to frame it for presidential acceptance — a direct instance of a government blurring the line between foreign influence and domestic authorship of policy. Immigration enforcement continued to impose collective consequences on entire populations for isolated events, and a newly launched government media-tracking tool gave press intimidation a durable institutional form rather than leaving it to transient presidential complaint.\n\nAgainst this, courts again supplied meaningful friction: the Comey and James prosecutions were dismissed on constitutional grounds, gerrymandered maps were blocked in two states, and a bipartisan congressional committee opened an inquiry into potentially unlawful military strikes. These interventions did not reverse the week's central breaches but confirm that certain institutional mechanisms — courts, and pockets of bipartisan legislative oversight — continue to function under strain. The overall trajectory remains one of active, multi-front erosion running alongside a still-operative but increasingly taxed set of checks.",
     "trend": "deteriorating",
     "stress_points": [
-      "centralization of executive power",
-      "disinformation as a governance tool",
-      "erosion of civil rights protections",
-      "politicization of the civil service"
+      "institutional operationalization of presidential threats against lawmakers via Pentagon and FBI action",
+      "foreign-authored policy misrepresented as domestic work",
+      "collective punishment of immigrant and refugee populations for isolated incidents",
+      "durable institutional infrastructure for press intimidation",
+      "hollowing of DOJ career enforcement capacity in favor of political prosecution",
+      "suppression of peaceful religious protest against enforcement policy changes"
     ],
     "sources_of_resilience": [
-      "judicial pushback against executive orders",
-      "civil society mobilization against abuses",
-      "state-level legal challenges"
+      "judicial dismissal of politically motivated prosecutions on constitutional grounds",
+      "court blocks on partisan gerrymandering in multiple states",
+      "bipartisan congressional oversight of potentially unlawful military strikes",
+      "grassroots litigation and referendum efforts against redistricting",
+      "continued independent reporting exposing contradictions in official statements",
+      "consumer and labor mobilization sustaining economic accountability pressure"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
+    "level": "critical",
+    "justification": "Risk remains at critical this week because the prior week's threat of violence against lawmakers moved from rhetoric to institutional action: the Pentagon's threatened court-martial of a sitting senator and the FBI's counterterrorism inquiry into six members of Congress demonstrate that federal law enforcement and military discipline are now being directed against protected legislative speech. This is a qualitatively more dangerous development than rhetoric alone, since it shows agencies willing to operationalize presidential anger into formal proceedings against a co-equal branch.\n\nThis sits alongside credible evidence that a foreign government helped shape and disguise the origin of a major US foreign-policy initiative, collective punishment of immigrant populations for isolated incidents, and the institutionalization of press-intimidation tools. Countervailing judicial and bipartisan congressional action prevented total unchecked escalation, but none of these interventions addressed the core danger: agencies of the state actively investigating legislators for constitutionally protected speech. The risk level is sustained at critical rather than elevated to the maximum tier because courts continued to function effectively and some bipartisan oversight emerged, but the direction and velocity of the threat to legislative independence warrant continued critical-level vigilance.",
     "forward_signals": [
-      "increased executive orders bypassing legislative input",
-      "escalation of disinformation campaigns",
-      "further attempts to undermine civil rights protections"
+      "outcome of the Pentagon investigation and any court-martial proceedings against Senator Kelly",
+      "whether the FBI counterterrorism inquiry into lawmakers proceeds to further action",
+      "further revelations about the Ukraine peace plan's Russian authorship and any accountability for officials who misrepresented it",
+      "judicial rulings on the legality of ending TPS for Haiti and Myanmar amid active crises",
+      "whether the Media Bias Tracker expands or triggers legal challenge",
+      "progress and outcome of Missouri's redistricting referendum and litigation"
     ]
   }
 }

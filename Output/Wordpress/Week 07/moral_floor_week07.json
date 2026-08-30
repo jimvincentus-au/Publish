@@ -1,12 +1,12 @@
 {
   "week_number": 7,
-  "period_label": "Week 7 – 2025-03-01–2025-03-07",
+  "period_label": "Week 7",
   "window": {
     "start": "2025-03-01",
     "end": "2025-03-07"
   },
-  "clock_time_public": "7:52 p.m.",
-  "clock_delta_minutes": 0.5,
+  "clock_time_public": "7:32 p.m.",
+  "clock_delta_minutes": 0.1,
   "baseline_traits": [
     {
       "name": "character",
@@ -18,7 +18,7 @@
     },
     {
       "name": "restraint",
-      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
     },
     {
       "name": "truthfulness",
@@ -34,221 +34,385 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week saw a continuation of the erosion of democratic norms, marked by aggressive executive actions that blurred the lines between public duty and personal gain, while courts and civil society made notable attempts to resist these trends.",
+    "summary": "Week 7 shows continued fusion of public office and private financial gain, most vividly in a national crypto reserve benefiting Trump-aligned holders and the halted prosecution of a large memecoin buyer, alongside intensifying retaliation against law firms, universities, and judges perceived as adversarial. Truthfulness was strained by a nationally televised address containing numerous false claims and curated White House messaging blending governance with promotion. Restraint continued to erode through removal of an FTC commissioner without cause, use of a wartime statute to bypass immigration due process, and bond requirements designed to deter litigation against the government. Courts, the Merit Systems Protection Board, and some state legislatures again supplied meaningful resistance, blocking firings, funding freezes, and anti-civil-rights bills, while civil society mobilized visibly against key flashpoints.",
     "norms_broken": [
       {
-        "trait": "character",
-        "pattern": "Executive actions prioritized personal and political gain over public duty, particularly through mass layoffs and consolidation of power within federal agencies.",
-        "severity": "serious",
-        "institutional_response": "Courts issued some rulings to block actions, but overall institutional resistance was limited.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk07_character_ex01",
-            "week": 7,
-            "event_ids": [
-              "wk07_PA_010",
-              "wk07_PA_006"
-            ],
-            "developments": [
-              {
-                "development_id": "wk07_PA_010",
-                "development_label": "Directed mass layoffs across multiple federal agencies.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk07_PA_006",
-                "development_label": "Approved a nearly $3 billion arms sale to Israel while bypassing congressional review.",
-                "role": "primary"
-              }
-            ],
-            "summary": "Mass layoffs and bypassing Congress for arms sales exemplified prioritization of loyalty and expediency over public duty.",
-            "why_exemplary": "These actions illustrated a shift towards personal rule, undermining the integrity of public institutions.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
         "trait": "ethics",
-        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the involvement of private actors in government functions.",
+        "pattern": "The administration established a federal crypto reserve populated with assets held by Trump-aligned figures and donors, halted a fraud prosecution against a large buyer of Trump-branded memecoins, and the president publicly opposed a Medicare rule shortly after a large donation from an affected company.",
         "severity": "serious",
-        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
+        "institutional_response": "No independent ethics enforcement was recorded; media scrutiny raised the concerns but no formal remedy occurred within the week.",
         "exemplars": [
           {
             "exemplar_id": "wk07_ethics_ex01",
             "week": 7,
             "event_ids": [
-              "wk07_PA_008",
-              "wk07_PA_004"
+              "wk07_PA_031",
+              "wk07_ES_021"
             ],
             "developments": [
               {
-                "development_id": "wk07_PA_008",
-                "development_label": "Announced the creation of a federal strategic cryptocurrency reserve.",
+                "development_id": "wk07_PA_031",
+                "development_label": "Executive order established a national bitcoin and digital asset reserve",
                 "role": "primary"
               },
               {
-                "development_id": "wk07_PA_004",
-                "development_label": "Ordered immediate expansion of American timber production on federal lands.",
+                "development_id": "wk07_ES_021",
+                "development_label": "DOGE announced a strategic crypto reserve including tokens tied to administration-linked financial interests",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A federal cryptocurrency reserve was created including assets in which Trump-aligned officials, donors, and family members held substantial financial stakes.",
+            "why_exemplary": "A verified, tier1-documented policy that converts government authority into a direct financial benefit for insiders, the clearest instance of self-dealing this week.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk07_ethics_ex02",
+            "week": 7,
+            "event_ids": [
+              "wk07_ES_023"
+            ],
+            "developments": [
+              {
+                "development_id": "wk07_ES_023",
+                "development_label": "Halted fraud prosecution of crypto figure Justin Sun after his large purchase of Trump-branded memecoins",
                 "role": "primary"
               }
             ],
-            "summary": "The cryptocurrency reserve and timber production expansion blurred the lines between public office and private interests.",
-            "why_exemplary": "These actions exemplified a disregard for ethical boundaries, prioritizing personal and political interests.",
+            "summary": "A federal fraud case was paused shortly after the defendant made purchases that personally enriched the president.",
+            "why_exemplary": "Suggests law enforcement outcomes may be shaped by direct financial benefit to the president rather than the underlying merits of the case.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "The president removed an FTC commissioner without statutory cause, invoked an 18th-century wartime statute to bypass ordinary immigration due process, and a memo directed agencies to impose bond requirements raising the cost of suing the government.",
+        "severity": "serious",
+        "institutional_response": "Courts pushed back on several fronts (NLRB reinstatement, foreign-aid freeze, USDA firings), but the administration continued layering similar measures regardless.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk07_restraint_ex01",
+            "week": 7,
+            "event_ids": [
+              "wk07_PA_010"
+            ],
+            "developments": [
+              {
+                "development_id": "wk07_PA_010",
+                "development_label": "Fired FTC Commissioner Rebecca Slaughter without statutory cause",
+                "role": "primary"
+              }
+            ],
+            "summary": "The president removed an independent agency commissioner despite for-cause statutory removal protections, testing limits on presidential removal power.",
+            "why_exemplary": "A verified, tier1-documented action directly contesting a longstanding structural check on unilateral executive control of independent regulators.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk07_restraint_ex02",
+            "week": 7,
+            "event_ids": [
+              "wk07_CR_013"
+            ],
+            "developments": [
+              {
+                "development_id": "wk07_CR_013",
+                "development_label": "Invoked the Alien Enemies Act of 1798 to justify mass deportations",
+                "role": "primary"
+              }
+            ],
+            "summary": "A wartime-era statute was invoked to justify large-scale deportations, bypassing standard immigration due process protections.",
+            "why_exemplary": "Represents an extraordinary emergency power repurposed for routine enforcement, later rejected by multiple federal judges as overreach.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "The administration deported Kilmar Ábrego García despite an existing protective court order, continued transferring transgender women to men's prisons despite judicial blocks, and used federal funding leverage and hiring threats to coerce policy concessions from universities before investigations concluded.",
+        "severity": "serious",
+        "institutional_response": "Courts issued rulings against several of these actions, but compliance was inconsistent and enforcement was contested.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk07_good_faith_ex01",
+            "week": 7,
+            "event_ids": [
+              "wk07_CR_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk07_CR_009",
+                "development_label": "Deported Kilmar Ábrego García in violation of a 2019 court order",
+                "role": "primary"
+              }
+            ],
+            "summary": "Immigration enforcement proceeded despite an existing protective order, demonstrating defiance of a binding judicial ruling.",
+            "why_exemplary": "A verified, multi-source-corroborated instance of executive action directly contravening a court order rather than seeking lawful modification.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk07_good_faith_ex02",
+            "week": 7,
+            "event_ids": [
+              "wk07_PA_006",
+              "wk07_PA_021"
+            ],
+            "developments": [
+              {
+                "development_id": "wk07_PA_006",
+                "development_label": "Pressured Columbia University into funding-related policy concessions",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk07_PA_021",
+                "development_label": "Targeted San Jose State University before completion of a Title IX investigation",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Universities faced funding cuts and enforcement threats tied to unresolved or predetermined investigations rather than completed fact-finding.",
+            "why_exemplary": "Illustrates procedural manipulation where punishment preceded or substituted for due process, undermining the purpose of investigatory safeguards.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding immigration and national security.",
-        "severity": "serious",
-        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
+        "pattern": "The president's nationally televised address to Congress contained numerous debunked claims about DOGE fraud discovery, and the White House systematically curated favorable commentary and selective economic data through official communications channels.",
+        "severity": "concerning",
+        "institutional_response": "Independent fact-checkers publicly corrected the claims; no retraction was issued by the administration.",
         "exemplars": [
           {
             "exemplar_id": "wk07_truthfulness_ex01",
             "week": 7,
             "event_ids": [
               "wk07_IM_005",
-              "wk07_CR_020"
+              "wk07_IM_012"
             ],
             "developments": [
               {
                 "development_id": "wk07_IM_005",
-                "development_label": "Delivered a nationally televised address filled with false claims.",
+                "development_label": "Falsely claimed DOGE uncovered hundreds of billions in fraud during congressional address",
                 "role": "primary"
               },
               {
-                "development_id": "wk07_CR_020",
-                "development_label": "Threatened to cut federal funding to colleges that allow protests.",
-                "role": "primary"
+                "development_id": "wk07_IM_012",
+                "development_label": "Delivered a nationally televised address containing numerous false claims",
+                "role": "secondary"
               }
             ],
-            "summary": "The president's address and threats to colleges spread disinformation and undermined trust.",
-            "why_exemplary": "These actions embedded disinformation at the center of governance, undermining trust in governmental processes.",
+            "summary": "A major address to Congress included widely debunked claims about government fraud and other policy matters.",
+            "why_exemplary": "A verified, high-visibility instance where a formal constitutional occasion was used to spread manufactured claims to the entire nation.",
             "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "good_faith",
-        "pattern": "Executive orders undermined established legal frameworks and protections, particularly regarding immigration and civil rights.",
-        "severity": "serious",
-        "institutional_response": "Judicial challenges were initiated, but the executive's actions were largely unilateral.",
-        "exemplars": [
+          },
           {
-            "exemplar_id": "wk07_good_faith_ex01",
+            "exemplar_id": "wk07_truthfulness_ex02",
             "week": 7,
             "event_ids": [
-              "wk07_CR_014",
-              "wk07_CR_011"
+              "wk07_IM_006",
+              "wk07_IM_011"
             ],
             "developments": [
               {
-                "development_id": "wk07_CR_014",
-                "development_label": "Planned to revoke temporary legal status for Ukrainians.",
+                "development_id": "wk07_IM_006",
+                "development_label": "Curated favorable polling and commentary about the congressional address",
                 "role": "primary"
               },
               {
-                "development_id": "wk07_CR_011",
-                "development_label": "Threatened to cut DOJ hiring from institutions maintaining DEI programs.",
-                "role": "primary"
+                "development_id": "wk07_IM_011",
+                "development_label": "Published fact sheets aggregating favorable political commentary as official communications",
+                "role": "secondary"
               }
             ],
-            "summary": "The revocation of legal status and threats to universities politicized enforcement and undermined legal protections.",
-            "why_exemplary": "These actions disregarded established processes for justice, undermining the spirit of legal protections.",
-            "exemplar_type": "primary"
+            "summary": "Official White House channels systematically packaged selective praise and commentary as government communication.",
+            "why_exemplary": "Documents a repeated, verified pattern of blending partisan promotion with the machinery of official government messaging.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "stewardship",
-        "pattern": "The dismantling of oversight mechanisms and the removal of inspectors general weakened institutional accountability.",
+        "pattern": "DHS dismantled three independent watchdog offices overseeing civil rights and detention conditions amid record detention numbers, the VA liquidated its only office tracking racial disparities in veteran benefits, and CDC clawed back $11.4 billion in public health funding.",
         "severity": "serious",
-        "institutional_response": "Limited pushback from existing oversight bodies, highlighting a lack of resilience.",
+        "institutional_response": "Congressional Democrats requested a GAO inquiry; courts and oversight bodies had not yet reversed these closures within the week.",
         "exemplars": [
           {
             "exemplar_id": "wk07_stewardship_ex01",
             "week": 7,
             "event_ids": [
-              "wk07_PA_010",
-              "wk07_IM_009"
+              "wk07_IG_002",
+              "wk07_IG_038"
             ],
             "developments": [
               {
-                "development_id": "wk07_PA_010",
-                "development_label": "Directed mass layoffs across multiple federal agencies.",
+                "development_id": "wk07_IG_002",
+                "development_label": "Dismantled three independent DHS watchdog offices overseeing civil rights and detention conditions",
                 "role": "primary"
               },
               {
-                "development_id": "wk07_IM_009",
-                "development_label": "Delayed release of a report on Jeffrey Epstein.",
+                "development_id": "wk07_IG_038",
+                "development_label": "Eliminated federal immigration detention oversight offices",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Internal oversight bodies monitoring detention conditions and civil rights compliance were closed during a period of record detention volume.",
+            "why_exemplary": "Removes durable institutional capacity for accountability precisely when enforcement volume—and risk of abuse—was increasing.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk07_stewardship_ex02",
+            "week": 7,
+            "event_ids": [
+              "wk07_IG_039"
+            ],
+            "developments": [
+              {
+                "development_id": "wk07_IG_039",
+                "development_label": "VA liquidated its Office of Equity Assurance investigating racial disparities in disability claims",
                 "role": "primary"
               }
             ],
-            "summary": "Mass layoffs and delayed reports undermined institutional capacity and accountability.",
-            "why_exemplary": "These actions stripped internal watchdogs of their power, reducing institutional capacity to investigate executive misconduct.",
-            "exemplar_type": "primary"
+            "summary": "The only VA office tracking documented racial disparities in veteran disability claims was dissolved.",
+            "why_exemplary": "A verified, multi-source-corroborated elimination of a specific, evidence-based oversight function serving veterans, with no replacement mechanism identified.",
+            "exemplar_type": "secondary"
           }
         ]
       }
     ],
     "norms_strengthened": [
       {
-        "trait": "good_faith",
-        "pattern": "Judicial actions temporarily blocked some of the administration's most aggressive moves, demonstrating a commitment to uphold legal norms.",
+        "trait": "restraint",
+        "pattern": "Federal courts and the Merit Systems Protection Board issued a sequence of rulings this week checking executive overreach: ordering reinstatement of an unlawfully fired NLRB official, rejecting the freeze of foreign aid, blocking impoundment of congressionally appropriated funds, and temporarily reinstating thousands of fired USDA employees.",
         "scope": "institutional",
-        "why_it_matters": "These judicial interventions highlight the importance of checks and balances in resisting executive overreach.",
+        "why_it_matters": "Sustained, multi-front judicial and quasi-judicial intervention demonstrates that institutional checks on unilateral executive power remain functional even as the volume of contested executive actions grows.",
         "exemplars": [
           {
-            "exemplar_id": "wk07_good_faith_ex01",
+            "exemplar_id": "wk07_restraint_strength_ex01",
             "week": 7,
             "event_ids": [
-              "wk07_IG_011",
-              "wk07_IG_012"
+              "wk07_IG_033",
+              "wk07_IG_035"
             ],
             "developments": [
               {
-                "development_id": "wk07_IG_011",
-                "development_label": "Rejected the Trump administration's attempt to freeze foreign aid.",
+                "development_id": "wk07_IG_033",
+                "development_label": "Supreme Court rejected the administration's request to continue freezing foreign aid",
                 "role": "primary"
               },
               {
-                "development_id": "wk07_IG_012",
-                "development_label": "Ordered a senior CFPB official to testify about compliance with statutory duties.",
+                "development_id": "wk07_IG_035",
+                "development_label": "District judge issued injunction holding Trump lacks authority to freeze congressionally appropriated funding",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Courts at multiple levels, including the Supreme Court, rejected executive attempts to unilaterally withhold funds already approved by Congress.",
+            "why_exemplary": "A verified, tier1-documented reaffirmation of congressional spending authority against attempted executive impoundment, a foundational separation-of-powers check.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk07_restraint_strength_ex02",
+            "week": 7,
+            "event_ids": [
+              "wk07_IG_034",
+              "wk07_IG_032"
+            ],
+            "developments": [
+              {
+                "development_id": "wk07_IG_034",
+                "development_label": "Court ruled Trump's firing of NLRB official Gwynne Wilcox illegal and ordered reinstatement",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk07_IG_032",
+                "development_label": "Merit Systems Protection Board ordered USDA to temporarily reinstate nearly 6,000 fired employees",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Independent tribunals reinstated an unlawfully removed labor board official and thousands of improperly terminated federal employees.",
+            "why_exemplary": "Demonstrates that statutory for-cause protections and civil-service safeguards can still produce concrete remedies against unlawful removals.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "The American Bar Association publicly condemned intimidation of judges, the Judicial Conference sought to shield court security from executive control, and bipartisan Montana lawmakers defeated two anti-trans bills after cross-party deliberation.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Cross-partisan defense of judicial independence and bipartisan rejection of targeted rights restrictions shows that procedural norms and minority protections retain support beyond a single party.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk07_good_faith_strength_ex01",
+            "week": 7,
+            "event_ids": [
+              "wk07_IG_021",
+              "wk07_IG_008"
+            ],
+            "developments": [
+              {
+                "development_id": "wk07_IG_021",
+                "development_label": "American Bar Association condemned intimidation of judges",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk07_IG_008",
+                "development_label": "Federal judges sought to transfer marshal security duties away from DOJ control",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A major legal organization and the judiciary itself took visible steps to defend judicial independence amid escalating political threats.",
+            "why_exemplary": "Reflects institutional self-defense by the legal profession and courts against attempts to intimidate or control the judiciary through executive-adjacent levers.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk07_good_faith_strength_ex02",
+            "week": 7,
+            "event_ids": [
+              "wk07_CR_024"
+            ],
+            "developments": [
+              {
+                "development_id": "wk07_CR_024",
+                "development_label": "Montana legislature defeated two anti-trans bills with bipartisan support",
                 "role": "primary"
               }
             ],
-            "summary": "Judicial rulings enforced prior restraining orders on funding freezes, reaffirming judicial power to compel executive compliance.",
-            "why_exemplary": "These actions reinforced congressional control over appropriations and limited executive attempts to unilaterally suspend international commitments.",
-            "exemplar_type": "primary"
+            "summary": "Republican and Democratic lawmakers jointly rejected bills targeting drag performances and transgender parental rights.",
+            "why_exemplary": "Demonstrates that legislative deliberation across party lines can still protect minority rights against nationally coordinated pressure campaigns.",
+            "exemplar_type": "secondary"
           }
         ]
       }
     ],
-    "direction_of_movement": "collapsing"
+    "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "Week 7 continues the concerning trends established in previous weeks, with the consolidation of executive power and the aggressive use of executive actions to reshape governance. The administration's actions increasingly prioritize personal and political interests over public duty, exemplified by mass firings and the centralization of authority within federal agencies. The erosion of accountability mechanisms, including the dismantling of oversight bodies and the politicization of the justice system, further exacerbates the risks to democratic integrity. However, judicial pushback indicates that some institutional resilience remains, albeit under significant threat.",
+    "narrative": "Week 7 extends and deepens the trajectory established across Weeks 5 and 6, in which formal grants of concentrated executive authority were converted into operational reality and then further entrenched through direct financial self-dealing. The creation of a federal crypto reserve populated by Trump-aligned assets, alongside the halted prosecution of a major memecoin buyer, represents an escalation beyond the SEC leniency and contractor conflicts documented in Week 6: personal enrichment through public office is no longer incidental but now embedded in formal policy architecture. Restraint continued eroding through the FTC commissioner's cause-less removal and revival of an 18th-century wartime statute for routine immigration enforcement, echoing but intensifying Week 6's pattern of concentrating authority outside ordinary accountable channels.\n\nGood-faith violations also persisted and arguably sharpened: deportation in direct violation of an existing court order, and continued transfer of transgender women to men's prisons despite judicial blocks, show a willingness to act regardless of judicial constraint rather than merely testing its limits. Truthfulness was strained by a nationally televised address to Congress containing extensive falsehoods, a more visible and consequential venue than the CPAC claims of the prior week. Stewardship suffered from the dismantling of detention and veterans' oversight offices precisely as enforcement volume increased, mirroring but extending Week 6's disruptive, poorly targeted institutional damage.\n\nAgainst this, the resilience pattern identified in prior weeks persisted and, in some respects, strengthened: courts and the Merit Systems Protection Board delivered concrete remedies (NLRB reinstatement, foreign-aid unfreezing, mass USDA reinstatement) rather than merely procedural holds, and cross-partisan legislative action in Montana defeated targeted rights restrictions. The American Bar Association's public defense of judicial independence adds a new institutional voice to the resistance coalition. The overall trajectory remains one of continuing, compounding deterioration, with courts and civil society still functioning as the primary counterweight but facing an accelerating and increasingly self-interested pattern of executive action.",
     "trend": "deteriorating",
     "stress_points": [
-      "centralization of executive power",
-      "disinformation as a governance tool",
-      "erosion of civil rights protections",
-      "politicization of the civil service"
+      "direct financial self-dealing through crypto policy benefiting administration-linked holders",
+      "cause-less removal of independent regulators testing statutory protections",
+      "use of emergency and wartime authorities for routine enforcement",
+      "defiance of specific court orders in immigration enforcement",
+      "dismantling of oversight offices amid rising enforcement volume",
+      "nationally broadcast falsehoods delivered from the highest constitutional platform"
     ],
     "sources_of_resilience": [
-      "judicial pushback against executive orders",
-      "civil society mobilization against abuses",
-      "state-level legal challenges"
+      "Supreme Court and district court rulings restoring congressionally appropriated funding",
+      "Merit Systems Protection Board ordering reinstatement of unlawfully fired employees",
+      "American Bar Association and judiciary publicly defending judicial independence",
+      "bipartisan state legislative rejection of targeted rights restrictions",
+      "sustained civil-society mobilization around detention, campus, and reproductive-rights flashpoints",
+      "congressional requests for independent GAO oversight of workforce actions"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
+    "level": "severe",
+    "justification": "Week 7 shows the executive combining structural power consolidation with increasingly direct personal financial benefit, most starkly in the crypto reserve and halted fraud prosecution tied to presidential enrichment. Combined with cause-less removal of an independent regulator, revival of an 18th-century wartime statute for routine deportations, and defiance of an existing court order in a specific deportation case, the pattern indicates that legal and administrative tools are increasingly bent to serve personal and political ends rather than neutral function. Courts, the MSPB, and some legislatures continue to deliver concrete remedies, but the accumulating scale, self-interestedness, and instances of outright non-compliance with judicial orders suggest institutional checks are being tested more directly than in prior weeks.",
     "forward_signals": [
-      "increased executive orders bypassing legislative input",
-      "escalation of disinformation campaigns",
-      "further attempts to undermine civil rights protections"
+      "whether the administration complies with reinstatement orders for NLRB and USDA employees",
+      "further financial entanglement between crypto policy and administration-linked holdings",
+      "additional instances of non-compliance with specific court orders in immigration cases",
+      "expansion of funding leverage and investigation threats against universities",
+      "scale of retaliation against law firms following the Perkins Coie and Jenner & Block orders",
+      "whether cross-partisan legislative resistance to targeted rights restrictions spreads to other states"
     ]
   }
 }

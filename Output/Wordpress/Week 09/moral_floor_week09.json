@@ -1,12 +1,12 @@
 {
   "week_number": 9,
-  "period_label": "Week 9 – 2025-03-15–2025-03-21",
+  "period_label": "Week 9",
   "window": {
     "start": "2025-03-15",
     "end": "2025-03-21"
   },
-  "clock_time_public": "7:53 p.m.",
-  "clock_delta_minutes": 1.2,
+  "clock_time_public": "7:33 p.m.",
+  "clock_delta_minutes": 0.2,
   "baseline_traits": [
     {
       "name": "character",
@@ -18,7 +18,7 @@
     },
     {
       "name": "restraint",
-      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
     },
     {
       "name": "truthfulness",
@@ -34,189 +34,310 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week marked a significant deterioration in the moral floor of democracy, with executive actions increasingly undermining legal norms and institutional integrity, while courts and civil society struggled to mount effective resistance.",
+    "summary": "Week 9 marked a sharp escalation from prior weeks: the executive branch invoked an eighteenth-century wartime statute to strip due process from migrants, continued deportation flights after a federal judge ordered them halted, and moved to remove or impeach the judge who tried to stop it. Senior officials openly discussed disregarding court orders, a cabinet-level agency threatened to shut down rather than comply with judicial limits on data access, and the president floated a legally baseless claim to void a predecessor's pardons. Coordinated funding freezes and executive orders were used to coerce universities, law firms, and states into policy compliance. Courts, state attorneys general, and even the Chief Justice pushed back forcefully and won real, if partial, victories, but the volume and coordination of breaches consistently outpaced the capacity of institutional correction.",
     "norms_broken": [
       {
-        "trait": "character",
-        "pattern": "Executive actions prioritized personal and political gain over public duty, particularly through mass deportations and attacks on judicial independence.",
-        "severity": "serious",
-        "institutional_response": "Judicial pushback occurred, but overall institutional resistance was limited.",
+        "trait": "good_faith",
+        "pattern": "The administration continued deportation flights after a federal judge ordered them halted, a senior DOJ official reportedly instructed staff to consider defying the order, and officials publicly denied any noncompliance had occurred.",
+        "severity": "extreme",
+        "institutional_response": "Courts pressed for explanations and ordered clarifications; the Chief Justice publicly rebuked calls to impeach the judge; the administration nonetheless proceeded with removals and escalated attacks on the judiciary.",
         "exemplars": [
           {
-            "exemplar_id": "wk09_character_ex01",
+            "exemplar_id": "wk09_good_faith_ex01",
             "week": 9,
             "event_ids": [
-              "wk09_PA_002",
-              "wk09_PA_003"
+              "wk09_PA_005",
+              "wk09_PA_006"
             ],
             "developments": [
               {
-                "development_id": "wk09_PA_002",
-                "development_label": "Invoked the Alien Enemies Act for mass deportations.",
+                "development_id": "wk09_PA_005",
+                "development_label": "Deportation flights continued despite a court order to halt them",
                 "role": "primary"
               },
               {
-                "development_id": "wk09_PA_003",
-                "development_label": "Continued deportations despite a federal court order.",
+                "development_id": "wk09_PA_006",
+                "development_label": "Senior DOJ official instructed staff to consider defying the court order",
                 "role": "primary"
               }
             ],
-            "summary": "The use of the Alien Enemies Act for mass deportations exemplified prioritization of political objectives over legal norms.",
-            "why_exemplary": "These actions illustrated a blatant disregard for due process and the rule of law.",
+            "summary": "Deportation flights proceeded after a judge's order to stop them, with a senior official reportedly counseling staff to disregard judicial authority outright.",
+            "why_exemplary": "A tier1-verified instance of direct executive defiance of a specific, contemporaneous court order, representing one of the clearest breaches of judicial compliance documented this week.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk09_good_faith_ex02",
+            "week": 9,
+            "event_ids": [
+              "wk09_IM_013"
+            ],
+            "developments": [
+              {
+                "development_id": "wk09_IM_013",
+                "development_label": "White House press secretary publicly denied the administration had defied the court order",
+                "role": "primary"
+              }
+            ],
+            "summary": "The press secretary publicly denied noncompliance with the deportation halt order despite substantial reporting to the contrary.",
+            "why_exemplary": "A multi-source-corroborated official denial that contradicted verified facts, compounding the underlying defiance with public misrepresentation of it.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "The administration invoked the Alien Enemies Act of 1798 to strip due process from migrants, signed an executive order to dismantle a cabinet department without congressional action, and threatened impeachment and removal of a federal judge over an adverse ruling.",
+        "severity": "extreme",
+        "institutional_response": "Courts, state attorneys general, and the Chief Justice all pushed back; the administration nonetheless pursued removal of the judge and proceeded with the department's dismantling.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk09_restraint_ex01",
+            "week": 9,
+            "event_ids": [
+              "wk09_PA_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk09_PA_001",
+                "development_label": "Invoked the Alien Enemies Act to deport Venezuelan migrants without hearings",
+                "role": "primary"
+              }
+            ],
+            "summary": "A rarely used wartime statute was invoked to strip due process from hundreds of migrants, expanding executive immigration power far beyond ordinary legal limits.",
+            "why_exemplary": "A tier1-verified, archive-grade use of emergency wartime authority in peacetime against a broad civilian population, representing a significant self-limitation failure.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk09_restraint_ex02",
+            "week": 9,
+            "event_ids": [
+              "wk09_PA_009",
+              "wk09_PA_010"
+            ],
+            "developments": [
+              {
+                "development_id": "wk09_PA_009",
+                "development_label": "Called for impeachment of Judge Boasberg over an adverse ruling",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk09_PA_010",
+                "development_label": "Filed to dissolve injunctions and remove the judge from the case",
+                "role": "primary"
+              }
+            ],
+            "summary": "The president demanded a sitting judge's removal for issuing a lawful order, prompting a rare public rebuke from the Chief Justice defending judicial independence.",
+            "why_exemplary": "A multi-source-corroborated escalation from disagreement with a ruling to an attempt to remove the judge entirely, striking at the core of judicial independence.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
-        "trait": "ethics",
-        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the involvement of private actors in government functions.",
+        "trait": "character",
+        "pattern": "The president asserted a legally baseless power to void a predecessor's pardons, revoked Secret Service protection from a political rival's adult children, and a senior ally publicly discussed strategies for a third presidential term.",
         "severity": "serious",
-        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
+        "institutional_response": "The National Archives issued a factual correction; media and legal commentators widely rejected the pardon claim; no formal institutional check addressed the third-term discussion.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk09_character_ex01",
+            "week": 9,
+            "event_ids": [
+              "wk09_PA_007",
+              "wk09_IG_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk09_PA_007",
+                "development_label": "Declared Biden's pardons void, claiming invalidation by autopen use",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk09_IG_012",
+                "development_label": "National Archives factually rebutted the autopen invalidity claim",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The president asserted unilateral power to nullify a predecessor's lawful pardons on a legally unsupported theory, later factually contradicted by the National Archives.",
+            "why_exemplary": "A tier1-documented claim without constitutional basis that threatens the finality of executive clemency and was directly rebutted by an independent record-keeping body.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk09_character_ex02",
+            "week": 9,
+            "event_ids": [
+              "wk09_PA_008"
+            ],
+            "developments": [
+              {
+                "development_id": "wk09_PA_008",
+                "development_label": "Revoked Secret Service protection for former President Biden's adult children",
+                "role": "primary"
+              }
+            ],
+            "summary": "The president withdrew protective security from a political rival's family members, an act widely viewed as personal retaliation via official power.",
+            "why_exemplary": "A tier1-verified act converting a security decision into apparent personal retribution, illustrating a failure to separate personal grievance from official duty.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "The Commerce Secretary publicly urged viewers to buy stock in a company led by a top presidential adviser, and an Interior Department official rapidly acted on a private lobbyist's specific request regarding tribal gaming eligibility.",
+        "severity": "serious",
+        "institutional_response": "Widely reported as a violation of federal ethics norms; no formal disciplinary or corrective institutional action occurred within the week.",
         "exemplars": [
           {
             "exemplar_id": "wk09_ethics_ex01",
             "week": 9,
             "event_ids": [
-              "wk09_PA_011",
-              "wk09_PA_017"
+              "wk09_ES_018"
             ],
             "developments": [
               {
-                "development_id": "wk09_PA_011",
-                "development_label": "Signed an order eliminating diversity practices in the Foreign Service.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk09_PA_017",
-                "development_label": "Expedited domestic mineral production on federal lands.",
+                "development_id": "wk09_ES_018",
+                "development_label": "Commerce Secretary publicly urged television viewers to buy Tesla stock",
                 "role": "primary"
               }
             ],
-            "summary": "The elimination of diversity practices and prioritization of mineral extraction reflected a disregard for ethical boundaries.",
-            "why_exemplary": "These actions exemplified a prioritization of political interests over ethical governance.",
+            "summary": "A cabinet secretary used a public platform to promote stock in a company tied to a top adviser and donor, benefiting private interests through official position.",
+            "why_exemplary": "A tier1-verified violation of the norm separating public office from private financial promotion, directly implicating the ethics baseline.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding immigration and national security.",
-        "severity": "serious",
-        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
+        "pattern": "Officials publicly mischaracterized judicial rulings, denied documented noncompliance with court orders, and labeled a federal judge a partisan actor to delegitimize an adverse decision.",
+        "severity": "concerning",
+        "institutional_response": "A judge issued clarification letters correcting misrepresentation of her own order; media fact-checked administration claims, but no retraction followed from officials.",
         "exemplars": [
           {
             "exemplar_id": "wk09_truthfulness_ex01",
             "week": 9,
             "event_ids": [
-              "wk09_IM_018",
-              "wk09_IM_019"
+              "wk09_IM_016",
+              "wk09_IG_032"
             ],
             "developments": [
               {
-                "development_id": "wk09_IM_018",
-                "development_label": "Attacked the legitimacy of Biden’s pardons using autopen conspiracy claims.",
+                "development_id": "wk09_IM_016",
+                "development_label": "Press secretary labeled Judge Boasberg a 'Democrat activist'",
                 "role": "primary"
               },
               {
-                "development_id": "wk09_IM_019",
-                "development_label": "Used deportation imagery to celebrate harsh immigration enforcement.",
-                "role": "primary"
+                "development_id": "wk09_IG_032",
+                "development_label": "Judge Hollander issued clarification correcting misrepresentation of her own ruling",
+                "role": "secondary"
               }
             ],
-            "summary": "The administration's disinformation regarding pardons and the promotion of punitive imagery undermined public trust.",
-            "why_exemplary": "These actions embedded disinformation at the center of governance, further eroding trust in governmental processes.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "good_faith",
-        "pattern": "Executive orders undermined established legal frameworks and protections, particularly regarding immigration and civil rights.",
-        "severity": "serious",
-        "institutional_response": "Judicial challenges were initiated, but the executive's actions were largely unilateral.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk09_good_faith_ex01",
-            "week": 9,
-            "event_ids": [
-              "wk09_CR_004",
-              "wk09_CR_011"
-            ],
-            "developments": [
-              {
-                "development_id": "wk09_CR_004",
-                "development_label": "Revoked legal status for over 530,000 immigrants.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk09_CR_011",
-                "development_label": "Used a foreign policy provision to arrest activist Mahmoud Khalil.",
-                "role": "primary"
-              }
-            ],
-            "summary": "The revocation of legal status and politicization of enforcement actions undermined established legal protections.",
-            "why_exemplary": "These actions disregarded established processes for justice, undermining the spirit of legal protections.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "stewardship",
-        "pattern": "The dismantling of oversight mechanisms and the removal of inspectors general weakened institutional accountability.",
-        "severity": "serious",
-        "institutional_response": "Limited pushback from existing oversight bodies, highlighting a lack of resilience.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk09_stewardship_ex01",
-            "week": 9,
-            "event_ids": [
-              "wk09_PA_015",
-              "wk09_IM_001"
-            ],
-            "developments": [
-              {
-                "development_id": "wk09_PA_015",
-                "development_label": "Signed orders to dismantle the Department of Education.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk09_IM_001",
-                "development_label": "Eliminated the US Agency for Global Media.",
-                "role": "primary"
-              }
-            ],
-            "summary": "The dismantling of the Department of Education and the US Agency for Global Media undermined institutional capacity and accountability.",
-            "why_exemplary": "These actions stripped internal watchdogs of their power, reducing institutional capacity to investigate executive misconduct.",
+            "summary": "Officials mischaracterized judicial rulings and labeled judges as partisan, prompting at least one judge to publicly correct the record herself.",
+            "why_exemplary": "A tier1-verified instance where a sitting judge had to intervene directly to correct official misstatement of her order's scope.",
             "exemplar_type": "primary"
           }
         ]
       }
     ],
-    "norms_strengthened": [],
-    "direction_of_movement": "collapsing"
+    "norms_strengthened": [
+      {
+        "trait": "restraint",
+        "pattern": "The Chief Justice publicly rebuked calls to impeach a federal judge over an adverse ruling, and multiple federal courts issued injunctions limiting executive actions on data access, agency dismantling, and deportations.",
+        "scope": "institutional",
+        "why_it_matters": "A rare, direct public defense of judicial independence by the head of the judiciary, paired with active judicial intervention across immigration, personnel, and data-access disputes, demonstrates that institutional checks continued to function even under sustained pressure.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk09_restraint_strength_ex01",
+            "week": 9,
+            "event_ids": [
+              "wk09_IG_016"
+            ],
+            "developments": [
+              {
+                "development_id": "wk09_IG_016",
+                "development_label": "Chief Justice Roberts publicly rebuked calls to impeach a federal judge over a disputed ruling",
+                "role": "primary"
+              }
+            ],
+            "summary": "The nation's top judicial officer stated impeachment is not an appropriate response to disagreement with rulings, defending judicial independence.",
+            "why_exemplary": "A rare, multi-source-corroborated public intervention by the Chief Justice, signaling institutional resistance at the highest level of the judiciary.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk09_restraint_strength_ex02",
+            "week": 9,
+            "event_ids": [
+              "wk09_IG_030"
+            ],
+            "developments": [
+              {
+                "development_id": "wk09_IG_030",
+                "development_label": "Federal judge blocked DOGE from accessing Social Security Administration data",
+                "role": "primary"
+              }
+            ],
+            "summary": "A federal court limited an executive team's access to sensitive data on nearly 70 million beneficiaries, calling the effort a 'fishing expedition.'",
+            "why_exemplary": "A tier1-verified judicial check on unchecked executive-branch data access, protecting personal information of a vast portion of the public.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Democratic attorneys general filed approximately ten coordinated lawsuits challenging administration policy, securing multiple restraining orders, and state and civil-society plaintiffs consistently used litigation rather than extralegal means to contest executive actions.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Sustained recourse to litigation, rather than unilateral resistance, preserves the legitimacy of institutional channels for contesting perceived executive overreach.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk09_good_faith_strength_ex01",
+            "week": 9,
+            "event_ids": [
+              "wk09_IG_033"
+            ],
+            "developments": [
+              {
+                "development_id": "wk09_IG_033",
+                "development_label": "Democratic attorneys general filed roughly ten lawsuits during a coordinated national tour",
+                "role": "primary"
+              }
+            ],
+            "summary": "State officials pursued extensive litigation and secured multiple restraining orders against administration policies.",
+            "why_exemplary": "Demonstrates continued reliance on lawful institutional avenues to check executive action, reinforcing the legitimacy of adversarial legal process over extralegal confrontation.",
+            "exemplar_type": "primary"
+          }
+        ]
+      }
+    ],
+    "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "Week 9 reflects a significant deepening of the concerning trends established in previous weeks, with the consolidation of executive power and the aggressive use of executive actions to reshape governance. The administration's actions increasingly prioritize personal and political interests over public duty, exemplified by mass deportations and the centralization of authority within federal agencies. The erosion of accountability mechanisms, including the dismantling of oversight bodies and the politicization of the justice system, further exacerbates the risks to democratic integrity. Judicial pushback indicates that some institutional resilience remains, but it is under significant threat.",
+    "narrative": "Week 9 extends and sharpens the trajectory documented in Week 8, in which retaliation and defiance of legal constraint moved from isolated instances into an operating pattern. The prior week's DOJ directive to consider disregarding prospective court orders was realized in practice this week: deportation flights proceeded after an explicit judicial halt order, and officials then publicly denied that any defiance had occurred. This represents a qualitative escalation from anticipatory defiance to actual, then denied, noncompliance—compounding the good-faith breach with a truthfulness breach in the same episode.\n\nThe assault on judicial independence also intensified. Where Week 8 saw punitive orders against law firms and disbanding of anti-corruption units, Week 9 saw a direct campaign to remove a sitting federal judge through impeachment calls, congressional filings, and litigation seeking his disqualification, compounded by a prominent private ally's public and financial pressure campaign against Congress members. That this provoked an unusual public rebuke from the Chief Justice signals that the judiciary itself now perceives an unusually acute threat to its independence, a sharper institutional alarm than anything registered in Week 8.\n\nRestraint and stewardship both weakened further, with the unilateral move to dismantle a cabinet department created by Congress, mass revocation of legal status for over half a million immigrants, and continued coercive use of federal funding against universities and states. Ethics breaches took a more overt, individualized form this week, with a cabinet secretary using public office to promote a specific company's stock. Against this, courts, state attorneys general, and civil society continued to supply real friction—winning injunctions, exposing misrepresentation of court orders, and pursuing litigation at scale—but as in prior weeks, this resistance remained structurally reactive, arriving after facts on the ground had already changed.",
     "trend": "deteriorating",
     "stress_points": [
-      "centralization of executive power",
-      "disinformation as a governance tool",
-      "erosion of civil rights protections",
-      "politicization of the civil service"
+      "direct executive defiance of specific court orders",
+      "public and financial campaign to remove a sitting federal judge",
+      "unilateral dismantling of a congressionally created department",
+      "mass revocation of legal status for hundreds of thousands of immigrants",
+      "cabinet-level ethics violations promoting private financial interests",
+      "coercive use of federal funding against universities and states",
+      "official denial of documented noncompliance with judicial orders"
     ],
     "sources_of_resilience": [
-      "judicial pushback against executive orders",
-      "civil society mobilization against abuses",
-      "state-level legal challenges"
+      "Chief Justice's public defense of judicial independence",
+      "coordinated multistate litigation securing restraining orders",
+      "judicial fact-finding correcting official misrepresentation of court orders",
+      "courts blocking unauthorized data access to sensitive personal records",
+      "continued reliance by civil society and states on lawful institutional channels"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
+    "level": "severe",
+    "justification": "This week shows the executive branch moving from anticipatory discussion of defying courts (documented in Week 8) to actual noncompliance with a specific, contemporaneous judicial order, followed by public denial of that noncompliance. Combined with an active campaign to remove the judge involved—including congressional impeachment filings, litigation to disqualify him, and a wealthy ally's financial pressure on lawmakers—this represents one of the more direct challenges to judicial independence documented in this trajectory. The unusual public rebuke from the Chief Justice indicates the judiciary itself now perceives the threat as serious enough to warrant an extraordinary institutional response. At the same time, courts continued to win real, substantive victories, including blocking data access and forcing clarification of misrepresented rulings, showing institutional checks remain functional but increasingly strained by the volume and coordination of simultaneous challenges.",
     "forward_signals": [
-      "increased executive orders bypassing legislative input",
-      "escalation of disinformation campaigns",
-      "further attempts to undermine civil rights protections"
+      "whether the administration complies with future court orders in the deportation litigation",
+      "outcome of efforts to impeach or disqualify Judge Boasberg",
+      "further escalation or de-escalation of threats and harassment against judges and their families",
+      "whether the Department of Education dismantling proceeds despite state lawsuits",
+      "continued use of funding freezes as leverage against universities and states",
+      "any formal ethics inquiry into cabinet-level stock promotion"
     ]
   }
 }

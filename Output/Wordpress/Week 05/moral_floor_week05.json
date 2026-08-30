@@ -1,12 +1,12 @@
 {
   "week_number": 5,
-  "period_label": "Week 5 – 2025-02-15–2025-02-21",
+  "period_label": "Week 5",
   "window": {
     "start": "2025-02-15",
     "end": "2025-02-21"
   },
-  "clock_time_public": "7:51 p.m.",
-  "clock_delta_minutes": 1.3,
+  "clock_time_public": "7:32 p.m.",
+  "clock_delta_minutes": 0.0,
   "baseline_traits": [
     {
       "name": "character",
@@ -34,160 +34,245 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week saw a significant escalation in the erosion of democratic norms, characterized by aggressive executive actions that centralized power, undermined institutional integrity, and manipulated information, while courts and civil society attempted to resist these trends.",
+    "summary": "Week 5 shows the executive consolidating powers seized in prior weeks into durable structural changes: DOGE was formally chartered by executive order, independent regulatory agencies were placed under White House review, and administrative law judge protections were targeted for elimination. Good faith was breached again through the DOJ's continued pursuit of the Adams dismissal despite prosecutorial resignations, and through federal funding used as leverage against a dissenting governor and state. Ethics concerns deepened with a private citizen's security detail receiving federal law enforcement powers and a favorable SEC settlement for a politically connected company. Truthfulness was strained by promotional government messaging and unsubstantiated fraud claims. Courts remained the most consistent check, issuing a dense sequence of rulings, though several rulings also permitted continued mass firings and data access. Institutional and civic resistance persisted but remained reactive rather than preventive.",
     "norms_broken": [
       {
-        "trait": "character",
-        "pattern": "Executive actions prioritized personal and political gain over public duty, exemplified by mass firings and the consolidation of power within DOGE.",
-        "severity": "serious",
-        "institutional_response": "Courts issued rulings to block some actions, but overall institutional resistance was limited.",
+        "trait": "restraint",
+        "pattern": "The executive issued multiple orders in a single week centralizing control over independent regulatory agencies, unilaterally eliminating federal entities and advisory committees, and creating DOGE by fiat with an unelected billionaire at its head, alongside extending federal law-enforcement authority to a private citizen's security detail.",
+        "severity": "extreme",
+        "institutional_response": "Courts allowed several of these actions to proceed pending litigation while blocking narrower pieces (e.g., Treasury data access); Congress registered objections without binding action.",
         "exemplars": [
           {
-            "exemplar_id": "wk05_character_ex01",
+            "exemplar_id": "wk05_restraint_ex01",
             "week": 5,
             "event_ids": [
-              "wk05_PA_002",
-              "wk05_PA_007"
+              "wk05_PA_005",
+              "wk05_PA_008"
             ],
             "developments": [
               {
-                "development_id": "wk05_PA_002",
-                "development_label": "Announced mass layoffs in federal health agencies including CDC and HHS",
+                "development_id": "wk05_PA_005",
+                "development_label": "Executive order subordinating independent regulatory agencies to White House review",
                 "role": "primary"
               },
               {
-                "development_id": "wk05_PA_007",
-                "development_label": "Oversaw mass firings of federal employees across multiple agencies under a workforce reduction initiative",
-                "role": "primary"
+                "development_id": "wk05_PA_008",
+                "development_label": "Creation of DOGE by executive order with Musk as lead",
+                "role": "secondary"
               }
             ],
-            "summary": "The mass layoffs in health agencies and across federal departments exemplified prioritization of political loyalty over public duty.",
-            "why_exemplary": "These actions illustrated a shift towards personal rule, undermining the integrity of public institutions.",
+            "summary": "The White House asserted direct review authority over agencies like the SEC and FTC while formally chartering DOGE under an unelected private individual.",
+            "why_exemplary": "A verified, structural expansion of presidential control over bodies Congress designed to be independent, consolidating rather than limiting executive reach.",
             "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "ethics",
-        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the involvement of private actors in government functions.",
-        "severity": "serious",
-        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
-        "exemplars": [
+          },
           {
-            "exemplar_id": "wk05_ethics_ex01",
+            "exemplar_id": "wk05_restraint_ex02",
             "week": 5,
             "event_ids": [
-              "wk05_PA_001",
-              "wk05_IM_001"
+              "wk05_PA_010"
             ],
             "developments": [
               {
-                "development_id": "wk05_PA_001",
-                "development_label": "Signed an executive order empowering Elon Musk's Doge committee to shrink the federal workforce",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk05_IM_001",
-                "development_label": "Gained access to sensitive payment and contracting systems at health agencies",
+                "development_id": "wk05_PA_010",
+                "development_label": "US Marshals deputized Musk's private security detail with federal law enforcement powers",
                 "role": "primary"
               }
             ],
-            "summary": "Empowering Musk's committee and granting access to sensitive systems blurred the lines between public office and private interests.",
-            "why_exemplary": "These actions exemplified a disregard for ethical boundaries, prioritizing personal and political interests.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "truthfulness",
-        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding immigration and national security.",
-        "severity": "serious",
-        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk05_truthfulness_ex01",
-            "week": 5,
-            "event_ids": [
-              "wk05_IM_003",
-              "wk05_IM_004"
-            ],
-            "developments": [
-              {
-                "development_id": "wk05_IM_003",
-                "development_label": "Called for imprisonment of journalists over critical coverage of the administration",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk05_IM_004",
-                "development_label": "Misrepresented the 14th Amendment as only covering formerly enslaved people",
-                "role": "primary"
-              }
-            ],
-            "summary": "Calls for imprisonment of journalists and misrepresentation of constitutional rights spread disinformation and undermined trust.",
-            "why_exemplary": "These actions embedded disinformation at the center of governance, undermining trust in governmental processes.",
+            "summary": "A private citizen's personal security team was granted armed federal authority, reportedly with waived vetting standards.",
+            "why_exemplary": "A verified extension of state coercive power to an unaccountable private actor, illustrating disregard for standard limits on who may wield federal force.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
         "trait": "good_faith",
-        "pattern": "Executive orders undermined established legal frameworks and protections, particularly regarding immigration and civil rights.",
-        "severity": "serious",
-        "institutional_response": "Judicial challenges were initiated, but the executive's actions were largely unilateral.",
+        "pattern": "The DOJ proceeded with dismissing the Adams corruption case despite prosecutorial resistance and judicial scrutiny of its rationale, while the president threatened to withhold disaster aid from a state led by a political rival and coerced a dissenting governor over an unrelated policy dispute.",
+        "severity": "extreme",
+        "institutional_response": "A federal judge questioned the DOJ's rationale in court but allowed the dismissal to proceed; multiple prosecutors had already resigned in protest the prior week and this week.",
         "exemplars": [
           {
             "exemplar_id": "wk05_good_faith_ex01",
             "week": 5,
             "event_ids": [
-              "wk05_CR_006",
-              "wk05_CR_017"
+              "wk05_IG_021",
+              "wk05_IG_030"
             ],
             "developments": [
               {
-                "development_id": "wk05_CR_006",
-                "development_label": "Detained immigrants at courthouses and check-ins, including DACA recipients, under daily arrest quotas",
+                "development_id": "wk05_IG_021",
+                "development_label": "DOJ moved to dismiss Adams corruption indictment tied to immigration cooperation",
                 "role": "primary"
               },
               {
-                "development_id": "wk05_CR_017",
-                "development_label": "Ended federal benefits for undocumented immigrants through executive order",
+                "development_id": "wk05_IG_030",
+                "development_label": "Court scrutiny of DOJ's rationale for the Adams dismissal",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The DOJ pressed forward with dismissing corruption charges against Mayor Adams despite apparent quid-pro-quo dynamics, prompting judicial questioning of its justification.",
+            "why_exemplary": "A verified continuation of using prosecutorial discretion as political leverage rather than legal judgment, despite internal and judicial pushback.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk05_good_faith_ex02",
+            "week": 5,
+            "event_ids": [
+              "wk05_PA_002",
+              "wk05_PA_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk05_PA_002",
+                "development_label": "Denial of Georgia's disaster aid deadline extension amid feud with Governor Kemp",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk05_PA_012",
+                "development_label": "Threat to cut Maine's federal funding over noncompliance with an executive order",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Federal disaster and education funding were withheld or threatened against states whose leaders resisted or feuded with the administration.",
+            "why_exemplary": "Illustrates the use of federal funding as a coercive tool against dissenting state governments rather than as a neutral public service, defeating the purpose of aid and grant programs.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "The SEC dropped its enforcement action against Coinbase, a politically connected company, without fines or business changes, while DOGE sought expansive access to sensitive taxpayer, health, and Social Security data with limited transparency about oversight or safeguards.",
+        "severity": "concerning",
+        "institutional_response": "Courts blocked some DOGE data access requests (Treasury); congressional letters demanded answers; no reported reversal of the SEC settlement.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk05_ethics_ex01",
+            "week": 5,
+            "event_ids": [
+              "wk05_ES_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk05_ES_012",
+                "development_label": "SEC dismissed Coinbase enforcement action without penalty",
                 "role": "primary"
               }
             ],
-            "summary": "Detaining immigrants and cutting benefits for undocumented residents politicized enforcement and undermined legal protections.",
-            "why_exemplary": "These actions disregarded established processes for justice, undermining the spirit of legal protections.",
+            "summary": "The SEC ended its case against Coinbase, a major political donor's company, without fines or remedial requirements.",
+            "why_exemplary": "A verified instance suggesting regulatory leniency correlated with political proximity, raising concerns about unequal application of securities law.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk05_ethics_ex02",
+            "week": 5,
+            "event_ids": [
+              "wk05_IG_020",
+              "wk05_IM_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk05_IG_020",
+                "development_label": "IRS reviewed DOGE request for classified taxpayer data access",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk05_IM_001",
+                "development_label": "DOGE gained access to sensitive CDC and CMS systems",
+                "role": "secondary"
+              }
+            ],
+            "summary": "DOGE sought or obtained access to highly sensitive federal data systems spanning tax, health, and payment records.",
+            "why_exemplary": "Reflects the expansion of private, loosely accountable access to systems holding personal data on nearly every American, absent commensurate oversight.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "The White House issued a series of promotional fact sheets using selective statistics and inflammatory language on immigration enforcement, while officials made unsubstantiated claims about fraud and waste that fact-checkers later found lacked evidentiary support.",
+        "severity": "concerning",
+        "institutional_response": "Independent fact-checkers and media outlets challenged the claims; no retraction issued by the administration.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk05_truthfulness_ex01",
+            "week": 5,
+            "event_ids": [
+              "wk05_IM_013"
+            ],
+            "developments": [
+              {
+                "development_id": "wk05_IM_013",
+                "development_label": "Unsubstantiated claims of massive waste and fraud cuts",
+                "role": "primary"
+              }
+            ],
+            "summary": "The administration claimed large-scale elimination of government waste and fraud without supporting evidence, later challenged by fact-checkers.",
+            "why_exemplary": "A verified pattern of overstated claims about the substance and scale of DOGE's actions, shaping public perception with unverified figures.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk05_truthfulness_ex02",
+            "week": 5,
+            "event_ids": [
+              "wk05_IM_009",
+              "wk05_IM_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk05_IM_009",
+                "development_label": "White House fact sheet on border apprehension statistics",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk05_IM_011",
+                "development_label": "White House release using 'invasion' framing on immigration",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Official communications used selective statistics and charged language to shape narratives around immigration enforcement outcomes.",
+            "why_exemplary": "Demonstrates use of official channels for promotional framing rather than neutral public information, blurring the line between governance and messaging.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "stewardship",
-        "pattern": "The dismantling of oversight mechanisms and the removal of inspectors general weakened institutional accountability.",
+        "pattern": "Continued mass firings across agencies responsible for public health, food safety, and disease surveillance—including erroneous terminations during an active bird flu outbreak—alongside removal of statutory job protections for administrative law judges, degraded institutional capacity in ways not easily reversed.",
         "severity": "serious",
-        "institutional_response": "Limited pushback from existing oversight bodies, highlighting a lack of resilience.",
+        "institutional_response": "Courts largely allowed firings to proceed pending litigation; agencies scrambled to reverse some erroneous terminations after public exposure.",
         "exemplars": [
           {
             "exemplar_id": "wk05_stewardship_ex01",
             "week": 5,
             "event_ids": [
-              "wk05_IG_001",
-              "wk05_IG_004"
+              "wk05_ES_007"
             ],
             "developments": [
               {
-                "development_id": "wk05_IG_001",
-                "development_label": "Terminated thousands of probationary employees under a federal spending cut initiative",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk05_IG_004",
-                "development_label": "Defied multiple federal court orders intended to halt contested executive actions",
+                "development_id": "wk05_ES_007",
+                "development_label": "USDA mistakenly fired bird flu response staff, then sought to rehire them",
                 "role": "primary"
               }
             ],
-            "summary": "Mass terminations and defiance of court orders undermined institutional capacity and accountability.",
-            "why_exemplary": "These actions stripped internal watchdogs of their power, reducing institutional capacity to investigate executive misconduct.",
+            "summary": "Employees responsible for responding to an active H5N1 outbreak were erroneously terminated amid broad workforce cuts, then hastily recalled.",
+            "why_exemplary": "A verified example of institutional capacity being damaged through poorly targeted cuts, undermining the government's ability to protect public health.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk05_stewardship_ex02",
+            "week": 5,
+            "event_ids": [
+              "wk05_IG_041"
+            ],
+            "developments": [
+              {
+                "development_id": "wk05_IG_041",
+                "development_label": "DOJ moved to eliminate removal protections for administrative law judges",
+                "role": "primary"
+              }
+            ],
+            "summary": "The Justice Department declared statutory job protections for administrative law judges unconstitutional and moved to eliminate them.",
+            "why_exemplary": "Threatens the structural independence of adjudicators across federal agencies, a foundational safeguard against arbitrary executive control over enforcement outcomes.",
+            "exemplar_type": "secondary"
           }
         ]
       }
@@ -195,60 +280,127 @@
     "norms_strengthened": [
       {
         "trait": "good_faith",
-        "pattern": "Judicial actions temporarily blocked some of the administration's most aggressive moves, demonstrating a commitment to uphold legal norms.",
-        "scope": "institutional",
-        "why_it_matters": "These judicial interventions highlight the importance of checks and balances in resisting executive overreach.",
+        "pattern": "Career DOJ officials, including Denise Cheung, resigned rather than comply with directives seen as politically motivated, while GSA employees resigned over demands for access to public communication systems, sustaining a pattern of individual refusal to enable perceived abuses.",
+        "scope": "individual",
+        "why_it_matters": "Continued willingness of career officials to resign rather than comply demonstrates that internalized professional norms still function as a check where formal oversight has weakened.",
         "exemplars": [
           {
-            "exemplar_id": "wk05_good_faith_ex01",
+            "exemplar_id": "wk05_good_faith_strength_ex01",
             "week": 5,
             "event_ids": [
-              "wk05_IG_008",
-              "wk05_IG_009"
+              "wk05_IG_022"
             ],
             "developments": [
               {
-                "development_id": "wk05_IG_008",
-                "development_label": "Rejected Trump's request to lift an injunction protecting Hampton Dellinger from firing",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk05_IG_009",
-                "development_label": "Scheduled an emergency hearing on states' motion to block DOGE job and program cuts",
+                "development_id": "wk05_IG_022",
+                "development_label": "Denise Cheung resigned rather than pursue an unsupported asset freeze",
                 "role": "primary"
               }
             ],
-            "summary": "Judicial rulings enforced prior restraining orders on funding freezes, reaffirming judicial power to compel executive compliance.",
-            "why_exemplary": "These actions reinforced congressional control over appropriations and limited executive attempts to unilaterally suspend international commitments.",
+            "summary": "A senior DOJ official resigned after refusing a directive to open a probe and freeze assets tied to a Biden-era contract without legal basis.",
+            "why_exemplary": "A verified act of professional integrity resisting apparent misuse of prosecutorial power for political ends.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk05_good_faith_strength_ex02",
+            "week": 5,
+            "event_ids": [
+              "wk05_CR_010"
+            ],
+            "developments": [
+              {
+                "development_id": "wk05_CR_010",
+                "development_label": "GSA workers resigned over demand for access to public communication system",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Federal technology workers resigned rather than grant a Musk ally access to a system used to communicate with millions of Americans.",
+            "why_exemplary": "Reflects grassroots resistance within the civil service to potential misuse of public infrastructure, sustaining institutional norms absent top-down enforcement.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "Federal courts issued a dense sequence of rulings across multiple fronts this week, including blocking DOGE's Treasury data access, denying reinstatement of the birthright citizenship ban, and temporarily halting anti-DEI directives on First Amendment grounds.",
+        "scope": "institutional",
+        "why_it_matters": "Sustained judicial engagement across many simultaneous cases shows courts retaining functional capacity to check executive overreach even as the volume of contested actions grows.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk05_restraint_strength_ex01",
+            "week": 5,
+            "event_ids": [
+              "wk05_IG_039",
+              "wk05_IG_028"
+            ],
+            "developments": [
+              {
+                "development_id": "wk05_IG_039",
+                "development_label": "Judges blocked DOGE access to Treasury payment systems",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk05_IG_028",
+                "development_label": "Appeals court denied reinstatement of birthright citizenship ban",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Courts limited DOGE's reach into sensitive financial data and preserved constitutional protections against a unilateral reinterpretation of birthright citizenship.",
+            "why_exemplary": "A verified, concrete instance of judicial power constraining both administrative overreach and an attempted constitutional reinterpretation.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk05_restraint_strength_ex02",
+            "week": 5,
+            "event_ids": [
+              "wk05_IG_047"
+            ],
+            "developments": [
+              {
+                "development_id": "wk05_IG_047",
+                "development_label": "Judge Abelson blocked anti-DEI directives on First Amendment grounds",
+                "role": "primary"
+              }
+            ],
+            "summary": "A federal judge temporarily blocked administration directives targeting diversity programs, finding likely First Amendment violations.",
+            "why_exemplary": "Demonstrates judicial willingness to protect speech-related activity from executive suppression even amid a broad deregulatory push.",
+            "exemplar_type": "secondary"
           }
         ]
       }
     ],
-    "direction_of_movement": "collapsing"
+    "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "Week 5 represents a significant escalation in the concerning trends established in previous weeks, with the consolidation of a parallel executive state and the aggressive use of executive power to reshape governance. The administration's actions increasingly prioritized personal and political interests over public duty, exemplified by mass firings and the centralization of authority within DOGE. The erosion of accountability mechanisms, including the dismantling of oversight bodies and the politicization of the justice system, further exacerbates the risks to democratic integrity. However, judicial pushback indicates that some institutional resilience remains, albeit under significant threat.",
+    "narrative": "Week 5 extends and formalizes the trajectory documented in Week 4. Where the prior week saw DOGE granted authority over hiring and firing by executive order, this week converted that authority into a chartered entity, subordinated independent regulatory agencies to White House review, and extended state coercive power to a private citizen's security detail. The pattern of using prosecutorial and funding power as leverage rather than neutral instruments continued directly: the Adams dismissal proceeded despite judicial skepticism, and federal disaster and education funding were wielded against a rival governor and a dissenting state. These are not new categories of breach but escalations in scale and formalization of ones already identified.\n\nEthics concerns deepened with a favorable regulatory outcome for a politically connected company and continued expansion of DOGE's access to sensitive personal data across tax, health, and Social Security systems, again without commensurate transparency or oversight. Stewardship was harmed by continued, sometimes erroneous, mass firings in public-health-critical roles, compounded by a direct assault on the job protections underpinning administrative adjudicatory independence.\n\nCountervailing this, the judiciary again functioned as the most consistent institutional check, issuing a dense volume of rulings that blocked some data access, preserved birthright citizenship protections, and protected speech related to diversity programs, even as other rulings allowed firings and workforce reductions to continue. Individual acts of resignation by career officials, and civil society litigation and protest, provided further resistance, though as in prior weeks these remain reactive and dispersed rather than coordinated or preventive. The overall trajectory remains one of continued, compounding deterioration, with structural changes this week proving harder to reverse than rhetorical or personnel-level breaches alone.",
     "trend": "deteriorating",
     "stress_points": [
-      "centralization of executive power",
-      "disinformation as a governance tool",
-      "erosion of civil rights protections",
-      "politicization of the civil service"
+      "formal chartering of unaccountable private-led authority (DOGE) with agency-wide reach",
+      "federal funding and prosecutorial power used as coercive leverage against dissenting states and officials",
+      "expanding access to sensitive personal data (tax, health, Social Security) with limited oversight",
+      "erosion of adjudicatory independence via attack on administrative law judge protections",
+      "promotional and unsubstantiated official messaging displacing neutral public information",
+      "erratic, sometimes erroneous mass firings degrading public health and safety capacity"
     ],
     "sources_of_resilience": [
-      "judicial pushback against executive orders",
-      "civil society mobilization against abuses",
-      "state-level legal challenges"
+      "sustained judicial engagement across a high volume of simultaneous cases",
+      "resignations by career DOJ and technology officials refusing improper directives",
+      "civil-society and union litigation challenging data access and workforce cuts",
+      "congressional oversight letters demanding accountability for DOGE's data access",
+      "organized public protest against DOGE's influence over government operations",
+      "independent fact-checking challenging unsubstantiated official claims"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
+    "level": "severe",
+    "justification": "This week converted several provisional expansions of executive power into more durable structural arrangements: a chartered DOGE entity, direct White House review of independent regulators, and federal law-enforcement authority extended to a private citizen's security staff. Combined with continued use of prosecutorial and funding power as political leverage, and an SEC settlement favorable to a politically connected company, the pattern suggests a governing style in which institutional tools are increasingly treated as instruments of loyalty and retaliation rather than neutral public functions. The judiciary remains an active and partially effective check, but the volume of simultaneous actions across regulatory, personnel, and data domains continues to test its practical capacity to respond before facts on the ground become difficult to reverse.",
     "forward_signals": [
-      "increased executive orders bypassing legislative input",
-      "escalation of disinformation campaigns",
-      "further attempts to undermine civil rights protections"
+      "whether DOGE's formal charter survives ongoing litigation over its legal status",
+      "further attempts to access IRS, Social Security, or other sensitive data systems",
+      "outcome and precedent effect of the Adams dismissal on future prosecutorial independence",
+      "whether administrative law judge protections are formally eliminated",
+      "additional instances of federal funding used as leverage against dissenting states or officials",
+      "scale and pace of further mass firings in public-health or safety-critical roles"
     ]
   }
 }

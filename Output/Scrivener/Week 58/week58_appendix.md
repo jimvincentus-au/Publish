@@ -196,3 +196,251 @@ Information, Memory and Manipulation
 15. Federal Communications Commission designated a hearing to examine possible unauthorized foreign control and misrepresentation by a Texas radio licensee: Ordering a hearing into 97.5 Licensee TX, LLC’s ownership and candor addressed concerns about foreign influence and honesty in broadcast licensing, key to media transparency. — 2026-02-24
 
 16. EEOC held a closed commission meeting under Sunshine Act exemptions to decide a federal discrimination appeal: Closing an EEOC meeting on a federal discrimination case limited public visibility into how the agency adjudicates workplace rights, though it complied with statutory exemptions. — 2026-02-23
+
+<!-- BEGIN GENERATED APPENDIX -->
+Power and Authority
+
+1. The Trump administration ordered ICE to sharply increase detentions and daily arrests: The directive expanded direct coercive state power in immigration enforcement and increased the risk of detention for migrants and travelers with limited immediate recourse. — 2026-02-21
+
+2. The Trump administration announced plans to end Temporary Protected Status for Yemenis: Ending TPS threatened lawful presence for a vulnerable immigrant group and increased executive control over residency and deportation risk. — 2026-02-21
+
+3. President Trump approved a federal emergency declaration for the Potomac River sewage spill: The declaration activated federal emergency authority to coordinate disaster response and public health protection across the capital region. — 2026-02-21
+
+4. The Department of Homeland Security reversed its suspension of TSA PreCheck while keeping Global Entry halted: The reversal showed how shutdown-era executive decisions could quickly disrupt and then selectively restore basic public-facing security services. — 2026-02-22
+
+5. President Trump threatened military action against Iran in public remarks and in his State of the Union address: The threats signaled possible unilateral use of force and raised the stakes of executive war-making power in a volatile regional crisis. — 2026-02-25
+
+6. President Trump delivered a campaign-style State of the Union address and announced a "war on fraud" led by Vice President Vance [single source]: The speech used presidential authority and national messaging to frame immigrants as a threat and to shape public opinion ahead of elections. — 2026-02-26
+
+7. The Trump administration withheld $259 million in Medicaid funds from Minnesota: The funding freeze used federal spending power to pressure a state government and threatened access to health services for vulnerable residents. — 2026-02-27
+
+8. Right-wing activists circulated a draft executive order to declare a national emergency and take federal control over voting processes: The draft proposed using emergency power to override normal election administration and would have shifted core voting authority away from states. — 2026-02-27
+
+9. Mayor Zohran Mamdani secured the release of a Columbia student from federal immigration detention in a White House meeting: The release showed that executive detention decisions could be altered through direct political intervention rather than ordinary legal process alone. — 2026-02-27
+
+
+Institutions and Governance
+
+1. The House Oversight Committee subpoenaed Bill and Hillary Clinton to testify about Jeffrey Epstein: The subpoenas used congressional investigative power in a politically charged inquiry, testing whether oversight was serving accountability or partisan diversion. — 2026-02-21
+
+2. Representative Pramila Jayapal and other lawmakers urged DHS and ICE to release a medically vulnerable detainee in Georgia [single source]: The letter used congressional oversight to press executive agencies over detention conditions and possible abuse of a disabled detainee. — 2026-02-21
+
+3. Governor J.B. Pritzker sent President Trump an invoice for tariff costs borne by Illinois families: The move sought political accountability for federal economic actions and highlighted state resistance to disputed executive trade policy. — 2026-02-21
+
+4. The Supreme Court ruled that President Trump's IEEPA tariff regime was unlawful: The ruling reaffirmed that Congress, not the president alone, controls tariff power and imposed a direct judicial check on executive overreach. — 2026-02-21
+
+5. The Fifth Circuit lifted an injunction and allowed Louisiana to enforce its Ten Commandments classroom law [single source]: The ruling let the state impose a religious display mandate in public schools, testing church-state boundaries through judicial action. — 2026-02-21
+
+6. Federal judges in Minneapolis and Los Angeles dismissed several assault cases against protesters and immigrants after evidence undercut officers' claims [single source]: The dismissals exposed weak or false federal allegations and reinforced the courts' role in checking abusive prosecutions. — 2026-02-21
+
+7. The Department of Justice moved to intervene in a lawsuit challenging LAUSD race-conscious school support policies [single source]: The intervention used federal legal power to attack a local equity policy, showing how civil rights enforcement can be redirected by political leadership. — 2026-02-21
+
+8. The New Mexico Senate passed a bill to ban ICE detention centers in the state [single source]: The bill used state legislative power to limit detention infrastructure and push back against federal immigration enforcement practices. — 2026-02-23
+
+9. Congressional Republicans expanded their use of the Congressional Review Act against agency actions [single source]: The move widened Congress's ability to undo agency decisions and shifted institutional power away from administrative expertise. — 2026-02-23
+
+10. Republicans in Congress passed House Joint Resolution 140 to overturn the Boundary Waters mining moratorium [single source]: The resolution used legislative procedure to reverse an environmental protection order and weaken agency-based land safeguards. — 2026-02-23
+
+11. Senator Tina Smith led Senate opposition to House Joint Resolution 140 [single source]: The opposition showed legislative resistance to using expedited congressional tools to dismantle long-term public land protections. — 2026-02-23
+
+12. A federal judge in Texas granted a habeas petition and ordered the release of a detained five-year-old asylum-seeking child [single source]: The ruling checked executive detention power and affirmed judicial protection for a child's liberty and due process interests. — 2026-02-23
+
+13. The Supreme Court agreed to hear the Suncor climate accountability case and directed briefing on jurisdiction: The Court's move positioned it to shape whether state and local climate accountability suits can proceed, with broad effects on judicial access. — 2026-02-23
+
+14. Judge Aileen Cannon permanently blocked the release of Volume Two of Jack Smith's report on the classified documents case: The order restricted public and congressional access to a major investigative record, limiting transparency around alleged presidential misconduct. — 2026-02-23
+
+15. The Supreme Court issued routine orders in several cases and barred two frequent filers from further noncriminal petitions without fees: The orders reflected ordinary docket control and the Court's gatekeeping power over access to its process. — 2026-02-23
+
+16. The Election Assistance Commission requested public comment on proposed national election audit standards and later corrected the access link: The notices advanced national guidance for election auditing and public participation in election administration standards. — 2026-02-23
+
+17. Senate Democrats opened an investigation into whether the FCC and Paramount blocked a Colbert interview for political reasons [single source]: The inquiry used oversight power to examine possible partisan censorship and regulatory pressure on a major media company. — 2026-02-24
+
+18. House Speaker Mike Johnson said Congress lacked support to codify Trump's tariffs: The statement underscored that the president's tariff agenda lacked legislative backing, reinforcing Congress's formal role in trade law. — 2026-02-24
+
+19. A federal judge barred the Justice Department from searching a Washington Post reporter's seized devices: The ruling protected press independence and limited executive access to journalistic materials in a national security investigation. — 2026-02-25
+
+20. The Department of Justice sued UCLA over alleged antisemitism tied to campus protest conditions: The lawsuit used federal institutional power against a public university and intensified pressure on campuses over protest governance. — 2026-02-25
+
+21. House Democrats opened inquiries into Gail Slater's ouster and DOJ handling of Epstein files: The inquiries used oversight tools to probe political interference in antitrust enforcement and possible withholding of sensitive records. — 2026-02-25
+
+22. A federal judge in Oregon ruled against the Trump administration in the Columbia-Snake hydropower case [single source]: The decision rejected the administration's withdrawal from a negotiated river management framework and reaffirmed judicial review of agency reversals. — 2026-02-26
+
+23. Representative Delia Ramirez pressed for Kristi Noem's resignation and impeachment over immigration enforcement: The demand escalated legislative scrutiny of DHS leadership and framed immigration enforcement as a matter of institutional accountability. — 2026-02-26
+
+24. Democratic lawmakers introduced bills to bar ICE employees from some state civil service jobs [single source]: The bills used state legislative power to resist federal immigration enforcement personnel and raised questions about state-federal institutional conflict. — 2026-02-26
+
+25. The Kansas legislature put into effect a law requiring IDs to reflect sex at birth after overriding the governor's veto [single source]: The law used state legislative power to restrict transgender residents' legal recognition and access to public accommodations. — 2026-02-26
+
+26. The Wyoming House formed an investigative committee over campaign checks handed to lawmakers on the chamber floor [single source]: The committee signaled institutional concern about possible bribery and the integrity of legislative conduct. — 2026-02-26
+
+27. The Supreme Court released four opinions in ordinary cases: The opinions reflected routine judicial lawmaking and the Court's continuing role in setting binding national precedent. — 2026-02-24
+
+28. Federal courts and litigants filed, amended, consolidated, or ruled on a wide set of administrative and immigration cases: The filings and rulings showed sustained judicial review of executive actions across immigration, education, housing, health, and records disputes. — 2026-02-23
+
+29. The Congressional Budget Office updated projections showing earlier insolvency dates for Medicare and Social Security trust funds [single source]: The update informed legislative debate over fiscal policy and the long-term stability of major social insurance institutions. — 2026-02-27
+
+30. House Oversight Republicans deposed Bill and Hillary Clinton in closed-door Epstein-related proceedings that were disrupted by a leaked photo: The depositions and breach of hearing rules highlighted both Congress's investigative power and the erosion of procedural discipline in oversight. — 2026-02-25
+
+31. Congress negotiated DHS funding with proposed restrictions on ICE and Border Patrol practices: The talks used appropriations leverage to try to constrain immigration enforcement methods and restore institutional checks on DHS operations. — 2026-02-27
+
+32. Republicans filed to revive the independent state legislature theory in redistricting litigation [single source]: The filing sought to shift election rule power toward state legislatures and away from state courts, with major implications for representation. — 2026-02-27
+
+
+Economic Structure
+
+1. President Trump imposed new global tariffs under Section 122 and then said the rate would rise from 10% to 15%: The move used unilateral trade power to reshape prices and commerce after a court loss, increasing economic uncertainty and testing statutory limits. — 2026-02-21
+
+2. The FDA loosened labeling rules for products marketed as having no artificial colors [single source]: The change reduced consumer clarity in food labeling and showed regulatory choices that can favor industry over transparent public information. — 2026-02-21
+
+3. RFK Jr. defended support for Trump's order to expand domestic agricultural chemical production [single source]: The stance backed a policy that tied economic planning to chemical-intensive agriculture despite public health and environmental concerns. — 2026-02-22
+
+4. Treasury Secretary Scott Bessent declined to commit to refunds for tariffs collected under the invalidated regime: The refusal left unresolved whether the government would return unlawfully collected money, weakening fiscal accountability to importers and consumers. — 2026-02-22
+
+5. President Trump granted tariff exemptions for AI data center computers and planned to scale back some steel and aluminum tariffs [single source]: The exemptions showed selective executive control over trade burdens and the ability to favor chosen sectors through ad hoc tariff relief. — 2026-02-22
+
+6. The FCC invited comment on CORES registration and other routine information collections: The notices affected how firms and small businesses interact with federal regulators and comply with administrative requirements. — 2026-02-23
+
+7. The FDA issued routine determinations, vouchers, and information collection notices on drugs and compounding: The actions shaped market entry, regulatory oversight, and incentives in pharmaceutical and health product sectors. — 2026-02-23
+
+8. OMB, GSA, NASA, and the Defense Department submitted procurement-related information collection renewals on intellectual property and trade rules: The renewals affected contractor obligations and the administrative framework for federal purchasing and trade compliance. — 2026-02-23
+
+9. The CFTC supported Crypto.com in litigation shortly after a large pro-Trump political donation: The intervention raised concerns that regulatory power was being used in ways that tracked donor access rather than neutral enforcement. — 2026-02-23
+
+10. FedEx sued the federal government for refunds of tariffs the Supreme Court had found unlawful: The suit sought financial redress for executive trade actions and highlighted the economic fallout of unlawful tariff policy. — 2026-02-23
+
+11. The CDC opened comment periods on several public health data collection projects: The notices shaped how federal health programs gather evidence for funding, surveillance, and performance oversight. — 2026-02-24
+
+12. The EPA repealed 2024 amendments to hazardous air pollutant standards for coal- and oil-fired power plants: The repeal weakened pollution controls and showed regulatory rollback that shifted costs from industry to public health and the environment. — 2026-02-24
+
+13. The EPA sought comment on chemical data reporting renewal: The renewal maintained a core reporting system that supports federal oversight of chemical risks and industrial compliance. — 2026-02-24
+
+14. The FCC announced a matching program with Michigan to verify Lifeline and ACP eligibility: The program used cross-agency data to police benefit eligibility and affected access to subsidized communications services. — 2026-02-24
+
+15. The FDA renewed its Gastrointestinal Drugs Advisory Committee and sought comment on supplement manufacturing rules: The actions preserved expert input into drug regulation and updated compliance expectations for supplement manufacturers. — 2026-02-24
+
+16. The Trump administration repealed the endangerment finding and rolled back renewable energy approvals and incentives [single source]: The moves dismantled key climate and clean energy policy supports, shifting economic advantage toward fossil fuel interests. — 2026-02-25
+
+17. President Trump announced "ratepayer protection pledges" tied to AI data center electricity demand [single source]: The plan proposed executive bargaining over energy costs and infrastructure burdens without addressing the underlying market structure. — 2026-02-25
+
+18. The Trump administration cut energy assistance supports and hindered LIHEAP operations [single source]: The cuts reduced help for low-income households facing utility costs and weakened a public good that cushions economic hardship. — 2026-02-25
+
+19. The FCC modified several records systems and launched matching programs tied to Lifeline and the Affordable Connectivity Program: The changes expanded administrative data-sharing around benefit programs and affected how low-income communications aid is managed. — 2026-02-25
+
+20. The FCC finalized 6 GHz unlicensed device rules and sought comment on several information collections: The actions shaped spectrum access and compliance burdens in communications markets while opening routine regulatory review. — 2026-02-25
+
+21. The FDA announced OMB approvals and sought comment on several drug, feed, biologics, and tobacco information collections: The notices affected compliance costs and oversight across food, drug, and tobacco sectors that shape public health markets. — 2026-02-25
+
+22. The Department of Homeland Security awarded a $250,000 public relations contract to a Trump-aligned consulting firm after a brief bidding window [single source]: The contract raised concerns that procurement rules were bent toward political loyalty, weakening fairness and trust in public contracting. — 2026-02-26
+
+23. The Pentagon threatened Anthropic's contract unless it removed AI safety limits and granted broader military access: The pressure used federal contracting leverage to shape private technology design, showing how state purchasing power can steer corporate conduct. — 2026-02-26
+
+24. Governor Kathy Hochul requested a $13.5 billion refund tied to Trump's tariff regime: The request sought restitution for state-level economic harm and underscored the fiscal consequences of disputed executive trade actions. — 2026-02-26
+
+25. The EPA approved, denied, or proposed a series of air, waste, and hazardous materials regulatory actions: The actions redistributed regulatory authority and compliance burdens across states and industries in environmental governance. — 2026-02-26
+
+26. The FCC expanded delegated authority for claims settlements and sought comment on accommodation-related forms: The rule changes streamlined internal administration and adjusted how the agency handles claims and accessibility paperwork. — 2026-02-26
+
+27. The FDA issued several patent review period determinations and sought comment on investigational device reporting: The determinations affected patent life and market exclusivity for medical products, shaping incentives and competition in health markets. — 2026-02-26
+
+28. OSHA extended OMB approval for formaldehyde standard information collection: The extension maintained workplace safety reporting requirements while increasing estimated compliance burdens for affected employers. — 2026-02-26
+
+29. The EPA published environmental review notices, added a PFAS chemical to the Toxics Release Inventory, and extended greenhouse gas reporting deadlines: The actions mixed stronger toxic disclosure with delayed climate reporting, affecting public oversight of industrial environmental harms. — 2026-02-27
+
+30. The EPA finalized pesticide tolerance actions and opened comment on emergency exemptions for an unregistered rice pesticide: The decisions shaped food safety and agricultural regulation by setting residue limits and considering emergency use of unregistered chemicals. — 2026-02-27
+
+31. The FDA issued generic drug guidance notices, announced a workshop, and granted a pediatric priority review voucher: The actions influenced generic drug development and incentives for rare disease treatments, with effects on access and pricing. — 2026-02-27
+
+32. The General Services Administration requested comment on overseas employment forms and submitted an ombudsman inquiry instrument for review: The notices affected administrative rules for federal employment and vendor complaints in government procurement systems. — 2026-02-27
+
+33. OSHA announced Intertek's application to expand testing recognition to a Singapore site: The application affected product testing infrastructure and the regulatory framework for safety certification in global supply chains. — 2026-02-27
+
+34. OMB, GSA, NASA, and the Defense Department submitted a review request on contractor record examination and audit requirements: The submission maintained audit access rules that support accountability in federal contracting and pricing oversight. — 2026-02-27
+
+35. The NLRB withdrew the 2023 joint employer rule and restored the 2020 standard: The withdrawal narrowed employer responsibility in labor law and weakened a regulatory framework that can protect workers in fissured workplaces. — 2026-02-27
+
+36. Burger King announced an AI chatbot to monitor employee interactions in hundreds of restaurants: The rollout expanded workplace surveillance and data-driven management in low-wage labor settings. — 2026-02-27
+
+37. The EPA granted blanket exemptions and loosened mercury and air toxics restrictions for coal plants [single source]: The exemptions reduced compliance duties for coal operators while shifting pollution risks onto nearby communities and weakening regulatory credibility. — 2026-02-27
+
+38. The Department of Homeland Security remained in a partial shutdown that disrupted services and worker pay: The shutdown impaired public services and showed how budget conflict can impose economic harm on workers and service users alike. — 2026-02-25
+
+39. Wholesale price data showed faster-than-expected inflation in January: The data signaled continued cost pressure in the economy, shaping the policy environment for households and federal decision-makers. — 2026-02-26
+
+40. The FDA requested comments on international drug scheduling recommendations: The notice linked domestic regulatory practice to international narcotics control and affected future drug market restrictions. — 2026-02-27
+
+
+Civil Rights and Dissent
+
+1. Federal prosecutors arraigned four people in New Jersey for posing as immigration lawyers and officials to defraud immigrants: The case addressed exploitation of immigrants through fake legal process and affected trust in access to justice for vulnerable communities. — 2026-02-21
+
+2. ICE continued detaining immigrants and travelers in cases that raised due process concerns [single source]: The detentions showed how immigration enforcement can deprive people of liberty despite pending legal claims or valid travel status. — 2026-02-21
+
+3. North Carolina activists organized campaigns and weekly protests against proposed ICE detention expansion: The organizing showed sustained civil resistance to detention growth and local efforts to defend immigrant rights through protest and pressure. — 2026-02-21
+
+4. Democratic lawmakers and the U.S. women's hockey team announced boycotts or refusals tied to President Trump's State of the Union [single source]: The refusals used nonattendance as peaceful dissent against presidential spectacle and political co-optation. — 2026-02-22
+
+5. Aliya Rahman and Representative Al Green were arrested or removed after silent protest during the State of the Union: The arrest and ejection showed security power being used against symbolic dissent in one of the country's most visible civic forums. — 2026-02-24
+
+6. Protect Democracy and plaintiffs filed a class-action lawsuit against DHS over labeling legal observers of immigration raids as domestic terrorists: The suit challenged retaliation against people documenting state action and defended speech and observation rights around immigration enforcement. — 2026-02-25
+
+7. ICE whistleblower Ryan Schwank testified that ICE training had been cut and included instructions that could violate constitutional rights: The testimony suggested systemic risks to civil liberties in immigration enforcement and raised concerns about unlawful home entries and arrests. — 2026-02-23
+
+8. Border Patrol and immigration officials released a nearly blind Rohingya refugee far from home without notifying his family or lawyer, after which he was found dead: The case raised grave concerns about the treatment of vulnerable refugees and the duty of care owed by immigration authorities. — 2026-02-25
+
+9. Columbia student Elmina Aghayeva was detained by ICE and later released after political intervention: The detention and release highlighted the fragility of student visa rights and the use of immigration power against campus-linked individuals. — 2026-02-26
+
+10. A federal judge in Minnesota blocked the arrest and detention of admitted refugees based solely on failure to adjust status after one year: The injunction protected refugees from a broad detention policy and reaffirmed legal limits on immigration custody power. — 2026-02-27
+
+11. Federal authorities arrested 25 more people over a Minnesota anti-ICE church protest: The arrests escalated criminal consequences for protest activity tied to immigration enforcement and tested the boundary between dissent and prosecution. — 2026-02-27
+
+12. ICE conducted raids at California fast food workplaces that triggered fear and walkouts [single source]: The raids linked immigration enforcement to workplace insecurity and chilled labor organizing and daily economic participation for immigrant workers. — 2026-02-27
+
+13. The North Carolina Board of Elections worked on new voting rules based on claims about noncitizen voting and sought public comment [single source]: The proposed rules threatened to narrow voting access by framing restrictions as election integrity measures. — 2026-02-27
+
+14. Property owners in Concord, North Carolina said they would not sell or lease a facility to ICE after community pressure: The decision showed local civic action successfully blocking detention expansion and limiting federal enforcement infrastructure. — 2026-02-27
+
+15. Aidan Romain filed a lawsuit alleging sexual assault and racial harassment at Harvard-Westlake [single source]: The suit sought institutional accountability for alleged abuse and racial harassment in an elite school setting. — 2026-02-27
+
+16. The California Fast Food Workers Union drafted a constitutional pledge urging employers to require judicial warrants before ICE entered private work areas: The pledge used workplace organizing to defend immigrant workers' rights against warrantless or coercive enforcement practices. — 2026-02-27
+
+17. A Milwaukee city council member called for an investigation into Uline's immigration practices [single source]: The call sought local accountability for possible labor and immigration abuses affecting migrant workers' rights and treatment. — 2026-02-25
+
+18. Democratic senators sent a letter urging the administration to halt plans to expand LNG exports because of consumer cost impacts [single source]: The letter framed energy policy as a rights and welfare issue for households facing rising utility burdens. — 2026-02-26
+
+
+Information, Memory and Manipulation
+
+1. Donald Trump threatened Netflix over board member Susan Rice and warned the company would face consequences: The threat used political pressure against a media company and risked chilling independent corporate and editorial decisions. — 2026-02-21
+
+2. A FOIA lawsuit against DHS forced release of deportation records showing most people placed in proceedings had no criminal convictions [single source]: The disclosure corrected a misleading public narrative about immigration enforcement and strengthened factual accountability. — 2026-02-22
+
+3. The Department of Justice released Epstein files that triggered resignations, reviews, and institutional fallout across universities and media: The release reshaped public understanding of elite networks and forced institutions to confront hidden ties and recordkeeping failures. — 2026-02-23
+
+4. The EEOC announced a closed commission meeting on a discrimination complaint appeal: The closure limited public visibility into agency deliberation on a civil rights matter and narrowed transparency around official decision-making. — 2026-02-23
+
+5. The Department of Justice withheld, reviewed, restored, or was accused of omitting Epstein-related records involving Donald Trump and other figures: The shifting handling of the files raised sustained concerns that politically sensitive records were being selectively hidden or managed. — 2026-02-23
+
+6. The FCC issued a hearing designation order over possible unauthorized foreign control and misrepresentation in Texas radio station transfers: The order addressed transparency and candor in media ownership, a core issue for accountability in the information sphere. — 2026-02-24
+
+7. The FCC modified several Privacy Act systems of records: The changes expanded or updated government data-sharing rules and affected how communications-related personal records are managed. — 2026-02-25
+
+8. Donald Trump posted racist remarks telling Representatives Omar and Tlaib to go back where they came from: The posts used a major political platform to stigmatize elected critics and distort democratic debate through racialized messaging. — 2026-02-25
+
+9. The White House released an AI-doctored video falsely depicting Brady Tkachuk insulting Canadians: The use of fabricated audiovisual content by an official account undermined trust in public communications and normalized state-linked disinformation. — 2026-02-26
+
+10. The National Archives and Records Administration issued a correction to an Interior records schedule and requested comments on proposed federal records schedules: The notices affected how federal records are retained or discarded and preserved public input into archival governance. — 2026-02-26
+
+11. Marco Rubio ordered U.S. officials in the Middle East to stop public commentary that could complicate Iran talks: The directive tightened message discipline in diplomacy and showed executive control over official public information during sensitive negotiations. — 2026-02-27
+
+12. The FCC promoted a "Pledge America" campaign urging broadcasters to include patriotic programming: The campaign raised concerns that a federal regulator was nudging media content toward government-favored themes. — 2026-02-27
+
+13. Donald Trump called for imprisoning political opponents, shared fabricated election maps, and suggested pressure on private news platforms [single source]: The statements combined disinformation with threats against critics and signaled a willingness to use state power to shape the media environment. — 2026-02-27
+
+14. Researchers Jiaxin He and Adam Ozimek published a critique identifying errors in George Borjas's immigration research [single source]: The critique challenged influential anti-immigration claims and showed the democratic value of correcting flawed evidence in public debate. — 2026-02-27
+
+15. Activists in Cary, North Carolina reported that a lease for ICE office expansion may already have been signed despite ongoing protests: The report highlighted uncertainty and limited transparency around local decisions that could expand immigration enforcement capacity. — 2026-02-27
+
+16. The Census Bureau corrected dates in a notice about the Local Update of Census Addresses operation: The correction improved the accuracy of public information tied to census preparation, which underpins representation and resource allocation. — 2026-02-27
+
+17. The Pentagon publicly denied that it had orders to send a hospital ship to Greenland after President Trump suggested otherwise: The contradiction exposed a gap between presidential claims and military facts, affecting public trust in official information about force posture. — 2026-02-22
+<!-- END GENERATED APPENDIX -->

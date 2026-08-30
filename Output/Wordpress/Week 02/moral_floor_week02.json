@@ -1,6 +1,6 @@
 {
   "week_number": 2,
-  "period_label": "Week 2 – 2025-01-25–2025-01-31",
+  "period_label": "Week 2",
   "window": {
     "start": "2025-01-25",
     "end": "2025-01-31"
@@ -18,7 +18,7 @@
     },
     {
       "name": "restraint",
-      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
     },
     {
       "name": "truthfulness",
@@ -34,129 +34,275 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week marked a significant escalation in the erosion of democratic norms, characterized by aggressive executive actions that blurred the lines between governance and personal interests, alongside a troubling disregard for established legal frameworks and civil rights protections.",
+    "summary": "Week 2 escalated the first week's pattern into a coordinated campaign against the neutral machinery of government. A mass firing of inspectors general without statutory notice, a purge of DOJ prosecutors and FBI leadership tied to prior Trump investigations, and a mass buyout offer to the federal workforce combined to weaken independent oversight and civil-service neutrality. Simultaneously the administration attempted to redraw the boundaries of citizenship and due process (birthright citizenship order, Guantánamo detention expansion, sweeping ICE quotas) and blurred public office with private financial gain (crypto ventures, Musk-linked access to Treasury payment systems). Courts, some career officials, and a scattering of cross-partisan legislators pushed back, but largely after the fact and only partially.",
     "norms_broken": [
       {
-        "trait": "character",
-        "pattern": "Executive actions prioritized personal and political gain over public duty, exemplified by the pardoning of January 6 participants.",
-        "severity": "serious",
-        "institutional_response": "Courts and civil society organizations initiated legal challenges, but these responses were reactive rather than proactive.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk02_character_ex01",
-            "week": 2,
-            "event_ids": [
-              "wk02_CR_001"
-            ],
-            "developments": [
-              {
-                "development_id": "wk02_CR_001",
-                "development_label": "Pardoned Oath Keepers leader Stewart Rhodes",
-                "role": "primary"
-              }
-            ],
-            "summary": "Trump commuted and later pardoned Stewart Rhodes, signaling leniency toward political violence.",
-            "why_exemplary": "This act exemplified a prioritization of political loyalty over accountability, undermining the integrity of the legal system.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "ethics",
-        "pattern": "The launch of personal cryptocurrencies blurred the line between public office and private enrichment.",
-        "severity": "serious",
-        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk02_ethics_ex01",
-            "week": 2,
-            "event_ids": [
-              "wk02_ES_001"
-            ],
-            "developments": [
-              {
-                "development_id": "wk02_ES_001",
-                "development_label": "Launched personal cryptocurrency branded $Trump",
-                "role": "primary"
-              }
-            ],
-            "summary": "Trump launched a cryptocurrency that blurred lines between public office and private speculation.",
-            "why_exemplary": "This action raised ethical concerns about self-dealing and the potential for corruption.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "truthfulness",
-        "pattern": "False claims about immigration and crime eroded public trust.",
-        "severity": "serious",
-        "institutional_response": "Media and civil society organizations attempted to counter disinformation, but the narrative persisted.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk02_truthfulness_ex01",
-            "week": 2,
-            "event_ids": [
-              "wk02_IM_012"
-            ],
-            "developments": [
-              {
-                "development_id": "wk02_IM_012",
-                "development_label": "Claimed undocumented immigrants were driving a crime wave",
-                "role": "primary"
-              }
-            ],
-            "summary": "Trump claimed that undocumented immigrants were responsible for rising crime despite contrary data.",
-            "why_exemplary": "These statements embedded disinformation at the center of presidential communication, undermining trust in electoral processes.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "good_faith",
-        "pattern": "Executive orders undermined established legal frameworks and protections, particularly regarding immigration and civil rights.",
-        "severity": "serious",
-        "institutional_response": "Judicial challenges were initiated, but the executive's actions were largely unilateral.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk02_good_faith_ex01",
-            "week": 2,
-            "event_ids": [
-              "wk02_CR_004"
-            ],
-            "developments": [
-              {
-                "development_id": "wk02_CR_004",
-                "development_label": "Rescinded deportation protections for Venezuelans",
-                "role": "primary"
-              }
-            ],
-            "summary": "Ending protections for Venezuelans fleeing crisis exposed them to removal.",
-            "why_exemplary": "This action disregarded established processes for asylum, undermining the spirit of legal protections.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
         "trait": "stewardship",
-        "pattern": "The dismantling of oversight mechanisms and the removal of inspectors general weakened institutional accountability.",
-        "severity": "serious",
-        "institutional_response": "Limited pushback from existing oversight bodies, highlighting a lack of resilience.",
+        "pattern": "Mass firing of at least 17 inspectors general without the legally required 30-day notice, combined with a purge of DOJ prosecutors and FBI leadership tied to prior investigations of Trump, dismantled independent oversight capacity built to outlast any single administration.",
+        "severity": "extreme",
+        "institutional_response": "Bipartisan congressional outrage and an internal watchdog council's recommendation for legal review signaled resistance, but no reversal occurred within the week; the purges proceeded.",
         "exemplars": [
           {
             "exemplar_id": "wk02_stewardship_ex01",
             "week": 2,
             "event_ids": [
-              "wk02_PA_031"
+              "wk02_IG_001"
             ],
             "developments": [
               {
-                "development_id": "wk02_PA_031",
-                "development_label": "Fired inspectors general across multiple agencies",
+                "development_id": "wk02_IG_001",
+                "development_label": "Mass firing of inspectors general without required notice",
                 "role": "primary"
               }
             ],
-            "summary": "Trump fired inspectors general at multiple federal agencies without proper notice.",
-            "why_exemplary": "This action stripped internal watchdogs of their power, reducing institutional capacity to investigate executive misconduct.",
+            "summary": "At least 17 inspectors general across federal agencies were removed without the legally mandated 30-day notice to Congress.",
+            "why_exemplary": "A verified, sweeping removal of the internal watchdogs designed to detect waste, fraud, and abuse independent of political control, repeating and expanding the Week 1 pattern.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk02_stewardship_ex02",
+            "week": 2,
+            "event_ids": [
+              "wk02_IG_004",
+              "wk02_IG_015"
+            ],
+            "developments": [
+              {
+                "development_id": "wk02_IG_004",
+                "development_label": "Firing of DOJ prosecutors who worked on Trump-related cases",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk02_IG_015",
+                "development_label": "Sweeping FBI staff cuts targeting officials tied to January 6 investigations",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The acting attorney general fired career DOJ prosecutors tied to Trump investigations while the FBI forced out senior officials linked to Jan. 6 casework.",
+            "why_exemplary": "Directly degrades the independence of federal law enforcement institutions, converting professional civil-service roles into instruments of political retribution.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "A chaotic freeze-and-reversal of trillions in federal grants and loans, contradicted by later administration statements, along with an attempted unilateral rewriting of birthright citizenship via executive order, tested and defeated the spirit of congressional appropriations and constitutional procedure.",
+        "severity": "serious",
+        "institutional_response": "Federal judges in multiple jurisdictions blocked the funding freeze and the birthright citizenship order, demonstrating meaningful judicial resistance, though the administration signaled intent to continue pursuing both.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk02_good_faith_ex01",
+            "week": 2,
+            "event_ids": [
+              "wk02_IG_009",
+              "wk02_IG_008"
+            ],
+            "developments": [
+              {
+                "development_id": "wk02_IG_009",
+                "development_label": "Freeze and rapid reversal of federal grants and loans memo",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk02_IG_008",
+                "development_label": "Judicial stay blocking the funding freeze",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A sweeping freeze on federal grants and loans was rescinded within two days amid legal challenges, while the administration insisted the underlying freeze remained in force.",
+            "why_exemplary": "Illustrates procedural manipulation of appropriated funds and a disregard for the Impoundment Control Act, checked only by rapid judicial intervention rather than executive self-restraint.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk02_good_faith_ex02",
+            "week": 2,
+            "event_ids": [
+              "wk02_CR_012",
+              "wk02_IG_037"
+            ],
+            "developments": [
+              {
+                "development_id": "wk02_CR_012",
+                "development_label": "Executive order attempting to end birthright citizenship",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk02_IG_037",
+                "development_label": "22-state lawsuit challenging the birthright citizenship order",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The administration pressed forward with an order reinterpreting the Fourteenth Amendment despite it having already drawn legal challenge and judicial skepticism the prior week.",
+            "why_exemplary": "Attempting to override a constitutional guarantee by decree defeats the purpose of settled constitutional process rather than working within it.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "Expansion of Guantánamo Bay into a 30,000-person migrant detention facility, invocation of the 1798 Alien Enemies Act, ICE arrest quotas of up to 1,800 per day, and authorization of enforcement in schools and churches together represent an extraordinary expansion of coercive state power well beyond ordinary immigration administration.",
+        "severity": "extreme",
+        "institutional_response": "Faith organizations and civil-rights groups filed lawsuits; courts had not yet ruled by week's end, leaving the expanded enforcement largely unchecked in practice.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk02_restraint_ex01",
+            "week": 2,
+            "event_ids": [
+              "wk02_PA_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk02_PA_004",
+                "development_label": "Order to prepare a 30,000-person migrant facility at Guantánamo Bay",
+                "role": "primary"
+              }
+            ],
+            "summary": "ICE was ordered to prepare a military prison historically used for terrorism suspects to hold tens of thousands of civilian immigration detainees.",
+            "why_exemplary": "Repurposing an offshore military facility associated with human rights abuses for civilian detention represents an unrestrained and largely unprecedented use of executive coercive capacity.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk02_restraint_ex02",
+            "week": 2,
+            "event_ids": [
+              "wk02_PA_011",
+              "wk02_PA_010"
+            ],
+            "developments": [
+              {
+                "development_id": "wk02_PA_011",
+                "development_label": "ICE daily arrest quotas of 1,200-1,800",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk02_PA_010",
+                "development_label": "Coordinated multi-city raids arresting over 950 people in one weekend",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Numeric enforcement targets and large-scale coordinated raids intensified pressure on agents, increasing the risk of wrongful detentions and civil-rights violations.",
+            "why_exemplary": "Quota-driven enforcement subordinates individualized legal judgment to volume targets, a hallmark of unrestrained administrative power.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "Continued blending of presidential and family financial interests with governmental power, including a personal cryptocurrency venture, a $250 million crypto expansion by Trump Media, a Meta settlement seen as deference to political power, and reports of donors with pending IRS matters funding the incoming IRS commissioner's campaign debt.",
+        "severity": "serious",
+        "institutional_response": "No agency or court intervened during the week; scrutiny came only from investigative journalism.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk02_ethics_ex01",
+            "week": 2,
+            "event_ids": [
+              "wk02_ES_001",
+              "wk02_ES_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk02_ES_001",
+                "development_label": "Launch of personal $Trump cryptocurrency",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk02_ES_004",
+                "development_label": "Trump Media's $250 million crypto expansion",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A sitting president's personal cryptocurrency venture and his media company's parallel crypto expansion continued to blur the line between office and personal enrichment.",
+            "why_exemplary": "Directly fuses presidential authority with a personal revenue stream in an unregulated financial sector, a clear and sustained conflict of interest.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk02_ethics_ex02",
+            "week": 2,
+            "event_ids": [
+              "wk02_ES_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk02_ES_012",
+                "development_label": "Donors with pending IRS matters paying off IRS nominee's campaign debt",
+                "role": "primary"
+              }
+            ],
+            "summary": "Reporting revealed donors with matters pending before the IRS had paid off the campaign debt of Trump's nominee to lead the agency shortly after his nomination.",
+            "why_exemplary": "Illustrates a direct pay-to-play conflict of interest involving the agency responsible for impartial tax enforcement.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "The president made a demonstrably false claim about a military water deployment and, alongside senior officials, promoted an unsubstantiated narrative blaming diversity hiring for a fatal aviation disaster, formalized in an executive memorandum.",
+        "severity": "concerning",
+        "institutional_response": "Media fact-checking occurred but no internal correction mechanism was applied; the false aviation narrative was elevated into official policy documents.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk02_truthfulness_ex01",
+            "week": 2,
+            "event_ids": [
+              "wk02_IM_005",
+              "wk02_IM_006"
+            ],
+            "developments": [
+              {
+                "development_id": "wk02_IM_005",
+                "development_label": "Baseless blame of diversity hiring for fatal plane-helicopter collision",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk02_IM_006",
+                "development_label": "Executive memorandum formalizing the diversity-blame narrative",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Without evidence, the president publicly attributed a fatal aviation disaster to diversity hiring practices, then signed a memorandum directing review of FAA hiring on that basis.",
+            "why_exemplary": "Converts an unsubstantiated political claim into official government record, corrupting the factual basis for public safety policy.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk02_truthfulness_ex02",
+            "week": 2,
+            "event_ids": [
+              "wk02_IM_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk02_IM_001",
+                "development_label": "False claim of military deployment to restore California water",
+                "role": "primary"
+              }
+            ],
+            "summary": "The president claimed he had ordered the military into California to restore water supplies when no such deployment occurred.",
+            "why_exemplary": "A verified false statement about a nonexistent government action misleads the public about the state's actual operations.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "Stripping Gen. Mark Milley's security clearance and protective detail after his past criticism of Trump, and directing a purge of FBI agents who investigated Trump, used the machinery of office to punish personal critics rather than serve neutral public duty.",
+        "severity": "serious",
+        "institutional_response": "No formal institutional check occurred within the week; the actions proceeded via Pentagon and DOJ directive.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk02_character_ex01",
+            "week": 2,
+            "event_ids": [
+              "wk02_PA_014"
+            ],
+            "developments": [
+              {
+                "development_id": "wk02_PA_014",
+                "development_label": "Revocation of Gen. Milley's security clearance and detail",
+                "role": "primary"
+              }
+            ],
+            "summary": "Defense Secretary Hegseth stripped a former Joint Chiefs chair of his security clearance, detail, and ordered a rank review after his criticism of Trump.",
+            "why_exemplary": "Uses military personnel authority to retaliate against a critic rather than address any genuine security concern, subordinating duty to personal grievance.",
             "exemplar_type": "primary"
           }
         ]
@@ -164,55 +310,125 @@
     ],
     "norms_strengthened": [
       {
-        "trait": "good_faith",
-        "pattern": "Judicial actions temporarily blocked some of the administration's most aggressive moves, demonstrating a commitment to uphold legal norms.",
+        "trait": "restraint",
+        "pattern": "Federal judges issued stays and injunctions blocking both the sweeping federal funding freeze and the impoundment of funds owed to states, reasserting statutory and constitutional limits on executive control over appropriated money.",
         "scope": "institutional",
-        "why_it_matters": "These judicial interventions highlight the importance of checks and balances in resisting executive overreach.",
+        "why_it_matters": "Demonstrates that courts retain practical capacity to check unilateral executive assertions of fiscal power, even amid a high volume of simultaneous actions.",
         "exemplars": [
           {
-            "exemplar_id": "wk02_good_faith_ex02",
+            "exemplar_id": "wk02_restraint_strength_ex01",
             "week": 2,
             "event_ids": [
-              "wk02_IG_004"
+              "wk02_IG_008",
+              "wk02_IG_010"
             ],
             "developments": [
               {
-                "development_id": "wk02_IG_004",
-                "development_label": "Issued stays blocking Trump's federal funding freeze",
+                "development_id": "wk02_IG_008",
+                "development_label": "Judicial stay blocking the federal funding freeze",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk02_IG_010",
+                "development_label": "Formal injunction against impoundment of state funds",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Two separate federal judges blocked the administration's freeze and impoundment of appropriated funds owed to states and grantees.",
+            "why_exemplary": "A concrete, verified judicial check that halted a major overreach before its full effects could be realized nationwide.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Bipartisan congressional outrage over the inspector general firings, and an internal watchdog council's recommendation that the White House consult legal counsel, reflected institutional insistence on procedural correctness even under pressure.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Cross-partisan concern over a facially unlawful purge signals that some norms retain support across political lines, a necessary precondition for any future correction.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk02_good_faith_strength_ex01",
+            "week": 2,
+            "event_ids": [
+              "wk02_IG_002",
+              "wk02_IG_003"
+            ],
+            "developments": [
+              {
+                "development_id": "wk02_IG_002",
+                "development_label": "Bipartisan outrage over inspector general firings",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk02_IG_003",
+                "development_label": "Watchdog council recommendation for legal review",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Democrats and some Republicans demanded explanation for the inspector general firings while an internal oversight council flagged possible legal noncompliance.",
+            "why_exemplary": "Shows institutional actors invoking procedural correctness rather than accepting the firings as a fait accompli, even without immediate reversal.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "A sitting former senator's 11-year sentence for bribery and continued prosecution of a sitting mayor on corruption charges demonstrated that accountability mechanisms for public corruption remained functional despite pressure elsewhere.",
+        "scope": "institutional",
+        "why_it_matters": "Consistent enforcement against corruption, regardless of the office held, preserves public confidence that legal accountability is not purely a function of political alignment.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk02_stewardship_strength_ex01",
+            "week": 2,
+            "event_ids": [
+              "wk02_IG_023"
+            ],
+            "developments": [
+              {
+                "development_id": "wk02_IG_023",
+                "development_label": "11-year sentence for former Senator Bob Menendez",
                 "role": "primary"
               }
             ],
-            "summary": "Federal courts issued multiple stays blocking Trump's attempt to freeze federal grants and loans.",
-            "why_exemplary": "This action reinforced congressional spending authority and checked executive overreach.",
+            "summary": "A federal judge sentenced former Senator Bob Menendez to 11 years in prison for bribery, reinforcing that high office does not exempt officials from accountability.",
+            "why_exemplary": "A substantial, verified sentence for high-level corruption demonstrates continued functioning of judicial accountability independent of the broader political turmoil.",
             "exemplar_type": "primary"
           }
         ]
       }
     ],
-    "direction_of_movement": "collapsing"
+    "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "Week 2 represents a sharp escalation in the deterioration of the moral floor, building on the trajectory established in Week 1. The aggressive use of executive power, coupled with actions that prioritize personal and political interests over public duty, has set a concerning precedent. The erosion of accountability mechanisms and the normalization of disinformation further exacerbate the risks to democratic integrity. This week’s events illustrate a stark shift towards a more authoritarian governance style, where the rule of law is increasingly weaponized and civil rights are undermined. However, judicial pushback indicates that some institutional resilience remains, albeit under significant threat.",
+    "narrative": "Week 2 confirms and deepens the trajectory established in Week 1. Where the first week produced a broad first strike across nearly every moral floor trait, Week 2 converted that opening barrage into a more systematic campaign: watchdogs and prosecutors tied to Trump investigations were purged en masse, the civil service was pressured toward mass resignation, and coercive immigration authority was expanded through Guantánamo, quota-driven raids, and a wartime-era statute. The attempt to end birthright citizenship and the chaotic funding freeze both tested constitutional and statutory limits, this time meeting faster and more concrete judicial resistance than some Week 1 actions, but at the cost of significant real-world disruption before courts could act.\n\nThe ethics and truthfulness traits also weakened further, with continuing crypto-related financial entanglements, a corporate settlement read as deference to political power, and an official memorandum enshrining an unsubstantiated public-safety narrative. At the same time, sources of resilience persisted and in some respects strengthened: cross-partisan congressional concern over the inspector general purge, an internal watchdog council urging legal caution, and continued judicial willingness to block both the funding freeze and the birthright citizenship order. These checks, however, remain reactive rather than preventive, arriving only after damage was underway.\n\nTaken together, the two weeks show a consistent method: use volume and speed to outpace institutional response, target personnel and offices that provide independent oversight, and blur the line between public duty and private or political gain. The moral floor has not collapsed, but it is under sustained, coordinated pressure across all six traits simultaneously, with resilience concentrated almost entirely in the judiciary and pockets of cross-partisan concern rather than in the executive branch itself.",
     "trend": "deteriorating",
     "stress_points": [
-      "normalization of emergency powers",
-      "disinformation as a governance tool",
-      "erosion of civil rights protections",
-      "politicization of the civil service"
+      "systematic purge of inspectors general and prosecutors tied to prior investigations",
+      "quota-driven immigration enforcement expanding into schools, churches, and offshore detention",
+      "chaotic, later-reversed assertion of executive control over appropriated funds",
+      "unilateral attempt to reinterpret constitutional citizenship guarantees",
+      "continuing fusion of presidential and family financial interests with governance",
+      "unsubstantiated official narratives elevated into policy documents"
     ],
     "sources_of_resilience": [
-      "judicial pushback against executive orders",
-      "civil society mobilization against abuses",
-      "state-level legal challenges"
+      "rapid judicial intervention blocking the funding freeze and impoundment of state funds",
+      "cross-partisan congressional concern over inspector general firings",
+      "internal watchdog council flagging legal noncompliance",
+      "continued prosecution and sentencing of corrupt officials regardless of party",
+      "faith organizations and civil-rights groups filing suit over enforcement in protected spaces",
+      "state and local pushback, including gubernatorial and legislative resistance"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
+    "level": "severe",
+    "justification": "The week combined a systematic dismantling of independent oversight capacity (inspectors general, DOJ prosecutors, FBI leadership) with an unprecedented expansion of coercive detention authority (Guantánamo, quota-driven ICE raids, the Alien Enemies Act) and continued fusion of private financial interest with public office. Unlike isolated breaches, these actions reinforced one another: removing watchdogs reduced the likelihood that abuses in enforcement or spending would be surfaced internally, while quota-driven enforcement and offshore detention created conditions where oversight gaps carry immediate human consequences. Judicial intervention was real but arrived only after funds had already been disrupted and, in the case of birthright citizenship, only continued a fight left unresolved from the prior week. The pattern of formalizing unsubstantiated narratives into official memoranda further signals that truthfulness is being subordinated to political convenience at the level of policy documents, not just rhetoric.",
     "forward_signals": [
-      "increased executive orders bypassing legislative input",
-      "escalation of disinformation campaigns",
-      "further attempts to undermine civil rights protections"
+      "whether courts sustain injunctions against the funding freeze and birthright citizenship order through appeal",
+      "whether the Guantánamo migrant facility becomes operational and what legal regime governs it",
+      "confirmation outcomes for Kash Patel, Tulsi Gabbard, and Robert F. Kennedy Jr. and their stated positions on politicized enforcement",
+      "whether Schedule Policy/Career reclassification and mass buyout offers survive legal challenge",
+      "further reporting on Musk-linked access to Treasury payment systems and personnel data",
+      "whether cross-partisan concern over inspector general firings translates into any legislative or oversight action"
     ]
   }
 }

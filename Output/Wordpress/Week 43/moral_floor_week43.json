@@ -1,12 +1,12 @@
 {
   "week_number": 43,
-  "period_label": "Week 43 – 2025-11-08–2025-11-14",
+  "period_label": "Week 43",
   "window": {
     "start": "2025-11-08",
     "end": "2025-11-14"
   },
-  "clock_time_public": "8:11 p.m.",
-  "clock_delta_minutes": -0.3,
+  "clock_time_public": "7:42 p.m.",
+  "clock_delta_minutes": -0.2,
   "baseline_traits": [
     {
       "name": "character",
@@ -18,7 +18,7 @@
     },
     {
       "name": "restraint",
-      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
     },
     {
       "name": "truthfulness",
@@ -34,221 +34,423 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week saw a further decline in the moral floor, marked by significant breaches of ethical norms, particularly through the use of executive power for personal and political gain, while some institutional pushback remains evident.",
+    "summary": "The week combined a formal restoration of governance—the end of the longest shutdown in US history—with a dense cluster of ethical breaches that undercut its significance. Blanket pardons shielded election-subversion conspirators and a pardon recipient tied to a lucrative deal with the president's family business, deepening the pattern of clemency entangled with loyalty and personal benefit. Immigration enforcement grew more violent and less answerable to court orders, including one direct defiance of a binding ruling. Internal watchdogs investigating a Trump ally were removed mid-inquiry. Yet courts continued to check executive overreach on food aid and mass detention, a discharge petition forced disclosure over leadership's objection, and two state legislatures declined to gerrymander despite White House pressure. The pattern is neither uniform escalation nor uniform resistance: it is active contestation, with genuine institutional friction slowing but not halting erosion.",
     "norms_broken": [
       {
-        "trait": "character",
-        "pattern": "Executive actions prioritized political interests over public duty, particularly through a wave of pardons benefiting allies and undermining accountability.",
-        "severity": "serious",
-        "institutional_response": "Limited pushback from courts and Congress, indicating a lack of effective oversight.",
+        "trait": "stewardship",
+        "pattern": "Blanket pardons for 2020 election-subversion figures and a sweeping clemency grant covering the fake-elector scheme removed future deterrence against attempts to overturn elections, while a related pardon coincided with a large financial deal benefiting the president's family.",
+        "severity": "extreme",
+        "institutional_response": "Media and civil society documented the pattern; no institutional check reversed or constrained the pardons within the week.",
         "exemplars": [
           {
-            "exemplar_id": "wk43_character_ex01",
+            "exemplar_id": "wk43_stewardship_ex01",
             "week": 43,
             "event_ids": [
-              "wk43_PA_005",
-              "wk43_PA_009"
+              "wk43_PA_003",
+              "wk43_PA_007"
             ],
             "developments": [
               {
-                "development_id": "wk43_PA_005",
-                "development_label": "Issued mass pardons to figures involved in the 2020 election subversion.",
+                "development_id": "wk43_PA_003",
+                "development_label": "Blanket pardons for Giuliani, Meadows, Powell, Eastman and others",
                 "role": "primary"
               },
               {
-                "development_id": "wk43_PA_009",
-                "development_label": "Pardoned allies and financial benefactors, reinforcing a culture of impunity.",
-                "role": "secondary"
+                "development_id": "wk43_PA_007",
+                "development_label": "Sweeping pardon covering all fake-elector-scheme conduct",
+                "role": "primary"
               }
             ],
-            "summary": "The president's actions exemplified a shift towards using state power for personal political gain.",
-            "why_exemplary": "These actions illustrated a disregard for the integrity of public institutions, undermining democratic norms.",
+            "summary": "Dozens of 2020 election-subversion figures received blanket clemency, with language broad enough to cover future-facing conduct in the fake-elector scheme itself.",
+            "why_exemplary": "Eliminating accountability for a coordinated attack on a peaceful transfer of power permanently weakens the institutional deterrent against future subversion attempts.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk43_stewardship_ex02",
+            "week": 43,
+            "event_ids": [
+              "wk43_IG_017"
+            ],
+            "developments": [
+              {
+                "development_id": "wk43_IG_017",
+                "development_label": "Removal of acting inspector general and ethics staff investigating Fannie Mae/FHFA leadership",
+                "role": "primary"
+              }
+            ],
+            "summary": "Officials investigating whether a Trump ally misused mortgage data on political rivals were removed before the inquiry concluded.",
+            "why_exemplary": "Ending an active investigation by removing its investigators, rather than by findings, damages institutional capacity to police conflicts of interest at their source.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "ethics",
-        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the use of executive power to reward allies and punish critics.",
+        "pattern": "Clemency decisions repeatedly tracked personal or financial proximity to the president rather than merit: a pardon for a Binance founder tied to a multibillion-dollar deal with a Trump-linked crypto firm, a commutation for a convicted congressman shortly after minimal time served, and unequal access to mercy for the wealthy and connected.",
         "severity": "serious",
-        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
+        "institutional_response": "Reported by multiple outlets; no ethics enforcement mechanism intervened.",
         "exemplars": [
           {
             "exemplar_id": "wk43_ethics_ex01",
             "week": 43,
             "event_ids": [
-              "wk43_PA_006",
-              "wk43_PA_018"
+              "wk43_PA_011"
             ],
             "developments": [
               {
-                "development_id": "wk43_PA_006",
-                "development_label": "Pardoned a billionaire convicted of insider trading shortly after receiving gifts.",
+                "development_id": "wk43_PA_011",
+                "development_label": "Pardon of Changpeng Zhao amid $2 billion Trump family crypto deal",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk43_PA_018",
-                "development_label": "Pardoned a foreign agent linked to personal connections.",
-                "role": "secondary"
               }
             ],
-            "summary": "The president's actions exemplified a disregard for ethical boundaries.",
-            "why_exemplary": "These actions demonstrated a willingness to use public resources as tools for political leverage and personal gain.",
+            "summary": "A convicted money launderer received a pardon around the same time his company struck a major deal benefiting the president's family business.",
+            "why_exemplary": "Direct temporal and financial proximity between clemency and personal enrichment is a textbook conflict-of-interest concern the ethics floor exists to prevent.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk43_ethics_ex02",
+            "week": 43,
+            "event_ids": [
+              "wk43_PA_009",
+              "wk43_PA_010"
+            ],
+            "developments": [
+              {
+                "development_id": "wk43_PA_009",
+                "development_label": "Pardons for billionaire Joe Lewis and a congressman's relative",
+                "role": "secondary"
+              },
+              {
+                "development_id": "wk43_PA_010",
+                "development_label": "Commutation of George Santos's sentence after minimal time served",
+                "role": "primary"
+              }
+            ],
+            "summary": "Clemency again favored wealth and political connection, including a fraud convict's rapid commutation with no shown remorse.",
+            "why_exemplary": "A visible pattern of unequal mercy tied to loyalty or wealth undermines the principle that public power should not be used to reward private connection.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "restraint",
-        "pattern": "The administration's aggressive use of executive orders and pardons showed a lack of self-limitation, particularly in the context of the government shutdown.",
+        "pattern": "The executive resisted a court-ordered SNAP disbursement, withheld available emergency funds as shutdown leverage, floated noncompliance with a potential adverse Supreme Court ruling, and pressured members of Congress and reporters over an issue implicating the president personally.",
         "severity": "serious",
-        "institutional_response": "Limited checks from Congress or courts, indicating a weakening of institutional norms.",
+        "institutional_response": "Courts and several state governors pushed back forcefully; the administration's compliance was contested but ultimately compelled in the food-aid case.",
         "exemplars": [
           {
             "exemplar_id": "wk43_restraint_ex01",
             "week": 43,
             "event_ids": [
-              "wk43_PA_003",
-              "wk43_PA_010"
+              "wk43_PA_001",
+              "wk43_PA_005"
             ],
             "developments": [
               {
-                "development_id": "wk43_PA_003",
-                "development_label": "Urged Senate Republicans to abolish the filibuster during the shutdown.",
+                "development_id": "wk43_PA_001",
+                "development_label": "USDA directive to reverse court-ordered SNAP payments",
                 "role": "primary"
               },
               {
-                "development_id": "wk43_PA_010",
-                "development_label": "Announced plans to pull federal funding from New York City.",
-                "role": "secondary"
+                "development_id": "wk43_PA_005",
+                "development_label": "Refusal to tap emergency reserves for SNAP as shutdown leverage",
+                "role": "primary"
               }
             ],
-            "summary": "The use of executive power to manipulate legislative processes exemplified a lack of restraint.",
-            "why_exemplary": "These actions illustrated a disregard for the limits of executive authority and the need for checks on power.",
+            "summary": "A federal agency attempted to claw back lawfully distributed food aid and withheld available emergency funds to pressure budget negotiations.",
+            "why_exemplary": "Using hunger as a bargaining chip against a court order tests the willingness of the executive to accept any limit on its own leverage during a political standoff.",
             "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "truthfulness",
-        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding the administration's actions and economic conditions.",
-        "severity": "serious",
-        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
-        "exemplars": [
+          },
           {
-            "exemplar_id": "wk43_truthfulness_ex01",
+            "exemplar_id": "wk43_restraint_ex02",
             "week": 43,
             "event_ids": [
-              "wk43_IM_001",
-              "wk43_IM_022"
+              "wk43_PA_015"
             ],
             "developments": [
               {
-                "development_id": "wk43_IM_001",
-                "development_label": "Published an unverified story about a January 6 suspect.",
+                "development_id": "wk43_PA_015",
+                "development_label": "Suggested government might not comply with an adverse Supreme Court tariff ruling",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk43_IM_022",
-                "development_label": "Allegedly investigated debunked election fraud claims.",
-                "role": "secondary"
               }
             ],
-            "summary": "The normalization of false claims about public safety and election integrity exemplified a significant erosion of truthfulness.",
-            "why_exemplary": "These actions embedded disinformation at the center of governance, undermining trust in governmental processes.",
-            "exemplar_type": "primary"
+            "summary": "The president suggested the executive branch might be unable or unwilling to honor a potential Supreme Court decision on tariffs.",
+            "why_exemplary": "Publicly questioning compliance with the nation's highest court, even hypothetically, signals a weakening commitment to binding judicial limits on executive policy.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "good_faith",
-        "pattern": "The administration's actions undermined the spirit of democratic rules, particularly in election processes and judicial independence.",
+        "pattern": "Leadership sought to suppress or blunt a discharge petition and disclosure vote implicating the president, including direct lobbying of wavering members, retaliation against those who supported disclosure, and a newly ordered DOJ investigation timed to potentially justify future withholding of records.",
         "severity": "serious",
-        "institutional_response": "Limited institutional resistance, with some courts attempting to uphold democratic norms.",
+        "institutional_response": "The petition succeeded despite pressure; Speaker Johnson attempted procedural workarounds to limit accountability even while nominally advancing the bill.",
         "exemplars": [
           {
-            "exemplar_id": "wk43_good_faith_ex01",
+            "exemplar_id": "wk43_goodfaith_ex01",
             "week": 43,
             "event_ids": [
-              "wk43_IG_006",
-              "wk43_IG_023"
+              "wk43_PA_012",
+              "wk43_PA_013"
             ],
             "developments": [
               {
-                "development_id": "wk43_IG_006",
-                "development_label": "Joined Republicans to reopen government without securing health protections.",
+                "development_id": "wk43_PA_012",
+                "development_label": "Pressure on Republicans to withdraw discharge petition signatures",
                 "role": "primary"
               },
               {
-                "development_id": "wk43_IG_023",
-                "development_label": "Blocked unanimous consent on the Epstein Files Transparency Act.",
+                "development_id": "wk43_PA_013",
+                "development_label": "Withdrawal of endorsement from Greene and attack on Massie",
+                "role": "primary"
+              }
+            ],
+            "summary": "The president directly lobbied and punished lawmakers to block a transparency measure implicating his own conduct.",
+            "why_exemplary": "Using endorsement and party power to suppress a disclosure vote defeats the purpose of a legislative accountability mechanism rather than contesting it through legitimate means.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk43_goodfaith_ex02",
+            "week": 43,
+            "event_ids": [
+              "wk43_PA_014",
+              "wk43_IG_014"
+            ],
+            "developments": [
+              {
+                "development_id": "wk43_PA_014",
+                "development_label": "New DOJ investigation into Epstein-Democrat ties ordered before the vote",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk43_IG_014",
+                "development_label": "Attempt to fast-track the disclosure vote by unanimous consent",
                 "role": "secondary"
               }
             ],
-            "summary": "The procedural manipulation to deny representation exemplified a breach of good faith in democratic processes.",
-            "why_exemplary": "These actions demonstrated a willingness to manipulate legal frameworks for partisan advantage, undermining the integrity of democratic institutions.",
+            "summary": "A newly ordered investigation could later justify withholding records under a standard legal exception, while leadership sought to spare members a recorded vote.",
+            "why_exemplary": "Timing an investigation to create a future pretext for secrecy, alongside procedural maneuvering to blunt accountability, illustrates letter-of-the-law compliance paired with spirit-of-the-law evasion.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "Federal immigration agents used escalating and sometimes falsified accounts of force against civilians, including a documented instance of a senior official lying under oath about a use-of-force incident, and defied a binding court order in a deportation.",
+        "severity": "serious",
+        "institutional_response": "Federal judges reprimanded and rebuked officials, ordered releases, and found some enforcement actions unlawful; defiance nonetheless occurred.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk43_character_ex01",
+            "week": 43,
+            "event_ids": [
+              "wk43_CR_006",
+              "wk43_CR_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk43_CR_006",
+                "development_label": "Judge reprimanded Border Patrol Chief Bovino for lying about tear-gas incident",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk43_CR_001",
+                "development_label": "False public claims about being fired upon during enforcement",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A senior enforcement official was found by a federal judge to have lied under oath about the use of force against protesters, part of a repeated pattern of dishonesty.",
+            "why_exemplary": "Documented, court-adjudicated dishonesty by a senior official directly overseeing use of force reflects a failure of the internal discipline expected of public office.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk43_character_ex02",
+            "week": 43,
+            "event_ids": [
+              "wk43_CR_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk43_CR_012",
+                "development_label": "Deportation of a transgender woman in defiance of a court order finding torture risk",
+                "role": "primary"
+              }
+            ],
+            "summary": "Agents removed a protected individual despite an explicit judicial finding of danger, directly violating a binding court order.",
+            "why_exemplary": "Direct defiance of a specific judicial protection shows officials treating court orders as optional rather than binding limits on their conduct.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "The administration made repeated inaccurate claims about tariff revenue, economic strength, and its own compliance capacity, while officials dismissed documented economic strain and a scandal-implicating document release as fabrication.",
+        "severity": "concerning",
+        "institutional_response": "Independent data (restaurant chains, insurance rates) and journalists documented the gap between claims and reality; no correction issued by officials involved.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk43_truthfulness_ex01",
+            "week": 43,
+            "event_ids": [
+              "wk43_ES_013",
+              "wk43_IM_014"
+            ],
+            "developments": [
+              {
+                "development_id": "wk43_ES_013",
+                "development_label": "Inflated tariff revenue claims and unfunded dividend proposal",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk43_IM_014",
+                "development_label": "Denial of tariffs' consumer cost and dismissal of economic polling as fake",
+                "role": "primary"
+              }
+            ],
+            "summary": "Officials repeated disputed claims about tariff revenue and dismissed documented public concern about costs as fabricated.",
+            "why_exemplary": "Repeated misrepresentation of basic fiscal facts to justify a major unfunded policy proposal directly obstructs the public's ability to evaluate government claims.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk43_truthfulness_ex02",
+            "week": 43,
+            "event_ids": [
+              "wk43_IM_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk43_IM_009",
+                "development_label": "Dismissal of released Epstein emails as a 'hoax'",
+                "role": "primary"
+              }
+            ],
+            "summary": "Officials responded to documented correspondence implicating the president with blanket denial rather than substantive engagement.",
+            "why_exemplary": "Labeling verified documentary evidence a hoax, without rebuttal, exemplifies refusal to correct or engage honestly with facts of clear public consequence.",
+            "exemplar_type": "secondary"
           }
         ]
       }
     ],
     "norms_strengthened": [
       {
-        "trait": "stewardship",
-        "pattern": "Judicial actions aimed at preserving SNAP benefits and blocking unlawful immigration enforcement showed resilience against executive overreach.",
+        "trait": "good_faith",
+        "pattern": "A long-stalled discharge petition on Epstein file disclosure succeeded when a duly elected representative was sworn in and provided the decisive signature, forcing a vote leadership had sought to avoid.",
         "scope": "institutional",
-        "why_it_matters": "These actions reflect a commitment to maintaining public goods and services despite federal neglect.",
+        "why_it_matters": "Allowing a rarely successful procedural tool to function as designed, despite active resistance from party leadership and the president, demonstrates that legislative accountability mechanisms retain force even under direct pressure.",
         "exemplars": [
           {
-            "exemplar_id": "wk43_stewardship_ex01",
+            "exemplar_id": "wk43_goodfaith_strength_ex01",
             "week": 43,
             "event_ids": [
-              "wk43_CR_006",
-              "wk43_CR_012"
+              "wk43_IG_013"
             ],
             "developments": [
               {
-                "development_id": "wk43_CR_006",
-                "development_label": "Judges ordered releases and limited ICE operations amid aggressive enforcement.",
+                "development_id": "wk43_IG_013",
+                "development_label": "Grijalva sworn in and signed the discharge petition, forcing an Epstein files vote",
+                "role": "primary"
+              }
+            ],
+            "summary": "A newly sworn-in representative provided the decisive signature compelling a House vote on Epstein file disclosure against leadership's wishes.",
+            "why_exemplary": "The petition's success despite direct presidential and leadership pressure shows a functioning check on executive attempts to suppress accountability.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "Courts enforced food-aid and detention limits against active executive resistance, ordering full SNAP disbursement and the release of hundreds of unlawfully detained individuals.",
+        "scope": "institutional",
+        "why_it_matters": "Judicial willingness to compel compliance, even when the executive branch actively resists, preserves the principle that courts can still check improper uses of power.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk43_restraint_strength_ex01",
+            "week": 43,
+            "event_ids": [
+              "wk43_IG_007",
+              "wk43_CR_010"
+            ],
+            "developments": [
+              {
+                "development_id": "wk43_IG_007",
+                "development_label": "Courts ordered full SNAP disbursement against administration resistance",
                 "role": "primary"
               },
               {
-                "development_id": "wk43_CR_012",
-                "development_label": "Judicial oversight of immigration practices reinforced due process protections.",
-                "role": "secondary"
+                "development_id": "wk43_CR_010",
+                "development_label": "Judge ordered release of over 600 people detained in Chicago raids",
+                "role": "primary"
               }
             ],
-            "summary": "Judicial actions to protect democratic integrity reflect a commitment to stewardship.",
-            "why_exemplary": "These initiatives demonstrate a proactive approach to governance that prioritizes public welfare over political expediency.",
+            "summary": "Courts compelled full food-aid payment and ordered mass release of unlawfully detained individuals, both against active executive resistance.",
+            "why_exemplary": "Two separate, substantial judicial interventions in the same week show courts remain able and willing to enforce meaningful limits on executive overreach.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "State legislative bodies in Utah and Indiana declined to comply with partisan redistricting pressure from the White House, preserving competitive representation against top-down political engineering.",
+        "scope": "institutional",
+        "why_it_matters": "Refusal by state-level actors to follow presidential pressure on redistricting demonstrates that federalism and local institutional independence remain functioning checks against centralized manipulation of electoral maps.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk43_stewardship_strength_ex01",
+            "week": 43,
+            "event_ids": [
+              "wk43_IG_009",
+              "wk43_IG_020"
+            ],
+            "developments": [
+              {
+                "development_id": "wk43_IG_009",
+                "development_label": "Utah judge rejected gerrymandered map and approved a competitive plan",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk43_IG_020",
+                "development_label": "Indiana Senate declined to hold a session to gerrymander despite White House pressure",
+                "role": "primary"
+              }
+            ],
+            "summary": "A state court blocked a partisan gerrymander and a state legislature refused a White House push to redraw its congressional map.",
+            "why_exemplary": "Two independent instances of state-level resistance to top-down electoral engineering show that federalism can still act as a durable check on centralized power.",
             "exemplar_type": "primary"
           }
         ]
       }
     ],
-    "direction_of_movement": "collapsing"
+    "direction_of_movement": "mixed_but_stable"
   },
   "cumulative_condition": {
-    "narrative": "Week 43 continues the trend of significant erosion of the moral floor, with executive actions increasingly prioritizing political interests over adherence to democratic norms. The administration's consolidation of power and punitive measures against dissenting voices deepen concerns about the integrity of public institutions. While there are pockets of resistance, such as judicial interventions and state-level initiatives, they are insufficient to counterbalance the overall trend of deterioration. The trajectory indicates a worsening crisis in democratic accountability and civil rights protections, raising serious concerns about the future of governance in the current political climate.",
+    "narrative": "Week 43 continues, without meaningfully resolving, the pattern of coexisting erosion and resistance documented in Week 42. The most severe breaches concentrated in stewardship and ethics: blanket pardons erased accountability for the 2020 election-subversion conspiracy at the moment new clemency was also flowing to a financier whose business had just struck a lucrative deal with the president's family, while investigators probing a Trump ally's conduct at a housing regulator were removed before their inquiry concluded. These are not isolated missteps; they extend a now-familiar pattern in which clemency, personnel decisions, and prosecutorial power are deployed in ways that track loyalty and personal benefit rather than principle.\n\nAt the same time, the week's institutional core displayed genuine, non-trivial resilience. The discharge petition succeeded despite direct presidential lobbying and retaliation against dissenting Republicans. Courts again enforced food-aid and detention limits against active administration resistance, including the release of hundreds of unlawfully held individuals. Two state legislative bodies, in Utah and Indiana, declined redistricting pressure from the White House. None of these actions reversed the broader trajectory, but together they prevented the week's breaches from compounding unchecked, consistent with the prior week's characterization of an unsteady but real contest rather than uncontested decline.\n\nImmigration enforcement remains the sharpest area of ongoing character and restraint failure: escalating use of force against civilians, a documented instance of a senior official's dishonesty under oath, and outright defiance of a binding court order in one deportation. This sits alongside continuing truthfulness failures around economic messaging and dismissal of documentary evidence as fabrication. The cumulative condition remains one of active, multi-front erosion running in close parallel with a still-functioning, if reactive and narrowly effective, set of institutional checks.",
     "trend": "deteriorating",
     "stress_points": [
-      "centralization of executive power",
-      "disinformation as a governance tool",
-      "erosion of civil rights protections",
-      "politicization of the civil service"
+      "clemency and personnel decisions entangled with personal or financial benefit",
+      "removal of internal watchdogs mid-investigation",
+      "executive defiance of court orders in immigration enforcement",
+      "documented dishonesty by senior enforcement officials",
+      "suppression and retaliation aimed at transparency mechanisms implicating the president",
+      "misrepresentation of economic data and fiscal claims"
     ],
     "sources_of_resilience": [
-      "judicial pushback against executive orders",
-      "civil society mobilization against abuses",
-      "state-level legal challenges"
+      "judicial enforcement of food-aid and detention limits against active resistance",
+      "successful discharge petition despite direct presidential pressure",
+      "state-level refusal to comply with redistricting pressure (Utah, Indiana)",
+      "documentation by independent press and data sources of gaps between official claims and reality",
+      "judicial willingness to publicly rebuke official dishonesty under oath"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
+    "level": "severe",
+    "justification": "Risk remains severe because this week's breaches again spanned multiple moral floor traits in mutually reinforcing ways: pardons that erase deterrence against election subversion, clemency entangled with a personal financial deal benefiting the president's family, removal of investigators examining a political ally, and direct defiance of a binding court order in immigration enforcement. The pattern of suppressing a transparency mechanism through lobbying, retaliation, and a strategically timed investigation shows continued willingness to use official power to blunt accountability for personal conduct.\n\nThe assessment stops short of critical because institutional resistance this week was substantial and, in key instances, decisive: the discharge petition succeeded despite direct presidential pressure, courts compelled compliance on food aid and ordered the release of hundreds unlawfully detained, and two state legislative bodies declined redistricting pressure from the White House. This is not uncontested decline; it is an unstable equilibrium in which real institutional friction continues to slow, without reversing, the underlying erosion.",
     "forward_signals": [
-      "increased executive orders bypassing legislative input",
-      "escalation of disinformation campaigns",
-      "further attempts to undermine civil rights protections"
+      "whether the Epstein Files Transparency Act disclosure proceeds fully or is narrowed by the newly ordered DOJ investigation",
+      "further personnel actions against watchdogs or ethics staff investigating administration allies",
+      "outcomes of ongoing litigation over immigration enforcement conduct and detention conditions",
+      "whether additional states face and resist White House redistricting pressure ahead of the midterms",
+      "continued financial ties between pardon recipients and Trump-linked business interests",
+      "whether the unresolved ACA subsidy dispute reignites a new funding crisis in January 2026"
     ]
   }
 }

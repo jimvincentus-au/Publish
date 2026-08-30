@@ -5,8 +5,8 @@
     "start": "2025-04-26",
     "end": "2025-05-02"
   },
-  "clock_time_public": "7:59 p.m.",
-  "clock_delta_minutes": 1.9,
+  "clock_time_public": "7:57 p.m.",
+  "clock_delta_minutes": 0.4,
   "baseline_traits": [
     {
       "name": "character",
@@ -34,221 +34,526 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week saw a significant consolidation of executive power, with numerous actions undermining democratic norms and civil rights, while some institutional pushback was evident but insufficient to counterbalance the overall trend of erosion.",
+    "summary": "The week showed a further drop in the moral floor through a dense pattern of executive self-dealing, retaliatory use of state power, routine pressure on independent information channels, and continued hollowing of institutional capacity. The breaches were not isolated. They appeared across immigration, media, law enforcement, civil service, science, and campaign-finance oversight, suggesting normalization of conduct that treats public office as a tool of loyalty, leverage, and narrative control. Courts, states, universities, watchdogs, and some lawmakers continued to resist, but the resistance was reactive and fragmented against a broader pattern of ethical erosion.",
     "norms_broken": [
       {
         "trait": "character",
-        "pattern": "Executive actions prioritized political gain over public duty, particularly through punitive measures against institutions and individuals.",
+        "pattern": "Public duty was subordinated to personal and partisan advantage, especially where official power was used to reward loyalty, punish opponents, or deflect responsibility for policy consequences.",
         "severity": "serious",
-        "institutional_response": "Judicial rulings provided some pushback, but overall institutional resistance was limited.",
+        "institutional_response": "Courts and some legislators challenged parts of this conduct, but the executive posture described in the digest remained openly retaliatory and self-protective.",
         "exemplars": [
           {
             "exemplar_id": "wk15_character_ex01",
             "week": 15,
             "event_ids": [
-              "wk15_PA_001",
-              "wk15_PA_002"
+              "wk15_PA_013",
+              "wk15_IG_035"
             ],
             "developments": [
               {
-                "development_id": "wk15_PA_001",
-                "development_label": "Threatened and froze federal funding to universities over pro-Palestinian protests.",
+                "development_id": "wk15_PA_013",
+                "development_label": "Order directing the Justice Department to investigate ActBlue",
                 "role": "primary"
               },
               {
-                "development_id": "wk15_PA_002",
-                "development_label": "Passed a budget framework enabling deep social spending cuts.",
-                "role": "primary"
+                "development_id": "wk15_IG_035",
+                "development_label": "Perkins Coie won summary judgment against a retaliatory executive order",
+                "role": "secondary"
               }
             ],
-            "summary": "The use of federal funding as leverage against universities exemplified prioritization of political objectives over adherence to public duty.",
-            "why_exemplary": "These actions illustrated a shift towards personal rule, undermining the integrity of public institutions.",
+            "summary": "Federal investigative and punitive tools were aimed at opposition infrastructure and disfavored legal actors.",
+            "why_exemplary": "Character requires officeholders to place public duty above vendetta. Using state power against rivals shows oath-bound responsibility yielding to personal and partisan advantage.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk15_character_ex02",
+            "week": 15,
+            "event_ids": [
+              "wk15_PA_023",
+              "wk15_IM_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk15_PA_023",
+                "development_label": "Trump blamed Biden for the downturn and predicted a boom",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk15_IM_009",
+                "development_label": "Trump repeated disputed claims about the economy and deportation evidence",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Presidential messaging deflected responsibility for current policy effects through disputed public claims.",
+            "why_exemplary": "Character includes aligning words with deeds. Deflecting accountability for present consequences weakens the ethic of responsible officeholding.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "ethics",
-        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the use of executive power to extract concessions from institutions.",
-        "severity": "serious",
-        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
+        "pattern": "The boundary between public office and private gain weakened sharply through pay-to-play access, politically connected contracting influence, and relief for well-connected economic actors.",
+        "severity": "extreme",
+        "institutional_response": "A Senate subcommittee report and senators' ethics inquiry request provided oversight signals, but the digest shows little internal ethical self-correction.",
         "exemplars": [
           {
             "exemplar_id": "wk15_ethics_ex01",
             "week": 15,
             "event_ids": [
-              "wk15_PA_001",
-              "wk15_PA_005"
+              "wk15_PA_006",
+              "wk15_IG_014"
             ],
             "developments": [
               {
-                "development_id": "wk15_PA_001",
-                "development_label": "Threatened and froze federal funding to universities over pro-Palestinian protests.",
+                "development_id": "wk15_PA_006",
+                "development_label": "Trump offered dinner and White House access to top holders of his $TRUMP token",
                 "role": "primary"
               },
               {
-                "development_id": "wk15_PA_005",
-                "development_label": "Issued pardons and commutations for January 6 defendants.",
-                "role": "primary"
+                "development_id": "wk15_IG_014",
+                "development_label": "Senators requested an ethics inquiry into the $TRUMP contest",
+                "role": "secondary"
               }
             ],
-            "summary": "The freezing of grants and the pardoning of January 6 participants blurred the lines between public office and private interests.",
-            "why_exemplary": "These actions exemplified a disregard for ethical boundaries, prioritizing personal and political interests.",
+            "summary": "Presidential access was tied to personal financial gain through a token-holding contest.",
+            "why_exemplary": "Ethics is directly breached when office access appears purchasable through a leader's personal financial vehicle, collapsing the line between public authority and private enrichment.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk15_ethics_ex02",
+            "week": 15,
+            "event_ids": [
+              "wk15_PA_004",
+              "wk15_IG_007"
+            ],
+            "developments": [
+              {
+                "development_id": "wk15_PA_004",
+                "development_label": "Musk team worked on FAA communications tied to Starlink under nondisclosure rules",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk15_IG_007",
+                "development_label": "Senate subcommittee report warned Musk could avoid liabilities through federal influence",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A politically connected private actor gained opaque influence over federal infrastructure decisions.",
+            "why_exemplary": "Conflict-of-interest risk is acute when a private ally with federal exposure is embedded in government decisions that may benefit his own business interests.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "Executive actors repeatedly chose maximal or coercive uses of power, including emergency authorities, funding threats, retaliatory investigations, and pressure on independent institutions.",
+        "severity": "serious",
+        "institutional_response": "Courts imposed limits in several cases, but Congress often declined to check escalation and in some instances blocked oversight.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk15_restraint_ex01",
+            "week": 15,
+            "event_ids": [
+              "wk15_PA_014",
+              "wk15_IG_069"
+            ],
+            "developments": [
+              {
+                "development_id": "wk15_PA_014",
+                "development_label": "Trump defended using the Alien Enemies Act for detention and deportation",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk15_IG_069",
+                "development_label": "Judge Rodriguez permanently enjoined use of the Act against covered Venezuelans in south Texas",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A wartime statute was pressed into ordinary immigration enforcement until courts intervened.",
+            "why_exemplary": "Restraint fails when extraordinary emergency power is treated as a routine policy instrument rather than a last resort bounded by democratic norms.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk15_restraint_ex02",
+            "week": 15,
+            "event_ids": [
+              "wk15_PA_022",
+              "wk15_IG_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk15_PA_022",
+                "development_label": "Orders targeted law firms and attorneys tied to rivals or disfavored causes",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk15_IG_011",
+                "development_label": "Judge Bates questioned DOJ arguments in the Jenner & Block retaliation case",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Executive power was used to punish legal advocates associated with opponents.",
+            "why_exemplary": "Democratic restraint requires tolerating adversarial legal representation. Punishing lawyers for clients or causes is a maximal use of power against an independent profession.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding immigration enforcement and funding.",
+        "pattern": "Official settings and public messaging were used to repeat disputed or debunked claims, while state-linked channels and education processes amplified manufactured narratives.",
         "severity": "serious",
-        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
+        "institutional_response": "Independent media, courts, and some public scrutiny offered correction, but the digest shows official institutions themselves becoming vehicles for distortion.",
         "exemplars": [
           {
             "exemplar_id": "wk15_truthfulness_ex01",
             "week": 15,
             "event_ids": [
-              "wk15_PA_003",
+              "wk15_PA_016",
               "wk15_IM_009"
             ],
             "developments": [
               {
-                "development_id": "wk15_PA_003",
-                "development_label": "Declared a national border emergency to enable troop deployment.",
+                "development_id": "wk15_PA_016",
+                "development_label": "Cabinet meeting used to praise the administration and repeat disputed claims",
                 "role": "primary"
               },
               {
                 "development_id": "wk15_IM_009",
-                "development_label": "Made false claims about a deported man’s gang tattoos.",
-                "role": "primary"
+                "development_label": "Trump repeated disputed claims about the economy and deportation evidence",
+                "role": "secondary"
               }
             ],
-            "summary": "The misrepresentation of the border situation and reliance on falsified imagery contributed to a narrative that undermined trust in official communications.",
-            "why_exemplary": "These actions embedded disinformation at the center of governance, undermining trust in governmental processes.",
+            "summary": "Official government platforms were used to circulate disputed narratives on public matters.",
+            "why_exemplary": "Truthfulness is especially damaged when false or misleading claims are elevated through formal state settings that citizens reasonably treat as authoritative.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk15_truthfulness_ex02",
+            "week": 15,
+            "event_ids": [
+              "wk15_IM_011",
+              "wk15_IM_012",
+              "wk15_IG_066"
+            ],
+            "developments": [
+              {
+                "development_id": "wk15_IM_011",
+                "development_label": "Oklahoma curriculum advanced debunked 2020 election claims",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk15_IM_012",
+                "development_label": "Ryan Walters used false timing claims and last-minute changes",
+                "role": "secondary"
+              },
+              {
+                "development_id": "wk15_IG_066",
+                "development_label": "Oklahoma legislature failed to block the curriculum",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Debunked election claims were embedded in public-school standards through a misleading process.",
+            "why_exemplary": "This is not mere rhetoric. It institutionalizes unreality in civic education, making falsehood durable and harder for democratic correction to reverse.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "good_faith",
-        "pattern": "Executive orders undermined established legal frameworks and protections, particularly regarding immigration and civil rights.",
+        "pattern": "Democratic rules were repeatedly used in ways that defeated their purpose, including retaliatory investigations, transparency avoidance, and procedural blocking of oversight.",
         "severity": "serious",
-        "institutional_response": "Judicial challenges were initiated, but the executive's actions were largely unilateral.",
+        "institutional_response": "Courts remained active and some settlements restored lawful process, but legislative allies often enabled evasion rather than insisting on the spirit of accountability.",
         "exemplars": [
           {
             "exemplar_id": "wk15_good_faith_ex01",
             "week": 15,
             "event_ids": [
-              "wk15_IG_001",
-              "wk15_IG_004"
+              "wk15_IG_034"
             ],
             "developments": [
               {
-                "development_id": "wk15_IG_001",
-                "development_label": "Sued the Trump administration over threats to cut federal funding.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk15_IG_004",
-                "development_label": "Blocked or limited the Trump administration’s use of the Alien Enemies Act for deportations.",
+                "development_id": "wk15_IG_034",
+                "development_label": "House Republicans blocked a Democratic effort to investigate Hegseth's use of Signal",
                 "role": "primary"
               }
             ],
-            "summary": "Judicial rulings enforced prior restraining orders on funding and deportations, reaffirming judicial power to compel executive compliance.",
-            "why_exemplary": "These actions reinforced judicial commitment to uphold legal norms against executive overreach.",
+            "summary": "Congressional procedure was used to prevent an inquiry into executive conduct.",
+            "why_exemplary": "Good faith requires oversight mechanisms to be used for accountability, not neutralized to shield allies from scrutiny.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk15_good_faith_ex02",
+            "week": 15,
+            "event_ids": [
+              "wk15_IG_022",
+              "wk15_PA_020"
+            ],
+            "developments": [
+              {
+                "development_id": "wk15_IG_022",
+                "development_label": "Government argued DOGE was not an agency in FOIA litigation",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk15_PA_020",
+                "development_label": "DOGE role expanded in spending controls and regulatory review",
+                "role": "secondary"
+              }
+            ],
+            "summary": "An influential executive structure sought to exercise power while avoiding ordinary transparency duties.",
+            "why_exemplary": "Using a body for major governmental action while denying it the obligations that normally accompany such power defeats the purpose of transparency law.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "stewardship",
-        "pattern": "The dismantling of oversight mechanisms and the removal of independent media weakened institutional accountability.",
-        "severity": "serious",
-        "institutional_response": "Limited pushback from existing oversight bodies, highlighting a lack of resilience.",
+        "pattern": "Institutional capacity and credibility were weakened through staff purges, cuts to science and civil-rights enforcement, insecure communications, and erosion of independent oversight bodies.",
+        "severity": "extreme",
+        "institutional_response": "Courts preserved some agencies and records, but the week still showed broad executive damage to long-term state capacity and public trust.",
         "exemplars": [
           {
             "exemplar_id": "wk15_stewardship_ex01",
             "week": 15,
             "event_ids": [
-              "wk15_IM_001",
-              "wk15_IM_005"
+              "wk15_CR_013",
+              "wk15_CR_014"
             ],
             "developments": [
               {
-                "development_id": "wk15_IM_001",
-                "development_label": "Rescinded protections for journalists’ sources.",
+                "development_id": "wk15_CR_013",
+                "development_label": "DOJ removed voting section leaders and directed dismissal of voting rights cases",
                 "role": "primary"
               },
               {
-                "development_id": "wk15_IM_005",
-                "development_label": "Signed executive orders cutting federal funding for NPR and PBS.",
-                "role": "primary"
+                "development_id": "wk15_CR_014",
+                "development_label": "DOJ Civil Rights Division lost most of its lawyers",
+                "role": "secondary"
               }
             ],
-            "summary": "The closure of protections for journalists and attempts to defund public media undermined institutional capacity and accountability.",
-            "why_exemplary": "These actions stripped internal watchdogs of their power, reducing institutional capacity to investigate executive misconduct.",
+            "summary": "Federal civil-rights enforcement capacity was deliberately reduced in leadership, staffing, and active cases.",
+            "why_exemplary": "Stewardship fails when institutions charged with protecting equal rights are hollowed out, leaving future violations harder to detect and remedy.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk15_stewardship_ex02",
+            "week": 15,
+            "event_ids": [
+              "wk15_PA_009",
+              "wk15_PA_017"
+            ],
+            "developments": [
+              {
+                "development_id": "wk15_PA_009",
+                "development_label": "Administration dismissed nearly 400 National Climate Assessment contributors",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk15_PA_017",
+                "development_label": "Climate science agencies were cut and environmental regulations rolled back",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Independent scientific capacity for public planning was reduced across climate institutions.",
+            "why_exemplary": "Democratic stewardship requires preserving expert capacity for future governance. Removing scientists and shrinking agencies damages institutional memory and planning credibility.",
+            "exemplar_type": "secondary"
           }
         ]
       }
     ],
     "norms_strengthened": [
       {
-        "trait": "good_faith",
-        "pattern": "Judicial actions temporarily blocked some of the administration's most aggressive moves, demonstrating a commitment to uphold legal norms.",
+        "trait": "restraint",
+        "pattern": "Courts imposed concrete limits on extraordinary executive claims, especially in immigration and detention matters.",
         "scope": "institutional",
-        "why_it_matters": "These judicial interventions highlight the importance of checks and balances in resisting executive overreach.",
+        "why_it_matters": "When elected officials do not self-limit, judicially enforced boundaries become a crucial substitute for missing democratic restraint.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk15_restraint_ex01",
+            "week": 15,
+            "event_ids": [
+              "wk15_IG_069"
+            ],
+            "developments": [
+              {
+                "development_id": "wk15_IG_069",
+                "development_label": "Judge Rodriguez permanently enjoined use of the Alien Enemies Act against covered Venezuelans in south Texas",
+                "role": "primary"
+              }
+            ],
+            "summary": "A federal judge sharply limited use of a wartime statute in immigration enforcement.",
+            "why_exemplary": "The ruling reinforced that extraordinary powers cannot simply be normalized by executive assertion.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk15_restraint_ex02",
+            "week": 15,
+            "event_ids": [
+              "wk15_IG_050"
+            ],
+            "developments": [
+              {
+                "development_id": "wk15_IG_050",
+                "development_label": "Federal court enjoined Border Patrol from suspicionless stops and warrantless arrests",
+                "role": "primary"
+              }
+            ],
+            "summary": "Judicial limits were imposed on aggressive border-enforcement practices.",
+            "why_exemplary": "This matters because it reasserts procedural boundaries where enforcement agencies had moved toward unchecked coercion.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Courts and litigants continued to insist that executive action remain answerable to law, appropriations, and judicial review.",
+        "scope": "institutional",
+        "why_it_matters": "Democracy depends on institutions enforcing the idea that legal process is substantive, not optional theater.",
         "exemplars": [
           {
             "exemplar_id": "wk15_good_faith_ex01",
             "week": 15,
             "event_ids": [
-              "wk15_IG_003",
-              "wk15_IG_004"
+              "wk15_IG_026"
             ],
             "developments": [
               {
-                "development_id": "wk15_IG_003",
-                "development_label": "Ordered restoration of appropriated funds to Radio Free Europe.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk15_IG_004",
-                "development_label": "Blocked or limited the Trump administration’s use of the Alien Enemies Act for deportations.",
+                "development_id": "wk15_IG_026",
+                "development_label": "Federal judge ordered restoration of Radio Free Europe funding",
                 "role": "primary"
               }
             ],
-            "summary": "Judicial rulings reinforced due process and accountability, demonstrating the judiciary's role in checking executive power.",
-            "why_exemplary": "These actions reaffirmed the judiciary's commitment to uphold legal norms against executive overreach.",
+            "summary": "A court enforced Congress's appropriations authority against executive withholding.",
+            "why_exemplary": "The ruling upheld the constitutional purpose of appropriations and rejected executive treatment of enacted funding as discretionary patronage.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk15_good_faith_ex02",
+            "week": 15,
+            "event_ids": [
+              "wk15_IG_075",
+              "wk15_CR_025"
+            ],
+            "developments": [
+              {
+                "development_id": "wk15_IG_075",
+                "development_label": "Administration halted its Maine school funding freeze after settlement",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk15_CR_025",
+                "development_label": "Child nutrition funds were restored after the dispute",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Legal process forced restoration of funds previously used as leverage against a state.",
+            "why_exemplary": "Even partial compliance through settlement matters because it shows coercive funding tactics can still be pulled back into lawful procedure.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Courts acted to preserve institutional continuity, records, and public-service capacity against executive hollowing-out.",
+        "scope": "institutional",
+        "why_it_matters": "Preserving agencies, funding streams, and protected records helps keep democratic repair possible after a period of stress.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk15_stewardship_ex01",
+            "week": 15,
+            "event_ids": [
+              "wk15_IG_027"
+            ],
+            "developments": [
+              {
+                "development_id": "wk15_IG_027",
+                "development_label": "Federal appeals court restored an injunction against mass firings at the CFPB",
+                "role": "primary"
+              }
+            ],
+            "summary": "A court protected a regulatory agency's staffing and function from executive hollowing-out.",
+            "why_exemplary": "Institutional stewardship is reinforced when courts prevent abrupt destruction of agency capacity needed for future public protection.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk15_stewardship_ex02",
+            "week": 15,
+            "event_ids": [
+              "wk15_IM_007"
+            ],
+            "developments": [
+              {
+                "development_id": "wk15_IM_007",
+                "development_label": "Appeals court upheld injunction blocking DOGE access to sensitive Social Security records",
+                "role": "primary"
+              }
+            ],
+            "summary": "Judicial review preserved privacy safeguards around sensitive government records.",
+            "why_exemplary": "Protecting records from improper access helps maintain trust, legality, and the integrity of state information systems.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "Independent institutions continued to preserve factual accountability by contesting official narratives and keeping review channels open.",
+        "scope": "institutional",
+        "why_it_matters": "Truthfulness survives in practice when courts and independent actors keep documentary and evidentiary standards alive.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk15_truthfulness_ex01",
+            "week": 15,
+            "event_ids": [
+              "wk15_IG_010"
+            ],
+            "developments": [
+              {
+                "development_id": "wk15_IG_010",
+                "development_label": "Protect Democracy sought an injunction requiring OMB to publicly post apportionments",
+                "role": "primary"
+              }
+            ],
+            "summary": "Litigation pressed for public visibility into executive spending decisions.",
+            "why_exemplary": "Transparency about budget execution supports factual accountability by making official claims testable against public records.",
             "exemplar_type": "primary"
           }
         ]
       }
     ],
-    "direction_of_movement": "collapsing"
+    "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "Week 15 marks a significant escalation in the erosion of democratic norms, with the executive branch increasingly consolidating power and undermining civil rights. The administration's actions reflect a systematic approach to prioritize political objectives over adherence to established legal frameworks, particularly through punitive measures against institutions and individuals. While there were notable judicial pushbacks, they were insufficient to counterbalance the overall trend of deterioration. The trajectory indicates a deepening crisis in democratic accountability and civil rights protections, raising serious concerns about the future of governance in the current political climate.",
+    "narrative": "This week fits the prior trajectory as an acceleration of an already deteriorating ethical condition. In the previous summary, good faith and restraint were the most stressed traits, with character and stewardship also weakening. Week 15 confirms that pattern and adds a sharper collapse in ethics and truthfulness. The same executive style described earlier—coercive leverage, retaliation, and resistance to ordinary accountability—spread further into campaign finance, media, science, civil-rights enforcement, and the information environment itself.\n\nThe most important cumulative shift is that breaches now look less episodic and more systematized. Emergency powers, funding threats, retaliatory investigations, and opaque structures such as DOGE are not appearing as isolated excesses; they are becoming a governing method. At the same time, self-dealing and conflict-of-interest concerns moved closer to the center of presidential conduct through token-based access schemes and politically connected private influence over federal infrastructure. That combination is especially corrosive because it joins weakened restraint to weakened ethics.\n\nThe moral floor has not collapsed outright because courts, states, universities, watchdogs, and some legislators still imposed real friction. Judicial rulings preserved due process, appropriations, agency staffing, and record protections. But the cumulative condition is worsening because corrective institutions are mostly slowing damage rather than restoring the baseline ethic that public power should be exercised honestly, impartially, and for the public rather than for allies, narratives, or personal gain.",
     "trend": "deteriorating",
     "stress_points": [
-      "centralization of executive power",
-      "disinformation as a governance tool",
-      "erosion of civil rights protections",
-      "politicization of the civil service"
+      "pay-to-play access and conflict-of-interest around the presidency",
+      "routine use of emergency and retaliatory powers against opponents",
+      "procedural shielding of executive conduct from oversight",
+      "official amplification of disputed or debunked public claims",
+      "hollowing-out of civil-rights, scientific, and civil-service capacity",
+      "pressure on independent media and civic information channels",
+      "opaque executive structures seeking power without transparency duties"
     ],
     "sources_of_resilience": [
-      "judicial pushback against executive orders",
-      "civil society mobilization against abuses",
-      "state-level legal challenges"
+      "federal courts enforcing due process and statutory limits",
+      "judicial protection of appropriated funding and agency continuity",
+      "state, university, union, and watchdog litigation",
+      "continued public and legislative demands for ethics oversight",
+      "independent scrutiny of conflicts of interest and secrecy",
+      "civil society mobilization and protest activity"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
+    "level": "severe",
+    "justification": "The risk is severe because this week's breaches were broad, repeated, and concentrated in the traits that keep democratic power legitimate: ethics, restraint, truthfulness, good faith, and stewardship. The digest shows public office being used for personal financial access, emergency and investigative powers being used aggressively against rivals and vulnerable groups, official settings being used to circulate disputed claims, and major institutions being hollowed out in civil rights, science, and public administration. These are not isolated policy disagreements. They are patterns that reduce the system's ability to correct abuse from within.\n\nThe risk is not yet critical because resistance remained active and sometimes effective. Courts blocked or limited deportations, preserved records, restored funding, protected agencies, and rebuked retaliatory executive action. States, universities, unions, and watchdog groups kept judicial review alive across many domains. But the forward danger is that ethical breaches become normalized faster than institutions can remedy them, especially where Congress declines oversight, transparency is evaded, and private gain becomes intertwined with official access.",
     "forward_signals": [
-      "increased executive orders bypassing legislative input",
-      "escalation of disinformation campaigns",
-      "further attempts to undermine civil rights protections"
+      "further monetization of presidential or family access",
+      "additional use of DOJ or regulatory power against rivals and critics",
+      "continued normalization of emergency authorities in ordinary governance",
+      "new efforts to evade FOIA, records, or transparency obligations through DOGE-like structures",
+      "more cuts or purges in civil-rights, science, and civil-service institutions",
+      "escalation of pressure on public broadcasters and independent press access",
+      "spread of debunked election narratives into official education or state messaging"
     ]
   }
 }

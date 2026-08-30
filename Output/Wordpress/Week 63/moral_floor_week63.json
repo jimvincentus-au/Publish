@@ -1,12 +1,12 @@
 {
   "week_number": 63,
-  "period_label": "Week 63 – 2026-03-28–2026-04-03",
+  "period_label": "Week 63",
   "window": {
     "start": "2026-03-28",
     "end": "2026-04-03"
   },
-  "clock_time_public": "8:13 p.m.",
-  "clock_delta_minutes": 0.0,
+  "clock_time_public": "7:43 p.m.",
+  "clock_delta_minutes": -0.2,
   "baseline_traits": [
     {
       "name": "character",
@@ -18,7 +18,7 @@
     },
     {
       "name": "restraint",
-      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
     },
     {
       "name": "truthfulness",
@@ -34,16 +34,16 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week saw a continuation of the erosion of democratic norms, particularly in character, ethics, restraint, truthfulness, and good faith. While there were instances of resistance, the overall trend indicated a tightening grip on power and a disregard for established democratic processes.",
+    "summary": "Week 63 shows continued, multi-front pressure on the moral floor centered on the purge of prosecutorial independence, an assault on the constitutional allocation of election authority, and normalization of politically directed force within the military and immigration systems. The firing of the Attorney General and installation of a personal loyalist who publicly affirmed the president's right to direct investigations marks a serious escalation of the ethics and character breaches seen in prior weeks. At the same time, courts continued to check specific overreaches (the ballroom injunction, the NPR/PBS funding order, ICE oversight-notice rule), and civil society mounted the largest single mass mobilization on record. The pattern is one of continued institutional capture attempts met by resistance that is real, geographically broad, and legally grounded, but reactive rather than preventive.",
     "norms_broken": [
       {
-        "trait": "character",
-        "pattern": "Executive actions prioritized political objectives over public duty, exemplified by Trump's unilateral military threats and disregard for constitutional limits.",
-        "severity": "serious",
-        "institutional_response": "Congressional leaders largely acquiesced to executive demands, failing to resist the erosion of legislative authority.",
+        "trait": "ethics",
+        "pattern": "The Attorney General was removed reportedly for insufficient prosecution of political rivals and replaced with the president's former personal defense attorney, who then publicly affirmed the president's right to direct DOJ investigations.",
+        "severity": "extreme",
+        "institutional_response": "Congress pursued a contempt resolution against the former AG for withheld testimony, but no formal check prevented the installation of a personal loyalist atop federal law enforcement.",
         "exemplars": [
           {
-            "exemplar_id": "wk63_character_ex1",
+            "exemplar_id": "wk63_ethics_ex01",
             "week": 63,
             "event_ids": [
               "wk63_PA_005",
@@ -52,116 +52,157 @@
             "developments": [
               {
                 "development_id": "wk63_PA_005",
-                "development_label": "Trump threatened military action against Iran.",
+                "development_label": "Fired Attorney General Pam Bondi and installed personal defense attorney Todd Blanche as acting AG.",
                 "role": "primary"
-              }
-            ],
-            "summary": "Trump's threats to target Iran's infrastructure exemplified prioritization of personal political goals over public duty.",
-            "why_exemplary": "This action illustrates a significant breach of character, undermining the principle of public duty in favor of personal political objectives.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "ethics",
-        "pattern": "The administration's actions blurred lines between public authority and private interests, particularly in military and economic decisions.",
-        "severity": "serious",
-        "institutional_response": "Congress failed to effectively challenge the administration's use of emergency powers to bypass legislative oversight.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk63_ethics_ex1",
-            "week": 63,
-            "event_ids": [
-              "wk63_PA_004",
-              "wk63_IG_001"
-            ],
-            "developments": [
+              },
               {
-                "development_id": "wk63_PA_004",
-                "development_label": "Trump included Elon Musk in a military strategy call.",
-                "role": "primary"
+                "development_id": "wk63_PA_006",
+                "development_label": "Blanche stated Trump has the right to direct Justice Department investigations.",
+                "role": "secondary"
               }
             ],
-            "summary": "The inclusion of Musk in a military strategy call raised significant ethical concerns about private influence in national security.",
-            "why_exemplary": "This event highlights a troubling intertwining of public authority and private interests, undermining ethical governance.",
+            "summary": "A sitting Attorney General was removed and replaced by the president's own former lawyer, who then publicly endorsed direct presidential control over prosecutions.",
+            "why_exemplary": "This sequence converts an independent law-enforcement function into an instrument of personal loyalty, with the new officeholder explicitly disclaiming prosecutorial independence rather than defending it.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
         "trait": "restraint",
-        "pattern": "The administration exhibited a lack of self-limitation in military actions and legislative pressures, pushing boundaries of executive power.",
+        "pattern": "The president signed an order asserting federal executive control over state-run election administration, including national voter eligibility lists and mail-ballot restrictions, backed by threats to cut funding to noncompliant states.",
         "severity": "serious",
-        "institutional_response": "Congressional attempts to reassert authority were largely ineffective, reflecting a failure to uphold checks and balances.",
+        "institutional_response": "Immediate legal challenges were filed; courts had not yet ruled, leaving the order's coercive threat operative in the interim.",
         "exemplars": [
           {
-            "exemplar_id": "wk63_restraint_ex1",
+            "exemplar_id": "wk63_restraint_ex01",
             "week": 63,
             "event_ids": [
-              "wk63_PA_003",
-              "wk63_PA_007"
+              "wk63_PA_003"
             ],
             "developments": [
               {
                 "development_id": "wk63_PA_003",
-                "development_label": "Trump demanded the elimination of the Senate filibuster.",
+                "development_label": "Signed executive order directing DHS/SSA to compile a national voter eligibility list and restrict mail ballot delivery.",
                 "role": "primary"
               }
             ],
-            "summary": "Trump's push to eliminate the filibuster demonstrated a significant lack of restraint in executive authority.",
-            "why_exemplary": "This action reflects a concerning trend of diminishing legislative checks on executive power, undermining democratic norms.",
+            "summary": "The executive asserted unilateral authority over a domain constitutionally reserved to states and Congress, using funding threats as leverage against noncompliant states.",
+            "why_exemplary": "The order does not merely test legal boundaries but actively coerces state compliance through withheld funds, illustrating power exercised well beyond any plausible constitutional or statutory limit.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk63_restraint_ex02",
+            "week": 63,
+            "event_ids": [
+              "wk63_PA_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk63_PA_011",
+                "development_label": "Fired Army Chief of Staff for refusing to remove women and Black officers from a promotion list.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Senior military leadership was purged for resisting politically or ideologically motivated personnel interference, undermining institutional independence of the armed forces.",
+            "why_exemplary": "Removing officers for adhering to merit-based personnel processes, rather than for misconduct, signals a direct effort to subordinate military institutional norms to political direction.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "A Trump-chaired federal planning commission approved the White House ballroom project days after a federal judge enjoined its construction for lack of statutory authority, and DOJ moved swiftly to appeal rather than pause the project.",
+        "severity": "concerning",
+        "institutional_response": "The judiciary issued and defended the injunction; the executive-aligned commission and DOJ actively worked around it rather than complying.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk63_goodfaith_ex01",
+            "week": 63,
+            "event_ids": [
+              "wk63_PA_004",
+              "wk63_IG_006"
+            ],
+            "developments": [
+              {
+                "development_id": "wk63_PA_004",
+                "development_label": "National Capital Planning Commission approved the ballroom project days after a court injunction.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk63_IG_006",
+                "development_label": "DOJ appealed the injunction and sought an emergency stay.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "An executive-aligned body approved a construction project that a federal court had just found exceeded presidential authority, while DOJ pursued rapid appeal rather than compliance.",
+            "why_exemplary": "Approving a project the judiciary had just enjoined demonstrates a willingness to test whether executive-aligned institutions will simply route around unfavorable rulings rather than respect them.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "The administration's public statements often contradicted internal findings and realities, particularly regarding military actions and their consequences.",
+        "pattern": "The president claimed the military had 'completely decimated' Iran and annihilated its radar capability two days before Iran shot down a US fighter jet, and separately claimed Iran had requested a ceasefire, which Iran's government denied.",
         "severity": "serious",
-        "institutional_response": "Media scrutiny increased, but the administration continued to manipulate narratives without accountability.",
+        "institutional_response": "Reporting quickly documented the contradiction; no formal correction or accountability mechanism followed from the administration.",
         "exemplars": [
           {
-            "exemplar_id": "wk63_truthfulness_ex1",
+            "exemplar_id": "wk63_truthfulness_ex01",
             "week": 63,
             "event_ids": [
-              "wk63_IM_010",
-              "wk63_IM_008"
+              "wk63_IM_004"
             ],
             "developments": [
               {
-                "development_id": "wk63_IM_010",
-                "development_label": "Trump falsely claimed Iran requested a ceasefire.",
+                "development_id": "wk63_IM_004",
+                "development_label": "Claimed Iran had been 'completely decimated' two days before a US fighter jet was shot down.",
                 "role": "primary"
               }
             ],
-            "summary": "Trump's fabricated statement about an Iranian ceasefire request exemplified a breach of truthfulness in public discourse.",
-            "why_exemplary": "This reflects a broader pattern of disinformation that undermines public trust and accountability.",
+            "summary": "A claim of decisive military success was contradicted within 48 hours by an actual combat loss, undermining the reliability of official wartime statements.",
+            "why_exemplary": "The rapid, verifiable falsification of a presidential wartime claim by subsequent events illustrates the risk of manufactured unreality shaping public understanding of an active conflict.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk63_truthfulness_ex02",
+            "week": 63,
+            "event_ids": [
+              "wk63_IM_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk63_IM_005",
+                "development_label": "Claimed Iran agreed to most of a nuclear plan and requested a ceasefire, both denied by Iran.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Presidential claims of diplomatic progress were directly and explicitly contradicted by the foreign government said to be involved.",
+            "why_exemplary": "Foreign government denial of a stated diplomatic claim provides an unusually clear external benchmark for assessing the accuracy of executive statements on matters of war and peace.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
-        "trait": "good_faith",
-        "pattern": "Legislative processes were manipulated to favor partisan objectives, undermining the spirit of democratic engagement.",
+        "trait": "stewardship",
+        "pattern": "A DOJ Office of Legal Counsel opinion declared the Presidential Records Act unconstitutional, and the DOJ inspector general was accused of failing to investigate serious misconduct allegations, weakening institutional mechanisms for accountability and historical preservation.",
         "severity": "serious",
-        "institutional_response": "Congressional leaders largely complied with executive demands, failing to uphold democratic principles.",
+        "institutional_response": "No corrective institutional action was reported this week; whistleblower attorneys raised the failure publicly, and the OLC opinion stood unchallenged in the digest period.",
         "exemplars": [
           {
-            "exemplar_id": "wk63_good_faith_ex1",
+            "exemplar_id": "wk63_stewardship_ex01",
             "week": 63,
             "event_ids": [
-              "wk63_CR_001",
-              "wk63_CR_002"
+              "wk63_IG_011"
             ],
             "developments": [
               {
-                "development_id": "wk63_CR_001",
-                "development_label": "Trump's orders centralized voter eligibility verification.",
+                "development_id": "wk63_IG_011",
+                "development_label": "OLC opinion declared the Presidential Records Act unconstitutional.",
                 "role": "primary"
               }
             ],
-            "summary": "The centralization of voter eligibility verification exemplified a breach of good faith in legislative processes.",
-            "why_exemplary": "This reflects a manipulation of democratic norms to achieve partisan ends, undermining the integrity of the electoral process.",
+            "summary": "A legal opinion asserted the president need not comply with the statute requiring preservation of official records, threatening a key accountability and historical-memory mechanism.",
+            "why_exemplary": "Undermining the legal basis for record preservation threatens the ability of future Congresses, courts, and historians to reconstruct executive conduct, a direct harm to long-term institutional capacity.",
             "exemplar_type": "primary"
           }
         ]
@@ -170,56 +211,123 @@
     "norms_strengthened": [
       {
         "trait": "stewardship",
-        "pattern": "Judicial actions provided some checks on executive overreach, reinforcing the importance of institutional integrity.",
+        "pattern": "Federal courts blocked or constrained several executive overreaches this week: enjoining the White House ballroom construction, striking down the NPR/PBS funding cut as unconstitutional viewpoint discrimination, and voiding the seven-day advance-notice rule for congressional ICE facility visits.",
         "scope": "institutional",
-        "why_it_matters": "Judicial interventions are crucial for maintaining accountability and protecting democratic norms.",
+        "why_it_matters": "Continued judicial willingness to check unlawful executive action, even against sustained pressure and rapid appeals, preserves institutional capacity for future correction.",
         "exemplars": [
           {
-            "exemplar_id": "wk63_stewardship_ex1",
+            "exemplar_id": "wk63_stewardship_ex02",
             "week": 63,
             "event_ids": [
-              "wk63_IG_002",
-              "wk63_IG_005"
+              "wk63_IG_005",
+              "wk63_IG_007"
             ],
             "developments": [
               {
-                "development_id": "wk63_IG_002",
-                "development_label": "Lawsuits filed against Trump's voting order.",
+                "development_id": "wk63_IG_005",
+                "development_label": "Judge Leon enjoined construction of the White House ballroom.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk63_IG_007",
+                "development_label": "Judge Moss ruled the NPR/PBS funding cut unconstitutional viewpoint discrimination.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Federal courts enforced constitutional limits on presidential authority over federal property and blocked retaliatory defunding of public broadcasters.",
+            "why_exemplary": "Both rulings directly constrained executive attempts to use budgetary and construction authority to bypass Congress or punish disfavored media, reaffirming judicial capacity to check overreach.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Congress pursued a civil contempt resolution against the former Attorney General for withheld testimony, and a federal court restored lawmakers' ability to conduct unannounced oversight visits to ICE detention facilities.",
+        "scope": "institutional",
+        "why_it_matters": "Legislative and judicial insistence on oversight access, even against a departed or resistant executive official, preserves accountability mechanisms central to checks and balances.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk63_goodfaith_ex02",
+            "week": 63,
+            "event_ids": [
+              "wk63_IG_003",
+              "wk63_IG_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk63_IG_003",
+                "development_label": "House Democrats filed a civil contempt resolution against former AG Bondi.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk63_IG_012",
+                "development_label": "Federal court struck down the seven-day notice rule for congressional ICE facility visits.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Congress pressed to enforce a subpoena against a former official while a court restored surprise oversight access to detention facilities.",
+            "why_exemplary": "Both actions strengthen Congress's practical capacity to compel testimony and conduct unannounced oversight, core good-faith mechanisms for holding the executive accountable.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Approximately eight million people participated in the 'No Kings 3' mass protest across more than 3,200 events nationwide, representing the largest sustained civic mobilization against perceived executive overreach.",
+        "scope": "public",
+        "why_it_matters": "Large-scale, peaceful, geographically dispersed civic mobilization demonstrates that public accountability mechanisms outside formal institutions remain vigorous and broadly distributed.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk63_goodfaith_ex03",
+            "week": 63,
+            "event_ids": [
+              "wk63_CR_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk63_CR_001",
+                "development_label": "No Kings 3 protest drew an estimated eight million participants across 3,200+ events.",
                 "role": "primary"
               }
             ],
-            "summary": "The lawsuits challenging Trump's voting order exemplified a commitment to institutional integrity and accountability.",
-            "why_exemplary": "This demonstrates the judiciary's role in resisting executive overreach and protecting democratic processes.",
+            "summary": "The largest single-day protest in modern American history demonstrated sustained, geographically broad civic engagement against executive overreach.",
+            "why_exemplary": "The scale and breadth of participation shows that public willingness to defend democratic norms through lawful assembly remains a resilient counterweight to institutional erosion.",
             "exemplar_type": "primary"
           }
         ]
       }
     ],
-    "direction_of_movement": "collapsing"
+    "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "The trajectory of ethical conditions continues to deteriorate, with Week 63 marking a further consolidation of previously established patterns of erosion. The previous week indicated a concerning trend, and this week has further entrenched the normalization of executive overreach, manipulation of democratic processes, and erosion of public trust. The cumulative effect is a democracy increasingly governed by unilateral decisions and diminished accountability, despite some judicial pushback.",
+    "narrative": "Week 63 continues the deteriorating trajectory documented in prior weeks, with the ethics and restraint breaches taking on a more structural character than the largely rhetorical or improvisational abuses of earlier periods. The removal of the Attorney General for insufficient loyalty, followed by the installation of a personal attorney who publicly disclaimed prosecutorial independence, represents a more explicit and institutionalized capture of federal law enforcement than the informal politicization patterns noted in Week 62. Similarly, the national voter-eligibility executive order moves beyond rhetorical pressure on the filibuster (seen in Week 62) into direct, funding-backed coercion of state election administration, a concrete assertion of federal control over a constitutionally reserved domain.\n\nAt the same time, the pattern of judicial and civic resistance that characterized recent weeks persisted and, in some respects, intensified. Courts blocked the ballroom construction, struck down retaliatory media defunding, and restored congressional oversight access to detention facilities, while roughly eight million people participated in the largest coordinated protest event documented in this trajectory. This suggests that although executive and executive-aligned actors are testing institutional limits more aggressively and more explicitly than before, the resistance apparatus, judicial, legislative, and civic, remains active and, in specific instances, effective at imposing real costs and delays.\n\nThe overall condition remains one of a democracy operating well below a comfortable moral floor but not yet in freefall: breaches are serious and increasingly systematized (attacks on prosecutorial independence, election administration, military personnel independence, and the Presidential Records Act), yet each has been met with visible, non-trivial resistance. The stress is cumulative rather than punctuated, consistent with the 'severe' risk framing carried forward from Week 62, with early signs that ethics and stewardship failures around law enforcement independence may be crystallizing into durable structural damage rather than isolated incidents.",
     "trend": "deteriorating",
     "stress_points": [
-      "consolidation of executive power",
-      "manipulation of voting rights",
-      "erosion of ethical oversight",
-      "disinformation and narrative control"
+      "installation of a personal loyalist as chief federal prosecutor",
+      "explicit assertion of presidential control over criminal investigations",
+      "funding-backed coercion of state election administration",
+      "purge of senior military leadership for resisting political interference",
+      "OLC opinion undermining the Presidential Records Act",
+      "demonstrably false wartime claims contradicted within days"
     ],
     "sources_of_resilience": [
-      "judicial pushback in some cases",
-      "public advocacy and dissent",
-      "media scrutiny of government actions"
+      "federal judiciary blocking ballroom construction and media-defunding retaliation",
+      "court-ordered restoration of congressional oversight access to detention facilities",
+      "congressional contempt proceedings against a former Attorney General",
+      "unprecedented scale of peaceful civic mobilization (No Kings 3)",
+      "rapid, corroborated press reporting exposing contradictions in official statements"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "The ongoing patterns of erosion, particularly in character, ethics, restraint, truthfulness, and good faith, indicate a high risk of further deterioration. The lack of effective institutional resistance to executive overreach and the manipulation of democratic processes suggest that the foundations of self-government are increasingly at risk.",
+    "level": "severe",
+    "justification": "The moral floor remains severely stressed, continuing the trajectory identified in Week 62, but this week's breaches show a shift from candid rhetorical acknowledgment of norm-evasion toward concrete institutional capture, most notably the replacement of the Attorney General with a personal loyalist who publicly affirmed the president's right to direct prosecutions, and an executive order asserting federal control over state election administration backed by funding threats. These are structural rather than merely rhetorical assaults on ethics and restraint. Countervailing forces, courts blocking specific overreaches, congressional contempt action, and the largest documented mass mobilization in the observed period, prevented outright collapse and imposed real costs and delays on executive action, but did not reverse the underlying trend toward concentration of unchecked power in politically loyal hands.",
     "forward_signals": [
-      "escalating military actions without congressional approval",
-      "continued push for restrictive voting laws",
-      "increased disinformation campaigns surrounding elections",
-      "further erosion of civil rights protections"
+      "further use of DOJ leadership to shield allies or target opponents",
+      "judicial rulings on the national voter eligibility order and mail-ballot restrictions",
+      "Supreme Court ruling in the birthright citizenship case",
+      "escalation or resolution of the ballroom construction dispute at the appellate level",
+      "whether whistleblower allegations against the DOJ inspector general prompt any institutional response",
+      "continued military leadership turnover tied to political loyalty tests"
     ]
   }
 }

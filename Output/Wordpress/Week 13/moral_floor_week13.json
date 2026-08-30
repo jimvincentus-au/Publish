@@ -1,11 +1,11 @@
 {
   "week_number": 13,
-  "period_label": "Week 13 – 2025-04-12–2025-04-18",
+  "period_label": "Week 13",
   "window": {
     "start": "2025-04-12",
     "end": "2025-04-18"
   },
-  "clock_time_public": "7:57 p.m.",
+  "clock_time_public": "7:33 p.m.",
   "clock_delta_minutes": 0.2,
   "baseline_traits": [
     {
@@ -18,7 +18,7 @@
     },
     {
       "name": "restraint",
-      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
     },
     {
       "name": "truthfulness",
@@ -34,159 +34,198 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week saw a significant escalation in the erosion of democratic norms, with the executive branch increasingly defying judicial authority and undermining civil rights, while courts provided some resistance but struggled to contain the broader trend.",
+    "summary": "Week 13 marks a sharp escalation from prior weeks: open, public defiance of a unanimous Supreme Court order became explicit policy rather than quiet stonewalling, while the administration floated deporting U.S. citizens to foreign prisons, a proposal without precedent in modern constitutional practice. Courts responded with unusual force, including a criminal contempt finding against executive officials and a conservative-majority appellate rebuke, showing that judicial resistance has hardened in proportion to executive defiance. Civil rights enforcement was formally repurposed, voting restrictions advanced on multiple fronts, and press access and independent information infrastructure were further degraded. The pattern is one of accelerating, coordinated breaches met by increasingly forceful but still only partial institutional resistance.",
     "norms_broken": [
       {
-        "trait": "character",
-        "pattern": "Executive actions prioritized political gain over public duty, particularly through punitive measures against institutions and individuals.",
-        "severity": "serious",
-        "institutional_response": "Judicial rulings provided some pushback, but overall institutional resistance was limited.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk13_character_ex01",
-            "week": 13,
-            "event_ids": [
-              "wk13_PA_024",
-              "wk13_PA_025"
-            ],
-            "developments": [
-              {
-                "development_id": "wk13_PA_024",
-                "development_label": "Refused to comply with Supreme Court orders regarding Kilmar Abrego Garcia's return.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk13_PA_025",
-                "development_label": "Used the Alien Enemies Act to deport migrants despite court injunctions.",
-                "role": "primary"
-              }
-            ],
-            "summary": "The refusal to comply with court orders and the use of the Alien Enemies Act exemplified prioritization of political objectives over adherence to judicial authority.",
-            "why_exemplary": "These actions illustrated a shift towards personal rule, undermining the integrity of public institutions.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "ethics",
-        "pattern": "The administration's actions blurred the line between public office and private interests, particularly through the use of executive power to extract concessions from institutions.",
-        "severity": "serious",
-        "institutional_response": "Limited scrutiny from regulatory bodies, raising concerns about conflicts of interest.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk13_ethics_ex01",
-            "week": 13,
-            "event_ids": [
-              "wk13_PA_003",
-              "wk13_PA_019"
-            ],
-            "developments": [
-              {
-                "development_id": "wk13_PA_003",
-                "development_label": "Frozen Title X family planning funds to enforce ideological priorities.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk13_PA_019",
-                "development_label": "Publicly pressured the Federal Reserve Chair to cut interest rates.",
-                "role": "primary"
-              }
-            ],
-            "summary": "The freezing of family planning funds and pressure on the Fed blurred the lines between public office and private interests.",
-            "why_exemplary": "These actions exemplified a disregard for ethical boundaries, prioritizing personal and political interests.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "truthfulness",
-        "pattern": "False claims and manipulative narratives eroded public trust, particularly regarding immigration enforcement and voting rights.",
-        "severity": "serious",
-        "institutional_response": "Media and civil society attempted to counter disinformation, but the narrative persisted.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk13_truthfulness_ex01",
-            "week": 13,
-            "event_ids": [
-              "wk13_CR_006",
-              "wk13_IM_016"
-            ],
-            "developments": [
-              {
-                "development_id": "wk13_CR_006",
-                "development_label": "Issued an executive order requiring proof of citizenship to vote.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk13_IM_016",
-                "development_label": "Misrepresented Supreme Court rulings in public messaging.",
-                "role": "primary"
-              }
-            ],
-            "summary": "The executive order on voting and misrepresentation of court rulings eroded trust in official communications.",
-            "why_exemplary": "These actions embedded disinformation at the center of governance, undermining trust in governmental processes.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
         "trait": "good_faith",
-        "pattern": "Executive orders undermined established legal frameworks and protections, particularly regarding immigration and civil rights.",
-        "severity": "serious",
-        "institutional_response": "Judicial challenges were initiated, but the executive's actions were largely unilateral.",
+        "pattern": "The administration publicly and repeatedly signaled it would not comply with the Supreme Court's order to facilitate the return of a wrongly deported man, with officials shifting justifications (foreign affairs deference, reliance on El Salvador, false characterizations of the ruling) rather than complying.",
+        "severity": "extreme",
+        "institutional_response": "Federal courts responded forcefully: a criminal contempt finding, continued fact-finding hearings, and a unanimous conservative-majority appellate rebuke; the administration nonetheless continued to resist compliance through the end of the week.",
         "exemplars": [
           {
             "exemplar_id": "wk13_good_faith_ex01",
             "week": 13,
             "event_ids": [
-              "wk13_IG_001",
-              "wk13_IG_002"
+              "wk13_PA_004",
+              "wk13_PA_013"
             ],
             "developments": [
               {
-                "development_id": "wk13_IG_001",
-                "development_label": "Supreme Court ordered the government to facilitate Kilmar Abrego Garcia's return.",
+                "development_id": "wk13_PA_004",
+                "development_label": "Trump and Bukele publicly signaled non-compliance with the Supreme Court order to return Abrego Garcia",
                 "role": "primary"
               },
               {
-                "development_id": "wk13_IG_002",
-                "development_label": "Appeals court upheld the mandate for Garcia's return, emphasizing limits on executive power.",
+                "development_id": "wk13_PA_013",
+                "development_label": "Administration reversed prior compliance statements, declaring it lacked power to return the deportee",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Senior officials, including the president, publicly abandoned earlier commitments to comply with a unanimous Supreme Court order on a wrongful deportation.",
+            "why_exemplary": "A tier1-verified, direct and repeated repudiation of a high court mandate, testing whether judicial authority can still bind the executive.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk13_good_faith_ex02",
+            "week": 13,
+            "event_ids": [
+              "wk13_IG_013"
+            ],
+            "developments": [
+              {
+                "development_id": "wk13_IG_013",
+                "development_label": "Judge Boasberg found probable cause for criminal contempt against officials over Alien Enemies Act deportations",
                 "role": "primary"
               }
             ],
-            "summary": "Judicial rulings enforced prior restraining orders on deportations, reaffirming judicial power to compel executive compliance.",
-            "why_exemplary": "These actions reinforced congressional control over appropriations and limited executive attempts to unilaterally suspend international commitments.",
+            "summary": "A federal judge found probable cause to hold administration officials in criminal contempt for willful defiance of an injunction blocking deportations.",
+            "why_exemplary": "A tier1-verified judicial escalation to criminal contempt proceedings represents one of the most serious institutional responses to executive noncompliance in the term to date.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "The president and senior officials repeatedly floated deporting U.S. citizens to foreign prisons and discussed expanding rendition capacity with a private contractor, treating constitutional citizenship protections as negotiable policy questions rather than fixed limits on power.",
+        "severity": "extreme",
+        "institutional_response": "Legal experts and some media called the proposals plainly illegal; no congressional or judicial action yet existed to formally block the idea, leaving it an open threat rather than a resolved dispute.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk13_restraint_ex01",
+            "week": 13,
+            "event_ids": [
+              "wk13_PA_005",
+              "wk13_PA_006"
+            ],
+            "developments": [
+              {
+                "development_id": "wk13_PA_005",
+                "development_label": "Trump proposed deporting U.S. citizens convicted of crimes to El Salvador prisons",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk13_PA_006",
+                "development_label": "Trump discussed building more prisons in El Salvador to hold American citizens",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The president repeatedly proposed sending U.S. citizens to a foreign mega-prison, an idea legal experts characterized as unconstitutional.",
+            "why_exemplary": "A tier1-verified, repeated presidential proposal to place citizens beyond the reach of domestic due process represents an extreme test of self-limitation on executive power.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk13_restraint_ex02",
+            "week": 13,
+            "event_ids": [
+              "wk13_PA_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk13_PA_001",
+                "development_label": "Military granted authority over federal border land and migrant detention pending transfer",
+                "role": "primary"
+              }
+            ],
+            "summary": "Authorizing military jurisdiction over border land and detention functions blurs civilian-military boundaries without congressional authorization.",
+            "why_exemplary": "A tier1-verified expansion of military authority into domestic immigration enforcement, extending a pattern of unilateral emergency-style governance.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "Senior officials made public statements contradicting the administration's own court filings and factual records, including mischaracterizing a Supreme Court ruling and overstating tariff revenue by roughly eightfold.",
+        "severity": "serious",
+        "institutional_response": "Independent media and fact-checkers documented the discrepancies; no administration correction was issued.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk13_truthfulness_ex01",
+            "week": 13,
+            "event_ids": [
+              "wk13_PA_009",
+              "wk13_IM_006"
+            ],
+            "developments": [
+              {
+                "development_id": "wk13_PA_009",
+                "development_label": "Court declaration contained Stephen Miller's false statements misrepresenting the Supreme Court ruling",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk13_IM_006",
+                "development_label": "Miller falsely claimed returning the deportee would constitute 'kidnapping'",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A senior official's public and court statements misrepresented a Supreme Court ruling to justify continued noncompliance.",
+            "why_exemplary": "A tier1-verified instance of official disinformation submitted directly to a federal court, corrupting the judicial record itself.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
         "trait": "stewardship",
-        "pattern": "The dismantling of oversight mechanisms and the removal of independent media weakened institutional accountability.",
+        "pattern": "The administration redirected the DOJ Civil Rights Division away from its founding mission, stripped civil service protections from roughly 50,000 federal workers, and closed the government's foreign disinformation monitoring office, degrading institutional capacity built over decades.",
         "severity": "serious",
-        "institutional_response": "Limited pushback from existing oversight bodies, highlighting a lack of resilience.",
+        "institutional_response": "No internal reversal occurred within the week; civil society groups filed lawsuits challenging several of these changes.",
         "exemplars": [
           {
             "exemplar_id": "wk13_stewardship_ex01",
             "week": 13,
             "event_ids": [
-              "wk13_IM_001",
-              "wk13_IM_005"
+              "wk13_IG_022"
             ],
             "developments": [
               {
-                "development_id": "wk13_IM_001",
-                "development_label": "Blocked Associated Press journalists from White House access despite a court order.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk13_IM_005",
-                "development_label": "Removed federal climate and environmental justice webpages.",
+                "development_id": "wk13_IG_022",
+                "development_label": "New DOJ Civil Rights Division mission statements redirected the division away from protecting marginalized groups",
                 "role": "primary"
               }
             ],
-            "summary": "The restrictions on AP and the removal of climate data undermined institutional capacity and accountability.",
-            "why_exemplary": "These actions stripped internal watchdogs of their power, reducing institutional capacity to investigate executive misconduct.",
+            "summary": "The Civil Rights Division's stated mission was redirected toward opposite priorities, undermining decades of institutional purpose.",
+            "why_exemplary": "A tier1-verified structural redirection of a core civil rights enforcement body represents lasting institutional damage beyond any single policy dispute.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk13_stewardship_ex02",
+            "week": 13,
+            "event_ids": [
+              "wk13_IG_024"
+            ],
+            "developments": [
+              {
+                "development_id": "wk13_IG_024",
+                "development_label": "New at-will employment category stripped civil service protections from roughly 50,000 federal workers",
+                "role": "primary"
+              }
+            ],
+            "summary": "A new employment classification removed statutory protections from a large segment of the career civil service.",
+            "why_exemplary": "A tier1-verified structural change concentrating removal power in the executive at the expense of nonpartisan civil service continuity.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "A company majority-owned by the sitting president launched investment products explicitly designed to profit from his own tariff and trade policy decisions.",
+        "severity": "concerning",
+        "institutional_response": "Reported by major outlets; no formal ethics review occurred within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk13_ethics_ex01",
+            "week": 13,
+            "event_ids": [
+              "wk13_ES_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk13_ES_011",
+                "development_label": "Trump Media launched investment accounts designed to profit from Trump's own tariff and trade policies",
+                "role": "primary"
+              }
+            ],
+            "summary": "A presidentially-owned company created financial products tied directly to the president's own policy decisions.",
+            "why_exemplary": "A tier1-verified direct conflict of interest linking private profit to official policymaking authority.",
             "exemplar_type": "primary"
           }
         ]
@@ -194,61 +233,106 @@
     ],
     "norms_strengthened": [
       {
-        "trait": "good_faith",
-        "pattern": "Judicial actions temporarily blocked some of the administration's most aggressive moves, demonstrating a commitment to uphold legal norms.",
+        "trait": "restraint",
+        "pattern": "Federal courts, including a conservative-majority appellate panel, moved beyond routine rulings to a criminal contempt finding and unanimous rejection of executive claims that residents could be detained abroad without due process.",
         "scope": "institutional",
-        "why_it_matters": "These judicial interventions highlight the importance of checks and balances in resisting executive overreach.",
+        "why_it_matters": "Escalation from injunctions to contempt findings demonstrates that courts retain, and are willing to use, coercive tools to enforce compliance even against a resistant executive.",
         "exemplars": [
           {
-            "exemplar_id": "wk13_good_faith_ex01",
+            "exemplar_id": "wk13_restraint_strength_ex01",
             "week": 13,
             "event_ids": [
-              "wk13_IG_003",
-              "wk13_IG_004"
+              "wk13_IG_016"
             ],
             "developments": [
               {
-                "development_id": "wk13_IG_003",
-                "development_label": "Opened a fact-finding inquiry into noncompliance in the Abrego case.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk13_IG_004",
-                "development_label": "Found probable cause to hold officials in contempt for deportations under a blocked policy.",
+                "development_id": "wk13_IG_016",
+                "development_label": "Fourth Circuit unanimously rejected the administration's appeal, warning against detaining residents abroad without due process",
                 "role": "primary"
               }
             ],
-            "summary": "Judicial rulings enforced prior restraining orders on deportations, reaffirming judicial power to compel executive compliance.",
-            "why_exemplary": "These actions reinforced congressional control over appropriations and limited executive attempts to unilaterally suspend international commitments.",
+            "summary": "A conservative-majority appellate panel forcefully rebuked the administration's position on extraterritorial detention without due process.",
+            "why_exemplary": "A tier1-verified, ideologically diverse judicial rebuke reinforces that due process limits on executive detention retain cross-spectrum legal legitimacy.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk13_restraint_strength_ex02",
+            "week": 13,
+            "event_ids": [
+              "wk13_IG_034"
+            ],
+            "developments": [
+              {
+                "development_id": "wk13_IG_034",
+                "development_label": "Fed Chair Powell publicly asserted the central bank's legal independence from political pressure",
+                "role": "primary"
+              }
+            ],
+            "summary": "The Federal Reserve chair publicly rejected presidential pressure to cut rates, asserting institutional independence.",
+            "why_exemplary": "A multi-source-corroborated public defense of an independent institution's statutory insulation from executive political pressure.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Harvard University maintained its refusal to cede governance control to the federal government despite billions in frozen funding and threats to its tax-exempt status.",
+        "scope": "institutional",
+        "why_it_matters": "Sustained institutional resistance to coercive federal pressure, even at high financial cost, helps preserve the independence of civil society institutions from executive control.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk13_good_faith_strength_ex01",
+            "week": 13,
+            "event_ids": [
+              "wk13_IG_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk13_IG_002",
+                "development_label": "Harvard rejected Trump administration demands to control university governance in exchange for continued funding",
+                "role": "primary"
+              }
+            ],
+            "summary": "Harvard maintained its refusal to cede governance control despite escalating funding freezes and tax-status threats.",
+            "why_exemplary": "A tier1-verified continuation of institutional resistance under intensified financial coercion, testing the durability of academic independence.",
             "exemplar_type": "primary"
           }
         ]
       }
     ],
-    "direction_of_movement": "collapsing"
+    "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "Week 13 marks a significant escalation in the concerning trends established in previous weeks, with the executive branch increasingly defying judicial authority and undermining civil rights. The administration's actions prioritize political objectives over adherence to established legal frameworks, exemplified by punitive measures against individuals and institutions. While courts have provided some resistance, the overall trajectory indicates a deepening crisis in democratic norms and accountability mechanisms. The erosion of institutional checks and balances raises serious concerns about the future of governance and civil rights in the current political climate.",
+    "narrative": "Week 13 accelerates the trajectory documented since Week 12. Where prior weeks showed the executive testing the boundaries of law through delay, mixed signals, and selective compliance, this week the administration moved to open and repeated public defiance of a unanimous Supreme Court order, compounded by proposals to deport U.S. citizens to a foreign mega-prison. These are not incremental extensions of existing policy; they represent a qualitative escalation in which core constitutional guarantees, including citizenship-based protection from arbitrary detention, were treated as negotiable.\n\nThe institutional response likewise escalated in kind. A federal judge's finding of probable cause for criminal contempt, and a conservative-majority appellate court's unanimous rejection of the government's extraterritorial detention theory, show that courts are not merely issuing rulings but moving toward direct enforcement mechanisms in response to executive intransigence. This mirrors the pattern from Week 12, in which judicial resistance remained real but reactive; the difference this week is the seriousness of the tools being deployed by both sides. The DOJ Civil Rights Division's formal mission redirection and the stripping of civil service protections from 50,000 workers extend the stewardship erosion identified previously, moving from ad hoc funding coercion toward structural, potentially durable reconfiguration of federal institutions.\n\nCivil society and subnational actors continued to provide meaningful resistance: Harvard's sustained refusal, multiple lawsuits from the ACLU, NAACP, and other groups, and continued congressional oversight requests. But the pattern of the week is one in which initiative remains firmly with an executive willing to test whether defiance of the highest court can be sustained without consequence, even as the judiciary demonstrates unusual willingness to escalate its own tools of enforcement.",
     "trend": "deteriorating",
     "stress_points": [
-      "centralization of executive power",
-      "disinformation as a governance tool",
-      "erosion of civil rights protections",
-      "politicization of the civil service"
+      "open, repeated executive defiance of a unanimous Supreme Court order",
+      "proposals to deport U.S. citizens to foreign prisons without due process",
+      "structural redirection of the DOJ Civil Rights Division away from its founding purpose",
+      "mass removal of civil service protections from federal workers",
+      "coordinated multi-state voting restrictions advancing in parallel with federal proof-of-citizenship order",
+      "continued press access denial in defiance of a court order",
+      "conflicts of interest tying presidential family financial products to official policy decisions"
     ],
     "sources_of_resilience": [
-      "judicial pushback against executive orders",
-      "civil society mobilization against abuses",
-      "state-level legal challenges"
+      "federal judiciary's escalation to criminal contempt proceedings against executive officials",
+      "unanimous conservative-majority appellate rebuke of extraterritorial detention claims",
+      "Harvard's sustained institutional resistance despite intensified funding and tax threats",
+      "Federal Reserve chair's public assertion of institutional independence",
+      "continued high-volume civil society litigation (ACLU, NAACP, Protect Democracy, labor and environmental groups)",
+      "congressional oversight requests into DOGE data practices and agency policy freezes"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "The combination of aggressive executive actions, disinformation, and the dismantling of accountability structures presents a high risk to democratic norms. The trajectory established this week indicates a willingness to bypass established legal frameworks and norms, increasing vulnerability to further erosion of democratic principles. The lack of proactive institutional responses to these shifts raises concerns about the ability of existing checks and balances to withstand ongoing challenges.",
+    "level": "critical",
+    "justification": "The moral floor faces its most acute stress of the term to date. Good faith and restraint were breached at the highest level of consequence: repeated, public, and coordinated executive defiance of a unanimous Supreme Court order, combined with serious proposals to deport U.S. citizens to foreign prisons without due process. These are not marginal or ambiguous acts; they directly test whether constitutional citizenship protections and judicial supremacy can survive sustained executive resistance. The escalation from injunctions to a criminal contempt finding indicates that the judiciary itself now regards ordinary enforcement mechanisms as insufficient, a marker of how serious the confrontation has become. Structural changes to the Civil Rights Division and civil service protections suggest the erosion is becoming durable rather than episodic. Countervailing forces remain real and consequential, including a rare unanimous conservative-majority appellate rebuke and Harvard's continued institutional resistance, but they have not yet halted the underlying trajectory.",
     "forward_signals": [
-      "increased executive orders bypassing legislative input",
-      "escalation of disinformation campaigns",
-      "further attempts to undermine civil rights protections"
+      "whether Judge Boasberg's contempt finding leads to prosecution or further defiance",
+      "whether the administration formally advances plans to deport U.S. citizens",
+      "outcome of the Fourth Circuit's rebuke and any further Supreme Court engagement with the case",
+      "whether other universities follow Harvard's continued resistance amid intensified funding and tax threats",
+      "progress of the SAVE Act and proof-of-citizenship voting order through legal challenges",
+      "whether civil service protections are further narrowed and how courts respond to the CFPB layoffs ruling"
     ]
   }
 }

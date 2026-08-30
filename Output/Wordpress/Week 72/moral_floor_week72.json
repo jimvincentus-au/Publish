@@ -1,12 +1,12 @@
 {
   "week_number": 72,
-  "period_label": "Week 72 – 2026-05-30–2026-06-05",
+  "period_label": "Week 72",
   "window": {
     "start": "2026-05-30",
     "end": "2026-06-05"
   },
-  "clock_time_public": "8:14 p.m.",
-  "clock_delta_minutes": 0.0,
+  "clock_time_public": "7:41 p.m.",
+  "clock_delta_minutes": -0.2,
   "baseline_traits": [
     {
       "name": "character",
@@ -18,7 +18,7 @@
     },
     {
       "name": "restraint",
-      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
     },
     {
       "name": "truthfulness",
@@ -34,316 +34,232 @@
     }
   ],
   "weekly_audit": {
-    "summary": "The week showed continued ethical erosion through administrative hardening rather than a single decisive break. Public systems were repeatedly used to reward allies, narrow oversight, punish vulnerable groups, and weaken independent expertise. At the same time, courts, some legislators, state officials, local governments, journalists, and civil society still imposed meaningful checks. The moral floor therefore did not collapse outright this week, but breaches were no longer isolated; they appeared across detention, procurement, legal process, information control, and the civil service in a pattern of normalization with active resistance.",
+    "summary": "Week 72 continued the pattern of administrative hardening documented in prior weeks, with public systems repeatedly bent toward loyalty, punishment, and reward rather than neutral process. Verified events include a defense-adjacent loan and contract pattern tying federal money to the president's family and allies, an executive order stripping civil service protections from thousands of senior employees, a proposal to politically vet federal research grants, and continued denial of documented detention abuses at Delaney Hall, including force used against a sitting senator, journalists, and detainees. Countervailing institutional action was substantial and, in places, effective: courts blocked the Kennedy Center renaming and a retaliatory research-center transfer, found the transgender service ban likely unconstitutional, struck down a birthright-citizenship order, and reopened scrutiny of the president's IRS settlement. Congress asserted itself on war powers and Ukraine aid over leadership objection, and bipartisan pressure forced a public retreat from the Anti-Weaponization Fund, though the underlying IRS immunity arrangement survived and a Senate amendment to permanently bar the fund failed narrowly. The week shows resistance capable of stopping or slowing specific actions, but the deeper redirection of institutional capacity toward personal and factional ends continued largely unabated.",
     "norms_broken": [
       {
-        "trait": "character",
-        "pattern": "Officeholders repeatedly acted in ways that appeared to place personal protection, personal grievance, or leader-centered advantage ahead of impartial public duty.",
-        "severity": "serious",
-        "institutional_response": "Courts reopened scrutiny of some protective arrangements and legislators sought corrective bills, but the underlying personalist pattern was only partly checked.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk72_character_ex01",
-            "week": 72,
-            "event_ids": [
-              "wk72_IG_016",
-              "wk72_IG_004"
-            ],
-            "developments": [
-              {
-                "development_id": "wk72_IG_016",
-                "development_label": "Acting Attorney General said the anti-weaponization fund would not proceed while the IRS audit-immunity deal remained in place",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk72_IG_004",
-                "development_label": "Judge reopened scrutiny of Trump's IRS settlement and ordered responses about possible collusion or fraud",
-                "role": "secondary"
-              }
-            ],
-            "summary": "A politically costly fund was withdrawn while a protective tax settlement for the president's family remained.",
-            "why_exemplary": "This illustrates character failure because retreat occurred only at the most visible edge, while a bespoke shield from ordinary oversight was preserved for those closest to power.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk72_character_ex02",
-            "week": 72,
-            "event_ids": [
-              "wk72_IMM_012",
-              "wk72_IG_002"
-            ],
-            "developments": [
-              {
-                "development_id": "wk72_IMM_012",
-                "development_label": "President called for dismissal of his judgments and charges against New York prosecutors",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk72_IG_002",
-                "development_label": "Justice Department opened investigation into funding behind E. Jean Carroll's lawsuits",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Public rhetoric and legal pressure converged around adverse cases tied to the president.",
-            "why_exemplary": "Character requires accepting legal accountability; seeking relief for oneself while pressure falls on opposing litigants points toward personal grievance over oath-bound duty.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
         "trait": "ethics",
-        "pattern": "The boundary between public power and private benefit weakened further through procurement, financing, donor access, and preservation of special protections for presidential allies and family.",
+        "pattern": "Federal procurement, loan, and regulatory decisions continued to track the financial and personal interests of the president and his family, including a Pentagon drone-funding directive benefiting a company where Donald Trump Jr. serves as adviser and shareholder, a nuclear loan coinciding with a related Saudi deal, and reports linking over $50 billion in contracts to donors of the president's ballroom project.",
         "severity": "extreme",
-        "institutional_response": "Judges paused or reopened review of some arrangements, watchdog reporting exposed donor-linked benefits, and legislators proposed blocking measures, but conflict-of-interest signals remained widespread.",
+        "institutional_response": "Investigative journalism and some Democratic senators raised objections; no regulatory reversal or independent investigation is documented within the week.",
         "exemplars": [
           {
             "exemplar_id": "wk72_ethics_ex01",
             "week": 72,
             "event_ids": [
-              "wk72_ES_002"
+              "wk72_ES_004",
+              "wk72_ES_006"
             ],
             "developments": [
               {
-                "development_id": "wk72_ES_002",
-                "development_label": "Pentagon awarded Dell a $9.7 billion contract after Trump had bought and promoted the company's stock",
+                "development_id": "wk72_ES_004",
+                "development_label": "Military drone-program funding directed toward a company where Donald Trump Jr. serves as adviser and shareholder.",
                 "role": "primary"
+              },
+              {
+                "development_id": "wk72_ES_006",
+                "development_label": "White House adviser Peter Navarro intervened in the related Pentagon loan decision.",
+                "role": "secondary"
               }
             ],
-            "summary": "A major federal contract followed presidential financial interest and public promotion of the company.",
-            "why_exemplary": "This is a direct ethics concern because it links presidential financial exposure to a large procurement decision that should be insulated from personal interest.",
+            "summary": "Pentagon funding was steered toward a firm tied to the president's son, with a White House adviser directly intervening in the loan process.",
+            "why_exemplary": "Multi-source corroborated reporting documents direct executive intervention channeling public defense funds toward a family-linked private interest during active conflict.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk72_ethics_ex02",
             "week": 72,
             "event_ids": [
-              "wk72_ES_006",
-              "wk72_IMM_015"
+              "wk72_ES_023"
             ],
             "developments": [
               {
-                "development_id": "wk72_ES_006",
-                "development_label": "White House officials intervened in a $620 million loan for a company tied to Donald Trump Jr.",
+                "development_id": "wk72_ES_023",
+                "development_label": "Federal contracts worth over $50 billion reportedly directed to fourteen corporate donors of the president's ballroom project.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk72_IMM_015",
-                "development_label": "Watchdog reporting showed ballroom donors later received major federal contracts",
-                "role": "secondary"
               }
             ],
-            "summary": "Family-linked financing and donor-linked contracting both suggested benefits flowing through political proximity.",
-            "why_exemplary": "Together these developments show a recurring lesson that alignment with the president or his network may bring material advantage from the state.",
+            "summary": "A documented pattern links private donations to a presidential construction project with subsequent large federal contract awards to the same donors.",
+            "why_exemplary": "Reporting reflects a systemic pay-to-play pattern rather than an isolated incident, suggesting institutionalized quid pro quo dynamics around a signature presidential project.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "restraint",
-        "pattern": "Executive and enforcement actors repeatedly expanded coercive power where democratic self-limitation would have required narrower, reviewable, and less punitive action.",
+        "pattern": "State and federal forces continued using chemical agents, curfews, and speech-restriction zones against protesters, journalists, and detainees at Delaney Hall, including a flash-bang deployed directly at a photojournalist and pepper spray used against detainees in apparent retaliation for a hunger strike.",
         "severity": "serious",
-        "institutional_response": "Congress passed a war powers resolution, courts vacated unlawful immigration policies, and some local police refused cooperation with ICE, but initiating actors showed little self-restraint.",
+        "institutional_response": "State officials imposed curfews and speech zones rather than de-escalating; a state attorney general sued to compel facility inspection access; no disciplinary action against officers is documented within the week.",
         "exemplars": [
           {
             "exemplar_id": "wk72_restraint_ex01",
             "week": 72,
             "event_ids": [
-              "wk72_PA_003",
-              "wk72_IG_021"
+              "wk72_PA_011",
+              "wk72_CR_005"
             ],
             "developments": [
               {
-                "development_id": "wk72_PA_003",
-                "development_label": "United States carried out strikes in Iran without clear congressional authorization",
+                "development_id": "wk72_PA_011",
+                "development_label": "New Jersey State Police deployed riot officers, teargas, and pepper balls against protesters, journalists, and a sitting senator at Delaney Hall.",
                 "role": "primary"
               },
               {
-                "development_id": "wk72_IG_021",
-                "development_label": "House passed a war powers resolution directing the president to end unauthorized hostilities with Iran",
+                "development_id": "wk72_CR_005",
+                "development_label": "State police replaced ICE officers and then deployed teargas, horses, and riot gear against demonstrators.",
                 "role": "secondary"
               }
             ],
-            "summary": "Military action expanded first, with Congress forced to reassert its constitutional role afterward.",
-            "why_exemplary": "Restraint fails when force is used before democratic authorization, leaving institutional checks to react after the fact.",
+            "summary": "State police escalated force against demonstrators, press, and an elected official at a federal detention site over multiple days.",
+            "why_exemplary": "Corroborated reporting, including from outlets sympathetic to the administration, confirms repeated use of force against protected classes of people engaged in oversight and dissent.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk72_restraint_ex02",
             "week": 72,
             "event_ids": [
-              "wk72_PA_007",
-              "wk72_PA_013"
+              "wk72_CR_010"
             ],
             "developments": [
               {
-                "development_id": "wk72_PA_007",
-                "development_label": "President issued an executive order to seize assets from migrants",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk72_PA_013",
-                "development_label": "Officials reportedly planned to classify millions of living people as dead in Social Security records",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Administrative power was directed toward severe status-based penalties against migrants.",
-            "why_exemplary": "These actions are exemplary because they show willingness to use maximal bureaucratic force against vulnerable people rather than exercise caution around due process and equal treatment.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
-        "trait": "truthfulness",
-        "pattern": "Public understanding was degraded by unsupported election claims, alleged misleading testimony, and deliberate narrowing of information about detention harms and government activity.",
-        "severity": "serious",
-        "institutional_response": "Investigative reporting, hearings, and some records disclosures kept parts of the factual record visible, but the week still showed active pressure toward opacity and unreality.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk72_truthfulness_ex01",
-            "week": 72,
-            "event_ids": [
-              "wk72_PA_012",
-              "wk72_CRD_020"
-            ],
-            "developments": [
-              {
-                "development_id": "wk72_PA_012",
-                "development_label": "ICE acting director ordered the agency to stop reporting deaths within 30 days of detainees' release",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk72_CRD_020",
-                "development_label": "ICE ended a guideline requiring reports on deaths after release from custody",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Detention-related death reporting was narrowed, reducing public visibility into harms linked to custody.",
-            "why_exemplary": "Truthfulness depends on preserving accurate public knowledge; cutting off a known accountability channel makes citizens govern with less reality about state-inflicted harm.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk72_truthfulness_ex02",
-            "week": 72,
-            "event_ids": [
-              "wk72_IMM_006",
-              "wk72_IG_017"
-            ],
-            "developments": [
-              {
-                "development_id": "wk72_IMM_006",
-                "development_label": "Tina Peters claimed without evidence that Democrats would cheat in the midterms",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk72_IG_017",
-                "development_label": "Secretary of State faced accusations of misleading lawmakers",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Election denial rhetoric and disputed executive testimony both strained the factual basis for accountability.",
-            "why_exemplary": "These developments matter because democratic judgment depends on truthful claims about elections and truthful testimony to oversight bodies.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
-        "trait": "good_faith",
-        "pattern": "Officials repeatedly used legal and administrative mechanisms in ways that appeared to defeat oversight, neutral review, or the intended purpose of democratic checks.",
-        "severity": "serious",
-        "institutional_response": "Judges preserved review in multiple cases and some legislators used procedure to restore checks, but several executive and legislative actors still worked to preserve contested arrangements or evade accountability.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk72_good_faith_ex01",
-            "week": 72,
-            "event_ids": [
-              "wk72_IG_028"
-            ],
-            "developments": [
-              {
-                "development_id": "wk72_IG_028",
-                "development_label": "Acting Attorney General refused to assure senators that DHS would follow court orders",
+                "development_id": "wk72_CR_010",
+                "development_label": "A flash-bang grenade was deployed directly at a photojournalist covering the Delaney Hall protests.",
                 "role": "primary"
               }
             ],
-            "summary": "A senior official would not commit an executive agency to obey judicial orders.",
-            "why_exemplary": "Good faith requires acceptance of the constitutional system's checking function; treating court compliance as optional defeats the spirit of lawful democratic governance.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk72_good_faith_ex02",
-            "week": 72,
-            "event_ids": [
-              "wk72_IG_023",
-              "wk72_IG_031"
-            ],
-            "developments": [
-              {
-                "development_id": "wk72_IG_023",
-                "development_label": "ICE memo restricted congressional visits to detention centers",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk72_IG_031",
-                "development_label": "Senate Republicans blocked an amendment to bar the ally payout fund",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Oversight channels were narrowed in detention and legislative guardrails against patronage were blocked.",
-            "why_exemplary": "These actions are exemplary because they preserve formal power while frustrating the checking and anti-abuse purposes those procedures are meant to serve.",
+            "summary": "A journalist reported being directly targeted with a flash-bang for the first time in his experience covering such protests.",
+            "why_exemplary": "Tier-one corroborated account of a direct, apparently deliberate use of force against a member of the press documents an escalation beyond crowd control necessity.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "stewardship",
-        "pattern": "Long-term institutional capacity and credibility were weakened by politicization of the civil service, concentration of control over health agencies, reduced scientific independence, and tighter press exclusion.",
+        "pattern": "The administration moved to convert the professional civil service into an at-will political workforce, stripping protections from thousands of senior employees, while proposing to subject federal research grants to political loyalty tests rather than peer review.",
         "severity": "serious",
-        "institutional_response": "Courts blocked some retaliatory or unlawful changes and ordinary administrative processes still functioned in parts of government, but the week's main direction was institutional thinning and politicization.",
+        "institutional_response": "No congressional or judicial reversal is documented within the week; the executive order and proposal both proceeded on schedule.",
         "exemplars": [
           {
             "exemplar_id": "wk72_stewardship_ex01",
             "week": 72,
             "event_ids": [
-              "wk72_PA_005",
-              "wk72_PA_008"
+              "wk72_PA_007"
             ],
             "developments": [
               {
-                "development_id": "wk72_PA_005",
-                "development_label": "Robert F. Kennedy Jr. reorganized HHS with cuts to staff, grants, and scientific leadership",
+                "development_id": "wk72_PA_007",
+                "development_label": "Executive order stripped civil service job protections from about 8,000 to 10,000 senior federal employees.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk72_PA_008",
-                "development_label": "President signed an order making it easier to fire senior federal workers in policy-facing roles",
-                "role": "secondary"
               }
             ],
-            "summary": "Health expertise was cut while civil service protections were weakened across policy-facing roles.",
-            "why_exemplary": "Stewardship fails when professional capacity and independent expertise are treated as obstacles rather than assets to preserve for future governance.",
+            "summary": "A presidential order enabled at-will removal of career employees deemed insufficiently loyal, undermining the nonpartisan federal workforce.",
+            "why_exemplary": "Tier-one corroborated reporting documents a structural change to civil service protections that threatens long-term institutional capacity and independence from political control.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk72_stewardship_ex02",
             "week": 72,
             "event_ids": [
-              "wk72_IMM_008",
-              "wk72_IG_011"
+              "wk72_PA_001"
             ],
             "developments": [
               {
-                "development_id": "wk72_IMM_008",
-                "development_label": "Pentagon barred journalists from its press office by redesignating it as a classified space",
+                "development_id": "wk72_PA_001",
+                "development_label": "OMB proposed letting political appointees vet and terminate federal research grants based on alignment with White House priorities.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A proposed rule would replace peer review with political loyalty tests in the distribution of federal research funding.",
+            "why_exemplary": "The proposal, corroborated alongside documented declines in federal research funding at major institutions, threatens the independence of science and long-term national research capacity.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "The president and allied officials repeatedly amplified unsubstantiated claims of election fraud during routine California ballot counting, while DHS denied documented hunger strike and force-related conditions at Delaney Hall.",
+        "severity": "concerning",
+        "institutional_response": "Independent journalism and election officials fact-checked the claims; DOJ nonetheless opened related investigations, lending federal weight to unsubstantiated allegations.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk72_truthfulness_ex01",
+            "week": 72,
+            "event_ids": [
+              "wk72_IM_013",
+              "wk72_IM_014"
+            ],
+            "developments": [
+              {
+                "development_id": "wk72_IM_013",
+                "development_label": "Trump posted unsubstantiated claims that California Democrats were stealing gubernatorial and mayoral primary races.",
                 "role": "primary"
               },
               {
-                "development_id": "wk72_IG_011",
-                "development_label": "Federal judge blocked transfer of NCAR's supercomputing center to Wyoming",
+                "development_id": "wk72_IM_014",
+                "development_label": "DOJ sent a federal prosecutor to observe California ballot processing and announced unspecified fraud investigations.",
                 "role": "secondary"
               }
             ],
-            "summary": "Press access narrowed sharply even as a court protected research infrastructure from likely retaliation.",
-            "why_exemplary": "The contrast shows stewardship under stress: transparency and institutional independence now survive mainly when courts intervene against executive degradation.",
+            "summary": "Presidential claims of election theft during routine ballot counting were followed by DOJ investigative action, lending federal legitimacy to unverified allegations.",
+            "why_exemplary": "Multi-source corroborated reporting shows the claims were baseless, yet federal law enforcement responded with observation and investigation rather than correction, amplifying rather than countering disinformation.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk72_truthfulness_ex02",
+            "week": 72,
+            "event_ids": [
+              "wk72_CR_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk72_CR_002",
+                "development_label": "DHS denied that a hunger and labor strike was occurring at Delaney Hall despite congressional and detainee accounts.",
+                "role": "primary"
+              }
+            ],
+            "summary": "An official denial of documented detainee conditions obstructed transparency about a facility under active congressional and public scrutiny.",
+            "why_exemplary": "The denial directly contradicted contemporaneous congressional oversight visits and multiple detainee accounts, illustrating institutional resistance to acknowledging documented facts.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "The administration's Department of Justice argued in court that no judicial body has authority to block White House construction projects, while ICE rescinded a reporting requirement for detainee deaths shortly after release, narrowing accountability mechanisms through procedural means rather than open repeal.",
+        "severity": "serious",
+        "institutional_response": "Appellate judges appeared skeptical of the DOJ's separation-of-powers argument; no legislative correction of the ICE reporting rescission is documented within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk72_goodfaith_ex01",
+            "week": 72,
+            "event_ids": [
+              "wk72_IG_039"
+            ],
+            "developments": [
+              {
+                "development_id": "wk72_IG_039",
+                "development_label": "DOJ argued in appellate court that no court has authority to block White House ballroom construction.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The administration claimed judicial review cannot restrain executive construction projects, directly challenging separation of powers.",
+            "why_exemplary": "Tier-one corroborated reporting documents an explicit executive branch argument against the judiciary's basic checking function, a direct assault on the constitutional order rather than an isolated policy dispute.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk72_goodfaith_ex02",
+            "week": 72,
+            "event_ids": [
+              "wk72_CR_020"
+            ],
+            "developments": [
+              {
+                "development_id": "wk72_CR_020",
+                "development_label": "ICE official rescinded the requirement to report detainee deaths occurring within 30 days of release.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Eliminating a safeguard designed to catch hidden custody-adjacent deaths reduces transparency without formal public debate.",
+            "why_exemplary": "The rescission removes an accountability mechanism through quiet administrative action rather than legislative repeal, consistent with a broader pattern of narrowing oversight by design.",
             "exemplar_type": "secondary"
           }
         ]
@@ -351,178 +267,123 @@
     ],
     "norms_strengthened": [
       {
-        "trait": "restraint",
-        "pattern": "Congress and courts imposed limits on unilateral executive action, keeping coercive powers reviewable rather than allowing immediate consolidation.",
+        "trait": "good_faith",
+        "pattern": "Courts and Congress imposed real, substantive checks this week: a judge blocked the Kennedy Center renaming and closure, an appellate panel found the transgender service ban likely unconstitutional, the Supreme Court struck down the birthright citizenship order, and the House passed both a war powers resolution and Ukraine aid over leadership resistance.",
         "scope": "institutional",
-        "why_it_matters": "Democratic restraint is reinforced when institutions insist that force, detention, and administrative coercion remain bounded by law and review.",
+        "why_it_matters": "Multiple independent branches asserted constitutional limits on executive action within the same week, demonstrating that checks and balances remain functional even under sustained pressure.",
         "exemplars": [
           {
-            "exemplar_id": "wk72_restraint_ex03",
+            "exemplar_id": "wk72_goodfaith_strength_ex01",
             "week": 72,
             "event_ids": [
-              "wk72_IG_021"
+              "wk72_IG_006",
+              "wk72_IG_038"
             ],
             "developments": [
               {
-                "development_id": "wk72_IG_021",
-                "development_label": "House passed a war powers resolution directing the president to end unauthorized hostilities with Iran",
+                "development_id": "wk72_IG_006",
+                "development_label": "Judge Christopher Cooper ruled the Kennedy Center cannot be renamed without an act of Congress and blocked its planned closure.",
                 "role": "primary"
+              },
+              {
+                "development_id": "wk72_IG_038",
+                "development_label": "The Kennedy Center began removing Trump's name from signage in compliance with the court order.",
+                "role": "secondary"
               }
             ],
-            "summary": "The House reasserted Congress's constitutional role over war-making.",
-            "why_exemplary": "This strengthened restraint by refusing to let military escalation rest solely on executive initiative.",
+            "summary": "A federal court reasserted congressional and judicial limits on executive control over a federally chartered cultural institution, and the institution complied.",
+            "why_exemplary": "Multi-source corroborated reporting shows both a substantive judicial check and actual institutional compliance, demonstrating that legal restraint retains real force despite presidential defiance rhetoric.",
             "exemplar_type": "primary"
           },
           {
-            "exemplar_id": "wk72_restraint_ex04",
+            "exemplar_id": "wk72_goodfaith_strength_ex02",
             "week": 72,
             "event_ids": [
-              "wk72_IG_036"
+              "wk72_IG_030",
+              "wk72_IG_032"
             ],
             "developments": [
               {
-                "development_id": "wk72_IG_036",
-                "development_label": "Chief Judge McConnell vacated four asylum and immigration hold policies",
+                "development_id": "wk72_IG_030",
+                "development_label": "House passed a war powers resolution directing Trump to end hostilities with Iran or seek congressional authorization.",
                 "role": "primary"
+              },
+              {
+                "development_id": "wk72_IG_032",
+                "development_label": "House advanced a Ukraine aid and Russia sanctions measure over Trump's expected opposition.",
+                "role": "secondary"
               }
             ],
-            "summary": "A court vacated unlawful and pretextual immigration hold policies.",
-            "why_exemplary": "The ruling matters because it prevented coercive immigration power from continuing under policies the court found unlawful.",
+            "summary": "The House asserted its constitutional war powers and foreign policy role against presidential preference in the same week.",
+            "why_exemplary": "A rare bipartisan legislative assertion of Congress's constitutional authority over war and foreign aid, even if its ultimate enforceability remains contested.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
-        "trait": "good_faith",
-        "pattern": "Courts and some lawmakers defended the intended operation of oversight and lawful administration by preserving review before contested executive actions could harden into facts on the ground.",
-        "scope": "institutional",
-        "why_it_matters": "Good faith survives when institutions protect the checking purpose of rules instead of allowing procedural manipulation to become normal governance.",
+        "trait": "character",
+        "pattern": "Bipartisan and cross-partisan figures, including a former Republican vice president and Republican senators, publicly broke with the administration over the Anti-Weaponization Fund, and Senate and House Republicans stripped ballroom security funding and blocked payments from the contested fund.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Willingness of co-partisans to publicly oppose a president's self-serving initiative demonstrates that party loyalty has not fully displaced independent ethical judgment.",
         "exemplars": [
           {
-            "exemplar_id": "wk72_good_faith_ex03",
+            "exemplar_id": "wk72_character_strength_ex01",
             "week": 72,
             "event_ids": [
-              "wk72_IG_005",
-              "wk72_IG_012"
+              "wk72_IG_012",
+              "wk72_IG_027"
             ],
             "developments": [
-              {
-                "development_id": "wk72_IG_005",
-                "development_label": "Judge paused creation and operation of the Anti-Weaponization Fund",
-                "role": "primary"
-              },
               {
                 "development_id": "wk72_IG_012",
-                "development_label": "Former federal prosecutors filed suit challenging the settlement",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Judicial and professional challenges kept a contested ally-payment scheme from taking effect unchecked.",
-            "why_exemplary": "This reinforced good faith by insisting that public money and settlement authority remain subject to lawful purpose and review.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk72_good_faith_ex04",
-            "week": 72,
-            "event_ids": [
-              "wk72_IG_029"
-            ],
-            "developments": [
-              {
-                "development_id": "wk72_IG_029",
-                "development_label": "House passed Ukraine aid and Russia sanctions through a discharge petition",
-                "role": "primary"
-              }
-            ],
-            "summary": "Lawmakers used institutional procedure to bypass leadership resistance and force a vote.",
-            "why_exemplary": "This matters because procedure was used to restore deliberation and decision rather than to suppress them.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
-        "trait": "stewardship",
-        "pattern": "Some institutions and civic actors continued to preserve oversight capacity, research independence, records access, and public accountability despite wider pressure toward politicization and secrecy.",
-        "scope": "institutional",
-        "why_it_matters": "Stewardship depends on keeping the state reviewable and capable even when political actors try to narrow expertise or outside scrutiny.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk72_stewardship_ex03",
-            "week": 72,
-            "event_ids": [
-              "wk72_IG_018"
-            ],
-            "developments": [
-              {
-                "development_id": "wk72_IG_018",
-                "development_label": "New Jersey attorney general sued GEO Group to force health-inspector access to Delaney Hall",
-                "role": "primary"
-              }
-            ],
-            "summary": "State legal action sought to restore inspection access to a detention facility accused of blocking oversight.",
-            "why_exemplary": "This strengthened stewardship by defending the state's capacity to inspect, document, and correct harms inside a coercive institution.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk72_stewardship_ex04",
-            "week": 72,
-            "event_ids": [
-              "wk72_IG_011",
-              "wk72_IMM_005"
-            ],
-            "developments": [
-              {
-                "development_id": "wk72_IG_011",
-                "development_label": "Federal judge blocked transfer of NCAR's supercomputing center to Wyoming",
+                "development_label": "Mike Pence publicly opposed the weaponization settlement fund as unacceptable.",
                 "role": "primary"
               },
               {
-                "development_id": "wk72_IMM_005",
-                "development_label": "National Archives requested public comment on digitization and military-record information collections",
+                "development_id": "wk72_IG_027",
+                "development_label": "House Republicans moved to block ballroom security funding and the anti-weaponization fund.",
                 "role": "secondary"
               }
             ],
-            "summary": "Research infrastructure and archival access remained protected through court action and public process.",
-            "why_exemplary": "These actions matter because they preserve long-term state capacity and the public record against politicized disruption.",
-            "exemplar_type": "secondary"
+            "summary": "A former Republican vice president and House Republicans publicly broke with the administration over contested spending measures benefiting the president's allies and personal projects.",
+            "why_exemplary": "Multi-source corroborated reporting of cross-partisan pushback against a fund widely viewed as rewarding January 6 participants shows meaningful internal party accountability.",
+            "exemplar_type": "primary"
           }
         ]
       }
     ],
-    "direction_of_movement": "eroding"
+    "direction_of_movement": "mixed_but_stable"
   },
   "cumulative_condition": {
-    "narrative": "This week fits the prior trajectory closely and deepens it. The earlier pattern of personalist, retaliatory, and opaque governance did not recede; it spread further into detention oversight, civil service structure, scientific administration, procurement, and information access. The most important ethical development was not novelty but consolidation. Public power was repeatedly used in ways that made neutral process look optional and after-the-fact resistance look normal.\n\nCompared with the prior week, the same six traits remain under stress, but stewardship and good faith appear especially strained now because the pressure is moving from episodic abuse toward redesign of the machinery itself. Weakening civil service protections, concentrating control over health agencies, restricting congressional and press access, and preserving bespoke legal shelter for those close to the president all point toward a state less capable of self-correction. Courts and some legislators still imposed real limits, and those limits prevented a sharper drop. But the cumulative condition remains one of deterioration in which resilience survives mainly through reactive defense rather than ethical self-limitation by officeholders.",
+    "narrative": "Week 72 sustains the deteriorating trajectory identified in Week 71 while showing that institutional resistance remains capable of producing concrete, if partial, results. The financial conflicts of interest documented previously (the Dell contract, the Trump Jr.-linked Pentagon loan) recurred and expanded this week, joined by reports of over $50 billion in contracts tied to ballroom donors and a nuclear loan coinciding with a related foreign deal. These are not isolated incidents but a now-established pattern in which proximity to the president and his family consistently correlates with material federal benefit.\n\nThe stewardship damage identified in prior weeks, personal glorification of federal grounds and instruments, continued through the Lincoln Memorial promenade proposal and renewed ballroom promotion, but was met this week by a genuine legislative check: Senate Republicans stripped ballroom security funding from a reconciliation bill. Similarly, the anti-weaponization fund saga, which in Week 71 saw only a judicial injunction, this week produced a public administration retreat under bipartisan pressure, even though the underlying IRS immunity arrangement survived and a permanent statutory bar failed narrowly in the Senate. This illustrates a recurring dynamic: the most visible, embarrassing elements of self-dealing arrangements can be forced back, while the core protective structure often persists.\n\nThe most structurally significant development this week was the executive order stripping civil service protections from thousands of senior federal employees, extending the pattern of subordinating professional, nonpartisan governance to political loyalty that was previewed in Week 71's discussion of grant screening proposals. Combined with the OMB proposal to political-vet research grants, this suggests the erosion is moving from episodic acts of self-enrichment toward systemic capture of the administrative state itself. Courts, Congress, and civil society continued to resist effectively in specific instances, but as in Week 71, resistance remains reactive rather than preventive, arriving after harm has already been enacted.",
     "trend": "deteriorating",
     "stress_points": [
-      "personalized legal protection for president and family",
-      "conflict-of-interest signals in contracts, loans, and donor access",
-      "administrative coercion and opacity in immigration detention",
-      "weakening of civil service independence and scientific capacity",
-      "restriction of congressional and press oversight access",
-      "routine procedural use of government to reward allies or burden disfavored groups",
-      "election-related disinformation and contested official testimony"
+      "recurring financial conflicts of interest tied to presidential family and allies",
+      "civil service protections stripped from senior federal employees",
+      "political vetting proposed for federal research grants",
+      "continued use of force against protesters, journalists, and detainees at Delaney Hall",
+      "unsubstantiated election fraud claims amplified with federal investigative backing",
+      "narrowing of detainee death reporting and oversight access"
     ],
     "sources_of_resilience": [
-      "federal courts blocking or vacating contested executive actions",
-      "congressional reassertion of war powers and use of discharge procedures",
-      "state attorneys general and local governments pressing oversight and autonomy",
-      "investigative reporting and watchdog disclosures exposing corruption risks",
-      "civil society protest, organizing, and rights-defense efforts",
-      "public records and administrative comment processes still functioning in parts of the state"
+      "judicial rulings blocking Kennedy Center renaming, transgender service ban, and birthright citizenship order",
+      "bipartisan congressional pushback against the anti-weaponization fund",
+      "House assertion of war powers and Ukraine aid authority",
+      "state attorney general legal action to compel detention facility inspection",
+      "independent investigative journalism exposing conflicts of interest",
+      "cross-partisan figures publicly opposing self-dealing arrangements"
     ]
   },
   "risk_assessment": {
     "level": "severe",
-    "justification": "Severe risk is warranted because the week's breaches were broad, repeated, and mutually reinforcing. Ethics, good faith, and stewardship were all weakened by patterns that linked private benefit, reduced oversight, politicized administration, and narrowing access to information. Restraint was also under strain through unauthorized military action, harsh immigration measures, and expanded enforcement capacity without stronger guardrails. These are not isolated lapses; they describe a governing style increasingly comfortable with bending neutral systems toward preference, punishment, and protection.\n\nThe risk is not best described as critical because the digest still shows meaningful resistance with real effect. Courts paused the ally-payment fund, reopened scrutiny of the IRS settlement, vacated unlawful immigration policies, protected protest and voting-related rights in some cases, and blocked retaliatory institutional moves. Congress also reasserted itself in war powers and other procedural fights, while state and local actors defended oversight and limited cooperation with federal enforcement. But those defenses were fragmented and reactive. If the current pattern continues, further erosion is likely because the burden of maintaining the moral floor is falling less on officeholder self-restraint and more on institutions forced to fight one breach at a time.",
+    "justification": "The moral floor remains severely stressed. This week added a structurally significant breach, the stripping of civil service protections from thousands of senior federal employees, to an already established pattern of financial conflicts of interest benefiting the president's family and allies, now corroborated across multiple contracts and loans. Force continued to be used against protesters, journalists, and a sitting senator, and DHS again denied documented conditions at a detention facility under active congressional scrutiny. At the same time, courts and Congress produced multiple substantive, verified checks this week, including judicial rulings on the Kennedy Center, the transgender service ban, and birthright citizenship, plus a bipartisan legislative retreat from the anti-weaponization fund. This combination of persistent, expanding executive overreach with continued but reactive institutional resistance keeps the risk level at severe rather than critical: the correcting mechanisms still function, but they are increasingly playing defense against a widening and more systemic redirection of state capacity toward personal and factional ends.",
     "forward_signals": [
-      "whether the IRS audit-immunity arrangement is narrowed or preserved",
-      "further efforts to politicize grants, contracts, or civil service removals",
-      "additional restrictions on detention oversight, press access, or congressional visits",
-      "escalation of administrative penalties targeting migrants or other vulnerable groups",
-      "continued donor-linked contracting or family-linked financing decisions",
-      "whether courts and Congress continue to impose timely checks on executive overreach",
-      "normalization of unsupported election claims or refusal to commit to obey court orders"
+      "whether the civil service order survives legal challenge or expands further",
+      "whether the OMB grant-vetting proposal is finalized or blocked",
+      "whether the IRS immunity arrangement underlying the abandoned weaponization fund is formally addressed by the Raskin BLANCHE Act",
+      "whether DOJ's California election investigations produce findings or are quietly dropped",
+      "whether force against protesters and detainees at Delaney Hall draws disciplinary or judicial consequence",
+      "whether the ballroom donor-contract pattern draws formal congressional investigation"
     ]
   }
 }

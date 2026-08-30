@@ -749,251 +749,261 @@ Information, Memory and Manipulation
 <!-- BEGIN GENERATED APPENDIX -->
 Power and Authority
 
-1. President Trump announced plans to end birthright citizenship by executive order: Trump’s stated intent to end birthright citizenship by executive order signaled a willingness to unilaterally redefine constitutional citizenship rights, testing limits on presidential authority over fundamental status questions. — 2025-06-28
+1. The Trump administration terminated Temporary Protected Status for Haitians [single source]: The move stripped legal protection from a large immigrant group and expanded executive control over who could remain in the country. — 2025-06-28
 
-2. President Trump ordered large-scale airstrikes on Iranian nuclear facilities: Trump’s unilateral strikes on Iranian nuclear sites, undertaken without clear congressional authorization, concentrated war-making power in the executive and risked escalation without robust democratic oversight. — 2025-06-28
+2. President Trump said he intended to end birthright citizenship [single source]: The statement targeted a core constitutional rule of membership and signaled executive willingness to narrow citizenship rights by unilateral action. — 2025-06-28
 
-3. President Trump endorsed the No Tax Dollars for Riots Act targeting protest-related nonprofits: By backing a bill to strip federal funds and tax status from nonprofits involved in protests, Trump used federal leverage to chill organized dissent and penalize civil society groups critical of his policies. — 2025-06-28
+3. President Trump endorsed the No Tax Dollars for Riots Act and told his administration not to fund targeted nonprofits [single source]: The move used executive influence to threaten protest-linked civil society groups with financial punishment outside ordinary legislative process. — 2025-06-28
 
-4. President Trump criticized Netanyahu’s corruption trial and threatened to suspend US aid to Israel: Trump’s threat to withhold US aid unless Netanyahu’s corruption trial was curbed showed willingness to use American state power to influence a foreign judiciary for political allies’ benefit. — 2025-06-28
+4. President Trump ordered military strikes on Iranian nuclear sites: The strikes showed direct presidential use of military force with major consequences for war powers, oversight, and foreign policy accountability. — 2025-06-28
 
-5. President Trump issued an executive order indemnifying and enhancing protections for law enforcement officers: Trump’s order to provide legal resources and indemnification for officers, and to enhance penalties for crimes against them, strengthened state coercive power while weakening accountability for rights violations. — 2025-06-30
+5. HHS Secretary Robert F. Kennedy Jr. assumed direct control over the CDC without a confirmed director: The arrangement concentrated control over a major public health agency in a political appointee and weakened normal leadership safeguards. — 2025-06-29
 
-6. President Trump issued an executive order revoking major Syria sanctions and ending a national emergency: Revoking longstanding Syria sanctions and redefining the national emergency framework concentrated foreign economic policy decisions in the presidency, with limited contemporaneous legislative input. — 2025-06-30
+6. President Trump signed an executive order lifting some Syria sanctions: The order changed U.S. sanctions policy through presidential action, showing broad executive discretion in foreign economic and diplomatic policy. — 2025-06-30
 
-7. Department of Justice under President Trump directed attorneys to prioritize denaturalization of certain naturalized citizens: DOJ’s memo prioritizing civil denaturalization cases, where defendants lack a right to counsel, created a more precarious, second-tier citizenship vulnerable to executive-driven enforcement. — 2025-06-30
+7. The Justice Department directed attorneys to prioritize denaturalization cases: The directive expanded executive power over citizenship status and raised due process concerns for naturalized Americans. — 2025-06-30
 
-8. President Trump met with Republican holdouts to press them to support his budget megabill: Trump’s direct lobbying of skeptical Republicans to back his reconciliation bill underscored the president’s dominant role in shaping legislative outcomes on core fiscal and social policy. — 2025-07-02
+8. President Trump demanded passage of the budget bill by July 4: The demand pressed Congress to move on the executive's timetable and reinforced presidential leverage over the legislative process. — 2025-06-30
 
-9. President Trump threatened to back primary challengers against Republicans opposing his budget bill: By threatening primary challenges to GOP lawmakers who opposed his megabill, Trump used personal political power to discipline legislators and narrow space for intra-party dissent. — 2025-07-02
+9. Governor Ron DeSantis announced the opening of the Alligator Alcatraz detention center: The new detention site expanded coercive state capacity over migrants through a large, fast-tracked confinement facility. — 2025-07-01
 
-10. President Trump withheld $6.8 billion in legally appropriated K–12 school funding: The administration’s refusal to disburse congressionally mandated school funds asserted executive power over the purse, undermining statutory budgeting and disrupting educational services nationwide. — 2025-07-02
+10. President Trump threatened to cut subsidies for Elon Musk's companies: The threat suggested use of state economic power against a prominent critic, blurring policy tools with personal retaliation. — 2025-07-01
 
-11. President Trump pressured House Freedom Caucus members to back the Senate budget bill without changes: Trump’s successful effort to flip House Freedom Caucus members into supporting the Senate bill without amendments showed executive dominance over internal legislative bargaining. — 2025-07-02
+11. The Trump administration withheld nearly $7 billion in federal school funding: The withholding tested executive control over congressionally appropriated funds and put federal leverage over schools at the center of a legal dispute. — 2025-07-01
 
-12. President Trump promised to fix disliked bill provisions later via executive orders: Trump’s assurance that he would later alter statutory provisions through executive orders encouraged legislators to rely on unilateral presidential action instead of transparent legislative revision. — 2025-07-02
+12. President Trump met with House Republican holdouts and pressured them to back the budget bill: The intervention showed direct presidential pressure on lawmakers and narrowed Congress's independence in a major fiscal vote. — 2025-07-02
 
-13. President Trump called for investigations of political opponents and threatened arrest of Zohran Mamdani: Trump’s demand to investigate DHS Secretary Mayorkas and threat to arrest mayoral candidate Zohran Mamdani for noncooperation with ICE exemplified use of state power to intimidate political adversaries. — 2025-07-02
+13. President Trump called for an investigation of Alejandro Mayorkas and threatened Zohran Mamdani with arrest [single source]: The threats pointed to use of state investigative and immigration powers against political opponents and critics. — 2025-07-02
 
-14. President Trump suggested deporting US citizens who commit crimes: Trump’s public suggestion that US-born citizens who commit crimes should be deported challenged core constitutional protections and blurred the line between citizenship and deportable status. — 2025-07-01
+14. President Trump said U.S. citizens who commit crimes should be deported [single source]: The statement challenged basic citizenship protections and normalized executive rhetoric against constitutional limits on expulsion. — 2025-07-02
 
-15. President Trump threatened to cut federal subsidies to Elon Musk’s companies over political criticism: Trump’s threat to revoke subsidies from Musk’s firms in retaliation for criticism of his tax bill showed willingness to wield economic state power against disfavored business actors. — 2025-07-01
+15. President Trump visited the new Florida detention facility for undocumented immigrants: The visit publicly aligned presidential authority with a large new detention project and a more punitive immigration posture. — 2025-07-02
 
-16. President Trump suggested deporting Elon Musk amid their political feud: Floating the idea of deporting Musk during a political dispute illustrated the president’s readiness to frame immigration enforcement as a tool of personal retaliation. — 2025-07-01
+16. The EPA launched a public animal adoption program while planning deep research cuts [single source]: The move reflected executive-led restructuring of federal scientific capacity and a shift away from long-term public research functions. — 2025-07-03
 
-17. President Trump visited and publicly promoted a massive new migrant detention facility in Florida: Trump’s visit to the Everglades detention complex, framed as a centerpiece of his immigration agenda, symbolized executive commitment to large-scale, punitive detention as a governing tool. — 2025-07-02
+17. President Trump issued an order creating the President's Make America Beautiful Again Commission: The order created a new presidential policy body and expanded White House direction over conservation and public land priorities. — 2025-07-03
 
-18. President Trump signed the One Big Beautiful Bill Act and related tax-and-spending legislation into law: By signing sweeping tax-and-spending laws that cut safety nets and massively expand enforcement powers, Trump locked core elements of his agenda into statute, reshaping state power and obligations. — 2025-07-04
+18. President Trump issued an order changing national park fee policy and revoking a diversity memorandum: The order used executive authority to reshape federal cultural policy and public access rules without new legislation. — 2025-07-03
 
-19. President Trump launched a personal Trump Fragrances merchandise line while in office: Trump’s launch of a high-priced fragrance line tied to his name raised concerns about using the presidency to market private goods, blurring boundaries between public office and personal enrichment. — 2025-06-30
-
-20. President Trump admitted allowing Iran to bomb a US air base in retaliation for US strikes: Trump’s admission that he permitted Iran to strike a US base highlighted highly personalized control over military risk decisions, with limited transparency or institutional checks. — 2025-06-30
-
-21. President Trump announced talks to potentially reopen the federal prison on Alcatraz Island: Trump’s claim that private prison developers were exploring reopening Alcatraz suggested further expansion of punitive incarceration capacity, potentially via private partners. — 2025-07-01
-
-22. President Trump signed executive orders creating a Make America Beautiful Again conservation commission and changing national park policies: Trump’s conservation-themed orders centralized agenda-setting over public lands, raising fees for nonresidents and revoking diversity directives while expanding executive influence over park access and symbolism. — 2025-07-03
+19. President Trump signed the One Big Beautiful Bill Act into law: The signing turned a major executive-backed agenda into law, combining large social program cuts with expanded immigration enforcement power. — 2025-07-04
 
 
 Institutions and Governance
 
-1. Representative Yassamin Ansari and co-sponsors advanced a War Powers Resolution to reassert congressional authority over Iran conflict: Ansari’s co-sponsorship of a War Powers Resolution sought to reclaim Congress’s constitutional role in authorizing war, pushing back against unilateral presidential military action. — 2025-06-28
+1. Representative Yassamin Ansari co-sponsored a War Powers Resolution: The measure sought to reassert Congress's constitutional role over military action and check unilateral presidential war decisions. — 2025-06-28
 
-2. US Senate voted down a resolution limiting Trump’s ability to escalate war with Iran: The Senate’s rejection of a war-powers limit on Trump preserved broad executive discretion over military escalation, weakening legislative checks on war-making. — 2025-06-28
+2. The Senate voted down a resolution to restrict further military escalation against Iran: The vote left war-making authority more concentrated in the executive branch and weakened a legislative check on armed conflict. — 2025-06-28
 
-3. US Senate advanced Trump’s budget reconciliation megabill through key procedural votes: Narrow procedural votes to advance Trump’s megabill enabled sweeping fiscal and social changes via reconciliation, sidestepping the filibuster and compressing deliberation on major structural reforms. — 2025-06-28
+3. The Senate parliamentarian ruled that several budget bill provisions violated reconciliation rules [single source]: The ruling enforced internal Senate limits on what could pass by simple majority and tested procedural guardrails in a major bill. — 2025-06-28
 
-4. Senate Parliamentarian ruled several budget bill provisions violated reconciliation rules: The parliamentarian’s finding that certain targeted Medicaid and state provisions breached the Byrd rule underscored internal procedural limits on partisan budget maneuvers. — 2025-06-28
+4. The Supreme Court limited lower courts' ability to issue nationwide injunctions in Trump v. CASA: The ruling reduced a key judicial check on federal policy and increased the executive's room to act while litigation proceeds. — 2025-06-28
 
-5. Senate Republicans bypassed the Senate Parliamentarian and GAO to advance Trump’s megabill and revoke EPA waivers: By overruling the parliamentarian and GAO on reconciliation and Congressional Review Act procedures, Senate Republicans weakened nonpartisan guardrails that constrain majority power. — 2025-06-29
+5. Senator Thom Tillis announced he would not seek re-election after clashing with President Trump: The retirement showed how presidential pressure could narrow space for independent action within the governing party. — 2025-06-28
 
-6. US Senate adopted a current policy baseline treating trillions in tax cuts as costless: The Senate’s adoption of a baseline that assumes permanent tax cuts with no scored cost distorted budget accounting, easing passage of deficit-expanding policies without transparent tradeoffs. — 2025-06-29
+6. Senate Republicans advanced the budget reconciliation bill for debate: The vote moved a sweeping fiscal package forward despite narrow margins and set up a high-stakes test of congressional procedure. — 2025-06-28
 
-7. House Freedom Caucus and leadership publicly criticized but ultimately advanced the Senate budget bill: Freedom Caucus leaders decried the bill’s deficit impact yet moved it forward, illustrating how partisan loyalty can override stated fiscal principles in legislative practice. — 2025-06-29
+7. The Senate opened formal debate and amendment votes on the budget reconciliation bill: The process exposed how a major bill was being pushed through reconciliation, concentrating policy change in a compressed procedural channel. — 2025-06-29
 
-8. US Senate passed Trump’s budget reconciliation bill with Vice President Vance’s tie-breaking vote: The Senate’s tie-breaking passage of the megabill, despite internal dissent, showed a narrowly controlled chamber enacting far-reaching changes with minimal bipartisan support. — 2025-06-30
+8. The Senate passed the budget bill with Vice President JD Vance casting the tie-breaking vote: The passage showed how a narrow majority and reconciliation rules enabled major policy change with limited bipartisan support. — 2025-06-30
 
-9. President Trump urged Senate Republicans to ignore the parliamentarian’s budget ruling: Trump’s call to disregard the parliamentarian framed procedural referees as obstacles to be overridden, eroding respect for internal legislative rule enforcement. — 2025-06-30
+9. Senate Republicans voted to treat extension of Trump tax cuts as costing zero for reconciliation purposes [single source]: The vote changed budget scoring practice in a way that weakened fiscal constraints and expanded majority power under Senate rules. — 2025-06-30
 
-10. House Republican leadership kept a procedural vote open for hours seeking support for the budget bill: Extending a House vote for over two hours to flip members on the megabill highlighted procedural manipulation to secure outcomes rather than reflect settled majorities. — 2025-07-02
+10. President Trump urged senators to ignore the Senate parliamentarian: The appeal challenged an internal procedural check and pressed lawmakers to bypass institutional limits for partisan ends. — 2025-06-30
 
-11. US House of Representatives adopted the Senate’s budget bill without amendments after intense pressure: The House’s decision to pass the Senate version unchanged, despite earlier promises of revisions, underscored how leadership and executive pressure can override normal bicameral negotiation. — 2025-07-02
+11. The Supreme Court agreed to hear a case challenging coordinated campaign spending limits: The case put existing campaign finance restraints at risk and could further expand the role of money in elections. — 2025-06-30
 
-12. Senator Hakeem Jeffries and House Democrats used an eight-hour floor speech to delay the tax-and-spending bill: Jeffries’ record-length speech leveraged minority procedural tools to spotlight the bill’s social impacts, illustrating how opposition can still use institutional mechanisms to inform the public. — 2025-07-03
+12. Sixteen Democratic attorneys general sued the Trump administration over canceled school mental health funding [single source]: The lawsuit used the courts to contest executive cancellation of congressionally backed public service funding. — 2025-06-30
 
-13. Supreme Court of the United States limited federal courts’ ability to issue nationwide injunctions against federal policies: By curbing nationwide injunctions, the Court reduced lower courts’ capacity to uniformly block contested federal actions, likely producing fragmented rights protections across jurisdictions. — 2025-06-28
+13. The Supreme Court declined to hear Children's Health Defense's social media censorship case [single source]: The order left lower-court outcomes in place and kept unresolved questions about government influence over platform moderation. — 2025-06-30
 
-14. Supreme Court of the United States allowed partial enforcement of Trump’s birthright citizenship executive order: The Court’s refusal to fully block Trump’s order limiting birthright citizenship enabled uneven application of a core constitutional protection while sidestepping the underlying rights question. — 2025-06-30
+14. The Supreme Court issued multiple grant-vacate-remand orders and one opinion in pending cases: The orders and opinion reshaped lower-court proceedings across several disputes and showed the Court's broad supervisory role over national law. — 2025-06-30
 
-15. Supreme Court of the United States agreed to hear a challenge to coordinated campaign spending limits: By taking a case that could loosen limits on party–candidate coordinated spending, the Court positioned itself to further expand money’s influence over elections. — 2025-06-30
+15. The Election Assistance Commission announced a public meeting on voting system certification: The meeting supported transparent administration of election technology standards that affect trust in vote counting systems. — 2025-06-30
 
-16. Supreme Court of the United States declined to hear an anti-vaccine group’s social media censorship lawsuit: The Court’s decision not to review Children’s Health Defense’s claims left unresolved questions about government influence over platform moderation and free speech online. — 2025-06-30
+16. The Delaware legislature passed the Freedom to Read Act [single source]: The law aimed to limit book bans and protect access to contested educational materials through state legislative action. — 2025-06-30
 
-17. Supreme Court of the United States was reported to have granted presidents absolute immunity for official acts: The Trump v. United States ruling granting absolute immunity for official acts dramatically weakened legal accountability for presidents, undermining the principle that no one is above the law. — 2025-07-02
+17. The House of Representatives passed a budget version with a sharply higher university endowment tax [single source]: The vote used federal tax policy to reshape university finances and potentially constrain research and educational independence. — 2025-06-30
 
-18. US District Court and federal judiciary ruled Trump’s asylum ban unlawful and blocked its enforcement: Judge Randolph Moss’s decision striking down Trump’s border asylum ban, echoed by another federal judge, reaffirmed statutory limits on presidential power over asylum access. — 2025-07-02
+18. California overhauled CEQA through budget trailer bills [single source]: The change reduced environmental review and public process requirements, altering how state oversight works in development decisions. — 2025-07-01
 
-19. Coalition of state attorneys general sued the Trump administration over sharing Medicaid data with DHS for immigration enforcement: Twenty attorneys general challenged federal sharing of Medicaid data with DHS, defending privacy norms and seeking to limit health programs’ use as immigration enforcement tools. — 2025-07-01
+19. The Senate voted 99-1 to remove a proposed federal ban on state AI regulation from the bill: The amendment preserved state regulatory authority and showed that even a fast-moving bill could still be altered by overwhelming Senate opposition. — 2025-07-01
 
-20. Democratic state attorneys general sued the Trump administration over termination of school-based mental health funds: Sixteen attorneys general sued to restore over $1 billion in school mental health funding, asserting that the administration’s cuts violated statutory commitments to student services. — 2025-06-30
+20. Senate Republicans overrode procedural and advisory constraints to move major legislation and prior EPA waiver resolutions [single source]: The moves weakened internal congressional guardrails by sidelining established procedural referees and precedent. — 2025-07-01
 
-21. Federal courts blocked Trump administration attempts to fire HHS staff and terminate Haitians’ TPS: Judges temporarily halted mass HHS firings and the end of TPS for Haitians, showing courts still acting as a check on abrupt executive moves against civil servants and vulnerable immigrants. — 2025-07-01
+21. A federal appeals court rejected the Trump administration's effort to detain Badar Khan Suri during deportation proceedings [single source]: The ruling preserved due process protections and limited executive detention power while the case continued. — 2025-07-01
 
-22. Federal appeals court rejected the administration’s effort to detain Georgetown scholar Badar Khan Suri during deportation fight: An appeals court’s refusal to detain Suri pending deportation proceedings modestly constrained executive detention power in a high-profile academic’s case. — 2025-07-01
+22. A federal judge blocked mass firings at HHS: The order checked executive restructuring of a major agency and reinforced legal limits on administrative dismissals. — 2025-07-01
 
-23. US Supreme Court allowed deportation of eight men from a US base in Djibouti to South Sudan: By clearing deportations despite torture concerns, the Court narrowed protections for noncitizens facing removal to dangerous third countries, deferring to executive removal decisions. — 2025-07-03
+23. A federal judge blocked the termination of Haitians' TPS: The ruling temporarily preserved humanitarian protections and showed the courts still acting as a brake on executive immigration policy. — 2025-07-01
 
-24. US Supreme Court ruled parents may opt children out of LGBTQ+-themed lessons on religious grounds: The Mahmoud v. Taylor decision expanded parental opt-outs from inclusive curricula, complicating schools’ ability to provide uniform civic and rights education. — 2025-07-03
+24. Twenty state attorneys general sued the Trump administration over Medicaid data sharing with DHS: The lawsuit challenged executive use of sensitive health data for immigration enforcement and tested privacy limits across agencies. — 2025-07-01
 
-25. US Supreme Court agreed to hear appeals on state bans of transgender students in girls’ sports: By taking up Idaho and West Virginia’s trans sports bans, the Court positioned itself to reshape federal protections against discrimination for transgender students. — 2025-07-03
+25. The Supreme Court invited an amicus to defend the judgment below in NRSC v. FEC: The order shaped how the Court would hear a campaign finance case with possible consequences for election spending rules. — 2025-07-01
 
-26. Wisconsin Judge Hannah Dugan and FBI saw a sitting judge arrested by federal agents for alleged obstruction in an immigration case: The FBI’s arrest of Judge Dugan for actions in her courtroom raised alarms about federal law enforcement encroaching on judicial independence in politically charged immigration disputes. — 2025-06-30
+26. The House of Representatives struggled through procedural votes and extended voting time on the budget bill [single source]: The episode highlighted leadership pressure, weak internal consensus, and procedural stretching in a major legislative fight. — 2025-07-02
 
-27. US Election Assistance Commission scheduled a public meeting on certification of a voting system under VVSG 2.0: The EAC’s open meeting on voting system certification reflected ongoing institutional efforts to standardize and publicly vet election technology. — 2025-06-30
+27. The House of Representatives adopted the Senate budget bill without amendments: The vote showed the House yielding to a Senate-passed package under intense party pressure, limiting deliberative revision. — 2025-07-02
 
-28. DeKalb County Board of Registration and Elections appointed election denier Gail Lee to the county elections board: Installing a known election denier on a key county board risked undermining public confidence in election administration and opened the door to partisan interference in local processes. — 2025-07-02
+28. Trump's housing regulator called on Congress to investigate Federal Reserve Chair Jerome Powell: The call put political pressure on an independent economic institution and tested norms protecting central bank autonomy. — 2025-07-02
 
-29. Representative Marge Greene introduced a bill for a citizens-only census and redistricting: Greene’s proposal to base apportionment on a citizens-only census would reduce representation for areas with many noncitizens, structurally shifting political power and voting weight. — 2025-07-02
+29. A federal court ruled Trump's asylum ban unlawful: The decision reaffirmed statutory and constitutional limits on executive immigration power and protected access to asylum claims. — 2025-07-02
 
-30. Office of Special Counsel nominating authorities selected Paul Ingrassia, a conspiracy theorist, to lead the Office of Special Counsel: Choosing an official who spread conspiracy theories to head the OSC threatened the credibility and impartiality of a key federal ethics and whistleblower protection office. — 2025-07-02
+30. A Chicago judge overturned the convictions of six men in a 1987 murder case [single source]: The exonerations exposed long-term institutional failures in policing and prosecution and restored accountability through judicial review. — 2025-07-02
 
-31. Department of Justice allowed a former January 6 defendant to advise its weaponization working group: Bringing a January 6 defendant into a DOJ advisory role on alleged weaponization signaled politicization of internal justice oversight and blurred lines between accountability and grievance politics. — 2025-07-02
+31. Senator Elizabeth Warren called for an investigation into Paramount's settlement with Trump: The request sought oversight of whether a major media settlement involved unlawful influence or corruption concerns. — 2025-07-02
 
-32. Senator Elizabeth Warren called for an investigation into possible bribery in Trump’s settlement with Paramount: Warren’s request for an anti-bribery probe into a large settlement between Trump and Paramount highlighted concerns that private legal deals may be used to purchase favorable treatment from powerful officials. — 2025-07-02
+32. Congress passed the One Big Beautiful Bill Act after final House approval: The final passage completed a major policy shift through a narrow partisan process that tested congressional independence and procedure. — 2025-07-03
 
-33. Homeland Security Secretary Kristi Noem failed to disclose an $80,000 payment from a dark-money group while governor: Noem’s undisclosed payment from a dark-money fund that attacked local media raised red flags about transparency and conflicts of interest in a senior national security official’s finances. — 2025-07-01
+33. The Supreme Court allowed the deportation of eight men to South Sudan: The order narrowed lower-court protection against third-country removal and strengthened executive control over deportation outcomes. — 2025-07-03
+
+34. The Supreme Court agreed to hear cases on transgender sports bans and other disputes: The grants put major civil rights and governance questions on the Court's docket, signaling possible national legal change ahead. — 2025-07-03
 
 
 Economic Structure
 
-1. Trump administration and congressional Republicans advanced and enacted the One Big Beautiful Bill Act with major tax cuts and safety net reductions: The megabill permanently extended 2017 tax cuts, slashed Medicaid, SNAP, and other supports, and expanded enforcement and defense spending, structurally redistributing resources upward and deepening inequality. — 2025-07-04
+1. Senate Republicans advanced and defended a budget bill that cut Medicaid, SNAP, and clean energy support while extending tax cuts: The bill shifted public resources upward, weakened the safety net, and tied fiscal policy to a more unequal economic structure. — 2025-06-28
 
-2. Senate Republicans included new taxes and penalties targeting renewable and advanced energy projects: Provisions taxing wind, solar, nuclear, geothermal, and storage projects, while adding credits for metallurgical coal, shifted federal energy policy toward fossil fuels and away from clean generation. — 2025-06-29
+2. The Senate budget bill allocated tens of billions of dollars for ICE detention, removal, and hiring: The funding plan redirected large public sums toward detention infrastructure and expanded the economic base of immigration enforcement. — 2025-06-28
 
-3. Congressional Budget Office and economic agencies reported that Trump’s policies widened the trade deficit, weakened the dollar, and shrank GDP: Official data showing a larger trade deficit, a sharp dollar decline, and a 0.5% GDP contraction undercut administration claims of self-financing tax cuts and robust growth. — 2025-06-30
+3. The U.S. goods trade deficit widened despite tariffs [single source]: The data undercut the claimed economic payoff of tariff policy and raised accountability questions about executive trade strategy. — 2025-06-28
 
-4. Federal Communications Commission suspended and postponed rules capping prison phone rates: By delaying implementation of price caps on prison calls and citing facility finances, the FCC preserved a system that extracts high fees from incarcerated people and their families. — 2025-07-03
+4. Canada rescinded its digital services tax and resumed trade negotiations with the Trump administration: The move showed how trade pressure could reshape foreign tax policy and affect the regulatory environment for major technology firms. — 2025-06-29
 
-5. US government and ICE allocated unprecedented funding for immigration jails, enforcement, and border wall construction: The megabill’s $172 billion for immigration enforcement, including $45 billion for new jails and $50+ billion for wall projects, entrenched a carceral border regime with resources rivaling core justice institutions. — 2025-06-30
+5. The EPA finalized updated emission standards for solid waste incineration units: The rule adjusted environmental compliance duties and showed federal regulatory power over industrial pollution and public health costs. — 2025-06-30
 
-6. Trump administration withheld nearly $7 billion in federal school funding for multiple education programs: Freezing billions in K–12 and adult education funds disrupted services for vulnerable students and signaled willingness to use appropriations holdups as a policy weapon. — 2025-07-01
+6. The EPA issued a technical amendment updating OMB approvals under the Paperwork Reduction Act: The update maintained regulatory recordkeeping infrastructure that supports transparency and administrative compliance. — 2025-06-30
 
-7. US Department of Labor under Trump announced plans to roll back over 60 worker protection regulations: Planned deregulation of minimum wage, overtime, farmworker union rights, and anti-discrimination rules would weaken labor standards and shift bargaining power further toward employers. — 2025-07-01
+7. The U.S. economy contracted by 0.5% in the first quarter [single source]: The contraction raised questions about the economic effects of tariff policy and the administration's stewardship of growth and prices. — 2025-06-30
 
-8. Occupational Safety and Health Administration revoked requirements to consult a construction safety advisory committee in rulemaking: OSHA’s removal of mandatory consultation with its construction safety committee streamlined rule changes but reduced expert and worker input into safety standards. — 2025-07-01
+8. The FCC postponed lower prison and jail phone rate rules for two years [single source]: The delay preserved high communication costs for incarcerated people and their families, favoring operators over a captive public. — 2025-06-30
 
-9. Environmental Protection Agency finalized and adjusted multiple environmental and emissions rules and deadlines: EPA actions tightening some incineration standards while extending compliance for coatings and steel plants reflected a mixed regulatory posture balancing industry petitions with environmental protections. — 2025-07-02
+9. USCIS proposed limiting student visa duration and requiring periodic renewals [single source]: The proposal would add uncertainty and administrative burden to higher education and the economy sectors that rely on international students. — 2025-06-30
 
-10. Food and Drug Administration and related agencies issued numerous patent, guidance, and information-collection decisions affecting drugs and devices: FDA’s determinations on patent review periods, guidance drafts, and data collections shaped market exclusivity and regulatory pathways for pharmaceuticals and medical devices. — 2025-07-02
+10. President Trump announced a Trump Fragrances merchandise line [single source]: The launch raised conflict-of-interest concerns by blending presidential prominence with private commercial gain. — 2025-06-30
 
-11. Federal Communications Commission modernized broadband data collection certification and advanced paperwork changes: FCC’s shift from professional engineer certification to experienced engineers and its paperwork revisions aimed to reduce compliance burdens while maintaining data quality for broadband and communications services. — 2025-07-01
+11. The DEA approved and denied applications for exempt chemical preparations: The notice affected how controlled substances are regulated for research and industry, shaping compliance costs and access. — 2025-07-01
 
-12. Transportation Security Administration extended and revised information collections on service feedback and surface transportation security: TSA’s information collection extensions supported ongoing oversight of transportation security training and stakeholder feedback, affecting regulatory compliance for rail and hazardous materials operators. — 2025-07-02
+12. The FCC eased broadband data collection certification requirements: The change reduced compliance burdens for providers while altering how the government verifies infrastructure reporting. — 2025-07-01
 
-13. Office of Management and Budget and federal procurement agencies sought extensions of multiple contractor-related information collections: OMB and procurement agencies’ submissions on fleet vehicles, change orders, commercial acquisitions, and private security contractors maintained data needed for oversight of federal contracting. — 2025-07-03
+13. OSHA revoked advisory consultation requirements for construction safety rulemaking and reduced committee membership: The rule cut procedural checks in workplace safety regulation and made it easier to change standards with less outside input. — 2025-07-01
 
-14. National Restaurant Association requested immigration enforcement relief due to labor shortages: The restaurant industry’s plea for targeted relief from immigration crackdowns highlighted how aggressive enforcement policies can disrupt labor-dependent sectors and economic stability. — 2025-07-01
+14. The Labor Department announced plans to deregulate more than 60 worker protection rules: The plan would weaken wage, overtime, union, and anti-discrimination protections, increasing worker dependence and employer leverage. — 2025-07-01
 
-15. University of Pennsylvania and Trump administration agreed on guidelines barring trans athletes from women’s sports and erasing Lia Thomas’s records: UPenn’s agreement to exclude trans women from women’s sports and erase records under federal pressure showed how funding leverage can reshape institutional policies and recognition. — 2025-07-01
+15. The National Restaurant Association asked President Trump for targeted relief from the immigration crackdown [single source]: The request showed how enforcement policy was disrupting labor supply in a major industry and feeding business dependence on executive discretion. — 2025-07-01
 
-16. House of Representatives passed a budget increasing endowment taxes on wealthy universities: Raising the endowment tax from 1.4% to as high as 21% for institutions like Stanford significantly altered federal financing of higher education and research capacity. — 2025-06-30
+16. The University of Pennsylvania blocked trans athletes from women's sports under an agreement with the Trump administration [single source]: The agreement showed how federal pressure could reshape university policy through funding and compliance leverage. — 2025-07-01
 
-17. Trump administration withheld Medicare funds and cut coverage for legal immigrants through new law: A new law increasing the deficit while triggering large Medicare cuts, including terminating coverage for many legal immigrants, shifted health risks onto older and immigrant populations. — 2025-07-04
+17. The EPA canceled certain pesticide registrations and uses: The order changed market access for agricultural chemicals and affected environmental and public health risk management. — 2025-07-02
 
-18. Environmental Protection Agency launched an animal adoption program amid deep cuts to its research arm: EPA’s lab animal adoption program, occurring alongside plans to slash its research workforce, signaled a retreat from long-term scientific capacity in favor of short-term projects. — 2025-07-03
+18. The EPA received an emergency exemption request for use of an unregistered insecticide on onions: The request showed how emergency regulatory pathways can bypass normal comment periods in response to agricultural pressure. — 2025-07-02
 
-19. Federal agencies and courts faced a lawsuit over EPA’s handling of sewage sludge and PFAS pollution: Litigation alleging EPA Clean Water Act violations over sewage sludge spreading sought to force stronger regulation of PFAS contamination affecting drinking water and public health. — 2025-07-04
+19. The EPA extended compliance deadlines for aerosol coatings and iron and steel emissions rules: The extensions delayed pollution-control obligations and favored industry adjustment over immediate enforcement of environmental standards. — 2025-07-02
 
-20. Federal Reserve critics within the Trump administration called on Congress to investigate Fed Chair Jerome Powell for alleged bias: A top housing regulator’s push to investigate and potentially remove the Fed chair over supposed political bias threatened central bank independence and could politicize monetary policy. — 2025-07-02
+20. The EPA sought comments on renewing TSCA substantial-risk reporting requirements: The notice maintained a reporting system that underpins federal oversight of chemical risks to health and the environment. — 2025-07-02
 
-21. Lancet researchers and USAID policymakers reported that US foreign aid cuts could cause millions of additional global deaths: A Lancet study projected that Trump-era USAID reductions could lead to over 14 million extra deaths abroad, underscoring how US budget choices reshape global public health outcomes. — 2025-06-30
+21. The FCC issued paperwork notices and corrections for information collection reviews: The notices affected how communications businesses meet federal reporting duties and participate in regulatory review. — 2025-07-02
+
+22. The FDA issued patent review determinations, draft guidance, and information collection notices across drugs, devices, and food safety: The actions shaped market exclusivity, compliance burdens, and public health oversight across major regulated industries. — 2025-07-02
+
+23. The TSA extended and revised information collection programs for service feedback and surface transportation security: The changes affected how transportation operators report security information and how the agency manages oversight burdens. — 2025-07-02
+
+24. The EPA added three contaminated sites to the National Priorities List: The listing directed federal cleanup resources toward hazardous sites and reinforced the public-good role of environmental remediation. — 2025-07-03
+
+25. The EPA extended comment periods for two environmental impact statements: The extension increased public participation time in major infrastructure decisions that carry long-term environmental and economic effects. — 2025-07-03
+
+26. The FCC sought comments on extending communications information collection requirements: The notice affected compliance duties for broadcasters and cable operators and the transparency of regulated communications markets. — 2025-07-03
+
+27. The FDA announced OMB approvals, public meetings, guidance, and comment requests across multiple regulatory programs: The actions maintained the administrative machinery that governs drug safety, food oversight, tobacco warnings, and device review. — 2025-07-03
+
+28. OMB, the Defense Department, GSA, and NASA submitted procurement-related information collection reviews for contractors: The submissions affected oversight of federal contracting, including defense, security, and commercial acquisition practices. — 2025-07-03
+
+29. The One Big Beautiful Bill Act became law and restructured taxes, benefits, and federal spending [single source]: The law entrenched tax advantages for higher earners while cutting health and food support, deepening inequality through statute. — 2025-07-04
+
+30. Recent education and labor data showed declining enrollment, weaker graduate job prospects, and shrinking stable academic and public-sector paths [single source]: The trends pointed to a more insecure opportunity structure for young adults and a weaker pipeline into civic and professional institutions. — 2025-07-04
 
 
 Civil Rights and Dissent
 
-1. Immigration and Customs Enforcement and DHS conducted aggressive raids, detentions, and deportations affecting long-term residents and military families: ICE operations targeting veterans’ relatives, long-term residents, and workers, often without serious criminal records, illustrated a punitive enforcement regime with broad collateral damage to families and communities. — 2025-06-28
+1. Huntington Park police arrested a man accused of impersonating an ICE officer: The case showed how fear around immigration enforcement can create openings for abuse that undermine public trust and personal security. — 2025-06-28
 
-2. Trump administration moved to terminate Temporary Protected Status for approximately 500,000 Haitians: Ending TPS for Haitians would strip legal status from hundreds of thousands of residents, exposing them to deportation despite longstanding ties to US communities. — 2025-06-28
+2. Federal agents raided a California home with an explosive device during an immigration operation: The raid raised concerns about proportionality, transparency, and the use of militarized force in civilian immigration enforcement. — 2025-06-28
 
-3. Federal judge temporarily blocked termination of TPS for Haitians: A court order halting TPS termination for Haitians provided temporary protection against mass deportations, illustrating judicial resistance to abrupt status revocations. — 2025-07-01
+3. ICE arrested or deported several people with deep family or military ties to the United States [single source]: The cases showed how aggressive immigration enforcement can override long residence, family ties, and humanitarian considerations. — 2025-06-28
 
-4. Trump administration and HHS shared Medicaid data with DHS for immigration enforcement, prompting a multistate lawsuit: Using Medicaid records to aid deportations blurred lines between health care and policing, risking deterrence from seeking care and undermining trust in public programs. — 2025-07-02
+4. Reports from detention facilities described overcrowded and inhumane conditions in ICE custody [single source]: The accounts raised rights and accountability concerns about the treatment of detainees under expanded immigration enforcement. — 2025-06-28
 
-5. US District Court ordered Kilmar Abrego Garcia to remain in custody to prevent immediate deportation: A judge’s order keeping Abrego Garcia in custody to avoid rapid deportation highlighted the tension between immigration enforcement speed and due process protections. — 2025-06-30
+5. Protesters held No Kings demonstrations across the country: The large turnout showed broad civic mobilization against perceived authoritarian governance and defended the public role of dissent. — 2025-06-28
 
-6. US government and ICE attempted to deport stateless Palestinian Ward Sakeik despite a court order, then released her: ICE’s efforts to deport Sakeik in defiance of a federal order, followed by her eventual release, exposed serious compliance issues with judicial rulings in immigration cases. — 2025-07-03
+6. Protesters demonstrated against the Alligator Alcatraz detention facility in the Everglades [single source]: The protests challenged the use of emergency power and detention expansion in immigration policy. — 2025-06-28
 
-7. Trump administration and RFK Jr. at HHS assumed direct control of CDC and reshaped vaccine advisory panels: With no CDC director in place, RFK Jr.’s dismissal of independent vaccine advisers and policy shifts raised concerns about politicized public health guidance and reduced expert oversight. — 2025-06-29
+7. Mark Richards's Catholic school fired him after learning he had married a man [single source]: The firing showed how institutional rules can be used to limit LGBTQ+ equality in employment and public life. — 2025-06-29
 
-8. Trump administration terminated over $1 billion in school-based mental health funding, triggering litigation: Cutting bipartisan mental health funds created after Uvalde weakened school support systems and prompted states to sue to restore promised services. — 2025-06-30
+8. The FBI arrested Wisconsin Judge Hannah Dugan over actions in her courtroom [single source]: The arrest raised concerns about intimidation of judicial actors in immigration-related disputes and the politicization of enforcement. — 2025-06-30
 
-9. Trump administration and Congress enacted a one-year Medicaid ban on Planned Parenthood and similar providers: Blocking Medicaid reimbursements to Planned Parenthood threatened closure of many clinics and reduced access to reproductive and general health care for low-income patients. — 2025-07-04
+9. Federal authorities charged or arrested Democratic officials during immigration-related confrontations: The actions against elected officials raised concerns that law enforcement power was being used to chill oversight and opposition. — 2025-06-30
 
-10. University of Pennsylvania blocked trans athletes from women’s sports and erased Lia Thomas’s records: UPenn’s exclusion of trans women from women’s sports and retroactive record erasure, under federal pressure, curtailed transgender students’ participation and recognition in campus life. — 2025-07-01
+10. ICE held a 75-year-old Cuban man who died in custody: The death underscored the human cost of overcrowded detention and the rights risks created by aggressive enforcement targets. — 2025-06-30
 
-11. US Supreme Court allowed deportation of noncitizens to South Sudan despite torture concerns: The Court’s decision enabling deportations from a US base to South Sudan, over lower-court protections, narrowed safeguards against removal to potential persecution. — 2025-07-03
+11. EPA employees, scientists, and academics signed a declaration dissenting from Trump administration policies [single source]: The declaration showed organized internal dissent against policy changes seen as harmful to public health and environmental protection. — 2025-06-30
 
-12. US Supreme Court expanded parental opt-outs from LGBTQ+-inclusive lessons in public schools: Allowing broad religious opt-outs from LGBTQ+-themed lessons risked fragmenting civic education and marginalizing queer students in classroom content. — 2025-07-03
+12. Environmental groups sued to halt construction of the Alligator Alcatraz detention center: The suit used civil action to challenge a detention project on environmental and rights grounds before it became entrenched. — 2025-07-01
 
-13. US Supreme Court agreed to review state bans on transgender students in girls’ sports: Taking up trans sports bans put the Court at the center of defining equal protection for transgender youth in education and athletics. — 2025-07-03
+13. President Trump suggested he might deport Elon Musk: The remark treated immigration status as a possible tool of political retaliation against a critic. — 2025-07-01
 
-14. Catholic school in Louisiana fired a teacher for being in a same-sex marriage: Terminating a longtime teacher over his same-sex marriage highlighted ongoing conflicts between religious employment policies and LGBTQ+ equality in education workplaces. — 2025-06-29
+14. An immigration judge released journalist Mario Guevara from ICE custody on bond [single source]: The release highlighted the vulnerability of journalists to immigration detention while covering public protest. — 2025-07-01
 
-15. EPA employees, scientists, and academics issued a mass declaration dissenting from Trump-era environmental policies: Over 600 EPA staff and scientists publicly warned that agency policies were undermining its health and environmental mission, exemplifying internal resistance to politicized regulation. — 2025-06-30
+15. Representative Brian Fitzpatrick's constituents held a die-in at his office over proposed healthcare cuts [single source]: The protest showed direct civic pressure on lawmakers over legislation that threatened access to care. — 2025-07-02
 
-16. Protesters and local officials in Florida demonstrated against the Alligator Alcatraz immigration detention facility: Large protests against the Everglades detention complex challenged the expansion of harsh immigration detention and the use of emergency powers to fast-track controversial projects. — 2025-06-28
+16. The family of Jabari Peoples and independent investigators challenged the police account of his fatal shooting and delayed family notification [single source]: The dispute raised accountability concerns about police narratives, transparency, and treatment of families after lethal force. — 2025-07-02
 
-17. Democratic lawmakers were denied entry to inspect the Alligator Alcatraz detention center: Blocking members of Congress from entering a new immigration jail limited democratic oversight of detention conditions and potential rights abuses. — 2025-07-04
+17. Gail Lee joined DeKalb County's board of registration and elections after a history of election denial activism [single source]: The appointment raised concerns that election administration could be shaped by actors who question legitimate results. — 2025-07-02
 
-18. Representative Brian Fitzpatrick’s constituents held a die-in protest at his office against the budget bill’s healthcare cuts: Constituents’ die-in dramatized the human stakes of Medicaid and health cuts, using peaceful protest to pressure a swing-district lawmaker on a pivotal vote. — 2025-07-02
+18. Representative Marjorie Greene introduced a bill for a citizen-only census and redistricting based on that count [single source]: The proposal sought to change representation rules in ways that could reduce political weight for immigrant communities. — 2025-07-02
 
-19. Elon Musk announced a new political party and threatened to fund primary challengers over the budget bill: Musk’s creation of the America Party and pledge to bankroll challengers against pro-bill Republicans showed how billionaire actors can reshape intra-party dynamics and electoral competition. — 2025-06-30
+19. A New York City doctor pleaded guilty to rape and sexual abuse charges involving patients and others [single source]: The case underscored the need for institutional accountability to protect bodily security in medical settings. — 2025-07-02
 
-20. Zohran Mamdani and New York City voters saw Mamdani win the NYC Democratic mayoral primary via ranked-choice voting: Mamdani’s primary victory under ranked-choice rules illustrated how alternative electoral systems can elevate candidates outside traditional party establishments. — 2025-07-01
+20. The U.S. government attempted to deport Ward Sakeik despite a court order: The attempt raised due process concerns by appearing to disregard judicial protection in an immigration case. — 2025-07-02
 
-21. Representative Marge Greene proposed a citizens-only census and redistricting bill: Greene’s bill to exclude noncitizens from apportionment would diminish representation for diverse communities, entrenching unequal political voice based on citizenship status. — 2025-07-02
+21. ICE detained Donna Kashanian in New Orleans despite her long residence and lack of criminal record: The detention showed how broad enforcement sweeps can reach long-settled residents with limited apparent public safety justification. — 2025-07-03
 
-22. Alabama Law Enforcement Agency refused to release body camera footage in the police killing of Jabari Peoples: Withholding footage in a disputed police shooting limited public scrutiny and accountability, deepening mistrust in law enforcement investigations. — 2025-07-02
+22. Photographer Job Garcia filed a claim after being arrested while filming an ICE raid [single source]: The case raised civil liberties concerns about punishing observation and documentation of federal enforcement activity. — 2025-07-03
 
-23. Chicago courts exonerated six men wrongfully convicted in a 1987 murder case: Vacating convictions tied to a detective with a pattern of misconduct highlighted systemic failures in policing and prosecution, while modestly restoring faith in post-conviction review. — 2025-07-02
+23. The Supreme Court ruled that parents could opt children out of LGBTQ+-themed lessons and agreed to hear transgender sports ban cases: The actions put LGBTQ+ inclusion in schools under greater legal pressure and signaled further national conflict over equal treatment. — 2025-07-03
 
-24. US Supreme Court and lower courts blocked Trump’s January asylum ban at the southern border: Courts’ injunctions against Trump’s asylum proclamation preserved statutory rights for border crossers and checked executive attempts to unilaterally suspend asylum access. — 2025-07-02
+24. The El Rancho Unified School District sought a federal inquiry after ICE agents were filmed urinating on school grounds before a raid: The incident raised concerns about federal conduct around children and the use of school spaces during immigration operations. — 2025-07-04
 
-25. US Supreme Court granted presidents absolute immunity for official acts, affecting accountability for rights violations: The immunity ruling made it harder to hold presidents criminally liable for abuses of power, weakening a key backstop against rights-violating executive behavior. — 2025-07-02
+25. Ward Sakeik was released from ICE detention after more than four months: The release showed that legal intervention could still secure relief in a case marked by repeated deportation attempts. — 2025-07-04
 
-26. US government and ICE detained and later released journalist Mario Guevara and photographer Job Garcia over protest coverage: The detention of a journalist and arrest of a photographer documenting ICE operations, followed by legal challenges, underscored risks faced by media workers covering enforcement actions. — 2025-07-01
+26. The 50501 Movement organized Community Days of Action events across the United States [single source]: The events reflected grassroots civic organizing built around mutual aid, local participation, and democratic community life. — 2025-07-04
 
-27. EPA and Trump administration cut research staff while facing a Clean Water Act lawsuit over PFAS pollution: Shrinking EPA’s research arm amid litigation over toxic sludge spreading weakened institutional capacity to investigate and address environmental health harms. — 2025-07-03
+27. Democratic lawmakers were denied entry to the Alligator Alcatraz detention facility [single source]: The denial blocked oversight of a new detention site and raised concerns about secrecy around conditions of confinement. — 2025-07-04
 
-28. US government and ICE agents were filmed urinating on a Los Angeles school campus before a raid, prompting a district complaint: ICE agents’ misconduct on school grounds, and the district’s demand for investigation, highlighted tensions between federal enforcement and community standards protecting children. — 2025-07-04
+28. Surveys and polling showed protest participation and rising socialist sentiment among college-educated youth [single source]: The findings pointed to growing political discontent among younger educated Americans and a widening base for organized dissent. — 2025-07-04
 
 
 Information, Memory and Manipulation
 
-1. President Trump and Homeland Security Secretary Kristi Noem threatened CNN with prosecution over reporting on the ICEBlock app and Iran assessment: Threats to prosecute CNN for coverage of an ICE-tracking app and Iran intelligence signaled direct executive pressure on investigative reporting about security policy. — 2025-07-01
+1. Oklahoma officials moved to teach Trump's election falsehoods in public schools [single source]: The plan would place partisan misinformation inside public education and weaken democratic literacy about elections. — 2025-06-29
 
-2. President Trump suggested forcing reporters to reveal anonymous sources about Iran intelligence: Trump’s suggestion that journalists could be compelled to disclose sources threatened source confidentiality, a cornerstone of investigative reporting on national security. — 2025-06-29
+2. The Department of Homeland Security posted a social media image mocking a planned migrant detention site [single source]: The post used official messaging to normalize dehumanizing treatment of migrants and shape public perception through ridicule. — 2025-06-29
 
-3. Trump administration shut down the US Global Change Research Program’s public climate website: Closing a key federal climate information portal curtailed public access to scientific data and reports, hindering informed debate on environmental policy. — 2025-07-01
+3. President Trump suggested reporters could be forced to reveal sources about Iran intelligence reporting: The threat targeted source protection, a core safeguard for investigative reporting and public accountability. — 2025-06-29
 
-4. Trump administration sent Harvard a letter accusing it of civil rights violations over antisemitism and threatening funding cuts: Federal threats to pull funding from Harvard over contested antisemitism claims risked using civil rights enforcement to pressure campus speech and governance decisions. — 2025-06-30
+4. Tom Homan encouraged the Justice Department to investigate CNN over reporting on the ICEBlock app: The call suggested state retaliation against a news outlet for reporting on a public-facing tool tied to immigration enforcement. — 2025-06-30
 
-5. White House Press Secretary Karoline Leavitt falsely labeled Zohran Mamdani a communist and antisemite during a briefing: Smearing a mayoral candidate with baseless accusations from the White House podium weaponized official communications to delegitimize an opposition figure. — 2025-06-30
+5. The Trump administration warned Harvard it could lose federal funding over alleged antisemitism violations: The warning used funding pressure in a way that raised concerns about federal influence over campus speech and governance. — 2025-06-30
 
-6. President Trump attacked Zohran Mamdani on social media as a “Communist Lunatic”: Trump’s online attacks on Mamdani framed a local candidate as an extremist enemy, contributing to a hostile information environment around elections. — 2025-07-02
+6. White House Press Secretary Karoline Leavitt falsely attacked Zohran Mamdani during a press briefing: The briefing used the White House platform to spread misleading claims about a political candidate and distort public debate. — 2025-06-30
 
-7. Representative Derrick Van Orden posted and deleted a tweet celebrating millions losing Medicaid under the budget bill: Van Orden’s quickly deleted tweet praising Medicaid losses revealed the bill’s harsh intent while illustrating efforts to manage public backlash through message control. — 2025-07-02
+7. Paramount settled Trump's lawsuit over a 60 Minutes interview for $16 million: The settlement raised concerns that costly legal pressure could chill aggressive reporting by major media companies. — 2025-07-01
 
-8. Social Security Administration sent a misleading email overstating tax relief in Trump’s bill: An SSA email wrongly claiming the bill eliminated taxes on Social Security benefits showed how official communications can be used to oversell policies and confuse beneficiaries. — 2025-07-04
+8. Homeland Security Secretary Kristi Noem and President Trump threatened possible prosecution of CNN over its reporting: The threats escalated government pressure on a news outlet and tested the boundary between law enforcement and press intimidation. — 2025-07-01
 
-9. Trump campaign and legal team dropped and refiled a lawsuit against Iowa pollster Ann Selzer in state court: Shifting a suit over unfavorable polling into state court suggested strategic forum shopping that can burden pollsters and chill independent election surveying. — 2025-06-30
+9. The Trump administration shut down the U.S. Global Change Research Program website: The shutdown removed public access to official climate information and narrowed the visible federal record on a major policy issue. — 2025-07-01
 
-10. Paramount and Donald Trump reached a $16 million settlement over a 60 Minutes interview with Kamala Harris: A large settlement with Trump over critical coverage raised concerns that costly litigation can pressure media outlets and influence future editorial decisions. — 2025-07-01
+10. Kristi Noem failed to disclose $80,000 received from a dark money group while governor [single source]: The omission weakened transparency around money and influence tied to a senior public official. — 2025-07-01
 
-11. Alabama Law Enforcement Agency withheld body camera footage in a controversial police shooting case: Refusing to release footage in the Jabari Peoples shooting limited public access to key evidence, undermining transparency in a high-stakes use-of-force investigation. — 2025-07-02
+11. Representative Derrick Van Orden deleted a tweet celebrating Medicaid removals under the budget bill: The deletion showed an effort to manage public backlash and obscure the political meaning of a controversial policy outcome. — 2025-07-02
 
-12. Iran-linked hackers threatened to release stolen emails from Trump associates and White House staff: The threat to leak hacked emails underscored vulnerabilities in political communications and the potential for foreign actors to manipulate domestic narratives with stolen data. — 2025-06-30
-
-13. US Global Change Research Program and Trump administration removed public access to federal climate reports and resources: Taking down a central climate research website effectively erased an accessible archive of government climate findings from public view. — 2025-07-01
-
-14. EPA and Trump administration faced a lawsuit alleging Clean Water Act violations over PFAS-contaminated sludge spreading: The PFAS sludge lawsuit challenged EPA’s regulatory stance and information practices around toxic contamination, pressing for more transparent and protective standards. — 2025-07-04
+12. The Alabama Law Enforcement Agency refused to release body camera footage in the Jabari Peoples shooting case: The refusal limited public scrutiny of police conduct and reduced transparency in a fatal use-of-force case. — 2025-07-02
 <!-- END GENERATED APPENDIX -->

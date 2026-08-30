@@ -308,3 +308,291 @@ Information, Memory and Manipulation
 23. Food and Drug Administration updated recognized standards for medical devices under the Modernization Act: Revising recognized device standards helped align regulatory expectations with current technical norms, facilitating clearer communication between regulators and manufacturers. — 2026-02-19
 
 24. Food and Drug Administration revoked a methods-of-analysis regulation to allow more flexible identification of preferred methods: Eliminating a rigid analytical methods rule allowed FDA to reference updated techniques in guidance, potentially improving scientific accuracy in enforcement. — 2026-02-19
+
+<!-- BEGIN GENERATED APPENDIX -->
+Power and Authority
+
+1. ICE expanded detention operations and planned new processing facilities: The expansion increased federal coercive capacity over immigrants and widened the scale of detention with limited public accountability. — 2026-02-14
+
+2. The Department of Justice issued subpoenas to Minnesota officials: The subpoenas signaled direct federal pressure on state officials and raised concerns about using legal tools to punish political resistance. — 2026-02-14
+
+3. Donald Trump said he would change voting rules without congressional approval [single source]: The statement asserted unilateral control over election rules and tested constitutional limits on executive power over voting. — 2026-02-14
+
+4. The Trump administration scaled back immigration enforcement operations in Minnesota: The drawdown showed that public protest could still affect federal enforcement tactics after a period of aggressive state action. — 2026-02-14
+
+5. Cities, counties, and states created ICE-free zones in public spaces [single source]: Local governments used their own authority to limit federal immigration access to public sites and protect residents seeking services. — 2026-02-16
+
+6. President Trump excluded governors from a bipartisan conference: The exclusion narrowed intergovernmental participation and weakened norms of broad executive engagement across party lines. — 2026-02-16
+
+7. The Office of Management and Budget withheld congressionally appropriated tunnel funding [single source]: The withholding tested whether the executive could use funding control to override congressional spending decisions and shape public works for political ends. — 2026-02-17
+
+8. President Trump and his representatives filed trademark applications for an airport bearing his name [single source]: The filings blurred the line between public office and private commercial gain by tying presidential branding to public infrastructure. — 2026-02-17
+
+9. The federal government bought a Georgia warehouse to convert it into a detention center [single source]: The purchase expanded detention capacity while bypassing local consent, concentrating federal enforcement power over a small community. — 2026-02-18
+
+10. President Trump deployed FEMA to lead the Potomac sewage spill response: The move asserted federal command during a shutdown dispute and sharpened tensions over executive control in state-federal emergencies. — 2026-02-18
+
+11. President Trump issued an order to increase domestic glyphosate and phosphorus supply: The order used emergency-style executive power to direct industrial production and shield favored producers from legal risk. — 2026-02-18
+
+12. The CDC postponed its vaccine advisory panel meeting: The postponement disrupted a key public-health decision process and increased executive influence over vaccine policy timing. — 2026-02-19
+
+13. Health Secretary Robert F. Kennedy Jr. removed broad recommendations for six routine childhood vaccines: The change shifted federal health guidance through executive control and weakened established public-health protections without legislative action. — 2026-02-19
+
+14. The White House authorized ICE to detain refugees for aggressive rescreening: The memo expanded executive detention power over legally admitted refugees and threatened due process and settled legal status. — 2026-02-19
+
+15. President Trump announced a new global tariff under Section 122 after the Supreme Court ruling: The move sought to preserve unilateral trade control after a judicial rebuke, testing how far the executive could work around constitutional limits. — 2026-02-20
+
+16. The Department of Homeland Security considered buying a luxury jet for deportations and official travel [single source]: The proposal tied immigration enforcement to lavish executive spending and raised questions about priorities and misuse of public resources. — 2026-02-20
+
+17. President Trump announced a $10 billion U.S. commitment to his Board of Peace and held its inaugural meeting: The announcement claimed spending authority that belongs to Congress and concentrated diplomatic initiative in a legally disputed executive body. — 2026-02-20
+
+18. The Trump administration proposed a U.S.-based alternative to the World Health Organization: The proposal shifted global health coordination toward a new executive-led structure and risked weakening established multilateral accountability. — 2026-02-20
+
+
+Institutions and Governance
+
+1. Congress allowed a partial Department of Homeland Security shutdown after a funding impasse over immigration reforms: The lapse showed how appropriations fights over enforcement accountability can disrupt governance while leaving core coercive functions intact. — 2026-02-14
+
+2. Chuck Schumer and Hakeem Jeffries sent Republican leaders reform demands for any DHS funding bill: The letter used legislative leverage to seek visible restraints and due-process rules for federal immigration agents. — 2026-02-14
+
+3. House Oversight Committee Democrats subpoenaed the Justice Department for Epstein files: The subpoena pressed an executive agency for records and tested Congress's capacity to compel disclosure in a politically sensitive matter. — 2026-02-14
+
+4. The Justice Department dropped charges against two men after evidence undercut ICE agents' account: The reversal exposed possible misconduct in federal enforcement and showed institutional correction after disputed use of force. — 2026-02-14
+
+5. The Utah GOP struggled to advance a pro-gerrymandering ballot measure amid fraud claims [single source]: The confusion affected a redistricting effort that could shape representation and public trust in election rules. — 2026-02-14
+
+6. Hakeem Jeffries and national Democrats organized counter-redistricting efforts in multiple states: The effort showed parties using institutional mapmaking tools to compete for durable control of representation. — 2026-02-14
+
+7. Senator Lisa Murkowski opposed the SAVE Act: Her opposition highlighted institutional conflict over whether federal election rules should override state control and voter access concerns. — 2026-02-14
+
+8. Civil rights groups asked a federal court to block misuse of voter data seized from Fulton County [single source]: The motion sought judicial protection for election records and voter privacy after federal seizure of local election data. — 2026-02-15
+
+9. A federal judge blocked the deportation of Ruben Torres Maldonado: The ruling showed courts checking immigration enforcement when removal threatened family integrity and due process. — 2026-02-15
+
+10. A judge ruled that Ruben Torres Maldonado's arrest and detention had been illegal: The decision reaffirmed that immigration arrests remain subject to legal limits and judicial review. — 2026-02-15
+
+11. The National Trust for Historic Preservation sued to block White House ballroom construction: The lawsuit challenged whether the executive could alter a historic federal site without required legal review. — 2026-02-15
+
+12. Democratic lawmakers announced a boycott of the State of the Union address: The boycott signaled a breakdown in ceremonial legislative-executive norms and public confidence in shared constitutional practice. — 2026-02-16
+
+13. Senator Jon Ossoff warned against submission to false election narratives [single source]: The speech defended institutional legitimacy by rejecting narratives that weaken trust in electoral outcomes. — 2026-02-16
+
+14. Judge Cynthia Rufe ordered the restoration of the President's House site exhibits in Philadelphia: The injunction checked executive alteration of a public historic site and protected lawful process over federal memory institutions. — 2026-02-16
+
+15. Seventeen states and the District of Columbia filed an amicus brief opposing an emergency stay in Lesly Miot v. Trump: The filing showed states using the courts as an institutional counterweight to federal executive action. — 2026-02-16
+
+16. A magistrate judge denied Minnesota's request for expedited discovery in its challenge to Operation Metro Surge: The ruling slowed a state's effort to quickly investigate federal enforcement conduct, showing procedural limits on oversight litigation. — 2026-02-16
+
+17. The Supreme Court revised its Rules of Procedure: The rule changes affected how the nation's highest court manages cases and exercises institutional control over access and process. — 2026-02-17
+
+18. House Democrats filed articles of impeachment against Kristi Noem: The filing used a core legislative accountability tool to respond to alleged abuse and obstruction inside a major federal department. — 2026-02-17
+
+19. The House Oversight Committee compelled Bill and Hillary Clinton to sit for filmed depositions: The move showed Congress using subpoena power to force testimony from prominent figures in a high-profile investigation. — 2026-02-17
+
+20. The Florida legislature advanced a plan to rename Palm Beach International Airport after Donald Trump: The proposal used state legislative power to place personal political branding onto public infrastructure. — 2026-02-17
+
+21. The American Academy of Pediatrics sued the Federal Trade Commission over a civil investigative demand: The suit challenged whether a federal agency used investigative power to retaliate against protected speech beyond its lawful jurisdiction. — 2026-02-17
+
+22. Plaintiffs in American Academy of Pediatrics v. Kennedy filed an amended complaint challenging additional HHS vaccine actions: The filing used the courts to contest agency changes that could reshape public-health governance without adequate process. — 2026-02-17
+
+23. Defendants in City of Philadelphia v. Burgum appealed the order restoring the President's House site: The appeal extended an institutional fight over whether federal officials could alter a public historic site without lawful review. — 2026-02-17
+
+24. Democracy Defenders Fund sued the FBI over an unanswered FOIA request about Thomas Homan: The case tested whether federal law-enforcement agencies could evade statutory disclosure duties in politically sensitive matters. — 2026-02-17
+
+25. The Ninth Circuit dismissed consolidated appeals in Oregon v. Trump: The dismissal changed the procedural path of a challenge to federal action and showed appellate courts shaping institutional remedies. — 2026-02-17
+
+26. Plaintiff states moved to enforce judgment against FEMA: The motion showed states returning to court to force federal compliance with an existing judicial order. — 2026-02-17
+
+27. The Census Bureau sought public comment on the Local Update of Census Addresses operation: The notice supported address accuracy for the next census, which affects representation and allocation of public resources. — 2026-02-17
+
+28. Congress nullified a District of Columbia tax amendment and enacted the Semiquincentennial Congressional Time Capsule Act: One law reaffirmed Congress's control over D.C. self-government, while the other used federal lawmaking to shape national historical commemoration. — 2026-02-18
+
+29. Les Wexner gave compelled testimony to the House Oversight Committee [single source]: The deposition showed Congress continuing to use investigative powers to examine elite networks and possible institutional failures. — 2026-02-18
+
+30. Fifteen members of Congress demanded answers from Marco Rubio about a detained Palestinian-American teenager: The letter used oversight to press the executive branch on protection of a U.S. citizen abroad and human-rights accountability. — 2026-02-18
+
+31. Iowa Republican lawmakers moved to limit the governor's power ahead of the 2026 election [single source]: The effort suggested institutional rule changes driven by anticipated electoral risk rather than neutral governance reform. — 2026-02-18
+
+32. Health and environmental groups sued the EPA over repeal of the greenhouse-gas endangerment finding: The lawsuit challenged a major agency rollback and asked courts to police the legal basis of federal climate governance. — 2026-02-18
+
+33. A federal judge declared a mistrial in the Texas antifa protest case: The mistrial exposed how courtroom management and terrorism charges can shape the state's treatment of political protest cases. — 2026-02-18
+
+34. Judge Sykes enforced a prior order requiring bond-hearing access for detained noncitizens: The order reaffirmed that the executive must obey judicial limits in immigration detention and notify detainees of their rights. — 2026-02-18
+
+35. Judge Frimpong allowed California cities and Los Angeles County to continue challenging federal immigration actions: The ruling recognized local governments' standing to contest federal conduct and preserved an institutional check through litigation. — 2026-02-18
+
+36. Thirteen states sued DOE and OMB over canceled energy and infrastructure funding: The complaint challenged executive termination of congressionally mandated funds and defended legislative control over appropriations. — 2026-02-18
+
+37. Judge Young dismissed State of New York v. Department of Education without prejudice after the administration withdrew its appeal: The dismissal reflected how executive retreat in one case can reshape the institutional need for parallel litigation. — 2026-02-18
+
+38. Judge Tunheim stayed consideration of a contempt motion for seven days in U.H.A. v. Bondi: The stay delayed a possible judicial sanction and showed courts managing the pace of accountability disputes with the executive. — 2026-02-18
+
+39. Governor J.B. Pritzker delivered a State of the State address criticizing withheld federal funds and outlining state policy actions [single source]: The address framed state government as a counterweight to federal pressure and used formal institutions to defend public services. — 2026-02-19
+
+40. California organizers collected signatures for a billionaire tax ballot initiative: The campaign used direct democracy to pursue fiscal policy outside ordinary legislative channels. — 2026-02-19
+
+41. Oversight Chair James Comer declined to hold hearings on Trump's Epstein ties: The refusal highlighted how committee gatekeeping can limit congressional accountability even when records disputes remain unresolved. — 2026-02-19
+
+42. George Retes sued the federal government over his ICE detention as a U.S. citizen [single source]: The lawsuit challenged whether federal immigration agencies could detain a citizen without basic due-process protections. — 2026-02-19
+
+43. Bard College's board hired WilmerHale to investigate its president's ties to Jeffrey Epstein: The move used internal governance and outside review to address institutional integrity and donor oversight failures. — 2026-02-19
+
+44. The American Academy of Pediatrics challenged the legitimacy of the CDC vaccine advisory committee in court [single source]: The case questioned whether a key federal advisory body was operating lawfully, with direct consequences for public-health governance. — 2026-02-19
+
+45. Private plaintiffs sued to block the proposed Independence Arch in Washington: The complaint argued that the executive could not bypass statutory review and legislative approval for a major commemorative project. — 2026-02-19
+
+46. The Eighth Circuit stayed appeal proceedings in Tincher v. Noem: The stay adjusted judicial oversight of a federal immigration operation after reports that the operation had ended. — 2026-02-19
+
+47. Scientists and an engineers' association sued NASA and the Archivist to stop destruction of records and closure of archives: The suit defended federal recordkeeping duties and challenged executive decisions that could erase public scientific memory. — 2026-02-19
+
+48. Senator Susan Collins cast the decisive vote for a Trump-backed election measure [single source]: The vote advanced federal election legislation that critics said would narrow access and alter the balance of electoral rules. — 2026-02-20
+
+49. California lawmakers introduced a bill to bar ICE agents from polling places and related election sites: The bill used state law to protect voting from intimidation by federal immigration enforcement. — 2026-02-20
+
+50. Congress restored funding to cultural institutions targeted for cuts [single source]: The funding decision showed legislative capacity to protect public cultural institutions from executive ideological pressure. — 2026-02-20
+
+51. The Florida legislature passed a bill to rename West Palm Beach airport after Donald Trump: The bill used state legislative authority to place partisan personal symbolism onto public infrastructure. — 2026-02-20
+
+52. Donald Trump promoted the SAVE America Act in Georgia: The speech backed federal election restrictions as a route to long-term partisan advantage, linking institutional rule changes to political dominance. — 2026-02-20
+
+53. The Supreme Court ruled that Trump could not use IEEPA to impose tariffs: The ruling reaffirmed that major taxing power belongs to Congress and marked a direct judicial check on unilateral executive trade authority. — 2026-02-20
+
+54. Judge Sunshine Sykes ordered the government to notify detainees of bond eligibility and provide counsel access [single source]: The order enforced judicial limits on mass detention and underscored that immigration enforcement remains bound by court rulings. — 2026-02-20
+
+55. The D.C. Circuit consolidated climate cases against the EPA: The consolidation streamlined judicial review of a major federal climate rollback and shaped how institutional challenges would proceed. — 2026-02-20
+
+56. California cities and counties sued federal departments over grant cuts tied to executive orders: The complaint challenged whether the executive could use vague ideological conditions to control local funding. — 2026-02-20
+
+57. Judge Rufe and Judge Hardiman issued competing stay rulings in the President's House site appeal: The orders showed appellate and trial courts actively contesting the scope of relief over federal changes to a historic site. — 2026-02-20
+
+58. The D.C. Circuit severed Lujan v. FMCSA and kept one case in abeyance: The procedural order shaped how a challenge to federal action would move through the courts and delayed one track of review. — 2026-02-20
+
+59. Protect Democracy Project filed an amended FOIA complaint against the Treasury Department: The filing pressed a federal agency to comply with disclosure law and reinforced courts as a venue for transparency enforcement. — 2026-02-20
+
+60. The Supreme Court granted the Solicitor General's motion to participate in oral argument in Montgomery v. Caribe Transport II: The order gave the executive branch a formal voice in Supreme Court argument, shaping institutional influence over the case. — 2026-02-20
+
+
+Economic Structure
+
+1. The Trump administration withheld federal funding from Minnesota: The funding pressure used federal money as leverage against a state, threatening services and state autonomy. — 2026-02-14
+
+2. A Ford-backed battery plant idled operations in Kentucky and left 1,600 workers without jobs [single source]: The closure showed how federal policy shifts can quickly reshape local employment and industrial stability. — 2026-02-14
+
+3. Home builders warned that immigration enforcement was harming the construction industry [single source]: The warning linked aggressive enforcement to labor shortages and higher costs, showing economic fallout from coercive immigration policy. — 2026-02-14
+
+4. John Paulson planned to move an Ohio plant to China: The offshoring plan highlighted how private capital decisions can undercut local jobs despite public claims of domestic investment. — 2026-02-15
+
+5. Local officials and activists canceled or challenged contracts and leases that supported ICE operations: The actions used local economic leverage to disrupt federal enforcement logistics and reduce dependence on private support networks. — 2026-02-16
+
+6. Florida officials addressed labor shortages caused by deportations [single source]: The response showed how immigration crackdowns can destabilize labor markets and force state-level economic adjustments. — 2026-02-16
+
+7. The FCC adopted new VoIP numbering rules and related compliance requirements: The rules expanded regulatory oversight of communications providers and affected market access, public safety, and consumer protection. — 2026-02-17
+
+8. The FCC changed the channel allotment for a Kansas PBS station: The rule change affected public broadcasting infrastructure and access to educational television service. — 2026-02-17
+
+9. The FCC launched matching programs with Pennsylvania and Indiana agencies to verify Lifeline and ACP eligibility: The programs tightened administrative screening for public benefits and expanded data-sharing in access to communications subsidies. — 2026-02-17
+
+10. The TSA restored the term "alien" in its regulations: The rule changed official regulatory language in immigration-related administration and signaled a harder federal posture toward noncitizens. — 2026-02-17
+
+11. Tricia McLaughlin and her husband's ad firm faced allegations that DHS advertising funds benefited a family-linked business: The allegations suggested public spending may have been steered through insider ties, weakening trust in procurement integrity. — 2026-02-17
+
+12. The Trump family benefited from a large UAE-linked investment in its crypto business: The deal raised conflict-of-interest concerns by linking foreign money, private gain, and proximity to presidential power. — 2026-02-17
+
+13. Eric Trump announced an investment in an Israeli drone company with a Pentagon contract: The investment deepened concerns that politically connected private ventures could profit from defense relationships and public contracts. — 2026-02-17
+
+14. The EPA rescinded the greenhouse-gas endangerment finding and related vehicle emissions standards: The rollback changed the legal basis for major environmental regulation and shifted economic costs and benefits across industries and the public. — 2026-02-18
+
+15. Banks and lenders pressed commercial real-estate borrowers as delinquency rates rose: The pressure signaled financial stress in a major asset sector with possible spillover effects for local economies and public budgets. — 2026-02-18
+
+16. The Congressional Budget Office projected a $1.85 trillion federal deficit for fiscal year 2026: The projection highlighted structural fiscal strain that shapes future public spending choices and political conflict over resources. — 2026-02-18
+
+17. Florida's employment law contributed to labor shortages in agriculture and construction: The shortages showed how immigration-related labor rules can reduce workforce supply and shift economic burdens onto employers and consumers. — 2026-02-18
+
+18. U.S. labor markets posted weak job growth in 2025 [single source]: The slowdown pointed to broad economic weakness that can narrow public options and intensify political pressure over jobs and industry. — 2026-02-18
+
+19. The FCC used investigations and guidance that affected CBS and political interview practices [single source]: The regulatory pressure showed how economic oversight of broadcasters can be used in ways that affect editorial independence and corporate decisions. — 2026-02-18
+
+20. Governor J.B. Pritzker announced that Illinois had erased about $1 billion in medical debt [single source]: The debt relief used state policy to reduce private financial burdens and widen residents' economic security. — 2026-02-19
+
+21. The Department of Housing and Urban Development proposed banning mixed-status families from public housing [single source]: The proposal threatened housing stability for immigrant families and used economic policy to intensify immigration enforcement pressure. — 2026-02-19
+
+22. Trump Media and Technology Group launched politically branded financial products and absorbed large crypto and merger losses [single source]: The moves showed how a politically connected company tied speculative finance to ideological branding and concentrated risk around elite influence. — 2026-02-19
+
+23. Federal agencies including the EPA, FDA, FCC, CDC, and OSHA issued a large set of routine regulatory notices, approvals, withdrawals, and comment requests: These actions adjusted the rules for communications, food, drugs, pesticides, environmental review, and safety, shaping how public goods and markets are governed. — 2026-02-17
+
+
+Civil Rights and Dissent
+
+1. Federal immigration agents carried out aggressive operations in Minneapolis that used force on observers and detained large numbers of immigrants: The operations raised due-process and bodily-security concerns by using federal force in ways that affected immigrants, residents, and bystanders. — 2026-02-14
+
+2. Federal authorities were found by judges to have unlawfully detained immigrants thousands of times: The pattern showed repeated deprivation of liberty without lawful basis, weakening due process in immigration enforcement. — 2026-02-14
+
+3. Police and federal authorities arrested protesters and journalists during the Minnesota operations [single source]: The arrests burdened protest and press activity around a federal crackdown and narrowed space for public scrutiny. — 2026-02-14
+
+4. Epstein survivors condemned the Justice Department's document release: The statement argued that government disclosure choices exposed victims while shielding powerful people, raising rights and dignity concerns. — 2026-02-14
+
+5. The Trump administration expanded the 287(g) program that deputized local police for immigration enforcement [single source]: The expansion increased the risk of racial profiling and blurred the line between local policing and federal immigration control. — 2026-02-15
+
+6. Tom Homan defended masked ICE tactics and denied racial profiling: The defense normalized opaque enforcement practices that affect civil liberties and public accountability in immigration policing. — 2026-02-15
+
+7. Representative Randy Fine called for the deportation of Muslims [single source]: The statement targeted a religious group for exclusion and threatened equal citizenship norms in public political discourse. — 2026-02-16
+
+8. Police officers stopped a memorial dance performance at the Kennedy Center: The intervention restricted peaceful expressive activity on federal property and narrowed room for public dissent. — 2026-02-16
+
+9. Local communities blocked ICE attempts to turn warehouses into detention centers: The resistance used local action to limit expansion of detention infrastructure that would affect immigrant liberty and family security. — 2026-02-16
+
+10. Juan Nicolás and his family were deported after the infant was hospitalized [single source]: The deportation of a recently hospitalized infant highlighted the harsh treatment of vulnerable families in immigration custody. — 2026-02-17
+
+11. Andy Barr's Senate campaign and its corporate backers funded and promoted an ad using a white-supremacist-coded slogan [single source]: The ad injected extremist-coded racial messaging into electoral politics and risked normalizing exclusionary appeals in democratic competition. — 2026-02-17
+
+12. Arizona Senate Republicans advanced legislation to place ICE agents at voting locations: The proposal risked voter intimidation by bringing immigration enforcement into the act of voting, especially for minority communities. — 2026-02-17
+
+13. The 50501 Movement, FLARE, and Citizens' Impeachment organized and held a national in-district lobbying day for impeachment demands [single source]: The coordinated action showed organized civic pressure on elected officials through peaceful constituent engagement across many districts. — 2026-02-17
+
+14. Donald Trump issued a statement on Jesse Jackson's death centered on his own grievances: The statement weakened norms of civic respect around a major civil-rights figure and shaped public discourse through personal grievance. — 2026-02-17
+
+15. An immigration judge blocked the deportation of Mohsen Mahdawi: The ruling protected a lawful resident from a deportation effort that his lawyers said retaliated against political speech. — 2026-02-17
+
+16. A federal judge found that the government kept detaining noncitizens without required bond hearings [single source]: The finding showed ongoing denial of liberty protections to detained immigrants despite prior court orders. — 2026-02-18
+
+17. The Trump administration expanded its immigration crackdown into more cities and towns [single source]: The broader deployment increased fear and exposure to detention in immigrant communities and intensified pressure on local dissent networks. — 2026-02-20
+
+18. Workers at the Department of Justice hung a protest banner inside the department: The action showed internal dissent by public employees against the administration's direction and use of federal power. — 2026-02-20
+
+
+Information, Memory and Manipulation
+
+1. The Department of Homeland Security used the SAVE database to flag supposed noncitizen voters and misclassified some naturalized citizens: The practice risked wrongful criminal referral and voter challenges by using flawed administrative data in the democratic sphere. — 2026-02-14
+
+2. The Department of Justice claimed it had fully complied with the Epstein Transparency Act: The disputed claim raised concerns that official transparency statements were being used to close off scrutiny without full disclosure. — 2026-02-14
+
+3. The Justice Department released records showing Steve Bannon's 2019 communications with Jeffrey Epstein: The disclosure added to the public record about elite networks and the political uses of sensitive archival material. — 2026-02-14
+
+4. The FBI refused to share evidence with Minnesota investigators in the Alex Pretti shooting case: The refusal blocked outside review of a fatal federal enforcement incident and limited transparency across levels of government. — 2026-02-16
+
+5. The Department of Homeland Security subpoenaed tech companies for identifying data on social-media accounts critical of ICE: The subpoenas threatened anonymous political speech and expanded state monitoring of online dissent without judicial warrants. — 2026-02-16
+
+6. The Pentagon considered cutting ties with an AI company over resistance to domestic surveillance use [single source]: The dispute showed pressure to align private technology with government surveillance aims affecting Americans' privacy. — 2026-02-16
+
+7. CBS and the FCC blocked or chilled political candidate interviews on talk shows under new equal-time guidance: The guidance and network response narrowed editorial freedom and showed regulatory pressure shaping what political speech reached mass audiences. — 2026-02-16
+
+8. The Justice Department released emails about Jeffrey Epstein's views on Brett Kavanaugh's confirmation [single source]: The release added politically charged historical material to the public record and affected how past judicial confirmation battles were understood. — 2026-02-16
+
+9. Reporters and advocates said the Epstein files were far larger than publicly disclosed: The reports suggested that key records may still be withheld, deepening doubts about official transparency claims. — 2026-02-16
+
+10. ICE tripled its use of Microsoft's cloud technology during the immigration crackdown: The expansion increased the data infrastructure behind detention and deportation, strengthening surveillance capacity through private technology. — 2026-02-17
+
+11. Federal agents raided an ICE detention facility to seize letters written by detained children: The raid appeared to suppress firsthand accounts of detention conditions and limited public access to evidence of abuse. — 2026-02-17
+
+12. The NYPD continued to withhold most surveillance contract records despite a court order [single source]: The noncompliance weakened public oversight of police surveillance tools and frustrated transparency law. — 2026-02-17
+
+13. The FBI and DOJ record systems handled sexual-assault allegation records involving Trump in ways that raised transparency concerns: The reporting suggested that sensitive investigative records tied to a powerful figure may have been obscured from public view. — 2026-02-18
+
+14. The FDA removed warnings against dangerous autism treatments [single source]: The removal weakened public access to reliable health information and increased the risk that misinformation would guide family decisions. — 2026-02-18
+
+15. The White House communications director mocked the Kennedy Center memorial performance on social media [single source]: The official ridicule sought to delegitimize protest and shape public perception of dissent through state-linked messaging. — 2026-02-19
+
+16. Purdue University was accused of informally rejecting Chinese students from designated adversary nations [single source]: The reported policy showed national-security pressure spilling into academic admissions and narrowing information exchange across borders. — 2026-02-20
+
+17. Donald Trump commented on Andrew Mountbatten-Windsor's arrest by stressing his own exoneration: The remarks used a separate legal event to shape public narrative about Trump's own exposure and credibility. — 2026-02-20
+<!-- END GENERATED APPENDIX -->

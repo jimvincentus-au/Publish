@@ -1,12 +1,12 @@
 {
   "week_number": 64,
-  "period_label": "Week 64 – 2026-04-04–2026-04-10",
+  "period_label": "Week 64",
   "window": {
     "start": "2026-04-04",
     "end": "2026-04-10"
   },
-  "clock_time_public": "8:13 p.m.",
-  "clock_delta_minutes": 0.2,
+  "clock_time_public": "7:43 p.m.",
+  "clock_delta_minutes": -0.2,
   "baseline_traits": [
     {
       "name": "character",
@@ -34,134 +34,191 @@
     }
   ],
   "weekly_audit": {
-    "summary": "This week saw a continuation of the erosion of democratic norms, particularly in character, ethics, restraint, truthfulness, and good faith. The executive branch's actions increasingly prioritized political objectives over public duty, while Congress failed to assert its authority, reflecting a troubling trend of diminishing checks on executive power.",
+    "summary": "Week 64 was dominated by an active military crisis with Iran in which the president threatened annihilation of a civilian population, dismissed war-crimes constraints, issued unilateral ultimatums and ceasefires, and mixed personal financial interest (a proposed Strait of Hormuz toll venture, stock promotion) into decisions of war and peace. Congress, though vocal, was structurally sidelined: House Republicans blocked war-powers votes through procedural refusal even as a growing bipartisan bloc raised impeachment, 25th Amendment, and fitness-for-office concerns. Truthfulness collapsed repeatedly through false victory claims, fabricated predecessor endorsements, and inflammatory falsehoods to children. Courts continued to check executive abuses (unlawful prosecutor appointments, unconstitutional deportation targeting, Pentagon press restrictions), while surveillance and financial conflicts of interest deepened. The pattern is one of escalating, near-total executive discretion over war and profit, met by persistent but structurally limited institutional resistance.",
     "norms_broken": [
       {
-        "trait": "character",
-        "pattern": "Executive actions prioritized political objectives over public duty, exemplified by Trump's unilateral military threats and disregard for constitutional limits.",
-        "severity": "serious",
-        "institutional_response": "Congressional leaders largely acquiesced to executive demands, failing to resist the erosion of legislative authority.",
+        "trait": "restraint",
+        "pattern": "The president issued a series of escalating unilateral threats against Iran — including annihilation of 'a whole civilization,' targeting civilian infrastructure, and a unilateral deadline for destruction — without congressional authorization, while cabinet officials failed to check the escalation internally.",
+        "severity": "extreme",
+        "institutional_response": "House Republicans blocked votes on war-powers resolutions; Democrats called for impeachment, 25th Amendment invocation, and a cognitive assessment, but no binding constraint was imposed on executive war-making.",
         "exemplars": [
           {
-            "exemplar_id": "wk64_character_ex1",
-            "week": 64,
-            "event_ids": [
-              "wk64_PA_003",
-              "wk64_PA_004"
-            ],
-            "developments": [
-              {
-                "development_id": "wk64_PA_003",
-                "development_label": "Trump threatened military action against Iran on social media.",
-                "role": "primary"
-              }
-            ],
-            "summary": "Trump's public threats to use force against Iran exemplified prioritization of personal political goals over public duty.",
-            "why_exemplary": "This action illustrates a significant breach of character, undermining the principle of public duty in favor of personal political objectives.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "ethics",
-        "pattern": "The administration's actions blurred lines between public authority and private interests, particularly in military and economic decisions.",
-        "severity": "serious",
-        "institutional_response": "Congress failed to effectively challenge the administration's use of emergency powers to bypass legislative oversight.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk64_ethics_ex1",
+            "exemplar_id": "wk64_restraint_ex01",
             "week": 64,
             "event_ids": [
               "wk64_PA_007",
-              "wk64_PA_019"
+              "wk64_PA_006"
             ],
             "developments": [
               {
                 "development_id": "wk64_PA_007",
-                "development_label": "Trump signed an executive order directing DHS to use an error-prone immigration database to police voter eligibility.",
+                "development_label": "Threatened genocide against Iran, then announced a unilateral two-week ceasefire.",
                 "role": "primary"
+              },
+              {
+                "development_id": "wk64_PA_006",
+                "development_label": "Issued a military ultimatum with a deadline for large-scale destruction of Iran.",
+                "role": "secondary"
               }
             ],
-            "summary": "The use of an immigration database to define eligible voters raised significant ethical concerns about the intertwining of public authority and private interests.",
-            "why_exemplary": "This event highlights a troubling intertwining of public authority and private interests, undermining ethical governance.",
+            "summary": "The president threatened to destroy an entire civilization on a set deadline, then unilaterally suspended the threat via ceasefire, all without congressional involvement.",
+            "why_exemplary": "This sequence shows war-making authority concentrated entirely in one office, with threats and reversals occurring at presidential whim rather than through any constitutional process.",
             "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "restraint",
-        "pattern": "The administration exhibited a lack of self-limitation in military actions and legislative pressures, pushing boundaries of executive power.",
-        "severity": "serious",
-        "institutional_response": "Congressional attempts to reassert authority were largely ineffective, reflecting a failure to uphold checks and balances.",
-        "exemplars": [
+          },
           {
-            "exemplar_id": "wk64_restraint_ex1",
+            "exemplar_id": "wk64_restraint_ex02",
             "week": 64,
             "event_ids": [
-              "wk64_IG_001",
-              "wk64_IG_002"
+              "wk64_IG_020",
+              "wk64_IG_031"
             ],
             "developments": [
               {
-                "development_id": "wk64_IG_001",
-                "development_label": "House Republicans shut down a pro forma session to block a war powers vote on Iran.",
+                "development_id": "wk64_IG_020",
+                "development_label": "House Republicans blocked votes on an Iran War Powers Resolution through procedural obstruction.",
                 "role": "primary"
+              },
+              {
+                "development_id": "wk64_IG_031",
+                "development_label": "A Republican presiding officer ended a session to prevent any vote on curbing presidential war powers.",
+                "role": "secondary"
               }
             ],
-            "summary": "Shutting down a session to block a war powers vote demonstrated a significant lack of restraint in executive authority.",
-            "why_exemplary": "This action reflects a concerning trend of diminishing legislative checks on executive power, undermining democratic norms.",
+            "summary": "Republican leadership repeatedly used procedural tools to prevent any legislative check on the president's war-making authority during active conflict.",
+            "why_exemplary": "Deliberate procedural obstruction of a constitutionally mandated check illustrates institutional complicity in unrestrained executive war powers.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "The administration's public statements often contradicted internal findings and realities, particularly regarding military actions and their consequences.",
+        "pattern": "The president made a string of demonstrably false claims during the crisis — declaring victory in an unresolved war, claiming false predecessor endorsements and a fabricated 'regime change,' and asserting without evidence that Iranian civilians wanted continued bombing.",
         "severity": "serious",
-        "institutional_response": "Media scrutiny increased, but the administration continued to manipulate narratives without accountability.",
+        "institutional_response": "Independent journalism and foreign officials repeatedly contradicted these claims; no internal correction or accountability came from the administration.",
         "exemplars": [
           {
-            "exemplar_id": "wk64_truthfulness_ex1",
+            "exemplar_id": "wk64_truthfulness_ex01",
             "week": 64,
             "event_ids": [
-              "wk64_IM_010",
-              "wk64_IM_011"
+              "wk64_IM_004",
+              "wk64_IM_019"
             ],
             "developments": [
               {
-                "development_id": "wk64_IM_010",
-                "development_label": "Trump repeatedly declared victory in the Iran war despite ongoing setbacks.",
+                "development_id": "wk64_IM_004",
+                "development_label": "Made false claims that former presidents endorsed his Iran military action, denied by all four living former presidents.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk64_IM_019",
+                "development_label": "Claimed a 'productive regime change' occurred in Iran despite unchanged leadership structure.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Fabricated claims of bipartisan endorsement and false assertions about the war's outcome misrepresented the basis and results of military action to the public.",
+            "why_exemplary": "Both claims were quickly and specifically disproven, showing a pattern of manufactured narrative used to legitimize and obscure the true state of an active war.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk64_truthfulness_ex02",
+            "week": 64,
+            "event_ids": [
+              "wk64_PA_008"
+            ],
+            "developments": [
+              {
+                "development_id": "wk64_PA_008",
+                "development_label": "Declared victory in the Iran war despite unresolved conflict and continued Iranian resistance.",
                 "role": "primary"
               }
             ],
-            "summary": "Trump's insistence on victory narratives in the face of setbacks exemplified a breach of truthfulness in public discourse.",
-            "why_exemplary": "This reflects a broader pattern of disinformation that undermines public trust and accountability.",
+            "summary": "Repeated premature victory claims obscured the actual, unresolved state of the conflict from the public.",
+            "why_exemplary": "False claims of military success during an ongoing crisis directly impede public and congressional ability to assess the war's true trajectory and risks.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "Multiple episodes entangled the president's and allies' financial interests with active wartime decisions: a proposed Strait of Hormuz toll joint venture with Iran, promotion of Palantir stock by ticker, defense contracts to major donors, and a dropped SEC probe of a Trump-linked crypto firm.",
+        "severity": "serious",
+        "institutional_response": "Reporting exposed these entanglements but no enforcement action or congressional remedy was recorded this week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk64_ethics_ex01",
+            "week": 64,
+            "event_ids": [
+              "wk64_PA_010",
+              "wk64_ES_015"
+            ],
+            "developments": [
+              {
+                "development_id": "wk64_PA_010",
+                "development_label": "Offered to establish a joint venture with Iran to charge tolls on Strait of Hormuz shipping.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk64_ES_015",
+                "development_label": "Promoted Palantir stock by ticker symbol on social media.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A wartime toll venture with an adversary nation and direct promotion of a defense-contractor stock both suggest personal financial motives shaping executive decisions.",
+            "why_exemplary": "Both instances blur the line between the president's public office and private financial gain during matters of war and market-moving disclosure.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk64_ethics_ex02",
+            "week": 64,
+            "event_ids": [
+              "wk64_ES_003",
+              "wk64_ES_008"
+            ],
+            "developments": [
+              {
+                "development_id": "wk64_ES_003",
+                "development_label": "Awarded major Golden Dome-related contracts to SpaceX, Palantir, and Blue Origin.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk64_ES_008",
+                "development_label": "Dropped an SEC investigation into Crypto.com, a business partner of Trump-affiliated entities.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Billions in defense contracts went to donor-linked firms while a federal probe into a Trump-affiliated business partner was quietly terminated.",
+            "why_exemplary": "The concurrence of large contract awards to political allies and the dropping of enforcement against a financially linked firm exemplifies self-dealing risk in federal procurement and regulation.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
         "trait": "good_faith",
-        "pattern": "Legislative processes were manipulated to favor partisan objectives, undermining the spirit of democratic engagement.",
-        "severity": "serious",
-        "institutional_response": "Congressional leaders largely complied with executive demands, failing to uphold democratic principles.",
+        "pattern": "The DOJ refused to produce a former Attorney General for a scheduled congressional deposition on the Epstein files, claiming the subpoena lapsed upon her removal, and the president offered mass pardons to staff to insulate them from future accountability.",
+        "severity": "concerning",
+        "institutional_response": "Congress and media publicized the refusal; no compliance was secured this week.",
         "exemplars": [
           {
-            "exemplar_id": "wk64_good_faith_ex1",
+            "exemplar_id": "wk64_goodfaith_ex01",
             "week": 64,
             "event_ids": [
-              "wk64_CR_001",
-              "wk64_CR_002"
+              "wk64_IG_018",
+              "wk64_PA_012"
             ],
             "developments": [
               {
-                "development_id": "wk64_CR_001",
-                "development_label": "Trump promised mass pardons to staff who had been near the Oval Office.",
+                "development_id": "wk64_IG_018",
+                "development_label": "Refused to make former Attorney General Bondi appear for a scheduled congressional deposition on Epstein files.",
                 "role": "primary"
+              },
+              {
+                "development_id": "wk64_PA_012",
+                "development_label": "Offered mass pardons to White House staff to insulate them from future prosecution.",
+                "role": "secondary"
               }
             ],
-            "summary": "The promise of pardons for insiders exemplified a breach of good faith in legislative processes.",
-            "why_exemplary": "This reflects a manipulation of democratic norms to achieve partisan ends, undermining the integrity of the electoral process.",
+            "summary": "A legal technicality was used to evade a congressional subpoena while a blanket pardon offer removed accountability incentives for staff conduct.",
+            "why_exemplary": "Both actions defeat the purpose of oversight and accountability mechanisms through procedural avoidance rather than direct confrontation of the underlying obligations.",
             "exemplar_type": "primary"
           }
         ]
@@ -169,57 +226,122 @@
     ],
     "norms_strengthened": [
       {
-        "trait": "stewardship",
-        "pattern": "Judicial actions provided some checks on executive overreach, reinforcing the importance of institutional integrity.",
+        "trait": "good_faith",
+        "pattern": "Federal courts continued to check executive overreach: ruling the Attorney General's prosecutorial appointments unlawful, finding deportation of activists unconstitutional, and enforcing prior orders on Pentagon press access and warrantless immigration arrests.",
         "scope": "institutional",
-        "why_it_matters": "Judicial interventions are crucial for maintaining accountability and protecting democratic norms.",
+        "why_it_matters": "Judicial willingness to enforce constitutional limits, even against a wartime executive, preserves the rule-of-law backbone necessary for eventual accountability.",
         "exemplars": [
           {
-            "exemplar_id": "wk64_stewardship_ex1",
+            "exemplar_id": "wk64_goodfaith_strength_ex01",
             "week": 64,
             "event_ids": [
-              "wk64_IG_014",
-              "wk64_IG_016"
+              "wk64_IG_007",
+              "wk64_IG_008"
             ],
             "developments": [
               {
-                "development_id": "wk64_IG_014",
-                "development_label": "Federal district court judges issued rulings against Trump administration policies.",
+                "development_id": "wk64_IG_007",
+                "development_label": "Ruled that Attorney General Bondi illegally appointed prosecutors without proper authority.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk64_IG_008",
+                "development_label": "Ruled that deportation policies targeting non-citizen activists violated First Amendment rights.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Federal judges found the administration exceeded legal authority in prosecutorial appointments and unconstitutionally targeted activists for deportation based on speech.",
+            "why_exemplary": "Both rulings directly constrained executive overreach in core rule-of-law and First Amendment domains, reaffirming judicial capacity to enforce limits despite political pressure.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "A bipartisan range of lawmakers publicly debated impeachment, 25th Amendment invocation, and formal fitness assessments in direct response to presidential war threats, reflecting institutional alarm translating into concrete constitutional proposals.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Even without binding effect, the willingness of both parties to invoke the highest constitutional remedies signals that unchecked executive war-making has not been fully normalized.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk64_restraint_strength_ex01",
+            "week": 64,
+            "event_ids": [
+              "wk64_IG_022",
+              "wk64_IG_030"
+            ],
+            "developments": [
+              {
+                "development_id": "wk64_IG_022",
+                "development_label": "More than 85 House Democrats and two senators called for the president's removal via impeachment or 25th Amendment.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk64_IG_030",
+                "development_label": "Requested a formal cognitive assessment of the president from the White House physician.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A large bloc of lawmakers formally invoked constitutional removal mechanisms and demanded a fitness evaluation following escalatory war threats.",
+            "why_exemplary": "The scale and formality of the response demonstrates that Congress, while structurally limited, has not abandoned its constitutional role in checking dangerous executive conduct.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Local governments and civil society continued to roll back surveillance infrastructure, with dozens of cities canceling or rejecting license-plate reader contracts after evidence of misuse for protest and abortion-related searches.",
+        "scope": "public",
+        "why_it_matters": "Grassroots and municipal pushback against surveillance overreach demonstrates a functioning check outside federal institutions that helps preserve civil liberties against mission creep.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk64_stewardship_strength_ex01",
+            "week": 64,
+            "event_ids": [
+              "wk64_CR_015"
+            ],
+            "developments": [
+              {
+                "development_id": "wk64_CR_015",
+                "development_label": "Canceled or rejected surveillance camera contracts in dozens of jurisdictions after evidence of federal data access.",
                 "role": "primary"
               }
             ],
-            "summary": "Judicial rulings against executive overreach exemplified a commitment to institutional integrity and accountability.",
-            "why_exemplary": "This demonstrates the judiciary's role in resisting executive overreach and protecting democratic processes.",
+            "summary": "Community pressure led to widespread rejection or deactivation of automated license-plate surveillance systems across many cities.",
+            "why_exemplary": "Reversal of surveillance infrastructure at the local level shows durable civic capacity to constrain mission creep even where federal oversight has weakened.",
             "exemplar_type": "primary"
           }
         ]
       }
     ],
-    "direction_of_movement": "collapsing"
+    "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "The trajectory of ethical conditions continues to deteriorate, with Week 64 marking a further consolidation of previously established patterns of erosion. The previous week indicated a concerning trend, and this week has further entrenched the normalization of executive overreach, manipulation of democratic processes, and erosion of public trust. The cumulative effect is a democracy increasingly governed by unilateral decisions and diminished accountability, despite some judicial pushback.",
+    "narrative": "Week 64 confirms and deepens the deteriorating trajectory identified in Week 63. Where the prior week showed institutional capture advancing through direct personnel removals, this week showed the logical extension: a live military crisis in which the president exercised nearly unchecked authority over war and peace, punctuated by threats of civilizational destruction, unilateral ceasefires, and a proposed personal financial arrangement with the very adversary under attack. The pattern of financial entanglement — Golden Dome contracts to donors, a dropped SEC probe of a Trump-linked firm, and direct stock promotion — extended the self-dealing concerns flagged previously into the theater of war itself.\n\nRestraint continued its now well-established decline, but this week's distinguishing feature was the scale of legislative alarm it provoked: a bipartisan cohort of lawmakers invoked impeachment, the 25th Amendment, and a formal fitness assessment, while House Republican leadership used procedural tools to prevent any actual vote curbing war powers. This tension — vocal institutional concern paired with structural inability to act — is a recurring signature of the term's moral floor: alarm registered, but not translated into binding constraint.\n\nCourts again provided the most consistent counterweight, ruling against unlawful prosecutorial appointments, unconstitutional deportation targeting of activists, and Pentagon press restrictions. Civil society and municipal governments also pushed back meaningfully against surveillance overreach. Yet these represent incremental, case-by-case checks against a broader pattern of executive concentration of war powers, financial entanglement, and truthfulness breaches that shows no sign of reversing.",
     "trend": "deteriorating",
     "stress_points": [
-      "consolidation of executive power",
-      "manipulation of voting rights",
-      "erosion of ethical oversight",
-      "disinformation and narrative control"
+      "unchecked unilateral war-making and escalation threats",
+      "financial conflicts of interest entangled with wartime policy",
+      "procedural obstruction preventing congressional war-powers votes",
+      "repeated presidential falsehoods about military outcomes and endorsements",
+      "evasion of congressional oversight subpoenas via personnel technicalities"
     ],
     "sources_of_resilience": [
-      "judicial pushback in some cases",
-      "public advocacy and dissent",
-      "media scrutiny of government actions"
+      "federal courts continuing to check unlawful appointments and unconstitutional targeting",
+      "bipartisan congressional invocation of constitutional removal mechanisms",
+      "municipal and civil-society pushback against surveillance overreach",
+      "independent journalism contradicting fabricated wartime narratives",
+      "judicial enforcement of press-access protections at the Pentagon"
     ]
   },
   "risk_assessment": {
-    "level": "high",
-    "justification": "The ongoing patterns of erosion, particularly in character, ethics, restraint, truthfulness, and good faith, indicate a high risk of further deterioration. The lack of effective institutional resistance to executive overreach and the manipulation of democratic processes suggest that the foundations of self-government are increasingly at risk.",
+    "level": "severe",
+    "justification": "The moral floor remains severely stressed and, if anything, more visibly tested than in the prior week. A live military crisis exposed the near-total absence of structural constraint on presidential war-making, compounded by direct financial entanglements between the president's business interests and wartime decisions. Truthfulness collapsed repeatedly on matters of the highest public consequence — the existence of victory, the endorsement of predecessors, and the state of ceasefire terms. Congressional alarm was substantial and cross-partisan but was neutralized procedurally by the majority leadership, illustrating that formal checks exist on paper without functioning in practice. Courts remain the most reliable source of resistance, but their rulings address discrete violations rather than the underlying concentration of war and financial power in the executive.",
     "forward_signals": [
-      "escalating military actions without congressional approval",
-      "continued push for restrictive voting laws",
-      "increased disinformation campaigns surrounding elections",
-      "further erosion of civil rights protections"
+      "further escalation or renewed strikes if ceasefire terms are contested",
+      "congressional action (or continued inaction) on war-powers resolutions in the Senate",
+      "outcome of scrutiny into Trump-linked financial arrangements tied to the Iran conflict and Golden Dome contracts",
+      "DOJ handling of the Bondi deposition dispute and Epstein-related oversight demands",
+      "further use of pardons or personnel technicalities to blunt congressional subpoenas"
     ]
   }
 }

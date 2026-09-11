@@ -1,0 +1,4481 @@
+{
+  "categories": [
+    {
+      "events": [
+        {
+          "_debug_event_id_remap": {
+            "from": "PA_001",
+            "to": "wk85_PA_001"
+          },
+          "action": "signed an executive order renaming Lake Ontario to Lake America and posted AI-generated propaganda videos mocking the change",
+          "actor": "Trump",
+          "category": "Power and Authority",
+          "date": "2026-08-29",
+          "event_id": "wk85_PA_001",
+          "provenance": {
+            "dates": [
+              "2026-08-29",
+              "2026-08-31",
+              "2026-09-04"
+            ],
+            "sources": [
+              "guardian",
+              "meidas",
+              "popinfo"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0001",
+            "wk085-0017",
+            "wk085-0029",
+            "wk085-0064",
+            "wk085-0227"
+          ],
+          "source_names": [
+            "guardian",
+            "meidas",
+            "popinfo"
+          ],
+          "summary_line": "The president used unilateral executive authority to alter official U.S. geographic naming records and pressured private map companies, escalating a trade dispute with Canada while erasing Indigenous naming history.",
+          "trait_links": [
+            60
+          ],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "nyt_samefact",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-08-29",
+            "corroborated_by": [
+              {
+                "label": "nytimes",
+                "domain": "nytimes",
+                "url": "https://www.nytimes.com/2026/08/30/world/canada/lake-ontario-america-google-maps.html",
+                "tier": "tier1",
+                "identifier": "Google Maps Changes Lake Ontario to Lake America",
+                "date": "2026-08-30",
+                "match_method": "nyt_samefact",
+                "confidence": "high",
+                "byline": "Matina Stevis-Gridneff",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "Associated Press",
+                "domain": "apnews.com",
+                "url": "https://apnews.com/article/lake-ontario-canada-america-trump-trade-war-3ac58dca0ca83c15605d4dbff146b28a",
+                "tier": "tier1",
+                "identifier": "Trump signs order renaming Lake Ontario as 'Lake America' in the US",
+                "date": "2026-08-27",
+                "match_method": "web_search_samefact",
+                "confidence": "high",
+                "byline": "Michelle L. Price, Will Weissert",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "The New York Times",
+                "domain": "nytimes.com",
+                "url": "https://www.nytimes.com/2026/08/27/us/politics/trump-lake-america-executive-order.html",
+                "tier": "tier1",
+                "identifier": "Trump Orders the Government to Rename Lake Ontario to Lake America",
+                "date": "2026-08-27",
+                "match_method": "web_search_samefact",
+                "confidence": "high",
+                "byline": "Erica L. Green",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "BBC",
+                "domain": "bbc.com",
+                "url": "https://www.bbc.com/news/articles/cpq09594vw7o",
+                "tier": "news_desk",
+                "identifier": "Lake Ontario sign installed in Canada in latest jab at US",
+                "date": "2026-08-30",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Yang Tian",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "PBS",
+                "domain": "pbs.org",
+                "url": "https://www.pbs.org/newshour/show/news-wrap-trump-signs-order-to-rename-lake-ontario-as-lake-america",
+                "tier": "news_desk",
+                "identifier": "News Wrap: Trump signs order to rename Lake Ontario as Lake America",
+                "date": "2026-08-27",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "PBS News Hour",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "_debug_event_id_remap": {
+            "from": "PA_002",
+            "to": "wk85_PA_002"
+          },
+          "action": "declared Canada \"the worst\" and threatened further economic retaliation",
+          "actor": "Trump",
+          "category": "Power and Authority",
+          "date": "2026-08-31",
+          "event_date": "2026-08-31",
+          "event_id": "wk85_PA_002",
+          "provenance": {
+            "dates": [
+              "2026-08-31"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0083"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "The president publicly denounced a close democratic ally amid a trade dispute, using inflammatory rhetoric rather than diplomatic negotiation to manage international relations.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-08-31",
+            "corroborated_by": []
+          }
+        },
+        {
+          "_debug_event_id_remap": {
+            "from": "PA_003",
+            "to": "wk85_PA_003"
+          },
+          "action": "ordered airstrikes on Iranian targets near the Strait of Hormuz and threatened larger strikes",
+          "actor": "Trump",
+          "category": "Power and Authority",
+          "date": "2026-09-01",
+          "event_date": "2026-09-01",
+          "event_id": "wk85_PA_003",
+          "provenance": {
+            "dates": [
+              "2026-09-01"
+            ],
+            "sources": [
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0140"
+          ],
+          "source_names": [
+            "meidas"
+          ],
+          "summary_line": "Direct presidential military action against a foreign nation, including threats of escalation and possible mass civilian harm, raised war-powers and accountability concerns absent clear congressional authorization.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "multi_source_corroborated",
+            "verification_basis": "newsdesks_ge2",
+            "archive_status": "keep_corroborated",
+            "archive_grade": true,
+            "archive_date": "2026-09-01",
+            "corroborated_by": [
+              {
+                "label": "NBC News",
+                "domain": "nbcnews.com",
+                "url": "https://www.nbcnews.com/news/us-news/us-launches-strikes-iran-attack-ship-strait-hormuz-rcna351992",
+                "tier": "news_desk",
+                "identifier": "U.S. launches additional Iran strikes as tensions flare up over Hormuz",
+                "date": null,
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Marlene Lenthang, Courtney Kube, Phil Helsel, Freddie Clayton, Kyla Guilfoil",
+                "meta_source": "harvested",
+                "date_review": "predates_event(-67d)"
+              },
+              {
+                "label": "CNBC",
+                "domain": "cnbc.com",
+                "url": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
+                "tier": "news_desk",
+                "identifier": "Trump warns 'we're going to hit them hard' after Iran targets U.S. forces in Jordan: Report",
+                "date": "2026-08-30",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Sam Meredith, Anniek Bao, Dan Mangan",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "_debug_event_id_remap": {
+            "from": "PA_004",
+            "to": "wk85_PA_004"
+          },
+          "action": "held an Oval Office press gaggle and stated he would use nuclear weapons if needed against Iran",
+          "actor": "Trump",
+          "category": "Power and Authority",
+          "date": "2026-08-31",
+          "event_date": "2026-08-31",
+          "event_id": "wk85_PA_004",
+          "provenance": {
+            "dates": [
+              "2026-08-31"
+            ],
+            "sources": [
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0030"
+          ],
+          "source_names": [
+            "meidas"
+          ],
+          "summary_line": "The president's remarks on nuclear weapons use and hostile treatment of a reporter raised concerns about presidential temperament and decision-making authority over the most extreme military options.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-08-31",
+            "corroborated_by": [
+              {
+                "label": "Time",
+                "domain": "time.com",
+                "url": "https://time.com/4437089/donald-trump-nuclear-weapons-nukes/",
+                "tier": "news_desk",
+                "identifier": "Here's What Donald Trump Has Said About Nuclear Weapons",
+                "date": null,
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "TIME Staff",
+                "meta_source": "harvested",
+                "date_review": "predates_event(-3680d)"
+              }
+            ]
+          }
+        },
+        {
+          "_debug_event_id_remap": {
+            "from": "PA_005",
+            "to": "wk85_PA_005"
+          },
+          "action": "negotiated an oil development deal giving the U.S. majority control of Venezuela's oil reserves through a private operator with a history of money-laundering investigations",
+          "actor": "Trump administration",
+          "category": "Power and Authority",
+          "date": "2026-08-29",
+          "event_id": "wk85_PA_005",
+          "provenance": {
+            "dates": [
+              "2026-08-29",
+              "2026-08-30",
+              "2026-08-31",
+              "2026-09-02"
+            ],
+            "sources": [
+              "meidas",
+              "hcr",
+              "whitehouse"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0022",
+            "wk085-0028",
+            "wk085-0084",
+            "wk085-0087",
+            "wk085-0162"
+          ],
+          "source_names": [
+            "meidas",
+            "hcr",
+            "whitehouse"
+          ],
+          "summary_line": "A Pentagon office brokered resource control over a foreign nation's oil reserves via an opaque private partnership, prompting criticism from a former ambassador and conservative media as imperialism and crony statism.",
+          "trait_links": [
+            38
+          ],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "native_tier1",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-08-29",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "attempted to implement USPS mail-ballot restrictions requiring gatekeeper checks against a federal citizenship list",
+          "actor": "Trump administration",
+          "category": "Power and Authority",
+          "date": "2026-09-03",
+          "event_date": "2026-09-03",
+          "event_id": "wk85_PA_006",
+          "provenance": {
+            "dates": [
+              "2026-09-03"
+            ],
+            "sources": [
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0179",
+            "wk085-0202"
+          ],
+          "source_names": [
+            "hcr"
+          ],
+          "summary_line": "The executive branch sought to impose federal control over state-run election administration through the Postal Service, prompting judicial concern about disenfranchisement and separation-of-powers violations.",
+          "trait_links": [
+            1
+          ],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "native_tier1",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-09-03",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "petitioned the Supreme Court to enforce the blocked USPS mail-ballot restrictions",
+          "actor": "Solicitor General John Sauer",
+          "category": "Power and Authority",
+          "date": "2026-09-03",
+          "event_id": "wk85_PA_007",
+          "provenance": {
+            "dates": [
+              "2026-09-03",
+              "2026-09-04"
+            ],
+            "sources": [
+              "hcr",
+              "50501"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0193",
+            "wk085-0231"
+          ],
+          "source_names": [
+            "hcr",
+            "50501"
+          ],
+          "summary_line": "The administration escalated to the Supreme Court to override a district court's constitutional concerns, testing judicial willingness to permit federal control of state election processes weeks before midterms.",
+          "trait_links": [
+            1
+          ],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "courtlistener_api",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-09-03",
+            "corroborated_by": [
+              {
+                "label": "courtlistener",
+                "domain": "courtlistener",
+                "url": "https://www.courtlistener.com/opinion/10960230/state-ex-rel-wright-v-franklin-cty-mun-court/",
+                "tier": "tier1",
+                "identifier": "State ex rel. Wright v. Franklin Cty. Mun. Court",
+                "date": "2026-08-27",
+                "match_method": "courtlistener_api",
+                "confidence": "high",
+                "byline": null,
+                "meta_source": "resolver"
+              }
+            ]
+          }
+        },
+        {
+          "action": "began construction of a 250-foot Trump triumphal arch without required congressional authorization",
+          "actor": "Interior Secretary Doug Burgum",
+          "category": "Power and Authority",
+          "date": "2026-09-03",
+          "event_date": "2026-09-03",
+          "event_id": "wk85_PA_008",
+          "provenance": {
+            "dates": [
+              "2026-09-03"
+            ],
+            "sources": [
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0178"
+          ],
+          "source_names": [
+            "hcr"
+          ],
+          "summary_line": "The administration proceeded with a major federal monument project in violation of the 1986 Commemorative Works Act, asserting executive authority over a statutory requirement for congressional approval.",
+          "trait_links": [
+            24
+          ],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "native_tier1",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-09-03",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "began selling dollar coins bearing Trump's likeness at marked-up prices",
+          "actor": "U.S. Mint",
+          "category": "Power and Authority",
+          "date": "2026-09-02",
+          "event_date": "2026-09-02",
+          "event_id": "wk85_PA_009",
+          "provenance": {
+            "dates": [
+              "2026-09-02"
+            ],
+            "sources": [
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0168"
+          ],
+          "source_names": [
+            "hcr"
+          ],
+          "summary_line": "Federal minting of coins bearing the sitting president's image, sold well above face value, reflects a use of government institutions for personal glorification.",
+          "trait_links": [
+            24
+          ],
+          "corroboration": {
+            "verification_tier": "multi_source_corroborated",
+            "verification_basis": "newsdesks_ge2",
+            "archive_status": "keep_corroborated",
+            "archive_grade": true,
+            "archive_date": "2026-09-02",
+            "corroborated_by": [
+              {
+                "label": "BBC",
+                "domain": "bbc.com",
+                "url": "https://www.bbc.com/news/articles/c7507g9v992o",
+                "tier": "news_desk",
+                "identifier": "Trump $1 coin makes him first living president on US currency in a century",
+                "date": "2026-09-03",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Osmond Chia",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "Time",
+                "domain": "time.com",
+                "url": "https://time.com/article/2026/09/02/trump-1-gold-coins-go-on-sale/",
+                "tier": "news_desk",
+                "identifier": "U.S. Mint Begins Selling Trump $1 Coins. Are They Legal?",
+                "date": "2026-09-02",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Rebecca Schneid",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "CBS News",
+                "domain": "cbsnews.com",
+                "url": "https://www.cbsnews.com/news/trump-1-dollar-coins-us-mint-sale/",
+                "tier": "news_desk",
+                "identifier": "Gold-colored $1 Trump coins are now available, but it will cost you more than $1 to buy one",
+                "date": "2026-09-02",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Aimee  Picchi",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "announced that ICE agents would surround polling places in November",
+          "actor": "Steve Bannon",
+          "category": "Power and Authority",
+          "date": "2026-09-03",
+          "event_date": "2026-09-03",
+          "event_id": "wk85_PA_010",
+          "provenance": {
+            "dates": [
+              "2026-09-03"
+            ],
+            "sources": [
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0199"
+          ],
+          "source_names": [
+            "hcr"
+          ],
+          "summary_line": "A close Trump ally publicly previewed armed federal law-enforcement presence at polling sites, a practice prohibited under federal law, raising direct concerns about voter intimidation.",
+          "trait_links": [
+            45
+          ],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-09-03",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "declined to rule out deploying ICE agents to polling places",
+          "actor": "Homeland Security Secretary Markwayne Mullin",
+          "category": "Power and Authority",
+          "date": "2026-09-01",
+          "event_id": "wk85_PA_011",
+          "provenance": {
+            "dates": [
+              "2026-09-01",
+              "2026-09-02"
+            ],
+            "sources": [
+              "guardian",
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0113",
+            "wk085-0158"
+          ],
+          "source_names": [
+            "guardian",
+            "hcr"
+          ],
+          "summary_line": "A cabinet secretary's refusal to categorically exclude armed immigration agents at polling locations threatens compliance with federal law barring armed personnel at election sites.",
+          "trait_links": [
+            45
+          ],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-09-01",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "privately discussed declaring the Iran war over without achieving stated objectives",
+          "actor": "Trump",
+          "category": "Power and Authority",
+          "date": "2026-09-03",
+          "event_date": "2026-09-03",
+          "event_id": "wk85_PA_012",
+          "provenance": {
+            "dates": [
+              "2026-09-03"
+            ],
+            "sources": [
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0181"
+          ],
+          "source_names": [
+            "meidas"
+          ],
+          "summary_line": "Reported private deliberations over unilaterally declaring an active conflict concluded, regardless of military outcome, would represent an extraordinary and potentially misleading exercise of executive authority.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "nyt_samefact",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-09-03",
+            "corroborated_by": [
+              {
+                "label": "nytimes",
+                "domain": "nytimes",
+                "url": "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html",
+                "tier": "tier1",
+                "identifier": "Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again",
+                "date": "2026-09-02",
+                "match_method": "nyt_samefact",
+                "confidence": "high",
+                "byline": null,
+                "meta_source": "harvested"
+              },
+              {
+                "label": "CBS News",
+                "domain": "cbsnews.com",
+                "url": "https://www.cbsnews.com/live-updates/iran-war-us-strait-of-hormuz-sanctions/",
+                "tier": "news_desk",
+                "identifier": "Tehran engages in renewed diplomatic push, touts proposal to reopen Strait of Hormuz",
+                "date": "2026-08-26",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Tucker  Reals, Khaled  Wassef, Duarte  Dias",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "deliberately suppressed public information about the Iran conflict ahead of midterm elections",
+          "actor": "Trump administration",
+          "category": "Power and Authority",
+          "date": "2026-09-02",
+          "event_date": "2026-09-02",
+          "event_id": "wk85_PA_013",
+          "provenance": {
+            "dates": [
+              "2026-09-02"
+            ],
+            "sources": [
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0174"
+          ],
+          "source_names": [
+            "hcr"
+          ],
+          "summary_line": "Aides reportedly sought to keep an active war quiet to avoid voter backlash before elections, subordinating public disclosure of military conflict to partisan electoral timing.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "native_tier1",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-09-02",
+            "corroborated_by": []
+          }
+        }
+      ],
+      "name": "Power and Authority"
+    },
+    {
+      "events": [
+        {
+          "action": "ruled 5-4 to permit continued construction of the White House ballroom by finding the challenger lacked standing",
+          "actor": "US Supreme Court",
+          "category": "Institutions and Governance",
+          "date": "2026-08-31",
+          "event_date": "2026-08-31",
+          "event_id": "wk85_IG_001",
+          "provenance": {
+            "dates": [
+              "2026-08-31"
+            ],
+            "sources": [
+              "guardian",
+              "hcr",
+              "justsecurity",
+              "scotusopinions"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0037",
+            "wk085-0038",
+            "wk085-0043",
+            "wk085-0045"
+          ],
+          "source_names": [
+            "guardian",
+            "hcr",
+            "justsecurity",
+            "scotusopinions"
+          ],
+          "summary_line": "The Court allowed executive construction on federal property to proceed without resolving whether Congress had authorized it, narrowing standing for institutional challengers and drawing a sharp dissent from the Chief Justice.",
+          "trait_links": [
+            13,
+            14
+          ],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "native_tier1",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-08-31",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "temporarily blocked and later extended the block on the Trump administration's USPS mail-ballot verification rule",
+          "actor": "U.S. District Judge Indira Talwani",
+          "category": "Institutions and Governance",
+          "date": "2026-08-31",
+          "event_id": "wk85_IG_002",
+          "provenance": {
+            "dates": [
+              "2026-08-31",
+              "2026-09-01",
+              "2026-09-03"
+            ],
+            "sources": [
+              "50501",
+              "justsecurity",
+              "meidas",
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0033",
+            "wk085-0042",
+            "wk085-0044",
+            "wk085-0107",
+            "wk085-0192"
+          ],
+          "source_names": [
+            "50501",
+            "justsecurity",
+            "meidas",
+            "hcr"
+          ],
+          "summary_line": "A federal court found the government's new ballot-verification rule likely unlawful and unconstitutional, protecting mail voters from a system a whistleblower warned could disenfranchise millions.",
+          "trait_links": [
+            45
+          ],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "native_tier1",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-08-31",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "issued a temporary injunction blocking Trump's second executive order restricting birthright citizenship",
+          "actor": "Judge Deborah Boardman",
+          "category": "Institutions and Governance",
+          "date": "2026-09-03",
+          "event_date": "2026-09-03",
+          "event_id": "wk85_IG_003",
+          "provenance": {
+            "dates": [
+              "2026-09-03"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0190"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "A federal judge enforced Supreme Court precedent against a renewed executive attempt to deny automatic citizenship to certain U.S.-born children, upholding judicial supremacy over executive overreach.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "internal_master_index",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-09-03",
+            "corroborated_by": [
+              {
+                "label": "scotusorders",
+                "domain": "scotusorders",
+                "url": "https://www.supremecourt.gov/orders/courtorders/090426zor_22q3.pdf",
+                "tier": "tier1",
+                "identifier": "SCOTUS denies injunction in Comer v. Tolan",
+                "date": null,
+                "match_method": "internal_master_index",
+                "confidence": "high",
+                "byline": null,
+                "meta_source": "resolver"
+              }
+            ]
+          }
+        },
+        {
+          "action": "dismissed the Trump DOJ's lawsuit challenging California's trans-inclusive school sports policy",
+          "actor": "Judge Cynthia Valenzuela",
+          "category": "Institutions and Governance",
+          "date": "2026-09-02",
+          "event_date": "2026-09-02",
+          "event_id": "wk85_IG_004",
+          "provenance": {
+            "dates": [
+              "2026-09-02"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0147"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "A federal court rejected the administration's attempt to use funding leverage to override a state's LGBTQ-inclusive policy, affirming limits on executive coercion of state governance.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "multi_source_corroborated",
+            "verification_basis": "newsdesks_ge2",
+            "archive_status": "keep_corroborated",
+            "archive_grade": true,
+            "archive_date": "2026-09-02",
+            "corroborated_by": [
+              {
+                "label": "Fox News",
+                "domain": "foxnews.com",
+                "url": "https://www.foxnews.com/outkick-sports/federal-judge-dismisses-doj-lawsuit-challenging-california-policy-allowing-biological-males-girls-sports",
+                "tier": "news_desk",
+                "identifier": "Federal judge dismisses DOJ lawsuit challenging California policy allowing biological males in girls’ sports",
+                "date": "2026-09-02",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Alejandro Avila",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "New York Post",
+                "domain": "nypost.com",
+                "url": "https://nypost.com/2026/09/01/us-news/doj-plans-to-renew-challenge-to-californias-transgender-sports-policy/",
+                "tier": "news_desk",
+                "identifier": "California judge tosses Trump DOJ lawsuit, letting schools keep allowing biological males on girls' teams",
+                "date": "2026-09-01",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Daniel Farr",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "passed a continuing resolution funding the government through December 11",
+          "actor": "House of Representatives",
+          "category": "Institutions and Governance",
+          "date": "2026-09-01",
+          "event_id": "wk85_IG_005",
+          "provenance": {
+            "dates": [
+              "2026-09-01",
+              "2026-09-02"
+            ],
+            "sources": [
+              "guardian",
+              "congress"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0099",
+            "wk085-0100",
+            "wk085-0143"
+          ],
+          "source_names": [
+            "guardian",
+            "congress"
+          ],
+          "summary_line": "Congress fulfilled its core funding function ahead of midterms, avoiding a shutdown, though two Democrats broke ranks with leadership on a related procedural rule.",
+          "trait_links": [
+            15
+          ],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "native_tier1",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-09-01",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "referred two Democratic representatives to the caucus rules committee for voting with Republicans on a procedural rule",
+          "actor": "Hakeem Jeffries",
+          "category": "Institutions and Governance",
+          "date": "2026-09-02",
+          "event_date": "2026-09-02",
+          "event_id": "wk85_IG_006",
+          "provenance": {
+            "dates": [
+              "2026-09-02"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0144"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Internal party discipline proceedings over a procedural defection illustrate fragility in legislative coalitions and questions about the scope of leadership authority to punish dissenting members.",
+          "trait_links": [
+            15
+          ],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-09-02",
+            "corroborated_by": [
+              {
+                "label": "The Hill",
+                "domain": "thehill.com",
+                "url": "https://thehill.com/homenews/house/6069382-gluesenkamp-perez-rule-defection/",
+                "tier": "news_desk",
+                "identifier": "Jeffries, Democrats shift tone, aim to move beyond defector ...",
+                "date": null,
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": null,
+                "meta_source": "resolver"
+              }
+            ]
+          }
+        },
+        {
+          "action": "canceled House votes for the final two weeks of September before the midterms",
+          "actor": "Speaker Mike Johnson",
+          "category": "Institutions and Governance",
+          "date": "2026-09-03",
+          "event_date": "2026-09-03",
+          "event_id": "wk85_IG_007",
+          "provenance": {
+            "dates": [
+              "2026-09-03"
+            ],
+            "sources": [
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0185"
+          ],
+          "source_names": [
+            "hcr"
+          ],
+          "summary_line": "The Speaker's cancellation of legislative business curtailed congressional oversight and public accountability on major policy issues in the run-up to elections.",
+          "trait_links": [
+            15
+          ],
+          "corroboration": {
+            "verification_tier": "multi_source_corroborated",
+            "verification_basis": "newsdesks_ge2",
+            "archive_status": "keep_corroborated",
+            "archive_grade": true,
+            "archive_date": "2026-09-03",
+            "corroborated_by": [
+              {
+                "label": "ABC News",
+                "domain": "abcnews.com",
+                "url": "https://abcnews.com/Politics/speaker-johnson-reversal-cancels-house-votes-leaving-days/story?id=136173855",
+                "tier": "news_desk",
+                "identifier": "Speaker Johnson, in reversal, cancels House votes, leaving few days in session before midterms",
+                "date": "2026-09-03",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "John Parkinson",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "The Independent",
+                "domain": "the-independent.com",
+                "url": "https://www.the-independent.com/news/world/americas/us-politics/mike-johnson-cancels-house-votes-midterms-b3044270.html",
+                "tier": "news_desk",
+                "identifier": "Mike Johnson abruptly cancels final weeks of House votes amid panic over midterm elections",
+                "date": "2026-09-03",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Eric Garcia",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "subpoenaed and sought contempt proceedings against billionaire Leon Black over Epstein-related nondisclosure agreements",
+          "actor": "House Oversight Committee",
+          "category": "Institutions and Governance",
+          "date": "2026-09-02",
+          "event_id": "wk85_IG_008",
+          "provenance": {
+            "dates": [
+              "2026-09-02",
+              "2026-09-03",
+              "2026-09-04"
+            ],
+            "sources": [
+              "guardian",
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0145",
+            "wk085-0171",
+            "wk085-0182",
+            "wk085-0186",
+            "wk085-0187",
+            "wk085-0188",
+            "wk085-0230"
+          ],
+          "source_names": [
+            "guardian",
+            "meidas"
+          ],
+          "summary_line": "A witness's defiance of congressional subpoenas and lawsuit challenging committee authority tested Congress's investigative power over evidence related to sex trafficking.",
+          "trait_links": [
+            17
+          ],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "web_search_samefact",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-09-02",
+            "corroborated_by": [
+              {
+                "label": "The Washington Post",
+                "domain": "washingtonpost.com",
+                "url": "https://www.washingtonpost.com/politics/2026/09/03/epstein-client-leon-black-sues-oversight-committee-over-investigation/",
+                "tier": "tier1",
+                "identifier": "Epstein client Leon Black sues Oversight Committee over ...",
+                "date": "2026-09-03",
+                "match_method": "web_search_samefact",
+                "confidence": "high",
+                "byline": null,
+                "meta_source": "harvested"
+              },
+              {
+                "label": "NPR",
+                "domain": "npr.org",
+                "url": "https://www.npr.org/2026/09/03/nx-s1-5955643/leon-black-jeffrey-epstein-lawsuit",
+                "tier": "news_desk",
+                "identifier": "Leon Black defies subpoena to testify in Epstein inquiry and sues House panel",
+                "date": "2026-09-03",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Bill Chappell",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "NBC News",
+                "domain": "nbcnews.com",
+                "url": "https://www.nbcnews.com/politics/congress/billionaire-leon-black-sues-house-oversight-epstein-probe-subpoenas-rcna595887",
+                "tier": "news_desk",
+                "identifier": "Billionaire Leon Black sues House Oversight Committee over Epstein probe subpoenas",
+                "date": "2026-09-03",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Alexandra Marquez, Raquel Coronell Uribe",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "PBS",
+                "domain": "pbs.org",
+                "url": "https://www.pbs.org/newshour/politics/billionaire-leon-black-skips-epstein-deposition-and-sues-house-committee-over-subpoenas",
+                "tier": "news_desk",
+                "identifier": "Billionaire Leon Black skips Epstein deposition and sues House committee over subpoenas",
+                "date": "2026-09-03",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": null,
+                "meta_source": "harvested"
+              },
+              {
+                "label": "ABC News",
+                "domain": "abcnews.com",
+                "url": "https://abcnews.com/US/billionaire-leon-black-sues-house-oversight-committee-subpoena/story?id=136172853",
+                "tier": "news_desk",
+                "identifier": "Billionaire Leon Black sues House Oversight Committee over subpoena in Epstein probe",
+                "date": "2026-09-03",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "John Parkinson",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "filed a discharge petition to force a House vote on the Epstein Files Transparency Act 2.0",
+          "actor": "Representatives Ro Khanna and Thomas Massie",
+          "category": "Institutions and Governance",
+          "date": "2026-09-03",
+          "event_date": "2026-09-03",
+          "event_id": "wk85_IG_009",
+          "provenance": {
+            "dates": [
+              "2026-09-03"
+            ],
+            "sources": [
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0184"
+          ],
+          "source_names": [
+            "hcr"
+          ],
+          "summary_line": "A bipartisan effort to bypass the Speaker sought to compel disclosure of Epstein-related files after DOJ stonewalling, testing congressional independence from executive obstruction.",
+          "trait_links": [
+            17
+          ],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-09-03",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "opened an investigation into several labor unions' political spending based on claims from conservative nonprofits",
+          "actor": "House Republicans",
+          "category": "Institutions and Governance",
+          "date": "2026-09-01",
+          "event_date": "2026-09-01",
+          "event_id": "wk85_IG_010",
+          "provenance": {
+            "dates": [
+              "2026-09-01"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0101"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "A congressional inquiry targeting unions' lawful political advocacy ahead of midterms raises concerns about using government scrutiny to chill labor organizing and Democratic-aligned speech.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-09-01",
+            "corroborated_by": [
+              {
+                "label": "Fox News",
+                "domain": "foxnews.com",
+                "url": "https://www.foxnews.com/politics/house-gop-launches-probe-5-major-labor-unions-dem-spending-despite-maga-membership-base",
+                "tier": "news_desk",
+                "identifier": "House GOP launches probe into 5 major labor unions over Dem spending despite MAGA membership base",
+                "date": null,
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Kiera McDonald, Andrew Miller",
+                "meta_source": "harvested",
+                "date_review": "predates_event(-26d)"
+              }
+            ]
+          }
+        },
+        {
+          "action": "passed a bill penalizing universities that participate in boycotts of Israel",
+          "actor": "US House of Representatives",
+          "category": "Institutions and Governance",
+          "date": "2026-09-03",
+          "event_date": "2026-09-03",
+          "event_id": "wk85_IG_011",
+          "provenance": {
+            "dates": [
+              "2026-09-03"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0183"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "The House conditioned federal student aid on university compliance with a specific political stance, raising First Amendment and academic-freedom concerns.",
+          "trait_links": [
+            44
+          ],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-09-03",
+            "corroborated_by": [
+              {
+                "label": "Fox News",
+                "domain": "foxnews.com",
+                "url": "https://www.foxnews.com/politics/house-dems-break-jeffries-party-fractures-over-israel",
+                "tier": "news_desk",
+                "identifier": "33 House Dems break with Jeffries as party fractures over Israel",
+                "date": "2026-09-03",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Elizabeth Elkind",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "introduced legislation to block Trump's Lake Ontario renaming and future unilateral geographic renamings",
+          "actor": "Democratic representatives Kennedy, Morelle, and Dingell",
+          "category": "Institutions and Governance",
+          "date": "2026-09-01",
+          "event_date": "2026-09-01",
+          "event_id": "wk85_IG_012",
+          "provenance": {
+            "dates": [
+              "2026-09-01"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0098"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Congressional pushback against executive overreach sought to reassert legislative authority over federal geographic designations affecting an international body of water.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-09-01",
+            "corroborated_by": [
+              {
+                "label": "Newsweek",
+                "domain": "newsweek.com",
+                "url": "https://www.newsweek.com/city-in-republican-stronghold-by-lake-america-decries-trump-name-change-12399429",
+                "tier": "news_desk",
+                "identifier": "City in Republican stronghold by 'Lake America' decries Trump name change",
+                "date": "2026-09-03",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Hugh Cameron",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "endorsed expanding the Supreme Court to 13 justices and expressed regret over supporting Clarence Thomas's confirmation",
+          "actor": "Rep. James Clyburn",
+          "category": "Institutions and Governance",
+          "date": "2026-08-29",
+          "event_id": "wk85_IG_013",
+          "provenance": {
+            "dates": [
+              "2026-08-29",
+              "2026-08-31"
+            ],
+            "sources": [
+              "meidas",
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0004",
+            "wk085-0035"
+          ],
+          "source_names": [
+            "meidas",
+            "guardian"
+          ],
+          "summary_line": "A senior Democratic lawmaker publicly called for altering the Court's composition, reflecting concern over the judiciary's ideological direction and signaling potential legislative action.",
+          "trait_links": [
+            14
+          ],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "internal_master_index",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-08-29",
+            "corroborated_by": [
+              {
+                "label": "scotusorders",
+                "domain": "scotusorders",
+                "url": "https://www.supremecourt.gov/opinions/25pdf/26a203_2b8e.pdf",
+                "tier": "tier1",
+                "identifier": "Supreme Court releases opinion in National Park Service v. National Trust for Historic Preservation in the United States (26A203)",
+                "date": null,
+                "match_method": "internal_master_index",
+                "confidence": "high",
+                "byline": null,
+                "meta_source": "resolver"
+              }
+            ]
+          }
+        },
+        {
+          "action": "rejected Ghislaine Maxwell's constitutional challenge to her conviction",
+          "actor": "Federal judge Paul Engelmayer",
+          "category": "Institutions and Governance",
+          "date": "2026-08-30",
+          "event_date": "2026-08-30",
+          "event_id": "wk85_IG_014",
+          "provenance": {
+            "dates": [
+              "2026-08-30"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0025"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "A federal court closed a major legal avenue for overturning Maxwell's conviction, shifting focus to whether executive clemency might be used to circumvent the judicial process.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "multi_source_corroborated",
+            "verification_basis": "newsdesks_ge2",
+            "archive_status": "keep_corroborated",
+            "archive_grade": false,
+            "archive_date": "2026-08-30",
+            "corroborated_by": [
+              {
+                "label": "ABC News",
+                "domain": "abcnews.com",
+                "url": "https://abcnews.com/US/judge-rejects-ghislaine-maxwells-attempt-overturn-conviction/story?id=135933815",
+                "tier": "news_desk",
+                "identifier": "Judge rejects Ghislaine Maxwell's 'frivolous' attempt to overturn conviction",
+                "date": "2026-08-25",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Aaron Katersky, James Hill",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "CBS News",
+                "domain": "cbsnews.com",
+                "url": "https://www.cbsnews.com/news/ghislaine-maxwell-judge-conviction-sentence/",
+                "tier": "news_desk",
+                "identifier": "Judge rejects Ghislaine Maxwell's effort to overturn sex-trafficking conviction and sentence",
+                "date": "2026-08-25",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Melissa  Quinn, Jacob  Rosen",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "NBC News",
+                "domain": "nbcnews.com",
+                "url": "https://www.nbcnews.com/politics/politics-news/judge-rejects-ghislaine-maxwells-bid-toss-conviction-warns-appeals-rcna594298",
+                "tier": "news_desk",
+                "identifier": "Judge rejects Ghislaine Maxwell’s bid to toss conviction and warns against further appeals",
+                "date": "2026-08-25",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Reuters, Adam Reiss",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "Axios",
+                "domain": "axios.com",
+                "url": "https://www.axios.com/2026/08/25/ghislaine-maxwells-bid-to-overturn-conviction-rejected",
+                "tier": "news_desk",
+                "identifier": "Ghislaine Maxwell's bid to overturn conviction rejected",
+                "date": "2026-08-25",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Josephine Walker",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "enacted a continuing appropriations act for fiscal year 2027",
+          "actor": "Congress",
+          "category": "Institutions and Governance",
+          "date": "2026-09-02",
+          "event_date": "2026-09-02",
+          "event_id": "wk85_IG_015",
+          "provenance": {
+            "dates": [
+              "2026-09-02"
+            ],
+            "sources": [
+              "congress"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0143"
+          ],
+          "source_names": [
+            "congress"
+          ],
+          "summary_line": "Passage of continuing appropriations sustained federal operations, reflecting Congress fulfilling its constitutional duty to fund government activities.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "native_tier1",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-09-02",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "issued rulings and procedural orders in ongoing litigation challenging Trump administration actions",
+          "actor": "Various federal courts",
+          "category": "Institutions and Governance",
+          "date": "2026-08-31",
+          "event_id": "wk85_IG_016",
+          "provenance": {
+            "dates": [
+              "2026-08-29",
+              "2026-08-31",
+              "2026-09-02",
+              "2026-09-03"
+            ],
+            "sources": [
+              "justsecurity",
+              "justice"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0003",
+            "wk085-0039",
+            "wk085-0041",
+            "wk085-0149",
+            "wk085-0194",
+            "wk085-0200"
+          ],
+          "source_names": [
+            "justsecurity",
+            "justice"
+          ],
+          "summary_line": "Multiple court filings and rulings adjusted the legal posture of pending challenges to federal policy, part of ongoing judicial checks on executive action across several dockets.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "native_tier1",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-08-29",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "filed a complaint challenging an executive order directing creation of state citizenship lists for voter-roll use",
+          "actor": "Electronic Privacy Information Center",
+          "category": "Institutions and Governance",
+          "date": "2026-08-31",
+          "event_date": "2026-08-31",
+          "event_id": "wk85_IG_017",
+          "provenance": {
+            "dates": [
+              "2026-08-31"
+            ],
+            "sources": [
+              "justsecurity"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0040"
+          ],
+          "source_names": [
+            "justsecurity"
+          ],
+          "summary_line": "A privacy rights group sued to block a federal program consolidating sensitive citizenship data for distribution to state election officials, alleging violations of privacy law and separation of powers.",
+          "trait_links": [
+            46
+          ],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "native_tier1",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-08-31",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "filed a federal lawsuit challenging Trump's reductions of Bears Ears and Grand Staircase-Escalante national monuments",
+          "actor": "Patagonia and conservation groups",
+          "category": "Institutions and Governance",
+          "date": "2026-09-02",
+          "event_date": "2026-09-02",
+          "event_id": "wk85_IG_018",
+          "provenance": {
+            "dates": [
+              "2026-09-02"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0148"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Conservation groups tested statutory and constitutional limits on presidential authority to dismantle protected public lands under the Antiquities Act.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "nyt_samefact",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-09-02",
+            "corroborated_by": [
+              {
+                "label": "nytimes",
+                "domain": "nytimes",
+                "url": "https://www.nytimes.com/2026/09/02/climate/patagonia-bears-ears-lawsuit-trump.html",
+                "tier": "tier1",
+                "identifier": "Patagonia Sues Trump Over Utah National Monument",
+                "date": "2026-09-02",
+                "match_method": "nyt_samefact",
+                "confidence": "high",
+                "byline": null,
+                "meta_source": "harvested"
+              },
+              {
+                "label": "The New York Times",
+                "domain": "nytimes.com",
+                "url": "https://www.nytimes.com/2026/09/02/climate/patagonia-bears-ears-lawsuit-trump.html",
+                "tier": "tier1",
+                "identifier": "Patagonia Sues Trump Over Utah National Monument",
+                "date": "2026-09-02",
+                "match_method": "web_search_samefact",
+                "confidence": "high",
+                "byline": null,
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "filed a federal complaint challenging the transgender military service ban and a related demotion",
+          "actor": "Avery A. Trainor",
+          "category": "Institutions and Governance",
+          "date": "2026-08-31",
+          "event_date": "2026-08-31",
+          "event_id": "wk85_IG_019",
+          "provenance": {
+            "dates": [
+              "2026-08-31"
+            ],
+            "sources": [
+              "justsecurity"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0039"
+          ],
+          "source_names": [
+            "justsecurity"
+          ],
+          "summary_line": "A transgender military officer's lawsuit raises equal protection and due process questions about executive authority over military personnel policy.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "native_tier1",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-08-31",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "held primary elections including a Senate race testing generational leadership and a new race after Lindsey Graham's death",
+          "actor": "Massachusetts, South Carolina electorates",
+          "category": "Institutions and Governance",
+          "date": "2026-09-01",
+          "event_id": "wk85_IG_020",
+          "provenance": {
+            "dates": [
+              "2026-08-31",
+              "2026-09-01"
+            ],
+            "sources": [
+              "50501",
+              "guardian",
+              "justice"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0112",
+            "wk085-0114",
+            "wk085-0117",
+            "wk085-0053"
+          ],
+          "source_names": [
+            "50501",
+            "guardian",
+            "justice"
+          ],
+          "summary_line": "State primaries determined candidates for federal Senate seats, reflecting core democratic processes shaping representation ahead of the midterms.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "native_tier1",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-08-31",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "issued an opinion authorizing DHS to share statewide voter lists with immigration enforcement for cross-checking against federal databases",
+          "actor": "Justice Department Office of Legal Counsel",
+          "category": "Institutions and Governance",
+          "date": "2026-09-02",
+          "event_date": "2026-09-02",
+          "event_id": "wk85_IG_021",
+          "provenance": {
+            "dates": [
+              "2026-09-02"
+            ],
+            "sources": [
+              "50501"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0146",
+            "wk085-0141"
+          ],
+          "source_names": [
+            "50501"
+          ],
+          "summary_line": "A DOJ legal opinion legitimized sharing voter registration data with immigration agencies, raising privacy and due process concerns about the scope of executive authority over elections.",
+          "trait_links": [
+            46
+          ],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-09-02",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "issued a legal opinion expanding state reporting requirements for undocumented immigrants across all state agencies receiving TANF or SSI funds",
+          "actor": "DOJ",
+          "category": "Institutions and Governance",
+          "date": "2026-09-02",
+          "event_id": "wk85_IG_022",
+          "provenance": {
+            "dates": [
+              "2026-09-02",
+              "2026-09-03"
+            ],
+            "sources": [
+              "guardian",
+              "50501",
+              "justice"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0154",
+            "wk085-0177",
+            "wk085-0142"
+          ],
+          "source_names": [
+            "guardian",
+            "50501",
+            "justice"
+          ],
+          "summary_line": "A reversal of a 30-year-old policy dramatically broadened federal immigration surveillance into unrelated state institutions, chilling access to public services for immigrant communities.",
+          "trait_links": [
+            47
+          ],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "native_tier1",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-09-02",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "called for the impeachment of Defense Secretary Pete Hegseth",
+          "actor": "House oversight ranking Democrats",
+          "category": "Institutions and Governance",
+          "date": "2026-09-01",
+          "event_date": "2026-09-01",
+          "event_id": "wk85_IG_023",
+          "provenance": {
+            "dates": [
+              "2026-09-01"
+            ],
+            "sources": [
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0103"
+          ],
+          "source_names": [
+            "meidas"
+          ],
+          "summary_line": "Multiple House Democrats publicly called for impeachment of a Cabinet secretary over alleged corruption, mistreatment of troops, and unauthorized war conduct, escalating institutional conflict over military leadership.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-09-01",
+            "corroborated_by": [
+              {
+                "label": "Axios",
+                "domain": "axios.com",
+                "url": "https://www.axios.com/2026/04/15/iran-war-pete-hegseth-congress-impeachment-articles-democrats-reflecting-search-interest-order",
+                "tier": "news_desk",
+                "identifier": "Scoop: Dems file 6 impeachment articles against Hegseth",
+                "date": null,
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Andrew Solender",
+                "meta_source": "harvested",
+                "date_review": "predates_event(-139d)"
+              }
+            ]
+          }
+        },
+        {
+          "action": "demanded USPS cease the ballot-mail IT project and disclose all related records",
+          "actor": "Senator Richard Blumenthal",
+          "category": "Institutions and Governance",
+          "date": "2026-08-31",
+          "event_id": "wk85_IG_024",
+          "provenance": {
+            "dates": [
+              "2026-08-31",
+              "2026-09-01"
+            ],
+            "sources": [
+              "hcr",
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0031",
+            "wk085-0104",
+            "wk085-0119"
+          ],
+          "source_names": [
+            "hcr",
+            "meidas"
+          ],
+          "summary_line": "Congressional oversight authority was invoked to force transparency and cessation of an alleged election-sabotage IT scheme within the Postal Service.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "multi_source_corroborated",
+            "verification_basis": "newsdesks_ge2",
+            "archive_status": "keep_corroborated",
+            "archive_grade": true,
+            "archive_date": "2026-08-31",
+            "corroborated_by": [
+              {
+                "label": "ABC News",
+                "domain": "abcnews.com",
+                "url": "https://abcnews.com/Politics/catastrophic-failures-whistleblower-warns-trump-proposed-usps-mail/story?id=136114901",
+                "tier": "news_desk",
+                "identifier": "'Catastrophic failures': Whistleblower warns Trump-proposed USPS mail-in ballot system could 'derail' midterms",
+                "date": "2026-09-01",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Allison Pecorin, Devin Dwyer",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "CBS News",
+                "domain": "cbsnews.com",
+                "url": "https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/",
+                "tier": "news_desk",
+                "identifier": "Whistleblower warns Postal Service's new mail ballot system has \"potentially catastrophic problems\"",
+                "date": "2026-09-01",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Melissa  Quinn, Madeleine  May",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        }
+      ],
+      "name": "Institutions and Governance"
+    },
+    {
+      "events": [
+        {
+          "action": "reversed course after mounting agency pressure to expand welfare-related immigrant reporting obligations, tied to TANF and SSI funding",
+          "actor": "Department of Justice",
+          "category": "Economic Structure",
+          "date": "2026-09-02",
+          "event_date": "2026-09-02",
+          "event_id": "wk85_ES_001",
+          "provenance": {
+            "dates": [
+              "2026-09-02"
+            ],
+            "sources": [
+              "justice"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0142"
+          ],
+          "source_names": [
+            "justice"
+          ],
+          "summary_line": "Federal conditioning of welfare program funding on expanded immigration reporting obligations reshapes access to public benefits for states and immigrant families.",
+          "trait_links": [
+            47
+          ],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "native_tier1",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-09-02",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "banned George Santos for life and the CFTC fined a White House teleprompter operator for insider trading on prediction markets",
+          "actor": "Kalshi",
+          "category": "Economic Structure",
+          "date": "2026-08-29",
+          "event_id": "wk85_ES_002",
+          "provenance": {
+            "dates": [
+              "2026-08-29",
+              "2026-08-31"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0005",
+            "wk085-0048",
+            "wk085-0079"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Regulatory and platform enforcement against insider trading by individuals with access to government information reinforced market integrity safeguards in emerging prediction markets.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "nyt_samefact",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-08-29",
+            "corroborated_by": [
+              {
+                "label": "nytimes",
+                "domain": "nytimes",
+                "url": "https://www.nytimes.com/2026/08/31/business/kalshi-bans-george-santos.html",
+                "tier": "tier1",
+                "identifier": "Kalshi Permanently Bars George Santos From the Platform",
+                "date": "2026-08-31",
+                "match_method": "nyt_samefact",
+                "confidence": "high",
+                "byline": "Lauren McCarthy",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "The Wall Street Journal",
+                "domain": "wsj.com",
+                "url": "https://www.wsj.com/business/ex-congressman-george-santos-receives-kalshis-first-ever-lifetime-ban-b50eeaf1",
+                "tier": "tier1",
+                "identifier": "Kalshi Bans George Santos for Life Over State of the Union ...",
+                "date": null,
+                "match_method": "web_search_samefact",
+                "confidence": "high",
+                "byline": null,
+                "meta_source": "resolver"
+              }
+            ]
+          }
+        },
+        {
+          "action": "sued State Farm for false advertising and systematic underpayment of wildfire victims' insurance claims",
+          "actor": "Los Angeles County",
+          "category": "Economic Structure",
+          "date": "2026-09-01",
+          "event_id": "wk85_ES_003",
+          "provenance": {
+            "dates": [
+              "2026-09-01",
+              "2026-09-02",
+              "2026-09-04"
+            ],
+            "sources": [
+              "popinfo"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0131",
+            "wk085-0169",
+            "wk085-0278"
+          ],
+          "source_names": [
+            "popinfo"
+          ],
+          "summary_line": "A government lawsuit against a major insurer documents systematic denial of disaster benefits, citing state regulatory findings of widespread legal violations affecting vulnerable claimants.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "web_search_samefact",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-09-01",
+            "corroborated_by": [
+              {
+                "label": "Los Angeles Times",
+                "domain": "latimes.com",
+                "url": "https://www.latimes.com/business/story/2026-08-31/la-county-sues-state-farm-over-its-handling-of-wildfire-claims",
+                "tier": "tier1",
+                "identifier": "L.A. County sues State Farm over its handling of wildfire claims",
+                "date": "2026-09-01",
+                "match_method": "web_search_samefact",
+                "confidence": "high",
+                "byline": "Melody Petersen",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "publicly promoted data center development, benefiting industries tied to his major donors",
+          "actor": "Trump",
+          "category": "Economic Structure",
+          "date": "2026-08-31",
+          "event_date": "2026-08-31",
+          "event_id": "wk85_ES_004",
+          "provenance": {
+            "dates": [
+              "2026-08-31"
+            ],
+            "sources": [
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0080"
+          ],
+          "source_names": [
+            "meidas"
+          ],
+          "summary_line": "Presidential promotion of an industry funding the president's campaign infrastructure, while no facilities are built near his own properties, raises conflict-of-interest concerns.",
+          "trait_links": [
+            38
+          ],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "nyt_samefact",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-08-31",
+            "corroborated_by": [
+              {
+                "label": "nytimes",
+                "domain": "nytimes",
+                "url": "https://www.nytimes.com/2026/08/31/us/politics/trump-data-centers.html",
+                "tier": "tier1",
+                "identifier": "Trump Mocks Data-Center Opponents as Wanting to Stay ‘Backwards and Poor’",
+                "date": "2026-08-31",
+                "match_method": "nyt_samefact",
+                "confidence": "high",
+                "byline": null,
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "rescinded coordination regulations for enforcing labor protections for migrant and seasonal farmworkers",
+          "actor": "Department of Labor",
+          "category": "Economic Structure",
+          "date": "2026-08-31",
+          "event_date": "2026-08-31",
+          "event_id": "wk85_ES_005",
+          "provenance": {
+            "dates": [
+              "2026-08-31"
+            ],
+            "sources": [
+              "federalregister"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0073"
+          ],
+          "source_names": [
+            "federalregister"
+          ],
+          "summary_line": "Eliminating formal inter-agency coordination requirements reduces oversight capacity for labor protections affecting a vulnerable agricultural workforce.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "native_tier1",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-08-31",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "saw sharply rising prices as U.S.-Iran military escalation disrupted shipping in the Strait of Hormuz",
+          "actor": "Global oil markets",
+          "category": "Economic Structure",
+          "date": "2026-09-03",
+          "event_date": "2026-09-03",
+          "event_id": "wk85_ES_006",
+          "provenance": {
+            "dates": [
+              "2026-09-03"
+            ],
+            "sources": [
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0211"
+          ],
+          "source_names": [
+            "meidas"
+          ],
+          "summary_line": "Military conflict driven by executive decisions produced steep increases in fuel and diesel costs for American consumers, linking foreign policy choices directly to domestic economic hardship.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-09-03",
+            "corroborated_by": [
+              {
+                "label": "PBS",
+                "domain": "pbs.org",
+                "url": "https://www.pbs.org/newshour/world/oil-and-gas-prices-rise-rapidly-as-iran-war-escalates",
+                "tier": "news_desk",
+                "identifier": "Oil and gas prices rise rapidly as Iran war escalates",
+                "date": null,
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": null,
+                "meta_source": "harvested",
+                "date_review": "predates_event(-180d)"
+              }
+            ]
+          }
+        },
+        {
+          "action": "restarted a failed procurement process for a medical claims processing system after detainees' unpaid medical bills mounted",
+          "actor": "Department of Homeland Security",
+          "category": "Economic Structure",
+          "date": "2026-09-01",
+          "event_date": "2026-09-01",
+          "event_id": "wk85_ES_007",
+          "provenance": {
+            "dates": [
+              "2026-09-01"
+            ],
+            "sources": [
+              "popinfo"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0130"
+          ],
+          "source_names": [
+            "popinfo"
+          ],
+          "summary_line": "Failure of a federal contract to deliver a working system for detainee medical billing prolonged a crisis affecting the health and financial obligations of people in government custody.",
+          "trait_links": [
+            25
+          ],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-09-01",
+            "corroborated_by": [
+              {
+                "label": "CBS News",
+                "domain": "cbsnews.com",
+                "url": "https://www.cbsnews.com/atlanta/news/ice-stopped-paying-for-detainee-medical-care-as-population-surged/",
+                "tier": "news_desk",
+                "identifier": "ICE stopped paying for detainee medical care as population surged, Ossoff investigation finds widespread neglect",
+                "date": null,
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Zachary  Bynum",
+                "date_review": "predates_event(-223d)",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "terminated its medical billing agreement with ICE under political pressure based on false claims",
+          "actor": "Department of Veterans Affairs",
+          "category": "Economic Structure",
+          "date": "2026-09-01",
+          "event_date": "2026-09-01",
+          "event_id": "wk85_ES_008",
+          "provenance": {
+            "dates": [
+              "2026-09-01"
+            ],
+            "sources": [
+              "popinfo"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0097"
+          ],
+          "source_names": [
+            "popinfo"
+          ],
+          "summary_line": "A federal agency ended a functioning reimbursement system based on unfounded political pressure, contributing to a cascade of unpaid medical bills and potential harm to detainees.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-09-01",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "recorded a detainee mortality rate nearly four times higher than under the prior administration",
+          "actor": "ICE detention system",
+          "category": "Economic Structure",
+          "date": "2026-09-01",
+          "event_date": "2026-09-01",
+          "event_id": "wk85_ES_009",
+          "provenance": {
+            "dates": [
+              "2026-09-01"
+            ],
+            "sources": [
+              "popinfo"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0111"
+          ],
+          "source_names": [
+            "popinfo"
+          ],
+          "summary_line": "A dramatic rise in detainee deaths, many with suspected inadequate medical care, coincided with the collapse of the medical payment system, implicating government duty-of-care obligations.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-09-01",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "diverted opioid settlement funds intended for public health recovery toward surveillance camera purchases",
+          "actor": "Local law enforcement agencies",
+          "category": "Economic Structure",
+          "date": "2026-09-04",
+          "event_date": "2026-09-04",
+          "event_id": "wk85_ES_010",
+          "provenance": {
+            "dates": [
+              "2026-09-04"
+            ],
+            "sources": [
+              "popinfo"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0277"
+          ],
+          "source_names": [
+            "popinfo"
+          ],
+          "summary_line": "Misallocation of settlement money meant for opioid-crisis recovery toward license-plate surveillance technology represents a diversion of public resources from their intended humanitarian purpose.",
+          "trait_links": [
+            25
+          ],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-09-04",
+            "corroborated_by": []
+          }
+        }
+      ],
+      "name": "Economic Structure"
+    },
+    {
+      "events": [
+        {
+          "action": "used an obscure customs statute to obtain phone, financial, and social media records on journalists, unions, and nonprofits without judicial oversight",
+          "actor": "DHS",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-08-29",
+          "event_date": "2026-08-29",
+          "event_id": "wk85_CR_001",
+          "provenance": {
+            "dates": [
+              "2026-08-29"
+            ],
+            "sources": [
+              "guardian",
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0006",
+            "wk085-0010"
+          ],
+          "source_names": [
+            "guardian",
+            "meidas"
+          ],
+          "summary_line": "DHS circumvented Fourth Amendment protections to surveil journalists, labor unions, and advocacy groups using administrative summonses that bypassed judicial review previously denied for lack of probable cause.",
+          "trait_links": [
+            21,
+            42,
+            46
+          ],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-08-29",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "requested a GAO investigation into DHS's use of administrative summonses for warrantless surveillance",
+          "actor": "Senators Ron Wyden and Pramila Jayapal",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-09-02",
+          "event_date": "2026-09-02",
+          "event_id": "wk85_CR_002",
+          "provenance": {
+            "dates": [
+              "2026-09-02"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0153"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Congressional Democrats sought accountability for systematic surveillance of journalists and activists that bypassed judicial oversight, targeting a threat to First Amendment protections.",
+          "trait_links": [
+            42
+          ],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-09-02",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "arrested and deported far-right commentator Milo Yiannopoulos within 24 hours",
+          "actor": "ICE",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-08-29",
+          "event_date": "2026-08-29",
+          "event_id": "wk85_CR_003",
+          "provenance": {
+            "dates": [
+              "2026-08-29"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0007",
+            "wk085-0008"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "The unusually rapid deportation of a politically prominent figure raised questions about whether immigration enforcement speed correlates with political considerations rather than standard procedure.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "nyt_samefact",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-08-29",
+            "corroborated_by": [
+              {
+                "label": "nytimes",
+                "domain": "nytimes",
+                "url": "https://www.nytimes.com/2026/08/28/us/politics/milo-yiannopoulos-arrested-ice.html",
+                "tier": "tier1",
+                "identifier": "Milo Yiannopoulos, a Right-Wing Provocateur, Is Arrested by ICE",
+                "date": "2026-08-28",
+                "match_method": "nyt_samefact",
+                "confidence": "high",
+                "byline": null,
+                "meta_source": "harvested"
+              },
+              {
+                "label": "PBS",
+                "domain": "pbs.org",
+                "url": "https://www.pbs.org/newshour/world/far-right-british-provocateur-milo-yiannopoulos-has-been-deported-after-his-immigration-arrest-in-u-s",
+                "tier": "news_desk",
+                "identifier": "Far-right British provocateur Milo Yiannopoulos has been deported after his immigration arrest in U.S.",
+                "date": "2026-08-29",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": null,
+                "meta_source": "harvested"
+              },
+              {
+                "label": "BBC",
+                "domain": "bbc.com",
+                "url": "https://www.bbc.com/news/articles/cqlw52vr0dwo",
+                "tier": "news_desk",
+                "identifier": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+                "date": "2026-08-29",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "George Wright",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "detained a 76-year-old permanent resident with stage 4 cancer over a decades-old undisclosed conviction",
+          "actor": "ICE",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-09-01",
+          "event_date": "2026-09-01",
+          "event_id": "wk85_CR_004",
+          "provenance": {
+            "dates": [
+              "2026-09-01"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0109"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Detention of a long-term legal resident with advanced cancer based on retroactive visa disclosure requirements raises due process and proportionality concerns in immigration enforcement.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "courtlistener_api",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-09-01",
+            "corroborated_by": [
+              {
+                "label": "courtlistener",
+                "domain": "courtlistener",
+                "url": "https://www.courtlistener.com/opinion/10958612/untitled-texas-attorney-general-opinion-kp-0525/",
+                "tier": "tier1",
+                "identifier": "Untitled Texas Attorney General Opinion: KP-0525",
+                "date": "2026-08-26",
+                "match_method": "courtlistener_api",
+                "confidence": "high",
+                "byline": null,
+                "meta_source": "resolver"
+              }
+            ]
+          }
+        },
+        {
+          "action": "mandated training instructing immigration judges to deny or sharply limit continuances for vulnerable respondents",
+          "actor": "DOJ/EOIR",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-09-04",
+          "event_date": "2026-09-04",
+          "event_id": "wk85_CR_005",
+          "provenance": {
+            "dates": [
+              "2026-09-04"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0249"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "A directive to accelerate deportations by curbing legal delays undermines due process for immigrants awaiting visas, legal counsel, or protections, prioritizing removal speed over judicial fairness.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-09-04",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "imposed a blanket ban on contact visits at California's largest detention facility",
+          "actor": "ICE",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-09-04",
+          "event_date": "2026-09-04",
+          "event_id": "wk85_CR_006",
+          "provenance": {
+            "dates": [
+              "2026-09-04"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0250"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "A prohibition on physical contact between detainees and family, more restrictive than rules for convicted felons, drew a state audit finding and a grassroots family campaign for reversal.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "nyt_samefact",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-09-04",
+            "corroborated_by": [
+              {
+                "label": "nytimes",
+                "domain": "nytimes",
+                "url": "https://www.nytimes.com/2026/08/31/us/california-taser-gloves.html",
+                "tier": "tier1",
+                "identifier": "California Lawmakers Pass Ban on Shock Gloves",
+                "date": "2026-09-01",
+                "match_method": "nyt_samefact",
+                "confidence": "high",
+                "byline": null,
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "deported a five-year-old child and his father to Mexico without apparent judicial review",
+          "actor": "ICE",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-09-04",
+          "event_date": "2026-09-04",
+          "event_id": "wk85_CR_007",
+          "provenance": {
+            "dates": [
+              "2026-09-04"
+            ],
+            "sources": [
+              "outloud"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0252",
+            "wk085-0253"
+          ],
+          "source_names": [
+            "outloud"
+          ],
+          "summary_line": "Removal of a minor child without due process safeguards demonstrates enforcement practices that bypass legal protections for vulnerable individuals.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-09-04",
+            "corroborated_by": [
+              {
+                "label": "PBS",
+                "domain": "pbs.org",
+                "url": "https://www.pbs.org/newshour/nation/5-year-old-liam-conejo-ramos-and-his-father-released-from-texas-detention-facility-following-judges-order",
+                "tier": "news_desk",
+                "identifier": "5-year-old Liam Conejo Ramos and his father released from ICE facility following judge's order",
+                "date": null,
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": null,
+                "date_review": "predates_event(-215d)",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "arrested approximately 50,000 people in July, most without criminal records",
+          "actor": "ICE",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-09-04",
+          "event_date": "2026-09-04",
+          "event_id": "wk85_CR_008",
+          "provenance": {
+            "dates": [
+              "2026-09-04"
+            ],
+            "sources": [
+              "outloud"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0254"
+          ],
+          "source_names": [
+            "outloud"
+          ],
+          "summary_line": "Mass immigration arrests disconnected from public-safety rationale raise due-process concerns and indicate enforcement scaled beyond legitimate law-enforcement purposes.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "multi_source_corroborated",
+            "verification_basis": "newsdesks_ge2",
+            "archive_status": "keep_corroborated",
+            "archive_grade": true,
+            "archive_date": "2026-09-04",
+            "corroborated_by": [
+              {
+                "label": "CBS News",
+                "domain": "cbsnews.com",
+                "url": "https://www.cbsnews.com/news/ice-arrests-record-high-july-new-data/",
+                "tier": "news_desk",
+                "identifier": "ICE arrested a record number of people without criminal records in summer enforcement surge, new data shows",
+                "date": "2026-08-26",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Julia  Ingram",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "PBS",
+                "domain": "pbs.org",
+                "url": "https://www.pbs.org/newshour/nation/ice-arrests-jump-to-nearly-50000-in-july-highest-monthly-total-of-trumps-crackdown",
+                "tier": "news_desk",
+                "identifier": "ICE arrests jump to nearly 50,000 in July, highest monthly total of Trump’s crackdown",
+                "date": "2026-08-25",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": null,
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "redirected hundreds of USCIS fraud-investigation officers to examine voter registration data for noncitizens",
+          "actor": "DHS",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-08-31",
+          "event_id": "wk85_CR_009",
+          "provenance": {
+            "dates": [
+              "2026-08-31",
+              "2026-09-02"
+            ],
+            "sources": [
+              "50501"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0046",
+            "wk085-0152"
+          ],
+          "source_names": [
+            "50501"
+          ],
+          "summary_line": "Federal immigration officers were reassigned to review voter rolls ahead of midterms despite unsubstantiated figures, raising concern that election-integrity claims justify expanded surveillance.",
+          "trait_links": [
+            45
+          ],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-08-31",
+            "corroborated_by": [
+              {
+                "label": "ProPublica",
+                "domain": "propublica.org",
+                "url": "https://www.propublica.org/article/noncitizen-voting-trump-homeland-security-investigations",
+                "tier": "news_desk",
+                "identifier": "Inside Trump’s Failed Hunt for Noncitizen Voters",
+                "date": null,
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Peter Elkind, Jen Fifield, Doug Bock Clark, Ken B. Morales, and Andy Mannix",
+                "meta_source": "harvested",
+                "date_review": "predates_event(-17d)"
+              }
+            ]
+          }
+        },
+        {
+          "action": "launched a coordinated voter-fraud investigation across nine states timed to run through the early-voting period",
+          "actor": "Homeland Security Investigations",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-09-02",
+          "event_date": "2026-09-02",
+          "event_id": "wk85_CR_010",
+          "provenance": {
+            "dates": [
+              "2026-09-02"
+            ],
+            "sources": [
+              "50501"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0150",
+            "wk085-0151"
+          ],
+          "source_names": [
+            "50501"
+          ],
+          "summary_line": "A federal law-enforcement surge targeting alleged noncitizen voting was scheduled to continue into active voting periods, raising concerns about politicization and voter intimidation.",
+          "trait_links": [
+            45
+          ],
+          "corroboration": {
+            "verification_tier": "multi_source_corroborated",
+            "verification_basis": "newsdesks_ge2",
+            "archive_status": "keep_corroborated",
+            "archive_grade": true,
+            "archive_date": "2026-09-02",
+            "corroborated_by": [
+              {
+                "label": "ABC News",
+                "domain": "abcnews.com",
+                "url": "https://abcnews.com/Politics/dhs-ramping-voter-fraud-investigations-ahead-midterm-elections/story?id=136174863",
+                "tier": "news_desk",
+                "identifier": "DHS ramping up voter fraud investigations ahead of midterm elections: Sources",
+                "date": "2026-09-03",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Luke Barr",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "Fox News",
+                "domain": "foxnews.com",
+                "url": "https://www.foxnews.com/politics/watch-illegal-alien-busted-battleground-state-allegedly-committing-voter-fraud.amp",
+                "tier": "news_desk",
+                "identifier": "WATCH: Illegal alien busted in battleground state after allegedly committing voter fraud",
+                "date": "2026-09-04",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Alec Schemmel",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "identified over 250,000 potential noncitizens on voter rolls in four states, with state officials disputing the accuracy",
+          "actor": "DHS",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-09-02",
+          "event_date": "2026-09-02",
+          "event_id": "wk85_CR_011",
+          "provenance": {
+            "dates": [
+              "2026-09-02"
+            ],
+            "sources": [
+              "50501"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0160"
+          ],
+          "source_names": [
+            "50501"
+          ],
+          "summary_line": "A large discrepancy between initial noncitizen-voter estimates and confirmed cases raised questions about false positives threatening eligible voters' registration status.",
+          "trait_links": [
+            45
+          ],
+          "corroboration": {
+            "verification_tier": "multi_source_corroborated",
+            "verification_basis": "newsdesks_ge2",
+            "archive_status": "keep_corroborated",
+            "archive_grade": true,
+            "archive_date": "2026-09-02",
+            "corroborated_by": [
+              {
+                "label": "NPR",
+                "domain": "npr.org",
+                "url": "https://www.npr.org/2026/08/25/nx-s1-5940807/noncitizen-voters-trump-nevada-call",
+                "tier": "news_desk",
+                "identifier": "DHS acknowledges the noncitizen numbers it touted on voter rolls were inflated",
+                "date": "2026-08-25",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Jude Joffe-Block",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "MSNBC",
+                "domain": "ms.now",
+                "url": "https://www.ms.now/news/aggressive-dhs-hunt-for-voter-fraud-only-finding-a-handful-of-possible-noncitizen-cases",
+                "tier": "news_desk",
+                "identifier": "Aggressive DHS hunt for voter fraud only finding a handful of possible noncitizen cases",
+                "date": "2026-09-04",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Cindy Galli",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "reported that fewer than 150 alleged noncitizen voters were referred for prosecution despite tens of thousands of leads",
+          "actor": "ProPublica",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-09-02",
+          "event_date": "2026-09-02",
+          "event_id": "wk85_CR_012",
+          "provenance": {
+            "dates": [
+              "2026-09-02"
+            ],
+            "sources": [
+              "50501"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0170"
+          ],
+          "source_names": [
+            "50501"
+          ],
+          "summary_line": "Investigative reporting found minimal prosecutions relative to the scale of the government's noncitizen-voter identification effort, alongside internal warnings about false-match risks.",
+          "trait_links": [
+            45
+          ],
+          "corroboration": {
+            "verification_tier": "multi_source_corroborated",
+            "verification_basis": "newsdesks_ge2",
+            "archive_status": "keep_corroborated",
+            "archive_grade": false,
+            "archive_date": "2026-09-02",
+            "corroborated_by": [
+              {
+                "label": "ProPublica",
+                "domain": "propublica.org",
+                "url": "https://www.propublica.org/article/noncitizen-voting-trump-homeland-security-investigations",
+                "tier": "news_desk",
+                "identifier": "Inside Trump’s Failed Hunt for Noncitizen Voters",
+                "date": null,
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Peter Elkind, Jen Fifield, Doug Bock Clark, Ken B. Morales, and Andy Mannix",
+                "meta_source": "harvested",
+                "date_review": "predates_event(-19d)"
+              },
+              {
+                "label": "NPR",
+                "domain": "npr.org",
+                "url": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
+                "tier": "news_desk",
+                "identifier": "Trump's claims of 250,000 non-U.S. citizens on voter rolls leave some states baffled",
+                "date": null,
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Jude Joffe-Block",
+                "meta_source": "harvested",
+                "date_review": "predates_event(-33d)"
+              }
+            ]
+          }
+        },
+        {
+          "action": "voted to eliminate 92 of 316 polling sites ahead of the midterm elections",
+          "actor": "Tarrant County commissioners",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-09-01",
+          "event_id": "wk85_CR_013",
+          "provenance": {
+            "dates": [
+              "2026-08-31",
+              "2026-09-01"
+            ],
+            "sources": [
+              "meidas",
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0058",
+            "wk085-0115"
+          ],
+          "source_names": [
+            "meidas",
+            "hcr"
+          ],
+          "summary_line": "Reducing polling locations in a major Texas county affecting 1.3 million registered voters directly restricts voting access in a competitive Senate battleground.",
+          "trait_links": [
+            45
+          ],
+          "corroboration": {
+            "verification_tier": "multi_source_corroborated",
+            "verification_basis": "newsdesks_ge2",
+            "archive_status": "keep_corroborated",
+            "archive_grade": true,
+            "archive_date": "2026-08-31",
+            "corroborated_by": [
+              {
+                "label": "The Texas Tribune",
+                "domain": "texastribune.org",
+                "url": "https://www.texastribune.org/2026/09/01/tarrant-county-removes-polling-sites/",
+                "tier": "news_desk",
+                "identifier": "Tarrant County removes 92 polling sites ahead of November election",
+                "date": "2026-09-01",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Cecilia Lenzen",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "ABC News",
+                "domain": "abcnews.com",
+                "url": "https://abcnews.com/Politics/amid-public-outcry-tarrant-county-texas-cuts-polling/story?id=136116581",
+                "tier": "news_desk",
+                "identifier": "Amid public outcry, Tarrant County, Texas cuts polling locations ahead of 2026 midterm elections",
+                "date": "2026-09-01",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Deena Zaru",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "NBC News",
+                "domain": "nbcnews.com",
+                "url": "https://www.nbcnews.com/politics/2026-election/tarrant-county-texas-votes-slash-polling-sites-midterms-rcna595338",
+                "tier": "news_desk",
+                "identifier": "Key Texas county votes to cut polling sites ahead of the midterms",
+                "date": "2026-09-01",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Jane C. Timm",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "adopted new rules making mail-in voting more difficult, including restricting who may deliver absentee ballots",
+          "actor": "North Carolina Board of Elections",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-09-04",
+          "event_date": "2026-09-04",
+          "event_id": "wk85_CR_014",
+          "provenance": {
+            "dates": [
+              "2026-09-04"
+            ],
+            "sources": [
+              "outloud"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0258"
+          ],
+          "source_names": [
+            "outloud"
+          ],
+          "summary_line": "Newly adopted restrictions on mail-ballot delivery and envelope requirements increase the likelihood that ballots will be rejected for minor infractions, narrowing electoral participation.",
+          "trait_links": [
+            45
+          ],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "nyt_samefact",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-09-04",
+            "corroborated_by": [
+              {
+                "label": "nytimes",
+                "domain": "nytimes",
+                "url": "https://www.nytimes.com/2026/09/04/us/politics/north-carolina-mails-first-ballots-of-fall-as-trump-tries-to-restrict-them.html",
+                "tier": "tier1",
+                "identifier": "North Carolina Mails First Ballots of Fall, as Trump Tries to Restrict Them",
+                "date": "2026-09-04",
+                "match_method": "nyt_samefact",
+                "confidence": "high",
+                "byline": null,
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "disclosed that a new ballot-handling system could reject entire batches of ballots over single scanning errors",
+          "actor": "USPS whistleblower",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-09-01",
+          "event_id": "wk85_CR_015",
+          "provenance": {
+            "dates": [
+              "2026-09-01",
+              "2026-09-02",
+              "2026-09-03",
+              "2026-09-04"
+            ],
+            "sources": [
+              "hcr",
+              "meidas",
+              "popinfo"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0116",
+            "wk085-0119",
+            "wk085-0172",
+            "wk085-0201",
+            "wk085-0259"
+          ],
+          "source_names": [
+            "hcr",
+            "meidas",
+            "popinfo"
+          ],
+          "summary_line": "A federal whistleblower warned that rushed, flawed ballot-verification technology risked massive disenfranchisement of mail voters weeks before the midterm elections.",
+          "trait_links": [
+            45
+          ],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "web_search_samefact",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-09-01",
+            "corroborated_by": [
+              {
+                "label": "The Washington Post",
+                "domain": "washingtonpost.com",
+                "url": "https://www.washingtonpost.com/politics/2026/09/01/whistleblower-warns-usps-system-could-block-mail-ballots/",
+                "tier": "tier1",
+                "identifier": "Whistleblower warns USPS system could block mail ballots",
+                "date": "2026-09-01",
+                "match_method": "web_search_samefact",
+                "confidence": "high",
+                "byline": null,
+                "meta_source": "harvested"
+              },
+              {
+                "label": "PBS",
+                "domain": "pbs.org",
+                "url": "https://www.pbs.org/newshour/politics/whistleblower-postal-services-work-to-comply-with-trump-order-is-rushed-and-sloppy",
+                "tier": "news_desk",
+                "identifier": "Whistleblower: Postal Service's work to comply with Trump order is rushed and sloppy",
+                "date": "2026-09-01",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": null,
+                "meta_source": "harvested"
+              },
+              {
+                "label": "ProPublica",
+                "domain": "propublica.org",
+                "url": "https://www.propublica.org/article/mail-voting-usps-officials-concerns-disenfranchisement",
+                "tier": "news_desk",
+                "identifier": "New Mail Voting Rules Moved Forward Despite USPS Officials’ Concerns About Mass Disenfranchisement",
+                "date": "2026-09-02",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Jen Fifield",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "NBC News",
+                "domain": "nbcnews.com",
+                "url": "https://www.nbcnews.com/politics/elections/whistleblower-usps-systems-mail-ballots-flawed-rcna595361",
+                "tier": "news_desk",
+                "identifier": "Whistleblower says USPS system Trump ordered for mail ballots is flawed and untested",
+                "date": "2026-09-01",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Jane C. Timm",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "organized a Day Without an Immigrant protest and march after over 100 ICE arrests",
+          "actor": "Danbury, Connecticut community members and businesses",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-09-03",
+          "event_date": "2026-09-03",
+          "event_id": "wk85_CR_016",
+          "provenance": {
+            "dates": [
+              "2026-09-03"
+            ],
+            "sources": [
+              "50501"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0203"
+          ],
+          "source_names": [
+            "50501"
+          ],
+          "summary_line": "Large-scale coordinated economic action and public march demonstrated organized civil-society resistance to federal immigration enforcement and solidarity with detained residents.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-09-03",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "allowed its license-plate-reader camera contract to expire, joining bipartisan pushback against surveillance technology",
+          "actor": "Westland, Michigan",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-09-01",
+          "event_date": "2026-09-01",
+          "event_id": "wk85_CR_017",
+          "provenance": {
+            "dates": [
+              "2026-09-01"
+            ],
+            "sources": [
+              "50501"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0108"
+          ],
+          "source_names": [
+            "50501"
+          ],
+          "summary_line": "Municipal rejection of surveillance infrastructure represents a local democratic check on data collection practices affecting residents' privacy and movement.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-09-01",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "shared license plate reader data collected locally with 365 law enforcement agencies nationwide",
+          "actor": "Hollywood Police Department",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-09-03",
+          "event_date": "2026-09-03",
+          "event_id": "wk85_CR_018",
+          "provenance": {
+            "dates": [
+              "2026-09-03"
+            ],
+            "sources": [
+              "50501"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0195"
+          ],
+          "source_names": [
+            "50501"
+          ],
+          "summary_line": "Nationwide sharing of locally collected surveillance data without explicit local consent creates a de facto national tracking network affecting residents' privacy across state lines.",
+          "trait_links": [
+            46
+          ],
+          "corroboration": {
+            "verification_tier": "multi_source_corroborated",
+            "verification_basis": "newsdesks_ge2",
+            "archive_status": "keep_corroborated",
+            "archive_grade": true,
+            "archive_date": "2026-09-03",
+            "corroborated_by": [
+              {
+                "label": "Axios",
+                "domain": "axios.com",
+                "url": "https://www.axios.com/local/hollywood/2026/09/01/hollywood-police-florida-flock-cameras-data-agencies-nationwide",
+                "tier": "news_desk",
+                "identifier": "Hollywood police share license plate data with agencies nationwide",
+                "date": "2026-09-01",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Naomi Feinstein",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "CalMatters",
+                "domain": "calmatters.org",
+                "url": "https://calmatters.org/economy/technology/2025/06/california-police-sharing-license-plate-reader-data/",
+                "tier": "news_desk",
+                "identifier": "California police are illegally sharing license plate data with ICE and Border Patrol",
+                "date": "2025-06",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Khari Johnson, Mohamed Al Elew",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "opposed deployment of Flock surveillance cameras",
+          "actor": "North Carolina counties and Texas Senate candidate James Talarico",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-09-04",
+          "event_date": "2026-09-04",
+          "event_id": "wk85_CR_019",
+          "provenance": {
+            "dates": [
+              "2026-09-04"
+            ],
+            "sources": [
+              "outloud"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0255",
+            "wk085-0256"
+          ],
+          "source_names": [
+            "outloud"
+          ],
+          "summary_line": "Local governments and a federal candidate publicly resisted expansion of mass surveillance technology, reflecting grassroots concern over privacy and government monitoring.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-09-04",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "was revealed to have demonstrated protest-monitoring capability to law enforcement using a real peaceful protest as an example",
+          "actor": "Flock",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-09-04",
+          "event_date": "2026-09-04",
+          "event_id": "wk85_CR_020",
+          "provenance": {
+            "dates": [
+              "2026-09-04"
+            ],
+            "sources": [
+              "50501"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0248"
+          ],
+          "source_names": [
+            "50501"
+          ],
+          "summary_line": "Disclosure that a surveillance vendor actively marketed protest-monitoring tools to police shows deliberate integration of camera networks into protest suppression infrastructure.",
+          "trait_links": [
+            41
+          ],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-09-04",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "blocked civil rights charges against an ICE officer who shot a Venezuelan man in Minneapolis, who was instead indicted only for false statements",
+          "actor": "DOJ",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-09-03",
+          "event_date": "2026-09-03",
+          "event_id": "wk85_CR_021",
+          "provenance": {
+            "dates": [
+              "2026-09-03"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0196",
+            "wk085-0197"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Justice Department obstruction of civil rights accountability for a federal agent's use of force against an immigrant demonstrates politicization undermining law enforcement accountability.",
+          "trait_links": [
+            17
+          ],
+          "corroboration": {
+            "verification_tier": "multi_source_corroborated",
+            "verification_basis": "newsdesks_ge2",
+            "archive_status": "keep_corroborated",
+            "archive_grade": true,
+            "archive_date": "2026-09-03",
+            "corroborated_by": [
+              {
+                "label": "ProPublica",
+                "domain": "propublica.org",
+                "url": "https://www.propublica.org/article/doj-blocks-charges-ice-agent-minneapolis-julio-cesar-sosa-celis",
+                "tier": "news_desk",
+                "identifier": "Trump’s DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor’s “Strongest Possible” Objections",
+                "date": "2026-09-03",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Megan Rose and Andy Mannix",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "CBS News",
+                "domain": "cbsnews.com",
+                "url": "https://www.cbsnews.com/news/ice-officer-charged-doj-christian-castro-minnesota/",
+                "tier": "news_desk",
+                "identifier": "ICE officer who shot immigrant in Minnesota in federal custody on charges of lying to investigators, source says",
+                "date": "2026-09-03",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Nicole  Sganga, Camilo  Montoya-Galvez, Sarah N. Lynch",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "Newsweek",
+                "domain": "newsweek.com",
+                "url": "https://www.newsweek.com/ice-officer-christian-castro-trump-doj-charge-minneapolis-shooting-12401595",
+                "tier": "news_desk",
+                "identifier": "Trump DOJ Charges ICE Agent With Lying About Minneapolis Shooting of Venezuelan Man",
+                "date": "2026-09-03",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Gabe Whisnant, Dan Gooding",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "Fox News",
+                "domain": "foxnews.com",
+                "url": "https://www.foxnews.com/us/doj-charges-ice-officer-lying-investigators-following-minneapolis-shooting-venezuelan-man",
+                "tier": "news_desk",
+                "identifier": "DOJ charges ICE officer with lying to investigators following Minneapolis shooting of Venezuelan man",
+                "date": "2026-09-03",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Louis Casiano",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "refused to sign an extradition warrant for the ICE officer charged with assault in Minnesota",
+          "actor": "Texas Governor Greg Abbott",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-09-03",
+          "event_date": "2026-09-03",
+          "event_id": "wk85_CR_022",
+          "provenance": {
+            "dates": [
+              "2026-09-03"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0221"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "A governor's refusal to extradite a federal agent obstructs state-level accountability, reflecting partisan protection of federal officers accused of violence against civilians.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "courtlistener_api",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-09-03",
+            "corroborated_by": [
+              {
+                "label": "courtlistener",
+                "domain": "courtlistener",
+                "url": "https://www.courtlistener.com/opinion/10954100/minnesota-voters-alliance-v-keith-ellison/",
+                "tier": "tier1",
+                "identifier": "Minnesota Voters Alliance v. Keith Ellison",
+                "date": "2026-08-20",
+                "match_method": "courtlistener_api",
+                "confidence": "high",
+                "byline": null,
+                "meta_source": "resolver"
+              }
+            ]
+          }
+        },
+        {
+          "action": "shot and killed two people outside a Tucson gay bar in an incident police investigated as a hate crime",
+          "actor": "Ousman Ceesay",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-09-01",
+          "event_date": "2026-09-01",
+          "event_id": "wk85_CR_023",
+          "provenance": {
+            "dates": [
+              "2026-09-01"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0110"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "A targeted shooting at an LGBTQ venue, investigated as a hate crime, represents violence against a protected class undermining safety and equal protection.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "multi_source_corroborated",
+            "verification_basis": "newsdesks_ge2",
+            "archive_status": "keep_corroborated",
+            "archive_grade": true,
+            "archive_date": "2026-09-01",
+            "corroborated_by": [
+              {
+                "label": "NBC News",
+                "domain": "nbcnews.com",
+                "url": "https://www.nbcnews.com/news/us-news/know-man-accused-killing-two-people-arizona-gay-bar-rcna595757",
+                "tier": "news_desk",
+                "identifier": "What we know about the man accused of killing two people outside an Arizona gay bar",
+                "date": "2026-09-03",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Minyvonne Burke, Nicole Acevedo , Marlene Lenthang",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "ABC News",
+                "domain": "abcnews.com",
+                "url": "https://abcnews.com/US/wireStory/arizona-police-confirm-tucson-gay-bar-shooting-hate-136151581",
+                "tier": "news_desk",
+                "identifier": "Arizona police confirm Tucson gay bar shooting was a hate crime",
+                "date": "2026-09-02",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "REBECCA BOONE Associated Press",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "fired the police chief after his racist text messages were revealed, amid unresolved investigation of an officer's fatal shooting of a Black toddler",
+          "actor": "Senatobia Board of Aldermen",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-09-02",
+          "event_date": "2026-09-02",
+          "event_id": "wk85_CR_024",
+          "provenance": {
+            "dates": [
+              "2026-09-02"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0156"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Termination of a police chief for documented racist conduct highlights accountability gaps, as the underlying fatal police shooting investigation remains closed to public scrutiny.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-09-02",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "fatally shot a knife-wielding woman in Times Square after a stabbing incident",
+          "actor": "NYPD",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-08-31",
+          "event_date": "2026-09-01",
+          "event_id": "wk85_CR_025",
+          "provenance": {
+            "dates": [
+              "2026-09-01"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0138"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "A fatal officer-involved shooting following a violent confrontation raises standard questions about de-escalation and use-of-force accountability.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-09-01",
+            "corroborated_by": [
+              {
+                "label": "BBC",
+                "domain": "bbc.com",
+                "url": "https://www.bbc.com/news/articles/ckgvrm5nxexo",
+                "tier": "news_desk",
+                "identifier": "Times Square stabbing: Woman killed and suspect shot dead by police",
+                "date": "2026-09-01",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Malu Cursino",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "fatally shot a man in mental health crisis on the Brooklyn Bridge cables after an hour-long de-escalation attempt",
+          "actor": "NYPD",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-09-04",
+          "event_date": "2026-09-04",
+          "event_id": "wk85_CR_026",
+          "provenance": {
+            "dates": [
+              "2026-09-04"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0281"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "A fatal shooting during a mental-health crisis intervention raises questions about crisis-response training and use-of-force protocols in high-risk encounters.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-09-04",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "heckled Jewish congressional candidates and made statements linking Jewish American support for Israel to potential violence",
+          "actor": "Palestine activists and Hasan Piker",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-08-31",
+          "event_date": "2026-08-31",
+          "event_id": "wk85_CR_027",
+          "provenance": {
+            "dates": [
+              "2026-08-31"
+            ],
+            "sources": [
+              "guardian",
+              "noah"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0061",
+            "wk085-0062",
+            "wk085-0063"
+          ],
+          "source_names": [
+            "guardian",
+            "noah"
+          ],
+          "summary_line": "Organized harassment of candidates based on religious identity and rhetoric implying collective threat illustrate rising tensions and potential antisemitic conduct within activist movements.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "multi_source_corroborated",
+            "verification_basis": "newsdesks_ge2",
+            "archive_status": "keep_corroborated",
+            "archive_grade": true,
+            "archive_date": "2026-08-31",
+            "corroborated_by": [
+              {
+                "label": "NBC News",
+                "domain": "nbcnews.com",
+                "url": "https://www.nbcnews.com/politics/2026-election/abdul-el-sayed-michigan-hasan-piker-comments-israel-jewish-americans-rcna594243",
+                "tier": "news_desk",
+                "identifier": "Abdul El-Sayed distances himself from Hasan Piker’s comments on Israel and Jewish Americans",
+                "date": "2026-08-25",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "The Associated Press",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "CBS News",
+                "domain": "cbsnews.com",
+                "url": "https://www.cbsnews.com/news/abdul-el-sayed-hasan-piker-remarks-jewish-americans/",
+                "tier": "news_desk",
+                "identifier": "Abdul El-Sayed distances himself from streamer Hasan Piker after remarks on Israel and Jewish Americans",
+                "date": "2026-08-25",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Joe  Walsh, Aaron  Navarro",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "shot and killed a family's pet donkey during a warrantless search on private property",
+          "actor": "Georgia police officer",
+          "category": "Civil Rights and Dissent",
+          "date": "2026-08-30",
+          "event_date": "2026-08-30",
+          "event_id": "wk85_CR_028",
+          "provenance": {
+            "dates": [
+              "2026-08-30"
+            ],
+            "sources": [
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0026"
+          ],
+          "source_names": [
+            "guardian"
+          ],
+          "summary_line": "Police use of force during an unauthorized search of private property raises property-rights and warrant-requirement concerns even in a low-stakes incident.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-08-30",
+            "corroborated_by": []
+          }
+        }
+      ],
+      "name": "Civil Rights and Dissent"
+    },
+    {
+      "events": [
+        {
+          "action": "posted an AI-generated video of a fabricated attack on Iran's Kharg Island that did not occur",
+          "actor": "Trump",
+          "category": "Information, Memory and Manipulation",
+          "date": "2026-08-31",
+          "event_date": "2026-08-31",
+          "event_id": "wk85_IM_001",
+          "provenance": {
+            "dates": [
+              "2026-08-31"
+            ],
+            "sources": [
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0065"
+          ],
+          "source_names": [
+            "hcr"
+          ],
+          "summary_line": "The president disseminated fabricated military imagery depicting an attack that never happened, undermining factual reality during an active foreign conflict.",
+          "trait_links": [
+            53
+          ],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "native_tier1",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-08-31",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "posted sweeping false claims that Iran had officially collapsed as a nation",
+          "actor": "Trump",
+          "category": "Information, Memory and Manipulation",
+          "date": "2026-08-31",
+          "event_date": "2026-08-31",
+          "event_id": "wk85_IM_002",
+          "provenance": {
+            "dates": [
+              "2026-08-31"
+            ],
+            "sources": [
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0066"
+          ],
+          "source_names": [
+            "hcr"
+          ],
+          "summary_line": "Presidential dissemination of unsubstantiated claims about a foreign adversary's total collapse risks inflaming conflict and eroding reality-based public discourse on an active war.",
+          "trait_links": [
+            53
+          ],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-08-31",
+            "corroborated_by": [
+              {
+                "label": "Fox News",
+                "domain": "foxnews.com",
+                "url": "https://www.foxnews.com/world/trump-says-iran-dead-experts-point-real-sign-tehran-nearing-brink",
+                "tier": "news_desk",
+                "identifier": "Trump says Iran is ‘DEAD’ — experts point to the real sign Tehran is nearing the brink",
+                "date": "2026-09-01",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Efrat Lachter",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "was confirmed to maintain a secret blacklist of journalists to be disregarded by its press office",
+          "actor": "U.S. Central Command",
+          "category": "Information, Memory and Manipulation",
+          "date": "2026-08-29",
+          "event_date": "2026-08-29",
+          "event_id": "wk85_IM_003",
+          "provenance": {
+            "dates": [
+              "2026-08-29"
+            ],
+            "sources": [
+              "zeteo"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0020"
+          ],
+          "source_names": [
+            "zeteo"
+          ],
+          "summary_line": "A military command's admitted use of a secret journalist blacklist represents direct suppression of press access and retaliation against critical reporting.",
+          "trait_links": [
+            42
+          ],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-08-29",
+            "corroborated_by": [
+              {
+                "label": "The Daily Beast",
+                "domain": "thedailybeast.com",
+                "url": "https://www.thedailybeast.com/pentagon-official-exposes-secret-press-blacklist/",
+                "tier": "news_desk",
+                "identifier": "Pentagon’s Secret Press Blacklist Exposed",
+                "date": "2026-08-24",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Annabella Rosciglione",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "denied press credentials to reporters from the New York Times, Wall Street Journal, and Bloomberg for a G-20 finance meeting",
+          "actor": "U.S. Treasury Department",
+          "category": "Information, Memory and Manipulation",
+          "date": "2026-08-29",
+          "event_date": "2026-08-29",
+          "event_id": "wk85_IM_004",
+          "provenance": {
+            "dates": [
+              "2026-08-29"
+            ],
+            "sources": [
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0018"
+          ],
+          "source_names": [
+            "meidas"
+          ],
+          "summary_line": "Selective exclusion of major news organizations from a high-stakes international economic meeting restricts public access to information about consequential policy decisions.",
+          "trait_links": [
+            21
+          ],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "nyt_samefact",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-08-29",
+            "corroborated_by": [
+              {
+                "label": "nytimes",
+                "domain": "nytimes",
+                "url": "https://www.nytimes.com/2026/08/29/business/reporters-denied-g20-meeting.html",
+                "tier": "tier1",
+                "identifier": "Treasury Bars Some Reporters From G20 Finance Meeting",
+                "date": "2026-08-29",
+                "match_method": "nyt_samefact",
+                "confidence": "high",
+                "byline": "Benjamin Mullin",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "The New York Times",
+                "domain": "nytimes.com",
+                "url": "https://www.nytimes.com/2026/08/29/business/reporters-denied-g20-meeting.html",
+                "tier": "tier1",
+                "identifier": "Treasury Bars Some Reporters From G20 Finance Meeting",
+                "date": "2026-08-29",
+                "match_method": "web_search_samefact",
+                "confidence": "high",
+                "byline": "Benjamin Mullin",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "PBS",
+                "domain": "pbs.org",
+                "url": "https://www.pbs.org/newshour/politics/treasury-department-blocks-certain-journalists-from-covering-g20-meeting",
+                "tier": "news_desk",
+                "identifier": "Treasury Department blocks certain journalists from covering G20 meeting",
+                "date": "2026-08-31",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": null,
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "threatened media companies and NBC's Kristen Welker with FCC punishment over poll coverage",
+          "actor": "Trump",
+          "category": "Information, Memory and Manipulation",
+          "date": "2026-08-29",
+          "event_date": "2026-08-29",
+          "event_id": "wk85_IM_005",
+          "provenance": {
+            "dates": [
+              "2026-08-29"
+            ],
+            "sources": [
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0019"
+          ],
+          "source_names": [
+            "meidas"
+          ],
+          "summary_line": "Direct presidential threats to use regulatory authority against journalists for unfavorable coverage represent an attempt to chill press freedom through government coercion.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-08-29",
+            "corroborated_by": [
+              {
+                "label": "The Hill",
+                "domain": "thehill.com",
+                "url": "https://thehill.com/homenews/senate/6062204-trump-welker-press-controversy/",
+                "tier": "news_desk",
+                "identifier": "Trump creates new headache for GOP with call for FCC to ...",
+                "date": null,
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": null,
+                "meta_source": "resolver"
+              }
+            ]
+          }
+        },
+        {
+          "action": "fired Stars and Stripes journalists and restricted press access following critical reporting on military conditions",
+          "actor": "Pete Hegseth and Pentagon spokesperson Sean Parnell",
+          "category": "Information, Memory and Manipulation",
+          "date": "2026-09-01",
+          "event_date": "2026-09-01",
+          "event_id": "wk85_IM_006",
+          "provenance": {
+            "dates": [
+              "2026-09-01"
+            ],
+            "sources": [
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0106",
+            "wk085-0123",
+            "wk085-0124",
+            "wk085-0125"
+          ],
+          "source_names": [
+            "hcr"
+          ],
+          "summary_line": "Retaliatory firing of military journalists and editorial restriction after coverage of readiness problems undermines editorial independence and constitutes government censorship of the press.",
+          "trait_links": [
+            42
+          ],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "native_tier1",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-09-01",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "secretly hired right-wing social media influencers as government employees to amplify Defense Secretary Hegseth",
+          "actor": "Pentagon",
+          "category": "Information, Memory and Manipulation",
+          "date": "2026-08-31",
+          "event_id": "wk85_IM_007",
+          "provenance": {
+            "dates": [
+              "2026-08-31",
+              "2026-09-01"
+            ],
+            "sources": [
+              "meidas",
+              "hcr"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0051",
+            "wk085-0135",
+            "wk085-0137"
+          ],
+          "source_names": [
+            "meidas",
+            "hcr"
+          ],
+          "summary_line": "Covert use of taxpayer funds to employ partisan influencers for personal promotion blurs the line between government communications and partisan political messaging.",
+          "trait_links": [
+            22
+          ],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "native_tier1",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-08-31",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "launched arcade games including \"Build the Wall\" and \"Rio Run\" promoting immigration enforcement and administration policies",
+          "actor": "White House",
+          "category": "Information, Memory and Manipulation",
+          "date": "2026-09-04",
+          "event_date": "2026-09-04",
+          "event_id": "wk85_IM_008",
+          "provenance": {
+            "dates": [
+              "2026-09-04"
+            ],
+            "sources": [
+              "50501"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0261"
+          ],
+          "source_names": [
+            "50501"
+          ],
+          "summary_line": "Government use of gamified propaganda to promote border enforcement rhetoric represents deployment of entertainment media as a political messaging tool.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "nyt_samefact",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-09-04",
+            "corroborated_by": [
+              {
+                "label": "nytimes",
+                "domain": "nytimes",
+                "url": "https://www.nytimes.com/2026/09/04/us/politics/white-house-tetris-clone.html",
+                "tier": "tier1",
+                "identifier": "Tetris Owner Denounces Trump White House Clone of Game",
+                "date": "2026-09-04",
+                "match_method": "nyt_samefact",
+                "confidence": "high",
+                "byline": null,
+                "meta_source": "harvested"
+              },
+              {
+                "label": "Time",
+                "domain": "time.com",
+                "url": "https://time.com/article/2026/09/04/white-house-arcade-trump-agenda-immigration/",
+                "tier": "news_desk",
+                "identifier": "White House 'Arcade' Invites Players to 'Build the Wall' and 'Fill a Trump Account'",
+                "date": "2026-09-04",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Miranda Jeyaretnam",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "ABC News",
+                "domain": "abcnews.com",
+                "url": "https://abcnews.com/Politics/white-house-launches-arcade-computer-game-lets-players/story?id=136214362",
+                "tier": "news_desk",
+                "identifier": "White House launches Arcade.gov with computer game that lets players 'deport' migrants",
+                "date": "2026-09-04",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Isabella Murray, Nicholas Kerr, Michelle Stoddart",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "The Hill",
+                "domain": "thehill.com",
+                "url": "https://thehill.com/homenews/6070969-white-house-unveils-trump-policy-arcade/",
+                "tier": "news_desk",
+                "identifier": "White House unveils arcade games to highlight Trump ...",
+                "date": null,
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": null,
+                "meta_source": "resolver"
+              }
+            ]
+          }
+        },
+        {
+          "action": "posted an obscene video on social media targeting Haitian immigrants",
+          "actor": "ICE",
+          "category": "Information, Memory and Manipulation",
+          "date": "2026-09-04",
+          "event_date": "2026-09-04",
+          "event_id": "wk85_IM_009",
+          "provenance": {
+            "dates": [
+              "2026-09-04"
+            ],
+            "sources": [
+              "outloud"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0262"
+          ],
+          "source_names": [
+            "outloud"
+          ],
+          "summary_line": "Government social media content demeaning a specific immigrant group functions as dehumanizing propaganda undermining equal treatment principles.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "multi_source_corroborated",
+            "verification_basis": "newsdesks_ge2",
+            "archive_status": "keep_corroborated",
+            "archive_grade": true,
+            "archive_date": "2026-09-04",
+            "corroborated_by": [
+              {
+                "label": "ABC News",
+                "domain": "abcnews.com",
+                "url": "https://abcnews.com/US/haitian-immigrants-ohio-told-report-ice-ankle-monitors/story?id=135356277",
+                "tier": "news_desk",
+                "identifier": "Some Haitian immigrants in Ohio told to report to ICE and given ankle monitors",
+                "date": null,
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Laura Romero, Armando Garcia, Luke Barr",
+                "date_review": "predates_event(-31d)",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "CBS News",
+                "domain": "cbsnews.com",
+                "url": "https://www.cbsnews.com/news/ice-haitian-migrants-arrest-deport-temporary-protected-status/",
+                "tier": "news_desk",
+                "identifier": "ICE plans to target Haitians as Temporary Protected Status is set to end, sources say",
+                "date": null,
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Camilo  Montoya-Galvez",
+                "date_review": "predates_event(-40d)",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "misrepresented an ad to a grieving father and falsely linked an out-of-state murder to a Senate candidate's policies",
+          "actor": "Senate Leadership Fund",
+          "category": "Information, Memory and Manipulation",
+          "date": "2026-09-03",
+          "event_id": "wk85_IM_010",
+          "provenance": {
+            "dates": [
+              "2026-09-03",
+              "2026-09-04"
+            ],
+            "sources": [
+              "popinfo"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0208",
+            "wk085-0263"
+          ],
+          "source_names": [
+            "popinfo"
+          ],
+          "summary_line": "A political PAC deceived a vulnerable individual and fabricated a causal link between a crime and a candidate to mislead voters in a federal Senate race.",
+          "trait_links": [
+            52
+          ],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-09-03",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "falsely claimed to have personally witnessed Osama bin Laden's dead body",
+          "actor": "Mike Rogers",
+          "category": "Information, Memory and Manipulation",
+          "date": "2026-08-29",
+          "event_date": "2026-08-29",
+          "event_id": "wk85_IM_011",
+          "provenance": {
+            "dates": [
+              "2026-08-29"
+            ],
+            "sources": [
+              "meidas",
+              "guardian"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0014",
+            "wk085-0016"
+          ],
+          "source_names": [
+            "meidas",
+            "guardian"
+          ],
+          "summary_line": "A Senate candidate's fabricated national-security credential in fundraising materials misleads voters about his qualifications and record.",
+          "trait_links": [
+            52
+          ],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-08-29",
+            "corroborated_by": [
+              {
+                "label": "The Daily Beast",
+                "domain": "thedailybeast.com",
+                "url": "https://www.thedailybeast.com/republican-senate-hopeful-mike-rogers-busted-over-wild-bin-laden-boast/",
+                "tier": "news_desk",
+                "identifier": "MAGA Senate Hopeful Busted Over Wild Bin Laden Boast",
+                "date": "2026-08-30",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Josh Fiallo",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "removed political interference safeguards from its scientific integrity policy ahead of the 2030 census",
+          "actor": "Department of Commerce",
+          "category": "Information, Memory and Manipulation",
+          "date": "2026-09-04",
+          "event_date": "2026-09-04",
+          "event_id": "wk85_IM_012",
+          "provenance": {
+            "dates": [
+              "2026-09-04"
+            ],
+            "sources": [
+              "popinfo"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0280"
+          ],
+          "source_names": [
+            "popinfo"
+          ],
+          "summary_line": "Quietly weakening protections against political interference in Census Bureau and NOAA reporting risks politicizing data that determines congressional apportionment and representation.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-09-04",
+            "corroborated_by": [
+              {
+                "label": "NPR",
+                "domain": "npr.org",
+                "url": "https://www.npr.org/2026/08/31/nx-s1-5948057/department-commerce-census-bureau-scientific-integrity",
+                "tier": "news_desk",
+                "identifier": "Trump officials cut political interference ban after unusual Census Bureau report",
+                "date": "2026-08-31",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Hansi Lo Wang",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "rescinded published guidance on troop testosterone screening without public explanation",
+          "actor": "Pentagon",
+          "category": "Information, Memory and Manipulation",
+          "date": "2026-09-03",
+          "event_date": "2026-09-03",
+          "event_id": "wk85_IM_013",
+          "provenance": {
+            "dates": [
+              "2026-09-03"
+            ],
+            "sources": [
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0217"
+          ],
+          "source_names": [
+            "meidas"
+          ],
+          "summary_line": "The removal of official military policy guidance without explanation raises transparency concerns about suppression of health and personnel policy information.",
+          "trait_links": [
+            21
+          ],
+          "corroboration": {
+            "verification_tier": "tier1_primary",
+            "verification_basis": "web_search_samefact",
+            "archive_status": "keep_tier1",
+            "archive_grade": true,
+            "archive_date": "2026-09-03",
+            "corroborated_by": [
+              {
+                "label": "Reuters",
+                "domain": "reuters.com",
+                "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pentagon-temporarily-rescinding-guidance-testosterone-screening-us-troops-2026-09-03/",
+                "tier": "tier1",
+                "identifier": "Pentagon temporarily rescinds guidance on testosterone ...",
+                "date": null,
+                "match_method": "web_search_samefact",
+                "confidence": "high",
+                "byline": null,
+                "meta_source": "resolver"
+              },
+              {
+                "label": "ABC News",
+                "domain": "abcnews.com",
+                "url": "https://abcnews.com/Politics/pentagon-temporarily-rescinds-new-testosterone-guidelines/story?id=136205208",
+                "tier": "news_desk",
+                "identifier": "Pentagon 'temporarily rescinds' new testosterone guidelines",
+                "date": "2026-09-04",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Luis Martinez",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "Military.com",
+                "domain": "military.com",
+                "url": "https://www.military.com/pentagon-temporarily-rescinds-mandatory-testosterone-screening-for-troops-one-day-after-issuing-guidance",
+                "tier": "news_desk",
+                "identifier": "Pentagon Temporarily Rescinds Mandatory Testosterone Screening One Day After Issuing Guidance",
+                "date": "2026-09-03",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Adam Gramegna",
+                "meta_source": "harvested"
+              },
+              {
+                "label": "The Hill",
+                "domain": "thehill.com",
+                "url": "https://thehill.com/policy/defense/6069728-pentagon-temporarily-rescinds-testosterone-guidance/",
+                "tier": "news_desk",
+                "identifier": "Pentagon temporarily rescinds mandatory testosterone ...",
+                "date": null,
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": null,
+                "meta_source": "resolver"
+              },
+              {
+                "label": "CBS News",
+                "domain": "cbsnews.com",
+                "url": "https://www.cbsnews.com/news/pentagon-testosterone-testing-hegseth-policy/",
+                "tier": "news_desk",
+                "identifier": "New testosterone guidelines temporarily rescinded, Pentagon says",
+                "date": "2026-09-02",
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Joe  Walsh",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "posted inflammatory statements calling media reports of ammunition shortages \"treasonous\"",
+          "actor": "Trump",
+          "category": "Information, Memory and Manipulation",
+          "date": "2026-09-03",
+          "event_date": "2026-09-03",
+          "event_id": "wk85_IM_014",
+          "provenance": {
+            "dates": [
+              "2026-09-03"
+            ],
+            "sources": [
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0207"
+          ],
+          "source_names": [
+            "meidas"
+          ],
+          "summary_line": "The president's characterization of critical press coverage as treasonous undermines press freedom and normalizes hostile rhetoric against journalists covering military matters.",
+          "trait_links": [
+            8
+          ],
+          "corroboration": {
+            "verification_tier": "multi_source_corroborated",
+            "verification_basis": "newsdesks_ge2",
+            "archive_status": "keep_corroborated",
+            "archive_grade": true,
+            "archive_date": "2026-09-03",
+            "corroborated_by": [
+              {
+                "label": "The Hill",
+                "domain": "thehill.com",
+                "url": "https://thehill.com/opinion/lindseys-lens/6071924-iran-war-weapons-strain/",
+                "tier": "news_desk",
+                "identifier": "Trump calls media treasonous over Iran war reports",
+                "date": null,
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": null,
+                "meta_source": "resolver"
+              },
+              {
+                "label": "BBC",
+                "domain": "bbc.com",
+                "url": "https://www.bbc.com/news/articles/cy8mjd19xm7o",
+                "tier": "news_desk",
+                "identifier": "Trump denies US munitions shortage and said he'd seek to jail 'leakers'",
+                "date": null,
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Kayla Epstein",
+                "date_review": "predates_event(-28d)",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        },
+        {
+          "action": "falsely claimed no American military deaths in the Iran conflict, later forced to correct the record",
+          "actor": "Howard Nutnick",
+          "category": "Information, Memory and Manipulation",
+          "date": "2026-09-02",
+          "event_date": "2026-09-02",
+          "event_id": "wk85_IM_015",
+          "provenance": {
+            "dates": [
+              "2026-09-02"
+            ],
+            "sources": [
+              "meidas"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0159"
+          ],
+          "source_names": [
+            "meidas"
+          ],
+          "summary_line": "A senior official's initial denial of military casualties, followed by a forced correction, undermined public trust in transparency about the true costs of an active war.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-09-02",
+            "corroborated_by": []
+          }
+        },
+        {
+          "action": "designated a citizen researcher a threat for publicly mapping ICE profiteering",
+          "actor": "Federal government (Democracy Out Loud reporting)",
+          "category": "Information, Memory and Manipulation",
+          "date": "2026-09-04",
+          "event_date": "2026-09-04",
+          "event_id": "wk85_IM_016",
+          "provenance": {
+            "dates": [
+              "2026-09-04"
+            ],
+            "sources": [
+              "outloud"
+            ]
+          },
+          "source_event_ids": [
+            "wk085-0260"
+          ],
+          "source_names": [
+            "outloud"
+          ],
+          "summary_line": "Federal treatment of public research and advocacy as a security threat chills free speech and civic participation in matters of public accountability.",
+          "trait_links": [],
+          "corroboration": {
+            "verification_tier": "single_source_unverified",
+            "verification_basis": "none",
+            "archive_status": "retained_unverified",
+            "archive_grade": false,
+            "archive_date": "2026-09-04",
+            "corroborated_by": [
+              {
+                "label": "NPR",
+                "domain": "npr.org",
+                "url": "https://www.npr.org/2026/03/04/nx-s1-5717031/ice-dhs-immigrants-surveillance-confrontation-deportation-mobile-fortify",
+                "tier": "news_desk",
+                "identifier": "ICE has spun a massive surveillance web. We talked to people caught in it",
+                "date": null,
+                "match_method": "news_search",
+                "confidence": "medium",
+                "byline": "Kat Lonsdorf",
+                "date_review": "predates_event(-184d)",
+                "meta_source": "harvested"
+              }
+            ]
+          }
+        }
+      ],
+      "name": "Information, Memory and Manipulation"
+    }
+  ],
+  "clock_delta_minutes": 0.0,
+  "clock_time_public": "7:40 p.m.",
+  "period_label": "Week 85 – 2026-08-29–2026-09-04",
+  "week_number": 85,
+  "window": {
+    "end": "2026-09-04",
+    "start": "2026-08-29"
+  },
+  "corroboration_applied": true,
+  "corroboration_applied_at": "2026-09-06T08:16:07.475262Z",
+  "corroboration_counts": {
+    "tier1_primary": 37,
+    "single_source_unverified": 37,
+    "multi_source_corroborated": 17
+  }
+}

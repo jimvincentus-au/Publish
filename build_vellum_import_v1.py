@@ -30,12 +30,16 @@ from docx.oxml.ns import qn
 
 
 # --- Paths (match Publish pipeline conventions) ---
-PUBLISH_ROOT = Path("/Volumes/T3BlueJVI2026/Democracy Clock Automation/Publish")
+# Self-locate like publish_config_v1.py (PUBLISH_ROOT = Path(__file__).resolve().parent), so this
+# runs on whatever drive it lives on. It was hardcoded to a stale /Volumes/T3BlueJVI2026 copy that
+# has no Output/, which is what made this fail with a misleading "assumes Scrivener output" error.
+PUBLISH_ROOT = Path(__file__).resolve().parent
 PUBLISH_LOGS_DIR = PUBLISH_ROOT / "Logs"
 
-DEFAULT_INPUT_ROOT = PUBLISH_ROOT / "Output" / "Scrivener"
 DEFAULT_OUTPUT_ROOT = PUBLISH_ROOT / "Output" / "Vellum"
-# For appendix discovery, prefer Substack markdown output for stable YAML front matter.
+# Substack markdown is the canonical appendix source: the publish step always produces it and it
+# carries stable YAML front matter (title/subtitle/week). Scrivener output was retired from the
+# pipeline and is never produced, so it is no longer read here.
 DEFAULT_SUBSTACK_ROOT = PUBLISH_ROOT / "Output" / "Substack"
 
 
@@ -50,21 +54,15 @@ def _resolve_input_root(override: Optional[str]) -> Path:
         p = Path(override).expanduser()
         return p
 
-    # Prefer Substack markdown output for appendices because it contains stable YAML
-    # front matter (title/subtitle/week). Fall back to Scrivener output.
-    candidates = [
-        DEFAULT_SUBSTACK_ROOT,
-        DEFAULT_INPUT_ROOT,
-    ]
-
-    for c in candidates:
-        if c.exists() and c.is_dir():
-            return c
+    # Substack markdown output is the canonical source (stable YAML front matter, always produced).
+    # Scrivener output is retired and no longer a fallback.
+    if DEFAULT_SUBSTACK_ROOT.exists() and DEFAULT_SUBSTACK_ROOT.is_dir():
+        return DEFAULT_SUBSTACK_ROOT
 
     raise FileNotFoundError(
-        f"Could not resolve appendix input root at expected location: {DEFAULT_INPUT_ROOT}. " 
-        "This project assumes Scrivener output as the canonical source. " 
-        "Use --input-root only if the project structure has changed."
+        f"Could not resolve the Substack appendix input root at: {DEFAULT_SUBSTACK_ROOT}. "
+        "Run the publish step (build_publish_week) first so Output/Substack exists, "
+        "or pass --input-root explicitly."
     )
 
 
@@ -124,15 +122,23 @@ SOURCE_DISPLAY_NAMES: Dict[str, str] = {
 
     # Government / official sources
     "orders": "White House / Executive Orders",
+    "whitehouse": "The White House",
     "fr": "Federal Register",
     "federalregister": "Federal Register",
     "congress": "Congress.gov",
     "justsecurity": "Just Security",
     "scotus": "Supreme Court of the United States",
+    "scotusorders": "Supreme Court of the United States (Orders)",
+    "scotusopinions": "Supreme Court of the United States (Opinions)",
     "dhs": "U.S. Department of Homeland Security",
     "doj": "U.S. Department of Justice",
+    "justice": "U.S. Department of Justice",
     "shadow": "Supreme Court Shadow Docket",
     "dod": "U.S. Department of Defense",
+    "defense": "U.S. Department of Defense",
+
+    # Legal / democracy outlets
+    "democracydocket": "Democracy Docket",
 
     # Media wires / outlets
     "nyt": "The New York Times",

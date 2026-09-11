@@ -1869,7 +1869,7 @@ def build_publish_week(
     include_appendix_source: bool = True,
     include_digest: bool = True,
     build_substack: bool = True,
-    build_scrivener: bool = True,
+    build_scrivener: bool = False,   # Scrivener retired from the pipeline; opt-in only via --only scrivener
     seal_wordpress: bool = True,
     build_wordpress: bool = False,
 ) -> None:
@@ -2389,7 +2389,7 @@ def parse_args(argv: Optional[list[str]] = None) -> argparse.Namespace:
         "--only",
         type=str,
         default="",
-        help="Comma-separated targets to build (substack,scrivener,wordpress). If set, only these targets are built.",
+        help="Comma-separated targets to build (substack,scrivener,wordpress). If set, only these targets are built. Scrivener is retired and OFF unless explicitly listed here.",
     )
     parser.add_argument(
         "--skip",
@@ -2457,8 +2457,10 @@ def main(argv: Optional[list[str]] = None) -> None:
 
     # If --only is provided, build ONLY those targets.
     # If --only is empty, build everything except what --skip excludes.
+    # EXCEPT Scrivener: it is retired from the pipeline and is OFF by default — built only when
+    # explicitly named in --only (never implied by an empty --only).
     build_substack = (not only_set or "substack" in only_set) and ("substack" not in skip_set)
-    build_scrivener = (not only_set or "scrivener" in only_set) and ("scrivener" not in skip_set)
+    build_scrivener = ("scrivener" in only_set) and ("scrivener" not in skip_set)
     build_wordpress = (not only_set or "wordpress" in only_set) and ("wordpress" not in skip_set)
     seal_wordpress: bool = bool(getattr(args, "seal_wordpress", False))
 

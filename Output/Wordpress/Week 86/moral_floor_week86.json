@@ -1,0 +1,346 @@
+{
+  "week_number": 86,
+  "period_label": "Week 86",
+  "window": {
+    "start": "2026-09-05",
+    "end": "2026-09-11"
+  },
+  "clock_time_public": "7:35 p.m.",
+  "clock_delta_minutes": -0.1,
+  "baseline_traits": [
+    {
+      "name": "character",
+      "definition": "Internal discipline to align words with deeds, to place public duty ahead of personal gain, and to honour the oath of office even when it conflicts with short-term advantage."
+    },
+    {
+      "name": "ethics",
+      "definition": "Commitment to keep a firm boundary between public power and private interest, avoiding conflicts of interest, self-dealing, and the use of office to enrich oneself, family, or allies."
+    },
+    {
+      "name": "restraint",
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+    },
+    {
+      "name": "truthfulness",
+      "definition": "Obligation to speak accurately on matters of public consequence, avoid deliberate disinformation, correct false statements, and ensure that citizens are not governed by manufactured unreality."
+    },
+    {
+      "name": "good_faith",
+      "definition": "Adherence to the spirit as well as the letter of democratic rules, keeping promises, respecting outcomes, and avoiding procedural manipulation that defeats the purpose of the law."
+    },
+    {
+      "name": "stewardship",
+      "definition": "Responsibility to maintain and strengthen institutions so they can serve future generations as well as the present, avoiding actions that permanently damage capacity, credibility, or public trust."
+    }
+  ],
+  "weekly_audit": {
+    "summary": "Week 86 combined a president's trillion-dollar election-tied cash pledge with a redistricting crisis that saw four courts issue contradictory rulings within forty-eight hours, and a primary conducted under maps of unsettled legal status. Executive rhetoric conflated personal loyalty with civic duty, fabricated 9/11 heroism was repeated across venues, and DOJ activity expanded into secret-evidence deportation and retrospective investigation of pandemic scientists. Courts and dissenting Republicans provided real, functioning resistance, but that resistance operated defensively, arriving only after damage to public confidence had already occurred.",
+    "norms_broken": [
+      {
+        "trait": "restraint",
+        "pattern": "The president pledged a trillion-dollar cash payout contingent on his party's midterm victory and suggested he might bypass Congress to deliver it, while separately soliciting a personal loyalty pledge from supporters and conflating failure to vote with damnation.",
+        "severity": "extreme",
+        "institutional_response": "Bipartisan pushback followed swiftly, including from within the president's own party (DeSantis, Roy, Good, a major donor), but no formal institutional mechanism blocked or altered the proposal within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk86_restraint_ex01",
+            "week": 86,
+            "event_ids": [
+              "wk86_PA_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk86_PA_001",
+                "development_label": "Trump promised $5,000 dividend checks tied to a Republican midterm win and floated bypassing Congress.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A sitting president tied a trillion-dollar payout to an election outcome and suggested unilateral authority to disburse it without congressional appropriation.",
+            "why_exemplary": "Tier-1 corroborated across numerous outlets; directly conflates public treasury power with partisan electoral inducement, a core violation of self-limiting democratic authority.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk86_restraint_ex02",
+            "week": 86,
+            "event_ids": [
+              "wk86_PA_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk86_PA_002",
+                "development_label": "Trump solicited a personal loyalty pledge from supporters and warned non-voters they would go to hell.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A presidential candidate asked supporters to pledge personal allegiance and framed abstention from voting in apocalyptic religious terms.",
+            "why_exemplary": "Tier-1 corroborated; substitutes personal fealty for civic duty, eroding the distinction between loyalty to office and loyalty to a person.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "A federal judge issued a temporary order directing use of a Trump-backed Missouri congressional map in defiance of the state supreme court's ruling, triggering a cascade of contradictory rulings across four courts within two days, culminating in a primary conducted under districts of disputed legal status.",
+        "severity": "serious",
+        "institutional_response": "The Supreme Court ultimately restored the state court's preferred map and the Missouri Supreme Court held the Secretary of State in contempt, but only after the primary had already proceeded under legal uncertainty.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk86_goodfaith_ex01",
+            "week": 86,
+            "event_ids": [
+              "wk86_IG_007",
+              "wk86_IG_032"
+            ],
+            "developments": [
+              {
+                "development_id": "wk86_IG_007",
+                "development_label": "A federal judge issued a TRO requiring use of Trump-backed maps in defiance of the state supreme court.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk86_IG_032",
+                "development_label": "Missouri conducted a primary election under congressional districts never in legal effect.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Conflicting federal and state court orders over Missouri's congressional map left a primary proceeding under districts of unresolved legal standing.",
+            "why_exemplary": "Illustrates procedural manipulation defeating the purpose of law: voters cast ballots without knowing which map would ultimately govern their representation.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk86_goodfaith_ex02",
+            "week": 86,
+            "event_ids": [
+              "wk86_IG_023",
+              "wk86_IG_024"
+            ],
+            "developments": [
+              {
+                "development_id": "wk86_IG_023",
+                "development_label": "Missouri Republican legislators threatened impeachment of state supreme court justices over the redistricting ruling.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk86_IG_024",
+                "development_label": "Utah Republicans threatened impeachment of a judge, then packed the state supreme court after the threat failed.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Lawmakers in two states responded to adverse redistricting rulings with impeachment threats and, in one case, court-packing to secure a favorable outcome.",
+            "why_exemplary": "Demonstrates coercion of the judiciary to abandon enforcement of voter-approved protections, defeating the rule of law's purpose even where the specific threats did not succeed.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "The president repeated fabricated personal narratives about 9/11 rescue involvement across multiple venues, made false claims about crowd size and past election wins, and posted AI-generated propaganda imagery of conquest and military strikes; a cabinet member's convention speech contained numerous fact-checked falsehoods.",
+        "severity": "serious",
+        "institutional_response": "Independent fact-checkers documented the falsehoods extensively; no retraction or correction was issued by the administration.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk86_truthfulness_ex01",
+            "week": 86,
+            "event_ids": [
+              "wk86_IM_002",
+              "wk86_IM_008"
+            ],
+            "developments": [
+              {
+                "development_id": "wk86_IM_002",
+                "development_label": "Trump made repeated false claims about personally participating in 9/11 rescue efforts.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk86_IM_008",
+                "development_label": "Trump made false claims about crowd attendance and personal role in 9/11 during his convention speech.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Evolving, demonstrably false personal narratives about a national tragedy were repeated across a convention speech and memorial appearances.",
+            "why_exemplary": "Illustrates manufactured unreality applied to shared historical memory, normalizing fabrication at the highest level of public commemoration.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk86_truthfulness_ex02",
+            "week": 86,
+            "event_ids": [
+              "wk86_IM_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk86_IM_009",
+                "development_label": "Trump claimed the Iran war would end after the midterms, contradicting his own defense advisors.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Public statements misrepresented the state of an unauthorized war, contradicting internal defense assessments and prior shifting timelines.",
+            "why_exemplary": "Multi-source corroborated; ties a matter of war and peace to electoral messaging in a way that misleads voters about ongoing military commitments.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "The Justice Department expanded coercive and retrospective enforcement, activating a never-before-used secret-evidence deportation tribunal, reopening investigation of pandemic-era scientists years after the fact, and sending vague investigative letters to thirty election officials demanding record retention.",
+        "severity": "serious",
+        "institutional_response": "No court intervened this week to check these specific DOJ actions; a Trump-aligned prosecutor's resignation citing ethical concerns was the primary internal signal of dysfunction.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk86_stewardship_ex01",
+            "week": 86,
+            "event_ids": [
+              "wk86_IM_015"
+            ],
+            "developments": [
+              {
+                "development_id": "wk86_IM_015",
+                "development_label": "DOJ deported an individual through the never-before-used Alien Terrorist Removal Court using secret evidence.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The first-ever activation of a decades-old tribunal permitting secret evidence in deportation proceedings raises fundamental due-process concerns.",
+            "why_exemplary": "Tier-1 corroborated; represents durable institutional precedent-setting that weakens transparency safeguards for future proceedings.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk86_stewardship_ex02",
+            "week": 86,
+            "event_ids": [
+              "wk86_IM_014",
+              "wk86_IG_029"
+            ],
+            "developments": [
+              {
+                "development_id": "wk86_IM_014",
+                "development_label": "DOJ sent letters to 30 election officials ordering record retention amid vague investigation threats.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk86_IG_029",
+                "development_label": "Joe diGenova resigned from leading a DOJ conspiracy probe after five months without charges, citing ethical problems.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Unspecified federal pressure on election administrators coincided with the collapse of a politically charged DOJ probe amid internal ethical objections.",
+            "why_exemplary": "Illustrates institutional capacity being redirected toward intimidation and retribution rather than substantiated enforcement, damaging long-term public trust.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      }
+    ],
+    "norms_strengthened": [
+      {
+        "trait": "restraint",
+        "pattern": "Multiple courts held the line against executive and partisan overreach: the Supreme Court restored Missouri's prior congressional map, appellate courts declined to lift injunctions against mail-voting restrictions, and the Missouri Supreme Court enforced contempt against a defiant official.",
+        "scope": "institutional",
+        "why_it_matters": "Sustained judicial willingness to check both executive and state-level attempts at electoral manipulation, even amid contradictory lower-court rulings, demonstrates that courts remain a functioning constraint under significant strain.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk86_restraint_strength_ex01",
+            "week": 86,
+            "event_ids": [
+              "wk86_IG_013",
+              "wk86_IG_022"
+            ],
+            "developments": [
+              {
+                "development_id": "wk86_IG_013",
+                "development_label": "SCOTUS rejected the Trump-backed Missouri redistricting map, ordering use of the 2022 map.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk86_IG_022",
+                "development_label": "The Supreme Court blocked a federal judge's ruling that had revived the gerrymandered map.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The Supreme Court's final intervention preserved voter-approved redistricting protections against a partisan gerrymander and an overreaching lower-court order.",
+            "why_exemplary": "Demonstrates the judiciary correcting a lower-court departure from state constitutional protections, restoring institutional order despite prior chaos.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk86_restraint_strength_ex02",
+            "week": 86,
+            "event_ids": [
+              "wk86_IG_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk86_IG_011",
+                "development_label": "The First Circuit declined to stay an injunction blocking Trump's mail-in voting restrictions.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A unanimous appellate panel ruled the president lacks authority to regulate state election policy, preserving mail voting access before the midterms.",
+            "why_exemplary": "Tier-1 corroborated; reaffirms constitutional limits on unilateral executive control of election administration.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "Multiple Republican officials and a major donor publicly broke with the president over the dividend pledge, citing fiscal irresponsibility and constitutional concerns, while a House Democrat called for use of constitutional oversight powers.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Public intra-party dissent against a leader's proposal, even without formal consequence, preserves the recognition of limits and signals that party loyalty has not fully displaced constitutional principle.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk86_character_strength_ex01",
+            "week": 86,
+            "event_ids": [
+              "wk86_ES_016",
+              "wk86_IG_028"
+            ],
+            "developments": [
+              {
+                "development_id": "wk86_ES_016",
+                "development_label": "Ron DeSantis publicly criticized Trump's $5,000 check proposal as inflationary.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk86_IG_028",
+                "development_label": "Chip Roy questioned how the dividend checks would be financed.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A prominent Republican governor and a sitting congressman publicly challenged the president's unfunded election-year cash pledge.",
+            "why_exemplary": "Multi-source corroborated; demonstrates cross-partisan willingness to name a proposal as fiscally and constitutionally improper despite political cost.",
+            "exemplar_type": "primary"
+          }
+        ]
+      }
+    ],
+    "direction_of_movement": "mixed_but_stable"
+  },
+  "cumulative_condition": {
+    "narrative": "Week 86 extends rather than departs from the trajectory of sustained, simultaneous pressure documented across recent weeks. Where Week 85 diffused executive-directed pressure across nine fronts, Week 86 shows a related but distinct pattern: intense concentration on two flashpoints, a trillion-dollar election-tied cash pledge and a redistricting crisis spanning four courts, layered atop the now-familiar undercurrent of fabricated personal narrative, DOJ retribution, and expanding secret-evidence procedures. The dividend pledge represents an escalation beyond prior weeks' symbolic self-branding into a direct, quantifiable attempt to purchase electoral outcomes with public funds, a qualitatively sharper breach of restraint than the lake-renaming or arch-building episodes of Week 85.\n\nThe redistricting saga demonstrates both the resilience and fragility of judicial checks. Courts ultimately corrected the outcome, restoring Missouri's prior map and holding a defiant official in contempt, but only after a primary had already been conducted under legally uncertain districts. This is consistent with the pattern identified in the prior summary: institutional resistance holds, but only defensively, after damage has already occurred. The impeachment threats and court-packing in Missouri and Utah extend a specific and concerning tactic: when judges cannot be persuaded, legislators attempt to replace them, a slower but more corrosive threat to judicial independence than open defiance.\n\nCountervailing forces remained genuinely present and, in some respects, more visible than in Week 85: bipartisan and intra-party public objection to the dividend pledge was immediate and substantive, coming from a sitting governor, congressmen, and a major donor. Courts held the redistricting and mail-voting lines. These are not cosmetic gestures; they represent functioning resistance under real strain. But the underlying trend, described across recent weeks as deteriorating, continues: normalization of personal loyalty pledges, secret-evidence deportation, retrospective targeting of former officials, and DOJ dysfunction visible even in the collapse of its own retribution efforts.",
+    "trend": "deteriorating",
+    "stress_points": [
+      "election-tied cash pledges blurring public treasury and partisan advantage",
+      "personal loyalty pledges displacing civic duty",
+      "impeachment threats and court-packing against judges who rule against partisan interests",
+      "secret-evidence deportation procedures activated for the first time",
+      "DOJ investigative pressure on election officials and former pandemic scientists",
+      "fabricated personal historical narrative repeated without correction"
+    ],
+    "sources_of_resilience": [
+      "Supreme Court and appellate courts holding the line on redistricting and mail voting",
+      "cross-partisan and intra-party public objection to the dividend pledge",
+      "state court enforcement via contempt against a defiant official",
+      "internal DOJ resignation citing ethical concerns",
+      "independent fact-checking documenting falsehoods in real time"
+    ]
+  },
+  "risk_assessment": {
+    "level": "critical",
+    "justification": "The moral floor remains critically strained. The dividend pledge represents a direct, quantifiable attempt to tie public funds to a partisan electoral outcome, compounded by the suggestion that congressional approval might be bypassed entirely; this is a more concrete threat to the separation of powers than prior weeks' symbolic gestures. The redistricting crisis, resolved only after a primary proceeded under disputed maps, shows that judicial correction, while real, arrives too late to prevent damage to electoral clarity and public confidence. The emergence of impeachment threats and court-packing as a response to adverse rulings signals a deliberate strategy to neutralize judicial independence through personnel replacement rather than direct defiance, a more durable threat than any single contested order.\n\nCountervailing forces, cross-partisan public objection to the dividend scheme, functioning appellate and Supreme Court intervention, and an internal DOJ resignation citing ethics, demonstrate that resistance capacity has not collapsed. But these remain reactive rather than preventive, consistent with the trajectory identified in the prior week's assessment. Given the proximity to midterms, the demonstrated willingness to escalate contested rulings, and the normalization of personal-loyalty rhetoric alongside secret-evidence deportation procedures, the risk of further erosion remains critical.",
+    "forward_signals": [
+      "whether the dividend pledge advances toward implementation or unilateral action bypassing Congress",
+      "further impeachment or court-packing attempts against judges ruling on redistricting or election law",
+      "expanded use of the Alien Terrorist Removal Court's secret-evidence procedure",
+      "DOJ's next steps regarding investigations of election officials and former pandemic scientists",
+      "whether additional Republican officials break publicly with the president ahead of midterms",
+      "resolution of the census citizenship-question proposal and its effect on apportionment"
+    ]
+  }
+}

@@ -1,19 +1,19 @@
 {
-  "clock_after_minutes": 455.3,
-  "clock_before_minutes": 455.3,
-  "clock_delta_minutes": 0.0,
-  "generated_at": "2026-09-10T06:13:15.926574+00:00",
+  "clock_after_minutes": 454.8,
+  "clock_before_minutes": 455.1,
+  "clock_delta_minutes": -0.3,
+  "generated_at": "2026-09-20T06:00:43.433588+00:00",
   "provenance": {
-    "mel": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Master Event Logs/master_index_week84_2026-08-22_2026-08-28.json",
-    "mel_sha1": "5f7b9da83554c10ffec8e88cf280d159e3d4fad6",
-    "prior": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Weeks/Week 83/carry_forward_week83.json",
-    "prior_sha1": "1584a3370ccbd263923d988ca88cc4a7bef431d9",
+    "mel": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Master Event Logs/master_index_week87_2026-09-12_2026-09-18.json",
+    "mel_sha1": "4db1d8245db48873f405f67ebca17da3ebe395f7",
+    "prior": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Weeks/Week 86/carry_forward_week86.json",
+    "prior_sha1": "74005e20e39eccae988ebd999b6dc7bc6bbf9d25",
     "trait_catalogue": "/Volumes/PRINTIFY24/Democracy Clock Automation/Step 3/Programs/step3_trait_catalogue_v4.json",
     "trait_catalogue_sha1": "636ee63296eafb124942adf76cebfb6936d491e4"
   },
   "totals": {
     "difficulty_sum": 89.4,
-    "presence_sum": 365.9
+    "presence_sum": 365.4
   },
   "traits": [
     {
@@ -100,7 +100,7 @@
       },
       "difficulty": 1.6,
       "notes": "",
-      "presence": 5.9,
+      "presence": 5.8,
       "rationale": "Presence is 7.2 (elevated) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Money\u2011in\u2011politics, concentrated corporate power, and path\u2011dependent industrial policy remained. Antitrust revival and pro\u2011labor actions nudged risks down, but the fiscal\u2011regulatory chassis still advantaged capital. Difficulty 1.6 is highly sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "opposition_allowed_but_structurally_weakened",
       "trait_name": "Opposition parties are allowed but structurally weakened",
@@ -205,7 +205,7 @@
       },
       "difficulty": 1.7,
       "notes": "",
-      "presence": 4.0,
+      "presence": 3.9,
       "rationale": "Presence is 6.9 (elevated) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Civil liberties posture improved, with symmetrical enforcement and fewer retaliations. However, surveillance infrastructure and uneven state practices endured, keeping risks above pre\u20112017 levels. Difficulty 1.7 is highly sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement. Adjusted by decree and agreement to correct unrealistic baseline calibration.",
       "trait_id": "courts_rule_for_donors_and_elites",
       "trait_name": "Courts issue rulings aligned with donor or elite preference",
@@ -220,7 +220,7 @@
       },
       "difficulty": 1.6,
       "notes": "",
-      "presence": 5.6,
+      "presence": 5.5,
       "rationale": "Presence is 7.4 (elevated) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Money\u2011in\u2011politics, concentrated corporate power, and path\u2011dependent industrial policy remained. Antitrust revival and pro\u2011labor actions nudged risks down, but the fiscal\u2011regulatory chassis still advantaged capital. Difficulty 1.6 is highly sticky: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "judicial_independence_eroded_by_politicized_appointments",
       "trait_name": "Judicial independence is eroded through politicized appointments",
@@ -505,7 +505,7 @@
       },
       "difficulty": 1.0,
       "notes": "",
-      "presence": 5.0,
+      "presence": 4.9,
       "rationale": "Presence is 4.2 (low-to-moderate) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Institutional baselines improved (respect for oversight, apolitical DOJ posture), yet Court doctrine and structural incentives from the 2010s persisted. Week 0 weights these durable architectures over goodwill. Difficulty 1.0 is more reversible: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "financial_crimes_by_elites_unpunished_or_settled",
       "trait_name": "Financial crimes by elites are unpunished or quietly settled",
@@ -775,7 +775,7 @@
       },
       "difficulty": 1.2,
       "notes": "",
-      "presence": 5.7,
+      "presence": 5.6,
       "rationale": "Presence is 5.5 (moderate) at the close of Biden I, reflecting improvement from 2020 without a rebuilt low\u2011risk baseline. Biden restored process norms and inspector\u2011general independence after Trump I, but systemic tools (EOs, impoundment risks, and central coordination) remained available. Week 0 reflects improved practice, not a rebuilt structure. Difficulty 1.2 is partly reversible: norms can shift quickly, but doctrine, infrastructure, and political economy create drag on full repair. Week 0 leaves runway for four years of movement.",
       "trait_id": "elite_donor_crimes_concealed_not_prosecuted",
       "trait_name": "Crimes committed by elite donors or allies are concealed, not prosecuted",
@@ -917,34 +917,34 @@
       "trait_number": 60
     }
   ],
-  "updated_at": "2026-09-10T06:13:15.927052+00:00",
-  "week": 84,
+  "updated_at": "2026-09-20T06:00:43.433597+00:00",
+  "week": 87,
   "weekly_analytic_brief": {
     "sensor": {
       "institutional_shifts": [
-        "The Supreme Court issued a 6-3 procedural ruling enabling implementation of Trump's mail-ballot restrictions, later complicated by a district court's 14-day block\u2014demonstrating an unstable, fast-moving judicial posture on election administration just months before midterms.",
-        "USCIS reassigned its entire fraud-detection workforce away from asylum/immigration screening toward voter-data investigation and refugee vetting, effectively converting an immigration agency into an election-monitoring apparatus.",
-        "Congress saw House Democratic leadership quietly engage Trump's inner circle (Jeffries-Kushner meeting) while Speaker Johnson issued a public loyalty warning, reflecting anxious positioning ahead of an anticipated power shift.",
-        "State and local governments pushed back on federal overreach and surveillance: 24 states plus DC sued over the mail-ballot rule, Nevada sued over water allocation, and several municipalities voted to terminate Flock license-plate surveillance contracts.",
-        "The Treasury Department escalated unconventional market interventions (bond buybacks, yen purchases) amid signs it is losing control of long-term rates, while sanctioning rhetoric against Iran outpaced verifiable diplomatic coordination."
+        "The Supreme Court issued a remarkable string of defeats for the executive branch this week (mail ballots, Fed governor, birthright citizenship, redistricting), reasserting judicial independence against a hostile presidency.",
+        "Congress passed sweeping tariff/sanctions authority (Graham Act) further concentrating executive economic power, even as the House avoided votes on Hegseth impeachment and war powers by recessing early.",
+        "DHS and ICE expanded enforcement and surveillance operations against immigrants and voters while internal watchdogs (DHS OIG) documented abuses, showing simultaneous executive overreach and internal exposure.",
+        "The White House escalated direct confrontation with the press by banning outlets outright, a novel and constitutionally aggressive move beyond prior friction with individual reporters.",
+        "State and local governments (23 states plus DC) and civil society groups filed a wave of coordinated litigation against federal immigration and public-charge rules, indicating sustained multi-state legal resistance."
       ],
       "oddities_or_open_questions": [
-        "Trump's DOJ argued the Kennedy Center might need to be demolished absent his renovation and naming plans\u2014an apparent coercive tactic worth tracking for further escalation or reversal.",
-        "CIA Director Ratcliffe's undisclosed trip to Moscow, dismissed by Trump as 'semi routine,' raises unresolved questions about the substance and purpose of high-level US-Russia contacts during an active war footing elsewhere.",
-        "A GOP-aligned pollster explicitly stated Trump's own tariff and beef-import policies were helping Democrats retake the Senate\u2014an unusual public acknowledgment of self-sabotage from within Republican-aligned analytic circles."
+        "Trump openly conditioned FEMA disaster aid on an electoral outcome, then claimed he was 'only kidding' \u2014 raising questions about whether such statements will be treated as binding policy or dismissed as rhetoric by courts and media.",
+        "AI industry leaders (Amodei, Altman, Musk, Hassabis) publicly called for a coordinated slowdown while the administration dismissed the risk as a hoax, creating a rare public rift between Silicon Valley and the White House worth tracking for regulatory consequences.",
+        "DHS claimed to have identified nearly 16,000 non-citizen voters in Nevada but could only verify 185 \u2014 an 85x overstatement that raises questions about whether such inflated claims are being used to justify broader voter suppression efforts nationally."
       ],
-      "summary": "This week combined an aggressive push on voting restrictions with an escalating, self-inflicted trade war against Canada, sustained corruption revelations, and an unusually theatrical presidency. The Supreme Court's procedural green light for Trump's mail-ballot executive order, followed by USPS implementation, a brief district-court block, and immediate multi-state litigation, exemplifies a pattern of executive action racing ahead of judicial review just weeks before midterms. Simultaneously, reporting revealed a Trump donor benefiting from a $1.2 billion wind-lease buyout, RFK Jr.'s apparently false congressional testimony on vaccines amid real measles deaths, and continued crypto-related self-enrichment. The Lake Ontario renaming order, the Freedom 250 Grand Prix, and a partisan NASA speech underscore governance-as-spectacle. Meanwhile ICE expanded coercive tooling (shock gloves) and mass arrests continued at record pace, with immigration officers diverted to voter-fraud hunts\u2014entangling law enforcement with electoral politics ahead of November.",
+      "summary": "This week combined an unusually dense set of judicial rebukes to executive overreach with equally dense evidence of executive lawlessness, informational manipulation, and normalization of extremist rhetoric within the governing party. The Supreme Court repeatedly blocked Trump administration actions (mail-ballot restrictions, Fed governor removal, birthright citizenship rules, gerrymandered maps), and lower courts checked Kennedy Center demolition threats and DHS speech-suppression tactics \u2014 signaling institutional resilience. Simultaneously, Trump banned major news outlets from the White House, threatened to withhold disaster aid and Kennedy Center funds based on political loyalty, and Republican leadership (Speaker Johnson) openly floated refusing to seat a Democratic majority after the midterms. DHS was shown fabricating voter-fraud data at massive scale. AI governance emerged as a rare bipartisan-adjacent flashpoint, with industry leaders calling for a slowdown while Trump dismissed safety concerns as a partisan hoax. Republican electoral anxiety and intra-party fracture over racist rhetoric and immigration enforcement were also prominent.",
       "top_themes": [
-        "Voting-rights entrenchment via procedural maneuver: SCOTUS and USPS moved to implement ballot restrictions despite pending litigation, showing a pattern of executive action outracing judicial and legislative checks before a major election.",
-        "Governing by grievance and spectacle: an IndyCar race on the National Mall, a Lake Ontario renaming stunt, and a partisan NASA speech reveal a presidency substituting theater and self-focus for substantive governance during active foreign and economic crises.",
-        "Corruption disguised as policy: a Trump donor secured $900 million through a canceled wind-lease settlement, GEO Group donated to a pro-Trump PAC after winning ICE contracts, and Trump's own crypto ventures and stock trades raise persistent emoluments concerns.",
-        "Security-state normalization: ICE's acquisition of electric-shock gloves, reassignment of immigration-fraud officers to hunt for noncitizen voters, and record-high immigration arrests (most without criminal convictions) show enforcement infrastructure being redirected toward political ends.",
-        "Fracturing coalition and elite disillusionment: Republican senators, ranchers, and even MAGA-aligned figures (Carlson, Massie, Greene) publicly broke with Trump over tariffs, beef imports, and personal attacks, while approval polling hit record lows."
+        "Governing by retaliation: threats to withhold disaster aid, Kennedy Center funding, and arms sales conditioned explicitly on political loyalty or electoral outcomes.",
+        "Judicial pushback as a counterweight: the Supreme Court and lower courts repeatedly blocked administration overreach on voting, the Fed, citizenship, redistricting, and speech, showing institutional resilience under strain.",
+        "Normalization of security-state and surveillance tools against ordinary citizens: DHS fabricated voter-fraud data, ICE ankle monitors and mass detentions, warning notices threatening prosecution for criticism.",
+        "Erosion of press access and truth-telling: banning of major news outlets from the White House, FCC pressure on broadcasters, extensive documented disinformation in campaign advertising.",
+        "Fracturing of Republican Party discipline around racism, immigration enforcement, and Trump loyalty, with senior figures like Karl Rove and sitting members breaking ranks ahead of the midterms."
       ]
     }
   },
   "window": {
-    "end": "2026-08-28",
-    "start": "2026-08-22"
+    "end": "2026-09-18",
+    "start": "2026-09-12"
   }
 }

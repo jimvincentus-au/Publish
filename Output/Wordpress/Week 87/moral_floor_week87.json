@@ -1,0 +1,403 @@
+{
+  "week_number": 87,
+  "period_label": "Week 87",
+  "window": {
+    "start": "2026-09-12",
+    "end": "2026-09-18"
+  },
+  "clock_time_public": "7:35 p.m.",
+  "clock_delta_minutes": -0.3,
+  "baseline_traits": [
+    {
+      "name": "character",
+      "definition": "Internal discipline to align words with deeds, to place public duty ahead of personal gain, and to honour the oath of office even when it conflicts with short-term advantage."
+    },
+    {
+      "name": "ethics",
+      "definition": "Commitment to keep a firm boundary between public power and private interest, avoiding conflicts of interest, self-dealing, and the use of office to enrich oneself, family, or allies."
+    },
+    {
+      "name": "restraint",
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+    },
+    {
+      "name": "truthfulness",
+      "definition": "Obligation to speak accurately on matters of public consequence, avoid deliberate disinformation, correct false statements, and ensure that citizens are not governed by manufactured unreality."
+    },
+    {
+      "name": "good_faith",
+      "definition": "Adherence to the spirit as well as the letter of democratic rules, keeping promises, respecting outcomes, and avoiding procedural manipulation that defeats the purpose of the law."
+    },
+    {
+      "name": "stewardship",
+      "definition": "Responsibility to maintain and strengthen institutions so they can serve future generations as well as the present, avoiding actions that permanently damage capacity, credibility, or public trust."
+    }
+  ],
+  "weekly_audit": {
+    "summary": "Week 87 combined an explicit threat to refuse a legitimate transfer of power with a president who converted a national cultural institution into a personal leverage instrument, withheld disaster aid pending electoral loyalty, and banned major news outlets from the White House. Courts and Congress provided real counterweight, blocking tariffs, raising interest rates independently, holding a billionaire in contempt, and passing a war powers resolution, but the Speaker's decision to send Congress home before votes on impeachment and war powers meant several accountability mechanisms were deferred rather than resolved. Party-level condemnation of racist campaign rhetoric was genuine but inconsistent, with several candidates escalating rather than retracting.",
+    "norms_broken": [
+      {
+        "trait": "good_faith",
+        "pattern": "The House Speaker declared Republicans would not allow a Democratic majority to take power regardless of election outcome, and a respected conservative jurist detailed a specific mechanism (clerk replacement) by which this could occur, describing the president as the greatest threat to the coming election.",
+        "severity": "extreme",
+        "institutional_response": "Democrats responded with promises of oversight rather than any enforceable check; no institutional mechanism within the week constrained the stated intent.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk87_good_faith_ex01",
+            "week": 87,
+            "event_ids": [
+              "wk87_PA_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk87_PA_001",
+                "development_label": "Mike Johnson declared Republicans would not allow Democrats to take the House majority regardless of election results.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The sitting Speaker publicly signaled intent to disregard the outcome of a federal election in advance, undermining the premise of a peaceful transfer of power.",
+            "why_exemplary": "Multi-source corroborated statement from a senior officeholder describing intent to nullify election results rather than merely criticizing them.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk87_good_faith_ex02",
+            "week": 87,
+            "event_ids": [
+              "wk87_PA_002",
+              "wk87_PA_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk87_PA_002",
+                "development_label": "J. Michael Luttig warned Republicans could replace the House clerk to block seating of elected Democrats.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk87_PA_005",
+                "development_label": "Luttig separately wrote that House Republicans have prepared to reject legitimate midterm results.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A conservative federal judge described a concrete procedural mechanism by which a lawful election outcome could be nullified in the House.",
+            "why_exemplary": "Corroborated warnings from a credible, non-partisan legal figure describing specific institutional sabotage rather than general alarm.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "The president used control over federal funds and disaster relief as leverage for personal glorification and electoral loyalty: threatening to block Kennedy Center renovation and later demolition unless his name was added, and threatening to withhold North Carolina disaster aid unless a preferred Senate candidate won.",
+        "severity": "extreme",
+        "institutional_response": "A federal court blocked the renaming outright; the Kennedy Center board, controlled by presidential appointees, responded to the ruling by voting to close the building rather than comply, escalating rather than resolving the conflict.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk87_ethics_ex01",
+            "week": 87,
+            "event_ids": [
+              "wk87_PA_007",
+              "wk87_PA_008",
+              "wk87_PA_010"
+            ],
+            "developments": [
+              {
+                "development_id": "wk87_PA_007",
+                "development_label": "Trump threatened to block Kennedy Center renovation unless his name was added to the building.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk87_PA_008",
+                "development_label": "The presidentially controlled Kennedy Center board voted to close the building after a court blocked the renaming.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk87_PA_010",
+                "development_label": "Trump withheld congressionally appropriated renovation funds to coerce naming rights.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A president withheld public funds from a national cultural institution and pressured a captured board to close it rather than comply with a judicial naming ruling.",
+            "why_exemplary": "Tier-1 corroborated across many outlets; demonstrates direct conversion of appropriated public funds into a tool of personal tribute against a court order.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk87_ethics_ex02",
+            "week": 87,
+            "event_ids": [
+              "wk87_PA_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk87_PA_012",
+                "development_label": "Trump threatened to withhold disaster aid to North Carolina unless a chosen Senate candidate won.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The president tied federal disaster relief, a public good unrelated to electoral outcome, to the success of his preferred candidate.",
+            "why_exemplary": "Multi-source corroborated; represents a direct instance of conditioning public assistance on political loyalty, a textbook self-dealing abuse of office.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "The administration and allied entities advanced multiple falsehoods with material public consequence: DHS overstated non-citizen voter identifications in Nevada by roughly eighty-five times, the Pentagon concealed the extent of casualties and base damage from the Iran war, and the president made unsubstantiated claims about tariff revenue, economic growth, and diplomatic agreements that foreign counterparts denied existed.",
+        "severity": "serious",
+        "institutional_response": "Independent reporting and whistleblowers surfaced the discrepancies; no retraction or correction was issued by the agencies involved.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk87_truthfulness_ex01",
+            "week": 87,
+            "event_ids": [
+              "wk87_IM_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk87_IM_012",
+                "development_label": "DHS claimed nearly 16,000 non-citizens on Nevada voter rolls but could verify only 185.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A federal agency's headline election-fraud claim was found to be inflated by roughly eighty-five times relative to verified evidence.",
+            "why_exemplary": "Multi-source corroborated; illustrates manufactured statistics used to justify a politically charged voter investigation ahead of midterms.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk87_truthfulness_ex02",
+            "week": 87,
+            "event_ids": [
+              "wk87_IM_031",
+              "wk87_IM_032"
+            ],
+            "developments": [
+              {
+                "development_id": "wk87_IM_031",
+                "development_label": "The Pentagon withheld accurate casualty figures from the Iran war.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk87_IM_032",
+                "development_label": "The Pentagon concealed the extent of base damage from Iranian attacks, later revealed by satellite imagery.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Military authorities withheld the true scale of casualties and infrastructure damage from an ongoing, undeclared war from public disclosure.",
+            "why_exemplary": "Corroborated by independent imagery and reporting; obstructs informed public and congressional debate about a live military conflict's costs.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "The president formally banned CNN, MSNBC, and Politico from the White House over critical coverage, an escalation beyond individual reporter targeting to categorical exclusion of major outlets from a public institution.",
+        "severity": "serious",
+        "institutional_response": "The ban was reported extensively and drew criticism, but no legal or legislative check emerged within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk87_restraint_ex01",
+            "week": 87,
+            "event_ids": [
+              "wk87_PA_015"
+            ],
+            "developments": [
+              {
+                "development_id": "wk87_PA_015",
+                "development_label": "Trump banned CNN, MSNBC, and Politico from the White House over critical coverage.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The president formally excluded three major news organizations from White House access based on the content of their reporting.",
+            "why_exemplary": "Extensively multi-source corroborated; represents an unprecedented categorical press exclusion rather than isolated retaliation against individual journalists.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "The Speaker canceled scheduled House votes and adjourned Congress until after the midterms, avoiding votes on impeachment of the Defense Secretary and further war powers accountability, shielding members from pre-election accountability.",
+        "severity": "concerning",
+        "institutional_response": "Individual members (Massie, Omar) pursued accountability measures that were left unresolved by the recess; no chamber-wide correction occurred.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk87_stewardship_ex01",
+            "week": 87,
+            "event_ids": [
+              "wk87_IG_020",
+              "wk87_IG_029"
+            ],
+            "developments": [
+              {
+                "development_id": "wk87_IG_020",
+                "development_label": "Mike Johnson canceled scheduled House votes and called early recess before midterms.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk87_IG_029",
+                "development_label": "Johnson adjourned the House until November, preventing votes on impeachment and war powers.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The Speaker sent Congress home for weeks, sidestepping scheduled votes on defense secretary impeachment and further war powers accountability ahead of elections.",
+            "why_exemplary": "Multi-source corroborated; represents deliberate institutional avoidance of accountability mechanisms at a moment of live controversy.",
+            "exemplar_type": "primary"
+          }
+        ]
+      }
+    ],
+    "norms_strengthened": [
+      {
+        "trait": "restraint",
+        "pattern": "The Federal Reserve raised interest rates despite open presidential pressure to cut them, and the Supreme Court struck down the president's sweeping tariffs, both reaffirming institutional independence against executive pressure.",
+        "scope": "institutional",
+        "why_it_matters": "Independent monetary policy and judicial constraint on unilateral trade authority are foundational to preventing concentration of economic power in the executive.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk87_restraint_strength_ex01",
+            "week": 87,
+            "event_ids": [
+              "wk87_ES_023"
+            ],
+            "developments": [
+              {
+                "development_id": "wk87_ES_023",
+                "development_label": "The Federal Reserve raised interest rates for the first time in three years despite presidential pressure for cuts.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The central bank made an independent policy decision contrary to explicit presidential preference, reasserting institutional autonomy.",
+            "why_exemplary": "Multi-source corroborated; demonstrates functioning resistance to executive interference in a core independent institution.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk87_restraint_strength_ex02",
+            "week": 87,
+            "event_ids": [
+              "wk87_ES_028"
+            ],
+            "developments": [
+              {
+                "development_id": "wk87_ES_028",
+                "development_label": "The Supreme Court struck down Trump's sweeping tariffs on other countries.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The Court invalidated broad unilateral executive tariff authority, constraining presidential control over trade policy.",
+            "why_exemplary": "Tier-1 corroborated; a binding judicial check on executive overreach in an area previously subject to expansive presidential claims.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "The House unanimously voted to hold billionaire Leon Black in contempt for defying Epstein-related subpoenas, and the Senate blocked crypto legislation containing loopholes benefiting the president's personal holdings.",
+        "scope": "institutional",
+        "why_it_matters": "Unanimous cross-partisan enforcement of subpoena power against a powerful individual, and Senate rejection of self-serving legislative loopholes, demonstrate that oversight mechanisms retain real teeth.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk87_good_faith_strength_ex01",
+            "week": 87,
+            "event_ids": [
+              "wk87_IG_019",
+              "wk87_IG_021"
+            ],
+            "developments": [
+              {
+                "development_id": "wk87_IG_019",
+                "development_label": "House Oversight Committee voted unanimously to hold Leon Black in contempt for refusing Epstein-related subpoenas.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk87_IG_021",
+                "development_label": "The full House voted to hold Leon Black in contempt of Congress.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Both chambers of the committee process and the full House unanimously enforced subpoena compliance against a billionaire in a major investigation.",
+            "why_exemplary": "Extensively multi-source and tier-1 corroborated unanimous, bipartisan vote demonstrating functioning legislative power to compel cooperation from the powerful.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk87_good_faith_strength_ex02",
+            "week": 87,
+            "event_ids": [
+              "wk87_IG_031"
+            ],
+            "developments": [
+              {
+                "development_id": "wk87_IG_031",
+                "development_label": "The Senate blocked Clarity Act crypto legislation containing loopholes benefiting the president's crypto interests.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The Senate rejected legislation that would have created ethics loopholes protecting the president's personal financial interests.",
+            "why_exemplary": "Tier-1 corroborated; a legislative body declining to enact self-serving exemptions despite active lobbying pressure.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "Several Republican officials, including senators and a prominent strategist, publicly condemned a candidate's racist social media posts, with one strategist breaking three decades of party-only endorsement to back the Democratic opponent; a Republican congresswoman also broke publicly with the president over aggressive immigration enforcement.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Public intra-party condemnation of bigotry and enforcement excess, even at political cost, preserves a baseline of shared democratic norms against ethnic targeting and unchecked executive action.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk87_character_strength_ex01",
+            "week": 87,
+            "event_ids": [
+              "wk87_CR_006",
+              "wk87_CR_035"
+            ],
+            "developments": [
+              {
+                "development_id": "wk87_CR_006",
+                "development_label": "Texas Republican officials publicly denounced a candidate's racist social media post.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk87_CR_035",
+                "development_label": "Karl Rove endorsed a Democrat over the Republican candidate, citing bigotry.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Multiple senior Republican officials publicly condemned a candidate's xenophobic post, with one veteran strategist breaking decades of party-line endorsement.",
+            "why_exemplary": "Tier-1 and multi-source corroborated; demonstrates real political cost accepted to uphold a baseline norm against ethnic targeting within the party.",
+            "exemplar_type": "primary"
+          }
+        ]
+      }
+    ],
+    "direction_of_movement": "mixed_but_stable"
+  },
+  "cumulative_condition": {
+    "narrative": "Week 87 continues the pattern of concentrated, high-stakes breaches offset by functioning but reactive institutional resistance that has characterized recent weeks. Where Week 86 centered on a trillion-dollar election-tied cash pledge and a redistricting crisis, Week 87 sharpens the same underlying threat into explicit language: a sitting Speaker declaring in advance that his party will not accept a legitimate transfer of power, corroborated by a respected conservative jurist describing the specific mechanism by which this could occur. This is a qualitative escalation beyond prior weeks' symbolic self-aggrandizement or funding threats, moving toward an openly stated intent to nullify constitutional succession.\n\nAlongside this, the president's conduct toward the Kennedy Center extended the established pattern of converting public institutions into instruments of personal tribute, this time escalating to outright demolition threats and a captured board's decision to close the building rather than comply with a court order. The North Carolina disaster-aid threat and the White House press ban mark further hardening of the willingness to weaponize public resources and access against perceived opponents. These breaches sit alongside DHS's dramatic statistical overstatement of non-citizen voting and the Pentagon's concealment of war costs, continuing the trend of manufactured or withheld information shaping public understanding of consequential policy.\n\nCountervailing forces remained substantively present: the Federal Reserve's independent rate decision, the Supreme Court's tariff ruling, the unanimous bipartisan contempt vote against Leon Black, the Senate's rejection of self-serving crypto loopholes, and notable cross-partisan condemnation of racist campaign rhetoric (including a rare defection from a longtime Republican strategist) all demonstrate that resistance capacity has not eroded further this week. However, the Speaker's decision to adjourn Congress before votes on impeachment and war powers accountability shows that even where oversight tools exist, they can be deferred procedurally rather than exercised, extending the reactive-but-incomplete character of institutional response identified in the prior assessment.",
+    "trend": "deteriorating",
+    "stress_points": [
+      "explicit executive/legislative intent to reject legitimate election outcomes",
+      "public institutions converted into personal leverage instruments",
+      "conditioning public disaster aid on electoral loyalty",
+      "categorical exclusion of major press outlets from the White House",
+      "inflated or withheld government statistics shaping high-stakes policy narratives",
+      "procedural avoidance of scheduled accountability votes via recess"
+    ],
+    "sources_of_resilience": [
+      "independent Federal Reserve policy action against executive pressure",
+      "Supreme Court constraint on unilateral tariff authority",
+      "unanimous bipartisan contempt enforcement against a powerful non-cooperating witness",
+      "Senate rejection of self-serving ethics loopholes",
+      "cross-partisan public condemnation of racist campaign rhetoric",
+      "whistleblower and investigative reporting exposing DHS and Pentagon misrepresentations"
+    ]
+  },
+  "risk_assessment": {
+    "level": "critical",
+    "justification": "The explicit statements by the House Speaker and the corroborating warning from a respected conservative jurist describing a specific mechanism for blocking a legitimate Democratic majority represent one of the most direct threats to peaceful transfer of power documented in this trajectory. This is compounded by a president who, in the same week, withheld disaster aid pending electoral loyalty, escalated threats against a national cultural institution to outright demolition, and formally banned major news organizations from the White House. These are not isolated rhetorical excesses; they form a coherent pattern of using public power and public institutions as instruments of personal and partisan leverage.\n\nCountervailing institutional strength remains real: independent Federal Reserve action, Supreme Court constraint on tariff authority, unanimous bipartisan contempt enforcement, and genuine cross-partisan condemnation of bigotry all functioned this week. Yet the Speaker's procedural avoidance of scheduled accountability votes before midterms shows that even functioning oversight tools can be deferred rather than exercised, and the stated intent to reject a legitimate election outcome has not been met with any binding institutional counter-measure. Given the proximity to the midterms and the concreteness of the stated threat to congressional seating, the risk of further erosion remains critical.",
+    "forward_signals": [
+      "whether the House clerk-replacement mechanism described by Luttig is operationalized after the midterms",
+      "resolution of the Kennedy Center closure and naming dispute",
+      "Senate action on the war powers resolution and Hegseth impeachment articles after recess",
+      "further use of inflated or unverifiable DHS voter-fraud statistics ahead of election day",
+      "additional press access restrictions beyond the CNN/MSNBC/Politico ban",
+      "whether cross-partisan condemnation of campaign bigotry translates into any formal party discipline"
+    ]
+  }
+}

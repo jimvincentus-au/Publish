@@ -1,0 +1,359 @@
+{
+  "week_number": 88,
+  "period_label": "Week 88",
+  "window": {
+    "start": "2026-09-19",
+    "end": "2026-09-25"
+  },
+  "clock_time_public": "7:35 p.m.",
+  "clock_delta_minutes": -0.1,
+  "baseline_traits": [
+    {
+      "name": "character",
+      "definition": "Internal discipline to align words with deeds, to place public duty ahead of personal gain, and to honour the oath of office even when it conflicts with short-term advantage."
+    },
+    {
+      "name": "ethics",
+      "definition": "Commitment to keep a firm boundary between public power and private interest, avoiding conflicts of interest, self-dealing, and the use of office to enrich oneself, family, or allies."
+    },
+    {
+      "name": "restraint",
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+    },
+    {
+      "name": "truthfulness",
+      "definition": "Obligation to speak accurately on matters of public consequence, avoid deliberate disinformation, correct false statements, and ensure that citizens are not governed by manufactured unreality."
+    },
+    {
+      "name": "good_faith",
+      "definition": "Adherence to the spirit as well as the letter of democratic rules, keeping promises, respecting outcomes, and avoiding procedural manipulation that defeats the purpose of the law."
+    },
+    {
+      "name": "stewardship",
+      "definition": "Responsibility to maintain and strengthen institutions so they can serve future generations as well as the present, avoiding actions that permanently damage capacity, credibility, or public trust."
+    }
+  ],
+  "weekly_audit": {
+    "summary": "Week 88 was defined by a direct confrontation between executive power and judicial authority over press access: a White House press ban escalated into a court order restoring credentials, followed by open defiance of that order at a state dinner. This pattern of testing limits and then simply routing around adverse rulings recurred across immigration enforcement, corruption oversight, and public asset stewardship. Countervailing forces were substantial and specific: courts blocked unlawful deportation practices and ballot seizures, a state supreme court and appellate panel both ruled against executive or local overreach, and individual Republican senators broke publicly with the administration on corruption, war powers, tariffs, and press freedom. The moral floor did not collapse this week, but it absorbed direct, documented defiance of a federal court order, a qualitatively distinct and serious form of erosion beyond rhetorical excess.",
+    "norms_broken": [
+      {
+        "trait": "good_faith",
+        "pattern": "After a federal judge ordered press credentials restored for banned outlets, the White House denied access again at a state dinner hours later, and separately justified the original ban using a story sourced to its own authorized briefing.",
+        "severity": "extreme",
+        "institutional_response": "The judiciary acted decisively and quickly; the executive branch openly defied the ruling rather than complying, with no immediate enforcement mechanism beyond further litigation.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk88_good_faith_ex01",
+            "week": 88,
+            "event_ids": [
+              "wk88_IM_012",
+              "wk88_IM_016"
+            ],
+            "developments": [
+              {
+                "development_id": "wk88_IM_012",
+                "development_label": "A federal judge ordered restoration of press credentials for banned news outlets.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk88_IM_016",
+                "development_label": "The administration denied press access to a state dinner despite the court order.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A Trump-appointed judge ordered credentials restored for 78 journalists; the White House defied the order hours later at a state dinner.",
+            "why_exemplary": "Tier-1 corroborated defiance of a binding judicial order represents a direct breach of the premise that executive power operates under judicial constraint.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk88_good_faith_ex02",
+            "week": 88,
+            "event_ids": [
+              "wk88_IM_014"
+            ],
+            "developments": [
+              {
+                "development_id": "wk88_IM_014",
+                "development_label": "The White House justified the press ban by citing a story sourced to its own authorized briefing.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A national-security rationale for banning Politico was undercut by evidence the underlying story came from an authorized administration briefing.",
+            "why_exemplary": "Demonstrates that the stated justification for suppressing press access was pretextual, revealing bad-faith rationale-construction after the fact.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "Public office and public assets were repeatedly folded into personal or family financial interest: a $300 million ballroom project bypassed federal safety codes at presidential insistence, AI policy was shaped while the president held undisclosed personal stakes in AI companies, and a housing official reportedly used the Attorney General's mortgage records as leverage.",
+        "severity": "serious",
+        "institutional_response": "No internal executive branch correction occurred; scrutiny came from investigative journalism and congressional letters rather than binding institutional consequence within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk88_ethics_ex01",
+            "week": 88,
+            "event_ids": [
+              "wk88_PA_006"
+            ],
+            "developments": [
+              {
+                "development_id": "wk88_PA_006",
+                "development_label": "A $300 million White House ballroom project bypassed federal building safety codes after the original architect resigned over fire-safety concerns.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The administration routed a personal legacy construction project through an office exempt from safety codes, with the president reportedly declaring himself the code.",
+            "why_exemplary": "Tier-1 corroborated example of public funds and regulatory exemption serving a personal vanity project over public safety standards.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk88_ethics_ex02",
+            "week": 88,
+            "event_ids": [
+              "wk88_PA_003",
+              "wk88_ES_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk88_PA_003",
+                "development_label": "The president announced a new AI oversight structure while dismissing safety concerns.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk88_ES_004",
+                "development_label": "The president held personal financial stakes in AI-linked companies without a blind trust while shaping AI policy.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The president directed federal AI oversight policy while personally holding undisclosed financial stakes in the regulated industry.",
+            "why_exemplary": "Illustrates an unmanaged conflict of interest between personal wealth and an emerging regulatory domain the president personally controls.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "Immigration enforcement operated with escalating disregard for proportionality and legal limits: an asylum seeker was shot and later returned to custody with a bullet still in his body, a US citizen was injured in a mistaken detention, a man died fleeing a traffic stop, and 10,000 new agents were hired without standard vetting.",
+        "severity": "serious",
+        "institutional_response": "A federal judge found detention conditions unconstitutional; state officials demanded investigations; no internal agency reform was reported within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk88_restraint_ex01",
+            "week": 88,
+            "event_ids": [
+              "wk88_CR_007"
+            ],
+            "developments": [
+              {
+                "development_id": "wk88_CR_007",
+                "development_label": "ICE shot and wounded a Venezuelan asylum seeker during a traffic stop in Austin.",
+                "role": "primary"
+              }
+            ],
+            "summary": "An agent shot an asylum seeker delivering food; he was later discharged from a hospital to ICE custody with the bullet still in his body.",
+            "why_exemplary": "Multi-source corroborated use of force disproportionate to the encounter, compounded by denial of adequate medical care afterward.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk88_restraint_ex02",
+            "week": 88,
+            "event_ids": [
+              "wk88_CR_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk88_CR_009",
+                "development_label": "ICE hired 10,000 new agents with minimal background vetting.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Rapid hiring bypassed fingerprint checks and interviews, contributing to a documented pattern of violent incidents by inadequately vetted agents.",
+            "why_exemplary": "Tier-1 corroborated structural cause connecting institutional expansion directly to loss of restraint in the field.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Institutions built for long-term accountability were quietly dismantled: specialized FBI and DOJ public corruption units were eliminated, including one investigating a sitting senator, and the Justice Department dismissed over fifty decades-old school desegregation orders.",
+        "severity": "serious",
+        "institutional_response": "Investigative journalism surfaced the corruption unit closures; no legislative or judicial reversal occurred within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk88_stewardship_ex01",
+            "week": 88,
+            "event_ids": [
+              "wk88_IM_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk88_IM_009",
+                "development_label": "The administration dismantled specialized FBI and DOJ public corruption units, halting an active senator investigation.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Reporting revealed elimination of units investigating a sitting senator's alleged pay-to-play scheme, halting an active federal corruption probe.",
+            "why_exemplary": "Multi-source corroborated dismantling of durable anti-corruption infrastructure built to outlast any single administration.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "The president converted national symbols and institutions into instruments of personal image: threatening the Kennedy Center over naming rights, converting a planned triumphal arch into a military complex, and directing replacement of the Kennedy Center's honorary art collection with patron-selected works.",
+        "severity": "concerning",
+        "institutional_response": "Public protest and press coverage were extensive; congressional Democrats threatened subpoenas but took no binding action within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk88_character_ex01",
+            "week": 88,
+            "event_ids": [
+              "wk88_PA_002",
+              "wk88_PA_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk88_PA_002",
+                "development_label": "Trump threatened to demolish or rename the Kennedy Center unless his name appeared on it.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk88_PA_004",
+                "development_label": "Trump announced conversion of a planned triumphal arch into a military complex with drones and snipers.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Public cultural and civic infrastructure was repeatedly reframed as an extension of personal legacy rather than shared national inheritance.",
+            "why_exemplary": "Multi-source corroborated pattern showing consistent subordination of institutional purpose to personal branding across multiple projects in a single week.",
+            "exemplar_type": "primary"
+          }
+        ]
+      }
+    ],
+    "norms_strengthened": [
+      {
+        "trait": "good_faith",
+        "pattern": "Courts at multiple levels ruled against executive and local overreach: a federal appeals court found third-country deportations unlawful, a state supreme court ordered a sheriff to return 650,000 seized ballots, and a federal judge found ICE detention conditions unconstitutional.",
+        "scope": "institutional",
+        "why_it_matters": "Multiple independent judicial findings against government overreach, issued in the same week, demonstrate that courts retain both the will and capacity to check executive and local abuses of power.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk88_good_faith_strength_ex01",
+            "week": 88,
+            "event_ids": [
+              "wk88_CR_016"
+            ],
+            "developments": [
+              {
+                "development_id": "wk88_CR_016",
+                "development_label": "The California Supreme Court ordered a sheriff to return 650,000 confiscated ballots.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The state's highest court found a sheriff's ballot seizure unlawful and a threat to election integrity, ordering their return.",
+            "why_exemplary": "Tier-1 corroborated judicial rebuke of an unauthorized local law enforcement intrusion into election administration.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk88_good_faith_strength_ex02",
+            "week": 88,
+            "event_ids": [
+              "wk88_CR_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk88_CR_011",
+                "development_label": "A federal appeals court ruled the third-country deportation policy unlawful on due-process grounds.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A three-judge panel found migrants were deported without adequate notice or opportunity to contest removal.",
+            "why_exemplary": "Tier-1 corroborated judicial constraint on an executive immigration practice affecting due-process rights at scale.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "Individual Republican senators publicly broke with the administration on multiple fronts: calling for a subpoena of Donald Trump Jr. over a Russian oligarch's gift, criticizing ICE's lack of local coordination, opposing a Senate nominee, and dissenting from the press ban.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Public intra-party dissent, even without binding consequence, signals that party loyalty has not fully displaced individual conscience or accountability standards among elected officials.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk88_character_strength_ex01",
+            "week": 88,
+            "event_ids": [
+              "wk88_IG_008"
+            ],
+            "developments": [
+              {
+                "development_id": "wk88_IG_008",
+                "development_label": "Senator John Curtis called for a Senate investigation and subpoena of Donald Trump Jr.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A Republican senator demanded scrutiny of a presidential son's acceptance of funds from a Russian oligarch, applying a consistent standard.",
+            "why_exemplary": "Multi-source corroborated example of a party member applying oversight standards evenhandedly against his own party's leading family.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Five competing television networks jointly suspended shared press pool coverage in solidarity with a banned outlet, and outlets pursued and won emergency judicial relief rather than acquiescing to exclusion.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Collective, competitive-industry solidarity in defense of press access demonstrates that professional norms can still mobilize effective resistance to executive pressure on the press.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk88_good_faith_strength_ex03",
+            "week": 88,
+            "event_ids": [
+              "wk88_CR_020"
+            ],
+            "developments": [
+              {
+                "development_id": "wk88_CR_020",
+                "development_label": "ABC, CBS, CNN, Fox News, and NBC suspended shared White House press pool coverage in solidarity with CNN.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Five competing networks jointly withdrew from covering presidential events after the administration excluded one outlet.",
+            "why_exemplary": "Tier-1 corroborated, unprecedented act of collective press resistance across ideologically diverse outlets.",
+            "exemplar_type": "primary"
+          }
+        ]
+      }
+    ],
+    "direction_of_movement": "mixed_but_stable"
+  },
+  "cumulative_condition": {
+    "narrative": "Week 88 sharpens a trajectory already flagged as critical in Week 87. Where the prior week's central alarm was an explicit stated intent to reject a legitimate election outcome, this week supplied the clearest evidence yet that such intent is not merely rhetorical: the administration was found by a federal judge to have violated press-access rights, and then simply defied that ruling at a state dinner. This is a qualitatively significant escalation, moving beyond norm-breaking that operates in legal gray zones toward open non-compliance with a court order. The pattern recurred in miniature across immigration enforcement, where deportations continued despite an appellate finding of unlawfulness, and in corruption oversight, where investigative units were dismantled even as evidence of wrongdoing mounted.\n\nAt the same time, the institutional resistance identified as a source of resilience in Week 87 remained active and, in some respects, sharpened. Courts issued multiple rulings against government overreach within days of each other: on press credentials, on ballot seizure, on detention conditions, and on deportation policy. A state supreme court, a federal appeals court, and a federal district judge all ruled against executive or local abuses in the same week. Individual Republican senators continued to break publicly with the administration, this time including a call to subpoena the president's own son, suggesting that intra-party accountability standards, while inconsistent, have not disappeared.\n\nThe net effect is a democracy still contested at nearly every level rather than one that has been captured outright. The moral floor did not collapse this week, but it absorbed a direct and specific breach, judicial defiance, that is more dangerous in kind than the diffuse rhetorical and financial abuses catalogued in prior weeks. The trajectory remains one of an executive testing the outer limits of institutional tolerance, with courts, states, and a shrinking but real number of party dissenters still willing to answer.",
+    "trend": "deteriorating",
+    "stress_points": [
+      "open executive defiance of a binding federal court order",
+      "dismantling of anti-corruption investigative infrastructure",
+      "unmanaged personal financial conflicts of interest in emerging regulatory domains",
+      "disproportionate and inadequately vetted immigration enforcement violence",
+      "conversion of public cultural and construction projects into personal legacy instruments"
+    ],
+    "sources_of_resilience": [
+      "multiple simultaneous judicial rulings against executive and local overreach",
+      "cross-industry press solidarity against government censorship",
+      "individual Republican senators breaking with the administration on corruption and enforcement",
+      "state-level legislative responses to federal election interference",
+      "investigative journalism surfacing corruption unit closures and financial conflicts"
+    ]
+  },
+  "risk_assessment": {
+    "level": "critical",
+    "justification": "The open defiance of a federal court order restoring press credentials, occurring at a state dinner within hours of the ruling, is a direct and unambiguous breach of the principle that executive power operates under judicial constraint. Combined with continued deportations despite an appellate finding of unlawfulness, and continued pursuit of Supreme Court intervention to overturn that finding, this week demonstrates a pattern of treating adverse court rulings as obstacles to route around rather than binding commands. The dismantling of corruption investigative units, including one examining a sitting senator, compounds this by removing durable mechanisms of elite accountability precisely as evidence of wrongdoing accumulates.\n\nCountervailing institutional strength remained real and specific this week: courts at the state supreme, federal appellate, and federal district level all ruled against overreach; a bipartisan cross-industry press coalition mobilized effective resistance; and individual senators, including calls to investigate the president's own son, kept intra-party accountability alive. This is sufficient to prevent the assessment from moving to the highest category, but the specific instance of judicial defiance, a bright-line violation with no clear historical precedent for correction absent enforcement, keeps the risk level critical rather than merely high.",
+    "forward_signals": [
+      "whether the administration complies with future court orders on press access or continues defiance",
+      "Supreme Court disposition of the third-country deportation appeal",
+      "whether the dismantled corruption units are restored or the senator investigation proceeds elsewhere",
+      "further disclosure of AI-related financial conflicts of interest",
+      "whether Republican senators' individual dissents translate into any binding legislative check ahead of midterms"
+    ]
+  }
+}

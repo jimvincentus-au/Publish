@@ -1,0 +1,466 @@
+{
+  "week_number": 89,
+  "period_label": "Week 89",
+  "window": {
+    "start": "2026-09-26",
+    "end": "2026-10-02"
+  },
+  "clock_time_public": "7:35 p.m.",
+  "clock_delta_minutes": 0.0,
+  "baseline_traits": [
+    {
+      "name": "character",
+      "definition": "Internal discipline to align words with deeds, to place public duty ahead of personal gain, and to honour the oath of office even when it conflicts with short-term advantage."
+    },
+    {
+      "name": "ethics",
+      "definition": "Commitment to keep a firm boundary between public power and private interest, avoiding conflicts of interest, self-dealing, and the use of office to enrich oneself, family, or allies."
+    },
+    {
+      "name": "restraint",
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+    },
+    {
+      "name": "truthfulness",
+      "definition": "Obligation to speak accurately on matters of public consequence, avoid deliberate disinformation, correct false statements, and ensure that citizens are not governed by manufactured unreality."
+    },
+    {
+      "name": "good_faith",
+      "definition": "Adherence to the spirit as well as the letter of democratic rules, keeping promises, respecting outcomes, and avoiding procedural manipulation that defeats the purpose of the law."
+    },
+    {
+      "name": "stewardship",
+      "definition": "Responsibility to maintain and strengthen institutions so they can serve future generations as well as the present, avoiding actions that permanently damage capacity, credibility, or public trust."
+    }
+  ],
+  "weekly_audit": {
+    "summary": "Week 89 continued a pattern of simultaneous erosion and resistance rather than clear movement in either direction. The administration withheld or diverted over $2 billion in congressionally appropriated funds across at least four separate programs, a practice the GAO found unconstitutional yet which continued unabated. The president explicitly stated a preference for judicial loyalty over independent rulings, while his Defense Secretary subordinated military procurement decisions to private megadonors and imposed loyalty tests on service members. Taxpayer funds financed campaign-style advertisements, including one praising a war action, while a government chatbot that briefly fact-checked the president was censored. Countervailing forces remained substantial: the GAO's constitutional finding, seven-state and New York lawsuits over impoundment, a judge's dismissal with prejudice of a politically pressured prosecution, a court blocking border-wall construction, and bipartisan legislative pushback on surveillance overreach and the Putin G20 invitation.",
+    "norms_broken": [
+      {
+        "trait": "good_faith",
+        "pattern": "The administration repeatedly withheld or redirected congressionally appropriated funds against explicit holds or bipartisan appropriations, including over $1.8 billion in pocket rescissions, $52 million in diverted Ukraine-region aid, $175 million in redirected human rights funds, and $20 million in DHS funds used for political advertising.",
+        "severity": "serious",
+        "institutional_response": "The GAO found the practice unconstitutional; seven states and New York sued; Congress objected across party lines, but the withholding continued through the week's end.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk89_good_faith_ex01",
+            "week": 89,
+            "event_ids": [
+              "wk89_PA_001",
+              "wk89_IG_007"
+            ],
+            "developments": [
+              {
+                "development_id": "wk89_PA_001",
+                "development_label": "Administration withheld over $1.8 billion in appropriated funds through pocket rescissions.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk89_IG_007",
+                "development_label": "GAO determined the $810 million funding cancellation violated the Constitution.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A nonpartisan watchdog found the executive's withholding of appropriated funds unconstitutional, yet the practice continued across multiple programs.",
+            "why_exemplary": "Ties a formal constitutional finding directly to ongoing executive conduct, demonstrating that institutional findings have not yet produced behavioral change.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk89_good_faith_ex02",
+            "week": 89,
+            "event_ids": [
+              "wk89_PA_004",
+              "wk89_IG_026"
+            ],
+            "developments": [
+              {
+                "development_id": "wk89_PA_004",
+                "development_label": "Administration diverted $52 million in Ukraine-region aid to Latin American governments against a congressional hold.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk89_IG_026",
+                "development_label": "Administration redirected $20 million in DHS funds to pro-Trump midterm campaign advertisements.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Funds earmarked by Congress for specific purposes were redirected to unrelated political and foreign-policy uses, defying legislative holds.",
+            "why_exemplary": "Shows a repeated, cross-agency pattern of treating congressional spending direction as advisory rather than binding.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "The president declined to rule out declaring a state of emergency or invoking the Insurrection Act before the midterms, discussed annihilating Iran, and the Pentagon deployed a third carrier strike group amid escalating rhetoric.",
+        "severity": "serious",
+        "institutional_response": "Media and civil society raised alarm; no binding legislative or judicial check was reported within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk89_restraint_ex01",
+            "week": 89,
+            "event_ids": [
+              "wk89_PA_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk89_PA_005",
+                "development_label": "Trump refused to rule out declaring a state of emergency or invoking the Insurrection Act before the midterms.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The president declined to foreclose using emergency or military powers around an election, raising concerns about interference with a peaceful transfer of power.",
+            "why_exemplary": "Multi-source corroborated statement directly implicating willingness to use extraordinary powers near an electoral event.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk89_restraint_ex02",
+            "week": 89,
+            "event_ids": [
+              "wk89_PA_007",
+              "wk89_PA_008"
+            ],
+            "developments": [
+              {
+                "development_id": "wk89_PA_007",
+                "development_label": "Trump threatened to annihilate Iran in a press interview.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk89_PA_008",
+                "development_label": "A third aircraft carrier strike group was deployed to the Middle East.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Escalatory rhetoric toward a sovereign nation was paired with substantial military deployment, raising risk of unintended conflict.",
+            "why_exemplary": "Tier-1 corroborated combination of verbal escalation and material military posture signals reduced restraint in foreign-policy signaling.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "The president stated he regretted appointing Supreme Court justices who ruled against him and affirmed a preference for judicial loyalty over independence; Defense Secretary Hegseth imposed ideological conformity standards on service members and branded press scrutiny as treason.",
+        "severity": "serious",
+        "institutional_response": "Legal commentators and some Republicans voiced concern; no institutional correction occurred within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk89_character_ex01",
+            "week": 89,
+            "event_ids": [
+              "wk89_PA_006"
+            ],
+            "developments": [
+              {
+                "development_id": "wk89_PA_006",
+                "development_label": "Trump expressed regret over appointing justices who ruled against him, affirming a preference for judicial loyalty.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The president publicly stated he values loyalty from judges over independent rulings, a direct articulation of pressure on judicial independence.",
+            "why_exemplary": "Tier-1 corroborated statement moving from implied to explicit pressure on judicial impartiality, a marked shift from prior conduct.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk89_character_ex02",
+            "week": 89,
+            "event_ids": [
+              "wk89_PA_010"
+            ],
+            "developments": [
+              {
+                "development_id": "wk89_PA_010",
+                "development_label": "Hegseth announced ideological and physical conformity standards for military personnel and labeled press criticism treasonous.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The Defense Secretary imposed loyalty tests on service members and equated press scrutiny of the military with treason.",
+            "why_exemplary": "Illustrates politicization of a historically apolitical institution and erosion of tolerance for legitimate oversight.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "Defense Secretary Hegseth subordinated military future-planning decisions to private megadonors with defense-industry financial interests; taxpayer funds financed campaign-style advertisements, including one praising a war action.",
+        "severity": "concerning",
+        "institutional_response": "Media investigations surfaced the arrangements; bipartisan criticism emerged over taxpayer-funded advertising, but no binding remedy occurred within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk89_ethics_ex01",
+            "week": 89,
+            "event_ids": [
+              "wk89_PA_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk89_PA_009",
+                "development_label": "Hegseth subordinated military future-planning decisions to private megadonors Musk, Luckey, and Gingrich.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Major campaign donors with defense-industry financial interests were appointed to shape military strategy, raising conflict-of-interest concerns.",
+            "why_exemplary": "Multi-source corroborated example of donor access directly shaping policy areas with material financial stakes for those donors.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk89_ethics_ex02",
+            "week": 89,
+            "event_ids": [
+              "wk89_IM_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk89_IM_011",
+                "development_label": "A taxpayer-funded ad praised the president's declaration of war against Iran.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Federal funds financed campaign-style messaging celebrating a military conflict, drawing bipartisan ethics criticism.",
+            "why_exemplary": "Tier-1 corroborated use of public resources for personal political benefit tied to a matter of war and peace.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "A government chatbot that initially fact-checked the president's claims was censored; the president falsely claimed South Korea had agreed to a $50 billion investment, later contradicted by Korean officials; the president dismissed historically low approval ratings as fake.",
+        "severity": "concerning",
+        "institutional_response": "Journalists and foreign officials corrected the record publicly; no internal administration correction occurred.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk89_truthfulness_ex01",
+            "week": 89,
+            "event_ids": [
+              "wk89_IM_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk89_IM_009",
+                "development_label": "The America.gov chatbot was censored after it initially debunked presidential falsehoods.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A government AI tool that briefly fact-checked the president's claims was quickly restricted from doing so.",
+            "why_exemplary": "Tier-1 corroborated demonstration of active suppression of factual government information by the government itself.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk89_truthfulness_ex02",
+            "week": 89,
+            "event_ids": [
+              "wk89_IM_016"
+            ],
+            "developments": [
+              {
+                "development_id": "wk89_IM_016",
+                "development_label": "Trump falsely claimed South Korea agreed to a $50 billion Alaska LNG investment.",
+                "role": "primary"
+              }
+            ],
+            "summary": "South Korean officials publicly contradicted a presidential diplomatic claim, exposing a pattern of fabricated announcements.",
+            "why_exemplary": "Tier-1 corroborated instance of a verifiably false claim made for political benefit and promptly refuted by a foreign government.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "ICE deleted internal reviews documenting in-custody deaths from its public website, obstructing accountability amid a rising detainee death toll; the DOJ pursued a 'grand conspiracy' investigation described by a former inspector general as starting with targets and working backward.",
+        "severity": "serious",
+        "institutional_response": "Investigative journalism surfaced the deletions; prosecutors resigned from the DOJ probe rather than continue, but no external correction occurred within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk89_stewardship_ex01",
+            "week": 89,
+            "event_ids": [
+              "wk89_IM_017"
+            ],
+            "developments": [
+              {
+                "development_id": "wk89_IM_017",
+                "development_label": "ICE deleted internal reviews documenting in-custody deaths from its public website.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Removal of official records tied to detainee deaths obstructs accountability and conceals evidence of medical neglect.",
+            "why_exemplary": "Multi-source corroborated destruction of accountability infrastructure that future oversight would depend upon.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk89_stewardship_ex02",
+            "week": 89,
+            "event_ids": [
+              "wk89_IG_021"
+            ],
+            "developments": [
+              {
+                "development_id": "wk89_IG_021",
+                "development_label": "DOJ pursued a 'grand conspiracy' investigation targeting political enemies with limited evidentiary support.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A year-long probe criticized for starting with targets and working backward raises concerns of weaponized prosecution damaging institutional legitimacy.",
+            "why_exemplary": "Tier-1 corroborated erosion of prosecutorial integrity with long-term costs to DOJ credibility regardless of outcome.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      }
+    ],
+    "norms_strengthened": [
+      {
+        "trait": "good_faith",
+        "pattern": "A judge dismissed with prejudice a politically pressured prosecution against former Olympian David Hearn, explicitly warning of the risk of renewed meritless charges; a judge blocked border-wall construction in Big Bend National Park for bypassing environmental review; seven states and New York sued to compel constitutionally required spending.",
+        "scope": "institutional",
+        "why_it_matters": "Judicial willingness to end rather than merely pause politically motivated or procedurally deficient executive action demonstrates continued capacity for institutional self-correction.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk89_good_faith_strength_ex01",
+            "week": 89,
+            "event_ids": [
+              "wk89_IG_020"
+            ],
+            "developments": [
+              {
+                "development_id": "wk89_IG_020",
+                "development_label": "Judge Todd Edelman dismissed with prejudice a politically pressured prosecution against David Hearn.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A federal judge ended a weak case the president had publicly pushed to continue, warning explicitly of politically motivated prosecution risk.",
+            "why_exemplary": "Multi-source corroborated judicial action naming and foreclosing the danger of executive-driven prosecutorial abuse, rather than merely delaying it.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk89_good_faith_strength_ex02",
+            "week": 89,
+            "event_ids": [
+              "wk89_IG_016",
+              "wk89_IG_017"
+            ],
+            "developments": [
+              {
+                "development_id": "wk89_IG_016",
+                "development_label": "Seven states sued challenging the administration's rescission of appropriated funds as unconstitutional impoundment.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk89_IG_017",
+                "development_label": "New York sued HUD over a pocket rescission of housing counseling funds.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Multiple states used litigation to compel constitutionally required spending, testing executive impoundment claims in court.",
+            "why_exemplary": "Demonstrates active state-level enforcement of separation-of-powers constraints on federal spending authority.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "Senator Thom Tillis privately rebuked the president in leaked texts, stating he would not tolerate presidential threats; Senator Susan Collins criticized pocket rescissions despite having confirmed the official who pursued them; fourteen bipartisan senators urged rescinding Putin's G20 invitation.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Continued intra-party dissent, even if inconsistent with prior voting records, signals that individual conscience and accountability standards persist among elected officials.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk89_character_strength_ex01",
+            "week": 89,
+            "event_ids": [
+              "wk89_IG_019"
+            ],
+            "developments": [
+              {
+                "development_id": "wk89_IG_019",
+                "development_label": "Senator Thom Tillis privately criticized Trump in leaked texts, stating he would not tolerate presidential threats.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A Republican senator's private rebuke of the president, made public, reveals internal party friction over loyalty demands.",
+            "why_exemplary": "Multi-source corroborated evidence that party loyalty has not fully displaced individual pushback against presidential pressure.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk89_character_strength_ex02",
+            "week": 89,
+            "event_ids": [
+              "wk89_IG_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk89_IG_002",
+                "development_label": "Fourteen bipartisan senators urged Trump to rescind Putin's G20 invitation.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A bipartisan Senate group pushed back on executive foreign-policy discretion regarding legitimizing attacks on Ukrainian civilians.",
+            "why_exemplary": "Tier-1 corroborated bipartisan effort to constrain executive discretion on a matter of international legitimacy.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Bipartisan legislators introduced multiple bills to restrict automated surveillance technology (Stop Flock Abuse Act, Ban Flock Act) following a Senate hearing on privacy and wrongful-arrest concerns.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Bipartisan legislative response to documented surveillance abuse demonstrates institutional capacity to address emerging threats to civil liberties before they become entrenched.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk89_stewardship_strength_ex01",
+            "week": 89,
+            "event_ids": [
+              "wk89_IG_023",
+              "wk89_IG_024"
+            ],
+            "developments": [
+              {
+                "development_id": "wk89_IG_023",
+                "development_label": "Josh Hawley announced the Stop Flock Abuse Act to regulate license-plate reader use.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk89_IG_024",
+                "development_label": "Sanders, Merkley, and Ocasio-Cortez introduced the Ban Flock Act to prohibit federal use of automated license-plate readers.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Lawmakers across the ideological spectrum proposed restricting federal use of mass surveillance technology amid documented misuse.",
+            "why_exemplary": "Multi-source corroborated bipartisan legislative response addressing a concrete, emerging civil-liberties threat.",
+            "exemplar_type": "primary"
+          }
+        ]
+      }
+    ],
+    "direction_of_movement": "mixed_but_stable"
+  },
+  "cumulative_condition": {
+    "narrative": "Week 89 extends the trajectory described at the close of Week 88 without resolving it. The prior week's central alarm, open executive defiance of a binding court order on press access, recurred in a different form this week: the administration continued blocking CNN and MSNBC from events despite restored credentials, while simultaneously running taxpayer-funded advertisements on those same networks. This pattern of selective, almost performative noncompliance, paired with continued use of public funds for self-promotion, suggests the posture identified last week has not receded but has instead diversified across new domains, including military procurement, diplomatic claims, and government information tools.\n\nThe week's most structurally significant development is the continuation and expansion of pocket rescissions and fund diversions despite a GAO finding of unconstitutionality. Unlike a one-time breach, this is now a sustained practice spanning health funding, Ukraine-region aid, human rights grants, Taiwan assistance, and domestic political advertising. That a formal institutional finding of unconstitutionality produced no behavioral change is a notable data point: it suggests the administration is testing not just the limits of law but the practical irrelevance of adverse findings absent enforcement mechanisms. At the same time, the response from states, courts, and individual senators has been sustained rather than diminishing. Seven states and New York filed suit; a judge dismissed a weak politically driven prosecution outright; another blocked environmentally noncompliant border-wall construction; bipartisan legislators moved on surveillance reform.\n\nThe president's explicit statement regretting the independence of his own Supreme Court appointees, and his stated preference for judicial loyalty, marks a rhetorical escalation consistent with the broader pattern of treating institutional independence as an obstacle rather than a safeguard. Combined with Hegseth's subordination of military strategy to donor interests and loyalty tests for service members, the week shows pressure being applied simultaneously to the judiciary, the military, and the press, three institutions whose independence has historically been treated as near-inviolable. The moral floor has not collapsed, but it continues to absorb pressure on multiple institutional fronts at once, with resistance holding only through continued, effortful intervention by courts, states, and dissenting officials rather than through any voluntary restraint from the executive.",
+    "trend": "deteriorating",
+    "stress_points": [
+      "sustained impoundment of appropriated funds despite a constitutional finding against the practice",
+      "explicit presidential statements favoring judicial loyalty over independence",
+      "donor-driven capture of military strategic decision-making",
+      "politicized and evidence-thin federal prosecutions",
+      "destruction of accountability records concerning detainee deaths",
+      "taxpayer-funded political and war-celebratory advertising"
+    ],
+    "sources_of_resilience": [
+      "nonpartisan GAO findings providing a legal foundation for state litigation",
+      "judicial dismissals with prejudice foreclosing politically driven prosecutions",
+      "bipartisan legislative response to surveillance overreach",
+      "individual Republican senators breaking publicly with the administration",
+      "state lawsuits compelling constitutionally required spending",
+      "investigative journalism surfacing donor influence and record deletions"
+    ]
+  },
+  "risk_assessment": {
+    "level": "critical",
+    "justification": "This week demonstrates that a formal, nonpartisan institutional finding of unconstitutionality (the GAO ruling on pocket rescissions) produced no change in executive conduct, with the practice expanding to cover additional programs and purposes within days. Combined with explicit presidential statements favoring judicial loyalty over independence, donor capture of military strategic planning, and continued defiance of press-access remedies from the prior week, the pattern suggests an executive branch increasingly willing to treat adverse institutional findings as noise rather than binding constraint. The deletion of ICE accountability records concerning detainee deaths further signals active concealment rather than mere neglect.\n\nThe risk level remains critical rather than escalating to severe because the countervailing institutional response this week was substantive and specific: judicial dismissal with prejudice of a politically driven prosecution, blocked border-wall construction for procedural noncompliance, multi-state litigation forcing the impoundment question into court, and bipartisan legislative action on surveillance. These responses demonstrate that institutions retain both the will and the capacity to resist, even as the frequency and diversity of executive pressure points continues to expand.",
+    "forward_signals": [
+      "whether courts hearing the seven-state and New York impoundment suits issue binding relief",
+      "whether the Supreme Court's December argument in the voter-purge case expands disenfranchisement risk before the midterms",
+      "further escalation or de-escalation of rhetoric and military posture toward Iran before the midterms",
+      "whether additional Republican senators translate private dissent into binding legislative action",
+      "continued use of taxpayer funds for political advertising and any legal consequence that follows"
+    ]
+  }
+}

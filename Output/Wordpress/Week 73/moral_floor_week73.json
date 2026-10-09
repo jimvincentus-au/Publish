@@ -5,8 +5,8 @@
     "start": "2026-06-06",
     "end": "2026-06-12"
   },
-  "clock_time_public": "7:41 p.m.",
-  "clock_delta_minutes": -0.3,
+  "clock_time_public": "7:36 p.m.",
+  "clock_delta_minutes": -0.2,
   "baseline_traits": [
     {
       "name": "character",
@@ -34,158 +34,212 @@
     }
   ],
   "weekly_audit": {
-    "summary": "Week 73 combined an active foreign-policy crisis with domestic entrenchment of executive discretion and family financial conflicts. Verified events include the attempted revival of a $1.8 billion discretionary fund after officials had declared it dead, its extension to potentially compensate January 6 assailants of police, the nomination of the president's former personal attorney as Attorney General, an erratic sequence of Iran strike announcements and cancellations without congressional authorization, and a $352 million diversion of Secret Service funds toward a ballroom project. Institutional resistance was substantial and, in several instances, decisive: judges blocked the anti-weaponization fund, struck down an unlawful H-1B fee, enforced the Kennedy Center renaming order, and protected the Federal Reserve chair from a politically motivated subpoena. Congress allowed a major surveillance authority to lapse amid a contested loyalist nomination, while also passing enforcement funding without oversight conditions. The pattern is one of sustained pressure against institutional guardrails met by active, sometimes successful, resistance from courts and a bipartisan slice of the Senate, producing a volatile but not collapsing equilibrium.",
+    "summary": "Week 73 shows the same pattern of concurrent breach and correction observed in prior weeks, with the clock barely moving because pressure and resistance were nearly matched. The president revived a fund his own DOJ had called dead, diverted Secret Service funds to a ballroom, refused to rule out compensating January 6 assailants, and abruptly reversed strike orders against Iran without congressional consultation. Family and allied enrichment continued through Kushner's Saudi investment and Reliance Industries' stake in a Trump Jr.-linked startup timed to favorable policy. Courts pushed back forcefully and, in several instances, successfully: an injunction against the anti-weaponization fund was extended, the H-1B visa fee was struck down as an unlawful tax, the Kennedy Center name-removal order survived an emergency stay request, and Powell's independence from a politicized subpoena was reaffirmed. Congress showed genuine bipartisan friction, blocking Bill Pulte's nomination as DNI, though the resulting delay caused FISA Section 702 to lapse as unintended collateral damage. Detention conditions and immigration enforcement continued a troubling downward trajectory, with a scheme to falsely mark millions of immigrants dead in federal records, abandonment of detainee death reporting, and violent suppression of a hunger strike and its supporting protesters.",
     "norms_broken": [
       {
-        "trait": "ethics",
-        "pattern": "The nomination of the president's former personal defense attorney as Attorney General, continued profit-taking by Trump family members from crypto ventures and foreign investment tied to policy concessions, and a $2 billion payment to Jared Kushner's investment firm from Saudi Arabia while he remained active in regional diplomacy, together illustrate persistent entanglement of private gain with public office.",
+        "trait": "character",
+        "pattern": "The president focused on golf course renovations and self-promotional content during an active military crisis with Iran, while separately reviving a discretionary fund his own acting attorney general had declared dead and declining to rule out using it to compensate convicted January 6 assailants.",
         "severity": "serious",
-        "institutional_response": "Investigative journalism surfaced the conflicts; Senate confirmation proceedings for Blanche proceeded despite the concerns; no independent ethics review is documented within the week.",
+        "institutional_response": "Media documented the disconnect between crisis and personal focus; DOJ's earlier declaration of the fund's death was treated as reversible rather than binding, with no institutional penalty for the flip-flop.",
         "exemplars": [
           {
-            "exemplar_id": "wk73_ethics_ex01",
+            "exemplar_id": "wk73_character_ex01",
             "week": 73,
             "event_ids": [
-              "wk73_IG_022"
+              "wk73_PA_001",
+              "wk73_PA_006"
             ],
             "developments": [
               {
-                "development_id": "wk73_IG_022",
-                "development_label": "Trump nominated Todd Blanche, his former personal defense attorney, as permanent Attorney General.",
-                "role": "primary"
-              }
-            ],
-            "summary": "A president's former personal lawyer was nominated to lead the Justice Department, merging personal loyalty with the nation's top law enforcement post.",
-            "why_exemplary": "Tier-one corroborated reporting documents a direct entanglement between personal legal representation and institutional independence at the DOJ's highest level.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk73_ethics_ex02",
-            "week": 73,
-            "event_ids": [
-              "wk73_ES_015",
-              "wk73_ES_013"
-            ],
-            "developments": [
-              {
-                "development_id": "wk73_ES_015",
-                "development_label": "Jared Kushner's private investment company received $2 billion from Saudi Arabia while he remained active in regional policy.",
+                "development_id": "wk73_PA_001",
+                "development_label": "Trump signaled intent to revive the $1.776 billion discretionary fund his own DOJ had called dead.",
                 "role": "primary"
               },
               {
-                "development_id": "wk73_ES_013",
-                "development_label": "An Indian conglomerate invested at least $100 million in a Trump Jr.-linked startup while securing tariff and sanctions relief.",
-                "role": "secondary"
+                "development_id": "wk73_PA_006",
+                "development_label": "Trump declined to rule out compensating January 6 defendants who assaulted police using the fund.",
+                "role": "primary"
               }
             ],
-            "summary": "Large foreign payments to presidential family members coincided with active U.S. policy decisions affecting the same interests.",
-            "why_exemplary": "Corroborated reporting shows a recurring pattern in which proximity to the presidency generates concurrent foreign financial benefit alongside favorable policy outcomes.",
+            "summary": "The president sought to revive a supposedly dead compensation fund while refusing to exclude paying convicted assailants of law enforcement, treating a prior institutional declaration as reversible.",
+            "why_exemplary": "Tier-1 corroborated; demonstrates a pattern of treating formal administration commitments as provisional rather than binding, undermining consistency between word and deed.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk73_character_ex02",
+            "week": 73,
+            "event_ids": [
+              "wk73_PA_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk73_PA_002",
+                "development_label": "Trump posted about golf course renovations and self-promotional AI videos during active combat with Iran.",
+                "role": "primary"
+              }
+            ],
+            "summary": "During live military conflict, the president's public focus turned to personal branding and leisure projects rather than crisis leadership.",
+            "why_exemplary": "Tier-1 corroborated; illustrates a gap between the seriousness the office demands during wartime and the president's public conduct.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "restraint",
-        "pattern": "The president announced, then hours later cancelled, planned strikes on Iran while separately ordering retaliatory strikes after a downed helicopter, and a secret plan for a ground invasion to seize enriched uranium was reportedly briefed without public or congressional knowledge, all reflecting unilateral and erratic use of war powers.",
+        "pattern": "The president unilaterally threatened, then cancelled, military strikes on Iran within hours, pressed Congress to fast-track a major spending bill and a voting-restriction act, and called for the removal of the nonpartisan Senate Parliamentarian after an adverse ruling.",
         "severity": "serious",
-        "institutional_response": "Congress did not assert war powers constraints during the week; no legislative vote on authorization is documented.",
+        "institutional_response": "Thirty-five Democratic senators demanded a legal justification under the War Powers Resolution; the Parliamentarian was not removed, but the pressure itself signaled willingness to override nonpartisan institutional safeguards.",
         "exemplars": [
           {
             "exemplar_id": "wk73_restraint_ex01",
             "week": 73,
             "event_ids": [
-              "wk73_PA_011",
-              "wk73_PA_012"
+              "wk73_PA_010",
+              "wk73_IG_019"
             ],
             "developments": [
               {
-                "development_id": "wk73_PA_011",
-                "development_label": "Trump announced, then cancelled hours later, planned military strikes on Iran while claiming intent to seize oil infrastructure.",
+                "development_id": "wk73_PA_010",
+                "development_label": "Trump threatened seizure of Iranian oil infrastructure and announced then cancelled strikes within hours.",
                 "role": "primary"
               },
               {
-                "development_id": "wk73_PA_012",
-                "development_label": "Trump ordered retaliatory U.S. strikes on Iran after a helicopter was downed near the Strait of Hormuz.",
+                "development_id": "wk73_IG_019",
+                "development_label": "35 Democratic senators demanded the legal basis for claiming hostilities with Iran had ceased under the War Powers Resolution.",
                 "role": "secondary"
               }
             ],
-            "summary": "Rapid, unilateral announcement, execution, and reversal of military action against Iran occurred without congressional debate or authorization.",
-            "why_exemplary": "Tier-one corroborated reporting documents an erratic pattern of war-making decisions concentrated entirely in the executive during an active, unresolved conflict.",
+            "summary": "Rapid, unilateral reversal of military strike orders without congressional consultation prompted a formal senatorial demand for legal justification under war powers law.",
+            "why_exemplary": "Tier-1 corroborated; exemplifies volatile, unchecked control over war powers that Congress attempted, without success within the week, to constrain.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk73_restraint_ex02",
             "week": 73,
             "event_ids": [
-              "wk73_PA_014"
+              "wk73_PA_008"
             ],
             "developments": [
               {
-                "development_id": "wk73_PA_014",
-                "development_label": "General Dan Caine secretly briefed Trump on plans for a ground invasion of Iran to seize enriched uranium.",
+                "development_id": "wk73_PA_008",
+                "development_label": "Trump urged the Senate to fire the Senate Parliamentarian after she ruled against a voter-restriction bill.",
                 "role": "primary"
               }
             ],
-            "summary": "Development of a secret ground-invasion plan occurred without public or congressional knowledge during an active crisis.",
-            "why_exemplary": "Though single-sourced, this development fits a corroborated pattern of unilateral executive war planning without institutional check, warranting inclusion as supporting evidence.",
+            "summary": "The president called for removal of a nonpartisan Senate officer solely because her ruling blocked a voting-restriction measure he favored.",
+            "why_exemplary": "Tier-1 corroborated; targeting a nonpartisan procedural safeguard for a substantively adverse ruling threatens the internal self-restraint mechanisms of the legislature itself.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "Family and allied financial interests continued to intersect with public office, including Kushner's $2 billion Saudi investment amid Middle East advisory work and a foreign conglomerate's $100 million investment in a Trump Jr.-linked startup coinciding with sanctions relief and tariff exemptions.",
+        "severity": "serious",
+        "institutional_response": "Reporting exposed the pattern; no recusal, investigation, or divestment was recorded within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk73_ethics_ex01",
+            "week": 73,
+            "event_ids": [
+              "wk73_ES_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk73_ES_005",
+                "development_label": "Jared Kushner received $2 billion from Saudi Arabia for his private company while advising on Middle East policy.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A senior presidential adviser's receipt of billions from a foreign government while shaping related U.S. policy presents a stark, ongoing conflict of interest.",
+            "why_exemplary": "Multi-source corroborated; represents a direct, unresolved intersection of foreign financial interest and active policy influence.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk73_ethics_ex02",
+            "week": 73,
+            "event_ids": [
+              "wk73_ES_007"
+            ],
+            "developments": [
+              {
+                "development_id": "wk73_ES_007",
+                "development_label": "Mukesh Ambani/Reliance Industries invested $100 million in a startup linked to Donald Trump Jr. around the time it secured sanctions relief and tariff exemptions.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A foreign billionaire's investment in a company tied to the president's son coincided closely with favorable policy decisions benefiting his broader business interests.",
+            "why_exemplary": "Reported by an independent investigative outlet; illustrates the pattern of proximity-based enrichment that requires no formal wrongdoing to erode public trust.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "good_faith",
-        "pattern": "The administration pressed to fire the Senate Parliamentarian after an unfavorable procedural ruling, sought a symbolic congressional resolution to expunge two impeachments, and the DOJ argued courts lack jurisdiction to review completed executive demolition of federal property, each treating procedural and legal constraints as obstacles to be circumvented rather than respected.",
+        "pattern": "Public funds were redirected around explicit congressional refusals: $352 million in Secret Service funds went to the White House ballroom after Congress declined to appropriate for it, and the anti-weaponization fund was revived despite the administration's own prior declaration of its death, prompting a federal court to extend an injunction and demand sworn declarations.",
         "severity": "serious",
-        "institutional_response": "The Senate did not fire the Parliamentarian during the week; courts continued to hear the ballroom demolition case; Congress had not acted on the expungement request by week's end.",
+        "institutional_response": "Judge Brinkema rejected the administration's assurances as insufficient and maintained judicial oversight; the National Trust for Historic Preservation separately sued over the ballroom project's lack of authorization.",
         "exemplars": [
           {
-            "exemplar_id": "wk73_goodfaith_ex01",
+            "exemplar_id": "wk73_good_faith_ex01",
             "week": 73,
             "event_ids": [
-              "wk73_PA_009"
-            ],
-            "developments": [
-              {
-                "development_id": "wk73_PA_009",
-                "development_label": "Trump urged Senate Majority Leader Thune to fire the Senate Parliamentarian after she ruled a voter-suppression bill violated procedural rules.",
-                "role": "primary"
-              }
-            ],
-            "summary": "A president pressured Senate leadership to remove a nonpartisan procedural officer after an unfavorable ruling on a contested bill.",
-            "why_exemplary": "Tier-one corroborated reporting shows an explicit attempt to eliminate institutional neutrality in legislative rule-making when it produced an inconvenient outcome.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk73_goodfaith_ex02",
-            "week": 73,
-            "event_ids": [
+              "wk73_PA_012",
               "wk73_IG_002"
             ],
             "developments": [
               {
+                "development_id": "wk73_PA_012",
+                "development_label": "The administration redirected $352 million in Secret Service funds to White House ballroom construction after Congress refused to appropriate money.",
+                "role": "primary"
+              },
+              {
                 "development_id": "wk73_IG_002",
-                "development_label": "DOJ argued in court that courts lack jurisdiction to review executive demolition of federal property, even after the fact.",
+                "development_label": "The National Trust for Historic Preservation sued to block the ballroom project as lacking congressional authorization.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Public funds were shifted to a presidential project after Congress explicitly declined to authorize it, prompting litigation over separation-of-powers limits on spending.",
+            "why_exemplary": "Tier-1 corroborated; circumvention of an explicit legislative refusal is a direct procedural manipulation defeating the purpose of congressional appropriation authority.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk73_good_faith_ex02",
+            "week": 73,
+            "event_ids": [
+              "wk73_PA_001",
+              "wk73_IG_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk73_PA_001",
+                "development_label": "Trump signaled intent to revive the $1.776 billion discretionary fund his own acting attorney general had called dead.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk73_IG_011",
+                "development_label": "Judge Brinkema extended an injunction blocking the fund and required sworn declarations it would not proceed.",
                 "role": "primary"
               }
             ],
-            "summary": "The Justice Department claimed no judicial body could review completed executive demolition of federal landmarks.",
-            "why_exemplary": "The argument, if accepted, would convert unlawful executive action into an unreviewable fait accompli, directly undermining the judiciary's checking function.",
+            "summary": "A previously abandoned discretionary fund was revived despite the administration's own declaration of its death, requiring a federal court to demand binding assurances.",
+            "why_exemplary": "Tier-1 corroborated; the need for sworn declarations after a public declaration of abandonment illustrates continued bad-faith reversal of stated commitments.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "The president denied documented campaign promises on foreign wars, walked out of an interview rather than substantiate election fraud claims, and cited a statistic he acknowledged might be false, while officials spread contradictory or misleading accounts of Iran negotiations, gasoline price warnings, and detention conditions.",
-        "severity": "concerning",
-        "institutional_response": "Press outlets continued to fact-check and press for clarification; no correction or retraction is documented from the administration.",
+        "pattern": "The administration and allied media figures sustained baseless election-fraud claims about California and Los Angeles elections, the president walked out of a press interview rather than substantiate his claims, and DHS dismissed documented hunger strikes and abuse allegations at Delaney Hall as a 'hoax.'",
+        "severity": "serious",
+        "institutional_response": "Journalists pressed the president directly and he abandoned the interview; his own U.S. Attorney's Office disputed the Los Angeles fraud claim, but no retraction followed from the White House.",
         "exemplars": [
           {
             "exemplar_id": "wk73_truthfulness_ex01",
             "week": 73,
             "event_ids": [
               "wk73_IM_004",
-              "wk73_IM_003"
+              "wk73_IM_013"
             ],
             "developments": [
               {
@@ -194,118 +248,189 @@
                 "role": "primary"
               },
               {
-                "development_id": "wk73_IM_003",
-                "development_label": "Trump denied having made prior campaign promises to avoid foreign wars despite documented statements.",
-                "role": "secondary"
+                "development_id": "wk73_IM_013",
+                "development_label": "Trump called the Los Angeles mayoral primary 'rigged' despite his own U.S. Attorney's Office disputing the claim.",
+                "role": "primary"
               }
             ],
-            "summary": "A president refused to substantiate fraud claims under press questioning and separately denied well-documented prior public commitments.",
-            "why_exemplary": "Tier-one corroborated reporting shows a pattern of evading factual accountability on matters of significant public consequence, including electoral legitimacy and war policy.",
+            "summary": "The president avoided press accountability for repeated, unsubstantiated fraud claims that his own administration's law enforcement officials publicly disputed.",
+            "why_exemplary": "Tier-1 corroborated; refusal to substantiate claims contradicted by one's own officials, combined with avoidance of scrutiny, exemplifies manufactured unreality on electoral legitimacy.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk73_truthfulness_ex02",
             "week": 73,
             "event_ids": [
-              "wk73_IM_019"
+              "wk73_IM_015"
             ],
             "developments": [
               {
-                "development_id": "wk73_IM_019",
-                "development_label": "Trump, Iran's Mehr News Agency, and Pakistan's PM issued contradictory public accounts of a purported U.S.-Iran agreement.",
+                "development_id": "wk73_IM_015",
+                "development_label": "DHS publicly denied documented hunger strikes and abuse allegations at Delaney Hall, calling reports a 'hoax.'",
                 "role": "primary"
               }
             ],
-            "summary": "Multiple conflicting official narratives emerged about the status and terms of a major international agreement during active hostilities.",
-            "why_exemplary": "Corroborated reporting documents genuine confusion in public communication about a matter of urgent public concern, undermining citizens' ability to understand foreign policy commitments.",
+            "summary": "An agency dismissed credible, documented detainee and advocate accounts as a hoax, suppressing acknowledgment of conditions inside a federal facility.",
+            "why_exemplary": "Corroborated by concurrent detention events in the same week; denial of documented conditions blocks public accountability for detainee treatment.",
             "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "ICE abandoned detainee death-reporting requirements amid record detention deaths, a scheme reportedly moved to falsely mark 2.7 million immigrants dead in federal records, and detained women's hunger strike over conditions was met with retaliation, tear gas, and mass arrests of supporters.",
+        "severity": "extreme",
+        "institutional_response": "No federal reversal occurred; state and local police enforced suppression, while House Democrats sought records but lacked subpoena power without committee chair cooperation.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk73_stewardship_ex01",
+            "week": 73,
+            "event_ids": [
+              "wk73_CR_001",
+              "wk73_CR_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk73_CR_001",
+                "development_label": "DOGE planned to falsely declare 2.7 million immigrants dead in federal records to force self-deportation.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk73_CR_002",
+                "development_label": "ICE abandoned a policy requiring reporting of detainee deaths within 30 days of release.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A federal agency devised a scheme to falsify government death records while another eliminated a reporting safeguard amid record detention deaths.",
+            "why_exemplary": "Tier-1 corroborated; simultaneous falsification and transparency rollback in the same institutional domain represents a deep erosion of accountability infrastructure.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk73_stewardship_ex02",
+            "week": 73,
+            "event_ids": [
+              "wk73_CR_007",
+              "wk73_CR_008",
+              "wk73_CR_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk73_CR_007",
+                "development_label": "Detained women at Delaney Hall initiated a hunger and labor strike over conditions.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk73_CR_008",
+                "development_label": "New Jersey state police and Newark police deployed teargas and arrested dozens of protesters supporting the strike.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk73_CR_009",
+                "development_label": "ICE and Geo Group retaliated against striking detainees by canceling visitations and transferring roughly 90 detainees.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A peaceful detainee strike over conditions was met with force against outside supporters and retaliation against the detainees themselves.",
+            "why_exemplary": "Corroborated by multiple outlets; punitive response to protected protest inside custodial care undermines humane treatment obligations owed to a vulnerable, dependent population.",
+            "exemplar_type": "primary"
           }
         ]
       }
     ],
     "norms_strengthened": [
       {
-        "trait": "good_faith",
-        "pattern": "Federal judges sustained an injunction against the anti-weaponization fund, struck down an unlawful H-1B visa fee as requiring congressional authorization, enforced the Kennedy Center renaming order against board resistance, and declined to vacate protection of the Federal Reserve chair from a politically motivated subpoena.",
-        "scope": "institutional",
-        "why_it_matters": "Multiple independent judicial rulings this week reaffirmed core separation-of-powers principles — taxation, congressional funding authority, and protection of independent agencies — even as the executive pressed against them on several fronts simultaneously.",
+        "trait": "restraint",
+        "pattern": "Three Republican senators joined Democrats to block the unqualified Pulte nomination for Director of National Intelligence, and courts imposed multiple checks on executive overreach, including the H-1B visa fee ruling and the Kennedy Center name-removal enforcement.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Bipartisan rejection of a plainly unqualified loyalist nominee, alongside consistent judicial enforcement of constitutional funding and naming limits, demonstrates that self-limitation still functions across both the legislature and judiciary when directly tested.",
         "exemplars": [
           {
-            "exemplar_id": "wk73_goodfaith_strength_ex01",
+            "exemplar_id": "wk73_restraint_strength_ex01",
             "week": 73,
             "event_ids": [
-              "wk73_IG_009",
+              "wk73_IG_024",
+              "wk73_IG_025"
+            ],
+            "developments": [
+              {
+                "development_id": "wk73_IG_024",
+                "development_label": "Trump insisted on installing loyalist Bill Pulte as acting DNI despite his lack of national security experience, prompting bipartisan Senate pushback.",
+                "role": "secondary"
+              },
+              {
+                "development_id": "wk73_IG_025",
+                "development_label": "Trump withdrew the Pulte nomination and nominated Jay Clayton after bipartisan resistance.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Bipartisan Senate resistance forced withdrawal of an unqualified loyalist nominee for a top intelligence post, though a rushed replacement process followed.",
+            "why_exemplary": "Tier-1 corroborated; genuine cross-partisan rejection of a nomination represents a rare, functioning check on executive personnel discretion in national security.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk73_restraint_strength_ex02",
+            "week": 73,
+            "event_ids": [
+              "wk73_IG_004",
               "wk73_IG_013"
             ],
             "developments": [
               {
-                "development_id": "wk73_IG_009",
+                "development_id": "wk73_IG_004",
                 "development_label": "Judge Leo Sorokin struck down Trump's $100,000 H-1B visa fee as an unlawful tax requiring congressional authorization.",
                 "role": "primary"
               },
               {
                 "development_id": "wk73_IG_013",
-                "development_label": "Judge Leonie Brinkema extended an injunction blocking the $1.8 billion anti-weaponization fund and later issued a preliminary injunction.",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Courts blocked an unlawful executive tax and sustained an injunction preventing operation of a politically sensitive discretionary fund.",
-            "why_exemplary": "Tier-one corroborated rulings directly restrained unilateral fiscal action, reaffirming that only Congress may levy taxes and that judicial oversight of executive funds remains functional.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk73_goodfaith_strength_ex02",
-            "week": 73,
-            "event_ids": [
-              "wk73_IG_010",
-              "wk73_IG_021"
-            ],
-            "developments": [
-              {
-                "development_id": "wk73_IG_010",
-                "development_label": "The D.C. Circuit denied a stay of Judge Cooper's order requiring the Kennedy Center to remove Trump's name.",
+                "development_label": "The D.C. Circuit denied Trump's emergency motion to stay the Kennedy Center name-removal order.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk73_IG_021",
-                "development_label": "Judge Boasberg declined to vacate his ruling protecting Federal Reserve Chair Jerome Powell from politically motivated grand jury subpoenas.",
-                "role": "secondary"
               }
             ],
-            "summary": "Appellate and district courts maintained prior rulings limiting executive control over a chartered cultural institution and an independent monetary authority.",
-            "why_exemplary": "Sustained enforcement of prior injunctions against active resistance demonstrates judicial durability rather than one-time intervention, reinforcing institutional independence.",
-            "exemplar_type": "secondary"
+            "summary": "Federal courts reaffirmed constitutional limits on executive taxation power and enforced a lower court's order despite executive resistance.",
+            "why_exemplary": "Tier-1 corroborated; two independent judicial rulings in the same week reaffirmed distinct constitutional boundaries on unilateral executive authority.",
+            "exemplar_type": "primary"
           }
         ]
       },
       {
-        "trait": "character",
-        "pattern": "A bipartisan bloc of three Republican senators joined Democrats to bar Bill Pulte from dual agency leadership, and the administration itself reversed the Pulte nomination for Director of National Intelligence under bipartisan pressure, showing some willingness within the governing party to enforce competence and conflict-of-interest standards against the president's preferences.",
-        "scope": "cross-partisan",
-        "why_it_matters": "Cross-partisan resistance to installing an unqualified loyalist atop the intelligence community demonstrates that some structural safeguards against capture of sensitive institutions still function within the governing party.",
+        "trait": "good_faith",
+        "pattern": "A federal judge acquitted Brad Lander of obstruction charges stemming from his peaceful oversight visit to an ICE facility, and Judge Boasberg declined to vacate protection of Federal Reserve Chair Powell from a politically motivated subpoena.",
+        "scope": "institutional",
+        "why_it_matters": "Judicial rejection of the criminalization of oversight, alongside reaffirmed independence for monetary policy leadership, preserves the constitutional separation between legitimate oversight functions and prosecutorial retaliation.",
         "exemplars": [
           {
-            "exemplar_id": "wk73_character_strength_ex01",
+            "exemplar_id": "wk73_good_faith_strength_ex01",
             "week": 73,
             "event_ids": [
-              "wk73_PA_004",
-              "wk73_IG_023"
+              "wk73_CR_006"
             ],
             "developments": [
               {
-                "development_id": "wk73_PA_004",
-                "development_label": "Three GOP senators joined Democrats to bar Bill Pulte from serving as temporary Director of National Intelligence.",
+                "development_id": "wk73_CR_006",
+                "development_label": "Brad Lander was found not guilty of obstruction for attempting to inspect ICE detention conditions at 26 Federal Plaza.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk73_IG_023",
-                "development_label": "Trump withdrew Bill Pulte as acting DNI and nominated Jay Clayton instead after bipartisan backlash.",
-                "role": "secondary"
               }
             ],
-            "summary": "Republican senators broke with the president to block an unqualified loyalist's control of a sensitive intelligence post, forcing a reversal.",
-            "why_exemplary": "Tier-one corroborated reporting shows cross-partisan enforcement of basic competence and conflict-of-interest standards for a critical national security appointment.",
+            "summary": "A federal judge acquitted a protester who sought to inspect immigration detention conditions, affirming that peaceful civil disobedience is not criminal obstruction.",
+            "why_exemplary": "Tier-1 corroborated; the acquittal directly rejects treating civic oversight activity as criminal conduct.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk73_good_faith_strength_ex02",
+            "week": 73,
+            "event_ids": [
+              "wk73_IG_015"
+            ],
+            "developments": [
+              {
+                "development_id": "wk73_IG_015",
+                "development_label": "Judge Boasberg declined to vacate his ruling protecting Federal Reserve Chair Jerome Powell from politically motivated grand jury subpoenas.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A federal court reaffirmed protection of an independent agency head from prosecutorial harassment tied to political displeasure.",
+            "why_exemplary": "Corroborated across multiple outlets; sustains institutional independence of monetary policy from politically motivated legal pressure.",
+            "exemplar_type": "secondary"
           }
         ]
       }
@@ -313,35 +438,35 @@
     "direction_of_movement": "mixed_but_stable"
   },
   "cumulative_condition": {
-    "narrative": "Week 73 continues the trajectory identified in Week 72: episodic acts of self-dealing and unilateral executive action persist alongside functioning, sometimes effective, institutional resistance. The anti-weaponization fund saga extended further this week, with Trump publicly reviving the fund his own acting Attorney General had called dead, and declining to rule out compensating January 6 assailants of police, even as Judge Brinkema sustained a preliminary injunction against it. This illustrates a now-familiar pattern: the executive repeatedly tests the same boundary while courts repeatedly reassert the same limit, producing a stalemate rather than a resolution.\n\nThe conflicts of interest documented in prior weeks around the Trump family's business dealings expanded further, with new reporting on Kushner's $2 billion Saudi payment, continued crypto profits, and foreign investment in a Trump Jr.-linked startup coinciding with policy concessions. Meanwhile, the nomination of the president's former personal attorney as Attorney General extends the pattern of installing personally loyal figures at the hinge points of law enforcement and intelligence, following the Pulte and Clayton churn at the Director of National Intelligence post. That churn, however, also produced this week's clearest instance of cross-partisan resistance: three Republican senators and a bipartisan bloc forced the withdrawal of an unqualified nominee, showing that competence and conflict-of-interest concerns can still override presidential preference within the governing party.\n\nThe Iran crisis added a distinct and serious dimension this week: erratic, unilateral war-making decisions, announced and reversed within hours, alongside a reportedly secret plan for ground invasion, occurred entirely outside congressional authorization or public deliberation. This sits atop, rather than replaces, the domestic pattern of institutional testing. Courts continued to function as the primary check, delivering substantive rulings on taxation authority, the Kennedy Center, and Federal Reserve independence, but this resistance remains reactive: it blocks or slows specific actions after they are attempted rather than preventing the underlying pattern of testing institutional limits.",
-    "trend": "deteriorating",
+    "narrative": "Week 73 extends the unstable equilibrium documented across recent weeks: severe, often structural ethical breaches persisting alongside forceful, largely reactive institutional correction. The pattern of family and allied enrichment intensified further, with Kushner's $2 billion Saudi investment and the Ambani-linked $100 million stake in a Trump Jr. venture echoing the donor-contract pattern first flagged in Week 71 and expanded in Week 72. The revival of the supposedly dead anti-weaponization fund, combined with the president's refusal to rule out compensating convicted January 6 assailants, shows that nominal concessions documented previously (Week 72's good-faith breach around the same fund) remain reversible rather than durable, exactly as anticipated by the prior week's forward signals.\n\nDetention conditions continued their downward trajectory, with an alleged scheme to falsify death records for 2.7 million immigrants, abandonment of death-reporting requirements, and violent suppression of a hunger strike marking a deepening, rather than abating, of the humane-treatment erosion first flagged in Week 72. This is compounded by a war-powers crisis of the administration's own making: rapid, unexplained reversal of strike orders against Iran, absent congressional consultation, produced measurable economic shockwaves in oil prices and producer inflation, illustrating how unrestrained executive improvisation now carries direct material costs for the public.\n\nInstitutional resistance again proved consequential rather than symbolic. Bipartisan Senate rejection of the Pulte nomination, judicial invalidation of the H-1B visa fee as an unlawful tax, enforcement of the Kennedy Center name-removal order despite board resistance, continued protection of Federal Reserve independence, and Brad Lander's acquittal collectively demonstrate that courts and, intermittently, the legislature retain functioning capacity to check executive overreach when directly tested. However, this resistance remains reactive: it follows breaches rather than preventing them, and in the case of FISA Section 702's lapse, institutional friction itself produced an unintended erosion of surveillance oversight. The system continues to hold through friction rather than through executive self-restraint, exactly as characterized in the prior period.",
+    "trend": "unstable",
     "stress_points": [
-      "recurring attempts to revive a discretionary fund benefiting political allies",
-      "unilateral and erratic war-making decisions outside congressional authorization",
-      "installation of personally loyal figures at DOJ and intelligence leadership",
-      "continued Trump family financial entanglement with foreign and domestic policy",
-      "pressure on nonpartisan legislative and judicial referees when rulings are unfavorable",
-      "lapse of a major surveillance authority amid a politicized nomination dispute"
+      "revival of nominally abandoned discretionary funds despite prior institutional declarations",
+      "escalating family and allied financial enrichment tied to active policy influence",
+      "falsification and rollback of detainee death-reporting infrastructure",
+      "unilateral, rapidly reversed military decision-making with direct economic consequences",
+      "retaliation against detainee protest and its outside supporters",
+      "collateral erosion of surveillance oversight from unrelated personnel disputes"
     ],
     "sources_of_resilience": [
-      "sustained judicial injunctions against the anti-weaponization fund",
-      "judicial enforcement of taxation and congressional funding authority",
-      "cross-partisan Senate resistance to an unqualified intelligence nominee",
-      "continued judicial protection of Federal Reserve independence",
-      "ongoing congressional oversight requests despite selective enforcement",
-      "investigative journalism surfacing family financial conflicts"
+      "bipartisan Senate rejection of an unqualified national security nominee",
+      "judicial enforcement of constitutional taxation and appropriation limits",
+      "continued institutional compliance with court orders despite executive resistance",
+      "acquittal of an oversight official on obstruction charges",
+      "sustained journalistic and civil-society scrutiny of self-dealing and detention conditions"
     ]
   },
   "risk_assessment": {
-    "level": "severe",
-    "justification": "The moral floor remains severely stressed but has not collapsed. This week's most serious developments, the revived discretionary fund with potential payouts to convicted January 6 assailants, personally loyal appointments to the DOJ and intelligence community, erratic unilateral war-making including a reported secret invasion plan, and continued family financial entanglement, represent a persistent and expanding pattern rather than a new escalation in kind. At the same time, courts delivered multiple substantive, verified rulings restraining executive overreach on taxation, discretionary funds, and institutional independence, and a bipartisan Senate bloc forced reversal of an unqualified intelligence nominee. This combination of active testing of institutional limits with functioning, if reactive, resistance keeps the risk at severe rather than critical.",
+    "level": "critical",
+    "justification": "The moral floor remains critically compromised. Detention practices deepened this week rather than stabilizing, with an alleged scheme to falsify federal death records for millions of immigrants and the abandonment of existing death-reporting safeguards occurring alongside violent suppression of a peaceful hunger strike and its outside supporters. Unilateral, erratic military decision-making regarding Iran produced measurable economic harm and prompted a formal congressional demand for legal justification that went unanswered within the week. Nominally abandoned funds and previously stated commitments continue to prove reversible, indicating that institutional concessions documented in past weeks lack durability. At the same time, courts and a bipartisan Senate faction supplied genuine, non-trivial resistance, including a successful nomination block, a tax-power ruling, and an acquittal that rejected the criminalization of oversight. This is a system still capable of friction, but one in which correction remains reactive, incomplete, and dependent on the continued willingness of individual actors, rather than institutional design, to hold the line.",
     "forward_signals": [
-      "whether the anti-weaponization fund survives ongoing litigation or is formally abandoned",
-      "whether Blanche's confirmation proceeds and what independence, if any, the DOJ retains under his leadership",
-      "whether Congress reasserts war powers constraints given the Iran strike-and-cancel pattern",
-      "whether FISA Section 702 is reauthorized and under what terms",
-      "whether the Jay Clayton nomination faces further bipartisan scrutiny",
-      "whether documented Trump family financial conflicts draw formal congressional or independent investigation"
+      "whether the anti-weaponization fund is formally and permanently barred or revived a third time",
+      "whether the falsified-death-records scheme for immigrants proceeds or is halted",
+      "whether FISA Section 702's lapse is resolved and under what terms",
+      "whether retaliation against Delaney Hall strikers and supporters escalates further",
+      "whether family and allied financial enrichment (Kushner, Trump Jr.-linked ventures) draws formal investigation",
+      "whether the Jay Clayton DNI nomination proceeds with adequate scrutiny given his Epstein-files entanglement",
+      "whether economic strain from the Iran conflict (fuel prices, inflation) prompts further unilateral executive action"
     ]
   }
 }

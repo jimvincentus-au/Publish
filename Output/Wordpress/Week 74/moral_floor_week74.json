@@ -5,8 +5,8 @@
     "start": "2026-06-13",
     "end": "2026-06-19"
   },
-  "clock_time_public": "7:41 p.m.",
-  "clock_delta_minutes": 0.0,
+  "clock_time_public": "7:36 p.m.",
+  "clock_delta_minutes": -0.2,
   "baseline_traits": [
     {
       "name": "character",
@@ -34,13 +34,13 @@
     }
   ],
   "weekly_audit": {
-    "summary": "Week 74 was defined by the fusion of spectacle, personal enrichment, and expanding coercive capacity, set against a backdrop of active but only partially effective institutional resistance. The president used the White House grounds and ceremonial military assets for a commercial birthday event tied to his own financial interests, accepted and retained a foreign government's aircraft, and watched a Trump family cryptocurrency venture pay bonuses at that same event. Simultaneously, the administration expanded executive war-making unilaterally (an extraterritorial strike, consideration of habeas corpus suspension, and discussion of Insurrection Act deployment against domestic protesters), directed law enforcement at a political rival, and installed an unqualified loyalist atop national intelligence over bipartisan objection. Courts, a bipartisan cluster of senators, and some local governments pushed back with real effect, but the overall balance tilted toward normalization of self-dealing, coercion, and unilateral action.",
+    "summary": "Week 74 fused presidential self-interest with the machinery of state on an unusual scale: a commercial cage fight staged on the South Lawn with federal money and military ceremonial units, a triumphal arch built without congressional approval, and a foreign-donated jet claimed for post-presidency personal use. Simultaneously, the administration weighed suspending habeas corpus, considered invoking the Insurrection Act against domestic protesters after fatal enforcement shootings, and used federal prosecutorial power asymmetrically, charging protesters while sparing agents who killed civilians. Countervailing this, courts enforced prior orders on naming and historical exhibits, a state legislature declined to exploit a favorable redistricting opening, and a cluster of Senate Republicans broke publicly with the president over an opaque Iran agreement. The week's ethical condition was one of severe, structural breach matched, not resolved, by scattered resistance.",
     "norms_broken": [
       {
         "trait": "ethics",
-        "pattern": "The president converted the White House grounds and ceremonial military assets into a platform for a personally profitable commercial event, accepted a foreign government's jet as a retained personal asset, and allowed a family cryptocurrency venture to sponsor bonus payments tied to that event.",
-        "severity": "serious",
-        "institutional_response": "A federal court declined to block the event in advance; congressional Republicans largely defended or ignored the arrangement; no independent ethics review is documented within the week.",
+        "pattern": "The president used the White House grounds, federal agencies, and military ceremonial assets to stage a commercial UFC event tied to his own financial interests, with fighter bonuses paid in a Trump-branded cryptocurrency; separately, a foreign government's jet was accepted for continued personal use after leaving office.",
+        "severity": "extreme",
+        "institutional_response": "A federal judge declined to halt the event for lack of standing, foreclosing judicial review; no ethics enforcement body intervened on the crypto payments or the jet's disposition.",
         "exemplars": [
           {
             "exemplar_id": "wk74_ethics_ex01",
@@ -52,69 +52,46 @@
             "developments": [
               {
                 "development_id": "wk74_PA_001",
-                "development_label": "Trump hosted a UFC fight event on the White House South Lawn for his 80th birthday, tied to his own stock holdings.",
+                "development_label": "White House South Lawn hosted a UFC event funded by federal agencies and a Trump family crypto venture.",
                 "role": "primary"
               },
               {
                 "development_id": "wk74_ES_004",
-                "development_label": "Federal agencies and UFC invested at least $60 million toward the White House cage-fight event.",
-                "role": "secondary"
+                "development_label": "Fighter bonuses were paid in a Trump family cryptocurrency at the federally hosted event.",
+                "role": "primary"
               }
             ],
-            "summary": "Public grounds and at least $60 million in public/corporate funds subsidized a commercial spectacle benefiting a business tied to the president's finances.",
-            "why_exemplary": "Tier-one corroborated reporting documents direct use of federal property and money for private commercial gain linked to the officeholder, a textbook emoluments concern.",
+            "summary": "A commercial sporting spectacle tied to the president's financial interests was staged on federal grounds with federal funds, and bonuses were paid in his family's cryptocurrency.",
+            "why_exemplary": "Tier-1 corroborated across multiple outlets; direct convergence of public office, public money, and private presidential profit represents an unusually explicit emoluments concern.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk74_ethics_ex02",
             "week": 74,
             "event_ids": [
-              "wk74_PA_013"
+              "wk74_PA_014"
             ],
             "developments": [
               {
-                "development_id": "wk74_PA_013",
-                "development_label": "Trump announced he would use a Qatari government jet as Air Force One and keep it after leaving office.",
+                "development_id": "wk74_PA_014",
+                "development_label": "Trump accepted a Qatari-donated jet as a personal Air Force One replacement, stating intent to keep it after leaving office.",
                 "role": "primary"
               }
             ],
-            "summary": "The president announced personal retention of a foreign government's aircraft as a post-presidency asset.",
-            "why_exemplary": "Tier-one corroborated reporting shows a direct foreign-gift-to-personal-benefit pathway, raising unresolved emoluments and foreign-influence questions.",
+            "summary": "A foreign government's aircraft was accepted for presidential use, with the president stating he intends to retain it personally after his term ends.",
+            "why_exemplary": "Tier-1 corroborated; a foreign gift intended for personal post-office retention is a textbook emoluments and foreign-influence concern.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "restraint",
-        "pattern": "Senior officials considered suspending habeas corpus to accelerate deportations, discussed invoking the Insurrection Act against domestic protesters after ICE killed two civilians, and the administration reclassified long-term residents to deny bond hearings in defiance of court rulings.",
+        "pattern": "Senior officials seriously considered suspending habeas corpus to accelerate deportations, then achieved a similar effect through administrative reclassification; separately, top aides discussed invoking the Insurrection Act to suppress protests after federal agents killed two civilians.",
         "severity": "extreme",
-        "institutional_response": "No congressional or judicial action blocked these considerations within the week; reporting suggests these remained internal deliberations rather than finalized orders, but their seriousness as considered options is itself a departure from restraint.",
+        "institutional_response": "No formal invocation occurred within the week, but the seriousness of internal deliberation over two of the most extreme constitutional emergency powers, absent any triggering emergency, marks a significant erosion of self-limitation norms.",
         "exemplars": [
           {
             "exemplar_id": "wk74_restraint_ex01",
-            "week": 74,
-            "event_ids": [
-              "wk74_PA_006",
-              "wk74_PA_008"
-            ],
-            "developments": [
-              {
-                "development_id": "wk74_PA_006",
-                "development_label": "Trump considered suspending habeas corpus to accelerate mass deportations.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk74_PA_008",
-                "development_label": "Miller and Vance considered invoking the Insurrection Act to suppress protests after ICE killed two civilians.",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Senior officials weighed suspending a core constitutional protection and deploying military force domestically to suppress protest against fatal enforcement actions.",
-            "why_exemplary": "Tier-one corroborated reporting documents deliberation over two of the most severe emergency powers available to the executive, both aimed at bypassing judicial or civilian constraint.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk74_restraint_ex02",
             "week": 74,
             "event_ids": [
               "wk74_PA_007"
@@ -122,69 +99,86 @@
             "developments": [
               {
                 "development_id": "wk74_PA_007",
-                "development_label": "The administration reclassified long-term immigrant residents as recent arrivals to deny bond hearings, defying court rulings.",
+                "development_label": "Officials considered suspending habeas corpus to speed deportations, then adopted an administrative workaround instead.",
                 "role": "primary"
               }
             ],
-            "summary": "A procedural reclassification was used to circumvent habeas protections that courts had already upheld.",
-            "why_exemplary": "Tier-one corroborated reporting shows active defiance of judicial rulings through bureaucratic reclassification rather than open confrontation, a subtler but serious erosion of restraint.",
-            "exemplar_type": "secondary"
+            "summary": "Deliberation over suspending a core constitutional protection to bypass judicial review of deportations was followed by an administrative reclassification achieving a similar effect.",
+            "why_exemplary": "Tier-1 corroborated; even absent formal suspension, treating habeas corpus as a policy variable illustrates a serious weakening of constitutional self-restraint.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk74_restraint_ex02",
+            "week": 74,
+            "event_ids": [
+              "wk74_PA_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk74_PA_009",
+                "development_label": "Stephen Miller and J.D. Vance pushed to invoke the Insurrection Act to suppress protests after federal agents killed two civilians.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Senior officials weighed deploying military authority against domestic protesters following fatal enforcement shootings, testing constitutional limits on military use against civilians.",
+            "why_exemplary": "Tier-1 corroborated; considering military suppression of protest activity as a policy option, rather than a last resort, reflects serious erosion of restraint norms.",
+            "exemplar_type": "primary"
           }
         ]
       },
       {
         "trait": "good_faith",
-        "pattern": "The president unilaterally cancelled a Senate confirmation hearing via social media to pressure Congress on unrelated legislation, then installed a loyalist without relevant experience as acting Director of National Intelligence over bipartisan Senate objection, and the DOJ refused to file a court-ordered declaration on the anti-weaponization fund.",
+        "pattern": "Federal prosecutors charged fifteen protesters with conspiracy after agents killed two civilians during the same operation, with no charges brought against the agents; the administration also reclassified long-term residents to deny bond hearings already guaranteed by courts, and infiltrated encrypted protest communications.",
         "severity": "serious",
-        "institutional_response": "Senate Democrats and some Republicans objected publicly; courts continued to press for compliance; the administration proceeded despite objections.",
+        "institutional_response": "Some cases were later dropped or refiled inconsistently; a federal judge in a separate matter found retaliatory detention likely, reasserting First Amendment limits, but the broader asymmetry of enforcement went unaddressed within the week.",
         "exemplars": [
           {
-            "exemplar_id": "wk74_goodfaith_ex01",
+            "exemplar_id": "wk74_good_faith_ex01",
             "week": 74,
             "event_ids": [
-              "wk74_PA_015",
-              "wk74_IG_015"
+              "wk74_CR_005",
+              "wk74_CR_006"
             ],
             "developments": [
               {
-                "development_id": "wk74_PA_015",
-                "development_label": "Trump cancelled the Senate confirmation hearing for Jay Clayton as DNI via social media post to pressure Congress on an elections bill.",
+                "development_id": "wk74_CR_005",
+                "development_label": "ICE/Border Patrol agents shot and killed civilians Renee Good and Alex Pretti without facing charges.",
                 "role": "primary"
               },
               {
-                "development_id": "wk74_IG_015",
-                "development_label": "Bill Pulte assumed the role of acting Director of National Intelligence despite lacking relevant background and over bipartisan Senate objection.",
-                "role": "secondary"
-              }
-            ],
-            "summary": "A confirmation process was unilaterally halted for leverage, then bypassed entirely by installing an unqualified loyalist in the vacated post.",
-            "why_exemplary": "Tier-one corroborated reporting documents the constitutional advice-and-consent process being treated as a bargaining chip rather than a binding constraint.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk74_goodfaith_ex02",
-            "week": 74,
-            "event_ids": [
-              "wk74_IG_016"
-            ],
-            "developments": [
-              {
-                "development_id": "wk74_IG_016",
-                "development_label": "DOJ refused to file a court-ordered declaration confirming the halt of Trump's $1.7 billion slush fund.",
+                "development_id": "wk74_CR_006",
+                "development_label": "Federal prosecutors charged fifteen protesters with conspiracy following the same enforcement operation.",
                 "role": "primary"
               }
             ],
-            "summary": "The Justice Department declined to comply with a judge's order for sworn confirmation regarding a contested discretionary fund.",
-            "why_exemplary": "Corroborated reporting shows continued resistance to judicial oversight of executive financial conduct, extending a pattern from prior weeks of treating court orders as negotiable.",
+            "summary": "Agents who killed two civilians faced no charges, while protesters objecting to the operation were charged with federal conspiracy, an asymmetric use of prosecutorial power.",
+            "why_exemplary": "Tier-1 corroborated; the contrast between impunity for lethal state force and aggressive prosecution of dissent exemplifies procedural manipulation of justice against its intended purpose.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk74_good_faith_ex02",
+            "week": 74,
+            "event_ids": [
+              "wk74_CR_020"
+            ],
+            "developments": [
+              {
+                "development_id": "wk74_CR_020",
+                "development_label": "ICE purchased immigrants' tax identifier records from a data broker in an apparent workaround of a court order restricting such access.",
+                "role": "primary"
+              }
+            ],
+            "summary": "An agency circumvented a judicial restriction on data access by purchasing similar information from a third-party broker.",
+            "why_exemplary": "Reported with corroboration; using commercial intermediaries to defeat a court order's purpose while nominally respecting its letter is a clear procedural manipulation.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "The president made a series of demonstrably false public statements, including on Strait of Hormuz shipping activity, White House renovation costs, and a fabricated account of a diplomatic encounter with an allied leader, while a party official spread a grossly false viewership claim.",
-        "severity": "concerning",
-        "institutional_response": "Foreign leaders and press outlets publicly corrected the record; no retraction or correction from the administration is documented.",
+        "pattern": "Officials and allied media made a series of falsifiable public claims: an inflated UFC viewership comparison to the Super Bowl, a false depiction of reopening in the Strait of Hormuz contradicted by tracking data, a fabricated account of a diplomatic exchange with an allied leader, and withholding of the actual Iran agreement text from Congress and the press.",
+        "severity": "serious",
+        "institutional_response": "Independent data sources and the foreign leader involved publicly contradicted official claims; no retraction or correction was issued by the administration.",
         "exemplars": [
           {
             "exemplar_id": "wk74_truthfulness_ex01",
@@ -195,89 +189,71 @@
             "developments": [
               {
                 "development_id": "wk74_IM_011",
-                "development_label": "Trump made false public statements accusing Italian Prime Minister Meloni of begging for a photograph at the G7 summit.",
+                "development_label": "Trump made false public statements about Italian Prime Minister Meloni's conduct at the G7 summit.",
                 "role": "primary"
               }
             ],
-            "summary": "A fabricated account of a diplomatic encounter with an allied leader prompted a public correction and damaged transatlantic relations.",
-            "why_exemplary": "Multi-source corroborated reporting shows a concrete, verifiable falsehood about an international interaction with real diplomatic consequences.",
+            "summary": "Fabricated claims about a diplomatic interaction with an allied leader were publicly disputed by that leader, straining a bilateral relationship.",
+            "why_exemplary": "Tier-1 corroborated by the foreign leader's own rebuttal; demonstrates manufactured claims damaging international relations without correction.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk74_truthfulness_ex02",
             "week": 74,
             "event_ids": [
-              "wk74_ES_008",
-              "wk74_IM_008"
+              "wk74_IM_009"
             ],
             "developments": [
               {
-                "development_id": "wk74_ES_008",
-                "development_label": "Trump misrepresented the cost of the White House East Wing ballroom renovation, which grew from a promised $200 million to an estimated $600 million funded partly by taxpayers.",
+                "development_id": "wk74_IM_009",
+                "development_label": "The Iran memorandum's text was withheld from Congress, the press, and Israel despite promises of disclosure.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk74_IM_008",
-                "development_label": "Trump misrepresented White House renovation costs, claiming figures far below actual federal contracting records.",
-                "role": "secondary"
               }
             ],
-            "summary": "Public statements on the true cost and funding source of a presidential residence project contradicted internal records.",
-            "why_exemplary": "Corroborated reporting documents a persistent gap between public claims and verifiable federal spending, obscuring accountability for taxpayer funds.",
+            "summary": "The actual terms of a major foreign policy agreement were withheld from legislative and allied scrutiny despite prior disclosure commitments.",
+            "why_exemplary": "Reported consistently across sources; withholding material terms of a major international commitment prevents informed public and legislative judgment.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "stewardship",
-        "pattern": "A DOJ investigation was directed against a potential 2028 presidential rival, federal law enforcement raided a voter registration nonprofit and later seized devices from a national voting rights organization, and fifteen protesters were indicted after infiltration of encrypted communications, together signaling institutional capacity being redirected toward suppressing political opposition and civic participation ahead of midterms.",
-        "severity": "serious",
-        "institutional_response": "Targeted organizations and officials publicly objected; no independent oversight body is documented as intervening within the week.",
+        "pattern": "Public infrastructure and monuments were repurposed or degraded for personal or partisan benefit: a failed no-bid Reflecting Pool renovation tied to a presidentially connected firm, a ballooning East Wing ballroom cost overrun, and a national holiday converted into a partisan rally.",
+        "severity": "concerning",
+        "institutional_response": "No corrective action was taken within the week; reporting exposed the pattern but institutional remediation did not occur.",
         "exemplars": [
           {
             "exemplar_id": "wk74_stewardship_ex01",
             "week": 74,
             "event_ids": [
-              "wk74_PA_014",
-              "wk74_CR_001"
+              "wk74_ES_003"
             ],
             "developments": [
               {
-                "development_id": "wk74_PA_014",
-                "development_label": "The Trump administration directed the DOJ to investigate Governor Gavin Newsom and his wife.",
+                "development_id": "wk74_ES_003",
+                "development_label": "A $14.2 million no-bid contract to renovate the Lincoln Memorial Reflecting Pool went to a firm with prior ties to Trump's golf properties and failed within days.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk74_CR_001",
-                "development_label": "The FBI raided the Ohio Organizing Collaborative, a grassroots voter registration group, seizing computers and phones.",
-                "role": "secondary"
               }
             ],
-            "summary": "Federal investigative power was directed against a political rival and a voter registration organization within the same week.",
-            "why_exemplary": "Tier-one corroborated reporting on both events shows a pattern of institutional capacity being turned toward political opposition and civic infrastructure ahead of midterm elections.",
+            "summary": "A no-bid public works contract awarded to a politically connected firm failed shortly after completion, requiring costly remediation of a national monument.",
+            "why_exemplary": "Tier-1 corroborated; crony-capitalist contracting damaged a public monument's condition and taxpayer value.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk74_stewardship_ex02",
             "week": 74,
             "event_ids": [
-              "wk74_CR_019",
-              "wk74_CR_020"
+              "wk74_ES_005"
             ],
             "developments": [
               {
-                "development_id": "wk74_CR_019",
-                "development_label": "Federal prosecutors indicted fifteen anti-ICE protesters in Minneapolis after infiltrating their encrypted Signal chats.",
+                "development_id": "wk74_ES_005",
+                "development_label": "The White House East Wing ballroom renovation cost grew from a promised $200 million to an estimated $600 million, more than half taxpayer-funded.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk74_CR_020",
-                "development_label": "The FBI seized devices belonging to a voting rights group and subpoenaed a national voting rights organization.",
-                "role": "secondary"
               }
             ],
-            "summary": "Federal surveillance and prosecution expanded against protest organizers and voting rights infrastructure in the same period.",
-            "why_exemplary": "The multi-source corroborated voting-rights seizure, paired with the protest indictments, illustrates capacity being trained on civic participation rather than solely on criminal conduct.",
+            "summary": "A presidential residence renovation project tripled in cost with substantial public funding despite earlier claims that donors alone would pay.",
+            "why_exemplary": "Tier-1 corroborated; understated public cost for a personal presidential project reflects a durable pattern of misused stewardship of public funds.",
             "exemplar_type": "secondary"
           }
         ]
@@ -285,123 +261,127 @@
     ],
     "norms_strengthened": [
       {
-        "trait": "good_faith",
-        "pattern": "Federal courts continued to enforce prior rulings against the executive: sustaining the Kennedy Center renaming order despite board resistance, restoring censored historical exhibits in national parks, and maintaining the injunction against the $1.8 billion discretionary fund. The House passed a bipartisan-adjacent Iran war powers resolution, and Georgia legislators declined to exploit a favorable ruling for partisan redistricting gain.",
+        "trait": "restraint",
+        "pattern": "Georgia's House of Representatives declined to redraw its congressional map despite direct presidential pressure and a favorable Supreme Court opening, and the House passed an Iran war powers resolution asserting congressional authority over military action.",
         "scope": "institutional",
-        "why_it_matters": "Continued judicial enforcement of prior orders, even against a resistant executive, demonstrates that separation-of-powers rulings retain practical force rather than becoming symbolic only. Legislative restraint in Georgia shows that political actors are not universally exploiting every available advantage.",
+        "why_it_matters": "Declining an available partisan advantage, and reasserting legislative war powers, demonstrate that self-limitation still operates even when the rules would technically permit further consolidation of power.",
         "exemplars": [
           {
-            "exemplar_id": "wk74_goodfaith_strength_ex01",
+            "exemplar_id": "wk74_restraint_strength_ex01",
             "week": 74,
             "event_ids": [
-              "wk74_IG_002",
-              "wk74_IG_003"
-            ],
-            "developments": [
-              {
-                "development_id": "wk74_IG_002",
-                "development_label": "A federal appeals court rejected an emergency stay attempt, upholding the order to remove Trump's name from the Kennedy Center facade.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk74_IG_003",
-                "development_label": "Judge Angel Kelley ordered restoration of historical exhibits removed from national parks under a censorship-related executive order.",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Courts enforced congressional authority over a public institution's name and blocked executive suppression of historical materials.",
-            "why_exemplary": "Both tier-one corroborated rulings reaffirm judicial capacity to check unilateral executive control over public institutions and historical memory.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk74_goodfaith_strength_ex02",
-            "week": 74,
-            "event_ids": [
-              "wk74_IG_012",
-              "wk74_IG_001"
+              "wk74_IG_012"
             ],
             "developments": [
               {
                 "development_id": "wk74_IG_012",
-                "development_label": "The Georgia House of Representatives declined to redraw the state's congressional map despite pressure from Trump and a favorable Supreme Court ruling.",
+                "development_label": "Georgia's House declined to redraw the state's congressional map despite pressure from Trump following a Supreme Court ruling weakening Voting Rights Act protections.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk74_IG_001",
-                "development_label": "The House passed an Iran war powers resolution 215-208 with bipartisan support from four Republicans.",
-                "role": "secondary"
               }
             ],
-            "summary": "State legislators forwent an available partisan redistricting advantage, and the House asserted war powers authority with limited bipartisan backing.",
-            "why_exemplary": "Both tier-one corroborated developments show elected bodies declining maximal exploitation of available power, preserving deliberative norms.",
+            "summary": "A state legislature resisted presidential pressure to exploit a weakened Voting Rights Act for partisan redistricting gain.",
+            "why_exemplary": "Tier-1 corroborated; declining an available and legal partisan advantage represents genuine institutional self-restraint.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk74_restraint_strength_ex02",
+            "week": 74,
+            "event_ids": [
+              "wk74_IG_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk74_IG_001",
+                "development_label": "The House passed an Iran war powers resolution 215-208, sending it to the Senate.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Congress asserted constitutional war powers authority over presidential military action, with bipartisan support crossing party lines.",
+            "why_exemplary": "Multi-source corroborated; legislative reassertion of war powers is a direct check against unilateral executive military authority.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
-        "trait": "character",
-        "pattern": "A cluster of Senate Republicans publicly criticized the terms of the Iran memorandum of understanding, and some senators pushed back on presidential pressure regarding the deal, showing continued willingness within the governing party to voice substantive disagreement despite personal risk.",
-        "scope": "cross-partisan",
-        "why_it_matters": "Public dissent from within the president's own party, even when it invites retaliation, signals that policy conscience has not been fully subordinated to loyalty.",
+        "trait": "good_faith",
+        "pattern": "Courts enforced prior orders despite executive resistance: the Kennedy Center name-removal order was enforced after delay, historical exhibits on slavery and civil rights were ordered restored, and the anti-weaponization fund injunction was reaffirmed against a politically favorable use of public money.",
+        "scope": "institutional",
+        "why_it_matters": "Judicial insistence on compliance, even amid administrative foot-dragging, preserves the principle that court orders bind the executive regardless of political inconvenience.",
         "exemplars": [
           {
-            "exemplar_id": "wk74_character_strength_ex01",
+            "exemplar_id": "wk74_good_faith_strength_ex01",
             "week": 74,
             "event_ids": [
-              "wk74_IG_024",
-              "wk74_PA_009"
+              "wk74_IG_002",
+              "wk74_IG_004"
             ],
             "developments": [
               {
-                "development_id": "wk74_IG_024",
-                "development_label": "Senate Republicans (Cassidy, Cruz, Tillis, Graham) publicly criticized the terms of the Iran memorandum of understanding.",
+                "development_id": "wk74_IG_002",
+                "development_label": "Courts ordered and enforced removal of Trump's name from the Kennedy Center facade after rejecting emergency appeals.",
                 "role": "primary"
               },
               {
-                "development_id": "wk74_PA_009",
-                "development_label": "Trump threatened Senator Lindsey Graham with being 'in big trouble' over skepticism of the Iran deal.",
+                "development_id": "wk74_IG_004",
+                "development_label": "The Kennedy Center Board resisted and delayed compliance before ultimately certifying it.",
                 "role": "secondary"
               }
             ],
-            "summary": "Several Republican senators voiced sharp public dissent over a major foreign policy agreement despite a direct presidential threat against one of them.",
-            "why_exemplary": "Tier-one and multi-source corroborated reporting shows continued willingness to criticize the president publicly even under explicit threat of retaliation.",
+            "summary": "Courts reaffirmed that only Congress can rename a congressionally designated institution, checking a unilateral rebranding attempt despite board resistance.",
+            "why_exemplary": "Tier-1 corroborated; sustained judicial insistence on compliance, even against a delaying board, preserved a legal limit on executive symbolism.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk74_good_faith_strength_ex02",
+            "week": 74,
+            "event_ids": [
+              "wk74_IG_003"
+            ],
+            "developments": [
+              {
+                "development_id": "wk74_IG_003",
+                "development_label": "A federal judge struck down removal of slavery, civil rights, and Indigenous history exhibits from national parks, ordering their restoration.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A federal court found the administration's historical erasure order constituted censorship, ordering restoration of educational material at national monuments.",
+            "why_exemplary": "Corroborated reporting; judicial correction of politically motivated historical censorship reaffirms institutional commitment to factual public memory.",
+            "exemplar_type": "secondary"
           }
         ]
       }
     ],
-    "direction_of_movement": "eroding"
+    "direction_of_movement": "mixed_but_stable"
   },
   "cumulative_condition": {
-    "narrative": "Week 74 continues and deepens the trajectory identified across Weeks 72 and 73. The fusion of public office with private and family financial gain, documented previously through Kushner's foreign payments and crypto ventures, intensified this week with the White House itself becoming the venue for a commercial event tied to the president's own holdings, compounded by a foreign government's jet accepted for personal retention and a family cryptocurrency sponsoring event bonuses. The pattern of installing personally loyal figures at sensitive posts, seen in Week 73 with the Blanche and Pulte nominations, culminated this week in Pulte's actual assumption of the acting DNI role despite lacking relevant background, over bipartisan objection, after the president unilaterally cancelled the confirmation hearing of his own nominee for leverage on unrelated legislation.\n\nThe erratic, unilateral war-making documented in Week 73 around Iran extended into new and more severe territory this week: an extraterritorial lethal strike announced via social media, and internal deliberation over suspending habeas corpus and invoking the Insurrection Act against domestic protesters following ICE killings of two civilians. These considerations, even if not finalized, represent a qualitative escalation beyond the prior week's pattern of testing procedural limits, moving toward contemplation of core constitutional suspensions. Simultaneously, federal investigative and prosecutorial power was directed at a potential political rival, a voter registration nonprofit, and protest organizers, extending the DOJ-and-FBI-as-political-instrument pattern first flagged in earlier weeks into direct action against electoral infrastructure ahead of midterms.\n\nAgainst this, institutional resistance remained real but reactive rather than preventive. Courts sustained prior rulings on the Kennedy Center, historical exhibits, and the discretionary fund; a bipartisan cluster of senators criticized the Iran deal despite presidential threats; and Georgia legislators declined a redistricting opportunity. These are meaningful checks, but they arrived after the fact, constraining specific actions rather than deterring the underlying appetite for unilateral and self-interested action. The overall trajectory has shifted from the 'severe but not collapsing' equilibrium of Week 73 toward a more actively eroding condition, driven primarily by the normalization of self-dealing at the highest level and the serious consideration of emergency powers against domestic dissent.",
-    "trend": "deteriorating",
+    "narrative": "Week 74 continues the unstable equilibrium documented since at least Week 73: severe ethical breaches, many now explicit and structural, matched almost exactly by scattered but real acts of institutional resistance. The self-dealing pattern flagged repeatedly in prior weeks reached new visibility, with a commercial UFC spectacle on federal grounds funded partly by a Trump family cryptocurrency venture, a foreign-donated jet claimed for personal post-office use, and a no-bid contract tied to presidential business associates failing within days of completion. These are not isolated indiscretions but a sustained pattern of folding public resources and public ceremony into private presidential benefit.\n\nMore alarming than the self-dealing was the seriousness with which extreme emergency powers were treated as ordinary policy options: habeas corpus suspension was weighed to accelerate deportations, and the Insurrection Act was discussed as a tool to suppress protest after federal agents killed two civilians who faced no legal consequence, while protesters were charged with conspiracy. This asymmetry, impunity for lethal state violence paired with aggressive prosecution of dissent, deepens a trend first visible in Week 73's detention-related findings and marks a serious escalation in the criminalization of civic response to enforcement.\n\nCountervailing forces persisted at roughly the same intensity as previous weeks. Courts enforced the Kennedy Center naming order and ordered restoration of censored historical exhibits, despite delay and resistance from a loyalist-controlled board. A state legislature in Georgia declined an available partisan redistricting opportunity. A cluster of Senate Republicans broke publicly with the president over the opaque Iran agreement, despite a direct threat against one of their colleagues. None of these acts reversed the week's underlying breaches, but together they prevented further net erosion, consistent with the 'balance under strain' pattern that has now held for multiple consecutive weeks. The system continues to hold through friction and dispersed resistance, not through restored executive self-restraint.",
+    "trend": "unstable",
     "stress_points": [
-      "normalization of presidential self-dealing at the White House itself",
-      "consideration of habeas corpus suspension and Insurrection Act deployment against protesters",
-      "installation of unqualified loyalists at sensitive intelligence and law enforcement posts",
-      "federal investigative power directed at a political rival ahead of an election cycle",
-      "targeting of voter registration and voting rights organizations by federal law enforcement",
-      "unilateral executive war-making and diplomacy conducted without congressional consultation"
+      "routine conversion of public office and resources into personal presidential benefit",
+      "serious deliberation over suspending habeas corpus and invoking the Insurrection Act",
+      "impunity for lethal enforcement action paired with aggressive prosecution of protesters",
+      "withholding of major foreign policy agreement terms from Congress and allies",
+      "crony-capitalist and cost-inflated public works contracting",
+      "circumvention of judicial data-access restrictions via third-party brokers"
     ],
     "sources_of_resilience": [
-      "continued judicial enforcement of prior orders against a resistant executive",
-      "bipartisan Senate criticism of major foreign policy concessions despite presidential threats",
-      "state legislative restraint on redistricting despite available advantage",
-      "local government reversal of a large detention facility project under community pressure",
-      "investigative journalism and congressional oversight surfacing conflicts of interest",
-      "detained individuals and local advocates continuing to make abuses visible"
+      "judicial enforcement of naming and historical-exhibit restoration orders despite delay",
+      "state legislative restraint in declining an available redistricting advantage",
+      "cross-partisan Senate dissent on a major foreign policy agreement despite threats",
+      "continued congressional oversight inquiries into fund diversion and agency conduct",
+      "independent judicial finding of retaliatory detention in a First Amendment case"
     ]
   },
   "risk_assessment": {
-    "level": "severe",
-    "justification": "The moral floor remains under severe stress and this week shows signs of further erosion rather than stabilization. The considered use of habeas corpus suspension and Insurrection Act deployment against domestic protesters, even short of implementation, represents contemplation of the most serious emergency powers available to the executive, aimed squarely at bypassing judicial and civilian constraint. Combined with a documented direction of DOJ resources against a political rival, raids on voter registration and voting rights organizations, and confirmed installation of an unqualified loyalist atop national intelligence over bipartisan objection, the week shows institutional capture accelerating in several sensitive domains simultaneously. Countervailing this, courts continued to enforce prior rulings effectively, a meaningful bipartisan cluster of senators publicly dissented despite threats, and some local and state actors exercised restraint or reversed course under pressure. This mix of active, functioning resistance alongside genuinely qualitative escalation in contemplated executive power keeps the assessment at severe rather than critical, but the margin for further erosion before a critical threshold is reached is narrowing.",
+    "level": "critical",
+    "justification": "The moral floor remains critically compromised. This week's events show that extreme emergency powers, habeas corpus suspension and the Insurrection Act, are now treated as live policy options rather than measures reserved for genuine emergencies, a significant escalation beyond the fund-diversion and detention-condition breaches documented in prior weeks. The pairing of prosecutorial impunity for lethal enforcement action with aggressive conspiracy charges against protesters signals a justice system increasingly weaponized against dissent rather than functioning as a neutral check on state violence. Self-dealing through federal resources, ceremonial military assets, and cryptocurrency payments tied to presidential business interests continued without institutional consequence, following the same trajectory as Kushner's and Trump Jr.'s enrichment patterns noted previously. Countervailing resistance, judicial enforcement, state legislative restraint, and cross-partisan Senate dissent, remains real but reactive, dependent on scattered individual actors rather than restored institutional design.",
     "forward_signals": [
-      "whether habeas corpus suspension or Insurrection Act deployment moves from consideration to action",
-      "whether the Newsom DOJ investigation proceeds and how it is characterized publicly",
-      "whether Pulte's tenure at DNI produces the anticipated mass firings of career staff",
-      "whether North Carolina's election administration bills (HB 958, SB 1084) are enacted",
-      "whether federal prosecution of Minneapolis and Ohio civic organizers expands or is narrowed",
-      "whether courts sustain their enforcement posture against continued DOJ noncompliance"
+      "whether habeas corpus suspension or Insurrection Act invocation moves from deliberation to formal action",
+      "whether any accountability follows the killings of Renee Good and Alex Pretti",
+      "whether the Iran memorandum's actual terms are disclosed to Congress and the public",
+      "whether North Carolina's election bills and Shasta County's voting restrictions are enacted or blocked",
+      "whether congressional inquiries into FBI fund diversion and NIH oversight produce consequences",
+      "whether cross-partisan Senate dissent on Iran translates into binding legislative constraint"
     ]
   }
 }

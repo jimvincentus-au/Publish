@@ -5,8 +5,8 @@
     "start": "2026-07-18",
     "end": "2026-07-24"
   },
-  "clock_time_public": "7:40 p.m.",
-  "clock_delta_minutes": -0.2,
+  "clock_time_public": "7:36 p.m.",
+  "clock_delta_minutes": -0.1,
   "baseline_traits": [
     {
       "name": "character",
@@ -18,7 +18,7 @@
     },
     {
       "name": "restraint",
-      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
     },
     {
       "name": "truthfulness",
@@ -34,176 +34,233 @@
     }
   ],
   "weekly_audit": {
-    "summary": "Week 79 showed a moral floor under continued, multi-front strain rather than sudden collapse. The executive escalated threats of major military action against Iran and the Houthis outside any new congressional authorization, while the Pentagon revised casualty figures downward in a manner that raised credibility concerns. Congress split between packaging voting restrictions into must-pass war-funding and defense bills, and passing (twice) a war powers resolution the Senate then declined to enforce. Conflicts of interest around Kushner's Saudi dealings, crypto donors, and Pentagon-linked investment vehicles persisted largely unchallenged by major media. Courts continued to supply the most consistent check, ruling against arbitrary agency actions, upholding due process, and blocking some funding coercion, even as a federal panel let a vote-diluting map stand and single-source claims of shielding a foreign leader from an ICC warrant went largely unaddressed.",
+    "summary": "The week was dominated by unilateral escalation of an undeclared war with Iran, conducted through public threats and interviews rather than formal deliberation, alongside a Pentagon casualty-count revision that reduced the disclosed death toll. Congress reasserted itself twice through war powers resolutions, only to be ignored by the executive and undercut by a narrow Senate defeat of a companion measure. Immigration enforcement continued operating with almost no internal accountability, while voting-restriction language was bundled into unrelated war-funding and defense bills to bypass ordinary scrutiny. Courts, state attorneys general, and parts of Congress supplied consistent but narrow resistance, producing a pattern of stalemate rather than either collapse or recovery.",
     "norms_broken": [
       {
         "trait": "restraint",
-        "pattern": "The president issued a rapid succession of public threats of major military escalation against Iran, including bombing civilian infrastructure and a 'massive attack' larger than any prior operation, made via social media and interviews rather than through deliberative channels, while Pentagon officials could not substantiate emergency funding requests to Congress.",
+        "pattern": "The president publicly threatened disproportionate retaliation against Iran, floated a 'massive attack' larger than prior operations, and threatened to bomb civilian infrastructure for each attack in the Strait of Hormuz, all announced through media rather than through deliberative or congressional channels.",
         "severity": "extreme",
-        "institutional_response": "The House passed two war powers resolutions directing withdrawal; the Senate rejected a companion measure by two votes, leaving the executive free to continue escalating without new authorization.",
+        "institutional_response": "The House passed a second war powers resolution demanding withdrawal; the Senate rejected a companion measure by a narrow margin, leaving the escalation without an enforced check.",
         "exemplars": [
           {
             "exemplar_id": "wk79_restraint_ex01",
             "week": 79,
             "event_ids": [
-              "wk79_PA_006",
+              "wk79_PA_007",
               "wk79_PA_008"
             ],
             "developments": [
               {
-                "development_id": "wk79_PA_006",
-                "development_label": "Trump threatened to bomb Iranian bridges or power plants for every Houthi/Iranian strike on shipping.",
+                "development_id": "wk79_PA_007",
+                "development_label": "Threat to bomb Iranian bridges or power plants per Hormuz attack.",
                 "role": "primary"
               },
               {
                 "development_id": "wk79_PA_008",
-                "development_label": "Trump told Israeli media he was close to deciding on a massive attack larger than any prior operation.",
-                "role": "secondary"
+                "development_label": "Signaled imminent 'massive attack' larger than prior operations.",
+                "role": "primary"
               }
             ],
-            "summary": "Public threats to bomb civilian infrastructure and launch a historic new offensive were issued through media rather than formal deliberation or congressional consultation.",
-            "why_exemplary": "Well-corroborated statements show unilateral escalation of war aims and methods, bypassing constitutional war powers and risking violations of humanitarian law through executive threat alone.",
+            "summary": "The president publicly threatened strikes on civilian infrastructure and signaled a major new offensive without indicating congressional authorization.",
+            "why_exemplary": "Both events are multi-source corroborated and represent policy conducted by public threat rather than deliberation, raising the risk of unlawful escalation absent oversight.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk79_restraint_ex02",
             "week": 79,
             "event_ids": [
-              "wk79_IG_006"
+              "wk79_IG_021",
+              "wk79_IG_022"
             ],
             "developments": [
               {
-                "development_id": "wk79_IG_006",
-                "development_label": "The Senate rejected a companion war powers resolution to end hostilities with Iran, 47-49.",
+                "development_id": "wk79_IG_021",
+                "development_label": "House passed a second war powers resolution to end hostilities.",
                 "role": "primary"
+              },
+              {
+                "development_id": "wk79_IG_022",
+                "development_label": "Senate narrowly rejected a companion resolution.",
+                "role": "secondary"
               }
             ],
-            "summary": "A binding measure to check ongoing military escalation narrowly failed in the Senate despite having passed a similar resolution weeks earlier.",
-            "why_exemplary": "The near-miss vote demonstrates institutional will to restrain the executive existed but fell short, leaving war-making concentrated in presidential hands.",
+            "summary": "Congress reasserted war powers authority a second time, but the Senate's narrow rejection left the executive's unilateral war-making largely unconstrained.",
+            "why_exemplary": "Demonstrates the gap between formal legislative assertion and effective restraint on executive military action; corroborated by multiple outlets.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "The Pentagon revised its Iran war casualty count downward from 18 to 14 by excluding recently killed service members attributed to a declared ceasefire period, following earlier nondisclosure of prior strikes, undermining confidence in official war reporting.",
+        "pattern": "The Pentagon revised its published Iran war casualty figures downward, from eighteen to fourteen deaths, excluding fatalities after a declared ceasefire cutoff, while CENTCOM's earlier statements had already omitted casualty details from prior strikes.",
         "severity": "serious",
-        "institutional_response": "Journalists and military sources raised questions and outrage; no independent verification body corrected the record within the week.",
+        "institutional_response": "Journalists and military sources raised concerns; no independent audit or congressional correction was reported within the week.",
         "exemplars": [
           {
             "exemplar_id": "wk79_truthfulness_ex01",
             "week": 79,
             "event_ids": [
-              "wk79_CR_015",
-              "wk79_IM_014"
+              "wk79_IM_012"
             ],
             "developments": [
               {
-                "development_id": "wk79_CR_015",
-                "development_label": "Pentagon altered its casualty database to remove four recently killed service members.",
+                "development_id": "wk79_IM_012",
+                "development_label": "Altered official casualty figures removing post-ceasefire deaths.",
                 "role": "primary"
-              },
+              }
+            ],
+            "summary": "The Pentagon reduced its published war death toll by excluding deaths after a ceasefire cutoff, obscuring the true human cost of the conflict.",
+            "why_exemplary": "Tier-1 corroborated across multiple outlets; a direct manipulation of a core public-accountability metric during an active, undeclared war.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk79_truthfulness_ex02",
+            "week": 79,
+            "event_ids": [
+              "wk79_IG_008"
+            ],
+            "developments": [
               {
-                "development_id": "wk79_IM_014",
-                "development_label": "Pentagon reported casualties rising to 18 killed, then reduced the count to 14 the next day.",
+                "development_id": "wk79_IG_008",
+                "development_label": "Defense Secretary gave evasive, shifting Senate testimony on Iran's military capability.",
                 "role": "secondary"
               }
             ],
-            "summary": "Official war casualty figures were revised downward without clear justification, following a pattern of earlier nondisclosure of prior strikes and injuries.",
-            "why_exemplary": "Tier-one corroborated reporting shows a politically convenient recalculation of a core democratic fact—the human cost of war—eroding the basis for informed public and congressional oversight.",
+            "summary": "A cabinet secretary's contradictory statements to Congress about war progress undermined legislative oversight of an ongoing conflict.",
+            "why_exemplary": "Tier-1 corroborated; illustrates a pattern of inconsistent official accounts that impede congressional evaluation of war costs and objectives.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "ICE continued operating with minimal accountability: the FBI had halted investigations into fatal agent shootings, only one of fifty-six excessive-force complaints led to disciplinary referral, and the president personally reversed a brief vehicle-stop safety pause imposed after a fatal shooting.",
+        "severity": "extreme",
+        "institutional_response": "Nearly forty senators demanded independent investigation and body cameras; the administration ignored the safety pause and reinstated enforcement volume.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk79_stewardship_ex01",
+            "week": 79,
+            "event_ids": [
+              "wk79_PA_009",
+              "wk79_IG_032"
+            ],
+            "developments": [
+              {
+                "development_id": "wk79_PA_009",
+                "development_label": "Reversed ICE vehicle-stop safety suspension after a fatal shooting.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk79_IG_032",
+                "development_label": "Only one disciplinary referral among 56 excessive-force complaints.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A presidential order overturned an agency safety protocol adopted after a deadly incident, while congressional oversight found almost no internal discipline for documented abuses.",
+            "why_exemplary": "Tier-1 corroborated; shows deliberate prioritization of enforcement volume over documented civilian safety concerns, compounding an established pattern of impunity.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk79_stewardship_ex02",
+            "week": 79,
+            "event_ids": [
+              "wk79_IG_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk79_IG_005",
+                "development_label": "Nearly forty senators demanded independent investigation of fatal ICE shootings.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A large bipartisan-adjacent bloc of senators formally sought accountability after federal agents killed civilians without required body cameras in place.",
+            "why_exemplary": "Multi-source corroborated; represents institutional pushback against unaccountable lethal force, though without binding enforcement power.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "good_faith",
-        "pattern": "House Republicans bundled a nationwide mail-ballot ban and voter ID rules into a $95bn war-funding reconciliation package and a separate defense authorization bill, using must-pass vehicles to advance election restrictions that might not survive standalone debate.",
+        "pattern": "House Republicans bundled nationwide voting-restriction provisions from the Save America Act into a $95 billion Iran-war funding package and a separate $1.15 trillion defense authorization bill, using must-pass legislation to bypass standalone scrutiny of election policy.",
         "severity": "serious",
-        "institutional_response": "The measures passed the House on largely party-line votes; no Senate action is documented within the week to block the packaging strategy.",
+        "institutional_response": "Both packages passed on largely party-line votes; no chamber blocked the bundling, though litigation and state-level suits challenged related federal coercion tactics.",
         "exemplars": [
           {
-            "exemplar_id": "wk79_goodfaith_ex01",
+            "exemplar_id": "wk79_good_faith_ex01",
             "week": 79,
             "event_ids": [
-              "wk79_IG_002",
-              "wk79_IG_003"
+              "wk79_IG_014",
+              "wk79_IG_018"
             ],
             "developments": [
               {
-                "development_id": "wk79_IG_002",
-                "development_label": "House Republicans passed a budget resolution authorizing a $95bn reconciliation bill covering Iran war funding, farm aid, and nationwide voting restrictions.",
+                "development_id": "wk79_IG_014",
+                "development_label": "Budget resolution combining war funding with Save America Act provisions.",
                 "role": "primary"
               },
               {
-                "development_id": "wk79_IG_003",
-                "development_label": "House passed a $1.15tn defense authorization bill embedding voting-restriction language and a Pentagon renaming provision.",
+                "development_id": "wk79_IG_018",
+                "development_label": "Defense bill merging military policy with voting restrictions.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Voting-restriction measures were twice folded into unrelated war and defense spending bills, letting them advance without standalone debate.",
+            "why_exemplary": "Corroborated by multiple sources; a clear procedural tactic defeating the deliberative purpose of separate legislative review on a contested election-policy question.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk79_good_faith_ex02",
+            "week": 79,
+            "event_ids": [
+              "wk79_IG_026",
+              "wk79_CR_016"
+            ],
+            "developments": [
+              {
+                "development_id": "wk79_IG_026",
+                "development_label": "States sued over FEMA aid conditioned on election and immigration mandates.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk79_CR_016",
+                "development_label": "Twenty-five states and DC sued over disaster/security grant conditions.",
                 "role": "secondary"
               }
             ],
-            "summary": "Voting restrictions were attached to war funding and defense authorization bills, using budget procedure to sidestep the Senate filibuster on election law.",
-            "why_exemplary": "Multi-source corroborated events show deliberate use of unrelated must-pass legislation to defeat the purpose of open, stand-alone deliberation on voting rights.",
-            "exemplar_type": "primary"
+            "summary": "Federal disaster and security funding was conditioned on states adopting election-verification and immigration mandates, prompting a large multistate lawsuit.",
+            "why_exemplary": "Tier-1 corroborated; illustrates coercive use of emergency funds to extract policy concessions outside ordinary legislative processes.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "ethics",
-        "pattern": "Jared Kushner's investment firm continued receiving billions in Saudi sovereign wealth fund capital while he negotiated a nuclear deal with Saudi Arabia, a conflict largely unreported by major outlets; the Pentagon's new Economic Defense Unit was staffed by officials with documented financial ties to Trump-connected ventures.",
-        "severity": "serious",
-        "institutional_response": "No congressional or regulatory corrective action is documented within the week; media coverage of the underlying conflict was itself limited.",
+        "pattern": "A new Pentagon Economic Defense Unit and direct government equity stakes in private firms were established and staffed by officials with documented private financial conflicts, blurring public authority and personal financial interest in defense procurement.",
+        "severity": "concerning",
+        "institutional_response": "No congressional or regulatory action was reported within the week to address the conflicts.",
         "exemplars": [
           {
             "exemplar_id": "wk79_ethics_ex01",
             "week": 79,
             "event_ids": [
-              "wk79_ES_015",
-              "wk79_ES_013"
+              "wk79_ES_013",
+              "wk79_ES_011"
             ],
             "developments": [
-              {
-                "development_id": "wk79_ES_015",
-                "development_label": "Saudi Public Investment Fund invested $2 billion in Jared Kushner's private equity fund while he negotiated a nuclear deal with Saudi Arabia.",
-                "role": "primary"
-              },
               {
                 "development_id": "wk79_ES_013",
-                "development_label": "Pentagon established an Economic Defense Unit investing tens of billions under officials with private-equity-linked conflicts.",
-                "role": "secondary"
-              }
-            ],
-            "summary": "A senior presidential adviser continued profiting from a foreign government while shaping national security policy toward that government, alongside new defense investment vehicles run by conflicted officials.",
-            "why_exemplary": "Tier-one and multi-source corroborated events document ongoing blending of public defense and diplomatic power with private family and allied financial gain.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "character",
-        "pattern": "The president used a solemn Dover Air Force Base dignified transfer ceremony to attribute political views to deceased service members and later posted a chart touting the war death toll as an achievement near the same period.",
-        "severity": "concerning",
-        "institutional_response": "Media reporting documented and criticized the statements; no formal institutional response is recorded within the week.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk79_character_ex01",
-            "week": 79,
-            "event_ids": [
-              "wk79_PA_007",
-              "wk79_IM_009"
-            ],
-            "developments": [
-              {
-                "development_id": "wk79_PA_007",
-                "development_label": "Trump attributed political views to deceased service members at a Dover dignified transfer ceremony.",
+                "development_label": "Officials with private financial conflicts controlling billions in Pentagon procurement.",
                 "role": "primary"
               },
               {
-                "development_id": "wk79_IM_009",
-                "development_label": "Trump posted a chart touting Iran war death toll around the time fallen troops were honored.",
+                "development_id": "wk79_ES_011",
+                "development_label": "Pentagon Economic Defense Unit recruiting Wall Street bankers.",
                 "role": "secondary"
               }
             ],
-            "summary": "A president used a solemn military ceremony and its aftermath to make political claims on behalf of the war dead who cannot verify them.",
-            "why_exemplary": "Multi-source corroborated reporting shows repeated politicization of fallen service members' memory for messaging purposes, contrary to norms of dignified nonpartisan commemoration.",
+            "summary": "Officials overseeing tens of billions in defense and AI spending held undisclosed personal financial stakes in related industries.",
+            "why_exemplary": "Documented in tier-1 and single-source reporting; represents a structural blending of private financial interest with public procurement authority.",
             "exemplar_type": "primary"
           }
         ]
@@ -212,99 +269,117 @@
     "norms_strengthened": [
       {
         "trait": "good_faith",
-        "pattern": "Federal courts rejected an RNC bid for sensitive voter data, restored due process protections for a fired civil servant, upheld habeas rights for a detained scholar, and found FDA drug restrictions arbitrary and capricious, reasserting procedural limits on executive and partisan overreach.",
+        "pattern": "A federal appeals court upheld Peter Navarro's contempt of Congress convictions, and Congress continued oversight hearings into Epstein-linked financial ties, reinforcing that executive officials remain accountable to congressional subpoena power.",
         "scope": "institutional",
-        "why_it_matters": "Consistent judicial willingness to check agency and partisan overreach, even amid broader erosion elsewhere, preserves a functioning mechanism for correcting unlawful exercises of power.",
+        "why_it_matters": "Consistent judicial enforcement of congressional subpoena authority preserves a core check on executive impunity, even amid broader erosion elsewhere.",
         "exemplars": [
           {
-            "exemplar_id": "wk79_goodfaith_strength_ex01",
+            "exemplar_id": "wk79_good_faith_strength_ex01",
             "week": 79,
             "event_ids": [
-              "wk79_IG_021",
-              "wk79_IG_026"
+              "wk79_IG_010"
             ],
             "developments": [
               {
-                "development_id": "wk79_IG_021",
-                "development_label": "Fourth Circuit rejected the administration's attempt to redetain Georgetown scholar Badar Khan Suri.",
+                "development_id": "wk79_IG_010",
+                "development_label": "Appeals court upheld Navarro's contempt of Congress convictions.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk79_IG_026",
-                "development_label": "A federal judge dismissed an RNC lawsuit demanding sensitive New Jersey voter data.",
-                "role": "secondary"
               }
             ],
-            "summary": "Courts rebuffed executive attempts to redetain a released scholar and a partisan attempt to access sensitive voter records, reaffirming due process and privacy limits.",
-            "why_exemplary": "Tier-one corroborated rulings show courts continuing to check both immigration enforcement overreach and partisan efforts to obtain electoral leverage through litigation.",
+            "summary": "A federal appeals court affirmed that defying a congressional subpoena carries real legal consequence for executive officials.",
+            "why_exemplary": "Tier-1 corroborated across multiple outlets; reinforces that oversight obligations are judicially enforceable, not merely advisory.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
-        "trait": "stewardship",
-        "pattern": "Twenty-five state attorneys general sued over FEMA/DHS conditions tying disaster and security grants to election and immigration policy compliance, and small businesses challenged sweeping tariffs as exceeding presidential trade authority.",
-        "scope": "cross-partisan",
-        "why_it_matters": "These suits defend the principle that appropriated public funds and trade authority cannot be converted into coercive leverage over states or businesses outside ordinary lawmaking, protecting institutional capacity for future governance.",
+        "trait": "restraint",
+        "pattern": "Multiple federal courts blocked or slowed executive actions during the week, including a ruling against FDA restrictions on mifepristone, a habeas-based rejection of an attempt to redetain a Georgetown scholar, and dismissal of an RNC bid for sensitive state voter data.",
+        "scope": "institutional",
+        "why_it_matters": "Continued judicial willingness to check executive and partisan overreach, even on narrow or procedural grounds, preserves a functioning limit on the exercise of concentrated power.",
         "exemplars": [
           {
-            "exemplar_id": "wk79_stewardship_strength_ex01",
+            "exemplar_id": "wk79_restraint_strength_ex01",
             "week": 79,
             "event_ids": [
-              "wk79_IG_028",
+              "wk79_IG_027",
               "wk79_IG_029"
             ],
             "developments": [
               {
-                "development_id": "wk79_IG_028",
-                "development_label": "Twenty-five state attorneys general sued over FEMA and DHS conditions tying disaster grants to election and immigration compliance.",
+                "development_id": "wk79_IG_027",
+                "development_label": "Fourth Circuit rejected redetention of a Georgetown scholar.",
                 "role": "primary"
               },
               {
                 "development_id": "wk79_IG_029",
-                "development_label": "Liberty Justice Center filed lawsuits challenging new tariffs as exceeding presidential authority.",
+                "development_label": "Judge dismissed RNC lawsuit seeking New Jersey voter data.",
                 "role": "secondary"
               }
             ],
-            "summary": "States and private litigants challenged the conversion of federal disaster funding and trade authority into political leverage over states and businesses.",
-            "why_exemplary": "Native tier-one corroborated filings show sustained institutional pushback defending the boundary between legitimate federal power and coercive conditioning.",
+            "summary": "Federal courts denied executive and partisan attempts to expand detention power and access sensitive voter records.",
+            "why_exemplary": "Tier-1 and corroborated rulings show courts continuing to impose concrete limits on both executive detention authority and partisan data demands.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "The Justice Department withdrew subpoenas targeting New York Times reporters and their relatives after acknowledging legal errors, a rare instance of self-correction under public and legal pressure.",
+        "scope": "institutional",
+        "why_it_matters": "Reversal under scrutiny, however belated, demonstrates that public and legal pressure can still compel retreat from press-intimidation tactics.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk79_character_strength_ex01",
+            "week": 79,
+            "event_ids": [
+              "wk79_IM_008"
+            ],
+            "developments": [
+              {
+                "development_id": "wk79_IM_008",
+                "development_label": "DOJ withdrew subpoenas of NYT reporters' phone records after admitting legal errors.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Federal investigators withdrew subpoenas targeting journalists' family phone records after acknowledging legal error.",
+            "why_exemplary": "Multi-source corroborated; a concrete, if reactive, retreat from a press-intimidation tactic once challenged.",
             "exemplar_type": "primary"
           }
         ]
       }
     ],
-    "direction_of_movement": "eroding"
+    "direction_of_movement": "mixed_but_stable"
   },
   "cumulative_condition": {
-    "narrative": "Week 79 extends the pattern documented through Week 78 rather than marking a sharp new break. The unilateral and volatile exercise of war powers flagged last week as extreme continues and intensifies: threats to bomb civilian infrastructure, a prospective 'massive attack' announced through media before Congress was briefed, and a downward revision of casualty figures that raises the same truthfulness concerns first evident in earlier weeks' incomplete disclosures. Congress remains split in the same way it was last week — capable of real action (two war powers resolutions, a Senate near-miss) but also complicit in bundling unrelated voting restrictions into must-pass war funding and defense bills, echoing the housing-bill hostage tactic of Week 78.\n\nThe ethics stress points persist with remarkable continuity. Kushner's Saudi financial ties, now directly connected to an active nuclear negotiation, extend the family-enrichment pattern flagged in Week 78's defense-contractor investments, compounded this week by a new Pentagon investment unit staffed with conflicted officials and a documented pattern of donations following favorable regulatory or enforcement outcomes. Retaliation against scrutiny also continues: subpoenas of journalists' family members (though withdrawn), a criminal referral against the special counsel who investigated the president, and a lawsuit by a summarily fired U.S. attorney all extend last week's demonstrated willingness to use state power against those who examine it.\n\nAgainst this, judicial resistance remains the most reliable counterweight, as it was in Week 78. Courts rejected partisan data-mining, restored due process for a fired employee, protected a detained scholar's habeas rights, and found agency drug restrictions arbitrary. States sued successfully to block coercive conditioning of disaster funds and are testing tariff overreach. These checks are real but narrow, arriving after the political act rather than preventing it — the same reactive pattern noted previously. The moral floor has not ruptured further in dramatic terms this week, but the accumulation of unchecked war-powers assertions, unresolved conflicts of interest, and procedural bundling of voting restrictions continues to deepen an equilibrium in which coercion and self-dealing are treated as ordinary governance.",
+    "narrative": "Week 79 continues the pattern established across recent weeks: an executive branch expanding its grip on war-making, information control, and enforcement discretion, met by consistent but narrow institutional resistance that blunts without reversing the underlying trajectory. The undeclared war with Iran deepened further, marked by public threats of escalation, a suppressed and then revised casualty count, and a Pentagon unable or unwilling to justify its funding requests to Congress. This extends the war-powers erosion documented in Weeks 77 and 78 into a more entrenched form, where the executive proceeds by announcement while Congress's formal assertions of authority — twice-passed war powers resolutions — carry no enforceable weight absent Senate concurrence, which again fell narrowly short.\n\nDomestically, the absence of accountability within immigration enforcement remains the most severe and persistent stress point: the FBI's continued withdrawal from investigating fatal ICE encounters, minimal internal discipline despite dozens of documented complaints, and a presidential reversal of a safety pause together indicate that lethal enforcement operates largely outside meaningful oversight. This is not a new development but a hardening of the pattern first flagged in Week 77 and deepened in Week 78. Voting-rights erosion likewise continued through a now-familiar tactic: bundling restrictive provisions into unrelated must-pass legislation, a good-faith violation that recurred in nearly identical form to the prior week's housing-bill leverage tactic.\n\nCountervailing forces held their ground rather than expanding. Courts continued to check specific executive and partisan actions — on detention, voter data, drug policy, and tariffs — and Congress's oversight committees kept extracting testimony and referrals, however incomplete. The DOJ's withdrawal of press subpoenas after public pressure offers a modest but real data point of self-correction. Compared to Week 78's assessment of broadening erosion, Week 79 shows the erosion's scope stabilizing at a high plateau rather than continuing to widen — hence a slight, if fragile, improvement in trajectory even as absolute severity remains extreme in several domains.",
     "trend": "deteriorating",
     "stress_points": [
-      "unilateral and escalating war-powers assertions without congressional authorization",
-      "manipulation of official war casualty figures undermining public trust",
-      "procedural bundling of voting restrictions into must-pass war and defense legislation",
-      "persistent family and allied financial entanglement with national security decisions",
-      "retaliation against journalists, former prosecutors, and fired officials who scrutinize the administration",
-      "weak internal accountability for lethal immigration enforcement incidents"
+      "unauthorized war escalation conducted via public statement rather than deliberation",
+      "manipulation of official war casualty figures",
+      "near-total impunity for lethal immigration enforcement",
+      "procedural bundling of voting restrictions into must-pass legislation",
+      "blending of private financial interest with defense procurement authority",
+      "coercive conditioning of federal disaster and security funds on state policy compliance"
     ],
     "sources_of_resilience": [
-      "judicial protection of due process, habeas rights, and agency rationality requirements",
-      "state-led litigation against coercive conditioning of federal disaster and security funding",
-      "House votes asserting constitutional war powers, even without Senate concurrence",
-      "sustained civil society mobilization and organizing ahead of midterms",
-      "independent reporting exposing casualty-count discrepancies and conflicts of interest",
-      "corporate and financial actors (e.g., bank divestment from private prisons) responding to public pressure"
+      "continued judicial willingness to check executive and partisan overreach",
+      "congressional oversight hearings and subpoena enforcement",
+      "multistate litigation against coercive federal funding conditions",
+      "bipartisan-adjacent senatorial pressure for ICE accountability",
+      "DOJ self-correction under public and legal pressure on press subpoenas"
     ]
   },
   "risk_assessment": {
-    "level": "severe",
-    "justification": "The moral floor remains severely stressed, consistent with the prior week's assessment, with no clear improvement. Verified events show the executive threatening major, potentially unlawful military escalation via public statement rather than deliberation, the Pentagon revising war casualty figures in a manner that erodes public trust in official war reporting, and Congress packaging voting restrictions into unrelated must-pass legislation. Documented conflicts of interest around Kushner's Saudi dealings and new defense investment vehicles remain unresolved and under-scrutinized by major media. Judicial and state-level resistance continues to supply meaningful but narrow correction, arriving after political acts occur rather than preventing them. The density and mutual reinforcement of these pressures across war powers, election administration, and financial conflicts of interest sustains a severe risk of further erosion absent a stronger external check.",
+    "level": "critical",
+    "justification": "The moral floor remains critically compromised. War powers are being exercised through public threat and casualty-figure manipulation rather than through accountable process, while immigration enforcement operates with almost no internal or external check despite mounting civilian deaths. Voting-rights erosion continues through a repeated procedural tactic of bundling restrictive measures into unrelated must-pass legislation, defeating deliberative scrutiny twice in two weeks. These breaches touch restraint, truthfulness, stewardship, and good faith simultaneously, and none were substantively reversed this week. Countervailing judicial and congressional actions were genuine but narrow — sufficient to check specific actions, not to reverse the underlying policies or restore effective oversight of war funding or enforcement conduct.",
     "forward_signals": [
-      "whether the threatened 'massive attack' on Iran materializes without new congressional authorization",
-      "whether the Pentagon casualty count discrepancy receives independent verification or congressional inquiry",
-      "whether the Jack Smith criminal referral advances to actual DOJ action",
-      "whether the reconciliation package's voting restrictions survive Senate consideration",
-      "whether Kushner's Saudi financial ties draw congressional or media scrutiny commensurate with the nuclear negotiation stakes",
-      "whether further ICE-related fatalities prompt binding accountability measures beyond body-camera mandates"
+      "whether the Pentagon provides a credible accounting of Iran war casualties and emergency funding",
+      "whether the Senate's narrow rejection of the war powers resolution hardens into a durable pattern of non-enforcement",
+      "whether litigation against FEMA/DHS funding conditions succeeds in halting coercive practices",
+      "whether ICE body-camera and disciplinary reforms show measurable implementation progress",
+      "whether the bundled voting-restriction provisions survive legal or political challenge before the midterms",
+      "whether any oversight body examines Pentagon officials' private financial conflicts in procurement roles"
     ]
   }
 }

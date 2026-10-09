@@ -5,8 +5,8 @@
     "start": "2026-07-11",
     "end": "2026-07-17"
   },
-  "clock_time_public": "7:41 p.m.",
-  "clock_delta_minutes": -0.1,
+  "clock_time_public": "7:36 p.m.",
+  "clock_delta_minutes": -0.2,
   "baseline_traits": [
     {
       "name": "character",
@@ -18,7 +18,7 @@
     },
     {
       "name": "restraint",
-      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
     },
     {
       "name": "truthfulness",
@@ -34,245 +34,364 @@
     }
   ],
   "weekly_audit": {
-    "summary": "Week 78 was defined less by any single rupture than by the coordinated application of pressure across election administration, immigration enforcement, war powers, the press, and public resources. Verified events show the president removing independent election commissioners, tying unrelated legislation to a voting-restriction bill, resuming military strikes on Iran without new authorization, reversing an internal ICE safety pause after fatal shootings, and using a primetime address to promote debunked 2020 election claims while threatening broadcasters. Courts, some career officials, and civil society supplied resistance, but largely after the fact. The moral floor did not collapse this week; it settled further into habits already established, with independent oversight bodies weakened, law used more openly as leverage, and self-dealing continuing largely without consequence.",
+    "summary": "Week 78 combined open military escalation without new congressional authorization, a coordinated campaign to relitigate the 2020 election ahead of midterms, direct federal action against journalists, three ICE-connected civilian deaths inside seven days, and continued family enrichment tied to war spending — all set against a judiciary that punished manufactured litigation and a Senate bloc that used procedural leverage to protest unauthorized war-making. The pattern is one of accumulation: no single act broke the republic, but the density and simultaneity of breaches across war powers, elections, press freedom, and lethal enforcement pressed hard against remaining institutional restraints, which largely held only at the margins.",
     "norms_broken": [
       {
-        "trait": "stewardship",
-        "pattern": "The president removed three members of the independent Election Assistance Commission ahead of the midterms and fired a judicially appointed U.S. attorney within an hour of his swearing-in, both actions stripping insulated institutions of independence.",
-        "severity": "extreme",
-        "institutional_response": "Media and the ousted commission chair publicly objected; the fired U.S. attorney filed suit, but no reversal occurred within the week.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk78_stewardship_ex01",
-            "week": 78,
-            "event_ids": [
-              "wk78_PA_014"
-            ],
-            "developments": [
-              {
-                "development_id": "wk78_PA_014",
-                "development_label": "Trump removed three members of an independent federal election administration commission.",
-                "role": "primary"
-              }
-            ],
-            "summary": "Independent election commissioners were ousted ahead of midterms, raising concerns about executive control of nonpartisan election machinery.",
-            "why_exemplary": "A tier-one corroborated action directly weakened a body designed to stand apart from presidential control at a moment of maximal electoral consequence.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk78_stewardship_ex02",
-            "week": 78,
-            "event_ids": [
-              "wk78_PA_015"
-            ],
-            "developments": [
-              {
-                "development_id": "wk78_PA_015",
-                "development_label": "Trump fired a judicially appointed U.S. attorney within an hour of his swearing-in.",
-                "role": "primary"
-              }
-            ],
-            "summary": "A court-appointed federal prosecutor was removed almost immediately, asserting presidential control over an office meant to be judicially insulated.",
-            "why_exemplary": "Tier-one corroborated reporting documents an unprecedented speed of removal signaling intolerance for any appointment process outside direct executive control.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
         "trait": "good_faith",
-        "pattern": "The president withheld his signature from a bipartisan housing bill and tied renewal of a foreign surveillance law to a voting-restriction measure, while the House passed the same restrictive measure by attaching it to unrelated appropriations.",
-        "severity": "serious",
-        "institutional_response": "Congress allowed the housing bill to become law regardless; House Democrats organized contingency planning, but the tactic succeeded procedurally within the week.",
+        "pattern": "The president conditioned signature of a bipartisan housing bill and renewal of a foreign surveillance law on passage of the Save America voter-restriction act, then bundled that same act into an unrelated State Department spending bill to avoid a clean vote, while DHS was ordered to purge voter rolls using a tool courts have blocked sixteen times and a cabinet secretary threatened state officials with prosecution for noncompliance.",
+        "severity": "extreme",
+        "institutional_response": "A federal statute (pocket-veto mechanism) allowed the housing bill to become law despite obstruction; House Democrats reportedly began planning institutional responses; no court or agency halted the voter-roll directive or the coercive threats within the week.",
         "exemplars": [
           {
-            "exemplar_id": "wk78_goodfaith_ex01",
+            "exemplar_id": "wk78_good_faith_ex01",
             "week": 78,
             "event_ids": [
               "wk78_PA_001",
-              "wk78_IG_015"
+              "wk78_PA_005"
             ],
             "developments": [
               {
                 "development_id": "wk78_PA_001",
-                "development_label": "Trump refused to sign a bipartisan housing bill to pressure the Senate on voting restrictions.",
+                "development_label": "Refusal to sign housing bill to force voting-restriction passage.",
                 "role": "primary"
               },
               {
-                "development_id": "wk78_IG_015",
-                "development_label": "The House passed the Save America Act by attaching it to a State Department spending bill.",
-                "role": "secondary"
+                "development_id": "wk78_PA_005",
+                "development_label": "Surveillance law renewal tied to Save America Act passage.",
+                "role": "primary"
               }
             ],
-            "summary": "Unrelated must-pass legislation was used as leverage to advance a partisan voting-restriction bill, bypassing standalone debate.",
-            "why_exemplary": "Multi-source corroborated events show a deliberate strategy of bundling and hostage-taking to defeat the purpose of independent legislative deliberation on election rules.",
+            "summary": "The executive used signature power and national-security legislation as leverage over an unrelated partisan voting bill, coercing Congress rather than persuading it.",
+            "why_exemplary": "Both events are tier-1 or multi-source corroborated and show a repeated tactic of hostage-taking legislative process, defeating the deliberative purpose of separate bills.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk78_good_faith_ex02",
+            "week": 78,
+            "event_ids": [
+              "wk78_PA_012",
+              "wk78_CR_021"
+            ],
+            "developments": [
+              {
+                "development_id": "wk78_PA_012",
+                "development_label": "DHS ordered to purge voter rolls using a court-blocked tool.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk78_CR_021",
+                "development_label": "Threat of prosecution against state election officials over voter-roll compliance.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Federal officials moved to override sixteen prior court rulings and coerce state election administrators ahead of the midterms.",
+            "why_exemplary": "The scale of prior judicial rejection makes renewed use a clear act of bad faith toward established rule-of-law constraints on federal election interference.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
         "trait": "restraint",
-        "pattern": "The president reversed his administration's own safety pause on ICE vehicle stops within a day of its announcement, following two fatal shootings of non-target civilians, and unilaterally ordered strikes and blockade threats against Iran without new authorization.",
+        "pattern": "The administration resumed strikes on Iran under a reinterpreted War Powers clock, ordered a naval blockade equivalent to an act of war, and issued informal social-media threats of massive strikes, all without new congressional authorization.",
         "severity": "extreme",
-        "institutional_response": "ICE leadership was reportedly surprised by the reversal; Senate Democrats blocked the defense authorization bill in protest, but the operational reversal stood.",
+        "institutional_response": "Senate Democrats blocked advancement of the National Defense Authorization Act in protest, a rare procedural check; the strikes and blockade proceeded regardless.",
         "exemplars": [
           {
             "exemplar_id": "wk78_restraint_ex01",
             "week": 78,
             "event_ids": [
-              "wk78_PA_012",
-              "wk78_CR_001"
+              "wk78_PA_002",
+              "wk78_PA_006"
             ],
             "developments": [
               {
-                "development_id": "wk78_PA_012",
-                "development_label": "Trump overruled his own administration's suspension of ICE vehicle stops and directed agents to resume them.",
+                "development_id": "wk78_PA_002",
+                "development_label": "Notification of resumed Iran strikes under a reinterpreted 60-day clock.",
                 "role": "primary"
               },
               {
-                "development_id": "wk78_CR_001",
-                "development_label": "ICE fatally shot a non-target civilian in Houston.",
-                "role": "secondary"
+                "development_id": "wk78_PA_006",
+                "development_label": "Airstrikes and naval blockade announced without congressional authorization.",
+                "role": "primary"
               }
             ],
-            "summary": "A brief internal safety pause following fatal shootings was overturned by presidential order within a day, prioritizing enforcement volume over accountability.",
-            "why_exemplary": "Tier-one corroborated reporting shows deliberate override of an agency's own risk-reduction decision, reasserting political demand over operational caution after loss of life.",
+            "summary": "Military escalation, including a blockade tantamount to an act of war, proceeded on executive initiative alone, sidestepping the constitutional war-powers framework.",
+            "why_exemplary": "Multi-source corroborated; represents the clearest unilateral expansion of war-making authority this week, with congressional response limited to protest rather than control.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk78_restraint_ex02",
             "week": 78,
             "event_ids": [
-              "wk78_PA_005",
-              "wk78_PA_008"
+              "wk78_PA_004"
             ],
             "developments": [
               {
-                "development_id": "wk78_PA_005",
-                "development_label": "Trump ordered airstrikes on Iran following closure of the Strait of Hormuz.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk78_PA_008",
-                "development_label": "Trump announced then reversed a naval blockade and toll scheme for the Strait of Hormuz.",
+                "development_id": "wk78_PA_004",
+                "development_label": "Informal social-media threats of massive strikes against Iran.",
                 "role": "secondary"
               }
             ],
-            "summary": "Unilateral military escalation and an announced blockade of an international waterway were pursued and abruptly reversed within days, without congressional authorization.",
-            "why_exemplary": "Tier-one corroborated events show erratic unilateral exercise of war powers in a domain with severe stakes, undermining deliberative process and predictability.",
+            "summary": "Presidential threats of large-scale military action were issued outside any deliberative or formal national-security channel.",
+            "why_exemplary": "Corroborated by multiple outlets; illustrates the erosion of formal process governing decisions of war and peace.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "ICE agents killed two non-target civilians within days, a third man died fleeing an enforcement stop, and a brief safety pause on vehicle stops was personally overturned by the president within roughly a day; the FBI subsequently stopped investigating confrontations involving ICE agents.",
+        "severity": "extreme",
+        "institutional_response": "A DHS-ordered pause represented momentary self-correction but was reversed under presidential pressure; the FBI's withdrawal from oversight removed an additional independent check; community protests and a senator's own experience of being pepper-sprayed underscored the absence of accountability.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk78_stewardship_ex01",
+            "week": 78,
+            "event_ids": [
+              "wk78_CR_006",
+              "wk78_PA_015"
+            ],
+            "developments": [
+              {
+                "development_id": "wk78_CR_006",
+                "development_label": "Fatal ICE shooting of a second non-target civilian within a week, no body-camera footage.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk78_PA_015",
+                "development_label": "Executive reversal of a DHS pause on vehicle stops after fatal shootings.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A second fatal shooting of an uninvolved civilian was followed by a presidentially ordered reversal of a brief agency safety pause, prioritizing enforcement volume over documented deaths.",
+            "why_exemplary": "Tier-1 and multi-source corroborated; the sequence of harm followed by reversal of self-correction exemplifies institutional failure to protect civilian life even after direct evidence of danger.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk78_stewardship_ex02",
+            "week": 78,
+            "event_ids": [
+              "wk78_CR_022"
+            ],
+            "developments": [
+              {
+                "development_id": "wk78_CR_022",
+                "development_label": "FBI ceased investigating confrontations involving ICE agents.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Withdrawal of independent federal investigative oversight of ICE use-of-force incidents eliminated a key accountability mechanism.",
+            "why_exemplary": "Removes one of the few remaining external checks on lethal enforcement, compounding the week's pattern of unaccountable force.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "The president delivered a primetime address relitigating the 2020 election using selectively declassified intelligence that reportedly undercut his own claims, while threatening broadcast licenses for networks that declined to air it.",
+        "pattern": "The president delivered a primetime address relitigating the 2020 election with claims of Chinese interference, using selectively declassified intelligence that reportedly undercut his own case, and threatened broadcast licenses for networks that declined to air it live.",
         "severity": "serious",
-        "institutional_response": "Journalists, a Republican lawmaker, the underlying report's author, and a senator publicly contradicted the claims; the FCC chair nonetheless suggested license consequences for non-compliant broadcasters.",
+        "institutional_response": "CNN, a sitting senator, a Republican congressman, and the author of the underlying report all publicly contradicted the speech's central claims within hours; an FCC commissioner called the license threat unconstitutional.",
         "exemplars": [
           {
             "exemplar_id": "wk78_truthfulness_ex01",
             "week": 78,
             "event_ids": [
-              "wk78_IM_018",
-              "wk78_IM_023"
+              "wk78_IM_011",
+              "wk78_IM_012"
             ],
             "developments": [
               {
-                "development_id": "wk78_IM_018",
-                "development_label": "Trump delivered a primetime address relitigating the 2020 election and threatened broadcast licenses.",
+                "development_id": "wk78_IM_011",
+                "development_label": "Announcement of a primetime speech alleging Chinese 2020 election interference.",
                 "role": "primary"
               },
               {
-                "development_id": "wk78_IM_023",
-                "development_label": "Declassified intelligence documents released during the address reportedly contradicted the president's own claims.",
+                "development_id": "wk78_IM_012",
+                "development_label": "Delivery of the address with selectively declassified documents and license threats.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A formal presidential platform was used to promote unsubstantiated foreign-interference claims about a five-year-old election, timed ahead of midterms.",
+            "why_exemplary": "Multi-source and tier-1 corroborated; the deliberate use of declassified material contradicted by its own author marks a clear instance of manufactured unreality for political ends.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk78_truthfulness_ex02",
+            "week": 78,
+            "event_ids": [
+              "wk78_IM_014",
+              "wk78_IM_016"
+            ],
+            "developments": [
+              {
+                "development_id": "wk78_IM_014",
+                "development_label": "Report author conceded no evidence of foreign vote-flipping.",
+                "role": "secondary"
+              },
+              {
+                "development_id": "wk78_IM_016",
+                "development_label": "CNN and a senator publicly debunked the speech's claims.",
                 "role": "secondary"
               }
             ],
-            "summary": "A national address promoted unverified election-interference claims using selectively declassified material that undercut the narrative, paired with threats against broadcasters.",
-            "why_exemplary": "Multi-source corroborated events combine manufactured unreality on a matter of high public consequence with coercive pressure on media outlets over factual scrutiny.",
+            "summary": "Independent and even administration-linked sources contradicted the president's core claims within hours of the address.",
+            "why_exemplary": "Demonstrates rapid, cross-partisan factual correction functioning in real time, even as the falsehood was already amplified from the highest office.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "The Department of Justice subpoenaed New York Times journalists to testify before a grand jury over national-security reporting, following a White House-directed leak investigation that included phone seizures on White House grounds.",
+        "severity": "serious",
+        "institutional_response": "No institutional body blocked the subpoenas within the week; press freedom organizations and outlets publicly objected.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk78_character_ex01",
+            "week": 78,
+            "event_ids": [
+              "wk78_IM_002",
+              "wk78_IM_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk78_IM_002",
+                "development_label": "DOJ subpoenas of New York Times journalists over Air Force One security reporting.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk78_IM_009",
+                "development_label": "White House-directed leak investigation seizing officials' phones.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Federal subpoena power was turned against reporters to compel disclosure of confidential sources, escalating prior rhetorical hostility into direct legal compulsion.",
+            "why_exemplary": "Tier-1 corroborated; marks a qualitative shift from attacking press credibility to using state power to unmask sources, a more severe breach of the boundary between office and adversarial press.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
         "trait": "ethics",
-        "pattern": "Reporting connected the president's sons to profits from defense contractors benefiting from Pentagon decisions, a major campaign donor was placed atop a $200 million federal enterprise fund, and Truth Social announced a paid early-access scheme to presidential posts.",
+        "pattern": "Presidential sons held financial stakes in defense technology firms that collectively received at least $3.2 billion in Pentagon contracts during an active war footing, while a White House staffer allegedly used inside knowledge of presidential speeches to profit from prediction-market bets.",
         "severity": "serious",
-        "institutional_response": "No regulatory or congressional corrective action is documented within the week; reporting itself constituted the primary check.",
+        "institutional_response": "No regulatory or congressional inquiry was confirmed within the week; reporting on both matters proceeded independently.",
         "exemplars": [
           {
             "exemplar_id": "wk78_ethics_ex01",
             "week": 78,
             "event_ids": [
-              "wk78_ES_007",
-              "wk78_IM_031"
+              "wk78_ES_005"
             ],
             "developments": [
               {
-                "development_id": "wk78_ES_007",
-                "development_label": "Trump Jr. and Eric Trump invested in defense contractors that subsequently received billions in federal contracts.",
+                "development_id": "wk78_ES_005",
+                "development_label": "Trump sons' investments in defense start-ups receiving billions in wartime contracts.",
                 "role": "primary"
-              },
+              }
+            ],
+            "summary": "Family financial stakes in firms benefiting from wartime Pentagon spending raise direct self-dealing concerns tied to the president's own war-making decisions.",
+            "why_exemplary": "Tier-1 corroborated; the timing alongside active hostilities the president himself ordered heightens the conflict-of-interest concern beyond routine business dealing.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk78_ethics_ex02",
+            "week": 78,
+            "event_ids": [
+              "wk78_ES_015"
+            ],
+            "developments": [
               {
-                "development_id": "wk78_IM_031",
-                "development_label": "Truth Social announced a new mechanism for the president to profit from his office.",
+                "development_id": "wk78_ES_015",
+                "development_label": "White House staffer's alleged insider trading using nonpublic speech information.",
                 "role": "secondary"
               }
             ],
-            "summary": "Family financial gain tied to federal decisions and a new office-adjacent monetization scheme both raised conflict-of-interest and emoluments concerns.",
-            "why_exemplary": "Reported patterns of familial and personal profit intersecting with governmental decision-making illustrate a persistent failure to separate public power from private benefit.",
-            "exemplar_type": "primary"
+            "summary": "A junior White House employee allegedly used advance knowledge of presidential remarks to profit on a prediction market.",
+            "why_exemplary": "Multi-source corroborated; illustrates how proximity to executive information has become a vector for personal enrichment at multiple levels of the administration.",
+            "exemplar_type": "secondary"
           }
         ]
       }
     ],
     "norms_strengthened": [
       {
-        "trait": "good_faith",
-        "pattern": "A federal judge voided the president's $1.8 billion IRS settlement and sanctioned his lawyers, and another judge stayed a State Department policy targeting noncitizen misinformation researchers, both reasserting limits on executive self-dealing and viewpoint discrimination.",
+        "trait": "restraint",
+        "pattern": "A federal judge voided a $1.776 billion DOJ settlement engineered to shield the president and family from tax audits, sanctioning his lawyers directly and referring some for discipline.",
         "scope": "institutional",
-        "why_it_matters": "Judicial willingness to void manufactured legal arrangements and executive overreach on speech demonstrates that courts retain capacity to check self-dealing and improper use of state power even when other checks weaken.",
+        "why_it_matters": "Consequences reaching the president's own legal counsel are rare; this ruling demonstrates that manufactured litigation to secure personal immunity can still be identified and penalized by an independent judiciary.",
         "exemplars": [
           {
-            "exemplar_id": "wk78_goodfaith_strength_ex01",
+            "exemplar_id": "wk78_restraint_strength_ex01",
             "week": 78,
             "event_ids": [
-              "wk78_IG_004"
+              "wk78_IG_006"
             ],
             "developments": [
               {
-                "development_id": "wk78_IG_004",
-                "development_label": "Judge Kathleen Williams voided Trump's $1.8 billion IRS settlement and sanctioned his lawyers.",
+                "development_id": "wk78_IG_006",
+                "development_label": "Judge voided a manufactured DOJ settlement and sanctioned Trump's lawyers.",
                 "role": "primary"
               }
             ],
-            "summary": "A federal judge found manufactured litigation had been used to secure personal immunity and imposed sanctions on the attorneys involved.",
-            "why_exemplary": "A direct judicial finding of bad-faith legal engineering for personal benefit, followed by professional sanctions, shows meaningful accountability reaching the president's own counsel.",
+            "summary": "A federal court found a large settlement was engineered for false judicial legitimacy and imposed direct sanctions on the responsible attorneys.",
+            "why_exemplary": "Tier-1 corroborated; a rare instance of judicial consequences reaching counsel acting on the president's behalf, reinforcing that manufactured legal cover is not immune from scrutiny.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
-        "trait": "character",
-        "pattern": "Senate Democrats blocked advancement of the National Defense Authorization Act to protest unauthorized Iran hostilities, and House Democrats held a closed-door session to prepare institutional responses to potential midterm interference.",
+        "trait": "good_faith",
+        "pattern": "Senate Democrats blocked advancement of the National Defense Authorization Act specifically to protest unauthorized Iran hostilities, using procedural leverage to assert congressional war-powers oversight.",
         "scope": "institutional",
-        "why_it_matters": "Legislative willingness to use procedural leverage over war powers, and advance planning for anticipated interference, reflects institutional discipline and anticipatory duty to constituents rather than passive acquiescence.",
+        "why_it_matters": "Even where the underlying war-making continued, the willingness to withhold a routine, must-pass bill demonstrates that legislative tools for asserting oversight have not been entirely abandoned.",
         "exemplars": [
           {
-            "exemplar_id": "wk78_character_ex01",
+            "exemplar_id": "wk78_good_faith_strength_ex01",
             "week": 78,
             "event_ids": [
-              "wk78_IG_010"
+              "wk78_IG_011"
             ],
             "developments": [
               {
-                "development_id": "wk78_IG_010",
-                "development_label": "Senate Democrats blocked advancement of the National Defense Authorization Act to protest Iran hostilities.",
+                "development_id": "wk78_IG_011",
+                "development_label": "Senate Democrats blocked the NDAA over Iran war objections.",
                 "role": "primary"
               }
             ],
-            "summary": "Senators withheld support for a must-pass defense bill to assert oversight of unauthorized military escalation.",
-            "why_exemplary": "A tier-one corroborated act of legislative self-discipline used institutional leverage to demand accountability rather than accept unilateral executive war-making.",
+            "summary": "Senators withheld votes on a major defense bill specifically to protest unauthorized war-making, asserting a congressional check.",
+            "why_exemplary": "Tier-1 corroborated; represents deliberate use of procedural leverage in defense of constitutional war-powers norms rather than partisan convenience alone.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "Independent fact-checking of the president's primetime election-fraud speech occurred rapidly and across ideological lines, including from a source the administration itself had relied upon.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Rapid, credible correction of a presidential falsehood — including from within the administration's own evidentiary basis — shows that mechanisms of public correction still function even under direct pressure from the highest office.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk78_truthfulness_strength_ex01",
+            "week": 78,
+            "event_ids": [
+              "wk78_IM_014",
+              "wk78_IM_016"
+            ],
+            "developments": [
+              {
+                "development_id": "wk78_IM_014",
+                "development_label": "Report author acknowledged no evidence of foreign vote-flipping.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk78_IM_016",
+                "development_label": "CNN and a senator publicly debunked the speech's claims.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Multiple independent and cross-partisan sources corrected the president's election-fraud claims within hours of their broadcast.",
+            "why_exemplary": "The speed and breadth of correction, including from a source cited by the administration itself, demonstrates resilience of factual accountability mechanisms.",
             "exemplar_type": "primary"
           }
         ]
@@ -281,35 +400,34 @@
     "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "Week 78 continues and consolidates the trajectory documented through Week 77 rather than opening a new front. The removal of the last independent Election Assistance Commission members in Week 77 is compounded this week by the ouster of additional commissioners, threats against state election officials, and a primetime address built on selectively declassified intelligence that reportedly contradicted the president's own claims. What had been a structural vulnerability is now an operating pattern: election administration, war powers, immigration enforcement, and press oversight are each being pressed in similar ways, using procedural leverage, emergency authority, and personnel control rather than open confrontation with law.\n\nThe fatal ICE shootings continue the lethal pattern first documented in Week 77's Houston killing, but this week adds a second fatality in Maine and a third death during a Florida enforcement operation, alongside a brief internal safety pause that the president personally overturned. This sequence shows that even when agencies themselves recognize danger, political demand for enforcement volume overrides operational caution. Ethics concerns persist in familiar form: family financial entanglement with federal contracting, a donor-linked appointment to a public fund, and a newly announced paid-access scheme tied to the presidency extend the self-dealing pattern flagged in Week 77's cryptocurrency and Qatari-jet concerns.\n\nJudicial resistance remains the most consistent counterweight. The voiding of the IRS settlement and sanctions on the president's lawyers, alongside a stay of a State Department speech-chilling policy, show courts still willing to impose real costs for manufactured legal arrangements and overreach. Legislative resistance also persists, with Senate Democrats withholding support for defense authorization over unauthorized war-making. But as in Week 77, these checks operate reactively and after the political or operational act has already occurred. The moral floor has not collapsed further this week in dramatic terms, but it has settled deeper into an equilibrium where coercion, self-dealing, and manufactured narrative are treated as routine governance rather than exceptional breaches.",
+    "narrative": "Week 78 extends the deteriorating trajectory documented through Week 77, with the center of gravity shifting from a single dramatic rupture toward an accumulation of simultaneous breaches across nearly every domain of the moral floor. War powers, election administration, press freedom, and lethal enforcement all saw significant erosion within a single seven-day window, a density of harm that the narrative digest itself identifies as the week's defining feature. The killing of two non-target civilians by ICE agents, followed by a presidentially ordered reversal of a brief safety pause and the FBI's withdrawal from investigating agent confrontations, deepens the stewardship failure first flagged in Week 77's Houston shooting into a now-recurring pattern rather than an isolated incident.\n\nThe week's most structurally significant development was the coordinated campaign to relitigate the 2020 election through a primetime address paired with a live voter-roll purge directive and threats of prosecution against state officials. This combination — manufacturing grievance about a past election while actively working to shape the administration of a future one — represents a more advanced stage of the pattern first visible in Week 77's DOJ letters to state officials. The direct federal subpoena of journalists to compel disclosure of sources marks an escalation beyond the rhetorical attacks on press freedom seen previously, moving from hostility to legal compulsion.\n\nCountervailing forces persisted, and in some instances strengthened. A federal judge's sanctioning of the president's own attorneys for a manufactured settlement is a meaningful, concrete instance of judicial consequence reaching the executive's inner circle. Senate Democrats' blockade of the defense bill and the rapid, cross-partisan debunking of the president's election speech both demonstrate that mechanisms of institutional and factual correction have not gone dormant. However, these correctives remain narrow relative to the breadth of simultaneous breaches, and none reversed the substantive harms — the war continued, the voter-roll directive stood, and the ICE enforcement pace did not slow. The overall trend remains deteriorating, with this week's density of breaches suggesting the erosion is broadening in scope even where its pace, as measured by the clock, appears to have stabilized.",
     "trend": "deteriorating",
     "stress_points": [
-      "continued dismantling of independent election oversight ahead of midterms",
-      "lethal immigration enforcement followed by reversal of internal safety measures",
-      "unilateral and volatile exercise of war powers over Iran and the Strait of Hormuz",
-      "coercive pressure on broadcasters and journalists over coverage choices",
-      "persistent family and personal financial entanglement with government decisions",
-      "procedural bundling of unrelated legislation to advance voting restrictions"
+      "unauthorized and escalating war-making without congressional authorization",
+      "coordinated pressure on state election officials ahead of midterms",
+      "recurring, unaccountable lethal force by federal immigration agents",
+      "direct legal action against journalists to compel source disclosure",
+      "family and staff enrichment tied to war spending and privileged information",
+      "withdrawal of independent investigative oversight of enforcement agencies"
     ],
     "sources_of_resilience": [
-      "judicial sanctions against manufactured litigation and self-dealing",
-      "judicial stays of executive overreach on protected speech",
-      "legislative procedural resistance to unauthorized war-making",
-      "cross-partisan and press fact-checking of primetime disinformation",
-      "sustained civil society mobilization and protest following fatal enforcement incidents",
-      "continued litigation by advocacy groups, tribes, and states against agency rollbacks"
+      "judicial sanctioning of manufactured litigation and presidential counsel",
+      "Senate procedural leverage asserting war-powers oversight",
+      "rapid cross-partisan fact-checking of presidential disinformation",
+      "sustained community and civil-society mobilization following fatal incidents",
+      "independent media documentation of enforcement deaths and abuses"
     ]
   },
   "risk_assessment": {
-    "level": "severe",
-    "justification": "The moral floor remains under severe and sustained stress. This week's verified events show the executive removing additional independent election commissioners, reversing an internal safety pause after fatal ICE shootings, and using a primetime address built on selectively declassified intelligence to promote debunked claims while threatening broadcast licenses. These are not isolated incidents but extensions of patterns already identified as severe in the prior week, now operating with greater coordination across domains. Judicial pushback, including sanctions against the president's own lawyers and a stay of a speech-chilling policy, provides real but narrow resistance. Given the density and mutual reinforcement of these pressures across election administration, war powers, immigration enforcement, and media oversight, the risk of further erosion without a new external check remains severe.",
+    "level": "critical",
+    "justification": "The moral floor remains critically compromised, with this week showing broadening rather than narrowing scope of erosion. Unauthorized military escalation, a coordinated pre-midterm campaign to purge voter rolls and coerce state officials while simultaneously relitigating a settled election, direct legal action against journalists, and a second and third fatal ICE encounter with civilians in a single week together represent breaches touching nearly every trait in the moral floor framework simultaneously. The reversal of a brief enforcement safety pause under direct presidential pressure, followed by the FBI's withdrawal from investigating ICE confrontations, indicates that internal correction mechanisms are being actively dismantled rather than merely bypassed. Countervailing judicial and legislative actions were real but narrow, sufficient to sanction specific bad actors and register formal protest, not to reverse the underlying policies.",
     "forward_signals": [
-      "whether prosecutorial threats against election officials produce actual charges",
-      "whether broadcast license threats translate into FCC enforcement action",
-      "whether the ICE vehicle-stop reversal produces further fatalities or accountability action",
-      "whether Congress asserts further leverage over unauthorized military action against Iran",
-      "whether family and donor financial entanglements draw regulatory or congressional scrutiny",
-      "whether the Save America Act's attachment to appropriations succeeds in the Senate"
+      "whether independent investigation of the Maine and Houston-pattern ICE shootings materializes absent FBI involvement",
+      "whether courts intervene to block the DHS voter-roll purge directive before further use",
+      "whether the New York Times subpoenas are challenged or narrowed in court",
+      "whether Congress takes further action on the Iran war beyond the NDAA blockade",
+      "whether any regulatory body examines the Trump family's defense-contractor investments or the staffer's prediction-market trades",
+      "whether broadcast license threats against networks proceed to formal FCC action"
     ]
   }
 }

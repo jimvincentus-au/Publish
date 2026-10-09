@@ -5,8 +5,8 @@
     "start": "2026-07-25",
     "end": "2026-07-31"
   },
-  "clock_time_public": "7:40 p.m.",
-  "clock_delta_minutes": -0.1,
+  "clock_time_public": "7:36 p.m.",
+  "clock_delta_minutes": 0.0,
   "baseline_traits": [
     {
       "name": "character",
@@ -18,7 +18,7 @@
     },
     {
       "name": "restraint",
-      "definition": "Willingness to limit one’s own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
     },
     {
       "name": "truthfulness",
@@ -34,131 +34,87 @@
     }
   ],
   "weekly_audit": {
-    "summary": "Week 80 exhibited a pattern of quiet consolidation rather than dramatic rupture. The administration cycled through successive legal theories to preserve tariffs after a Supreme Court defeat, pressed to accelerate vaccine schedule changes despite a court injunction, tied a cabinet confirmation to preservation of a personal tax-immunity arrangement, and worked through appointments and hearings to reshape the Smithsonian's historical narrative. Truthfulness suffered from false claims about war justification, munitions, and diplomatic control, alongside an AI-generated map error at an official summit. Institutional counterweights remained active but reactive: courts blocked some executive election overreach, a Senate confirmation stalled over ethical concerns, and the Senate voted unanimously against a Maxwell pardon. The week's defining feature was the normalization of using ordinary administrative and legal machinery — tariffs, personnel appointments, funding threats, casualty reclassification — to entrench executive advantage.",
+    "summary": "The week showed the executive branch achieving through ordinary bureaucratic and legal mechanisms what open defiance might not accomplish: successive statutory tariff workarounds after a Supreme Court defeat, a Pentagon casualty reclassification apparently timed to reset War Powers Act review clocks, and a coordinated campaign to install ideological control over the Smithsonian's historical narrative. Immigration enforcement expanded its reach into new populations, including citizens' spouses and refugee children's data, without corresponding accountability. A cabinet nomination stalled over the president's personal financial exposure, producing the week's clearest instance of intra-party institutional friction. A viral disinformation cycle targeting an elected official moved through five major outlets before any correction. Countervailing forces held in specific instances — a unanimous Senate vote against clemency for a convicted trafficker, court-ordered scrutiny of ICE healthcare failures, judicial demands for unredacted Epstein files — but these were reactive rather than preventive, arriving after pressure rather than forestalling it.",
     "norms_broken": [
       {
-        "trait": "good_faith",
-        "pattern": "After the Supreme Court struck down IEEPA tariffs, the administration successively invoked Section 301 and then Section 122 authority to preserve the same tariff regime, treating adverse judicial rulings as obstacles to route around rather than binding constraints, while also seeking Supreme Court intervention to override lower courts and 23 states on mail-voting restrictions.",
-        "severity": "serious",
-        "institutional_response": "Courts had already ruled against the original tariff authority; the administration's response was to seek alternative statutory bases rather than comply with the spirit of the ruling, while further appeals sought to override circuit and state-level blocks on voting rules.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk80_good_faith_ex01",
-            "week": 80,
-            "event_ids": [
-              "wk80_PA_001"
-            ],
-            "developments": [
-              {
-                "development_id": "wk80_PA_001",
-                "development_label": "Administration cycled through three legal theories in one week to preserve tariffs after a Supreme Court defeat.",
-                "role": "primary"
-              }
-            ],
-            "summary": "The executive rapidly substituted new statutory tariff authorities after losing at the Supreme Court, preserving the practical effect of a ruling it had just lost.",
-            "why_exemplary": "A tier-one corroborated event showing that adverse judicial outcomes were treated as procedural puzzles to solve rather than legitimate limits on executive trade power.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk80_good_faith_ex02",
-            "week": 80,
-            "event_ids": [
-              "wk80_IG_025"
-            ],
-            "developments": [
-              {
-                "development_id": "wk80_IG_025",
-                "development_label": "Administration petitioned the Supreme Court to enforce mail-voting citizenship-list requirements despite lower courts and 23 states blocking them.",
-                "role": "primary"
-              }
-            ],
-            "summary": "The administration sought emergency Supreme Court intervention to override a federal appeals court and dozens of states that had already blocked new mail-voting restrictions.",
-            "why_exemplary": "A verified filing shows repeated attempts to bypass adverse rulings through forum-shopping at the highest court, testing whether litigation persistence can substitute for legal defeat.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
-        "trait": "ethics",
-        "pattern": "The Attorney General nomination of Todd Blanche was directly entangled with the president's refusal to dismantle a disputed $1.8 billion tax-immunity and slush-fund arrangement benefiting himself, prompting Senate Republicans to withhold votes and the president to threaten procedural workarounds to install his nominee regardless.",
-        "severity": "serious",
-        "institutional_response": "Senate Judiciary Committee postponed and canceled a scheduled vote pending written commitments; Senator Cornyn conditioned support on formal elimination of the fund, showing meaningful institutional resistance, though the president responded by threatening to exploit vacancy timing to bypass dissenters.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk80_ethics_ex01",
-            "week": 80,
-            "event_ids": [
-              "wk80_IG_023",
-              "wk80_IG_020"
-            ],
-            "developments": [
-              {
-                "development_id": "wk80_IG_023",
-                "development_label": "President refused to narrow the tax-immunity/slush fund arrangement despite senators' written request, then reversed and vowed to revive it.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk80_IG_020",
-                "development_label": "President threatened to temporarily withdraw and resubmit Blanche's nomination to circumvent dissenting senators.",
-                "role": "secondary"
-              }
-            ],
-            "summary": "The president's insistence on preserving a personal legal-protection fund, paired with threats to route around dissenting senators, revealed a top-level nomination fight rooted in personal legal exposure.",
-            "why_exemplary": "Well-corroborated reporting documents the subordination of a cabinet confirmation process to the president's private legal interests, a direct conflict-of-interest pattern at the highest level.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
         "trait": "restraint",
-        "pattern": "The president personally intervened to reverse an ICE vehicle-stop safety pause imposed after fatal shootings, and separately pressured the Health Secretary to accelerate cuts to the childhood vaccination schedule despite an active court injunction, prioritizing personal agenda over institutional safeguards and judicial process.",
-        "severity": "serious",
-        "institutional_response": "No documented institutional check reversed the ICE decision within the week; a court injunction on vaccine schedule changes remained the primary counterweight, though the president continued to press against it.",
+        "pattern": "The president pursued a third consecutive statutory tariff workaround after the Supreme Court struck down emergency tariffs, invoked Defense Production Act authority over minerals, dismissed any need to justify continued Iran operations to Congress or the public, and threatened destruction of civilian infrastructure while claiming personal control of the Strait of Hormuz.",
+        "severity": "extreme",
+        "institutional_response": "Congress passed and then failed a war powers resolution; no binding constraint was placed on the tariff authority or continued military threats.",
         "exemplars": [
           {
             "exemplar_id": "wk80_restraint_ex01",
             "week": 80,
             "event_ids": [
-              "wk80_PA_006"
+              "wk80_PA_001",
+              "wk80_PA_008"
             ],
             "developments": [
               {
-                "development_id": "wk80_PA_006",
-                "development_label": "Trump reversed ICE's safety pause on vehicle stops days after two fatal shootings.",
+                "development_id": "wk80_PA_001",
+                "development_label": "Third consecutive statutory tariff workaround after Supreme Court defeat.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk80_PA_008",
+                "development_label": "Dismissed need to justify continued Iran operations to Congress or public.",
                 "role": "primary"
               }
             ],
-            "summary": "The president overrode an agency's own safety pause following fatal shootings, restoring aggressive enforcement tactics against internal risk assessments.",
-            "why_exemplary": "Multiple corroborating outlets confirm direct presidential override of agency judgment on lethal-force risk, showing willingness to escalate rather than restrain enforcement following documented harm.",
+            "summary": "The president repeatedly reached for new legal authorities to sustain policies after courts or norms constrained the prior ones, in trade and war alike.",
+            "why_exemplary": "Both are tier-1 verified; together they show a repeated pattern of substituting new authority for blocked authority rather than accepting the constraint.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk80_restraint_ex02",
             "week": 80,
             "event_ids": [
-              "wk80_PA_009"
+              "wk80_PA_009",
+              "wk80_IG_013"
             ],
             "developments": [
               {
                 "development_id": "wk80_PA_009",
-                "development_label": "Trump pressured Health Secretary Kennedy to accelerate vaccine schedule cuts despite a court injunction.",
+                "development_label": "Threatened destruction of Iranian infrastructure, claimed personal control of Strait of Hormuz.",
                 "role": "primary"
+              },
+              {
+                "development_id": "wk80_IG_013",
+                "development_label": "Senate rejected 49-50 a war powers resolution limiting Iran war authority.",
+                "role": "secondary"
               }
             ],
-            "summary": "The president pushed to override both judicial restraint and scientific consensus on childhood vaccination policy for personal legacy reasons.",
-            "why_exemplary": "A tier-one corroborated event demonstrating pressure to defeat a standing court order on a matter of significant public health consequence.",
+            "summary": "Escalatory rhetoric toward a foreign adversary proceeded unchecked after the Senate narrowly failed a second attempt to constrain war authority.",
+            "why_exemplary": "Tier-1 and multi-source corroborated; illustrates the gap between legislative assertion and any enforceable limit on unilateral military escalation.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "The president made a cluster of false or unverified claims in a single week — personal control of the Strait of Hormuz, tariffs having stopped eight wars, trust in Putin's denials over U.S. intelligence — while the State Department displayed an AI-generated map with every African country mislabeled at an international summit.",
-        "severity": "concerning",
-        "institutional_response": "Independent journalism documented and corrected these claims; no internal administration correction or accountability mechanism is recorded.",
+        "pattern": "The Pentagon revised its Iran war casualty classification scheme in a manner that appeared timed to reset War Powers Act review clocks, while the president made repeated unsubstantiated claims about ending eight wars, personally controlling the Strait of Hormuz, and other matters of public consequence.",
+        "severity": "serious",
+        "institutional_response": "Journalists documented the reclassification and fact-checked the president's claims; no formal correction or congressional remedy was reported.",
         "exemplars": [
           {
             "exemplar_id": "wk80_truthfulness_ex01",
+            "week": 80,
+            "event_ids": [
+              "wk80_IM_013"
+            ],
+            "developments": [
+              {
+                "development_id": "wk80_IM_013",
+                "development_label": "Pentagon reclassified Iran war casualty reporting, resetting War Powers Act clock.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A change in how the Pentagon counts and categorizes war casualties appears engineered to delay congressional oversight triggers under the War Powers Act.",
+            "why_exemplary": "Tier-1 verified across multiple outlets; a direct manipulation of official data with clear institutional consequence for accountability.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk80_truthfulness_ex02",
             "week": 80,
             "event_ids": [
               "wk80_IM_016"
@@ -166,78 +122,177 @@
             "developments": [
               {
                 "development_id": "wk80_IM_016",
-                "development_label": "Trump claimed personal control of the Strait of Hormuz and that tariffs stopped eight wars.",
+                "development_label": "False claims about stopping eight wars via tariffs and personal control of the Strait of Hormuz.",
                 "role": "primary"
               }
             ],
-            "summary": "Repeated unsubstantiated claims about controlling global infrastructure and foreign policy achievements misrepresented basic facts to the public.",
-            "why_exemplary": "Tier-one corroborated reporting documents factually false claims made on matters of significant public and foreign-policy consequence.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk80_truthfulness_ex02",
-            "week": 80,
-            "event_ids": [
-              "wk80_IM_002"
-            ],
-            "developments": [
-              {
-                "development_id": "wk80_IM_002",
-                "development_label": "Trump stated he trusts Putin's denial of Russian assistance to Iran despite contrary U.S. intelligence.",
-                "role": "primary"
-              }
-            ],
-            "summary": "Public deference to an adversary's denial over documented domestic intelligence undermines evidence-based national security discourse.",
-            "why_exemplary": "Multi-source corroborated reporting shows a president publicly rejecting his own government's intelligence assessment in favor of a foreign adversary's claim.",
+            "summary": "Repeated unsubstantiated presidential claims about foreign policy achievements were publicly fact-checked as false.",
+            "why_exemplary": "Tier-1 verified; represents a pattern of manufactured unreality on matters directly bearing on war policy and public understanding.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "stewardship",
-        "pattern": "Coordinated executive and legislative action pressed to reshape the Smithsonian's historical presentation — through executive order, an ideologically aligned advisory vote stripping public/tribal review requirements, delayed board nominations, and an unqualified advisor's influence — threatening the independence of a federal cultural institution meant to serve future generations impartially.",
-        "severity": "concerning",
-        "institutional_response": "Some public pushback occurred (a sitting Justice publicly favored fuller history), but no binding institutional reversal is documented within the week.",
+        "pattern": "A coordinated campaign moved control over historical and cultural memory into partisan executive hands: warning signs directed at the Smithsonian, hearings pressuring its director, an ideologically compromised advisor gaining influence over exhibit content, delayed board nominations to enable political substitution, and the Advisory Council on Historic Preservation voting to gut public and tribal consultation requirements protecting over 100,000 historic sites.",
+        "severity": "serious",
+        "institutional_response": "Congressional Republicans enabled the pressure through coordinated hearings; no independent body intervened to protect institutional independence within the week.",
         "exemplars": [
           {
             "exemplar_id": "wk80_stewardship_ex01",
             "week": 80,
             "event_ids": [
-              "wk80_IM_015",
-              "wk80_IM_014"
+              "wk80_PA_003",
+              "wk80_IG_006"
             ],
             "developments": [
               {
-                "development_id": "wk80_IM_015",
-                "development_label": "JD Vance delayed Smithsonian board nominations to allow substitution of more ideologically aligned candidates.",
+                "development_id": "wk80_PA_003",
+                "development_label": "Executive order directing warning signs at Smithsonian museum.",
                 "role": "primary"
               },
               {
-                "development_id": "wk80_IM_014",
-                "development_label": "David Barton advised the administration on Smithsonian policy despite a history of discredited historical work.",
-                "role": "secondary"
+                "development_id": "wk80_IG_006",
+                "development_label": "Congressional hearings pressuring Smithsonian director over alleged bias.",
+                "role": "primary"
               }
             ],
-            "summary": "Board appointment delays and reliance on a discredited ideological advisor moved to reshape the governance and content of a national cultural institution.",
-            "why_exemplary": "Multi-source corroborated reporting shows a durable, structural effort to capture institutional governance rather than merely contest historical interpretation rhetorically.",
+            "summary": "Executive and legislative power combined to pressure an independent cultural institution to conform to a single ideological narrative of history.",
+            "why_exemplary": "Both tier-1/multi-source verified; illustrates coordinated cross-branch pressure aimed at capturing an institution meant to serve future generations impartially.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk80_stewardship_ex02",
             "week": 80,
             "event_ids": [
-              "wk80_PA_002"
+              "wk80_IM_018",
+              "wk80_IG_001"
             ],
             "developments": [
               {
-                "development_id": "wk80_PA_002",
-                "development_label": "Advisory Council on Historic Preservation voted to eliminate Section 106 public and tribal review requirements.",
+                "development_id": "wk80_IM_018",
+                "development_label": "Delayed Smithsonian board nominations to install ideologically aligned candidates.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk80_IG_001",
+                "development_label": "Advisory Council voted to eliminate Section 106 consultation requirements.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Governance mechanisms for historic preservation and cultural oversight were altered procedurally to remove independent and public checks.",
+            "why_exemplary": "Multi-source corroborated; demonstrates a durable, structural mechanism for weakening institutional independence rather than a one-time event.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "The confirmation of Attorney General nominee Todd Blanche stalled over the president's refusal to relinquish a disputed $1.8 billion fund tied to his personal tax immunity, while a Turkey arms sale was justified by the president in terms of personal benefit rather than national security policy.",
+        "severity": "serious",
+        "institutional_response": "Senators Cornyn and Tillis withheld confirmation votes pending written commitments; the president threatened to bypass them procedurally rather than concede.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk80_ethics_ex01",
+            "week": 80,
+            "event_ids": [
+              "wk80_IG_007",
+              "wk80_PA_016"
+            ],
+            "developments": [
+              {
+                "development_id": "wk80_IG_007",
+                "development_label": "Senators conditioned AG confirmation on elimination of a fund tied to Trump's tax immunity.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk80_PA_016",
+                "development_label": "Threatened to bypass dissenting senators via nomination withdrawal and resubmission.",
                 "role": "primary"
               }
             ],
-            "summary": "A board of Trump appointees stripped a decades-old requirement for public and tribal input on federal projects affecting historic and sacred sites.",
-            "why_exemplary": "Documents a structural weakening of long-standing procedural protections for heritage sites, reducing institutional capacity for independent review going forward.",
+            "summary": "A cabinet confirmation became a proxy battle over the president's personal financial arrangements, which he refused to relinquish and sought procedural means to circumvent.",
+            "why_exemplary": "Multi-source corroborated; a rare, concrete instance where a president's private financial interest directly obstructed a core government function.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk80_ethics_ex02",
+            "week": 80,
+            "event_ids": [
+              "wk80_PA_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk80_PA_011",
+                "development_label": "Justified F-35 sale to Turkey citing personal benefit rather than policy.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A major arms transfer decision was publicly framed around personal favor rather than articulated national security rationale.",
+            "why_exemplary": "Tier-1 verified; illustrates blurred boundaries between private interest and public foreign policy decision-making.",
             "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "A fabricated claim that thousands of 9/11 families demanded a mayor be barred from a memorial ceremony moved through five major outlets in succession, each amplifying the figure with limited independent verification, with corrections arriving quietly rather than through transparent retraction.",
+        "severity": "concerning",
+        "institutional_response": "No outlet issued a prominent, proactive correction; the false claim was further amplified by the president himself.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk80_truthfulness_ex03",
+            "week": 80,
+            "event_ids": [
+              "wk80_IM_001",
+              "wk80_IM_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk80_IM_001",
+                "development_label": "New York Post published false 9/11 petition headline about Mayor Mamdani.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk80_IM_005",
+                "development_label": "Trump amplified the fabricated claim in public remarks.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A fabricated attack on an elected official spread across multiple national outlets before any transparent correction, then was amplified by the former president.",
+            "why_exemplary": "Multi-source corroborated pattern across five outlets; demonstrates how disinformation cycles can outrun correction and reach a president's own rhetoric.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Immigration enforcement expanded into new populations without added accountability: arrests of citizens' spouses at airports, deportation planning against roughly 300,000 Haitians, weaponization of refugee children's data for 12,000 ICE arrests, and forced medical treatment of a detained hunger striker.",
+        "severity": "serious",
+        "institutional_response": "A court-ordered monitor documented systemic healthcare failures at a major detention facility; no broader policy reversal followed.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk80_stewardship_ex03",
+            "week": 80,
+            "event_ids": [
+              "wk80_CR_008",
+              "wk80_CR_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk80_CR_008",
+                "development_label": "Office of Refugee Resettlement shared 460,000 leads with ICE, leading to 12,000 arrests including children.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk80_CR_005",
+                "development_label": "Court-ordered monitor found ICE facility failed all eight healthcare standards.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Data intended to protect vulnerable migrant children was repurposed for mass immigration enforcement, while a detention facility failed every measured healthcare standard.",
+            "why_exemplary": "Multi-source corroborated; demonstrates institutional capacity turned against the populations it was designed to protect.",
+            "exemplar_type": "primary"
           }
         ]
       }
@@ -245,119 +300,125 @@
     "norms_strengthened": [
       {
         "trait": "good_faith",
-        "pattern": "Federal and state courts continued to check executive overreach: the First Circuit denied a stay preserving an injunction against expanded federal control over state election administration, the Kansas Court of Appeals protected the mail-ballot grace period, and DOJ dismissed charges against a labor leader arrested during a protest.",
-        "scope": "institutional",
-        "why_it_matters": "Continued judicial willingness to block federal overreach into state election administration and to correct an overzealous prosecution preserves functioning checks against executive expansion, even amid broader pressure.",
+        "pattern": "The Senate unanimously passed a resolution opposing any presidential pardon for Ghislaine Maxwell, and a federal judge compelled the DOJ to justify or unredact contested Epstein files, both reinforcing limits on executive clemency and secrecy in a matter of major public concern.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Unanimous cross-partisan action on a clemency question, paired with judicial pressure on executive secrecy, shows that some ethical boundaries still command consensus even amid broader polarization.",
         "exemplars": [
           {
-            "exemplar_id": "wk80_good_faith_strength_ex01",
+            "exemplar_id": "wk80_goodfaith_strength_ex01",
             "week": 80,
             "event_ids": [
+              "wk80_IG_012",
               "wk80_IG_005"
             ],
             "developments": [
               {
-                "development_id": "wk80_IG_005",
-                "development_label": "First Circuit denied a stay of an injunction blocking expanded federal control over state election administration.",
+                "development_id": "wk80_IG_012",
+                "development_label": "Senate unanimously opposed any pardon for Ghislaine Maxwell.",
                 "role": "primary"
+              },
+              {
+                "development_id": "wk80_IG_005",
+                "development_label": "Judge ordered DOJ to justify or unredact Epstein files.",
+                "role": "secondary"
               }
             ],
-            "summary": "An appeals court found the government unlikely to prevail on claims justifying unprecedented federal control over how states run elections, keeping the block in place.",
-            "why_exemplary": "A tier-one corroborated ruling preserves an important structural check on federal intrusion into state election authority.",
+            "summary": "A unanimous Senate vote against clemency for a convicted trafficker, paired with judicial pressure on DOJ transparency, reinforced limits on executive discretion in a high-profile case.",
+            "why_exemplary": "Rare unanimous consensus across party lines on an ethical boundary, reinforced by independent judicial action testing executive secrecy claims.",
             "exemplar_type": "primary"
-          },
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "Senate Republicans Cornyn and Tillis withheld confirmation votes on the Attorney General nominee pending written commitments regarding a disputed presidential fund, and Majority Leader Thune publicly acknowledged the votes did not exist to eliminate the filibuster despite presidential pressure.",
+        "scope": "institutional",
+        "why_it_matters": "Willingness within the president's own party to withhold confirmation and resist procedural escalation demonstrates that self-limitation on power remains institutionally available, even under direct pressure from the executive.",
+        "exemplars": [
           {
-            "exemplar_id": "wk80_good_faith_strength_ex02",
+            "exemplar_id": "wk80_restraint_strength_ex01",
             "week": 80,
             "event_ids": [
-              "wk80_IG_013"
+              "wk80_IG_007",
+              "wk80_IG_008"
             ],
             "developments": [
               {
-                "development_id": "wk80_IG_013",
-                "development_label": "DOJ dismissed criminal charges against labor leader David Huerta arrested during a protest.",
+                "development_id": "wk80_IG_007",
+                "development_label": "Senators conditioned confirmation on elimination of Trump-linked fund.",
                 "role": "primary"
+              },
+              {
+                "development_id": "wk80_IG_008",
+                "development_label": "Thune acknowledged lack of votes to repeal the filibuster.",
+                "role": "secondary"
               }
             ],
-            "summary": "Federal prosecutors dropped charges against a labor leader after months of criticism that the case chilled protected protest activity.",
-            "why_exemplary": "A tier-one corroborated correction shows institutional willingness to reverse a prosecution seen as punitive toward protected dissent.",
-            "exemplar_type": "secondary"
+            "summary": "Republican senators resisted presidential pressure on both a cabinet confirmation and a procedural rule change, preserving institutional checks within the majority party.",
+            "why_exemplary": "Multi-source corroborated; shows intra-party restraint functioning as a check even absent formal bipartisan consensus.",
+            "exemplar_type": "primary"
           }
         ]
       },
       {
         "trait": "character",
-        "pattern": "A bipartisan bloc in the Senate unanimously opposed any presidential pardon for Ghislaine Maxwell, and a Republican senator conditioned support for the Attorney General nominee on formal elimination of a fund benefiting the president, showing individual and cross-partisan willingness to place public duty above deference to executive preference.",
-        "scope": "cross-partisan",
-        "why_it_matters": "Unanimous Senate action against potential clemency for a convicted trafficker, and a senator's principled conditioning of a confirmation vote, demonstrate that institutional actors retain capacity to draw ethical lines even under pressure from the president's own party.",
+        "pattern": "The Department of Justice dropped politically fraught charges against a labor leader arrested while protesting an ICE raid, reversing a prosecution widely criticized as an attempt to chill dissent.",
+        "scope": "institutional",
+        "why_it_matters": "Reversal of a questionable prosecution, even belatedly, demonstrates that public and legal scrutiny can still compel institutional self-correction.",
         "exemplars": [
           {
             "exemplar_id": "wk80_character_strength_ex01",
             "week": 80,
             "event_ids": [
-              "wk80_IG_021"
+              "wk80_CR_006"
             ],
             "developments": [
               {
-                "development_id": "wk80_IG_021",
-                "development_label": "Senate passed a unanimous non-binding resolution opposing any presidential pardon for Ghislaine Maxwell.",
+                "development_id": "wk80_CR_006",
+                "development_label": "DOJ dismissed charges against labor leader David Huerta.",
                 "role": "primary"
               }
             ],
-            "summary": "The full Senate went on record against potential clemency for a convicted sex trafficker, asserting a bipartisan ethical boundary on pardon power.",
-            "why_exemplary": "A multi-source corroborated, unanimous vote demonstrates rare cross-partisan consensus on an ethical limit to executive clemency.",
+            "summary": "Federal prosecutors dropped charges against a labor leader arrested at a protest, reversing a case seen as targeting dissent.",
+            "why_exemplary": "Represents a concrete, if reactive, retreat from using prosecutorial power against a protester exercising First Amendment rights.",
             "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk80_character_strength_ex02",
-            "week": 80,
-            "event_ids": [
-              "wk80_IG_006"
-            ],
-            "developments": [
-              {
-                "development_id": "wk80_IG_006",
-                "development_label": "Senator Cornyn conditioned support for AG nominee Blanche on formal elimination of a disputed DOJ fund and tax immunity provisions.",
-                "role": "primary"
-              }
-            ],
-            "summary": "A Republican senator withheld his vote on the nation's top law enforcement post pending written assurance that a fund benefiting the president would be terminated.",
-            "why_exemplary": "A well-corroborated event shows a member of the president's own party using confirmation leverage to demand accountability over a conflict of interest.",
-            "exemplar_type": "secondary"
           }
         ]
       }
     ],
-    "direction_of_movement": "eroding"
+    "direction_of_movement": "mixed_but_stable"
   },
   "cumulative_condition": {
-    "narrative": "Week 80 continues the trajectory documented through Week 79 without a sharp new rupture, but with a notable shift in method: rather than singular dramatic escalations, the administration relied on layered, mutually reinforcing uses of ordinary governmental machinery — successive tariff authorities, casualty reclassification, board-appointment delays, funding threats, and confirmation leverage — to entrench advantage. The tariff cycling after a Supreme Court loss echoes the war-powers assertions of prior weeks in treating adverse rulings as obstacles to route around rather than binding limits, while the Blanche confirmation fight extends the pattern of family and personal financial entanglement with governance already flagged around Kushner's Saudi dealings, now manifesting as an Attorney General nomination held hostage to the president's own tax-immunity arrangement.\n\nThe Smithsonian campaign marks a new and durable front: rather than a single ideological complaint, this week showed executive order, advisory board action, delayed appointments, and an unqualified partisan advisor converging on the governance of a cultural institution meant to outlast any single administration. This is a stewardship concern of a different character than transient messaging battles — it targets the institutional capacity for independent public memory over the long term.\n\nCountervailing forces persisted but remained reactive, as in prior weeks. The First Circuit and Kansas courts held lines against federal overreach into election administration; DOJ's dismissal of politically fraught charges against a protest leader stands as a correction of prior state overreach; and a unanimous Senate resolution against a Maxwell pardon, alongside Cornyn's principled conditioning of a confirmation vote, show that institutional actors — including within the president's own party — retain some capacity to assert ethical boundaries. These checks, however, arrived after or alongside continued pressure rather than preventing the underlying conduct, consistent with the pattern noted in the Week 79 summary of resistance that is real but narrow and largely defensive.",
+    "narrative": "Week 80 confirms and refines the trajectory described in the prior summary: rather than a single dramatic rupture, the moral floor continues to erode through the accumulation of technically defensible actions that, taken together, describe sustained consolidation of executive control. The tariff workaround, the Pentagon's casualty reclassification, and the Smithsonian campaign each used existing legal or bureaucratic machinery to achieve outcomes that direct defiance of courts or Congress might not have survived. This is a maturation of the pattern flagged in Week 79 — war-making and information control through public announcement — into a more diversified toolkit spanning trade law, cultural institutions, and historic preservation review.\n\nThe most significant divergence from the immediate past is the emergence of intra-party friction over the Attorney General nomination, where the president's personal financial exposure directly obstructed a cabinet confirmation for the first time in this record. This represents a genuine ethics stress test with real institutional consequence, distinguishing it from the more diffuse conflicts-of-interest concerns raised in Week 79. Alongside this, a unanimous Senate vote against clemency for a convicted trafficker and continued judicial pressure on Epstein-file secrecy show that certain ethical lines still command near-universal assent, even as war powers and immigration enforcement continue to operate largely outside effective constraint.\n\nCivil society and independent institutions continued to supply resistance, but it remained reactive: courts intervened after healthcare failures were documented, after a labor leader's prosecution had already proceeded, after a false disinformation cycle had already reached millions. The system is not collapsing, but its correction mechanisms consistently arrive after harm rather than preventing it, and the scope of executive action requiring correction continues to widen across new domains — cultural memory, immigration data, tariff authority — rather than narrowing.",
     "trend": "deteriorating",
     "stress_points": [
-      "executive substitution of new legal authorities to preserve policy after judicial defeat",
-      "conflation of a cabinet confirmation with preservation of the president's personal legal shelter",
-      "structural capture of cultural/historical institutions through appointments and advisory bodies",
-      "override of agency safety and judicial restraint on enforcement and public health policy",
-      "recurring false or unverified public claims on matters of war, diplomacy, and foreign policy"
+      "repeated statutory workarounds substituting for blocked executive authority",
+      "manipulation of official casualty data to reset legislative oversight triggers",
+      "coordinated executive-legislative pressure to capture cultural and historical institutions",
+      "presidential personal financial interest obstructing cabinet confirmation",
+      "immigration enforcement expanding into new vulnerable populations without accountability",
+      "disinformation cycles outrunning correction across multiple national outlets"
     ],
     "sources_of_resilience": [
-      "judicial blocks on federal overreach into state election administration",
-      "cross-partisan Senate resolution against a Maxwell pardon",
-      "a Republican senator's principled conditioning of a confirmation vote on ethics reforms",
-      "DOJ's dismissal of a prosecution seen as chilling protected protest activity",
-      "independent journalism documenting false claims and administrative errors"
+      "unanimous cross-partisan Senate consensus on clemency limits",
+      "intra-party Senate resistance to confirmation and filibuster pressure",
+      "continued judicial scrutiny of executive secrecy and detention conditions",
+      "court-ordered monitoring exposing systemic enforcement failures",
+      "DOJ self-correction on a politically fraught prosecution",
+      "independent investigative journalism sustaining public accountability"
     ]
   },
   "risk_assessment": {
-    "level": "severe",
-    "justification": "The moral floor remains severely stressed. Verified events show the executive treating adverse judicial rulings on tariffs and election administration as problems to be circumvented rather than binding constraints, a cabinet confirmation entangled with the president's personal legal-immunity interests, and continued disregard for agency safety judgments and court injunctions on enforcement and public health matters. A structural campaign to reshape governance of a major cultural institution adds a durable stewardship concern beyond transient rhetoric. Countervailing institutional action — court rulings, a unanimous Senate resolution, a senator's principled confirmation conditions, and a prosecutorial reversal — demonstrates that meaningful resistance persists, but it remains reactive and partial, consistent with the severe risk level carried forward from the prior week.",
+    "level": "critical",
+    "justification": "The moral floor remains critically strained. Restraint, truthfulness, and stewardship were breached simultaneously through mechanisms designed to appear procedurally legitimate: new tariff statutes, reclassified casualty data, and an institutional campaign against independent historical scholarship. These are more durable and harder to reverse than isolated norm violations because they operate through law and bureaucracy rather than open defiance. The ethics breach surrounding the Attorney General confirmation is notable for producing real institutional friction, but the president's response — threatening procedural circumvention rather than concession — suggests self-interest continues to outweigh institutional deference when tested directly. Countervailing action this week was genuine on specific points (the Maxwell pardon resolution, judicial pressure on Epstein files, the Huerta dismissal) but did not reverse the broader consolidation of executive control over war, memory, and enforcement discretion.",
     "forward_signals": [
-      "whether Blanche's confirmation proceeds with or without genuine elimination of the disputed fund",
-      "whether Smithsonian board nominations are finalized with ideologically vetted candidates",
-      "whether the newly asserted Section 122 tariff authority faces its own legal challenge",
-      "whether the vaccine schedule injunction holds against continued executive pressure",
-      "whether TPS-related mass enforcement against Haitians proceeds at the scale reported",
-      "whether further Epstein-related disclosures reach the Blanche nomination or broader accountability process"
+      "whether the Blanche confirmation resolves through concession or procedural circumvention",
+      "whether courts test the newly asserted Section 122 tariff authority",
+      "whether Smithsonian board nominations proceed through ordinary process or continue to be delayed for ideological substitution",
+      "whether the Pentagon casualty reclassification draws formal congressional inquiry",
+      "whether the 9/11 disinformation cycle produces any transparent, prominent correction",
+      "whether ICE facility healthcare failures prompt binding remedial orders",
+      "whether polling erosion translates into any legislative recalibration ahead of the midterms"
     ]
   }
 }

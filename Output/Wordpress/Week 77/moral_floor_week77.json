@@ -5,7 +5,7 @@
     "start": "2026-07-04",
     "end": "2026-07-10"
   },
-  "clock_time_public": "7:41 p.m.",
+  "clock_time_public": "7:36 p.m.",
   "clock_delta_minutes": 0.0,
   "baseline_traits": [
     {
@@ -34,16 +34,16 @@
     }
   ],
   "weekly_audit": {
-    "summary": "Week 77 combined a symbolic, partisan Independence Day spectacle with a structural blow to nonpartisan election administration and continuing fatal consequences of aggressive immigration enforcement. The firing of the last Election Assistance Commission members removed independent oversight of election machinery ahead of midterms, while DOJ threats of prosecution against state election officials extended federal pressure over nominally neutral administrative functions. An ICE agent's killing of an unarmed bystander in Houston, followed by the detention of the only eyewitnesses, raised acute concerns about the state's willingness to control the very evidence needed to hold it accountable. Ethics concerns deepened with continued crypto profit-taking and use of a foreign-gifted aircraft for a domestic political event. Countervailing this, courts continued to enforce a civil judgment against the president, reject transparent circumvention of Kennedy Center branding disputes, and strike down a state speech-restriction law, while a bipartisan housing bill became law despite presidential noncooperation.",
+    "summary": "Week 77 combined a nonpartisan national commemoration turned campaign platform, a fatal and unaccountable use of lethal force by federal agents, coercive threats against state election officials, and continued self-enrichment, against a backdrop of judicial enforcement actions that held several specific lines. The president used the July 4th anniversary to attack opponents, repeat fraud claims, and call rivals communists while pushing voter-restriction legislation. Federal immigration enforcement killed a bystander in Houston and then detained the only eyewitnesses, with oversight assigned to the implicated agency's own inspector general. The Justice Department threatened all fifty states with prosecution over voter rolls and deployed monitors concentrated in Democratic-leaning jurisdictions ahead of the midterms. Courts, however, repeatedly forced compliance: enforcing the Carroll judgment despite repeated delay tactics, rejecting an unsupported bid to reverse the Kennedy Center naming order, and striking down a state law restricting academic speech. A bipartisan housing bill became law despite the president's refusal to sign it. The week is best characterized as continued erosion on power, truthfulness, and accountability fronts, partially offset by narrow but real judicial and legislative resistance.",
     "norms_broken": [
       {
-        "trait": "good_faith",
-        "pattern": "The president used a nonpartisan national commemoration to deliver campaign-style attacks and fraud claims, conditioned signature of a bipartisan housing bill on unrelated voter-restriction legislation, and legislative leadership pursued reconciliation to bypass the filibuster for the same purpose.",
+        "trait": "character",
+        "pattern": "The president used a nonpartisan national commemoration (July 4th, the 250th anniversary) as a platform for campaign-style attacks on opponents, repeated unsubstantiated election fraud claims, called political rivals communists, and referenced a third term before catching himself.",
         "severity": "serious",
-        "institutional_response": "Congress allowed the housing bill to become law without presidential signature, demonstrating institutional resilience; reconciliation maneuvering to pass voter-restriction legislation proceeded without documented resistance within the week.",
+        "institutional_response": "No formal institutional check occurred; media reported extensively on the blending of civic ritual with partisan messaging.",
         "exemplars": [
           {
-            "exemplar_id": "wk77_goodfaith_ex01",
+            "exemplar_id": "wk77_character_ex01",
             "week": 77,
             "event_ids": [
               "wk77_PA_001",
@@ -52,175 +52,169 @@
             "developments": [
               {
                 "development_id": "wk77_PA_001",
-                "development_label": "Trump delivered a campaign-style speech at the 250th anniversary event, attacking opponents and repeating fraud claims.",
+                "development_label": "Campaign-style July 4th speech attacking opponents and repeating fraud claims.",
                 "role": "primary"
               },
               {
                 "development_id": "wk77_PA_003",
-                "development_label": "Trump's Mt. Rushmore speech branded opponents as communists and demanded voter-suppression legislation.",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Nonpartisan national commemorations were repurposed for partisan attacks and explicit calls for restrictive voting legislation.",
-            "why_exemplary": "Tier-one and multi-source corroborated events show deliberate blurring of office and campaign at events meant to unify rather than divide the public.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk77_goodfaith_ex02",
-            "week": 77,
-            "event_ids": [
-              "wk77_PA_011"
-            ],
-            "developments": [
-              {
-                "development_id": "wk77_PA_011",
-                "development_label": "Trump declined to sign a bipartisan housing bill, conditioning approval on unrelated voter-suppression legislation.",
+                "development_label": "Mount Rushmore speech branding opponents communists and demanding voter-suppression legislation.",
                 "role": "primary"
               }
             ],
-            "summary": "Executive leverage over popular, unrelated legislation was used to coerce passage of a separate voting-restriction measure.",
-            "why_exemplary": "Multi-source corroborated reporting documents a repeated tactic of hostage-taking that defeats the purpose of independent legislative deliberation.",
+            "summary": "A national day of nonpartisan memory was used twice in one day for partisan attacks, extremist rhetoric against opponents, and a push for restrictive voting legislation.",
+            "why_exemplary": "Both events are tier-1 corroborated across multiple national outlets; together they show a sustained, repeated pattern rather than an isolated remark, converting civic ritual into campaign infrastructure.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk77_character_ex02",
+            "week": 77,
+            "event_ids": [
+              "wk77_PA_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk77_PA_004",
+                "development_label": "Reference to serving a third presidential term, quickly retracted.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A sitting president's public reference to a third term, even if immediately corrected, raises questions about internalized respect for constitutional term limits.",
+            "why_exemplary": "Multi-source corroborated; read against a documented pattern of similar remarks, it signals persistent normalization of the idea that term limits are negotiable.",
             "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "The Department of Justice sent letters to election officials in all fifty states threatening criminal prosecution over voter-roll disputes, and deployed federal election monitors concentrated in Democratic-leaning jurisdictions while demanding Michigan turn over voter data ahead of the midterms.",
+        "severity": "serious",
+        "institutional_response": "Courts in parallel litigation continued to block related administration actions (e.g., a modified voter-eligibility data system), but no institutional body halted the letters or monitor deployment within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk77_good_faith_ex01",
+            "week": 77,
+            "event_ids": [
+              "wk77_IG_028",
+              "wk77_IG_031"
+            ],
+            "developments": [
+              {
+                "development_id": "wk77_IG_028",
+                "development_label": "DOJ letters threatening prosecution of election officials over voter rolls.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk77_IG_031",
+                "development_label": "Election monitors deployed to 15 jurisdictions concentrated in six states, with a data demand to Michigan.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Coordinated federal pressure combining prosecutorial threats and targeted monitor deployment departs from historically neutral election oversight practice ahead of the midterms.",
+            "why_exemplary": "Multi-source corroborated; the geographic concentration and timing indicate targeted political pressure rather than neutral enforcement of federal law.",
+            "exemplar_type": "primary"
           }
         ]
       },
       {
         "trait": "stewardship",
-        "pattern": "The president fired all remaining commissioners of the bipartisan Election Assistance Commission ahead of midterms, eliminating independent federal oversight of election administration and voting-system certification.",
+        "pattern": "Federal agents killed an unarmed bystander in Houston with no body-camera footage, then detained the only eyewitnesses at an undisclosed location; oversight was assigned to the implicated agency's own inspector general rather than an independent body.",
         "severity": "extreme",
-        "institutional_response": "Media and former commissioners publicly criticized the move; no legislative or judicial reversal is documented within the week.",
+        "institutional_response": "Civil society (LULAC, community vigils) and a member of Congress demanded independent investigation and evidence preservation; the administration's chosen oversight mechanism raised conflict-of-interest concerns, and no independent probe was confirmed within the week.",
         "exemplars": [
           {
             "exemplar_id": "wk77_stewardship_ex01",
             "week": 77,
             "event_ids": [
-              "wk77_PA_012",
-              "wk77_IG_019"
+              "wk77_CR_012",
+              "wk77_CR_013"
             ],
             "developments": [
               {
-                "development_id": "wk77_PA_012",
-                "development_label": "Trump removed all commissioners from the bipartisan Election Assistance Commission.",
+                "development_id": "wk77_CR_012",
+                "development_label": "ICE agent killed Lorenzo Salgado Araujo, a non-target civilian, in Houston.",
                 "role": "primary"
               },
               {
-                "development_id": "wk77_IG_019",
-                "development_label": "Trump fired the last three members of the Election Assistance Commission.",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Every remaining independent commissioner overseeing federal election standards and certification was removed just months before midterms.",
-            "why_exemplary": "Multi-source corroborated events document the complete dismantling of a nonpartisan institutional safeguard central to election integrity.",
-            "exemplar_type": "primary"
-          }
-        ]
-      },
-      {
-        "trait": "ethics",
-        "pattern": "The president continued to profit personally from cryptocurrency ventures, including a memecoin collapse that cost investors billions while he extracted hundreds of millions in fees, and used a foreign-gifted aircraft for a domestic political event.",
-        "severity": "serious",
-        "institutional_response": "Congressional Democrats and media documented the pattern; no regulatory or enforcement response is recorded within the week.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk77_ethics_ex01",
-            "week": 77,
-            "event_ids": [
-              "wk77_ES_006",
-              "wk77_ES_007"
-            ],
-            "developments": [
-              {
-                "development_id": "wk77_ES_006",
-                "development_label": "Trump profited from a memecoin collapse that cost nearly a million investors $3.81 billion.",
+                "development_id": "wk77_CR_013",
+                "development_label": "ICE detained the three eyewitnesses to the shooting at an undisclosed location.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk77_ES_007",
-                "development_label": "Trump disclosed $1.4 billion in family cryptocurrency profits and defended his children's use of insider information.",
-                "role": "secondary"
               }
             ],
-            "summary": "The president personally extracted hundreds of millions in fees from a collapsed cryptocurrency venture while defending family profiteering from privileged access.",
-            "why_exemplary": "Tier-one and multi-source corroborated disclosures make continued self-enrichment through office-adjacent ventures a matter of public record.",
+            "summary": "A federal agent's fatal shooting of an uninvolved resident was followed by detention of the only witnesses, undermining both accountability and evidentiary integrity.",
+            "why_exemplary": "Corroborated by national outlets; the sequence of lethal error followed by witness detention exemplifies institutional self-protection over public accountability.",
             "exemplar_type": "primary"
           },
           {
-            "exemplar_id": "wk77_ethics_ex02",
+            "exemplar_id": "wk77_stewardship_ex02",
             "week": 77,
             "event_ids": [
-              "wk77_PA_006"
+              "wk77_CR_015"
             ],
             "developments": [
               {
-                "development_id": "wk77_PA_006",
-                "development_label": "Trump used a Qatari-gifted aircraft for a flyover at his July 4th event.",
+                "development_id": "wk77_CR_015",
+                "development_label": "DHS Office of Inspector General assigned to investigate the shooting it has jurisdiction over.",
                 "role": "primary"
               }
             ],
-            "summary": "A foreign-gifted jet was deployed for a domestic patriotic display, blending personal financial benefit with an official government event.",
-            "why_exemplary": "Tier-one corroborated reporting documents a recurring emoluments concern involving direct personal use of a foreign gift in a partisan-tinged setting.",
+            "summary": "Internal, non-independent oversight was assigned to review a fatal use of force by the same department, raising doubts about impartiality.",
+            "why_exemplary": "Reflects an institutional design failure: the entity charged with accountability lacks structural independence from the agency under investigation.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
-        "trait": "restraint",
-        "pattern": "Federal agents killed an unarmed bystander during an immigration enforcement stop in Houston, and ICE subsequently detained the only eyewitnesses to the shooting.",
-        "severity": "extreme",
-        "institutional_response": "The FBI and DHS Office of Inspector General opened investigations, though the latter's independence was questioned; community protests and Mexico's announcement of intended criminal charges pressed for accountability.",
+        "trait": "ethics",
+        "pattern": "The president's cryptocurrency ventures generated an estimated $636 million in personal fees while investors in a related memecoin lost $3.81 billion, contributing to a reported $2.2 billion increase in net worth since returning to office.",
+        "severity": "serious",
+        "institutional_response": "No regulator opened an inquiry and no legislative body compelled additional disclosure within the week.",
         "exemplars": [
           {
-            "exemplar_id": "wk77_restraint_ex01",
+            "exemplar_id": "wk77_ethics_ex01",
             "week": 77,
             "event_ids": [
-              "wk77_CR_011",
-              "wk77_CR_012"
+              "wk77_ES_017"
             ],
             "developments": [
               {
-                "development_id": "wk77_CR_011",
-                "development_label": "ICE shot and killed Lorenzo Salgado Araujo, a non-target civilian, during a Houston traffic stop.",
+                "development_id": "wk77_ES_017",
+                "development_label": "Presidential crypto venture profited $636 million as memecoin investors lost $3.81 billion.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk77_CR_012",
-                "development_label": "ICE detained the three eyewitnesses to the Salgado Araujo shooting at an undisclosed location.",
-                "role": "secondary"
               }
             ],
-            "summary": "A fatal mistaken-identity shooting by federal agents was followed by detention of the only witnesses, raising due-process and accountability concerns.",
-            "why_exemplary": "Tier-one corroborated reporting shows lethal use of force followed by apparent control over the evidentiary record needed to assess it.",
+            "summary": "A presidential financial venture extracted substantial personal profit from a scheme in which nearly a million ordinary investors suffered massive losses.",
+            "why_exemplary": "Tier-1 corroborated; represents a direct and quantifiable instance of using presidential visibility for personal financial gain at public expense.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
-        "trait": "truthfulness",
-        "pattern": "The president made incoherent public statements confusing key foreign leaders and nations during active military conflict, falsely claimed credit for settling ongoing wars, and made an unsubstantiated claim of direct contact with a hostile foreign power.",
-        "severity": "concerning",
-        "institutional_response": "Journalists and fact-checkers documented the inaccuracies; a sitting governor publicly questioned the president's mental fitness, but no institutional corrective mechanism is recorded.",
+        "trait": "restraint",
+        "pattern": "The president ordered a halt to all trade with a NATO ally (Spain) over a base-access dispute, publicly criticized core NATO allies while praising Putin and Erdogan, and threatened war crimes and used dehumanizing language against Iran and its population.",
+        "severity": "serious",
+        "institutional_response": "No institutional check within the week; commentary from experts noted potential war-crimes implications of the rhetoric.",
         "exemplars": [
           {
-            "exemplar_id": "wk77_truthfulness_ex01",
+            "exemplar_id": "wk77_restraint_ex01",
             "week": 77,
             "event_ids": [
-              "wk77_PA_008",
-              "wk77_IM_016"
+              "wk77_PA_010",
+              "wk77_PA_015"
             ],
             "developments": [
               {
-                "development_id": "wk77_PA_008",
-                "development_label": "Trump made incoherent statements confusing Iran with Japan and Zelensky with Putin.",
+                "development_id": "wk77_PA_010",
+                "development_label": "Order to cut off all trade with Spain over a NATO base-access dispute.",
                 "role": "primary"
               },
               {
-                "development_id": "wk77_IM_016",
-                "development_label": "Trump falsely claimed to have settled eight wars, including conflicts that remain ongoing.",
-                "role": "secondary"
+                "development_id": "wk77_PA_015",
+                "development_label": "Threats of war crimes and dehumanizing rhetoric against Iran at the NATO summit.",
+                "role": "primary"
               }
             ],
-            "summary": "Public confusion about basic foreign-policy facts during active conflict was paired with fabricated claims of diplomatic achievement.",
-            "why_exemplary": "Multi-source and tier-one corroborated reporting document substantive factual distortion on matters of urgent public consequence.",
+            "summary": "Impulsive economic coercion against an ally and public threats of unlawful military conduct against a foreign population both reflect abandonment of diplomatic and legal self-limitation.",
+            "why_exemplary": "Both tier-1/multi-source corroborated; together they demonstrate willingness to escalate unilaterally against both allies and adversaries without regard to legal or alliance norms.",
             "exemplar_type": "primary"
           }
         ]
@@ -229,110 +223,141 @@
     "norms_strengthened": [
       {
         "trait": "good_faith",
-        "pattern": "Courts continued to enforce compliance with the E. Jean Carroll civil judgment despite repeated delay tactics, and a federal appeals court rejected the administration's bid to pause removal of Trump's name from the Kennedy Center.",
+        "pattern": "A bipartisan housing bill became law automatically after the president withheld his signature as leverage to force passage of unrelated voter-restriction legislation, demonstrating that the constitutional mechanism functioned despite attempted obstruction.",
         "scope": "institutional",
-        "why_it_matters": "Judicial insistence on compliance with final judgments and rejection of unsupported claims used to overturn adverse rulings demonstrates that legal accountability still binds powerful figures despite sustained resistance.",
+        "why_it_matters": "This shows that legislative outcomes cannot be unilaterally held hostage by the executive for unrelated policy demands, preserving the separation of powers in practice.",
         "exemplars": [
           {
-            "exemplar_id": "wk77_goodfaith_strength_ex01",
+            "exemplar_id": "wk77_good_faith_strength_ex01",
             "week": 77,
             "event_ids": [
-              "wk77_IG_012",
-              "wk77_IG_013"
+              "wk77_IG_040",
+              "wk77_PA_014"
             ],
             "developments": [
               {
-                "development_id": "wk77_IG_012",
-                "development_label": "Judge Lewis Kaplan ordered release of $5.8 million in judgment funds to E. Jean Carroll.",
+                "development_id": "wk77_IG_040",
+                "development_label": "Bipartisan housing bill became law without presidential signature.",
                 "role": "primary"
               },
               {
-                "development_id": "wk77_IG_013",
-                "development_label": "The Second Circuit rejected Trump's emergency bid to delay the Carroll payment.",
+                "development_id": "wk77_PA_014",
+                "development_label": "President withheld signature to pressure Senate passage of the SAVE America Act.",
                 "role": "secondary"
               }
             ],
-            "summary": "Federal courts enforced a long-delayed civil judgment against the president after repeated attempts to postpone compliance.",
-            "why_exemplary": "Multi-source corroborated rulings show judicial capacity to compel compliance from a sitting president who sought to evade a final judgment.",
+            "summary": "Despite an attempt to leverage popular legislation for unrelated political demands, the housing bill became law through the ordinary constitutional process.",
+            "why_exemplary": "Multi-source corroborated; a clear instance of institutional design overriding an attempted executive obstruction tactic.",
             "exemplar_type": "primary"
-          },
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "Federal courts repeatedly rejected the administration's attempts to delay or reverse enforcement of civil judgments and prior rulings, including the Carroll judgment, the Kennedy Center naming case, and a voter-data system injunction.",
+        "scope": "institutional",
+        "why_it_matters": "Consistent judicial enforcement against a sitting president's delay tactics demonstrates that no one, including the executive, is above court-ordered obligations.",
+        "exemplars": [
           {
-            "exemplar_id": "wk77_goodfaith_strength_ex02",
+            "exemplar_id": "wk77_restraint_strength_ex01",
             "week": 77,
             "event_ids": [
-              "wk77_IG_011"
+              "wk77_IG_023",
+              "wk77_IG_034"
             ],
             "developments": [
               {
-                "development_id": "wk77_IG_011",
-                "development_label": "A federal appeals court rejected the administration's bid to pause removal of Trump's name from the Kennedy Center.",
+                "development_id": "wk77_IG_023",
+                "development_label": "Judge Kaplan ordered release of the $5.8 million Carroll judgment, rejecting further delay.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk77_IG_034",
+                "development_label": "Second Circuit rejected an emergency request to further delay the payment.",
                 "role": "primary"
               }
             ],
-            "summary": "A unanimous panel found no evidentiary support for the administration's claims, preserving a lower-court naming ruling against executive pressure.",
-            "why_exemplary": "Tier-one corroborated ruling shows judicial independence resisting an unsubstantiated attempt to overturn an institutional decision.",
+            "summary": "Two consecutive judicial rulings enforced a civil judgment against the president after exhaustive delay tactics, confirming that legal remedies remain effective.",
+            "why_exemplary": "Multi-source corroborated at both district and appellate levels; demonstrates sustained judicial resistance to obstruction by a sitting president.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk77_restraint_strength_ex02",
+            "week": 77,
+            "event_ids": [
+              "wk77_IG_024"
+            ],
+            "developments": [
+              {
+                "development_id": "wk77_IG_024",
+                "development_label": "D.C. Circuit rejected the administration's bid to pause removal of Trump's name from the Kennedy Center.",
+                "role": "primary"
+              }
+            ],
+            "summary": "An appeals court found no evidentiary support for the administration's claims and refused to block a lower court's ruling.",
+            "why_exemplary": "Tier-1 corroborated; illustrates judicial insistence on evidence over assertion when reviewing executive claims of harm.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
-        "trait": "character",
-        "pattern": "The 11th Circuit struck down the higher-education provision of Florida's Stop Woke Act, reaffirming academic freedom protections against state ideological control of classroom discourse.",
+        "trait": "stewardship",
+        "pattern": "A federal appeals court struck down the higher-education speech-restriction provision of a state's law, reaffirming academic freedom protections against state overreach.",
         "scope": "institutional",
-        "why_it_matters": "Defending the boundary between public authority and permissible restriction on speech and inquiry preserves space for institutions to serve their intended public function rather than partisan messaging.",
+        "why_it_matters": "Protecting academic speech from state-mandated ideological restriction preserves an institutional space essential to open inquiry and long-term democratic health.",
         "exemplars": [
           {
-            "exemplar_id": "wk77_character_ex01",
+            "exemplar_id": "wk77_stewardship_strength_ex01",
             "week": 77,
             "event_ids": [
-              "wk77_IG_007"
+              "wk77_IG_015"
             ],
             "developments": [
               {
-                "development_id": "wk77_IG_007",
-                "development_label": "The 11th Circuit struck down the higher-education provision of Florida's Stop Woke Act.",
+                "development_id": "wk77_IG_015",
+                "development_label": "Eleventh Circuit struck down the Stop Woke Act's higher-education speech restrictions.",
                 "role": "primary"
               }
             ],
-            "summary": "A federal appeals panel found the law's restriction on professors' speech regarding race and gender unconstitutional.",
-            "why_exemplary": "A concrete judicial check on state overreach into academic discourse, reaffirming institutional purpose over ideological control.",
+            "summary": "A federal appellate court found the state law unconstitutionally restricted professors' speech, restoring academic-freedom protections.",
+            "why_exemplary": "Tier-1 corroborated via court record; a durable legal precedent protecting institutional independence from state ideological control.",
             "exemplar_type": "primary"
           }
         ]
       }
     ],
-    "direction_of_movement": "eroding"
+    "direction_of_movement": "mixed_but_stable"
   },
   "cumulative_condition": {
-    "narrative": "Week 77 extends the trajectory documented through Week 76, in which discrete breaches have increasingly given way to structural, mutually reinforcing pressure across multiple domains. The elimination of the Election Assistance Commission's remaining commissioners is not merely one more removal; combined with DOJ threats of prosecution against state election officials and targeted deployment of federal monitors, it represents the near-complete disassembly of independent federal oversight of election administration ahead of a midterm cycle. This follows directly from the prior week's expansion of executive removal power over independent agencies, suggesting the pattern identified then is now being operationalized against a specific and consequential target.\n\nThe Houston shooting and subsequent detention of witnesses mark an escalation in the human cost and epistemic danger of aggressive immigration enforcement. Where prior weeks documented mass arrests and detention buildout as a widening of state reach, this week showed the lethal endpoint of that reach and a troubling willingness to control the evidence needed to assess accountability for it, echoing the DOJ's noncompliance with court-ordered document production noted in Week 76. Financial self-dealing continued in familiar form, with cryptocurrency profits and use of a foreign-gifted aircraft sustaining the ethics concerns flagged previously, again without any documented regulatory or legislative response.\n\nCountervailing this, the judiciary continued to supply the most consistent resistance: enforcement of the Carroll judgment despite repeated delay, rejection of unsupported claims in the Kennedy Center dispute, and a strong appellate defense of academic speech against state ideological control. Congress also demonstrated some residual capacity, allowing the housing bill to become law despite presidential noncooperation. These are real but narrow checks operating within a system where the executive increasingly acts first and explains later, if at all. The overall trend remains one of deterioration, with the moral floor sustained mainly by judicial and, to a lesser extent, legislative resistance rather than by any renewed executive self-restraint.",
+    "narrative": "Week 77 continues the trajectory of structural and financial erosion documented in Week 76, while showing that judicial resistance persists on specific, narrow fronts rather than reversing the broader trend. Where the prior week's central rupture was the operationalization of expanded removal power over independent agencies, this week's most consequential development was less structural but no less severe: the killing of an uninvolved civilian by federal immigration agents, followed by detention of the only witnesses and assignment of the case to non-independent internal oversight. This event, together with coordinated DOJ pressure on state election officials and targeted deployment of election monitors, indicates that executive power continues to expand its practical reach into areas — lethal enforcement and election administration — where independent checks are weakest.\n\nAt the same time, the pattern of narrow judicial resistance identified in Week 76 persisted this week with comparable strength. Courts forced compliance with a civil judgment against the president despite repeated delay tactics, rejected an unsupported reversal attempt in the Kennedy Center case, and struck down a state law restricting academic speech. Congress's structural design also functioned as intended when a bipartisan housing bill became law despite an attempted presidential veto-by-signature-withholding. These are meaningful, if narrow, confirmations that legal and constitutional mechanisms retain some operative capacity.\n\nThe financial self-dealing pattern from Week 76 persisted essentially unchanged: continued crypto profits accruing personally to the president while ordinary investors bore substantial losses, with no regulatory or legislative response. Combined with rhetoric equating political opponents with existential threats and continued blurring of civic commemoration with campaign messaging, the cumulative picture remains one of erosion on power, truthfulness, and accountability fronts, offset by persistent but insufficient institutional resistance. The overall trend remains deteriorating, though this week's balance of opposing forces prevented further acceleration.",
     "trend": "deteriorating",
     "stress_points": [
-      "elimination of independent federal election oversight ahead of midterms",
-      "federal prosecutorial threats against state election officials",
-      "lethal immigration enforcement paired with detention of eyewitnesses",
-      "continued personal financial self-dealing via cryptocurrency and foreign gifts",
-      "legislative hostage-taking to force voter-restriction legislation",
-      "erosion of factual public discourse through incoherent and false presidential statements"
+      "unaccountable lethal force by federal immigration agents",
+      "non-independent oversight of agency use-of-force incidents",
+      "coercive federal pressure on state election administration ahead of midterms",
+      "continued personal financial enrichment through unregulated crypto ventures",
+      "blending of nonpartisan national commemoration with partisan campaign messaging",
+      "unilateral economic and rhetorical escalation against allies and adversaries"
     ],
     "sources_of_resilience": [
-      "judicial enforcement of civil judgments against the president",
-      "appellate rejection of unsupported claims in institutional naming disputes",
-      "circuit court defense of academic freedom against state speech restrictions",
-      "congressional enactment of legislation despite presidential noncooperation",
-      "sustained community protest and demand for accountability after fatal enforcement incident",
-      "foreign government pressure (Mexico) for accountability over enforcement deaths"
+      "sustained judicial enforcement of civil judgments against the president",
+      "appellate defense of academic freedom against state overreach",
+      "constitutional mechanism allowing legislation to become law despite presidential obstruction",
+      "civil society mobilization demanding independent investigation of lethal force",
+      "congressional demands for evidence preservation and accountability",
+      "continued judicial willingness to block administration actions in parallel litigation"
     ]
   },
   "risk_assessment": {
-    "level": "severe",
-    "justification": "The moral floor remains severely stressed, with this week's dismantling of the Election Assistance Commission converting a structural vulnerability flagged previously into a concrete, midterm-relevant loss of oversight capacity. Combined with DOJ prosecutorial threats against election officials and targeted federal monitor deployment, the machinery of nonpartisan election administration has been substantially weakened at a moment when its independence matters most. The Houston shooting and subsequent witness detention raise the additional concern that state power is being used not only to act with lethal force but to control the record of that action, undermining the truth-finding processes on which accountability depends. These developments are only partially offset by continued judicial enforcement of civil judgments and defense of institutional boundaries, which, while real, remain bounded exceptions within a broader pattern of executive assertion outpacing institutional check.",
+    "level": "critical",
+    "justification": "The moral floor remains critically compromised. The killing of an uninvolved civilian by federal agents, followed by detention of witnesses and assignment of oversight to a non-independent internal body, represents a severe breach of stewardship and accountability with life-and-death stakes and no confirmed independent remedy. Combined with coordinated federal pressure on state election officials and targeted monitor deployment ahead of the midterms, the week shows continued executive encroachment into domains — lethal enforcement and election administration — where institutional checks are structurally weakest. Financial self-dealing continues without regulatory response, and rhetoric at the highest level continues to blur constitutional norms around commemoration, campaign messaging, and term limits. Judicial resistance remains real but narrow, sufficient to force compliance with specific judgments and preserve specific precedents, but not sufficient to reverse the broader pattern of executive assertion documented across recent weeks.",
     "forward_signals": [
-      "whether DOJ prosecutorial threats against election officials escalate into actual charges or chilling effects on administration",
-      "whether independent investigations into the Houston shooting proceed without further obstruction",
-      "whether Congress or courts respond to the Election Assistance Commission's effective dissolution",
-      "whether reconciliation maneuvering to pass voter-restriction legislation advances",
-      "whether further legislative hostage-taking tactics recur on unrelated bipartisan legislation",
-      "whether cryptocurrency self-dealing draws any regulatory or congressional response"
+      "whether an independent (non-DHS) investigation into the Houston shooting materializes",
+      "whether the DOJ's fifty-state prosecution threats produce any legal challenge or retraction",
+      "whether election monitor deployment expands or draws formal legal challenge before the midterms",
+      "whether any regulatory or legislative action addresses the president's crypto-related profits",
+      "whether further NATO allies face retaliatory economic measures",
+      "whether witness detention in the Houston case results in deportation before testimony can be preserved"
     ]
   }
 }

@@ -5,8 +5,8 @@
     "start": "2026-06-27",
     "end": "2026-07-03"
   },
-  "clock_time_public": "7:41 p.m.",
-  "clock_delta_minutes": -0.2,
+  "clock_time_public": "7:36 p.m.",
+  "clock_delta_minutes": 0.0,
   "baseline_traits": [
     {
       "name": "character",
@@ -34,202 +34,222 @@
     }
   ],
   "weekly_audit": {
-    "summary": "Week 76 was defined by fusion rather than singular rupture: personal branding, financial self-enrichment, and executive discretion converged across passport imagery, park renovations, crypto disclosures, and no-bid contracts, while the Supreme Court's removal of Humphrey's Executor protections handed the presidency a durable structural gain. Ethics and stewardship absorbed the heaviest damage, as documented family financial ties to federal contracts and a $2.2 billion personal disclosure made self-dealing impossible to characterize as coincidental. Good faith suffered from housing-bill hostage-taking and DOJ defiance of a court order, while truthfulness was strained by deleted crowd photos and inflammatory disinformation following the birthright citizenship ruling. Countervailing this, courts preserved birthright citizenship, mail-ballot access, geofence privacy protections, and Lisa Cook's tenure, and a Republican senator publicly rebuked the president's treatment of Congress as an 'appendage,' showing that resistance persisted even as the overall direction hardened.",
+    "summary": "Week 76 was dominated by a single Supreme Court sitting that overturned Humphrey's Executor, granting the president at-will removal power over independent agency heads and permanently narrowing institutional insulation from political control. This structural breach in restraint was accompanied by a dense pattern of self-enrichment (record presidential crypto income, family defense-contractor investments, an undisclosed $50 million loan, apparent trading ahead of a tariff announcement), symbolic misuse of public resources (a presidential-portrait passport, tree removals matched to a presidential number, diverted park funds, a public golf course redevelopment), and continued pressure on truthfulness (inflated crowd claims, deleted unflattering photos, sanitized history exhibits). Countervailing forces were substantial: courts blocked a Fed governor's removal, upheld birthright citizenship, protected mail-ballot access, expanded Fourth Amendment digital privacy, and a sitting Republican senator publicly rebuked the president over war-powers consultation. The week is best read not as uniform collapse but as accelerating consolidation on the structural and financial fronts, met by uneven but real resistance on rights and process fronts.",
     "norms_broken": [
       {
+        "trait": "restraint",
+        "pattern": "The Supreme Court's ruling in Trump v. Slaughter eliminated a ninety-year-old restraint on presidential removal of independent agency heads, and the administration immediately celebrated the ruling as an expansion of personal power while separately building a White House-run shadow system operating outside statutory agency oversight.",
+        "severity": "extreme",
+        "institutional_response": "No institutional body reversed or constrained the ruling within the week; the president publicly embraced its broadest implications, and the parallel National Design Studio infrastructure continued to expand without inspector-general or statutory oversight.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk76_restraint_ex01",
+            "week": 76,
+            "event_ids": [
+              "wk76_PA_006",
+              "wk76_PA_007"
+            ],
+            "developments": [
+              {
+                "development_id": "wk76_PA_006",
+                "development_label": "SCOTUS ruled in Trump v. Slaughter to expand presidential power to remove independent agency officials.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk76_PA_007",
+                "development_label": "Trump publicly celebrated the ruling as overturning 90 years of precedent and expanding his power.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A ninety-year precedent shielding independent agency leaders from at-will removal was overturned, and the president openly celebrated the resulting concentration of authority.",
+            "why_exemplary": "Tier-1 corroborated across multiple outlets; a durable structural change converting independent oversight bodies into instruments answerable to political loyalty, confirmed by the president's own framing of intent.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk76_restraint_ex02",
+            "week": 76,
+            "event_ids": [
+              "wk76_PA_003"
+            ],
+            "developments": [
+              {
+                "development_id": "wk76_PA_003",
+                "development_label": "The National Design Studio built and operated parallel federal websites outside normal agency control.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A White House-run shadow system handling passport, login, and financial data for millions of citizens operates outside statutory privacy, disclosure, and spending oversight.",
+            "why_exemplary": "Multi-source corroborated; illustrates unrestrained executive expansion into functions statutorily assigned to independent agencies, with no public accountability mechanism.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
         "trait": "ethics",
-        "pattern": "Federal contracting and financial disclosures revealed extensive overlap between public office and Trump family financial interests, including $8.9 billion in funding tied to Trump and Lutnick family companies, a $2.2 billion personal income disclosure including $1.4 billion from crypto, and family-linked defense-contractor investments tied to $3.7 billion in federal funds.",
-        "severity": "serious",
-        "institutional_response": "A Senate committee voted along party lines against barring presidential crypto holdings; a House Democratic subcommittee documented the pattern in a report, but no binding enforcement action is recorded within the week.",
+        "pattern": "Presidential financial disclosures revealed $2.2 billion in income largely from crypto ventures the administration itself regulates, alongside family investments in defense contractors receiving billions in federal funds, an undisclosed $50 million loan, and apparent stock trading ahead of a market-moving tariff announcement, while the Senate rejected a party-line amendment barring officials from holding crypto businesses.",
+        "severity": "extreme",
+        "institutional_response": "The Senate banking committee voted down a proposed conflict-of-interest safeguard along party lines; no other institutional check intervened within the week.",
         "exemplars": [
           {
             "exemplar_id": "wk76_ethics_ex01",
             "week": 76,
             "event_ids": [
-              "wk76_ES_009",
-              "wk76_ES_013"
+              "wk76_ES_020",
+              "wk76_ES_024"
             ],
             "developments": [
               {
-                "development_id": "wk76_ES_009",
-                "development_label": "Federal funding directed over $8.9 billion toward companies with ties to Trump and Lutnick families.",
+                "development_id": "wk76_ES_020",
+                "development_label": "Trump earned $2.2 billion in income during the first year of his second term, largely from crypto ventures.",
                 "role": "primary"
               },
               {
-                "development_id": "wk76_ES_013",
-                "development_label": "Trump's financial disclosure revealed $2.2 billion in 2025 income, including $1.4 billion from crypto ventures.",
-                "role": "secondary"
+                "development_id": "wk76_ES_024",
+                "development_label": "Senate banking committee voted down an amendment barring the president and Congress from owning crypto businesses.",
+                "role": "primary"
               }
             ],
-            "summary": "Federal disclosures and reporting documented billions in taxpayer-linked funding and personal earnings flowing through family and administration-connected ventures.",
-            "why_exemplary": "Tier-one corroborated disclosures make the scale of self-enrichment a matter of public record rather than allegation, illustrating systemic conflict of interest.",
+            "summary": "Disclosed presidential crypto income arrived in the same week the Senate rejected a safeguard against exactly this conflict of interest, on a party-line vote.",
+            "why_exemplary": "Tier-1 and multi-source corroborated; direct evidence that the legislature had an opportunity to close a glaring self-enrichment channel and declined.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk76_ethics_ex02",
             "week": 76,
             "event_ids": [
-              "wk76_ES_011",
-              "wk76_ES_017"
+              "wk76_ES_021",
+              "wk76_ES_019"
             ],
             "developments": [
               {
-                "development_id": "wk76_ES_011",
-                "development_label": "Senate banking committee voted along party lines against barring presidential crypto ownership.",
+                "development_id": "wk76_ES_021",
+                "development_label": "Trump purchased stocks the day before announcing a tariff pause that caused a historic market rally.",
                 "role": "primary"
               },
               {
-                "development_id": "wk76_ES_017",
-                "development_label": "Trump Jr. and Eric Trump linked to investments in defense contractors receiving $3.7 billion in federal funds.",
+                "development_id": "wk76_ES_019",
+                "development_label": "Trump family took a 20% stake in a mining venture connected to a federally brokered Kazakhstan deal.",
                 "role": "secondary"
               }
             ],
-            "summary": "A party-line vote blocked conflict-of-interest safeguards while family members profited from defense contracting tied to administration policy.",
-            "why_exemplary": "Combines legislative refusal to install safeguards with concrete reporting on family financial exposure to federal procurement decisions.",
+            "summary": "Disclosed trading ahead of a self-announced market-moving policy shift, alongside family equity stakes tied to a federally brokered foreign deal, present acute conflicts between private gain and public office.",
+            "why_exemplary": "Multi-source corroborated; the timing and disclosure delay mirror patterns normally associated with insider trading scrutiny in private markets.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
-        "trait": "good_faith",
-        "pattern": "The president conditioned a bipartisan housing bill on passage of a voter ID law, and the Department of Justice refused to comply with a federal judge's order to produce Epstein files documents.",
-        "severity": "serious",
-        "institutional_response": "The housing bill became law automatically without his signature, showing legislative resilience; DOJ's noncompliance with the court order remained unresolved within the week.",
+        "trait": "character",
+        "pattern": "Public resources and symbols of state were repeatedly repurposed for personal glorification: a presidential-portrait passport, tree removal in Lafayette Square tied to a presidential number, diversion of park safety funds toward White House beautification, and a proposed golf-course redevelopment on public land.",
+        "severity": "concerning",
+        "institutional_response": "Congressional Democrats issued a report alleging systemic corruption in the 250th anniversary program; the Senate had separately rejected the outsized D.C. beautification budget request, but no broader corrective action occurred within the week.",
         "exemplars": [
           {
-            "exemplar_id": "wk76_goodfaith_ex01",
+            "exemplar_id": "wk76_character_ex01",
             "week": 76,
             "event_ids": [
-              "wk76_PA_010"
+              "wk76_PA_001",
+              "wk76_ES_002"
             ],
             "developments": [
               {
-                "development_id": "wk76_PA_010",
-                "development_label": "Trump declined to commit to signing a bipartisan housing bill unless Congress passed a voter ID law he favored.",
-                "role": "primary"
-              }
-            ],
-            "summary": "Presidential leverage conditioned approval of unrelated bipartisan legislation on passage of a partisan electoral measure.",
-            "why_exemplary": "Multi-source corroborated reporting documents legislative hostage-taking as a repeated tactic, defeating the purpose of bicameral deliberation on an unrelated matter.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk76_goodfaith_ex02",
-            "week": 76,
-            "event_ids": [
-              "wk76_IG_025"
-            ],
-            "developments": [
-              {
-                "development_id": "wk76_IG_025",
-                "development_label": "DOJ refused to comply with a federal judge's order to produce Epstein files documents.",
-                "role": "primary"
-              }
-            ],
-            "summary": "The executive branch declined to obey a judicial order for document production, testing the enforceability of court authority.",
-            "why_exemplary": "Multi-source corroborated reporting shows direct defiance of a court order, a foundational breach of adherence to judicial process.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
-        "trait": "stewardship",
-        "pattern": "The administration diverted National Park Service funding from over 900 projects toward White House and D.C. personal projects, dismantled USAID's disaster-response capacity, and routed $68 million through an allied contractor for July 4th celebrations without apparent competitive process.",
-        "severity": "serious",
-        "institutional_response": "Reporting exposed the diversions; no legislative or judicial correction is documented within the week beyond a separate no-bid contract lawsuit.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk76_stewardship_ex01",
-            "week": 76,
-            "event_ids": [
-              "wk76_ES_003",
-              "wk76_ES_005"
-            ],
-            "developments": [
-              {
-                "development_id": "wk76_ES_003",
-                "development_label": "Trump administration diverted funding from over 900 National Park Service projects to White House and D.C. personal projects.",
+                "development_id": "wk76_PA_001",
+                "development_label": "White House unveiled a commemorative passport featuring Trump's portrait and signature.",
                 "role": "primary"
               },
               {
-                "development_id": "wk76_ES_005",
-                "development_label": "Trump proposed a $10 billion Washington beautification project alongside a 31 percent cut to National Park Service staff.",
-                "role": "secondary"
+                "development_id": "wk76_ES_002",
+                "development_label": "Administration diverted National Park Service funding from over 900 safety projects toward White House beautification.",
+                "role": "primary"
               }
             ],
-            "summary": "Congressionally appropriated maintenance and safety funds were redirected to capital-city vanity projects while park staffing was slashed.",
-            "why_exemplary": "Tier-one corroborated reporting documents a direct trade-off between public safety infrastructure and executive self-commemoration.",
+            "summary": "An official travel document was redesigned around the president's personal image while appropriated public-safety funds were redirected to executive vanity projects.",
+            "why_exemplary": "Both tier-1 corroborated; together illustrate a pattern of blurring state identity with personal branding at direct cost to public infrastructure maintenance.",
             "exemplar_type": "primary"
           },
           {
-            "exemplar_id": "wk76_stewardship_ex02",
+            "exemplar_id": "wk76_character_ex02",
             "week": 76,
             "event_ids": [
-              "wk76_PA_005",
-              "wk76_ES_018"
+              "wk76_PA_002",
+              "wk76_ES_026"
             ],
             "developments": [
               {
-                "development_id": "wk76_PA_005",
-                "development_label": "Trump administration dismantled USAID and consolidated disaster assistance under the State Department.",
+                "development_id": "wk76_PA_002",
+                "development_label": "Trump ordered reduction of trees in Lafayette Square to match his presidency number.",
                 "role": "primary"
               },
               {
-                "development_id": "wk76_ES_018",
-                "development_label": "The administration used $68 million in taxpayer funds through an allied contractor to produce the July 4 celebration.",
+                "development_id": "wk76_ES_026",
+                "development_label": "Trump proposed redevelopment of a public golf course using public funds.",
                 "role": "secondary"
               }
             ],
-            "summary": "Institutional capacity for humanitarian response was gutted even as taxpayer funds flowed to politically connected contractors for celebratory spectacle.",
-            "why_exemplary": "Shows a consistent pattern of weakening durable institutional capacity while directing resources toward symbolic and politically proximate ends.",
+            "summary": "A historic public park was altered to reflect a personal numerical milestone, and public parkland was proposed for conversion toward a private-style golf venture.",
+            "why_exemplary": "Illustrates recurring appropriation of shared public spaces for self-referential purposes, a pattern consistent across multiple independently reported events this week.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "White House officials deleted aerial images showing sparse crowds at a presidential speech, and prominent commentators spread inflammatory or extreme rhetoric, including calls for sterilization of foreign visitors, following the birthright citizenship ruling.",
+        "pattern": "The administration and allied media continued to manufacture or amplify unverified narratives, including inflated crowd-size claims later contradicted by deleted photographic evidence, and framing of adverse court rulings as fabricated persecution.",
         "severity": "concerning",
-        "institutional_response": "Media reporting exposed the photo deletion; no official correction or accountability measure is documented.",
+        "institutional_response": "Fox News issued at least one on-air retraction; no administration correction occurred regarding crowd-size or deleted-photo reporting.",
         "exemplars": [
           {
             "exemplar_id": "wk76_truthfulness_ex01",
             "week": 76,
             "event_ids": [
-              "wk76_IM_011"
+              "wk76_IM_010",
+              "wk76_IM_012"
             ],
             "developments": [
               {
-                "development_id": "wk76_IM_011",
-                "development_label": "White House officials deleted aerial images showing sparse crowds at Trump's National Mall speech.",
-                "role": "primary"
-              }
-            ],
-            "summary": "Official documentation contradicting the administration's preferred narrative was deleted rather than corrected or acknowledged.",
-            "why_exemplary": "Multi-source corroborated reporting shows active suppression of factual public records to manage perception.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk76_truthfulness_ex02",
-            "week": 76,
-            "event_ids": [
-              "wk76_IM_008",
-              "wk76_IM_009"
-            ],
-            "developments": [
-              {
-                "development_id": "wk76_IM_008",
-                "development_label": "Sean Davis published extreme proposals including sterilization of foreign visitors in reaction to the birthright citizenship ruling.",
+                "development_id": "wk76_IM_010",
+                "development_label": "Trump posted unsubstantiated claims about a commemorative fair's success and attendance.",
                 "role": "primary"
               },
               {
-                "development_id": "wk76_IM_009",
-                "development_label": "Stephen Miller made inflammatory statements framing birthright citizenship as enabling immigrants to 'seize' citizens' inheritance.",
+                "development_id": "wk76_IM_012",
+                "development_label": "White House officials deleted aerial images of sparse crowds from a Trump rally.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Inflated attendance claims were followed by deletion of official photographic evidence documenting the actual, sparser turnout.",
+            "why_exemplary": "Multi-source corroborated; demonstrates active suppression of factual records to sustain a manufactured public narrative, beyond simple exaggeration.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "USAID was dismantled and disaster-response functions folded into the State Department, federal websites handling passport and identity data were rebuilt outside disclosure requirements, and appellate courts allowed continued removal of climate, slavery, and immigration content from national park materials.",
+        "severity": "serious",
+        "institutional_response": "Courts largely deferred to executive discretion on historical content removal; no restoration of USAID capacity occurred within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk76_stewardship_ex01",
+            "week": 76,
+            "event_ids": [
+              "wk76_PA_004",
+              "wk76_IG_031"
+            ],
+            "developments": [
+              {
+                "development_id": "wk76_PA_004",
+                "development_label": "Trump administration dismantled USAID and moved disaster assistance functions under the State Department.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk76_IG_031",
+                "development_label": "First Circuit ruled the administration need not reinstate removed climate, immigration, and slavery materials from national parks.",
                 "role": "secondary"
               }
             ],
-            "summary": "Prominent figures responded to a constitutional ruling with inflammatory, unsubstantiated rhetoric designed to delegitimize the outcome.",
-            "why_exemplary": "Multi-source corroborated reporting documents rhetoric that manufactures alarm and distorts a settled constitutional decision for political effect.",
+            "summary": "Institutional capacity for humanitarian response and public historical accuracy both eroded, one through agency dismantlement and one through appellate deference.",
+            "why_exemplary": "Tier-1 corroborated; together these reflect a broader diminishment of durable institutional capacity affecting both foreign disaster response and domestic civic memory.",
             "exemplar_type": "secondary"
           }
         ]
@@ -237,92 +257,89 @@
     ],
     "norms_strengthened": [
       {
-        "trait": "good_faith",
-        "pattern": "The Supreme Court struck down the administration's attempt to end birthright citizenship, upheld mail-ballot counting rules against an RNC challenge, and a federal judge blocked a USPS plan conditioning mail-ballot delivery on states sharing voter rolls.",
-        "scope": "institutional",
-        "why_it_matters": "Preserving core constitutional guarantees and mail-voting access against sustained executive and partisan pressure demonstrates that judicial checks retain real force even amid broader structural erosion elsewhere.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk76_goodfaith_strength_ex01",
-            "week": 76,
-            "event_ids": [
-              "wk76_IG_012"
-            ],
-            "developments": [
-              {
-                "development_id": "wk76_IG_012",
-                "development_label": "SCOTUS struck down Trump's executive order attempting to end birthright citizenship in a narrow ruling.",
-                "role": "primary"
-              }
-            ],
-            "summary": "The Court preserved a foundational constitutional guarantee against executive redefinition of citizenship, despite a narrow margin.",
-            "why_exemplary": "Tier-one corroborated ruling shows the judiciary constraining an attempt to unilaterally rewrite a core constitutional right.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk76_goodfaith_strength_ex02",
-            "week": 76,
-            "event_ids": [
-              "wk76_IG_010",
-              "wk76_IG_016"
-            ],
-            "developments": [
-              {
-                "development_id": "wk76_IG_010",
-                "development_label": "SCOTUS rejected the RNC's challenge and upheld state laws counting mail ballots postmarked by Election Day.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk76_IG_016",
-                "development_label": "Judge Emmet Sullivan blocked a USPS plan conditioning mail-ballot delivery on states sharing voter rolls.",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Courts twice protected mail-voting access against partisan efforts to narrow ballot counting and delivery windows.",
-            "why_exemplary": "Tier-one corroborated rulings show consistent judicial defense of voting access against coordinated federal and partisan pressure.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
         "trait": "restraint",
-        "pattern": "The Supreme Court blocked Trump's removal of Federal Reserve Governor Lisa Cook on procedural grounds, and a Republican senator publicly accused the president of treating Congress as 'merely an appendage.'",
-        "scope": "cross-partisan",
-        "why_it_matters": "Preserving procedural protection for an independent official and voicing intra-party objection to executive overreach shows that self-limitation, even if narrow, has not been entirely abandoned.",
+        "pattern": "A 5-4 Supreme Court ruling blocked Trump's removal of Federal Reserve Governor Lisa Cook pending required procedural protections, and a district court separately affirmed that the president lacked constitutional authority to remove her without cause.",
+        "scope": "institutional",
+        "why_it_matters": "Even as the broader removal-power precedent fell, courts drew a narrower but real line protecting a specific independent official from immediate removal, preserving some judicial capacity to check executive personnel actions during litigation.",
         "exemplars": [
           {
             "exemplar_id": "wk76_restraint_strength_ex01",
             "week": 76,
             "event_ids": [
-              "wk76_IG_005"
+              "wk76_IG_006",
+              "wk76_IG_022"
             ],
             "developments": [
               {
-                "development_id": "wk76_IG_005",
-                "development_label": "SCOTUS blocked Trump's removal of Federal Reserve Governor Lisa Cook, ruling he failed to provide required procedural protections.",
+                "development_id": "wk76_IG_006",
+                "development_label": "SCOTUS blocked Trump's removal of Federal Reserve Board member Lisa Cook.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk76_IG_022",
+                "development_label": "U.S. District Court ruled Trump lacked constitutional authority to fire Lisa Cook without required procedural protections.",
                 "role": "primary"
               }
             ],
-            "summary": "A narrow ruling preserved procedural safeguards protecting an independent agency official from unilateral removal.",
-            "why_exemplary": "Tier-one corroborated ruling demonstrates a concrete limit on executive removal power despite the same week's broader expansion of that power.",
+            "summary": "Courts at two levels protected a Federal Reserve governor from removal pending due process, even as the broader removal-power doctrine was being dismantled the same week.",
+            "why_exemplary": "Native tier-1 corroborated; demonstrates that specific, procedurally grounded judicial resistance to executive personnel actions can still succeed even amid larger structural erosion.",
             "exemplar_type": "primary"
-          },
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "The Supreme Court rejected the RNC's challenge to state mail-ballot counting rules, and a federal judge separately blocked a USPS plan conditioning mail-ballot delivery on states sharing voter rolls with the federal government.",
+        "scope": "institutional",
+        "why_it_matters": "Protecting established mail-voting procedures against a coordinated litigation and administrative effort preserves ballot access for hundreds of thousands of voters ahead of the midterms.",
+        "exemplars": [
           {
-            "exemplar_id": "wk76_restraint_strength_ex02",
+            "exemplar_id": "wk76_good_faith_strength_ex01",
             "week": 76,
             "event_ids": [
-              "wk76_IG_020"
+              "wk76_IG_014",
+              "wk76_IG_033"
             ],
             "developments": [
               {
-                "development_id": "wk76_IG_020",
+                "development_id": "wk76_IG_014",
+                "development_label": "SCOTUS rejected the RNC's challenge to state laws counting mail-in ballots postmarked by Election Day.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk76_IG_033",
+                "development_label": "Judge Sullivan blocked a USPS plan to deny mail-ballot delivery to states not sharing voter rolls with the federal government.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Two independent judicial actions preserved mail-ballot access against separate attempts to restrict counting rules and delivery mechanisms.",
+            "why_exemplary": "Native tier-1 corroborated; demonstrates sustained judicial defense of election mechanics on multiple fronts within a single week.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "A sitting Republican senator publicly accused the president of treating Congress as 'merely an appendage' over lack of consultation on military action, signaling intra-party willingness to defend institutional prerogatives.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Public rebuke from within the president's own party over separation-of-powers concerns demonstrates that party loyalty does not fully suppress institutional conscience.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk76_character_strength_ex01",
+            "week": 76,
+            "event_ids": [
+              "wk76_IG_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk76_IG_009",
                 "development_label": "Bill Cassidy publicly accused Trump of treating Congress as 'merely an appendage' over an Iran war briefing dispute.",
                 "role": "primary"
               }
             ],
-            "summary": "A Republican senator publicly challenged presidential disregard for congressional consultation on military action.",
-            "why_exemplary": "Multi-source corroborated reporting shows cross-partisan pushback against executive overreach in matters of war powers.",
-            "exemplar_type": "secondary"
+            "summary": "A Republican senator publicly criticized the president for bypassing congressional consultation on military action.",
+            "why_exemplary": "Multi-source corroborated; a rare instance of open intra-party institutional pushback against executive disregard for legislative prerogatives.",
+            "exemplar_type": "primary"
           }
         ]
       }
@@ -330,35 +347,35 @@
     "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "Week 76 continues the deteriorating trajectory documented through Week 75, but shifts in character from acute crisis episodes toward systemic normalization. Where prior weeks featured discrete breaches, such as a fabricated vandalism narrative or a collapsed war-powers vote, this week showed multiple ethical failures reinforcing one another across separate domains: personal branding merged with state symbols (the presidential passport, park renovations), family financial interests merged with federal contracting and defense procurement, and executive removal power over independent agencies was formally expanded by the Supreme Court's overturning of Humphrey's Executor. The financial disclosure revealing $2.2 billion in family income, set against the Senate's refusal to bar presidential crypto holdings, illustrates a legislature increasingly unwilling to check the executive even where the underlying facts are undisputed.\n\nAt the same time, the pattern of narrow but real judicial resistance identified in Week 75 persisted and, in some respects, strengthened. The Court preserved birthright citizenship, protected mail-ballot access on two separate fronts, expanded Fourth Amendment protection against geofence searches, and blocked Lisa Cook's removal on procedural grounds. These rulings function as bounded islands within a wider current running toward stronger unitary executive control, echoing the narrative digest's account of a week defined by alignment across institutions rather than singular rupture. The DOJ's defiance of a court order regarding Epstein files, however, suggests that even where courts rule, executive compliance cannot be assumed, a warning sign for the durability of judicial checks going forward.\n\nCongressional dysfunction, evident in the failure to pass the NDAA after a rules dispute and continued housing-bill hostage-taking, left courts and civil society to absorb responsibilities that the legislature was structurally positioned to handle. This dynamic, flagged in Week 75, appears to be hardening into a durable feature of the system rather than an episodic failure.",
+    "narrative": "Week 76 extends and deepens the trajectory described in the prior summary. Where Week 75 recorded the elimination of Humphrey's Executor as the term's central rupture, Week 76 shows that precedent already being operationalized: the administration openly celebrated its new removal authority, moved further into unsupervised control of federal digital infrastructure through the National Design Studio, and continued a dense pattern of financial entanglement that the Senate declined to constrain. The donor-and-impunity asymmetry noted last week persists in a different register this week, expressed through the routine conversion of public resources — parks, passports, monuments — into vehicles for personal glorification, and through the scale of disclosed presidential and family income tied directly to industries the administration regulates.\n\nAt the same time, the pattern of uneven resistance documented previously continues. Courts again defended specific, narrower lines even as the broader structural precedent fell: Lisa Cook's removal was blocked notwithstanding Slaughter, mail-ballot access was protected on two separate fronts, birthright citizenship survived a fragile but real majority, and Fourth Amendment protection against geofence dragnets was expanded. A sitting Republican senator's public rebuke over war-powers consultation echoes, in a smaller register, the Senate's initial (though later reversed) war-powers assertion from the prior week — again showing that institutional conscience persists in pockets even as executive assertiveness accelerates.\n\nThe cumulative picture is one of consolidation proceeding on parallel tracks: structural (removal power, shadow IT infrastructure), financial (crypto income, family contracts, undisclosed loans), and symbolic (branding of state functions), while judicial and some legislative resistance holds specific, narrower lines rather than reversing the broader trend. The trajectory remains unstable rather than uniformly collapsing, but the direction this week tilts further toward erosion than toward stabilization, primarily because the week's most consequential development — the removal-power ruling — is structural and not readily reversible through ordinary political contest.",
     "trend": "deteriorating",
     "stress_points": [
-      "structural expansion of executive removal power over independent agencies",
-      "extensive documented overlap between family financial interests and federal funding decisions",
-      "legislative hostage-taking used repeatedly as a negotiating tactic",
-      "executive defiance of a federal court document-production order",
-      "suppression of unfavorable factual records (deleted crowd photos)",
-      "congressional paralysis on core appropriations functions (NDAA)"
+      "operationalization of expanded presidential removal power over independent agencies",
+      "unsupervised shadow IT infrastructure handling sensitive federal data",
+      "systemic financial conflicts of interest tied to crypto and family business ties",
+      "legislative rejection of conflict-of-interest safeguards on party-line votes",
+      "routine repurposing of public resources and symbols for personal glorification",
+      "continued sanitization of public historical record with judicial deference"
     ],
     "sources_of_resilience": [
-      "Supreme Court preservation of birthright citizenship despite narrow margin",
-      "repeated judicial protection of mail-ballot access against partisan challenge",
-      "procedural limits preserved on removal of independent Federal Reserve governor",
-      "cross-partisan Republican criticism of executive disregard for Congress",
-      "continued congressional and civil society documentation of corruption patterns",
-      "sustained public assembly and counter-commemoration around the 250th anniversary"
+      "judicial protection of a specific independent agency official despite the broader removal-power ruling",
+      "sustained multi-front judicial defense of mail-ballot access",
+      "narrow but real preservation of birthright citizenship",
+      "expanded Fourth Amendment protection against digital dragnet surveillance",
+      "cross-partisan public rebuke of executive disregard for congressional consultation",
+      "congressional and investigative reporting exposing corruption in anniversary programming"
     ]
   },
   "risk_assessment": {
-    "level": "severe",
-    "justification": "The moral floor remains severely stressed and shows signs of consolidating erosion into durable structural change rather than episodic breach. The Supreme Court's removal of Humphrey's Executor protections, combined with the president's explicit public claim of 'greatly increased' power, converts a legal ruling into an operating principle for governance, a shift with lasting institutional consequence beyond any single week. This sits alongside extensively documented, multi-front self-enrichment (family-linked federal funding, a $2.2 billion disclosure, defense-contractor investments) that a Senate committee declined to address through available safeguards, indicating diminished legislative appetite for enforcing ethical boundaries even when the record is undisputed. DOJ's refusal to comply with a court order on document production adds a further concerning signal about the reliability of judicial enforcement going forward. These pressures are only partially offset by judicial wins on citizenship, voting access, and privacy, which, while real, function as bounded exceptions within a broader current of executive consolidation.",
+    "level": "critical",
+    "justification": "The moral floor remains critically compromised and shows signs of further deterioration this week. The operationalization of the Slaughter removal-power ruling, combined with the discovery of an unsupervised shadow IT system controlling sensitive federal functions, represents a durable expansion of executive authority beyond ordinary legislative or judicial correction. This structural erosion is compounded by financial entanglements of a scale and directness — billions in disclosed crypto income, family stakes in federally connected ventures, an undisclosed nine-figure loan, and trading ahead of a self-announced market-moving policy — that the Senate had a direct opportunity to constrain and declined to do so on a party-line vote. Symbolic misuse of public resources for personal branding, while less structurally dangerous, reinforces a broader pattern in which the boundary between the presidency and the person holding it continues to dissolve.",
     "forward_signals": [
-      "whether executive agencies begin exercising expanded removal power against additional independent officials",
-      "whether DOJ's noncompliance with the Epstein files order escalates into a broader contempt or enforcement dispute",
-      "whether Congress takes any action on the documented family financial conflicts",
-      "whether the NDAA and other stalled appropriations measures advance or remain blocked",
-      "whether courts continue to check mail-voting and citizenship-related overreach as new cases arise",
-      "whether cross-partisan criticism of executive war-powers conduct translates into any binding legislative constraint"
+      "whether further independent agency heads are removed following the Slaughter precedent",
+      "whether the National Design Studio's shadow infrastructure draws formal congressional or inspector-general investigation",
+      "whether Trump family financial disclosures trigger any binding ethics enforcement action",
+      "whether Lisa Cook's protection survives further litigation or is ultimately overridden",
+      "whether cross-partisan rebukes like Cassidy's translate into concrete legislative constraints on war powers",
+      "whether the 250th anniversary corruption allegations produce further investigative or prosecutorial action"
     ]
   }
 }

@@ -5,8 +5,8 @@
     "start": "2026-08-29",
     "end": "2026-09-04"
   },
-  "clock_time_public": "7:40 p.m.",
-  "clock_delta_minutes": 0.0,
+  "clock_time_public": "7:35 p.m.",
+  "clock_delta_minutes": -0.1,
   "baseline_traits": [
     {
       "name": "character",
@@ -34,293 +34,276 @@
     }
   ],
   "weekly_audit": {
-    "summary": "Week 85 shows a government converting ordinary administrative machinery into instruments of electoral control weeks before midterms, while an active foreign conflict was narrated through fabricated footage and suppressed casualty information. A large-scale noncitizen-voter screening operation produced almost no prosecutions relative to its scope, a Postal Service ballot-verification system was pushed toward Supreme Court review after a district court found it likely unconstitutional, and press access was curtailed on multiple fronts simultaneously. Detention conditions deteriorated as medical billing systems collapsed and mortality rose. Countervailing forces, courts, a whistleblower, and some local officials, held real ground, producing a week of contested but largely eroding moral floor conditions.",
+    "summary": "Week 85 shows a government redirecting ordinary administrative machinery toward electoral advantage ahead of the midterms, while symbolic self-aggrandizement, press retaliation, and fabricated war messaging continued alongside it. DHS and ICE investigative capacity was repurposed for voter-roll review and cross-state fraud operations of contested accuracy; a whistleblower-exposed mail-ballot verification system proceeded despite judicial findings of likely disenfranchisement; and the administration escalated to the Supreme Court after losing at the district level. Journalists faced firings, blacklists, and credential denials, while the president used AI-fabricated video and unretracted false claims regarding an active conflict with Iran. Countervailing forces were real: courts blocked or questioned several executive actions, a whistleblower disclosure functioned as intended, and oversight committees pursued subpoenas and impeachment threats, though enforcement of those tools remained weak.",
     "norms_broken": [
       {
         "trait": "good_faith",
-        "pattern": "DHS redirected fraud-investigation capacity to a nine-state noncitizen-voter screening operation timed through early voting, touting over 250,000 flagged registrations while producing fewer than 150 prosecutions; simultaneously, the Solicitor General petitioned the Supreme Court to override a district court's block on the USPS mail-ballot rule rather than accept adverse rulings through ordinary process.",
+        "pattern": "Federal agencies redirected immigration-fraud and enforcement personnel toward voter-roll screening and a coordinated nine-state fraud investigation timed to run through early voting, alongside a legal opinion expanding data-sharing with electoral consequences, while ICE agents were floated as a possible presence at polling places.",
         "severity": "serious",
-        "institutional_response": "A federal judge blocked the USPS rule as likely unlawful; the administration escalated directly to the Supreme Court rather than complying; ProPublica's reporting exposed the screening operation's disproportion between claims and results.",
+        "institutional_response": "Courts blocked or questioned the underlying mail-ballot rule; a whistleblower disclosure and Senate oversight challenged the scheme; DHS and administration officials continued the effort regardless, escalating to the Supreme Court after a district-court loss.",
         "exemplars": [
           {
-            "exemplar_id": "wk85_good_faith_ex01",
+            "exemplar_id": "wk85_goodfaith_ex01",
             "week": 85,
             "event_ids": [
-              "wk85_CR_010",
-              "wk85_CR_012"
+              "wk85_CR_026",
+              "wk85_CR_025"
             ],
             "developments": [
               {
-                "development_id": "wk85_CR_010",
-                "development_label": "Homeland Security Investigations launched a coordinated nine-state voter-fraud operation timed through early voting.",
+                "development_id": "wk85_CR_026",
+                "development_label": "Homeland Security Investigations launched a coordinated nine-state voter-fraud operation ahead of midterms.",
                 "role": "primary"
               },
               {
-                "development_id": "wk85_CR_012",
-                "development_label": "Fewer than 150 alleged noncitizen voters were referred for prosecution despite tens of thousands of leads.",
+                "development_id": "wk85_CR_025",
+                "development_label": "DHS touted over 250,000 flagged noncitizen registrations of contested accuracy.",
                 "role": "secondary"
               }
             ],
-            "summary": "A federal enforcement surge flagged hundreds of thousands of voters while producing negligible prosecutions, timed to run through active voting periods.",
-            "why_exemplary": "Multi-source corroborated reporting documents a wide gap between the operation's stated scale and its verified results, indicating a chilling rather than prosecutorial purpose.",
+            "summary": "A multistate federal investigation into voter rolls, built on disputed noncitizen estimates, was launched two months before midterms using immigration-enforcement resources.",
+            "why_exemplary": "Verified across multiple outlets; illustrates redirection of federal investigative capacity toward electoral pressure rather than substantiated fraud enforcement, timed for maximum effect before voting.",
             "exemplar_type": "primary"
           },
           {
-            "exemplar_id": "wk85_good_faith_ex02",
+            "exemplar_id": "wk85_goodfaith_ex02",
             "week": 85,
             "event_ids": [
-              "wk85_PA_007",
-              "wk85_IG_002"
+              "wk85_IG_035",
+              "wk85_CR_017"
             ],
             "developments": [
               {
-                "development_id": "wk85_IG_002",
-                "development_label": "A federal judge blocked the USPS mail-ballot verification rule as likely unlawful and unconstitutional.",
+                "development_id": "wk85_IG_035",
+                "development_label": "The Solicitor General petitioned the Supreme Court to enforce USPS mail-ballot restrictions after a district court blocked them.",
                 "role": "primary"
               },
               {
-                "development_id": "wk85_PA_007",
-                "development_label": "The Solicitor General petitioned the Supreme Court to override the district court's block weeks before midterms.",
+                "development_id": "wk85_CR_017",
+                "development_label": "A whistleblower disclosed that the mail-ballot verification system was flawed and risked mass disenfranchisement.",
                 "role": "secondary"
               }
             ],
-            "summary": "The administration bypassed ordinary appellate process to seek emergency Supreme Court intervention against a district court ruling protecting mail voters.",
-            "why_exemplary": "Tier-one corroborated evidence shows the executive branch escalating directly to the least reviewable venue rather than accepting a constitutional finding through normal process.",
+            "summary": "After a federal judge found the mail-ballot verification rule likely unconstitutional, the administration escalated directly to the Supreme Court rather than accepting the district ruling.",
+            "why_exemplary": "Tier-1 corroborated; demonstrates use of emergency appellate procedure to override a documented risk of mass disenfranchisement identified by an internal whistleblower.",
             "exemplar_type": "primary"
           }
         ]
       },
       {
         "trait": "truthfulness",
-        "pattern": "The president posted an AI-generated video depicting a fabricated attack on Iranian territory and claimed Iran had entirely collapsed as a nation, while a senior official initially denied American military deaths in the conflict before being forced to correct the record.",
+        "pattern": "The president disseminated AI-generated fabricated footage of a military strike that did not occur, made sweeping false claims that Iran had become a failed state, and briefly denied American military deaths before being forced to retract, amid an active conflict with real casualties.",
         "severity": "serious",
-        "institutional_response": "Independent reporting and fact-checking documented the fabrications; no administration correction of the AI video occurred; the casualty denial was corrected only under pressure.",
+        "institutional_response": "Fact-checking outlets and prior reporting contradicted the claims; no formal correction or accountability mechanism was applied within government; retraction occurred only after public exposure.",
         "exemplars": [
           {
             "exemplar_id": "wk85_truthfulness_ex01",
             "week": 85,
             "event_ids": [
-              "wk85_IM_001",
-              "wk85_IM_002"
+              "wk85_IM_005",
+              "wk85_IM_006"
             ],
             "developments": [
               {
-                "development_id": "wk85_IM_001",
-                "development_label": "Trump posted an AI-generated video of a fabricated attack on Iran's Kharg Island that did not occur.",
+                "development_id": "wk85_IM_005",
+                "development_label": "Trump posted a false AI-generated video depicting a military strike on Iran's Kharg Island that did not occur.",
                 "role": "primary"
               },
               {
-                "development_id": "wk85_IM_002",
-                "development_label": "Trump posted sweeping false claims that Iran had officially collapsed as a nation.",
+                "development_id": "wk85_IM_006",
+                "development_label": "Trump posted sweeping false claims that Iran had become a failed state.",
                 "role": "secondary"
               }
             ],
-            "summary": "The president disseminated fabricated military imagery and unsubstantiated collapse claims about an active foreign adversary during ongoing hostilities.",
-            "why_exemplary": "Tier-one corroborated reporting confirms deliberate synthetic disinformation about a live conflict, distorting public understanding of an active war's true state.",
+            "summary": "Fabricated video of a nonexistent strike and exaggerated claims about Iran's collapse were disseminated by the president during an active, casualty-producing conflict.",
+            "why_exemplary": "Tier-1 corroborated for the fabricated video; illustrates manufactured unreality applied directly to matters of war and peace with immediate public-consequence stakes.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk85_truthfulness_ex02",
             "week": 85,
             "event_ids": [
-              "wk85_IM_015"
+              "wk85_IM_024"
             ],
             "developments": [
               {
-                "development_id": "wk85_IM_015",
-                "development_label": "A senior official falsely claimed no American military deaths in the Iran conflict, later forced to correct the record.",
+                "development_id": "wk85_IM_024",
+                "development_label": "Officials falsely denied American military deaths at a G20 event, later forced to retract.",
                 "role": "primary"
               }
             ],
-            "summary": "Initial denial of military casualties in an active war was reversed only after external pressure exposed the falsehood.",
-            "why_exemplary": "Illustrates suppression of consequential public information about war costs, undermining accountability for decisions with life-and-death stakes.",
+            "summary": "An initial denial of U.S. military casualties in the Iran conflict was later retracted after public pressure, undermining transparency about the war's human cost.",
+            "why_exemplary": "Multi-source corroborated; demonstrates direct falsification of casualty information, a matter of the highest public consequence, requiring public exposure to correct.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "restraint",
-        "pattern": "The president threatened nuclear weapons use against Iran in an Oval Office gaggle, ordered strikes near the Strait of Hormuz with threats of further escalation, and reportedly discussed privately declaring the war over regardless of whether stated objectives were achieved, apparently timed around electoral considerations.",
-        "severity": "extreme",
-        "institutional_response": "No congressional authorization check on military escalation was reported; reporting on private deliberations surfaced through independent journalism rather than official disclosure.",
+        "pattern": "The president unilaterally renamed a shared international lake and pressured private tech platforms to comply, ordered strikes near the Strait of Hormuz with nuclear threats against Iran, and reportedly considered escalating the conflict strategically around the midterm calendar rather than military necessity.",
+        "severity": "serious",
+        "institutional_response": "Congress introduced legislation to counter the renaming; courts were not directly engaged on the war-powers question; no legislative check constrained strike authority or nuclear rhetoric.",
         "exemplars": [
           {
             "exemplar_id": "wk85_restraint_ex01",
             "week": 85,
             "event_ids": [
-              "wk85_PA_004",
-              "wk85_PA_003"
+              "wk85_PA_012",
+              "wk85_PA_014"
             ],
             "developments": [
               {
-                "development_id": "wk85_PA_004",
-                "development_label": "Trump stated he would use nuclear weapons if needed against Iran.",
+                "development_id": "wk85_PA_012",
+                "development_label": "Trump ordered airstrikes on Iranian targets near the Strait of Hormuz and threatened harsher retaliation.",
                 "role": "primary"
               },
               {
-                "development_id": "wk85_PA_003",
-                "development_label": "Trump ordered airstrikes on Iranian targets near the Strait of Hormuz and threatened larger strikes.",
+                "development_id": "wk85_PA_014",
+                "development_label": "The administration reportedly considered escalating the Iran conflict after the midterm elections, suppressing news beforehand.",
                 "role": "secondary"
               }
             ],
-            "summary": "Presidential rhetoric on nuclear weapons use accompanied direct military escalation near a critical international waterway, absent clear congressional authorization.",
-            "why_exemplary": "Combines verified military action with extraordinary rhetorical escalation, raising direct concerns about unchecked authority over the most extreme options of state power.",
+            "summary": "New strikes on Iran were ordered amid threats of further force, while aides reportedly planned to time major escalation around the electoral calendar rather than strategic necessity.",
+            "why_exemplary": "Tier-1 corroborated for the escalation-timing report; illustrates subordination of war powers and use-of-force decisions to domestic political scheduling.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk85_restraint_ex02",
             "week": 85,
             "event_ids": [
-              "wk85_PA_013",
-              "wk85_PA_012"
+              "wk85_PA_001",
+              "wk85_PA_002"
             ],
             "developments": [
               {
-                "development_id": "wk85_PA_013",
-                "development_label": "The administration deliberately suppressed public information about the Iran conflict ahead of midterm elections.",
+                "development_id": "wk85_PA_001",
+                "development_label": "Trump signed an executive order renaming Lake Ontario to Lake America.",
                 "role": "primary"
               },
               {
-                "development_id": "wk85_PA_012",
-                "development_label": "Trump privately discussed declaring the Iran war over without achieving stated objectives.",
+                "development_id": "wk85_PA_002",
+                "development_label": "Trump personally pressured Apple to alter Apple Maps to reflect the renaming.",
                 "role": "secondary"
               }
             ],
-            "summary": "Reported private deliberations subordinated disclosure and resolution of an active war to the electoral calendar rather than military or diplomatic outcomes.",
-            "why_exemplary": "Tier-one corroborated reporting indicates war conduct and disclosure decisions driven by short-term political advantage rather than the substance of the conflict.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
-        "trait": "stewardship",
-        "pattern": "ICE's medical billing system collapsed after politically pressured termination of a VA reimbursement agreement, detainee mortality rose to nearly four times the prior administration's rate, and immigration courts moved to curb continuances for vulnerable respondents, compounding harm to people in federal custody.",
-        "severity": "serious",
-        "institutional_response": "No administration corrective action was reported; oversight remained largely limited to independent journalism documenting the collapse and its human costs.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk85_stewardship_ex01",
-            "week": 85,
-            "event_ids": [
-              "wk85_ES_008",
-              "wk85_ES_009"
-            ],
-            "developments": [
-              {
-                "development_id": "wk85_ES_008",
-                "development_label": "The VA terminated its medical billing agreement with ICE under political pressure based on false claims.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk85_ES_009",
-                "development_label": "ICE detention recorded a mortality rate nearly four times higher than under the prior administration.",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Termination of a functioning medical reimbursement system coincided with a sharp rise in detainee deaths, implicating the government's duty of care.",
-            "why_exemplary": "Links a politically motivated administrative decision directly to a measurable rise in custodial harm, illustrating institutional capacity degraded by partisan pressure.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk85_stewardship_ex02",
-            "week": 85,
-            "event_ids": [
-              "wk85_CR_005",
-              "wk85_CR_006"
-            ],
-            "developments": [
-              {
-                "development_id": "wk85_CR_005",
-                "development_label": "DOJ/EOIR mandated training instructing immigration judges to deny or sharply limit continuances for vulnerable respondents.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk85_CR_006",
-                "development_label": "ICE imposed a blanket ban on contact visits at California's largest detention facility, stricter than rules for convicted felons.",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Procedural and humanitarian safeguards for detained individuals were curtailed simultaneously, removing remaining checks on rushed removals and family contact.",
-            "why_exemplary": "Demonstrates coordinated reduction of due-process and humane-treatment safeguards within the same custodial system already under stress.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
-        "trait": "ethics",
-        "pattern": "The U.S. Mint sold marked-up presidential-likeness coins, Interior began an unauthorized triumphal-arch project, and a Pentagon office brokered opaque majority U.S. control over Venezuela's oil reserves through a private operator with a money-laundering investigation history.",
-        "severity": "concerning",
-        "institutional_response": "Criticism came from a former ambassador and conservative media; no regulatory or congressional check halted these actions this week.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk85_ethics_ex01",
-            "week": 85,
-            "event_ids": [
-              "wk85_PA_005"
-            ],
-            "developments": [
-              {
-                "development_id": "wk85_PA_005",
-                "development_label": "A Pentagon office brokered a deal giving the U.S. majority control of Venezuela's oil reserves through an opaque private operator with a money-laundering history.",
-                "role": "primary"
-              }
-            ],
-            "summary": "Resource control over a foreign nation's oil reserves was negotiated through an opaque private partnership criticized as crony statism.",
-            "why_exemplary": "Tier-one corroborated reporting documents government brokerage of a foreign-resource arrangement involving a partner with documented financial-crime concerns.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk85_ethics_ex02",
-            "week": 85,
-            "event_ids": [
-              "wk85_PA_009",
-              "wk85_PA_008"
-            ],
-            "developments": [
-              {
-                "development_id": "wk85_PA_009",
-                "development_label": "The U.S. Mint began selling dollar coins bearing Trump's likeness at marked-up prices.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk85_PA_008",
-                "development_label": "Interior Secretary Doug Burgum began construction of an unauthorized triumphal arch.",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Federal minting and monument-building resources were directed toward presidential glorification without required congressional authorization.",
-            "why_exemplary": "Verified, multi-source reporting shows government institutions repurposed for personal symbolism rather than public function.",
+            "summary": "A unilateral renaming of a shared international lake, followed by direct pressure on private technology companies to comply, extended executive will into corporate information systems.",
+            "why_exemplary": "Tier-1 corroborated across five sources; demonstrates personal will substituting for diplomatic and legislative process over an internationally shared resource.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "character",
-        "pattern": "The Justice Department blocked civil rights charges against an ICE officer who shot a Venezuelan man, charging him only with false statements, while a governor refused to sign an extradition warrant, and Leon Black defied a congressional subpoena tied to Epstein-related evidence.",
-        "severity": "serious",
-        "institutional_response": "Career prosecutors reportedly objected internally; the governor's refusal and Black's defiance went unchecked this week, though litigation and contempt proceedings continued.",
+        "pattern": "Executive attention and federal apparatus were devoted to symbolic self-branding, including the lake renaming campaign, an unauthorized triumphal arch, and presidential-image coinage, while officials treated critical press coverage of military and economic matters as treasonous.",
+        "severity": "concerning",
+        "institutional_response": "Congress introduced legislation to block the renaming; no other formal check applied; media coverage was extensive but produced no consequence within the week.",
         "exemplars": [
           {
             "exemplar_id": "wk85_character_ex01",
             "week": 85,
             "event_ids": [
+              "wk85_PA_009",
+              "wk85_ES_010"
+            ],
+            "developments": [
+              {
+                "development_id": "wk85_PA_009",
+                "development_label": "Interior Secretary Burgum began construction of a triumphal arch without required congressional authorization.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk85_ES_010",
+                "development_label": "The U.S. Mint began selling dollar coins bearing Trump's likeness above face value.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A federal monument project proceeded without statutorily required approval, alongside sale of presidential-image coinage, both departing from norms separating office from personal image.",
+            "why_exemplary": "Tier-1 corroborated for the arch construction; illustrates institutional resources devoted to personal symbolism rather than disciplined public stewardship.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Detention conditions worsened with rising detainee deaths, a blanket ban on contact visits harsher than rules for convicted felons, accelerated deportation timelines cutting due process, and removal of a five-year-old child apparently without judicial review.",
+        "severity": "serious",
+        "institutional_response": "No federal check curtailed enforcement scope this week; some individual cases drew media scrutiny but no policy reversal.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk85_stewardship_ex01",
+            "week": 85,
+            "event_ids": [
               "wk85_CR_021",
-              "wk85_CR_022"
+              "wk85_CR_041"
             ],
             "developments": [
               {
                 "development_id": "wk85_CR_021",
-                "development_label": "DOJ blocked civil rights charges against an ICE officer who shot a Venezuelan man in Minneapolis.",
+                "development_label": "ICE detainee deaths reported nearly four times higher than under the prior administration.",
                 "role": "primary"
               },
               {
-                "development_id": "wk85_CR_022",
-                "development_label": "Texas Governor Greg Abbott refused to sign an extradition warrant for the officer.",
+                "development_id": "wk85_CR_041",
+                "development_label": "ICE banned contact visits at California's largest detention center.",
                 "role": "secondary"
               }
             ],
-            "summary": "Federal and state officials shielded a law enforcement officer from accountability for a shooting, over the objections of federal prosecutors.",
-            "why_exemplary": "Multi-source corroborated reporting documents deliberate obstruction of accountability mechanisms for use of lethal force against a civilian.",
+            "summary": "A sharp rise in detainee mortality coincided with new restrictions harsher than those applied to convicted felons, suggesting systemic failure of care and oversight.",
+            "why_exemplary": "Demonstrates durable institutional harm to a population under direct government custody, with no corrective mechanism evident this week.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk85_stewardship_ex02",
+            "week": 85,
+            "event_ids": [
+              "wk85_CR_043",
+              "wk85_CR_040"
+            ],
+            "developments": [
+              {
+                "development_id": "wk85_CR_043",
+                "development_label": "A five-year-old child and his father were deported without apparent due process.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk85_CR_040",
+                "development_label": "DOJ/EOIR mandated that immigration judges restrict continuances and accelerate deportation proceedings.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "New rules limiting continuances for vulnerable respondents coincided with an apparent minor's removal lacking judicial review, narrowing procedural safeguards further.",
+            "why_exemplary": "Illustrates policy-level erosion of due process protections converging with individual cases showing immediate human consequence.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "The administration negotiated an oil development deal with Venezuela through the Pentagon rather than diplomatic channels, and the Forest Service moved to rescind long-standing protections benefiting industries tied to its own leadership's prior lobbying.",
+        "severity": "concerning",
+        "institutional_response": "No independent ethics review or recusal was reported; conservation groups filed litigation challenging related public-lands actions.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk85_ethics_ex01",
+            "week": 85,
+            "event_ids": [
+              "wk85_PA_008",
+              "wk85_PA_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk85_PA_008",
+                "development_label": "The administration negotiated an oil development deal with Venezuela through the Pentagon.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk85_PA_011",
+                "development_label": "The administration announced plans to rescind the Roadless Area Conservation Rule, benefiting industries tied to agency leadership.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A resource deal negotiated through military rather than diplomatic channels, alongside rollback of forest protections benefiting the agency's own former-lobbyist leadership, raise conflict-of-interest concerns.",
+            "why_exemplary": "Tier-1 corroborated for the Roadless Rule rescission; illustrates public authority directed toward outcomes favoring insiders' prior industry ties.",
             "exemplar_type": "primary"
           }
         ]
@@ -329,97 +312,94 @@
     "norms_strengthened": [
       {
         "trait": "good_faith",
-        "pattern": "A federal whistleblower disclosed serious flaws in the USPS ballot-verification system, prompting a judicial block found likely unconstitutional; separate courts blocked a renewed birthright citizenship restriction and dismissed a DOJ suit against state sports policy, maintaining functioning legal checks on executive action.",
+        "pattern": "A federal whistleblower disclosure about flawed mail-ballot verification worked largely as intended, prompting Senate oversight and a judicial block, while courts continued to constrain executive and state overreach across multiple domains.",
         "scope": "institutional",
-        "why_it_matters": "Judicial and whistleblower action operating as intended, even under significant time pressure before midterms, demonstrates that core democratic safeguards can still function against determined executive pressure.",
+        "why_it_matters": "Functioning whistleblower channels and judicial responsiveness demonstrate that internal and external checks can still surface and act on serious risks to electoral integrity even amid sustained pressure.",
         "exemplars": [
           {
-            "exemplar_id": "wk85_good_faith_strength_ex01",
+            "exemplar_id": "wk85_goodfaith_strength_ex01",
             "week": 85,
             "event_ids": [
-              "wk85_CR_015",
-              "wk85_IG_002"
-            ],
-            "developments": [
-              {
-                "development_id": "wk85_CR_015",
-                "development_label": "A USPS whistleblower disclosed that a new ballot-handling system could reject entire batches of ballots over single scanning errors.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk85_IG_002",
-                "development_label": "A federal judge blocked the USPS mail-ballot verification rule as likely unlawful and unconstitutional.",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Internal disclosure of a flawed ballot system led directly to judicial intervention protecting mail voters from a rushed federal program.",
-            "why_exemplary": "Tier-one corroborated reporting shows the whistleblower-to-court accountability chain functioning as designed to prevent mass disenfranchisement.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk85_good_faith_strength_ex02",
-            "week": 85,
-            "event_ids": [
-              "wk85_IG_003",
-              "wk85_IG_004"
-            ],
-            "developments": [
-              {
-                "development_id": "wk85_IG_003",
-                "development_label": "Judge Deborah Boardman blocked Trump's second executive order restricting birthright citizenship.",
-                "role": "primary"
-              },
-              {
-                "development_id": "wk85_IG_004",
-                "development_label": "A federal judge dismissed the DOJ's lawsuit challenging California's trans-inclusive school sports policy.",
-                "role": "secondary"
-              }
-            ],
-            "summary": "Federal courts in two separate cases rejected executive attempts to override established precedent and state authority.",
-            "why_exemplary": "Verified rulings demonstrate continued judicial enforcement of constitutional limits despite persistent executive attempts to test them.",
-            "exemplar_type": "secondary"
-          }
-        ]
-      },
-      {
-        "trait": "stewardship",
-        "pattern": "Congress passed a continuing resolution funding the government through December, and a municipality allowed a license-plate surveillance contract to expire, reflecting continued baseline institutional function and localized resistance to expanding surveillance infrastructure.",
-        "scope": "institutional",
-        "why_it_matters": "Maintaining basic government functioning and pushing back on surveillance expansion, even in isolated instances, preserves institutional capacity and public trust against broader erosion.",
-        "exemplars": [
-          {
-            "exemplar_id": "wk85_stewardship_strength_ex01",
-            "week": 85,
-            "event_ids": [
-              "wk85_IG_005"
-            ],
-            "developments": [
-              {
-                "development_id": "wk85_IG_005",
-                "development_label": "The House passed a continuing resolution funding the government through December 11.",
-                "role": "primary"
-              }
-            ],
-            "summary": "Congress fulfilled its core funding function ahead of midterms, avoiding a shutdown.",
-            "why_exemplary": "Tier-one corroborated action demonstrates baseline legislative function persisting despite surrounding institutional strain.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk85_stewardship_strength_ex02",
-            "week": 85,
-            "event_ids": [
-              "wk85_CR_017"
+              "wk85_CR_017",
+              "wk85_IG_034"
             ],
             "developments": [
               {
                 "development_id": "wk85_CR_017",
-                "development_label": "Westland, Michigan allowed its license-plate-reader camera contract to expire, joining bipartisan pushback against surveillance technology.",
+                "development_label": "A whistleblower disclosed flaws in the USPS mail-voting verification system risking mass disenfranchisement.",
                 "role": "primary"
+              },
+              {
+                "development_id": "wk85_IG_034",
+                "development_label": "Judge Talwani held a hearing questioning the constitutionality of extending USPS ballot restrictions.",
+                "role": "secondary"
               }
             ],
-            "summary": "A local government rejected continued surveillance infrastructure, joining a small current of municipal resistance.",
-            "why_exemplary": "Illustrates local democratic checks on surveillance expansion still operating independent of federal policy direction.",
-            "exemplar_type": "secondary"
+            "summary": "A whistleblower's disclosure about a flawed ballot-verification system led directly to judicial scrutiny and a temporary block on the underlying rule.",
+            "why_exemplary": "Multi-source corroborated; demonstrates the whistleblower-to-oversight-to-judicial-check pipeline functioning as designed against a serious risk to electoral access.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "Courts blocked a renewed executive attempt to restrict birthright citizenship, temporarily halted a mail-ballot verification rule, and struck down a state climate-liability law backed by the DOJ, sustaining judicial limits on both federal and state overreach.",
+        "scope": "institutional",
+        "why_it_matters": "Continued judicial willingness to check executive action across multiple substantive areas, even where outcomes are mixed, shows courts remain an active constraint rather than a formality.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk85_restraint_strength_ex01",
+            "week": 85,
+            "event_ids": [
+              "wk85_IG_032",
+              "wk85_IG_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk85_IG_032",
+                "development_label": "Judge Deborah Boardman issued a temporary injunction blocking Trump's second executive order restricting birthright citizenship.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk85_IG_005",
+                "development_label": "Judge Indira Talwani temporarily blocked a Trump administration mail-ballot verification rule.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Federal courts blocked a renewed attempt to restrict birthright citizenship and a mail-ballot verification rule in the same week, reaffirming constitutional limits on executive action.",
+            "why_exemplary": "Tier-1 corroborated; demonstrates sustained judicial constraint on repeated executive attempts to override prior rulings and constitutional protections.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "Regulators and enforcement bodies imposed real accountability on financial and market misconduct, including insider-trading fines against a former lawmaker and a White House staffer, and an antitrust settlement over algorithmic rent coordination.",
+        "scope": "institutional",
+        "why_it_matters": "Continued enforcement against insider trading and anticompetitive conduct, even involving politically connected figures, preserves institutional capacity to hold power accountable for self-dealing.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk85_ethics_strength_ex01",
+            "week": 85,
+            "event_ids": [
+              "wk85_ES_005",
+              "wk85_CR_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk85_ES_005",
+                "development_label": "Kalshi permanently banned former congressman George Santos for market manipulation.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk85_CR_001",
+                "development_label": "CFTC fined a White House teleprompter operator for insider trading on a prediction market.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A prediction-market platform and a federal regulator both penalized insider trading by politically connected individuals, reinforcing accountability norms in emerging markets.",
+            "why_exemplary": "Multi-source corroborated; demonstrates functioning enforcement against self-dealing even when it implicates individuals close to political power.",
+            "exemplar_type": "primary"
           }
         ]
       }
@@ -427,33 +407,34 @@
     "direction_of_movement": "eroding"
   },
   "cumulative_condition": {
-    "narrative": "Week 85 continues the trajectory described in Week 84 without introducing a categorically new rupture, but it deepens and interlocks patterns already identified as severe: electoral-administration machinery weaponized ahead of midterms, financial and symbolic self-dealing, disinformation surrounding an active war, and eroding safeguards for detained populations. The noncitizen-voter screening operation and the Supreme Court petition on the USPS ballot rule represent the electoral-administration cycle from Week 84 accelerating further, now compressed into overlapping fronts, voter rolls, ballot verification, polling-site access, press access to coverage of these processes, operating simultaneously rather than sequentially.\n\nThe Iran conflict thread introduces a distinct and serious escalation: nuclear rhetoric, fabricated combat footage, suppressed casualty information, and private deliberations about ending the war for electoral convenience together describe a war whose public narration has become substantially detached from its actual conduct. This extends the disinformation pattern flagged in Week 84's Iran-victory image into a more sustained and consequential campaign, spanning combat claims, national collapse claims, and casualty denial.\n\nResistance persisted and in some cases functioned effectively: the whistleblower-to-court pipeline on ballot verification worked essentially as designed, courts continued to check executive overreach on multiple fronts, and Congress fulfilled its basic funding function. But none of this resistance reversed the underlying direction; it contained specific instances without addressing the systemic pressure across voter administration, detention conditions, press access, and accountability for use of force. The moral floor remains severely and increasingly strained, with a widening gap between the volume of resistance activity and its capacity to alter the trajectory.",
+    "narrative": "Week 85 continues the trajectory established across recent weeks without introducing a fundamentally new category of breach. Where Week 84 showed procedural intensification around a single mail-voting ruling, Week 85 shows that same instinct diffusing across nine distinct fronts: voter-roll operations, ballot-verification litigation escalated to the Supreme Court, press retaliation, symbolic self-branding, foreign-policy messaging built on fabricated footage, detention-system collapse, accountability blockages for federal agents, and expanding surveillance infrastructure. None of these represents a single rupture; together they describe a government converting routine administrative functions into instruments of electoral and informational control, three months before midterms.\n\nThe ethics and ownership patterns identified in Week 84, donor-linked settlement funds, personal financial trading amid conflicts of interest, continued this week in a different register: a Pentagon-brokered resource deal with Venezuela and a rule rollback benefiting an agency head's former industry ties. Truthfulness breaches also continued a now-familiar pattern of AI-fabricated content, this time applied directly to an active war rather than domestic messaging, raising the stakes of manufactured unreality considerably. Stewardship costs concentrated in the immigration detention system, where rising mortality, harsher-than-criminal visitation rules, and accelerated removals converged into a system whose safeguards appear to be failing simultaneously on financial, medical, and legal fronts.\n\nCountervailing forces held a similar shape to prior weeks: courts blocking or questioning several executive actions, a whistleblower disclosure that functioned largely as intended, and continued enforcement against insider trading and anticompetitive conduct. These interventions were real but narrow, addressing specific instances without reversing the broader current. As in Week 84, the clock's near-zero net movement conceals a week in which many traits moved simultaneously in both directions, producing an uneasy balance rather than genuine stability.",
     "trend": "deteriorating",
     "stress_points": [
-      "electoral administration weaponized across multiple simultaneous fronts (voter rolls, ballot verification, polling access)",
-      "disinformation and suppressed disclosure surrounding an active war with nuclear rhetoric",
-      "collapse of detainee medical care coinciding with sharply rising mortality",
-      "blocked accountability for use of lethal force by a federal officer",
-      "coordinated pressure on press access across military, financial, and general reporting"
+      "electoral machinery redirected toward voter-roll and fraud operations of contested accuracy",
+      "escalation to the Supreme Court to override district-court election rulings",
+      "fabricated AI content applied directly to an active war",
+      "press retaliation through firings, blacklists, and credential denial",
+      "detention-system collapse in medical care, mortality, and due process",
+      "blocked accountability for federal agents' use of force"
     ],
     "sources_of_resilience": [
-      "functioning whistleblower-to-court accountability chain on ballot verification",
-      "continued judicial enforcement of constitutional limits across multiple dockets",
-      "basic congressional funding function preserved",
-      "investigative journalism exposing gaps between enforcement claims and results",
-      "isolated local government resistance to surveillance expansion"
+      "functioning whistleblower-to-oversight-to-court pipeline on ballot verification",
+      "judiciary continuing to check executive action across multiple domains",
+      "continued enforcement against insider trading and anticompetitive conduct",
+      "congressional oversight and subpoena efforts, even where enforcement remains weak",
+      "local and grassroots resistance to surveillance expansion"
     ]
   },
   "risk_assessment": {
-    "level": "severe",
-    "justification": "The moral floor remains severely stressed, consistent with the prior week's assessment, but with a widening front. The compression of multiple electoral-administration pressures, voter-roll screening, ballot verification, polling access, into a single pre-midterm window elevates the risk that legal resolution will lag actual voting, regardless of eventual court outcomes. The Iran conflict's combination of nuclear rhetoric, fabricated imagery, and suppressed casualty information represents an unusually acute truthfulness and restraint failure, compounded by evidence that war conduct and disclosure were shaped by electoral timing rather than military or diplomatic considerations. Detention system deterioration, both medical collapse and rising mortality, continues an established pattern with a mounting human cost. Countervailing institutional resistance remains real, evidenced by working judicial checks and an effective whistleblower disclosure, but has not altered the underlying trajectory.",
+    "level": "critical",
+    "justification": "The moral floor remains critically strained, extending rather than departing from the trajectory identified in Week 84. This week demonstrated the diffusion of executive-directed pressure across at least nine distinct fronts simultaneously, election administration, press freedom, war-powers messaging, detention conditions, and accountability for federal agents, three months before midterm elections. The escalation of the mail-ballot dispute directly to the Supreme Court after a district-court loss, alongside a coordinated multistate voter-fraud operation built on contested data, together represent a sustained and increasingly confident effort to shape electoral conditions through administrative rather than legislative means. Fabricated AI content applied directly to an active war with real casualties raises the stakes of truthfulness breaches beyond domestic messaging into matters of international conflict.\n\nCountervailing judicial and civic actions were genuine: courts blocked a renewed birthright-citizenship order and a mail-ballot rule, a whistleblower's disclosure triggered oversight and judicial scrutiny, and regulators continued to enforce accountability for insider trading. These interventions preserve institutional capacity but have not altered the broader trajectory. Given the proximity to midterms and the demonstrated willingness to escalate contested rulings to the Supreme Court while continuing enforcement operations regardless of outcome, the risk of further erosion remains critical.",
     "forward_signals": [
-      "Supreme Court disposition of the USPS ballot-rule emergency petition",
-      "outcome of the House Oversight contempt effort and discharge petition on Epstein-related disclosure",
-      "further developments in Iran conflict disclosure and any independent verification of casualty figures",
-      "additional data on ICE detainee mortality and medical billing system status",
-      "further state or local responses to noncitizen-voter screening operations",
-      "any escalation or resolution of press-access restrictions across federal agencies"
+      "Supreme Court's disposition of the USPS mail-ballot rule appeal",
+      "outcome of House Oversight's contempt effort against Leon Black",
+      "resolution of the discharge petition on Epstein-related disclosure",
+      "further escalation or de-escalation of the Iran conflict around the midterm calendar",
+      "whether detainee mortality and due-process restrictions draw any policy reversal",
+      "whether ICE presence at polling places materializes despite federal law"
     ]
   }
 }

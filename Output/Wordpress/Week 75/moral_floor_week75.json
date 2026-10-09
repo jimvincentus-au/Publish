@@ -5,8 +5,8 @@
     "start": "2026-06-20",
     "end": "2026-06-26"
   },
-  "clock_time_public": "7:41 p.m.",
-  "clock_delta_minutes": 0.0,
+  "clock_time_public": "7:36 p.m.",
+  "clock_delta_minutes": -0.2,
   "baseline_traits": [
     {
       "name": "character",
@@ -34,198 +34,221 @@
     }
   ],
   "weekly_audit": {
-    "summary": "Week 75 showed the moral floor under sustained multi-front pressure with meaningful, if partial, resistance. A fabricated vandalism narrative was used to justify arrests, fencing, and a donor-linked no-bid repair contract, combining truthfulness and ethics breaches in a single episode. The president held a bipartisan housing bill hostage to force passage of a voter-restriction measure, and pressured senators into reversing a war-powers vote, both direct assaults on good faith and legislative independence. Courts, however, repeatedly blocked election-control measures, protected due-process rights, and enforced disclosure obligations, showing that judicial checks retained real force even as the Supreme Court simultaneously expanded executive discretion over immigration and removal.",
+    "summary": "Week 75 shows a moral floor under simultaneous stress from multiple directions, with the executive branch converting legislative leverage, war powers, and a fabricated vandalism narrative into concrete coercive action, while courts pushed back hard and specifically on election mechanics even as the Supreme Court itself dismantled a ninety-year-old restraint on presidential removal power and stripped due-process layers from immigration law. The president withheld his signature from a bipartisan bill and tied unrelated national-security authority to a voter-restriction measure, while a Senate that had briefly asserted war-powers authority reversed itself within two days under direct presidential pressure. A no-bid contract awarded to a presidential donor, following arrests of ordinary citizens for touching a defective pool liner, distilled the week's central asymmetry between accountability for the powerless and impunity for the connected.",
     "norms_broken": [
       {
-        "trait": "truthfulness",
-        "pattern": "The president fabricated an escalating vandalism narrative about the reflecting pool to deflect blame for a failed, donor-linked renovation, and this narrative was echoed in official court filings and used to justify fencing and arrests without evidence.",
+        "trait": "good_faith",
+        "pattern": "The president withheld his signature from a bipartisan housing bill and conditioned FISA renewal on passage of an unrelated voting-restriction bill, while a House member froze all floor business to pressure the Senate on the same measure, and the Senate itself reversed a just-passed war-powers resolution within two days after direct presidential pressure.",
         "severity": "serious",
-        "institutional_response": "Federal officers and prosecutors enabled the narrative through arrests and prosecution threats; a National Park Service official supported the claim in a court declaration; no independent verification of vandalism is documented within the week.",
+        "institutional_response": "The housing bill ultimately became law regardless of the president's signature, and the Senate's initial passage of the war-powers resolution showed real capacity, but its reversal under pressure demonstrates that legislative independence collapses quickly when directly confronted.",
         "exemplars": [
           {
-            "exemplar_id": "wk75_truthfulness_ex01",
+            "exemplar_id": "wk75_good_faith_ex01",
             "week": 75,
             "event_ids": [
               "wk75_PA_001",
-              "wk75_IM_010"
+              "wk75_PA_002"
             ],
             "developments": [
               {
                 "development_id": "wk75_PA_001",
-                "development_label": "Trump made false and escalating claims that vandals damaged the Lincoln Memorial reflecting pool.",
+                "development_label": "Trump withheld his signature from a bipartisan housing bill to force passage of a voting-restriction bill.",
                 "role": "primary"
               },
               {
-                "development_id": "wk75_IM_010",
-                "development_label": "Interior Department attributed pool damage to 'leftist activists' without evidence to justify fencing.",
+                "development_id": "wk75_PA_002",
+                "development_label": "Trump conditioned surveillance-law renewal on passage of the same voting bill.",
                 "role": "secondary"
               }
             ],
-            "summary": "A fabricated vandalism story, echoed by a federal agency, was used to deflect blame for a failed renovation and justify restricting public access.",
-            "why_exemplary": "Tier-one corroborated reporting documents an inflating false narrative sustained across a week and adopted by an agency to justify coercive measures.",
+            "summary": "Unrelated legislation and national-security authority were held hostage to force passage of a voter-restriction bill, using executive leverage to reshape election law outside normal process.",
+            "why_exemplary": "Tier-1 corroborated across multiple outlets; a clear instance of procedural hostage-taking that defeats the ordinary legislative process for an unrelated policy goal.",
             "exemplar_type": "primary"
           },
           {
-            "exemplar_id": "wk75_truthfulness_ex02",
+            "exemplar_id": "wk75_good_faith_ex02",
             "week": 75,
             "event_ids": [
-              "wk75_IM_011"
+              "wk75_PA_003",
+              "wk75_IG_002"
             ],
             "developments": [
               {
-                "development_id": "wk75_IM_011",
-                "development_label": "Karoline Leavitt announced Trump would sign the housing bill hours before he canceled the signing.",
+                "development_id": "wk75_PA_003",
+                "development_label": "Trump confronted and berated senators over their war-powers vote.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk75_IG_002",
+                "development_label": "The Senate passed then reversed a war-powers resolution restricting military action against Iran within days.",
                 "role": "primary"
               }
             ],
-            "summary": "A White House spokesperson's public assurance of imminent presidential action was contradicted within hours by the president's own reversal.",
-            "why_exemplary": "Multi-source corroborated reporting shows official communications diverging sharply from actual executive conduct, undermining the reliability of public statements.",
-            "exemplar_type": "secondary"
+            "summary": "A bipartisan Senate majority asserted war-powers authority over Iran, then reversed itself two days later after the president personally berated members.",
+            "why_exemplary": "Tier-1 and multi-source corroborated; demonstrates that even a successful constitutional check can be undone by direct personal pressure within the same week.",
+            "exemplar_type": "primary"
           }
         ]
       },
       {
-        "trait": "good_faith",
-        "pattern": "The president canceled the signing of a bipartisan housing bill to compel passage of an unrelated voter-restriction measure, and directly pressured senators until they reversed a war-powers vote they had just taken.",
-        "severity": "serious",
-        "institutional_response": "The Senate initially asserted its constitutional role but reversed under pressure; the House was paralyzed by a member's procedural obstruction; the bill eventually became law despite the president's refusal to sign, showing some institutional resilience.",
+        "trait": "restraint",
+        "pattern": "The Supreme Court overturned Humphrey's Executor, eliminating a ninety-year precedent shielding independent agency leaders from at-will presidential removal, while an unqualified loyalist installed as acting DNI ordered mass firings of counterterrorism staff within a day of taking office.",
+        "severity": "extreme",
+        "institutional_response": "No institutional body blocked either action within the week; congressional Democrats issued warnings about the firings but lacked power to reverse them.",
         "exemplars": [
           {
-            "exemplar_id": "wk75_goodfaith_ex01",
+            "exemplar_id": "wk75_restraint_ex01",
             "week": 75,
             "event_ids": [
-              "wk75_PA_006"
+              "wk75_IG_001"
             ],
             "developments": [
               {
-                "development_id": "wk75_PA_006",
-                "development_label": "Trump canceled the signing of a bipartisan housing bill to force passage of the SAVE America Act.",
+                "development_id": "wk75_IG_001",
+                "development_label": "SCOTUS overturned Humphrey's Executor, granting presidents at-will removal power over independent agency leaders.",
                 "role": "primary"
               }
             ],
-            "summary": "Bipartisan legislation addressing a genuine public need was held hostage to compel passage of an unrelated voting-restriction bill.",
-            "why_exemplary": "Multi-source corroborated reporting shows legislation being treated as leverage rather than a settled outcome of the lawmaking process, defeating the purpose of bicameral deliberation.",
+            "summary": "A long-standing precedent insulating independent regulatory agencies from presidential removal power was eliminated in a single ruling, concentrating executive control.",
+            "why_exemplary": "A structural, durable removal of an institutional check, converting independent oversight bodies into instruments answerable to political loyalty.",
             "exemplar_type": "primary"
           },
           {
-            "exemplar_id": "wk75_goodfaith_ex02",
+            "exemplar_id": "wk75_restraint_ex02",
             "week": 75,
             "event_ids": [
-              "wk75_PA_007",
-              "wk75_PA_008"
+              "wk75_PA_004"
             ],
             "developments": [
               {
-                "development_id": "wk75_PA_007",
-                "development_label": "Trump berated Republican senators for supporting a war-powers resolution on Iran.",
+                "development_id": "wk75_PA_004",
+                "development_label": "William Pulte ordered mass firing of roughly 300 National Counterterrorism Center staff on his first day as acting DNI.",
                 "role": "primary"
-              },
-              {
-                "development_id": "wk75_PA_008",
-                "development_label": "Senate Republicans reversed their prior vote and rejected a binding war-powers resolution after presidential pressure.",
-                "role": "secondary"
               }
             ],
-            "summary": "Senators who had just asserted constitutional war-powers authority reversed their vote after direct presidential intimidation days later.",
-            "why_exemplary": "Multi-source corroborated reporting documents a rare institutional assertion collapsing under personal pressure within the same week, showing the fragility of legislative independence.",
+            "summary": "An unqualified political loyalist purged national-security staff en masse within a day of assuming leadership of the intelligence community.",
+            "why_exemplary": "Tier-1 corroborated; illustrates rapid, unrestrained use of appointment power to hollow out institutional expertise for loyalty.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "ethics",
-        "pattern": "A no-bid $1.7 million contract for reflecting pool repairs went to a firm owned by a Trump donor following a failed renovation, and large-scale taxpayer-funded construction projects, including a triumphal arch, raised self-aggrandizement concerns.",
-        "severity": "concerning",
-        "institutional_response": "A senator sought documents on contracting and management; no independent ethics enforcement action is documented within the week.",
+        "pattern": "A no-bid $1.7 million contract for pool repairs was awarded to a firm owned by a presidential donor, in the same week ordinary citizens were arrested and detained for touching the same defective installation, while over $1 billion in construction projects including a triumphal arch proceeded with murky public funding.",
+        "severity": "serious",
+        "institutional_response": "Reporting exposed the contract and funding gaps; no procurement review or corrective action occurred within the week.",
         "exemplars": [
           {
             "exemplar_id": "wk75_ethics_ex01",
             "week": 75,
             "event_ids": [
-              "wk75_ES_001"
+              "wk75_ES_002",
+              "wk75_PA_007"
             ],
             "developments": [
               {
-                "development_id": "wk75_ES_001",
-                "development_label": "National Park Service awarded a no-bid $1.7 million contract for reflecting pool repairs to a firm owned by a Trump donor.",
+                "development_id": "wk75_ES_002",
+                "development_label": "National Park Service awarded a no-bid $1.7 million contract to a firm owned by a Trump donor.",
                 "role": "primary"
+              },
+              {
+                "development_id": "wk75_PA_007",
+                "development_label": "US Park Police arrested an elderly Olympic canoeist for touching the defective pool liner.",
+                "role": "secondary"
               }
             ],
-            "summary": "A politically connected donor received a no-bid contract to repair a failed renovation project, without competitive bidding.",
-            "why_exemplary": "Tier-one corroborated reporting documents a direct conflict-of-interest pathway between political donations and public contracting decisions.",
+            "summary": "A donor-linked firm received an uncompeted repair contract for the same site where an ordinary citizen was detained for hours over incidental contact with the installation.",
+            "why_exemplary": "Both tier-1/multi-source corroborated; the contrast between prosecutorial force against a private citizen and frictionless enrichment of a connected donor exemplifies the week's core ethical asymmetry.",
             "exemplar_type": "primary"
           },
           {
             "exemplar_id": "wk75_ethics_ex02",
             "week": 75,
             "event_ids": [
-              "wk75_ES_012"
+              "wk75_ES_013"
             ],
             "developments": [
               {
-                "development_id": "wk75_ES_012",
-                "development_label": "Trump commissioned over $1 billion in construction projects including a triumphal arch, funded partly through diverted taxpayer funds.",
+                "development_id": "wk75_ES_013",
+                "development_label": "Over $1 billion in construction projects, including a 250-foot triumphal arch, proceeded with murky public-versus-private funding.",
                 "role": "primary"
               }
             ],
-            "summary": "Major commemorative construction projects raised questions about diverted public funds serving personal legacy-building rather than public need.",
-            "why_exemplary": "Multi-source corroborated reporting shows substantial taxpayer resources directed toward self-commemorative projects amid ongoing procurement controversy.",
+            "summary": "A New York Times analysis found substantial taxpayer exposure behind a series of presidentially favored construction projects despite claims of private funding.",
+            "why_exemplary": "Tier-1 corroborated; recurring pattern of opaque public financing for presidentially associated monuments and projects.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
-        "trait": "restraint",
-        "pattern": "Federal and deputized officers arrested and detained civilians, including an elderly Olympic athlete held incommunicado, for minor contact with a defective public installation, while out-of-state law enforcement was deployed and a US Attorney publicly threatened aggressive prosecution.",
+        "trait": "truthfulness",
+        "pattern": "The president made escalating, unsubstantiated claims of criminal vandalism at a national monument, later used to justify arrests and fencing, while officials attributed the damage to 'leftist activists' without evidence; separately, the vice president publicly claimed diplomatic progress on Iran that Iranian officials directly denied.",
         "severity": "concerning",
-        "institutional_response": "Some charges were later scrutinized and dropped after judicial and public pressure, but the initial enforcement response was disproportionate and widely enabled by federal leadership.",
+        "institutional_response": "No independent verification or retraction occurred; the false narrative became embedded in enforcement action and a procurement contract.",
         "exemplars": [
           {
-            "exemplar_id": "wk75_restraint_ex01",
+            "exemplar_id": "wk75_truthfulness_ex01",
             "week": 75,
             "event_ids": [
-              "wk75_PA_002",
-              "wk75_PA_004"
+              "wk75_IM_001",
+              "wk75_IM_006"
             ],
             "developments": [
               {
-                "development_id": "wk75_PA_002",
-                "development_label": "US Park Police and National Guard arrested and detained citizens at the reflecting pool, including a 67-year-old Olympic canoeist held incommunicado for five hours.",
+                "development_id": "wk75_IM_001",
+                "development_label": "Trump made repeated escalating false claims of criminal vandalism at the reflecting pool.",
                 "role": "primary"
               },
               {
-                "development_id": "wk75_PA_004",
-                "development_label": "Jeanine Pirro announced aggressive prosecution of anyone touching or vandalizing the reflecting pool.",
+                "development_id": "wk75_IM_006",
+                "development_label": "Interior Department attributed the damage to 'leftist activists' without evidence.",
                 "role": "secondary"
               }
             ],
-            "summary": "Disproportionate arrests and public threats of full prosecution followed minor contact with a defective public installation.",
-            "why_exemplary": "Multi-source and tier-one corroborated reporting document a scaled, punitive law-enforcement response inconsistent with the severity of the underlying conduct.",
+            "summary": "Fabricated claims of sabotage at a national monument, never substantiated with evidence, were used to justify arrests, fencing, and restricted public access.",
+            "why_exemplary": "Tier-1 and multi-source corroborated; demonstrates disinformation directly converted into coercive state action against citizens.",
             "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk75_truthfulness_ex02",
+            "week": 75,
+            "event_ids": [
+              "wk75_IM_008"
+            ],
+            "developments": [
+              {
+                "development_id": "wk75_IM_008",
+                "development_label": "JD Vance claimed diplomatic progress on Iran nuclear inspections that Iran directly denied.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The vice president publicly asserted a diplomatic breakthrough that the other party to the negotiation immediately contradicted.",
+            "why_exemplary": "Tier-1 corroborated; misrepresentation of sensitive foreign-policy status to the public undermines informed democratic oversight of national security matters.",
+            "exemplar_type": "secondary"
           }
         ]
       },
       {
         "trait": "character",
-        "pattern": "The president used dehumanizing rhetoric against political opponents at a conservative conference, calling them 'godless communists' and 'animals,' while a senior House Republican made ethnic denunciations of Somali immigrants.",
-        "severity": "concerning",
-        "institutional_response": "No documented rebuke from party leadership; rhetoric appears to have proceeded without internal correction.",
+        "pattern": "The Speaker of the House publicly pledged to use committee chairs to block investigations into the president's family, cabinet, and donors if Republicans retain the majority, an explicit statement of intent to subordinate the legislature's oversight duty to partisan protection.",
+        "severity": "serious",
+        "institutional_response": "The statement drew media criticism but no formal rebuke from within the chamber during the week.",
         "exemplars": [
           {
             "exemplar_id": "wk75_character_ex01",
             "week": 75,
             "event_ids": [
-              "wk75_PA_011"
+              "wk75_PA_008"
             ],
             "developments": [
               {
-                "development_id": "wk75_PA_011",
-                "development_label": "Trump called Democratic political opponents 'godless communists' and 'animals' at a religious conservative conference.",
+                "development_id": "wk75_PA_008",
+                "development_label": "Mike Johnson pledged to shield the administration from congressional oversight if Republicans retain control.",
                 "role": "primary"
               }
             ],
-            "summary": "The president used dehumanizing language against domestic political opponents ahead of midterm elections.",
-            "why_exemplary": "Tier-one corroborated reporting documents escalating rhetorical delegitimization of dissent from the nation's highest office.",
+            "summary": "The Speaker of the House openly stated he would use his chairmanship power to obstruct investigations into the administration's conduct.",
+            "why_exemplary": "An explicit, on-record renunciation of the legislature's oversight duty in favor of partisan loyalty, undermining the oath's obligation to institutional function over personal or party advantage.",
             "exemplar_type": "primary"
           }
         ]
@@ -234,66 +257,83 @@
     "norms_strengthened": [
       {
         "trait": "good_faith",
-        "pattern": "Federal courts repeatedly blocked executive attempts to centralize control over elections, striking down the SAVE database voter-roll screening, a proof-of-citizenship mandate, and mail-in voting restrictions, while an appellate court rejected a bid for Michigan's voter data.",
+        "pattern": "Federal judges issued a sustained, specific run of rulings defending election mechanics: blocking a citizenship-verification executive order, invalidating a mail-ballot data rule, barring use of an error-prone immigration database to purge voter rolls, and rejecting a ninth consecutive DOJ attempt to obtain state voter files.",
         "scope": "institutional",
-        "why_it_matters": "Consistent judicial enforcement of state authority over elections against a determined executive effort to centralize control preserves a foundational structural check even as pressure on that check intensifies.",
+        "why_it_matters": "A coordinated federal effort to control voter rolls and restrict mail voting was blocked on multiple independent fronts in a single week, showing that judicial review of election administration remains a functioning and comprehensive check even amid executive pressure elsewhere.",
         "exemplars": [
           {
-            "exemplar_id": "wk75_goodfaith_strength_ex01",
+            "exemplar_id": "wk75_good_faith_strength_ex01",
             "week": 75,
             "event_ids": [
-              "wk75_IG_010",
-              "wk75_IG_012"
+              "wk75_IG_004",
+              "wk75_IG_005"
             ],
             "developments": [
               {
-                "development_id": "wk75_IG_010",
-                "development_label": "Judge Sparkle Sooknanan blocked use of the SAVE database to screen state voter rolls.",
+                "development_id": "wk75_IG_004",
+                "development_label": "Judge Casper permanently blocked an executive order asserting federal control over voter citizenship verification.",
                 "role": "primary"
               },
               {
-                "development_id": "wk75_IG_012",
-                "development_label": "Judge Denise Casper permanently blocked provisions of Trump's executive order asserting federal power over elections.",
-                "role": "secondary"
+                "development_id": "wk75_IG_005",
+                "development_label": "Judge Talwani ruled unconstitutional an executive order restricting mail-in voting and postal delivery holds.",
+                "role": "primary"
               }
             ],
-            "summary": "Federal courts blocked a voter-roll screening tool and a proof-of-citizenship mandate, reaffirming limits on presidential authority over elections.",
-            "why_exemplary": "Tier-one corroborated rulings show courts actively dismantling a coordinated federal push to centralize election administration.",
+            "summary": "Two federal judges independently struck down separate executive orders attempting to centralize control over voter verification and mail balloting.",
+            "why_exemplary": "Both tier-1 corroborated; distinct rulings on the same day targeting different pieces of a coordinated election-control effort demonstrate robust and non-isolated judicial resistance.",
             "exemplar_type": "primary"
           },
           {
-            "exemplar_id": "wk75_goodfaith_strength_ex02",
+            "exemplar_id": "wk75_good_faith_strength_ex02",
             "week": 75,
             "event_ids": [
-              "wk75_IG_013",
-              "wk75_IG_011"
+              "wk75_IG_006",
+              "wk75_IG_017"
             ],
             "developments": [
               {
-                "development_id": "wk75_IG_013",
-                "development_label": "Judge Indira Talwani ruled Trump's executive order restricting mail-in voting unconstitutional.",
+                "development_id": "wk75_IG_006",
+                "development_label": "Judge Sooknanan blocked use of an error-prone immigration database to purge state voter rolls.",
                 "role": "primary"
               },
               {
-                "development_id": "wk75_IG_011",
-                "development_label": "The Sixth Circuit rejected the administration's lawsuit seeking Michigan's voter rolls.",
+                "development_id": "wk75_IG_017",
+                "development_label": "A federal judge issued a ninth consecutive ruling against DOJ efforts to obtain state voter files.",
                 "role": "secondary"
               }
             ],
-            "summary": "Additional courts struck down mail-voting restrictions and rejected a federal bid for state voter data.",
-            "why_exemplary": "Tier-one and single-source corroborated rulings together show a consistent, multi-jurisdictional judicial pattern defending state control of elections.",
+            "summary": "Courts repeatedly rejected a nationwide administration effort to obtain and use voter data, culminating in a ninth consecutive adverse ruling.",
+            "why_exemplary": "Tier-1 and multi-source corroborated; a sustained, cumulative pattern of judicial rejection signals institutional consistency rather than one-off intervention.",
             "exemplar_type": "secondary"
           }
         ]
       },
       {
-        "trait": "stewardship",
-        "pattern": "The Senate passed a bipartisan war-powers resolution requiring congressional approval to continue Iran hostilities, and the House and Senate passed a bipartisan housing bill, showing continued capacity for cross-partisan lawmaking even under strain.",
+        "trait": "restraint",
+        "pattern": "A federal court quashed DOJ subpoenas against Minnesota officials as politically motivated harassment, and New York enacted a law allowing individuals to sue federal agents retroactively for constitutional violations, both asserting limits on federal enforcement overreach.",
         "scope": "cross-partisan",
-        "why_it_matters": "Bipartisan legislative action, even when later partially reversed or contested, demonstrates that Congress retains functional capacity to legislate and assert constitutional prerogatives.",
+        "why_it_matters": "State and judicial pushback against federally directed coercion demonstrates that mechanisms for restraining executive power outside the presidency itself remain active.",
         "exemplars": [
           {
-            "exemplar_id": "wk75_stewardship_strength_ex01",
+            "exemplar_id": "wk75_restraint_strength_ex01",
+            "week": 75,
+            "event_ids": [
+              "wk75_IG_008"
+            ],
+            "developments": [
+              {
+                "development_id": "wk75_IG_008",
+                "development_label": "A federal court quashed DOJ subpoenas against Minnesota officials as politically motivated.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A court found that federal subpoenas targeting state officials over sanctuary policy were issued to harass rather than investigate.",
+            "why_exemplary": "Judicial recognition of bad-faith federal coercion against state officials reinforces limits on prosecutorial power being used as political retaliation.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk75_restraint_strength_ex02",
             "week": 75,
             "event_ids": [
               "wk75_IG_009"
@@ -301,29 +341,12 @@
             "developments": [
               {
                 "development_id": "wk75_IG_009",
-                "development_label": "The US Senate passed a war-powers resolution requiring congressional approval to continue Iran hostilities.",
+                "development_label": "New York enacted a law allowing retroactive civil suits against federal agents for constitutional violations.",
                 "role": "primary"
               }
             ],
-            "summary": "A bipartisan Senate majority asserted constitutional authority over unilateral executive military action.",
-            "why_exemplary": "Multi-source corroborated reporting documents a rare, direct legislative assertion of war-powers authority against presidential preference.",
-            "exemplar_type": "primary"
-          },
-          {
-            "exemplar_id": "wk75_stewardship_strength_ex02",
-            "week": 75,
-            "event_ids": [
-              "wk75_IG_023"
-            ],
-            "developments": [
-              {
-                "development_id": "wk75_IG_023",
-                "development_label": "The US House and Senate passed the bipartisan 21st Century Road to Housing Act.",
-                "role": "primary"
-              }
-            ],
-            "summary": "Congress advanced housing legislation with strong bipartisan support despite subsequent executive obstruction of its signing.",
-            "why_exemplary": "This development shows ordinary bipartisan legislative function persisting even as it became the target of executive hostage-taking.",
+            "summary": "A state legislature created a retroactive accountability mechanism for federal enforcement conduct within its borders.",
+            "why_exemplary": "Tier-1 corroborated; demonstrates state-level institutional response to federal overreach through legitimate legislative means.",
             "exemplar_type": "secondary"
           }
         ]
@@ -332,35 +355,34 @@
     "direction_of_movement": "mixed_but_stable"
   },
   "cumulative_condition": {
-    "narrative": "Week 75 extends the deteriorating trajectory documented through Week 74, but with a somewhat more mixed character. The fusion of personal and family financial interest with public office, evident in the donor-linked no-bid reflecting pool contract and commemorative construction spending, continues a pattern established in prior weeks of blurring public resources and private or political benefit. The use of a fabricated vandalism narrative to justify arrests, fencing, and prosecution threats represents a new and concerning escalation in truthfulness breaches: falsehood was not simply asserted but operationalized into coercive state action, including a supporting court filing from a federal official.\n\nThe legislative hostage-taking over the housing bill, paired with the reversal of the Senate's war-powers vote under direct presidential pressure, shows the same pattern flagged in Week 74 of institutional assertions of independence proving fragile under sustained executive coercion. Where Week 74 saw senators criticize the Iran deal despite threats and hold that position, Week 75 shows a comparable assertion (the war-powers resolution) actually collapse within days under similar pressure. This suggests that resistance capacity, while still present, may be eroding under repetition.\n\nAt the same time, the judiciary's performance this week was unusually robust and consistent: multiple courts blocked distinct pieces of a coordinated federal effort to centralize control over elections, and other courts protected due-process and disclosure interests in immigration and Epstein-related matters. This is a meaningful continuation of the 'reactive but real' judicial resistance noted in the prior summary, and on election matters specifically, it was more comprehensive than in recent weeks. The Supreme Court's expansion of executive discretion over TPS, asylum metering, and green-card deportations, however, shows that this resistance is not uniform across the judicial system, and that the nation's highest court continues to expand executive latitude in immigration even as lower courts constrain it elsewhere.",
-    "trend": "deteriorating",
+    "narrative": "Week 75 continues the unstable equilibrium documented in prior weeks, but the character of the instability has shifted somewhat. Where Week 74 centered on flagrant self-dealing and deliberation over extreme emergency powers, Week 75 shows those patterns persisting at a lower register while a new structural breach emerged: the Supreme Court's elimination of Humphrey's Executor permanently narrows the space in which independent institutions can resist presidential political pressure, a durable change unlikely to be reversed by ordinary political contest. This sits alongside a Senate that asserted, then abandoned, war-powers authority within the same week under direct presidential confrontation, echoing the brittleness of legislative resistance seen previously.\n\nThe donor-contract-versus-citizen-arrest pattern at the reflecting pool distills a recurring theme from Week 74's no-bid contracting and self-dealing: public resources and public force are applied asymmetrically, with connected actors insulated from consequence and ordinary citizens exposed to disproportionate state power. The Speaker's explicit pledge to shield the administration from oversight, should Republicans retain the House, extends the character concerns raised by fund-diversion and impunity patterns noted in the prior week's summary, suggesting that a structural retreat from institutional accountability is being planned rather than merely tolerated.\n\nAgainst this, the judiciary's performance on election mechanics was unusually comprehensive and sustained, touching voter rolls, citizenship verification, and mail balloting through several independent rulings in a single week, continuing a trend of resilience noted in prior weeks even as the same courts, at the Supreme Court level, moved in the opposite direction on immigration and executive removal power. This divergence, an institution defending democratic mechanics on one front while yielding structural ground on another, is the central feature of the current trajectory: no uniform capture, but an uneven and still-contested terrain where some checks hold and others fail.",
+    "trend": "unstable",
     "stress_points": [
-      "operationalized falsehood used to justify arrests and access restrictions",
-      "legislation held hostage to force unrelated policy demands",
-      "collapse of a legislative war-powers assertion under direct presidential pressure",
-      "donor-linked no-bid contracting following a failed public project",
-      "dehumanizing rhetoric against political opponents from the highest office",
-      "Supreme Court expansion of unchecked executive discretion over immigration and removal"
+      "structural elimination of independent-agency removal protections",
+      "brittle legislative war-powers assertions collapsing under direct presidential pressure",
+      "donor-linked no-bid contracting alongside disproportionate enforcement against ordinary citizens",
+      "explicit legislative leadership commitment to obstruct future oversight",
+      "fabricated vandalism narrative converted into arrests and procurement decisions",
+      "erosion of due-process protections for immigrants via Supreme Court rulings"
     ],
     "sources_of_resilience": [
-      "consistent lower-court blocking of coordinated federal election-control measures",
-      "appellate rejection of federal attempts to seize state voter data",
-      "continued bipartisan legislative capacity on housing policy",
-      "judicial enforcement of disclosure obligations in Epstein-related litigation",
-      "state-level accountability action against federal agents' alleged misconduct",
-      "civil society and advocacy mobilization around disability and immigrant rights"
+      "sustained, multi-front judicial defense of election administration and voter rolls",
+      "state-level legislative and prosecutorial pushback against federal enforcement overreach",
+      "courts quashing politically motivated federal subpoenas against state officials",
+      "congressional oversight subpoena activity continuing on Epstein-related matters",
+      "initial bipartisan Senate assertion of war-powers authority, even though later reversed"
     ]
   },
   "risk_assessment": {
-    "level": "severe",
-    "justification": "The moral floor remains under severe stress. This week featured no single action as extreme as the prior week's contemplation of habeas suspension, but it demonstrated a troubling operational sophistication: fabricated narratives translated directly into coercive arrests, prosecution threats, and access restrictions, and legislative leverage was used successfully to hold a bipartisan bill hostage. The collapse of the Senate's war-powers assertion under direct presidential pressure, mirroring but reversing a form of resistance seen the week before, suggests that even successful institutional pushback can be reversed quickly when the executive applies sustained personal pressure. Countervailing this, the judiciary's performance on election-related matters was unusually consistent and comprehensive, blocking multiple distinct federal measures aimed at centralizing control over voter rolls, citizenship verification, and mail voting. This sustained judicial resistance, combined with continued bipartisan legislative capacity, keeps the assessment at severe rather than critical, but the reversal of the war-powers vote and the operationalization of a fabricated public narrative into state coercion indicate a narrowing margin before further erosion becomes difficult to reverse.",
+    "level": "critical",
+    "justification": "The moral floor remains critically compromised. The Supreme Court's elimination of Humphrey's Executor is a structural, durable change that removes a long-standing check on presidential control over regulatory and oversight bodies, compounding the removal-power and loyalty-testing concerns raised in prior weeks regarding intelligence leadership. The Senate's reversal of its own war-powers resolution within days, under direct presidential pressure, demonstrates that even successful assertions of constitutional authority remain fragile and reversible through personal confrontation rather than institutional process. The pairing of a donor-linked no-bid contract with the arrest and detention of an ordinary citizen over the same defective installation exemplifies a recurring asymmetry in which public power protects the connected and punishes the powerless. The Speaker's explicit pledge to obstruct future oversight signals that this asymmetry may become structurally entrenched rather than incidental.",
     "forward_signals": [
-      "whether reflecting-pool prosecutions proceed despite thin evidentiary support",
-      "whether the housing bill hostage-taking becomes a template for future legislative leverage",
-      "whether further war-powers assertions by Congress prove durable or collapse again under pressure",
-      "whether Supreme Court immigration rulings are operationalized into large-scale removals of TPS holders and green-card residents",
-      "whether the acting DNI's mass firings at NCTC proceed and reshape intelligence community independence",
-      "whether donor-linked contracting practices draw congressional or inspector-general scrutiny"
+      "whether the Speaker's pledge to block oversight translates into concrete committee obstruction after the midterms",
+      "whether Humphrey's Executor's reversal is followed by further removals of independent agency leaders",
+      "whether the Senate's war-powers capitulation becomes a durable pattern under future pressure",
+      "whether the Epstein-related subpoenas and court-ordered transparency measures produce disclosed records or further stonewalling",
+      "whether the sustained judicial resistance on voter rolls persists as midterm elections approach",
+      "whether donor-linked procurement practices draw any formal ethics or inspector-general scrutiny"
     ]
   }
 }

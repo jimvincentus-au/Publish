@@ -1,0 +1,444 @@
+{
+  "week_number": 90,
+  "period_label": "Week 90",
+  "window": {
+    "start": "2026-10-03",
+    "end": "2026-10-09"
+  },
+  "clock_time_public": "7:35 p.m.",
+  "clock_delta_minutes": -0.1,
+  "baseline_traits": [
+    {
+      "name": "character",
+      "definition": "Internal discipline to align words with deeds, to place public duty ahead of personal gain, and to honour the oath of office even when it conflicts with short-term advantage."
+    },
+    {
+      "name": "ethics",
+      "definition": "Commitment to keep a firm boundary between public power and private interest, avoiding conflicts of interest, self-dealing, and the use of office to enrich oneself, family, or allies."
+    },
+    {
+      "name": "restraint",
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+    },
+    {
+      "name": "truthfulness",
+      "definition": "Obligation to speak accurately on matters of public consequence, avoid deliberate disinformation, correct false statements, and ensure that citizens are not governed by manufactured unreality."
+    },
+    {
+      "name": "good_faith",
+      "definition": "Adherence to the spirit as well as the letter of democratic rules, keeping promises, respecting outcomes, and avoiding procedural manipulation that defeats the purpose of the law."
+    },
+    {
+      "name": "stewardship",
+      "definition": "Responsibility to maintain and strengthen institutions so they can serve future generations as well as the present, avoiding actions that permanently damage capacity, credibility, or public trust."
+    }
+  ],
+  "weekly_audit": {
+    "summary": "Week 90 shows the moral floor under sustained, open pressure rather than sudden collapse. The president explicitly asserted unlimited personal authority, directed appropriated funds toward self-promotion and election-contingent cash payments, and accepted or facilitated financial arrangements benefiting himself and close allies through foreign actors. Immigration enforcement produced a serious use-of-force incident and mass data collection targeting voters. Courts, state and local governments, and civil society organizations mounted specific, successful countermeasures, including a ruling against unlawful DOJ voter-roll collection and bipartisan revulsion at a planned livestreamed execution. The pattern is one of normalized testing of limits met by persistent, if uneven, institutional resistance.",
+    "norms_broken": [
+      {
+        "trait": "restraint",
+        "pattern": "Trump explicitly claimed unlimited personal power ('I can do whatever I want') after describing his choice not to prosecute political rivals as restraint, while diverting DHS funds for self-promotional ads, deferring federal diesel taxes by unilateral order, and proposing payments and a personal retreat tied to the office.",
+        "severity": "serious",
+        "institutional_response": "Common Cause and the DNC sued over the ad diversion; courts have not yet ruled on the merits; no internal executive branch check occurred.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk90_restraint_ex01",
+            "week": 90,
+            "event_ids": [
+              "wk90_PA_007"
+            ],
+            "developments": [
+              {
+                "development_id": "wk90_PA_007",
+                "development_label": "Trump stated he could have prosecuted Clinton, Biden, and Obama but chose restraint, then asserted he could do whatever he wanted.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A sitting president explicitly claimed unconstrained personal authority while framing non-prosecution of rivals as a discretionary favor rather than a constitutional norm.",
+            "why_exemplary": "Direct, multi-source corroborated statement that reframes restraint as optional personal choice rather than structural limitation on power.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk90_restraint_ex02",
+            "week": 90,
+            "event_ids": [
+              "wk90_PA_004",
+              "wk90_ES_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk90_PA_004",
+                "development_label": "Trump signed an executive order deferring diesel fuel excise taxes through year-end, exploring permanent forgiveness.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk90_ES_001",
+                "development_label": "Federal Register publication formalized the tax-deferral order.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Unilateral suspension of federal tax collection, announced mid-rally, extends executive reach into congressional tax and appropriations authority.",
+            "why_exemplary": "Tier-1 corroborated formal action demonstrating willingness to bypass legislative control over revenue, paired with campaign-style delivery.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Executive and campaign actors tied public benefits and governance decisions to election outcomes: Medicare premium payments and a promised $5,000 per-adult payment contingent on a Republican midterm win, and a diesel-supply deal with Russia timed just before the election.",
+        "severity": "serious",
+        "institutional_response": "Media and opposition researchers flagged the arrangements as campaign inducements; no binding legal remedy occurred within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk90_good_faith_ex01",
+            "week": 90,
+            "event_ids": [
+              "wk90_PA_002",
+              "wk90_PA_003"
+            ],
+            "developments": [
+              {
+                "development_id": "wk90_PA_002",
+                "development_label": "Trump tied larger future Medicare premium payments to a Republican midterm win.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk90_PA_003",
+                "development_label": "Trump promised $5,000 payments to all adult citizens contingent on a Republican win.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Government benefit programs and promised direct payments were explicitly linked to a partisan election outcome rather than administered neutrally.",
+            "why_exemplary": "Tier-1 corroborated examples of conditioning public resources on electoral results, a direct inversion of neutral governance.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk90_good_faith_ex02",
+            "week": 90,
+            "event_ids": [
+              "wk90_PA_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk90_PA_011",
+                "development_label": "Trump announced a deal with Putin for Russia to supply diesel fuel ahead of the midterms.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A foreign-policy reversal benefiting domestic fuel supply was timed and announced just before elections, raising concerns about using diplomacy for electoral gain.",
+            "why_exemplary": "Tier-1 corroborated foreign-policy action with explicit midterm timing, illustrating procedural manipulation of governance for partisan benefit.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "Multiple financial entanglements surfaced simultaneously: Kushner's Lukoil negotiations with Putin benefiting Trump-linked investors, a $400 million Qatari jet gift, $2.2 billion in disclosed business earnings including $1.4 billion from a family cryptocurrency venture, insider selling during a promoted memecoin dinner, and a DHS aircraft purchase from a political donor at inflated prices.",
+        "severity": "extreme",
+        "institutional_response": "Press investigations surfaced most arrangements; no independent ethics enforcement or divestment occurred within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk90_ethics_ex01",
+            "week": 90,
+            "event_ids": [
+              "wk90_PA_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk90_PA_005",
+                "development_label": "Jared Kushner negotiated with Putin to purchase sanctioned Lukoil assets at depressed prices, benefiting Trump-linked investors.",
+                "role": "primary"
+              }
+            ],
+            "summary": "An informal White House-linked channel arranged a lucrative deal with a wartime adversary, raising conflict-of-interest and foreign-influence concerns.",
+            "why_exemplary": "Tier-1 corroborated instance of private enrichment through foreign-policy-adjacent channels during active hostilities.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk90_ethics_ex02",
+            "week": 90,
+            "event_ids": [
+              "wk90_ES_018"
+            ],
+            "developments": [
+              {
+                "development_id": "wk90_ES_018",
+                "development_label": "DHS purchased five aircraft at inflated prices from a political donor on an outgoing secretary's last day.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A high-value government procurement from a political donor at above-market prices on an official's final day raises direct self-dealing concerns.",
+            "why_exemplary": "Tier-1 corroborated procurement irregularity timed to minimize accountability, illustrating institutionalized conflicts of interest.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "An ICE agent with a documented history of unlawful arrests shot a man in the neck during an enforcement operation with a five-year-old child present, and DHS leadership defended the shooting and dismissed a mayor's criticism as dangerous.",
+        "severity": "serious",
+        "institutional_response": "NYC's mayor demanded ICE's removal from the city; DHS defended the agent rather than reviewing conduct; no independent investigation outcome reported within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk90_character_ex01",
+            "week": 90,
+            "event_ids": [
+              "wk90_CR_016",
+              "wk90_CR_018"
+            ],
+            "developments": [
+              {
+                "development_id": "wk90_CR_016",
+                "development_label": "ICE agent shot a man in the neck during a Manhattan enforcement operation with a child present.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk90_CR_018",
+                "development_label": "DHS Secretary defended the shooting and dismissed the mayor's criticism as dangerous.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A disproportionate use of force by an agent with a prior record was met with official defense rather than accountability review.",
+            "why_exemplary": "Multi-source corroborated use-of-force incident paired with institutional defense rather than correction, indicating normalized impunity.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "The administration and allied actors engaged in multiple acts of deliberate falsehood: denying press access despite court orders, false accusations against the New York Times, cropped rally photos, false claims about a recovering opponent, and PAC mailers containing acknowledged falsehoods.",
+        "severity": "concerning",
+        "institutional_response": "A federal judge pressed the Justice Department on justifications for the press ban; media outlets corrected the record; no binding compliance achieved within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk90_truthfulness_ex01",
+            "week": 90,
+            "event_ids": [
+              "wk90_IM_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk90_IM_001",
+                "development_label": "The White House repeatedly barred Politico and CNN from the press pool despite a court order requiring reinstated access.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Continued exclusion of news organizations after a judicial order demonstrates open defiance of court authority over press access.",
+            "why_exemplary": "Tier-1 corroborated, sustained noncompliance with a specific judicial remedy, directly undermining both truthfulness and institutional accountability.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk90_truthfulness_ex02",
+            "week": 90,
+            "event_ids": [
+              "wk90_IM_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk90_IM_009",
+                "development_label": "Trump falsely claimed Senate candidate James Talarico was 'missing in action' while he was recovering from illness.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A deliberately false claim about an opponent's health and whereabouts was circulated for political advantage ahead of an election.",
+            "why_exemplary": "Multi-source corroborated disinformation targeting a specific candidate during the final pre-election weeks.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Federal agencies turned election-security infrastructure toward surveillance of voters and civic organizations: mass collection of voter rolls later ruled unlawful, investigation of over 150 voter-registration groups, ICE integration of voter data into deportation targeting, and appointment of an election denier to oversee fraud investigations.",
+        "severity": "serious",
+        "institutional_response": "A federal judge ruled the DOJ's voter-roll collection unlawful; the NAACP sued over planned election monitors; investigations largely found no wrongdoing yet continued regardless.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk90_stewardship_ex01",
+            "week": 90,
+            "event_ids": [
+              "wk90_IG_018"
+            ],
+            "developments": [
+              {
+                "development_id": "wk90_IG_018",
+                "development_label": "A federal judge ruled DOJ's collection of unredacted state voter rolls for immigration cross-checking unlawful.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A federal attempt to seize control of state voter-roll data for immigration enforcement purposes was found unlawful just weeks before the midterms.",
+            "why_exemplary": "Tier-1 corroborated judicial finding against a significant breach of institutional boundaries between voter administration and immigration enforcement.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk90_stewardship_ex02",
+            "week": 90,
+            "event_ids": [
+              "wk90_CR_014",
+              "wk90_IM_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk90_CR_014",
+                "development_label": "ICE collected tens of millions of voter records for integration into a deportation-targeting database.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk90_IM_011",
+                "development_label": "An election denier was placed in a prominent role directing noncitizen voting investigations.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Election infrastructure was repurposed toward immigration enforcement and staffed with a known election denier ahead of the midterms.",
+            "why_exemplary": "Combines Tier-1 reporting on data misuse with leadership placement, showing systemic redirection of institutional capacity against its intended purpose.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      }
+    ],
+    "norms_strengthened": [
+      {
+        "trait": "good_faith",
+        "pattern": "Courts issued specific, binding rulings against executive overreach: the DOJ voter-roll collection was found unlawful, a DHS biometrics policy was partly stayed as arbitrary and capricious, and a judge ordered disclosure of the legal memo behind lethal boat strikes.",
+        "scope": "institutional",
+        "why_it_matters": "Specific judicial rulings against the executive, rather than mere procedural stays, demonstrate continued capacity to constrain overreach even amid sustained pressure.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk90_good_faith_strength_ex01",
+            "week": 90,
+            "event_ids": [
+              "wk90_IG_018"
+            ],
+            "developments": [
+              {
+                "development_id": "wk90_IG_018",
+                "development_label": "A federal judge ruled DOJ's collection of unredacted state voter rolls unlawful.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A judge blocked a federal attempt to seize state voter-roll data for immigration cross-referencing, protecting voter registration integrity ahead of the midterms.",
+            "why_exemplary": "Tier-1 corroborated substantive ruling against executive overreach on a matter directly touching electoral administration.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk90_good_faith_strength_ex02",
+            "week": 90,
+            "event_ids": [
+              "wk90_IG_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk90_IG_009",
+                "development_label": "A federal judge ordered the Pentagon and DOJ to disclose the legal memo justifying boat strikes.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Judicial demand for disclosure of a classified legal opinion underlying lethal military action reasserts court oversight of executive legal claims.",
+            "why_exemplary": "Multi-source corroborated reassertion of judicial authority over an area the executive sought to keep opaque.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "Bipartisan congressional figures publicly condemned the Pentagon's planned livestreamed execution as obscene and comparable to dictatorship, and Vice President Vance distanced himself from the plan.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Cross-partisan revulsion at a specific proposed act of state spectacle demonstrates that some shared ethical limits persist even amid broader polarization.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk90_character_strength_ex01",
+            "week": 90,
+            "event_ids": [
+              "wk90_CR_024"
+            ],
+            "developments": [
+              {
+                "development_id": "wk90_CR_024",
+                "development_label": "Representative Austin Scott, Senator Thom Tillis, and Senator Jon Ossoff publicly criticized the planned livestreamed military execution as obscene and dictatorship-like.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Republican and Democratic lawmakers jointly condemned a proposed livestreamed execution, citing dignity and comparison to authoritarian spectacle.",
+            "why_exemplary": "Tier-1 corroborated bipartisan pushback on a specific executive-branch plan, showing persistence of shared normative limits.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Local and civil-society actors used litigation and organizing to defend institutional boundaries: the NAACP sued over planned election monitors, Arlington County sued to block a triumphal arch, Disney/ABC challenged an FCC license review as retaliatory, and Democratic leadership outlined oversight plans contingent on a midterm win.",
+        "scope": "institutional",
+        "why_it_matters": "Distributed use of litigation and planned oversight by state, local, and private actors preserves checks on executive action even when federal legislative majorities are unavailable.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk90_stewardship_strength_ex01",
+            "week": 90,
+            "event_ids": [
+              "wk90_IG_026"
+            ],
+            "developments": [
+              {
+                "development_id": "wk90_IG_026",
+                "development_label": "Disney and ABC filed a federal court challenge to the FCC's early review of broadcast licenses for ABC-owned stations.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A major broadcaster's legal challenge tests whether regulatory power can be used to coerce editorial content, defending press independence through litigation.",
+            "why_exemplary": "Multi-source corroborated private-sector pushback against regulatory retaliation, reinforcing institutional separation between content regulation and politics.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk90_stewardship_strength_ex02",
+            "week": 90,
+            "event_ids": [
+              "wk90_IG_028"
+            ],
+            "developments": [
+              {
+                "development_id": "wk90_IG_028",
+                "development_label": "Democratic congressional leadership outlined subpoena-backed oversight plans contingent on winning control of Congress.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Articulated oversight plans demonstrate preparation to restore congressional checking capacity on executive conduct if electoral conditions permit.",
+            "why_exemplary": "Shows institutional planning for restored oversight capacity, a structural safeguard contingent on electoral outcomes rather than current enforcement.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      }
+    ],
+    "direction_of_movement": "mixed_but_stable"
+  },
+  "cumulative_condition": {
+    "narrative": "Week 90 continues the trajectory identified at the close of Week 89: an executive branch testing the outer boundary of legal and ethical constraint through open, undisguised action, met by institutional resistance substantial enough to hold specific lines but not to reverse the broader pattern. The explicit presidential claim of unlimited authority, following a rhetorical framing of non-prosecution as personal favor, extends the prior week's expressed preference for loyalty over independence into a direct assertion of unconstrained power. This was paired with the now-familiar practice of directing appropriated or programmatic funds toward self-promotion and election-contingent payments, continuing a pattern first flagged with the GAO's unconstitutionality finding in Week 89.\n\nFinancial entanglement reached a new density this week, with simultaneous revelations spanning a foreign-adversary-linked business deal, a foreign gift of an aircraft, disclosed personal earnings in the billions, insider cryptocurrency trading, and a donor-favoring government procurement. No single item requires scandal status to register; their accumulation across one week signals that boundary-blurring between office and personal enrichment has become routine rather than exceptional. Simultaneously, the machinery intended to protect elections was again turned toward surveilling the people who organize and register voters, a direct continuation of concerns raised in prior weeks about enforcement apparatus misdirection.\n\nCountervailing institutional capacity remained active and specific rather than symbolic: a federal ruling against unlawful voter-roll collection, judicial pressure for disclosure of military legal justifications, bipartisan congressional revulsion at a proposed execution spectacle, and private-sector litigation against regulatory retaliation. These responses, as in Week 89, required sustained effort from plaintiffs, courts, and individual officials rather than arising from executive self-restraint. The moral floor has not shifted meaningfully from its deteriorating trajectory, but neither has it given way; the pattern of simultaneous testing and resistance, now observed across multiple consecutive weeks, suggests a stable but precarious equilibrium rather than either consolidation or recovery.",
+    "trend": "deteriorating",
+    "stress_points": [
+      "explicit presidential claims of unlimited personal authority",
+      "election-contingent public benefits and foreign-policy timing",
+      "dense accumulation of personal and family financial entanglements",
+      "election-security infrastructure redirected toward voter surveillance",
+      "impunity for use-of-force incidents in immigration enforcement",
+      "sustained noncompliance with press-access court orders"
+    ],
+    "sources_of_resilience": [
+      "judicial rulings against unlawful voter-roll collection and opaque military legal justifications",
+      "bipartisan congressional objection to execution spectacle",
+      "private-sector and civil-society litigation defending press and electoral independence",
+      "local and state government legal challenges to executive overreach",
+      "documented investigative journalism surfacing financial and procurement irregularities",
+      "institutional planning for restored oversight capacity"
+    ]
+  },
+  "risk_assessment": {
+    "level": "critical",
+    "justification": "The explicit presidential assertion of unlimited personal power, combined with the open, undisguised use of appropriated funds and government programs for self-promotion and election-contingent payments, indicates an executive branch no longer treating constitutional and statutory limits as binding constraints but as negotiable obstacles. The density of financial entanglements this week, spanning foreign-adversary business dealings, a foreign aircraft gift, personal earnings disclosures, and donor-favoring procurement, compounds ethics concerns identified in prior weeks into a pattern verging on normalized self-dealing. The redirection of election-security infrastructure toward voter surveillance, including unlawful data collection later struck down by a court, represents a direct threat to electoral integrity mechanisms with the midterms imminent.\n\nThe risk level remains critical rather than escalating to severe because institutional resistance this week was specific and effective in multiple instances: a binding judicial ruling against unlawful voter-roll collection, judicial pressure for military legal disclosure, bipartisan legislative objection to a proposed execution spectacle, and private-sector litigation against regulatory retaliation. These responses demonstrate continued institutional will and capacity, but they depend entirely on continued litigation, individual official courage, and public visibility rather than on any structural check operating automatically. Should the frequency or coordination of resistance diminish, particularly around the imminent midterm elections, escalation to severe risk is plausible.",
+    "forward_signals": [
+      "outcome of DNC and Common Cause lawsuits over taxpayer-funded self-promotional advertising",
+      "whether the Pentagon proceeds with or cancels the livestreamed execution despite bipartisan objection",
+      "further developments in the Kushner-Witkoff Lukoil negotiations and any formal ethics scrutiny",
+      "whether ICE's enforcement tactics face any independent accountability review following the Manhattan shooting",
+      "continued redirection of election-security resources toward voter surveillance ahead of the midterms",
+      "compliance or continued defiance regarding the Air Force One press-access court order"
+    ]
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "week_number": 91,
+  "period_label": "Week 91",
+  "window": {
+    "start": "2026-10-10",
+    "end": "2026-10-16"
+  },
+  "clock_time_public": "7:34 p.m.",
+  "clock_delta_minutes": -0.4,
+  "baseline_traits": [
+    {
+      "name": "character",
+      "definition": "Internal discipline to align words with deeds, to place public duty ahead of personal gain, and to honour the oath of office even when it conflicts with short-term advantage."
+    },
+    {
+      "name": "ethics",
+      "definition": "Commitment to keep a firm boundary between public power and private interest, avoiding conflicts of interest, self-dealing, and the use of office to enrich oneself, family, or allies."
+    },
+    {
+      "name": "restraint",
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+    },
+    {
+      "name": "truthfulness",
+      "definition": "Obligation to speak accurately on matters of public consequence, avoid deliberate disinformation, correct false statements, and ensure that citizens are not governed by manufactured unreality."
+    },
+    {
+      "name": "good_faith",
+      "definition": "Adherence to the spirit as well as the letter of democratic rules, keeping promises, respecting outcomes, and avoiding procedural manipulation that defeats the purpose of the law."
+    },
+    {
+      "name": "stewardship",
+      "definition": "Responsibility to maintain and strengthen institutions so they can serve future generations as well as the present, avoiding actions that permanently damage capacity, credibility, or public trust."
+    }
+  ],
+  "weekly_audit": {
+    "summary": "Week 91 continues a pattern of executive testing met by genuine, if incomplete, institutional resistance. The administration used federal power against a sitting member of Congress, pardoned political allies while prosecuting opponents, defied a court order on taxpayer-funded advertising, and destroyed protected land despite explicit judicial warning. Foreign policy toward Ukraine was conducted by unilateral announcement and leverage over an ally's defenses, with responsibility for a consequential decision disclaimed rather than owned. Disinformation moved through the week with notable velocity, including conspiracy-driven attacks on a Senate candidate amplified by a platform owner with partisan financial stakes, and a press secretary with a documented history of spreading falsehoods who misrepresented her own credentials. Courts, however, repeatedly and specifically ruled against executive overreach, extending orders, denying stays, and using sharp language about lost credibility, while local prosecutors and civil-society litigants continued to assert independent authority over federal conduct.",
+    "norms_broken": [
+      {
+        "trait": "restraint",
+        "pattern": "The administration continued running taxpayer-funded political ads after a court ordered them stopped, felled hundreds of trees at a public golf course despite explicit judicial warning against irreversible action, and the president raised the prospect of pardoning his entire administration including himself.",
+        "severity": "serious",
+        "institutional_response": "Courts extended restraining orders, demanded explanations, and openly rebuked the government's credibility; the administration appealed rather than comply and continued contested conduct in the interim.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk91_restraint_ex01",
+            "week": 91,
+            "event_ids": [
+              "wk91_PA_002",
+              "wk91_IG_016"
+            ],
+            "developments": [
+              {
+                "development_id": "wk91_PA_002",
+                "development_label": "Administration continued taxpayer-funded political ads after a court order to stop.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk91_IG_016",
+                "development_label": "Judge extended the restraining order after finding the administration appeared to violate its own assurances.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Taxpayer-funded political advertising continued running for days after a federal judge ordered it stopped, prompting an extended restraining order.",
+            "why_exemplary": "Tier-1 corroborated, direct defiance of a specific judicial order testing whether executive power is bound by court rulings.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk91_restraint_ex02",
+            "week": 91,
+            "event_ids": [
+              "wk91_PA_003",
+              "wk91_IG_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk91_PA_003",
+                "development_label": "More than 400 trees felled at East Potomac Golf Links despite a judge's warning against irreversible changes.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk91_IG_012",
+                "development_label": "Judge Reyes found the environmental review plan likely unlawful and issued a restraining order.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Government workers destroyed protected parkland in apparent defiance of a judge's explicit instructions, prompting the court to say it had lost all credibility.",
+            "why_exemplary": "Tier-1 corroborated irreversible executive action taken in the shadow of pending litigation, directly undermining judicial authority.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Federal power was deployed against a sitting member of Congress through a predawn raid and property seizure explicitly aimed at stripping her citizenship weeks before her reelection, alongside a stark disparity between pardons for convicted Republicans and prosecutions of sitting Democrats.",
+        "severity": "extreme",
+        "institutional_response": "Legal counsel for the targeted lawmaker challenged the search as unjustified; media and some lawmakers raised selective-enforcement concerns; no independent check halted the underlying investigation within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk91_good_faith_ex01",
+            "week": 91,
+            "event_ids": [
+              "wk91_PA_006",
+              "wk91_PA_007"
+            ],
+            "developments": [
+              {
+                "development_id": "wk91_PA_006",
+                "development_label": "DHS conducted a predawn raid on Representative Ilhan Omar's home.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk91_PA_007",
+                "development_label": "Federal agents seized Omar's phone, computer, and passport in an investigation aimed at stripping her citizenship and deporting her.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A federal raid and property seizure targeted a sitting congresswoman's decades-old immigration paperwork, explicitly aimed at revoking her citizenship before her reelection.",
+            "why_exemplary": "Tier-1 corroborated use of state power against a political opponent timed before an election, raising core due-process and selective-prosecution concerns.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk91_good_faith_ex02",
+            "week": 91,
+            "event_ids": [
+              "wk91_PA_010"
+            ],
+            "developments": [
+              {
+                "development_id": "wk91_PA_010",
+                "development_label": "Trump pardoned nine of the last eleven Republican members of Congress convicted of federal crimes while DOJ pursued thirteen sitting Democrats.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A stark partisan disparity in pardons versus active prosecutions indicates that political loyalty, not conduct, determines legal outcomes.",
+            "why_exemplary": "Tier-1 corroborated systemic pattern of selective justice applied by party affiliation rather than neutral legal standards.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "ethics",
+        "pattern": "The administration concealed the sources of $330 million in ballroom renovation donations by routing funds through a nonprofit into a White House-controlled account, and separately asserted an unusually broad claim of executive privilege over all conversations regarding the Kennedy Center renovation.",
+        "severity": "serious",
+        "institutional_response": "Investigative reporting surfaced the donor list despite the opaque structure; litigation over the Kennedy Center continued with the privilege claim contested, outcome undetermined.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk91_ethics_ex01",
+            "week": 91,
+            "event_ids": [
+              "wk91_ES_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk91_ES_011",
+                "development_label": "Administration concealed sources of $330 million in ballroom donations by channeling funds through a nonprofit into a White House-controlled account.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Major federal contractors and wealthy donors funded a presidential project through an opaque nonprofit structure designed to obscure their identities.",
+            "why_exemplary": "Tier-1 corroborated pay-to-play and transparency concern involving contractors with direct business before the government funding a presidential vanity project.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk91_ethics_ex02",
+            "week": 91,
+            "event_ids": [
+              "wk91_IG_032"
+            ],
+            "developments": [
+              {
+                "development_id": "wk91_IG_032",
+                "development_label": "Administration claimed executive privilege over all conversations about renovating the Kennedy Center.",
+                "role": "primary"
+              }
+            ],
+            "summary": "An unusually sweeping privilege claim sought to shield routine administrative discussions about a presidential project from legal discovery.",
+            "why_exemplary": "Corroborated expansion of secrecy doctrine beyond historical practice, directly obstructing accountability for conduct with personal stakes.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "A conspiracy theory falsely claiming a Senate candidate was hospitalized for mental illness spread through MAGA-aligned accounts and was amplified by Elon Musk and echoed by his opponent; separately, the newly appointed White House press secretary repeatedly and falsely claimed to be a licensed attorney.",
+        "severity": "concerning",
+        "institutional_response": "The hospital and fact-checkers debunked the claim; the originator retracted only after facing legal liability; the press secretary resigned within five days amid unresolved credential questions, with the White House declining to clarify for days.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk91_truthfulness_ex01",
+            "week": 91,
+            "event_ids": [
+              "wk91_IM_002",
+              "wk91_IM_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk91_IM_002",
+                "development_label": "Elon Musk amplified a false conspiracy theory that James Talarico was hospitalized in a mental health facility.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk91_IM_004",
+                "development_label": "Ken Paxton seeded doubt about his opponent's illness, feeding the false conspiracy theory.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A disproven claim about a Senate candidate's mental health spread through partisan networks, amplified by a billionaire with direct financial stakes in the race's outcome.",
+            "why_exemplary": "Tier-1 corroborated disinformation campaign with elite amplification during an active campaign, distorting the information environment for voters.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk91_truthfulness_ex02",
+            "week": 91,
+            "event_ids": [
+              "wk91_IM_011",
+              "wk91_IM_012"
+            ],
+            "developments": [
+              {
+                "development_id": "wk91_IM_011",
+                "development_label": "Katie Zacharia repeatedly claimed to be a licensed attorney despite no record of bar admission.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk91_IM_012",
+                "development_label": "White House Press Office refused to provide documentation of her claimed legal credentials.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A senior White House official sustained false claims about her professional credentials, which the administration declined to clarify for days before her resignation.",
+            "why_exemplary": "Tier-1 corroborated falsehood from an official spokesperson role, compounded by institutional refusal to correct the record promptly.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Foreign policy toward Ukraine was conducted through unilateral announcement, sanctions relief for an adversary, and leverage over an ally's intelligence and satellite access during an active missile barrage, with responsibility for a consequential restriction later disclaimed.",
+        "severity": "serious",
+        "institutional_response": "Bipartisan congressional criticism emerged over the diesel deal; no reversal of the Starlink restriction's underlying cause was established within the week; alliance strain continued unaddressed by the administration.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk91_stewardship_ex01",
+            "week": 91,
+            "event_ids": [
+              "wk91_PA_016",
+              "wk91_PA_017"
+            ],
+            "developments": [
+              {
+                "development_id": "wk91_PA_016",
+                "development_label": "Ukraine received no advance intelligence warning of a deadly Russian missile strike.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk91_PA_017",
+                "development_label": "Starlink and Starshield speed limits were restricted for Ukraine's military during the same barrage.",
+                "role": "primary"
+              }
+            ],
+            "summary": "An ally's defenses were degraded through withheld intelligence and restricted satellite communications during an active deadly attack, with no clear accountability for the decisions.",
+            "why_exemplary": "Tier-1 corroborated erosion of wartime ally support at a moment of maximum vulnerability, undermining long-term alliance credibility.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk91_stewardship_ex02",
+            "week": 91,
+            "event_ids": [
+              "wk91_PA_018"
+            ],
+            "developments": [
+              {
+                "development_id": "wk91_PA_018",
+                "development_label": "Trump denied knowledge of who restricted Starlink access for Ukraine's military.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The president disclaimed responsibility for a policy decision that weakened an ally's wartime defenses, obscuring accountability for the choice.",
+            "why_exemplary": "Multi-source corroborated evasion of responsibility for a consequential national-security decision affecting institutional trust and alliance stewardship.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      }
+    ],
+    "norms_strengthened": [
+      {
+        "trait": "good_faith",
+        "pattern": "Courts delivered specific, binding rulings against executive overreach this week: restoring press credentials for banned outlets, extending the block on taxpayer-funded ads, blocking an unlawful agency reorganization, and halting further tree removal after finding the environmental review likely unlawful.",
+        "scope": "institutional",
+        "why_it_matters": "Repeated, specific judicial findings against the executive, including explicit judicial rebukes of government credibility, demonstrate that courts continue to function as an effective check even under sustained pressure and appeal.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk91_good_faith_strength_ex01",
+            "week": 91,
+            "event_ids": [
+              "wk91_IG_006",
+              "wk91_IG_017"
+            ],
+            "developments": [
+              {
+                "development_id": "wk91_IG_006",
+                "development_label": "Judge Kelly ruled that banning CNN, MSNBC, and Politico journalists from the White House press room violated free speech and due process.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk91_IG_017",
+                "development_label": "Judge Kelly ordered the White House to restore press credentials for the banned outlets.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A court found the administration unconstitutionally excluded journalists for unfavorable coverage and ordered their credentials restored.",
+            "why_exemplary": "Tier-1 corroborated reaffirmation of First Amendment limits on executive retaliation against the press, upheld despite government appeal.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk91_good_faith_strength_ex02",
+            "week": 91,
+            "event_ids": [
+              "wk91_IG_001",
+              "wk91_IG_016"
+            ],
+            "developments": [
+              {
+                "development_id": "wk91_IG_001",
+                "development_label": "Judge Rochon blocked DHS from running taxpayer-funded political ads and ordered cancellation of scheduled placements.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk91_IG_016",
+                "development_label": "Judge Rochon extended the restraining order for 14 more days after the administration appeared to violate its own representations.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A federal court halted and then extended its block on government ad spending found likely to violate appropriations law and favor one party.",
+            "why_exemplary": "Tier-1 corroborated sustained judicial intervention protecting the separation between public funds and campaign activity.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Local prosecutors and civil-society litigants asserted independent authority over federal enforcement conduct, pursuing felony charges against an ICE agent despite agency noncooperation and filing suits over detention conditions and property seizures.",
+        "scope": "institutional",
+        "why_it_matters": "Independent local and civil-society action to check federal enforcement conduct preserves accountability mechanisms even when federal agencies resist cooperation.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk91_stewardship_strength_ex01",
+            "week": 91,
+            "event_ids": [
+              "wk91_CR_003"
+            ],
+            "developments": [
+              {
+                "development_id": "wk91_CR_003",
+                "development_label": "A local prosecutor announced consideration of felony charges against the ICE agent who struck a bystander, noting ICE's refusal to cooperate.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A local prosecutor moved to hold a federal immigration officer criminally accountable despite the agency's noncooperation with the investigation.",
+            "why_exemplary": "Corroborated assertion of local legal authority over federal conduct, testing whether enforcement agencies remain subject to outside accountability.",
+            "exemplar_type": "primary"
+          }
+        ]
+      }
+    ],
+    "direction_of_movement": "mixed_but_stable"
+  },
+  "cumulative_condition": {
+    "narrative": "Week 91 extends the trajectory established across recent weeks: an executive branch pressing against legal and ethical limits with increasing confidence, met by institutional resistance that holds specific lines without reversing the broader pattern. The raid on Representative Omar's home and the explicit goal of stripping her citizenship mark an escalation beyond earlier selective-prosecution patterns, turning the machinery of immigration enforcement directly against a sitting member of Congress ahead of her reelection. Paired with the stark pardon-versus-prosecution disparity, this week's events reinforce rather than interrupt the pattern first flagged in Week 90, where loyalty rather than conduct increasingly determines legal outcomes.\n\nForeign policy conduct toward Ukraine introduced a new dimension of concern: unilateral ceasefire announcements, sanctions relief for an active adversary, and degraded intelligence and satellite support for an ally during a lethal attack, with responsibility for the decision disclaimed rather than owned. This pattern of leverage and denial, while not identical to the financial entanglements flagged in Week 90, reflects a similar erosion of institutional stewardship, here applied to alliance commitments rather than domestic governance capacity.\n\nInstitutional resistance remained real and specific. Courts continued to deliver binding rulings against executive overreach on press access, taxpayer-funded advertising, agency reorganization, and unlawful land clearing, with judges using unusually direct language about lost government credibility. Local prosecutors asserted independent authority over federal enforcement conduct despite agency noncooperation. These responses, consistent with the pattern described in the Week 90 summary, continue to depend on sustained litigation and individual institutional courage rather than any structural check operating automatically. The moral floor remains under serious, sustained pressure, with the equilibrium between executive testing and institutional resistance persisting into a second consecutive high-intensity week.",
+    "trend": "deteriorating",
+    "stress_points": [
+      "federal enforcement power turned against a sitting member of Congress",
+      "stark partisan disparity between pardons and prosecutions",
+      "opaque financing of presidential projects through donor-concealing structures",
+      "degraded ally defenses and disclaimed responsibility in wartime foreign policy",
+      "disinformation amplified by elite, financially interested platform owners",
+      "sustained defiance of specific court orders pending appeal"
+    ],
+    "sources_of_resilience": [
+      "judicial rulings restoring press credentials and blocking unlawful ad spending",
+      "explicit judicial rebukes of government credibility and noncompliance",
+      "local prosecutorial assertion of authority over federal enforcement conduct",
+      "civil-society litigation over detention conditions and property seizures",
+      "investigative journalism surfacing concealed donor networks",
+      "bipartisan congressional criticism of foreign-policy decisions harming an ally"
+    ]
+  },
+  "risk_assessment": {
+    "level": "critical",
+    "justification": "The use of federal investigative and enforcement power against a sitting member of Congress, explicitly aimed at revoking her citizenship weeks before an election, represents one of the most direct uses of state power against a political opponent observed in this trajectory. Combined with a stark pardon-versus-prosecution disparity along party lines, this suggests legal consequence is increasingly contingent on political loyalty rather than conduct. Continued defiance of specific court orders on advertising and land use, even as courts extend and enforce those orders, indicates the executive treats judicial rulings as negotiable rather than binding. Foreign policy conducted through unilateral announcement and disclaimed responsibility for decisions that degraded an active ally's wartime defenses adds a dimension of institutional risk extending beyond domestic governance into alliance credibility.\n\nThe risk level remains critical rather than escalating to severe because institutional resistance this week was specific, repeated, and at times successful: courts restored press credentials, extended injunctions, and used unusually pointed language to describe government noncompliance; a local prosecutor pursued accountability for federal enforcement conduct despite agency obstruction; and investigative reporting surfaced concealed donor arrangements despite efforts at opacity. These responses demonstrate that institutional capacity to resist has not collapsed, but it continues to depend entirely on sustained litigation, individual official courage, and media scrutiny rather than any structural check operating automatically or proactively.",
+    "forward_signals": [
+      "outcome of Omar's legal challenge to the search and seizure, and whether citizenship-stripping proceedings advance",
+      "whether the administration complies with or continues to appeal the press credential and advertising rulings",
+      "developments in the Houston prosecutor's case against the ICE agent despite federal noncooperation",
+      "whether responsibility for the Starlink restriction and withheld intelligence to Ukraine is ever clearly established",
+      "Supreme Court proceedings in Republican National Committee v. Mi Familia Vota and CREW v. DOGE",
+      "whether DOJ's California voter-roll lawsuit succeeds in delaying certified vote counts"
+    ]
+  }
+}

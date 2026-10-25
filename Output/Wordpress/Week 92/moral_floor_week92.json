@@ -1,0 +1,379 @@
+{
+  "week_number": 92,
+  "period_label": "Week 92",
+  "window": {
+    "start": "2026-10-17",
+    "end": "2026-10-23"
+  },
+  "clock_time_public": "7:34 p.m.",
+  "clock_delta_minutes": -0.1,
+  "baseline_traits": [
+    {
+      "name": "character",
+      "definition": "Internal discipline to align words with deeds, to place public duty ahead of personal gain, and to honour the oath of office even when it conflicts with short-term advantage."
+    },
+    {
+      "name": "ethics",
+      "definition": "Commitment to keep a firm boundary between public power and private interest, avoiding conflicts of interest, self-dealing, and the use of office to enrich oneself, family, or allies."
+    },
+    {
+      "name": "restraint",
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+    },
+    {
+      "name": "truthfulness",
+      "definition": "Obligation to speak accurately on matters of public consequence, avoid deliberate disinformation, correct false statements, and ensure that citizens are not governed by manufactured unreality."
+    },
+    {
+      "name": "good_faith",
+      "definition": "Adherence to the spirit as well as the letter of democratic rules, keeping promises, respecting outcomes, and avoiding procedural manipulation that defeats the purpose of the law."
+    },
+    {
+      "name": "stewardship",
+      "definition": "Responsibility to maintain and strengthen institutions so they can serve future generations as well as the present, avoiding actions that permanently damage capacity, credibility, or public trust."
+    }
+  ],
+  "weekly_audit": {
+    "summary": "Week 92 continued the pattern of executive unilateralism tested against institutional resistance that neither side decisively won. A president waived bipartisan sanctions on a wartime adversary, arranged to purchase its diesel fuel, and declined to explain who restricted an ally's military satellite communications during heavy bombardment, while simultaneously defending the private executive implicated in that decision. Federal law enforcement was turned against a sitting congresswoman weeks before her reelection, with a senior official publicly floating denaturalization as a possible consequence. Pre-election voter-fraud enforcement expanded dramatically, departing from a decades-old DOJ norm of electoral-season restraint, even as a federal judge curtailed DHS's underlying methodology as unreliable. Campaign conduct degraded further with a widely condemned attack ad and a sitting vice president's call for the opposition to receive 'an ass kicking.' Courts, a federal judge, bipartisan senators, and a former president provided meaningful, specific resistance, but none of it reversed the broader trajectory of executive confidence in acting first and explaining later, if at all.",
+    "norms_broken": [
+      {
+        "trait": "stewardship",
+        "pattern": "The president waived congressionally mandated Russia sanctions, arranged purchase of Russian diesel fuel, and refused to clarify who ordered restrictions on Ukraine's Starshield satellite communications during intense bombardment, while defending the implicated private executive unconditionally.",
+        "severity": "extreme",
+        "institutional_response": "Bipartisan senators demanded investigations and threatened funding consequences; Congress members called for veto-proof legislation to counter the policy; no reversal of the underlying sanctions relief occurred within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk92_stewardship_ex01",
+            "week": 92,
+            "event_ids": [
+              "wk92_PA_001",
+              "wk92_ES_021"
+            ],
+            "developments": [
+              {
+                "development_id": "wk92_PA_001",
+                "development_label": "President waived bipartisan congressional sanctions on Russia by executive order during an active war.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk92_ES_021",
+                "development_label": "Administration suspended recently enacted Russia sanctions it had itself signed into law.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The president unilaterally negated bipartisan sanctions on a wartime adversary, easing economic pressure on Russia even as Ukraine absorbed attacks.",
+            "why_exemplary": "Tier-1 corroborated unilateral reversal of legislative consensus on wartime policy, directly undermining congressional authority over foreign affairs.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk92_stewardship_ex02",
+            "week": 92,
+            "event_ids": [
+              "wk92_IM_023",
+              "wk92_IM_027"
+            ],
+            "developments": [
+              {
+                "development_id": "wk92_IM_023",
+                "development_label": "President refused to disclose who ordered Starshield restrictions and defended Musk unconditionally.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk92_IM_027",
+                "development_label": "Musk reportedly ordered a Starlink slowdown during one of the war's worst bombardments of Ukraine.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "A private executive's apparent unilateral degradation of an ally's wartime communications went unexplained, with the president shielding him from accountability.",
+            "why_exemplary": "Tier-1 corroborated breakdown of accountability over a decision with direct, lethal consequences for an allied nation's defense capacity.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "good_faith",
+        "pattern": "Federal agents searched a sitting congresswoman's home and seized her phone weeks before her reelection; a senior administration official then publicly floated denaturalization and deportation as possible consequences of the underlying investigation.",
+        "severity": "extreme",
+        "institutional_response": "Omar's attorneys alleged unlawful election interference; a former president publicly condemned the targeting as a threat to constitutional protections; no independent body halted the underlying investigation within the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk92_good_faith_ex01",
+            "week": 92,
+            "event_ids": [
+              "wk92_PA_003",
+              "wk92_PA_004"
+            ],
+            "developments": [
+              {
+                "development_id": "wk92_PA_003",
+                "development_label": "DOJ searched Rep. Ilhan Omar's home and seized her phone in an immigration-paperwork investigation.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk92_PA_004",
+                "development_label": "Tom Homan stated denaturalization and deportation of Omar is possible.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Federal law enforcement searched a sitting congresswoman's home and a senior official floated stripping her citizenship, weeks before her reelection.",
+            "why_exemplary": "Tier-1 corroborated use of denaturalization machinery, historically reserved for fraud and terrorism, floated against a political critic ahead of an election.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk92_good_faith_ex02",
+            "week": 92,
+            "event_ids": [
+              "wk92_PA_006"
+            ],
+            "developments": [
+              {
+                "development_id": "wk92_PA_006",
+                "development_label": "Barack Obama condemned the federal targeting of Omar and warned of broader threats to democratic norms.",
+                "role": "primary"
+              }
+            ],
+            "summary": "A former president publicly broke precedent to warn that weaponizing federal law enforcement against a political opponent endangers protections for all citizens.",
+            "why_exemplary": "Multi-source corroborated elite recognition that the episode crossed a meaningful line in the treatment of elected dissent.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "DOJ abandoned the decades-old norm against election-season enforcement, staging a theatrical armed arrest of an elderly green card holder with promotional video, charging dozens more for voting offenses, suing California over ballot tabulation, and deploying triple the usual number of federal election monitors.",
+        "severity": "serious",
+        "institutional_response": "A federal judge restricted DHS voter-citizenship investigations across nine states as unreliable; the broader prosecutorial surge proceeded largely unchecked otherwise.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk92_restraint_ex01",
+            "week": 92,
+            "event_ids": [
+              "wk92_CR_017",
+              "wk92_IM_010"
+            ],
+            "developments": [
+              {
+                "development_id": "wk92_CR_017",
+                "development_label": "DOJ staged an armed, publicized arrest of a 72-year-old green card holder in a voter fraud operation.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk92_IM_010",
+                "development_label": "DOJ released a promotional video of the arrest styled with music under 'Operation Protect the Vote.'",
+                "role": "primary"
+              }
+            ],
+            "summary": "A dramatized, pre-indictment arrest of an elderly permanent resident was packaged as political messaging suggesting widespread voter fraud.",
+            "why_exemplary": "Multi-source corroborated spectacle-driven enforcement departing from norms of prosecutorial restraint and due process presentation.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk92_restraint_ex02",
+            "week": 92,
+            "event_ids": [
+              "wk92_CR_021",
+              "wk92_IG_014"
+            ],
+            "developments": [
+              {
+                "development_id": "wk92_CR_021",
+                "development_label": "DOJ abandoned the traditional 60-day pre-election neutrality rule for enforcement actions.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk92_IG_014",
+                "development_label": "A federal judge restricted DHS voter-citizenship investigations across nine states, citing unreliable data.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Abandonment of a longstanding norm against election-season enforcement was partially checked when a court found the underlying investigative data unreliable.",
+            "why_exemplary": "Tier-1 corroborated departure from institutional self-restraint, offset by judicial intervention limiting its reach.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "The president and vice president defended and amplified a campaign ad weaponizing an opponent's documented childhood abuse trauma, with Vance telling rally crowds Democrats deserved 'an ass kicking,' drawing bipartisan condemnation including from a Republican governor.",
+        "severity": "concerning",
+        "institutional_response": "A Republican governor publicly condemned the ad; the president attacked him for doing so; corporate PAC money helped fund the ad despite backlash.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk92_character_ex01",
+            "week": 92,
+            "event_ids": [
+              "wk92_CR_013",
+              "wk92_PA_011"
+            ],
+            "developments": [
+              {
+                "development_id": "wk92_CR_013",
+                "development_label": "Trump endorsed and defended the campaign ad attacking Amy Acton using her estranged mother's allegations.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk92_PA_011",
+                "development_label": "Trump attacked Ohio Governor DeWine for criticizing the ad.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The president defended an ad weaponizing a candidate's abuse trauma and publicly punished a fellow Republican governor for condemning it.",
+            "why_exemplary": "Multi-source corroborated normalization of personal-trauma attacks in campaigns, paired with pressure against independent intra-party judgment.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "truthfulness",
+        "pattern": "Administration officials characterized the Starshield restriction as a routine private business matter, and a fabricated polling scandal plus a Russian disinformation operation targeting a Senate candidate further degraded the shared factual basis for the election.",
+        "severity": "serious",
+        "institutional_response": "Journalistic investigation and bipartisan senators pressed for the facts; the administration did not clarify the chain of responsibility by week's end.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk92_truthfulness_ex01",
+            "week": 92,
+            "event_ids": [
+              "wk92_IM_015",
+              "wk92_IM_021"
+            ],
+            "developments": [
+              {
+                "development_id": "wk92_IM_015",
+                "development_label": "A pollster admitted fabricating survey data republished by major outlets and included in national tracking.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk92_IM_021",
+                "development_label": "A Russian disinformation operation spread fabricated misconduct claims against a Democratic Senate candidate via bot networks and verified accounts.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Fabricated polling data and a foreign disinformation campaign both entered the mainstream information ecosystem ahead of the midterms.",
+            "why_exemplary": "Corroborated multi-source evidence of deliberate falsification polluting the electorate's factual basis for decision-making during an active campaign.",
+            "exemplar_type": "primary"
+          }
+        ]
+      }
+    ],
+    "norms_strengthened": [
+      {
+        "trait": "good_faith",
+        "pattern": "Federal courts repeatedly ruled against executive overreach this week: dismissing the sanctuary-city lawsuit, declining to disqualify a judge from the golf course case, blocking enforcement of restrictions on transgender prisoner care, ordering Trump to sit for deposition in the BBC suit, and restricting DHS's unreliable voter-citizenship methodology.",
+        "scope": "institutional",
+        "why_it_matters": "Specific, binding judicial rulings against the executive, issued even as the administration tested compliance repeatedly, demonstrate that courts continue to function as a working check on power.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk92_good_faith_strength_ex01",
+            "week": 92,
+            "event_ids": [
+              "wk92_IG_013",
+              "wk92_IG_002"
+            ],
+            "developments": [
+              {
+                "development_id": "wk92_IG_013",
+                "development_label": "Judge Lett ordered Trump to sit for deposition in his lawsuit against the BBC, threatening sanctions.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk92_IG_002",
+                "development_label": "Judge Reyes denied motions to disqualify her from the golf course case and to extend the TRO.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Federal judges affirmed that ordinary legal process, including deposition and recusal standards, applies to the president without exception.",
+            "why_exemplary": "Tier-1 corroborated assertion of judicial independence against direct executive efforts to evade or reshape litigation involving the president personally.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk92_good_faith_strength_ex02",
+            "week": 92,
+            "event_ids": [
+              "wk92_IG_011",
+              "wk92_IG_014"
+            ],
+            "developments": [
+              {
+                "development_id": "wk92_IG_011",
+                "development_label": "SCOTUS refused the administration's emergency appeal to enforce restrictions on gender-affirming care for transgender prisoners.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk92_IG_014",
+                "development_label": "A federal judge restricted DHS voter-citizenship investigations across nine states, citing unreliable data.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Courts declined to let contested or data-flawed executive actions proceed unchecked, preserving protections pending further litigation.",
+            "why_exemplary": "Corroborated judicial insistence on evidentiary and legal standards even under time pressure from the executive and the election calendar.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "Bipartisan senators demanded investigation and testimony from Elon Musk over the Starshield restrictions and threatened funding consequences for responsible officials, a rare instance of cross-party institutional reflex on a national-security matter close to the administration.",
+        "scope": "cross-partisan",
+        "why_it_matters": "Bipartisan congressional pushback on a matter touching executive and private-sector overreach demonstrates that oversight capacity has not been fully captured by partisanship, even in a highly polarized election period.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk92_stewardship_strength_ex01",
+            "week": 92,
+            "event_ids": [
+              "wk92_IG_016",
+              "wk92_IG_008"
+            ],
+            "developments": [
+              {
+                "development_id": "wk92_IG_016",
+                "development_label": "Senators Tillis, Cramer, and Schiff called for investigation and testimony from Musk over Starlink restrictions.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk92_IG_008",
+                "development_label": "Bipartisan lawmakers vowed to hold accountable whoever restricted Starshield and threatened funding cuts.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Senators from both parties publicly demanded accountability for a decision degrading an ally's wartime communications, regardless of political cost.",
+            "why_exemplary": "Tier-1 corroborated cross-partisan oversight action on a matter directly touching the administration and a politically influential private executive.",
+            "exemplar_type": "primary"
+          }
+        ]
+      }
+    ],
+    "direction_of_movement": "mixed_but_stable"
+  },
+  "cumulative_condition": {
+    "narrative": "Week 92 continues, with little net change, the equilibrium described at the close of Week 91: an executive branch that treats unilateral action as routine, met by institutions that still occasionally say no with enough force to matter. The targeting of Representative Omar escalated from search and seizure to open official discussion of denaturalization, extending a pattern first flagged last week in which the machinery of immigration enforcement is turned against sitting political critics. The DOJ's abandonment of its own sixty-day pre-election enforcement norm, paired with theatrical arrests and expanded prosecutions, represents a further erosion of restraint around electoral neutrality, though a federal judge's findings about unreliable DHS data provided a meaningful partial check.\n\nForeign policy conduct toward Russia and Ukraine deepened the concerns raised in Week 91 rather than introducing a new dimension. Sanctions waivers, a Russian diesel purchase, and an unexplained restriction on Ukraine's wartime satellite communications, compounded by the president's refusal to identify who was responsible, show the same pattern of leverage exercised without accountability that defined the prior week's assessment. The notable development this week was the breadth and intensity of bipartisan congressional reaction, a sign that even allies within the president's own party recognize the stakes when a private citizen appears to hold decisive power over an ally's battlefield communications.\n\nInstitutional resistance this week was specific and, in places, effective: courts ordered the president to sit for deposition, declined to let a judge be removed from a case testing executive compliance, blocked enforcement of a contested policy on transgender prisoners, and restricted flawed voter-fraud investigative methods. A former president's public intervention against the targeting of a sitting lawmaker, and genuinely bipartisan congressional alarm over the Starshield episode, suggest the floor has not given further way this week, even as individual breaches (particularly the denaturalization threat against an elected official and the weaponization of a survivor's trauma in a campaign ad) mark continued erosion at the margins. The overall trajectory remains one of sustained, serious pressure without structural collapse.",
+    "trend": "deteriorating",
+    "stress_points": [
+      "federal investigative power turned against a sitting member of Congress, with denaturalization floated as a consequence",
+      "abandonment of DOJ's pre-election enforcement neutrality norm",
+      "unexplained executive and private-sector control over an ally's wartime communications",
+      "normalization of personal-trauma attacks in campaign conduct, defended at the highest levels",
+      "fabricated polling data and foreign disinformation entering mainstream political discourse",
+      "corporate financial entanglement with the administration via donations and settlements"
+    ],
+    "sources_of_resilience": [
+      "federal courts ordering deposition, denying disqualification motions, and restricting flawed investigations",
+      "bipartisan congressional demand for accountability over Starshield restrictions",
+      "a former president's public condemnation of enforcement power used against a political critic",
+      "state attorneys general pursuing accountability for unrelated but serious misconduct (Epstein associates)",
+      "investigative journalism surfacing fabricated polling and corporate donor arrangements",
+      "a Republican governor's willingness to break with the president over campaign ethics"
+    ]
+  },
+  "risk_assessment": {
+    "level": "critical",
+    "justification": "The open floating of denaturalization against a sitting member of Congress, following the prior week's raid on her home, represents a continued and deepening use of state power against a political critic ahead of an election, raising the same category of concern identified as critical last week. The administration's abandonment of a decades-old DOJ norm against election-season enforcement, combined with theatrical, publicized arrests and lawsuits seeking to block ballot tabulation, compounds the risk to electoral legitimacy. The unexplained restriction of an ally's wartime satellite communications, paired with the president's refusal to identify responsibility and his unconditional defense of the private executive implicated, signals a persistent erosion of stewardship over alliance commitments and accountability norms alike.\n\nThe risk level remains critical rather than escalating to severe because institutional resistance this week was concrete and, in several instances, successful: courts ordered the president to sit for deposition, preserved protections against contested policy enforcement, and curtailed investigative methods found to be unreliable. Bipartisan congressional pressure on the Starshield matter and a former president's public rebuke of the targeting of a sitting lawmaker indicate that cross-partisan and institutional reflexes have not disappeared. These checks, however, continue to depend on sustained litigation, individual courage, and media scrutiny rather than any automatic structural safeguard, leaving the system vulnerable to further erosion if this pattern continues unchecked into the final stretch before the midterms.",
+    "forward_signals": [
+      "whether denaturalization proceedings against Omar actually advance or remain rhetorical",
+      "outcomes of DOJ's California lawsuit seeking to block certain ballots from being counted",
+      "whether responsibility for the Starshield restriction is ever clearly and publicly established",
+      "scope and findings of the bipartisan Senate investigation into Musk's role in Starlink/Starshield",
+      "whether DOJ's abandonment of the 60-day election neutrality norm persists into the final pre-election week",
+      "further developments in the Omar search litigation and any denaturalization filing"
+    ]
+  }
+}

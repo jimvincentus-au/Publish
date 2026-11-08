@@ -1,0 +1,275 @@
+{
+  "week_number": 94,
+  "period_label": "Week 94",
+  "window": {
+    "start": "2026-10-31",
+    "end": "2026-11-06"
+  },
+  "clock_time_public": "7:33 p.m.",
+  "clock_delta_minutes": -0.5,
+  "baseline_traits": [
+    {
+      "name": "character",
+      "definition": "Internal discipline to align words with deeds, to place public duty ahead of personal gain, and to honour the oath of office even when it conflicts with short-term advantage."
+    },
+    {
+      "name": "ethics",
+      "definition": "Commitment to keep a firm boundary between public power and private interest, avoiding conflicts of interest, self-dealing, and the use of office to enrich oneself, family, or allies."
+    },
+    {
+      "name": "restraint",
+      "definition": "Willingness to limit one's own use of power even when the rules would technically permit more, recognising that democratic authority depends on self-limitation and respect for norms."
+    },
+    {
+      "name": "truthfulness",
+      "definition": "Obligation to speak accurately on matters of public consequence, avoid deliberate disinformation, correct false statements, and ensure that citizens are not governed by manufactured unreality."
+    },
+    {
+      "name": "good_faith",
+      "definition": "Adherence to the spirit as well as the letter of democratic rules, keeping promises, respecting outcomes, and avoiding procedural manipulation that defeats the purpose of the law."
+    },
+    {
+      "name": "stewardship",
+      "definition": "Responsibility to maintain and strengthen institutions so they can serve future generations as well as the present, avoiding actions that permanently damage capacity, credibility, or public trust."
+    }
+  ],
+  "weekly_audit": {
+    "summary": "This week continued an aggressive executive campaign to shape or override an election outcome through coercive prosecutorial threats, preemptive certification litigation, and targeting of election officials and opposing lawyers, while the election itself proceeded and produced results the administration could not reverse. Nearly every discrete attempt to interfere with ballot processing, certification, or voter-list disclosure was rejected by courts, often emphatically and repeatedly, including by the Supreme Court twice in the same matter. After the vote, the president responded with denial, spectacle, and a consolidation of loyalist control rather than acknowledgment of the result, while incoming congressional leadership signaled intent to use restored oversight and confirmation powers. The pattern is one of sustained bad-faith pressure substantially, though not completely, checked by durable institutional resistance.",
+    "norms_broken": [
+      {
+        "trait": "good_faith",
+        "pattern": "DOJ pursued parallel efforts to block Alaska Senate certification contingent on a Republican loss and to threaten California election officials with prosecution over disputed ballots, conditioning legal process on partisan electoral outcomes before results were final.",
+        "severity": "extreme",
+        "institutional_response": "Courts rejected every such effort: a judge dismissed the Alaska suit as meritless, the Supreme Court twice declined to disturb California's ballot count, and a separate judge issued a TRO against threats to election workers.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk94_good_faith_ex01",
+            "week": 94,
+            "event_ids": [
+              "wk94_PA_002",
+              "wk94_IG_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk94_PA_002",
+                "development_label": "DOJ filed suit to block Alaska Senate certification if the Republican lost.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk94_IG_009",
+                "development_label": "A federal judge dismissed the DOJ certification-blocking suit as meritless.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The executive branch sued to preemptively override a state's certification of a federal election contingent on partisan outcome; a judge dismissed the suit outright.",
+            "why_exemplary": "Tier-1 corroborated instance of litigation explicitly conditioned on electoral outcome, directly threatening peaceful transfer of power before any vote was finalized.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk94_good_faith_ex02",
+            "week": 94,
+            "event_ids": [
+              "wk94_PA_001",
+              "wk94_IG_001"
+            ],
+            "developments": [
+              {
+                "development_id": "wk94_PA_001",
+                "development_label": "DOJ threatened California election officials with prosecution over processing contested ballots.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk94_IG_001",
+                "development_label": "A judge issued a TRO barring DOJ from threatening election workers.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Federal prosecutors threatened state election workers with jail time to coerce compliance with a disputed ballot list, until a court intervened to stop it.",
+            "why_exemplary": "Multi-source corroborated coercion of nonpartisan administrators during active vote processing, halted only by judicial order.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "character",
+        "pattern": "After a decisive midterm defeat, the president deflected blame onto Fox News, staged a ballroom event celebrating a personal construction project rather than addressing the outcome, and issued a proclamation to lock in his personal design preferences for the Oval Office for future administrations.",
+        "severity": "concerning",
+        "institutional_response": "Media widely reported the deflection and spectacle; no formal institutional check applies to presidential rhetoric or self-promotion of this kind.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk94_character_ex01",
+            "week": 94,
+            "event_ids": [
+              "wk94_PA_008",
+              "wk94_PA_009"
+            ],
+            "developments": [
+              {
+                "development_id": "wk94_PA_008",
+                "development_label": "President deflected blame for midterm losses onto Fox News.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk94_PA_009",
+                "development_label": "President held a White House event touting his ballroom renovation the day after the rout.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Facing a significant electoral rebuke, the president avoided accountability through blame-shifting and a self-promotional event rather than substantive response.",
+            "why_exemplary": "Tier-1 corroborated pattern of placing personal image management ahead of acknowledging public judgment, core to the character definition's concern for aligning words with duty.",
+            "exemplar_type": "primary"
+          }
+        ]
+      },
+      {
+        "trait": "restraint",
+        "pattern": "DOJ continued issuing target letters to Democratic election lawyers, pressed criminal investigations into election officials and campaign tactics without identified crimes, and the president publicly attacked a voting-rights attorney and a Senate candidate with hostile rhetoric aimed at discouraging advocacy and participation.",
+        "severity": "serious",
+        "institutional_response": "Courts and some DOJ leadership departures reflected internal and external pushback, but the prosecutorial pressure campaign itself continued largely unabated through the week.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk94_restraint_ex01",
+            "week": 94,
+            "event_ids": [
+              "wk94_PA_006",
+              "wk94_PA_005"
+            ],
+            "developments": [
+              {
+                "development_id": "wk94_PA_006",
+                "development_label": "President publicly attacked voting rights lawyer Marc Elias by name, branding him a criminal.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk94_PA_005",
+                "development_label": "President delivered Islamophobic attacks on Senate candidate Abdul El-Sayed at an Iowa rally.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "The president used his platform to brand a private attorney and a federal candidate as threats, aiming to chill legal advocacy and delegitimize an opponent.",
+            "why_exemplary": "Tier-1 corroborated use of presidential rhetoric against named private and political actors engaged in lawful activity, reflecting absence of self-limitation.",
+            "exemplar_type": "primary"
+          }
+        ]
+      }
+    ],
+    "norms_strengthened": [
+      {
+        "trait": "good_faith",
+        "pattern": "Courts rejected nearly every executive attempt to interfere with certification, ballot counting, or voter-list disclosure this week, with the Supreme Court declining twice to disturb California's count and multiple district courts blocking coercive or unlawful administration actions.",
+        "scope": "institutional",
+        "why_it_matters": "Consistent, repeated judicial rejection across multiple jurisdictions and legal theories demonstrates that courts retained the capacity and will to enforce electoral integrity against sustained executive pressure.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk94_good_faith_strength_ex01",
+            "week": 94,
+            "event_ids": [
+              "wk94_IG_010",
+              "wk94_IG_021"
+            ],
+            "developments": [
+              {
+                "development_id": "wk94_IG_010",
+                "development_label": "SCOTUS rejected DOJ appeals seeking to invalidate 20,000 California ballots.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk94_IG_021",
+                "development_label": "SCOTUS again rejected the administration's bid to segregate the same California ballots.",
+                "role": "primary"
+              }
+            ],
+            "summary": "The Supreme Court twice blocked a federal attempt to disenfranchise voters based on an unverified noncitizen list, reinforcing electoral integrity and federalism.",
+            "why_exemplary": "Tier-1 corroborated, repeated high-court rejection of the same overreach, demonstrating durable institutional resistance at the highest level.",
+            "exemplar_type": "primary"
+          },
+          {
+            "exemplar_id": "wk94_good_faith_strength_ex02",
+            "week": 94,
+            "event_ids": [
+              "wk94_IG_017",
+              "wk94_IG_018"
+            ],
+            "developments": [
+              {
+                "development_id": "wk94_IG_017",
+                "development_label": "A court blocked DHS from disclosing noncitizen voter lists to states.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk94_IG_018",
+                "development_label": "A court denied DOJ's bid to revive a vacated voter-list policy before the election.",
+                "role": "secondary"
+              }
+            ],
+            "summary": "Courts found the administration's voter-data policies likely exceeded statutory authority, blocking last-minute attempts to alter election administration rules.",
+            "why_exemplary": "Tier-1 corroborated judicial checks on executive overreach into voter-list policy on the eve of an election.",
+            "exemplar_type": "secondary"
+          }
+        ]
+      },
+      {
+        "trait": "stewardship",
+        "pattern": "The midterm elections produced a change in congressional control, restoring oversight, subpoena, and confirmation powers that had been dormant; incoming leaders explicitly pledged to use these tools to check executive conduct.",
+        "scope": "institutional",
+        "why_it_matters": "The return of functioning checks and balances through ordinary electoral and constitutional processes is foundational to sustaining institutional capacity for future accountability.",
+        "exemplars": [
+          {
+            "exemplar_id": "wk94_stewardship_ex01",
+            "week": 94,
+            "event_ids": [
+              "wk94_IG_026",
+              "wk94_IG_036"
+            ],
+            "developments": [
+              {
+                "development_id": "wk94_IG_026",
+                "development_label": "Robert Garcia declared intent to lead House oversight investigations into the administration.",
+                "role": "primary"
+              },
+              {
+                "development_id": "wk94_IG_036",
+                "development_label": "Chuck Schumer pledged a Senate blockade of Trump's judicial nominees.",
+                "role": "primary"
+              }
+            ],
+            "summary": "Incoming congressional leaders signaled plans to use restored majorities for oversight investigations and to check judicial appointments.",
+            "why_exemplary": "Multi-source and tier-1 corroborated evidence that constitutional checks dormant for two years are being reactivated through ordinary electoral outcomes.",
+            "exemplar_type": "primary"
+          }
+        ]
+      }
+    ],
+    "direction_of_movement": "mixed_but_stable"
+  },
+  "cumulative_condition": {
+    "narrative": "Week 94 extends directly from the extreme pressure documented in Week 93, with the same core pattern repeating and in some respects intensifying: preemptive litigation to block certification based on partisan outcome, coercive threats against election officials, target letters to opposing counsel, and prosecutorial activity against people exercising lawful political and legal rights. What changes this week is the arrival of the election itself as a concrete test, and the result was decisive. The administration's multi-front effort to condition legitimacy on favorable outcomes failed at nearly every legal checkpoint, with the Supreme Court weighing in twice against the same overreach and district courts closing off alternate avenues one by one.\n\nThe most significant structural development is not a single ruling but the restoration of divided government. Congress regained oversight, subpoena, and confirmation powers that had been effectively absent for two years, and incoming leadership immediately signaled intent to use them. This is a meaningful strengthening of the system's capacity for self-correction, distinct from and more durable than individual judicial rulings, because it restores an ongoing institutional check rather than resolving a single dispute.\n\nAt the same time, the administration's post-defeat behavior reflects continuity rather than correction: denial of responsibility, personal spectacle, proclamation-based self-memorialization, and a chief-of-staff change tightening ideological control precisely as oversight expanded. Prosecutorial pressure against election lawyers and officials continued even as the DOJ's Civil Rights Division leadership departed after a string of court losses, and a politically charged investigation into the president's rivals appears to have collapsed with its lead prosecutor's resignation. The moral floor did not deteriorate further this week relative to Week 93's extreme stress, but neither did the underlying appetite for weaponized legal pressure meaningfully recede. The net effect is a week in which hard-won institutional resistance, now reinforced by an electoral correction, roughly offset continued bad-faith conduct, producing comparative stability rather than further erosion.",
+    "trend": "holding",
+    "stress_points": [
+      "continued prosecutorial targeting of election officials and opposing lawyers",
+      "presidential rhetoric branding critics and opponents as criminals or threats",
+      "post-defeat denial and spectacle in place of accountability",
+      "proclamation-based entrenchment of personal legacy amid eroding support",
+      "consolidation of ideological control in chief-of-staff appointment amid incoming oversight"
+    ],
+    "sources_of_resilience": [
+      "repeated and decisive judicial rejection of certification and ballot-exclusion efforts",
+      "restoration of congressional oversight, subpoena, and confirmation powers via election results",
+      "DOJ leadership departures following sustained litigation losses",
+      "collapse of a politically motivated investigation after its lead prosecutor resigned",
+      "narrow but real judicial correction of retaliatory and weaponized prosecutions",
+      "voter rejection of rights-narrowing ballot measures at the state level"
+    ]
+  },
+  "risk_assessment": {
+    "level": "high",
+    "justification": "The administration's conduct this week continued to test the outer boundary of acceptable democratic practice, including litigation explicitly conditioned on partisan electoral outcomes, coercive threats against election administrators, and prosecutorial pressure against lawyers and officials engaged in lawful activity. These are serious and extreme patterns consistent with, and in some respects a continuation of, the prior week's critical-level conduct. The risk level is assessed as high rather than critical because the week also produced a concrete, favorable structural correction: the election proceeded, produced an outcome the administration could not overturn despite sustained effort, and restored congressional checks that had been absent for two years. Judicial resistance was not merely present but comprehensive, spanning the Supreme Court, multiple district courts, and several independent legal theories, all reaching the same conclusion against executive overreach.\n\nNonetheless, the underlying appetite for weaponized legal process did not visibly diminish, and the administration's response to defeat, denial, spectacle, personal entrenchment, and tightened ideological control, suggests continued resistance to normal democratic accountability going forward. The durability of this week's gains depends heavily on whether incoming oversight powers are allowed to function and whether prosecutorial targeting of political opponents and their counsel continues or escalates in response to anticipated congressional scrutiny.",
+    "forward_signals": [
+      "whether DOJ continues pursuing the Alaska ballot-stacking investigation and target letters against Democratic lawyers",
+      "whether incoming congressional oversight committees can obtain testimony and documents without executive obstruction",
+      "whether further DOJ resignations reflect accountability or evasion of anticipated subpoenas",
+      "scope and outcome of Senate confirmation blockades on judicial nominees",
+      "whether presidential rhetoric against named critics continues or escalates following electoral defeat"
+    ]
+  }
+}
